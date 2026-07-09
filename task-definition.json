@@ -1,0 +1,30 @@
+{
+  "family": "chargeback-agent-task",
+  "containerDefinitions": [
+    {
+      "name": "chargeback-agent-container",
+      "image": "image-will-be-replaced-by-github-actions",
+      "essential": true,
+      "portMappings": [
+        {
+          "containerPort": 8501,
+          "hostPort": 8501,
+          "protocol": "tcp"
+        }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/chargeback-agent-task",
+          "awslogs-region": "ap-south-1",
+          "awslogs-stream-prefix": "ecs"
+        }
+      }
+    }
+  ],
+  "requiresCompatibilities": ["FARGATE"],
+  "networkMode": "awsvpc",
+  "cpu": "1024",
+  "memory": "2048",
+  "executionRoleArn": "arn:aws:iam::553298960202:role/ecsTaskExecutionRole"
+}

@@ -33,13 +33,7 @@ jobs:
         docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
         docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
 
-    - name: Download Active Task Definition Blueprint from AWS
-      run: |
-        aws ecs describe-task-definition \
-          --task-definition chargeback-agent-task \
-          --query taskDefinition > task-definition.json
-
-    - name: Safely Inject Environment Variables and Image into Blueprint
+    - name: Safely Inject Environment Variables and Image into Local Blueprint
       id: render-container
       uses: aws-actions/amazon-ecs-render-task-definition@v1
       with:
