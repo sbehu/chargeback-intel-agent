@@ -12,4 +12,5 @@ dependencies = [
     "pinecone>=9.1.0",
     "python-dotenv>=1.2.2",
     "rank-bm25>=0.2.2",
+    "streamlit>=1.59.1",
 ]
