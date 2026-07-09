@@ -33,35 +33,26 @@ jobs:
         docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
         docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
 
-    - name: Force ECS Fargate Deployment Refresh with Environment Variables
-      env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    - name: Download Active Task Definition Blueprint from AWS
       run: |
-        # 1. Write the clean JSON structure with an empty string placeholder
-        cat << 'EOF' > base-update.json
-        {
-          "forceNewDeployment": true,
-          "taskDefinition": "chargeback-agent-task",
-          "containerOverrides": [
-            {
-              "name": "chargeback-agent-container",
-              "environment": [
-                {
-                  "name": "OPENAI_API_KEY",
-                  "value": ""
-                }
-              ]
-            }
-          ]
-        }
-        EOF
+        aws ecs describe-task-definition \
+          --task-definition chargeback-agent-task \
+          --query taskDefinition > task-definition.json
 
-        # 2. Use jq to safely inject the API key directly into the JSON structure
-        jq --arg key "$OPENAI_API_KEY" '.containerOverrides[0].environment[0].value = $key' base-update.json > ecs-update.json
+    - name: Safely Inject Environment Variables and Image into Blueprint
+      id: render-container
+      uses: aws-actions/amazon-ecs-render-task-definition@v1
+      with:
+        task-definition: task-definition.json
+        container-name: chargeback-agent-container
+        image: ${{ steps.login-ecr.outputs.registry }}/chargeback-agent:latest
+        environment-variables: |
+          OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
 
-        # 3. Execute the AWS deployment using the cleanly parsed file
-        aws ecs update-service \
-          --cluster chargeback-agent-cluster \
-          --service chargeback-agent-service \
-          --region ap-south-1 \
-          --cli-input-json file://ecs-update.json
+    - name: Deploy Revised Task Definition File to ECS Service
+      uses: aws-actions/amazon-ecs-deploy-task-definition@v2
+      with:
+        task-definition: ${{ steps.render-container.outputs.task-definition }}
+        service: chargeback-agent-service
+        cluster: chargeback-agent-cluster
+        force-new-deployment: true
