@@ -33,6 +33,13 @@ jobs:
         docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
         docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
 
-    - name: Force ECS Fargate Deployment Refresh
+    - name: Force ECS Fargate Deployment Refresh with Environment Variables
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
-        aws ecs update-service --cluster chargeback-agent-cluster --service chargeback-agent-service --force-new-deployment --region ap-south-1
+        aws ecs update-service \
+          --cluster chargeback-agent-cluster \
+          --service chargeback-agent-service \
+          --force-new-deployment \
+          --region ap-south-1 \
+          --cli-input-json "{\"forceNewDeployment\": true, \"taskDefinition\": \"chargeback-agent-task\", \"containerOverrides\": [{\"name\": \"chargeback-agent-container\", \"environment\": [{\"name\": \"OPENAI_API_KEY\", \"value\": \"$OPENAI_API_KEY\"}]}]}"
