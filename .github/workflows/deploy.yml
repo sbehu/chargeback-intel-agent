@@ -27,7 +27,7 @@ jobs:
     - name: Build, Tag, and Push Container Image to ECR
       env:
         ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
-        ECR_REPOSITORY: chargeback-intel-repo
+        ECR_REPOSITORY: chargeback-agent
         IMAGE_TAG: latest
       run: |
         docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
