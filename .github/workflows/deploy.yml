@@ -37,8 +37,8 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
-        # Write clean, standard JSON straight to a temporary configuration file
-        cat << 'EOF' > ecs-update.json
+        # 1. Write the clean JSON structure with an empty string placeholder
+        cat << 'EOF' > base-update.json
         {
           "forceNewDeployment": true,
           "taskDefinition": "chargeback-agent-task",
@@ -48,7 +48,7 @@ jobs:
               "environment": [
                 {
                   "name": "OPENAI_API_KEY",
-                  "value": "PLACEHOLDER_KEY"
+                  "value": ""
                 }
               ]
             }
@@ -56,10 +56,10 @@ jobs:
         }
         EOF
 
-        # Safely swap out the placeholder string with our true secret token value
-        sed -i "s|PLACEHOLDER_KEY|$OPENAI_API_KEY|g" ecs-update.json
+        # 2. Use jq to safely inject the API key directly into the JSON structure
+        jq --arg key "$OPENAI_API_KEY" '.containerOverrides[0].environment[0].value = $key' base-update.json > ecs-update.json
 
-        # Execute using our generated config file
+        # 3. Execute the AWS deployment using the cleanly parsed file
         aws ecs update-service \
           --cluster chargeback-agent-cluster \
           --service chargeback-agent-service \
