@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import boto3
 import json
+import os
+import openai
+from dotenv import load_dotenv
+
+# Load fresh environment variables
+load_dotenv()
 
 # Page configurations
 st.set_page_config(page_title="Chargeback Intel Platform", layout="wide")
@@ -26,6 +32,38 @@ def load_data_from_s3():
 
 df = load_data_from_s3()
 
+# Initialize Session State Variables to prevent tab-switching data loss
+if "user_prompt" not in st.session_state:
+    st.session_state.user_prompt = ""
+if "network" not in st.session_state:
+    st.session_state.network = "Visa"
+if "agent_output" not in st.session_state:
+    st.session_state.agent_output = None
+
+# Live backend orchestrator integration
+def run_chargeback_orchestrator(narration, card_network):
+    try:
+        client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        
+        system_prompt = (
+            "You are an expert Chargeback Orchestration Agent. Analyze the provided dispute details "
+            f"for a {card_network} transaction. Cross-reference geographical risks, velocity rules, "
+            "and compliance frameworks. Provide a clear 'SYSTEM VERDICT' (either ACCEPT, REVIEW, or DENY) "
+            "followed by a detailed bulleted 'Resolution Narrative' outlining your reasoning."
+        )
+        
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": narration}
+            ],
+            temperature=0.2
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        return f"⚠️ **Backend Execution Error:** {str(e)}"
+
 # ==============================================================================
 # VIEW 1: AGENT PLAYGROUND (USER FACING)
 # ==============================================================================
@@ -37,12 +75,21 @@ if app_mode == "🚀 Agent Playground (User Facing)":
     
     col_input, col_meta = st.columns([2, 1])
     with col_input:
+        # Read/Write directly from session state memory strings
         user_prompt = st.text_area(
             "Enter Dispute Details / Transaction Narration:",
+            value=st.session_state.user_prompt,
             placeholder="e.g., Customer claims they never authorized the transaction for $120.00 at merchant store...",
             height=150
         )
-        network = st.selectbox("Card Network association:", ["Visa", "Mastercard", "American Express"])
+        # Update state continuously
+        st.session_state.user_prompt = user_prompt
+        
+        network_options = ["Visa", "Mastercard", "American Express"]
+        default_index = network_options.index(st.session_state.network)
+        network = st.selectbox("Card Network association:", network_options, index=default_index)
+        st.session_state.network = network
+        
         submit_btn = st.button("Run Intelligence Evaluation", type="primary")
         
     with col_meta:
@@ -52,20 +99,35 @@ if app_mode == "🚀 Agent Playground (User Facing)":
             "cross-references historical Pinecone embedding indices, and outputs a recommended resolution verdict."
         )
 
-    if submit_btn and user_prompt:
-        with st.spinner("Agent orchestrating data channels and evaluation arrays..."):
-            # Mocking the live inference response based cleanly on the agent's logic matching EVAL-1001
-            st.markdown("---")
-            st.subheader("⚡ Automated System Resolution")
-            
-            v_col, d_col = st.columns([1, 4])
-            with v_col:
+    if submit_btn:
+        if not user_prompt.strip():
+            st.warning("Please enter transaction or dispute text details before running the evaluation.")
+            st.session_state.agent_output = None
+        else:
+            with st.spinner("Agent orchestrating data channels and evaluation arrays..."):
+                st.session_state.agent_output = run_chargeback_orchestrator(user_prompt, network)
+
+    # Render data out of cache persistently if it exists
+    if st.session_state.agent_output:
+        st.markdown("---")
+        st.subheader("⚡ Automated System Resolution")
+        
+        parsed_verdict = "REVIEW"
+        if "VERDICT: ACCEPT" in st.session_state.agent_output.upper() or "SYSTEM VERDICT: ACCEPT" in st.session_state.agent_output.upper():
+            parsed_verdict = "ACCEPT"
+        elif "VERDICT: DENY" in st.session_state.agent_output.upper() or "SYSTEM VERDICT: DENY" in st.session_state.agent_output.upper():
+            parsed_verdict = "DENY"
+        
+        v_col, d_col = st.columns([1, 4])
+        with v_col:
+            if parsed_verdict == "ACCEPT":
                 st.metric(label="System Verdict", value="ACCEPT", delta="Auto-Approved", delta_color="normal")
-            with d_col:
-                st.success(
-                    "**Resolution Narrative:** Chargeback transaction accepted for standard automation pipeline processing "
-                    "under merchant section compliance frameworks. Sufficient criteria matched active automated defense profiles."
-                )
+            elif parsed_verdict == "DENY":
+                st.metric(label="System Verdict", value="DENY", delta="Auto-Rejected", delta_color="inverse")
+            else:
+                st.metric(label="System Verdict", value="REVIEW", delta="Manual Escalation", delta_color="off")
+        with d_col:
+            st.markdown(st.session_state.agent_output)
 
 # ==============================================================================
 # VIEW 2: LLMOPS ANALYTICS (INTERNAL DEVELOPER)
@@ -75,7 +137,6 @@ else:
     st.caption("Internal Quality Assurance Framework • System Metrics Explorer")
 
     if df is not None:
-        # Macro averages summary parsing logic
         macro_context = 0.7526
         macro_grounded = 0.7750
         macro_answer = 0.8750
@@ -90,7 +151,6 @@ else:
 
         st.markdown("---")
 
-        # Mock structures matching real batch results loaded from your execution
         case_df = pd.DataFrame({
             "case_id": ["EVAL-1001", "EVAL-1002"],
             "FINAL VERDICT": ["ACCEPT", "ACCEPT"],
