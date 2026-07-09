@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8906",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28269"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14789,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding an unresolved billing dispute on a Citibank credit card and the difficulty I have had obtaining any meaningful assistance or follow-up from Citibank. \n\nBackground and timeline On XX/XX/year>, I submitted a property tax payment to the XXXX XXXX XXXX XXXX in the amount of {$2500.00} using my Citibank credit card. This payment was for tax bill number XXXX and posted to my credit card account on XX/XX/year>. \nOn XX/XX/year>, a second, duplicate charge for {$2500.00} was processed to the same merchant, the XXXX XXXX XXXX XXXX, again relating to tax bill number XXXX. \nI contacted Citibank and opened a dispute for the XX/XX/XXXX posting of the XX/XX/XXXX transaction as a duplicate. I was told that the XX/XX/XXXX transaction would remain as the valid payment. \nOn XX/XX/year>, I received an email from the XXXX XXXX XXXX XXXX stating : XXXX payment was rejected ( you received the NSF letter already ). The other payment was in error queue as unpostable since the bill at that time was already paid and was since returned to sender. Please check with your credit card issuer. \nThis email indicates that payments tied to my credit card were rejected or returned and that I should work with Citibank to resolve the issue. \nDespite this information, I later received a delinquency notice stating that tax bill XXXX was unpaid. When I contacted Citibank again, I was told that the XX/XX/XXXX payment was sent to the merchant and had not been returned, but I have not been given clear, written confirmation of the dispute status or an explanation that reconciles Citibanks records with the tax offices records. \nI have made multiple attempts by phone to reach XXXX disputes/claims department and to speak with a supervisor. I have not received a clear explanation, an up-to-date status, or a final written decision on my dispute within a reasonable time frame."
+}

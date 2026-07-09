@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2689",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48322"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35667,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Details : we were on the trip with XXXX in XXXX. We were riding taxi in XXXX XXXX  XXXX from XXXX XXXX to our XXXX XXXX XXXX. The charge on my account from XXXX XXXX XXXX XXXX XXXX. We have never been in any restaurants that day. I am not even sure such restaurant exists. The taxi driver took my card and swiped it thru his portable reader. No receipt was given to me. \nMy account is setup so I get emails as soon as any charge more then XXXX cent appears on my account. When we came to the Hotel, my phone picked up network and I received an email with this charge of {$420.00}. I immediately called Citi card and explain what happened. I didn't know if taxi driver have saved my card information on his devise and I requested cards replacement. \nThe charge is still on my account. Citi security explanation of why dispute rejected is because card was physically used. \nThere were 4 of us in the taxi - my wife and my friends. I can provide their address and phone numbers if necessary. They are the witnesses of this fraudulent charge. \nWe have been with this credit card for more then 30 year, knowing that CITI cards will protect us from any kind of fraud transactions. CITI is NOT wiling to protect us from XXXX thieves. \nPlease help. \nXXXX XXXX"
+}

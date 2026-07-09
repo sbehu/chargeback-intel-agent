@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_756",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "756XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16808,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ( along with a group of people ) stayed at the XXXX XXXX XXXX XXXX in XXXX, XXXX in XX/XX/2023. Upon check-in, the hotel made a pre- authorization on my card for things such as drinks or extras, in the amount of {$710.00}. As the money from this pre- authorization was never used, upon check-out, the hotel said it was reversing the pre- authorization, and gave me a document ( see attached ) confirming the pre-authorization ( see attached ). However, despite the fact that the hotel stated that the pre-authorization had been reversed, the amount in question remains on my card. In late XX/XX/2023, I called Barclays to file a transaction dispute ( Barclays XXXX XXXX # XXXX ) as to the transaction in question. Barclays and its employees misrecorded the reason why the transaction was being disputed. Barclays put on its records that the transaction was being disputed because I had already paid for same through some other method, when the transaction was being disputed not for that reason at all but simply because the transaction pertained to a pre-authorization ( that unduly stayed on my card ) that the merchant itself stated it had reversed. \n\nBarclays closed the dispute without even genuinely investigating it, as required by the Fair Credit Billing Act. I then wrote a letter to Barclays to request reopening the dispute, and I presented clear evidence that the merchant itself stated it had reversed the pre-authorization. Barclays again closed the dispute without even genuinely investigating it. I requested, again, for a third time, for Barclays to reopen the dispute, and Barclays again closed the dispute without investigating it. On XX/XX/2023, I called Barclays XXXX Department and was informed that my dispute had been closed again because Barclays did not receive proof that I had paid the charge being disputed through other means. This is clear proof that Barclays has not even conducted a genuine investigation ( in addition to the fact that Barclays grossly misrecorded the reason why the transaction is being disputed, as stated above ) as I never alleged that I paid the charge in question through some other means but the transaction is being disputed because it pertained to a pre-authorization ( that should not have stayed on my card ) that the merchant itself stated it had reversed.. \n\nI have, for the fourth time, written to Barclays to re-open the dispute ( Transaction Dispute # XXXX ), and Barclays has not responded to my fourth request. There is either a persistent clear misunderstanding ( as to why the charge in question is being disputed ) on the part of Barclays ( saiid clear misunderstanding would be due to Barclays own gross negligence in handling my complaint, including Barclays failure to conduct a bona fide investigation as to my dispute ), in addition to clear bad faith and intentional mishandling on the part of Barclays. \n\nOn XX/XX/2023, I called Barclays again and was informed that Barclays did not intend to reopen my dispute regardless of the evidence. This is clearly a violation of the Fair Credit Billing Act, which requires credit card companies to conduct a genuine and bona fide investigation as to each transaction dispute. In this case, it is clear that Barclays never conducted any genuine investigation whatsoever as to my dispute, as Barclays is unable to even furnish the merchants version of the facts, which I repeatedly requested to Barclays."
+}

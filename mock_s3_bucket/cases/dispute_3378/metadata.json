@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3378",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53132"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20627,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a vendor issued a refund to my Barclay Bank credit card in the amount of {$23.00}. Because I never received the credit to my card, I filed a dispute with Barclay Bank. On XX/XX/year>, Barclay Bank advised me that the issue had been resolved and I would see the credit on my next billing statement. This as never occurred, and beginning on XX/XX/XXXX, I called every single week asking why the credit was not yet reflected on my account. I kept being told that the person who answered the phone had no authority to actually do anything but that my concerns would be \" escalated. '' Every single person I spoke to could identify the issue, the credit that was due to me, and could not give me any information. On XX/XX/XXXX, the person that I spoke to advised me that a manager would call me back and I should be sure to keep my phone at my side at all times. On XX/XX/XXXX, I called back and was told that there was never any request put through for a manager to call me back the previous week. I advised them that if I did not receive a call from a manager and if my refund was not processed asap, I would be filing this complaint. I received a call from an unidentified number on XX/XX/year>, requesting personal information such as my birthdate, social security number, etc. I hung up and called Barclay Bank, and I was ultimately transferred to an account manager named XXXX. She assured me that she had processed my refund a few minutes before my call and I would see it on my account in 24 to 48 hours. It has now been five days, and there is no refund posted to my account. I am really concerned because I returned an item to a different vendor a week ago, with an expected refund to this account, and I have not yet received that refund, either. Everyone apologizes, tells me they understand why I'm upset and frustrated, but every customer service rep who answers the phone states they are unable to do any productive or give me any definitive answers, and they can not transfer me to anyone who can. I did tell the account manager, XXXX, that if I did not receive my refund as promised, I would be contacting your agency."
+}

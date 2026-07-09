@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12472",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78254"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15185,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a Citi XXXX credit card and noticed unauthorized charges that I did not make. I reported the fraud multiple times to Citi and filed several disputes. Citi replaced my card multiple times, but unauthorized charges continued to appear. Because the fraud kept happening, I eventually closed the account. \nEven after closing the account, I am still receiving billing statements and emails asking me to pay a balance of {$4600.00}. This balance includes charges that I previously reported as fraudulent. I no longer have access to the mobile app/account, which makes it difficult to review details. \nI am requesting that Citi review all previous fraud reports and disputes, remove unauthorized charges and related interest/fees, and stop attempting to collect payment for charges I did not authorize."
+}

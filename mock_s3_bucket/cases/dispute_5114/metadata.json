@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5114",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "IL",
+    "complaint_zip": "606XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45405,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citi XXXX Visa was charged for two transactions I did NOT make. \nXX/XX/XXXX -- I noticed 2 transactions totaling {$5400.00} : XXXX XXXX XXXX, {$2400.00} and XXXX XXXX XXXX, {$3000.00}. \nI called Citi immediately and said my XXXX account had been hacked and he Citi Visa card which was linked was compromised. Citi fraud dept. came back and said since I had the card the transactions must be mine. No resolution. \nI opened a second dispute as a billing dispute -- same outcome. Citi said since I had the card the transactions must be mine. \n-- Filed a police report for credit card theft -- Called XXXX  per Citi and they said there were no transactions matching my descriptions. \n-- I rarely use XXXX and never for anything over {$170.00} ( let alone {$5400.00} ). \nXXXX Citi said that I had \" experience \" with the merchant ( XXXX ), so it must be my transactions. \n-- I have no knowledge of XXXX XXXX and hope that XXXX can help. I believe Citi just blew me off. I was hacked and Citi is not living up to its promise as a customer. \n--"
+}

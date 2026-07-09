@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6760",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "850XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10504,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I booked a room at \" XXXX  XXXX XXXX XXXX '', address XXXX XXXX XXXX XXXX, XXXX, CA XXXX through the website XXXX \nBooking order # XXXX ________________________ Reservation and hotel details : The Arrival : XX/XX/year> and Departure : XX/XX/year> dates. \nAmount charged : XXXX USD This hotel seemed nice by looking at the online pictures, when I arrived a completely different story. First thing you'll notice is outside are what seems to be XXXX XXXX XXXX XXXX. \nThe first room I got, the bathroom lights were broken and the hot tub was also broken, the pumps were not working. I go back to the front desk and the associate literally, and I wish I was joking, sighed and reluctantly provided me with a second room. \nThe second room was also messed up, the hot tub pumps were not working. Clearly the service as described was not provided. I NEVER stayed more than 1 hour at the XXXX XXXX. \n\n\n____________ Hotel # 2 details : So I booked a different hotel room, same dates and had to drive 1-2 hours away. I NEVER stayed more than 1 hour at the XXXX XXXX. \nXXXX XXXX XXXX, XXXX XXXX XXXX, XXXX, CA, US. \nClearly something was wrong at the XXXX XXXX, if I had to book a different hotel for the very same dates. Doesn't take a rocket scientist to figure that out. \n\n________________________ Hotel # 1 Resolution attempts : I contacted XXXX multiple times, through the phone they pushed the conversation to email. I emailed them and they stopped responding. \n\n________________ Credit Card Dispute : I disputed the charge associated with \" XXXX XXXXXXXX XXXX XXXX '' on my Barclays XXXX XXXX XXXX XXXX XXXX credit card ending in XXXX. \nBarclays called me twice with no voicemails left, then denied and closed the dispute. \nI called back in to have it reopened, they reopened it and then they asked for evidence to be faxed in. \nI faxed in the evidence, which I have also attached here. That shows me getting the second hotel room and explaining the situation. They reviewed for about 2 weeks, then again denied the claim. \nSo here we are. I rarely make disputes and the previous ones I have opened with other credit card companies are way easier of a process and they would have approved this claim. I don't see any valid reason for Barclays to have denied this, the service by XXXX XXXX was not as described or provided. \n\n\nLastly I'm going to attach evidence for all of this and reviews on XXXX. That shows many other people complaining of the same thing. Hot tubs not working, rooms not as described, shady people outside."
+}

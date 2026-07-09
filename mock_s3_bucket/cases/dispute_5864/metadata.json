@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5864",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-29T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46776,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding dispute XXXX with American Express XXXX It involves an issue with merchant stockx where I received a damaged item, sent photo proof of the damaged item I received, and then I used the merchants return label to deliver the damaged item back. The ups tracking for the return even said RECEIVED by XXXX. The merchant provided me the return label. If their merchants return carrier lost it or misdelivered the return for the damaged item that is not my fault or my problem. I am still owed my money back. American Express does not believe I returned the item even though I used the merchants own return label and have photo evidence of that as well. American Express is being XXXX towards me due to my XXXX race and discounting my evidence."
+}

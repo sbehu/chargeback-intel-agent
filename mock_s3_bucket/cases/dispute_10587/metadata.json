@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10587",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "444XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13068,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays GM Card took 79 days to address a credit card dispute ( XXXX XXXX XXXX ) regarding a package not delivered to our home, totaling {$190.00}, and then ruled in the merchant 's favor without proof that the package was delivered to our home address. While the XXXX may have claimed delivery to our home address, there was no recording of this delivery on our XXXX XXXX camera on XX/XX/2025, at XXXXXXXX XXXX. or at any other time on that date. Obviously, the package was delivered to someone else who kept it. We have a revolving door of XXXX workers delivering mail to our address who are unfamiliar with who lives where. This is not our responsibility, as we did not receive the package, but it is the merchant 's responsibility to resolve it with XXXX. Barclays needs to reverse its decision and refund us {$190.00}. Regarding Barclays ' dispute process, someone called in late XXXX ( recall that this process took 79 days, close to the 90-day legal limit ) with a thick foreign accent that made her words incomprehensible, except that she was calling from Barclays. Given the rise of telephone scams, is this the proper business model for gathering information from its customers? In addition, they have no mechanism on their website to communicate about these disputes. I have been a loyal GM Card customer for nearly thirty years and am astonished by such indifference and poor treatment."
+}

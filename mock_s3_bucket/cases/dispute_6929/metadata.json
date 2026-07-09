@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6929",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "320XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24178,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a charge with XXXX for {$870.00} for a defective electric scooter ( XXXX XXXX. \nXXXX ). I received the item on XX/XX/year>, used it once on XX/XX/XXXX, and contacted the merchant on XX/XX/XXXX just 7 days after delivery reporting a serious steering defect and unsafe manufacturing defect. Despite providing American Express with clear, dated documentation including email correspondence, photos, and the merchants return policy, the dispute was closed multiple times ( most recently under reference number XXXX ). The merchant falsely claimed I reported the defect XXXX months after receipt, which is factually untrue and disproven by my documentation. I reopened this case XXXX times with Amex, spoke with a supervisor, submitted a formal PDF summary, and was repeatedly assured it would be reviewed fairly and that the merchant was in the wrong. Despite this, Amex closed tge case repeatedly citing the merchant 's false timeline and ignored my evidence, which included emails dated XX/XX/XXXX and a shipping confirmation dated XX/XX/XXXX. \nThis is not only a mishandled dispute its a failure of American Express to follow their investigation obligations under the Fair Credit Billing Act. I am requesting a full review and that Amex be held accountable for ignoring clearly submitted evidence and favoring a merchant who provided false statements."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6937",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33611"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7304,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a {$100.00} charge for Collision Damage Waiver ( CDW ) on my Best Buy Citi credit card from XXXX XXXX XXXX because the rental terms I agreed to when booking through a third-party platform ( XXXX XXXX ) were not honored at the time of pickup. The booking confirmation explicitly stated that CDW coverage was optional. I declined the $ XXXX CDW during booking, and the platform indicated I could either accept liability or provide coverage through my credit card. \n\nXXXX 's policy explicitly states that its terms, including insurance requirements, apply only to direct bookings made on its website ( XXXX XXXX XXXX XXXX Third-party bookings must follow the terms of the platform used to make the reservation ( XXXX XXXX ). \n\nHowever, upon arrival at XXXX XXXX XXXX location, the agent informed me that they would not release the vehicle unless I purchased CDW coverage for {$100.00}. XXXX disregarded the third-party terms and enforced its internal policy insteada clear bait-and-switch. Because I didnt have full coverage auto insurance, I had no choice but to pay the CDW charge under duress to avoid forfeiting my {$190.00} non-refundable rental reservation. \n\nWhat did the company do in response? \n\nCiti denied my dispute, categorizing it as a billing error and stating that the merchant rendered the service. They failed to review the core issue, which is a services not as described case involving merchant misrepresentation. I submitted documentation proving XXXX mandatory CDW contradicted the optional CDW terms I agreed to. Citi never addressed this discrepancy in their response.\n\nI attempted to submit a follow-up through Citis online dispute portal to request a re-review under the correct category, but the system returned an error each time. I am now turning to the CFPB for help in resolving this unfair charge."
+}

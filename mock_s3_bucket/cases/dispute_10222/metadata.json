@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10222",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "067XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37731,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding recurring unauthorized billing on my Citi Simplicity account that Citi has repeatedly failed to stop despite card replacements, disputes, locking the card, revoking authorizations, and Citis verbal assurances that the suppression of recurring merchants and Account Updater/token mechanisms was completed. \n\nOver the past year, multiple merchants continued to bill my account through XXXX Account XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. I did not consent to these recurring charges, and I repeatedly attempted to stop them. Citi verbally informed me that suppression had been applied and that recurring billing from these merchants would stop. I relied on those representations. \n\nDespite that assurance, new unauthorized charges continued to post to my account in XX/XX/XXXX : XX/XX/XXXX SP RYZESUPERFOODS {$100.00} ( pending ) XX/XX/XXXX STRONGSUIT/CALLIDUS AI {$140.00} XX/XX/XXXX DOCDRAFT SERVICE FEE {$9.00} XX/XX/XXXX XXXX {$21.00} XX/XX/XXXX AVAIL.CO SERVICES {$9.00} XX/XX/XXXX BALANCE OF NATURE {$69.00} These merchants were already part of an active dispute, which makes the continued billing a servicing failure and not a consumer failure. Citi continued to supply updated billing credentials to these merchants through Account Updater/token services even after I changed the card, locked the card, and disputed the transactions. \n\nInability to stop billing & denial of account control I have taken every consumer action available to me : changed card numbers locked the card revoked authorizations attempted to dispute individual merchants requested blocking of recurring billing requested disabling of Account Updater Despite this, Citi continued to allow merchants to bill the account using tokenized/card-on-file credentials, preventing me from stopping the harm and preventing me from exercising my dispute rights under the Fair Credit Billing Act. \n\nFailure of access to statements & records I also can not reliably access older statements online. I have been enrolled in paperless billing for years. Many earlier statements disappeared from the online portal following card changes, making it extremely difficult to identify and dispute charges in a timely manner. This impaired my ability to : view charges identify fraud dispute transactions block merchants mitigate losses This is an access and servicing failure that affected dispute timelines.\n\nRegulatory Harm Citis conduct has caused : forced utilization increases negative credit score impact ( approx. XXXX drop ) interest charges on unauthorized billing inability to stop recurring billing time and administrative burden impairment of FCBA dispute rights The over-limit condition and score drop were not consumer-driven ; they were a direct downstream result of Citi allowing unauthorized recurring merchant rebilling to continue after it represented that suppression was completed."
+}

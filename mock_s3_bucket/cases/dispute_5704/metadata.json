@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5704",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95148"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15647,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello. \n\nI booked for room at XXXX XXXX through XXXX for {$480.00} ( XX/XX/XXXX ) Booking was DENIED and REJECTED by Citi XXXX. \nI called Citi XXXX to unlock Citi XXXX XXXX. \nI was told I could use it for new booking. \nI had to book for room at XXXX XXXX through XXXX for {$480.00} ( XX/XX/XXXX ) I am disputing billing for XXXX for {$480.00} because booking was DENIED and REJECTED by Citi XXXX, which required me to book again with XXXX. \n\nCiti XXXX is unwilling to accept that the problem lies with Citi XXXX 's process and procedures as per letter dated XX/XX/2025 Case ID = XXXX"
+}

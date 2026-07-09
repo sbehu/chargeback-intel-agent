@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13337",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28311"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9139,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "When I contact the company the original intake customer service person say they understand my complaint. However, the charge continues to be reinstated. The disputes department has not resolved the matter and I continue to be charged penalties. \n\nI have asked that all penalties be frozen until the matter is resolved. I have carefully made sure that I dont continue to use the XXXX XXXX XXXXXXXX issued by Barclays . I have asked to speak with a supervisor or someone who has the authority to resolve the matter to no avail. It appears to be a practice to sever the connection which is frustrating and then you have to start all over again. \n\nI need your assistance with resolving this matter. \n\nThank you"
+}

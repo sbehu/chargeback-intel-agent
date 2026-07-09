@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11938",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10309"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30060,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express has denied my chargeback dispute twice for {$4300.00} despite my submission of a XXXX Proof of Delivery document issued by the carrier itself confirming the package was delivered to an address other than mine. I never received the item. The seller can not produce proof of delivery to my correct address. American Express has failed to conduct a reasonable investigation as required under the Fair Credit Billing Act. I am requesting CFPB intervention and reversal of this charge.. I have attached the proof of delivery to the WRONG ADDRESS!"
+}

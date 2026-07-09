@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10066",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84032"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4435,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am complaining about American Express 's denial of my dispute for fraudulent charges from a deceptive XXXX e-commerce program run by XXXX XXXX XXXX via XXXX XXXX XXXX and XXXX XXXX XXXX XXXX. The program falsely promised passive monthly income ( {$2500.00} $ XXXX ) from automated XXXX XXXX XXXX, with a money-back guarantee if not profitable in XXXX  months. I received no stores, no profits, and no refund. \nKey facts and timeline : I have been charged well over {$30000.00} for various different things regarding \" the business '' starting in XX/XX/XXXX all the way to XXXX on my Amex card for fees and inventory. \nFiled formal fraud dispute with Amex, provided details on deception and lack of value. \nAmex acknowledged dispute, issued temporary credit/hold. \nAmex denied dispute, reversed credit, claimed charges not fraudulent. \nSubmitted appeal via Amex secure Document Upload Center with evidence, including my XXXX XXXX XXXX XXXX XXXX  contacts. \nOn XX/XX/XXXX, XXXX XXXX XXXX XXXX entered a stipulated judgment against XXXX XXXX XXXX and his companies ( including XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX After a multi-year investigation, it confirms he scammed over XXXX consumers out of ~ {$7.00} XXXX ( XXXX ) with the same false promises of automated, profitable XXXX stores none delivered profitably, no refunds given despite guarantees, unauthorized charges common, and funds misused ( e.g., for crypto/personal debts ). XXXX admitted violations of Utah 's Consumer Sales Practices Act and Business Opportunity Disclosure Act ; he faces a {$7.00} XXXX judgment ( partial stay if compliant ), plus a permanent Utah ban from money-making schemes, telemarketing, or business opportunities. \nAs of XX/XX/XXXX, Amex has not reversed the denial or refunded the charges, despite this official court proof of widespread fraud matching my case. \n\nI tried resolving directly with Amex via dispute, documents, and appeal no success. Request CFPB assistance for full refund of disputed charges."
+}

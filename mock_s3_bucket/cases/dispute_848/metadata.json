@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_848",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48316"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10396,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a notification that my Best Buy Citicard payment was past due. I was confused as I had not purchased anything on the card for several months and was unaware the card had a balance. Upon review, XXXX XXXX at Best Buy charged me for a membership in XX/XX/XXXX that was cancelled in XX/XX/XXXX. At first, they refused to refund the money but eventually said they would in XXXX business days. As of 7 days, I called back to confirm the refund and their response was it takes up to 10 days. No one can tell me why the estimated timeframe changed and no refund is pending. I am receiving additional emails stating my card will be suspended and upon communicating this to Best BuyXXXX XXXX XXXX XXXX no one cared. I have the receipt of return of the membership from XX/XX/XXXX and they refuse to admit the membership was charged in error."
+}

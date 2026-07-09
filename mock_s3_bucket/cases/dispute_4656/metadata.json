@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4656",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91775"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43199,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a complaint regarding Citis handling of several disputes I submitted for transactions on my credit card. Despite following all necessary steps, I have encountered the following issues : 1. I submitted additional documentation via fax to support my disputes, but Citi failed to attach my documentation to all of my dispute cases. \n2. Citis responses to my cases were inconsistent. Even though I provided the same documentation for each dispute, Citi approved some cases and declined others without clear justification. \n3. I am unable to access Citis online dispute center to review or track the status of my disputes, further complicating the resolution process. \nGiven these issues, I am requesting that Citi conduct another review of the disputes that were previously declined. I believe my documentation supports the validity of my claims and that these cases should be approved."
+}

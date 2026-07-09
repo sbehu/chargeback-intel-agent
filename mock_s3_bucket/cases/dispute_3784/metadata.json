@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3784",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90017"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24594,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Amex will not credit me for over-billing committed by XXXX for over billing of {$300.00} per month for a gym membership, they also refuse to investigate for the billing issues made by XXXX for the following dates and case numbers in no particular order : XXXX XXXX XXXX XXXX XXXX card ends in XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXX XX/XX/XXXX corresponding card number for the charges XXXX I was over-billed for my membership which was only {$330.00}, they charged me an additional {$300.00} per month for the following months listed above. \n\nI reached out to the business last year XX/XX/XXXXXXXX  - XX/XX/XXXX in regard to the matter, they got back to me XX/XX/XXXXXXXX  via email stating they see the additional {$300.00} charges per month for each month listed above but their systems did not have the capability of reversing the charge. \n\nI CONSULTED WITH THE BUSINESS FIRST AS AMEX ALWAYS TELLS ITS CLIENTS TO DO AND WAITED FOR XXXX  RESULTS OF THEIR INVESTIGATION, HOWEVER XXXX  TOLD ME I WOULD NEED TO GO TO MY BANK THIS YEAR BUT AMEX WILL NOT DO ANYTHING. \n\nTHEY WERE ABLE TO CREDIT ME FOR XX/XX/XXXXXXXX  BUT NOT THE REST OF THE MONTHS AND THAT MAKES NO SENSE. \n\nI was directed by a customer service chat representative to make the dispute reason as follows : Ive been charged more than once for the same purchase However, the reason for the dispute is that I was overbilled or overcharged for my membership for the duration of my membership XXXX My membership dues were $ XXXX  monthly for my membership. \nI contacted the XXXX XXXX XXXX in XX/XX/XXXX and XX/XX/XXXX to inquire about them overcharging/overbilling my Amex, despite invoices showing that my monthly rate was {$330.00}. They told me they would have to investigate it and would give me a call back once they had more information. They called me back XX/XX/XXXX and the staff at the gym recommended I dispute the charges with the bank because they see that I was over-billed, but they have no way of reversing the charges on their end. \nI called back XX/XX/XXXX to get more information on why this happened. They confirmed with me that my monthly dues for my membership with XXXX should only be {$330.00} per month. I was told by XXXX  that the {$300.00} charged was for another members dues during that time but due to confidentiality reasons they could not tell me who."
+}

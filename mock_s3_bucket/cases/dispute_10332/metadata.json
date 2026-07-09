@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10332",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11224"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29233,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I ordered a coat from XXXX, I received the item and returned it on XX/XX/year> order # XXXX, the shipping # XXXX XXXX. On XX/XX/year>, I have received an email from XXXX stating that the item has been received and to allow 10 business days for the return to be completed. I have waited two weeks and still haven't received a refund, the merchant did not provide any information regarding how much longer it would take for the refund to be processed. I went ahead and opened a dispute with Citi bank on XX/XX/year>. I provided Citi with the screenshot of the email confirming that the item has been received by the merchant, I provided a shipping confirmation that the item was delivered to the warehouse with the signature of their employee. On XX/XX/year>, Citi Bank issued a letter stating that they completed investigation and that I am still responsible due to the fact that the merchandise is in my possession as it was claimed by XXXX. They are stating that they did not receive proof even though I provided it to them multiple times."
+}

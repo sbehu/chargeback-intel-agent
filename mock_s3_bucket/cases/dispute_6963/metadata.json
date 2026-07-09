@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6963",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "ID",
+    "complaint_zip": "83642"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4366,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Last year XXXX I sent to the reservation team for the booking request, and I did pay for a room by using XXXX XXXX  business credit card ending XXXX on XX/XX/XXXX. \nFor this credit card statement pleasecheck the attached. \nHowever this hotel not sure how they do it, I can never find the email conversation between me and them when this year XXXX I trying to confirm that, so I send the couple email to that reservation email to check and no one response, So I ask their XXXX to check, they also respond me to send to the reservation email to check, and still nothing respond. \nI afraid that I will not have room to stay when I was there. So I book again which is using my Amex card on XX/XX/year> for {$800.00}. And even after booking again I send the email still no one responded until I was there. And the XXXX find out oh your email is in our spam file. How ridiculous for this? If my email is in spam how do they help me to book the first room? All the conversations are all using this channel, how does last year can work and this year cant? They did make the mistake and dont want to refund for that. \nI check with them and try to resolve this, but they just suing policy to reject and only said I can keep the money for next time. But I dont even know I will be there again? Since this is too ridiculous. \n\n\nFirst email I send last year to check can I book a room, and you can see the email is reservations, XXXX This is the whole conversation that I cant find in my email, I never delete the email related to my travel, especially I will category them, but they did something to let me cant find it. \n\nSo after I asking many emails even XXXX still no response. \nI book again and even booking finish they still no response. \n\nSo overall, their system has problems, but they dont take responsibility to refund. Why I need to pay for their mistake? Even Im not using two rooms when I was there. \nTheres no way last year there email can work and this year wont. \n\nI dispute to AMEX for 6 times after I'm back all got reject by them, saying that the policy need to file 60 days, after that they can't do anything. \n\nBut XXXX XXXX is not my fault, it's the merchant made this fault and mistake why I need to pay for it? especially I didn't use that service."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4319",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93401"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26006,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted American Express as I had checks deposited that they said were not valid. I told them to review the deposits and find where they came from as the payments from my account have already been posted. I had XXXX in debt on my card I was paying off and now they said I owe XXXX. I never made purchases that would increase my debt and I closed the account because I had a XXXX balance and now they demand I pay it all. They did not investigate or try to help at all. I have asked multiple times for it to be reviewed but all they want is XXXX immediately."
+}

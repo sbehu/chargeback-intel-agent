@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4601",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "130XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44220,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I did not receive statements via mail from the credit card company but started getting them by mail in XXXX XXXX XXXX I received a statement with a balance of XXXX and immediately called them up to report fraudulent activities. The call center representatives have XXXX XXXX XXXX and I think every conversation with them was difficult, and I have been on the phone with them at least XXXX times. The next month I received a lesser statement but there was still charges on there that I was not responsible for. They also have the names of two individuals that apparently made the charges to an online vendor called Wayfair. They continued to call me and email me about making payments on these charges. I at XXXX point asked for the names they had where these items were sent. As I said XXXX XXXX XXXX but I wrote down XXXX XXXX and XXXX XXXX. The wayfair charges were eventually taken off and they sent me a statement {$800.00} plus dollars I'm sorry but I don't have the exact amount. So once again on the phone I asked for a description of the charges and as he read them off to me XXXX by XXXX I was able to tell him which were mine and which were fraudulent because what they had sent me did not list the charges on the statement. At this time on XX/XX/year> it was determined that I owed {$48.00}. I asked them to close the account pending the fraud investigation and I would go to my bank web sight and schedule the payment which I did. Unfortunately they continued to call me and email me about making payments on the account. Finally I received a call and spoke to someone from their executive branch that spoke fluent XXXX however he was unaware of the previous conversations I had over the phone about the charges. I have received another statement with no charge description of the fraudulent activity."
+}

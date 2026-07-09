@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_682",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "117XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35871,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I placed an order online with a merchant for {$160.00}. Soon after, I received an email stating that my order was unpaid. I clicked the link on the email to complete my order. I then received an email stating that my order was paid. The following day, I noticed I was charged twice for the same exact order. I tried contacting the company via phone, but they would not return my calls. When I contacted the company via email, they said that two of the same orders were placed. I asked that one of the orders be canceled because I did not need two of the exact same orders. They stated that unfortunately they could not cancel the order at this time. They instructed me to go to my local post office to cancel the package. When I went to the post office, they stated that this [ canceling the package ] is some thing that they could not do, but that the merchant should cancel the package. I contacted the company again via their app to let them know and asked for a refund. I explained that when I received the package, I would return it. The merchant said that I had to pay {$30.00} to return the {$160.00} of items. I explained that this was not my fault, but on fault of the company. I tried again to schedule a \" hotline appointment, '' but they never called. They were adamant that I would have to pay {$30.00} to return the second package. \n\nI contacted Barclays to dispute the charge on XX/XX/XXXX. I did not hear back from Barclays until XX/XX/XXXX when I received a letter in the mail stating that after review they were siding with the merchant. During this time, I was not notified about any information that Barclays may need however, I did try to contact Barclays via phone throughout the process. At no point was I able to speak to someone directly about my open dispute. After the decision of siding with the merchant was made, I sent Barclays back several pieces of evidence that shows the merchant was unwilling to except the return and that they fraudulently charged me for two of the exact same orders. Barclays dispute center only receives information/evidence via mail, which makes it very difficult to immediately hear back from Barclays. On XX/XX/2023, I received another letter from Barclays stating that they again have closed the dispute in favor of the merchant and advised me to contact the merchant directly. I contacted the merchant several times in XXXX and they were unwilling to accept the return. Now it is more than XXXX days since my initial dispute was opened and the merchant has a 30 day return policy. At this point, I am unable to even take a {$30.00} loss. \n\nBoth my husband and I have Barclays Frontier credit cards. We always pay our bills on time and have a revolving credit of several XXXX dollars. I would highly dissuade anyone from opening a frontier credit card as they are unwilling to protect their customers."
+}

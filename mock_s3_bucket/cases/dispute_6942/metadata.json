@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6942",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47656,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "recieved in the mail today XX/XX/year> about Barclay declining my dispute for {$120.00}. They stated the merchant validated the charge but I returned it in XXXX where a refund should have been processed."
+}

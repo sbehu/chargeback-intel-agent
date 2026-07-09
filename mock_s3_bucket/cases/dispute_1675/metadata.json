@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1675",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20152"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, I recently used my AMEX Everyday Visa card for 2 rentals in the month of XXXX. AMEX charged me {$24.00} per rental for premium insurance which I did not recall signing up for. When I called AMEX to report these charges they said I signed up for it in XXXX which if it was true was done deceptively. \nI made two calls to AMEX 1 ) On XX/XX/XXXX to notify AMEX about the charges. The agent said she will create a ticket and refund the amount within a week and I will receive a letter. \nWhen I didn't see the amount refunded and neither a letter I called back on XX/XX/XXXX and spoke to a supervisor by the name of XXXX who mentioned that AMEX will not be refunding this amount since the rentals were consumed. \nThis is a gross unethical practice by AMEX by using a deceptive method to get customers to sign up for premium insurance 12 years ago and then not notifying them. I have requested copy of the confirmation of my signup from XXXX but haven't received one after multiple calls. \nI would really appreciate if CFPB could look into these practices by AMEX."
+}

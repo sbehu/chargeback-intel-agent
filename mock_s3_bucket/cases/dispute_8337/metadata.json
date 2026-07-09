@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8337",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "615XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38158,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Started with receipt of credit card on XX/XX/XXXX under account ending XXXX. Card/account had been paid off as of XX/XX/XXXX. I did not activate the card but on XX/XX/XXXX I received an email from XXXX XXXX saying I owed them {$54.00}. XXXX and I are in the process of leaving this timeshare outfit, which we began this process in XX/XX/XXXX. I contacted Barclayscard and asked for a credit to card ending XXXX, which they did give me. However, on XX/XX/XXXX, I received word that it was determined not a fraud as we received a reward in points. Now, an account ending in XXXX shows up with a charge of {$54.00}. I then contacted XXXX XXXX  and explained all this. XXXX ', a XXXX XXXX XXXX employee removed an auto-renewal and hopefully I would receive a credit within 5-7 business days. It did not happen. Payment of {$54.00} was due on XX/XX/XXXX. Account ending XXXX (? ) with Barclayscard still shows {$54.00} due. I have tried to call various XXXX numbers to speak with an account rep. I have been hung up on and a \" chat '' bot, after explaining all this again, wanted me to pay {$5.00} to have a phone call with a tech person. It is not a \" tech '' problem. I should not be speaking with any XXXX people because we are trying, as I stated above, to get out of XXXX."
+}

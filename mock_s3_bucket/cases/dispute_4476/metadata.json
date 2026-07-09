@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4476",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85339"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13231,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased XXXX XXXX chargers from XXXX on XX/XX/year> which they were unable to deliver, so I requested a refund. A month later no refund so I called XXXX, and they said it was on its way, week later no refund. so, I filed a dispute with Citi card, XXXX then requested I cancel the dispute to receive my refund which I did. Still no money awarded, called XXXX again and they said they refunded the money because I won the dispute. Now Citi card is saying thou I won the disputed but canceled during the transaction I'm no longer intitled to the XXXX monies. The problem I'm having is why should I not receive the monies awarded to me XXXX sent the money to Citi card, but they will not refund the monies to my account, because I canceled the dispute. Now I'm out these monies and nothing to show for it as well as interest that Citi card is gaining"
+}

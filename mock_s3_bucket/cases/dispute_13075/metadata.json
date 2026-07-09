@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13075",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7306"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13531,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Barclays handling of a billing dispute that I believe was unfairly denied. \n\nThe transaction in question is a charge of {$1600.00} for a resort reservation in XXXX. \n\nMy husband and I were unable to travel due to circumstances outside of our control. We were denied boarding by XXXX separate airlines due to documentation requirements, despite my husband having a valid XXXX residency extension for XXXX more years. As a result, we were physically unable to reach our destination and could not use any portion of the resort stay. \n\nImportantly : We never checked in at the resort We never used any services associated with this reservation We made multiple good-faith efforts to travel We initially booked a flight with XXXX XXXX  and later rebooked with XXXX XXXX at a significantly higher cost in an effort to still make the trip. We were denied boarding by both airlines for the same reason. I have documentation confirming both bookings, both boarding denials, and refunds issued by both airlines. \n\nI filed a dispute with Barclays on the basis that the service was not received. However, Barclays denied my claim and sided with the merchant. I was not provided with a clear explanation of how this decision was reached or what evidence was used. \n\nI believe this decision is unfair because : The service paid for was never rendered I made reasonable and documented efforts to use the service The inability to travel was due to circumstances beyond my control Barclays has failed to properly consider the full context and supporting documentation of my case. \n\nI also want to note that I made direct efforts to resolve this matter with the resort. Initially, the resort indicated they were willing to offer a partial refund ( approximately 50 % of the total amount paid ). However, this offer was later withdrawn without clear explanation, and I was ultimately denied any refund or credit. \n\nThis inconsistency further demonstrates that the situation was not handled fairly and that there was room for reasonable accommodation, which was ultimately not honored."
+}

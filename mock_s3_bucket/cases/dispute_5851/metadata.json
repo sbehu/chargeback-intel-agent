@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5851",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "453XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13230,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I still receiving fraudulent charges, even after American Express claimed to block the fraud charges I still keep getting them. They are not protecting me from fraud they just keep letting fraudulent run rampant on my card with no protection!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4975",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "481XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7470,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a billing statement from Home Depot Consumer Credit Card services on or around XX/XX/year>. This billing statement indicated I made a purchase of {$1300.00} for a few items that I never heard of. I could not figure out what exactly was purchased because of the vague description on the statement. \n\nI then tried to log into my account, however I quickly realized that I never open a Home Depot account. I was able to log into my account by retrieving my username and changed the password. Online, I saw that this order was made at a Home Depot store in a city that I never have heard of in Michigan. ( Note : I tried to log into the account before writing this, but was not able to due to my SSN number not matching the name on the card? I can not remember the name of the city, but I looked it up at the time and I remember it being in the eastern part of Michigan. ) I called the credit card company, which appears to be in association with CitiBank, and explained everything. I was told this would be resolved. About XXXX weeks or so later, I received a letter saying that I was being held responsible for the charges. I called the company again, this time asking for information about the investigation. I wanted to know specifically how they came up with this decision to charge me, despite the fact that I did not make this purchase. I was told the investigation would be reopened, they asked me a couple of questions about the purchase, and then told me they would get back to me. \n\nI waiting another XXXX weeks or so and received an almost identical letter telling me the same thing : I am being held responsible for these charges. \n\nThe bill is now {$1700.00} because of fees and interest. I have not made any payments. I feel like this company could have done way more to investigate. I did not make this purchase. I did not open the credit card. I have never heard of the city in which the Home Depot is located. The items purchased were never described to me. Nobody ever tried to find out if I had these items in hand. \n\nAfter a lot of searching, I came across this website that comes highly recommended. I am hoping this nightmare will end here. \n\nThank you so much for your help."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6100",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90746"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49164,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This company claiming that they are a company located in California after making the transactions I called XXXX casino and was told that they do not have an on line casino as it is illegal to do on line gambling. I never authorized these charges to this merchant that is in XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5203",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33470"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46196,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against Citi XXXX XXXX XXXX regarding a wrongful charge on my account. Despite numerous attempts to resolve this issue, the company has continuously declined to investigate or properly address the matter. \n\nThe charge in question is not accurate, which only highlights the poor handling and lack of attention to detail from their end. The amount in dispute has been recorded inaccurately, and I believe this to be part of their failure to investigate the issue thoroughly. Not only have I not been contacted by Citi to ask for any clarification or provide further information, but every attempt I have made to resolve the issue has been shut down without consideration. \n\nI find this behavior discriminatory and abusive toward customers, as they continue to refuse an investigation into the matter. I am being treated unfairly and am left without any resolution, and Citis practices are causing me undue stress and frustration. \n\nI request that the Consumer Financial Protection Bureau look into this matter and take appropriate action to ensure that Citi XXXX XXXX XXXX abides by proper procedures and customer rights. \n\nThank you for your attention to this urgent matter."
+}

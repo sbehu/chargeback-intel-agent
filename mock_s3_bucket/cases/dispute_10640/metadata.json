@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10640",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "721XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6021,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding Citis handling of multiple credit-card disputes involving transactions processed by offshore merchants engaged in illegal and unlicensed online gambling activity. These transactions were misclassified by Citi as ordinary consumer purchases, concealing their true nature and materially interfering with accurate account monitoring, detection, and dispute resolution.\n\nThe disputed charges were unauthorized because they were illegal and materially misrepresented. Any purported authorization was conditioned on the belief that the transactions were lawful consumer purchases. Transactions arising from illegal gambling activity are void and unenforceable, and authorization obtained through misrepresentation or inaccurate merchant classification is not valid. \n\nDespite receiving notice of these issues, Citi conducted procedurally defective dispute investigations. Citi internally marked multiple disputes as resolved customer responsible with no credit issued, yet failed to provide written notice of these determinations, failed to explain the basis for denial, and failed to provide notice of my rights as required under the Fair Credit Billing Act and Regulation Z. I discovered the adverse determinations only by locating them within Citis mobile application, not through any mailed correspondence, secure message, or other formal notice.\n\nCitis actions indicate that adverse determinations were reached internally without proper consumer notification and without a reasonable or complete investigation. The resolutions fail to address the legality of the underlying transactions, instead defaulting to enforcement based on inaccurate merchant classifications. By treating illegal, misclassified gambling transactions as legitimate consumer purchases, Citi denied relief without meaningfully evaluating the substance of the dispute. \n\nThese deficiencies reflect broader failures in Citis dispute-handling process, including silent denials, lack of transparency, and reliance on misclassification rather than factual and legal analysis. Such practices undermine consumer protections and constitute unfair and deceptive conduct. \n\nTo ensure transparency and allow meaningful review, I further request that Citi identify and provide the records relied upon in reaching its dispute determinations, including : The date each dispute investigation was opened and closed Any merchant responses, chargeback documentation, or third-party reports relied upon Any internal classifications, decision codes, or notes reflecting why the disputes were marked customer responsible The date and method by which Citi contends notice of any adverse determinations was provided Any such records should be produced without redaction, except for limited redaction of non-substantive personal identifying information, so that the basis and completeness of Citis investigation can be independently evaluated. Redaction of decision rationales, investigative steps, merchant representations, or classification data would render the disclosure incomplete and non-responsive. \nAbsent production of these unredacted records, Citis investigation can not be considered reasonable or complete.\n\nI respectfully request review and corrective action by the Consumer Financial Protection Bureau, including reversal of all disputed charges, correction of any adverse account impacts, and remediation of Citis dispute-handling practices to ensure compliance with federal consumer-protection requirements."
+}

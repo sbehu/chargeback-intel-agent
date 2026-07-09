@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8280",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "333XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13099,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Consumer : XXXX XXXX, XXXX XXXX FL. \nCompany named for routing : American Express National Bank. \nMerchant : XXXX The Galleria at XXXX XXXX, XXXX XXXX XXXX XXXX XXXX XXXX, XXXX XXXX FL XXXX. Phone XXXX. \nCorporate reference : XXXX XXXX, XXXX XXXX XXXX, XXXX OH XXXX. Phone XXXX. \nOwnership and repairs : We own both rings. Both repair orders are in my name with the merchant. \nPurchase and protection : XXXX matching tungsten wedding bands with diamonds. Each ring was sold with XXXX XXXX XXXX coverage. \nDefects : My XXXX XXXX XXXX  with XXXXXXXX diamonds  faded from XXXX to dull gray again. My husbands tungsten band with XXXX diamonds has XXXX diamonds that turned orange. The official jeweler could not correct either issue, and a later store cleaning did not correct the orange diamonds. These are product and quality failures, not wear and tear. \nDefective merchandise : The orange discoloration on XXXX diamonds raises a reasonable concern about authenticity or undisclosed treatments, and I request a written technical explanation and, if needed, independent gemological verification. \nTimeline : On XX/XX/year> the store took both rings for evaluation, and the store still has both rings. \nPrior handling : When the same fading happened previously to my XXXX band, XXXX provided a new band without requiring me to purchase a new plan. \nCurrent business position : The company stated that replacement merchandise is not covered under our existing plans and that we must purchase new LIFETIME PROTECTION PLANS to have coverage on any replacement rings. I do not agree to purchase new plans. \nStatus today : I am requesting a like kind exchange and continuation of our XXXX XXXX XXXX already paid for. I am not seeking a refund or a credit. I prefer written communications due to a medical eye condition. Please preserve both rings in their current condition while this is resolved. \nCase references : XXXX corporate case XXXX. BBB Complaint XXXX."
+}

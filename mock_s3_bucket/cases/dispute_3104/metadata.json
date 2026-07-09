@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3104",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "553XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6563,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX Citi Bank sent me a email telling me of possible fraud purchase.They canceled this card and said they would send me a new one which I refused but receives anyway. I never used the old card and new activated the new one. I called after trying to find this charge on my acct, XXXX.The dispute department said they would look into it and gave me a conformation number XXXX. XX/XX/XXXX I called again and talked to XXXX and she told me it was still trying to be resolved. XXXX XXXX told me it was still under investigation In may I called they said part of it was resolved XXXX requested again a copy of the charges and was told they would email it to me. The statement showed $ amount but not who it was to. Called again and after XXXX minutes of runaround I was told they would send it again, The statement was for the new card with the charges transferred to it, Still don't know what its for.Statement said can not show information on a closed account. The statement I received in XX/XX/XXXX was for {$67.00}, it now is XXXX and my credit scoreHas gone from XXXX to XXXX. I can not get this resolved can you help"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7289",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NJ",
+    "complaint_zip": "7304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX  from Best Buy the TV didnt work so I took it back and got a XXXX XXXX  XXXX when I went to plug the TV in it had a huge crack in it so I returned another Tv I got back to the store to check the status of the TV they said I never brought the TV In l told them to check there cameras. I spoke to the manager at the store and she said if we received the TV back mostly likely it was chopped up she told me to keep disputing the transaction so i did, only XXXX was refunded back to months later the tv was over XXXX dollars if they would have straightened this out over a year ago i wouldn't owe them anything because this bill is late fees and interest charges The TV was taken off my account in XX/XX/year> a few months later it was put back on my account then my payments went XXXX dollars to XXXX dollars with no explanation"
+}

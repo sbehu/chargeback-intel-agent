@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_929",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "782XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I paid for a portion ( {$800.00} ) of my family 's meal that was charged to my sister 's room at the Hilton XXXX on XX/XX/2023. However the next day an additional unauthorized charge of {$400.00} was made on XX/XX/XXXX. My flight departed XXXX on the XXXX and I did not authorize the {$400.00} charge."
+}

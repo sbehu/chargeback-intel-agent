@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6272",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78702"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37575,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In reviewing my credit report in XXXX, I discovered fraudulent activity tied to a Macys credit card account that I was unaware of. The report shows missed payments dating back to XXXX on a card I never actively used. I was never notified of any charges or statements, and the account eventually closed with a balance reported as maxed out on a {$300.00} limit. \n\nI have maintained a strong credit history ( my score is around XXXX ) and consistently pay my accounts on time. These missed payments were a complete surprise. Between XXXX and XXXX, I was living abroad and can provide supporting documents such as airline tickets, overseas rentals, and bank statements to show I was not in the country during the time these purchases occurred. \n\nBecause I never used or monitored the Macys card, I didnt regularly check the account, and therefore had no way of knowing these charges were occurring. I strongly believe these were unauthorized, fraudulent purchases. \n\nIve been in contact with XXXX Citibank XXXX XXXX, but they havent been able to provide me with basic information like what was purchased, where, or when the charges occurred. This lack of transparency has made it very difficult to resolve the issue. Im asking for your help in correcting my credit report and in getting this resolved quickly with Macys/DSNB through Citibank, as the delay is unfairly affecting my credit standing."
+}

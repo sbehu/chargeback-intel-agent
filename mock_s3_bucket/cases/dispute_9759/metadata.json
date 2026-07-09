@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9759",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11354"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6979,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Failure to Resolve Identity Theft and FCBA Violations by Macys/Citibank ( DSNB ) Detailed Description : I am filing this complaint against Macys/Citibank regarding a total failure to investigate and resolve a clear case of identity theft reported on XX/XX/XXXX. \n\nFrom XX/XX/XXXX to XX/XX/XXXX, I was physically in XXXX XXXX caring for my ill mother. During this time, unauthorized individuals made approximately {$16000.00} in purchases at Macys XXXX XXXX and attempted a {$9000.00} payment from my XXXX XXXX  account. XXXX XXXX  investigated and returned my funds within one week, confirming fraud. \n\nI reported this to Macys on XX/XX/XXXX. On XX/XX/XXXX, my case was escalated to an Administrator named XXXX ( XXXX XXXX ). Despite XXXX written confirmation that he was supervising the case and his acknowledgement of my travel evidence, Macys has failed to resolve the issue for 10 months. \n\nThe Damages : My credit score has plummeted from XXXX to XXXX. \n\nMacys has added interest and fees, inflating a fraudulent {$16000.00} balance to {$22000.00}.\n\nDespite the active dispute, Macys sold/transferred the debt to a collection firm ( XXXX XXXX XXXX XXXX XXXX ), violating my rights under the FCBA and FCRA. \n\nDesired Resolution : Complete removal of all fraudulent charges and late fees ( {$22000.00} balance to {$0.00} ), deletion of all negative credit reporting from XXXX XXXX XXXX XXXX  and immediate termination of all collection activities. \n\nThe air ticket shows my last name as XXXX which is my maiden name ( XXXX XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5840",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "IL",
+    "complaint_zip": "601XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6144,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Credit account at Macy 's had not been used but one time in over 2 years since application. Received a notification from Macy 's the card and account would be closed due to inactivity in XXXX XXXX  XXXX. Assumed the account had been closed courtesy of this notice as I continued not using the card. Receive a statement in XX/XX/XXXX that a purchase was made in XXXX XXXX, NJ for the amount of {$290.00} in the Men 's Department for a size L, XL, and XXL goods ( this was only submitted after requesting what items had even been purchased, as previously no transaction information existed on goods purchased in-store ).\n\nI've never been to NJ. I reside in IL. The account should have been closed in Fall of XXXX. Macy 's permitted a transaction months later in XXXX in a state I DO NOT reside nor ever visited ... Nor have any acquaintances, friends, or family. The fact the card that hadn't been used in 3 years was permitted to be used in a state that was not the registered event should've immediately raised a red flag. It did not. They permitted a transaction in another state.\n\nI asked them how is this even possible when the account was to be closed? It has been a nightmare closing this account. XX/XX/XXXX the initial request was made. Then XX/XX/XXXX I discovered via their online portal another account had been opened to carry the fraudulent balance from the previous. They decided to open a secondary account in my name with a new account number. That account now carries this balance. I called again stating no one told me the account was to be reopened and a new card reissued, it was supposed to simply be closed and an investigation to be opened into the fraudulent charge in New Jersey. They incessantly called me about Collections within that timeframe which is what inspired me to look at the online account in the first place. They notified me of late payments even during a pending investigation into the fraudulent activity. \n\nThey finally sent me a message about the first account on XXXX via an online notification that there was no need to pay on the account ending in XXXX. The new issued account of XXXX was not addressed in that correspondence. Nor has any correspondence taken place with that account into the investigation. \n\nThis company needs to be put on XXXX. They have had sufficient time to look into this transaction and close this dispute. They have chosen to leave the account with an open balance. \n\nNo one has reached out. There has been no notification. They removed the {$35.00} Late fee AFTER I cnotified them of a CFPB complaint.\n\nI want this resolved. Clearly, this should be cut and dry given my address, travel history, and lack of use on this account. Macy 's seems intent on prolonging the determination of the investigation."
+}

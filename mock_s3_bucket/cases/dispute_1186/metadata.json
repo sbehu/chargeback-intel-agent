@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1186",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "488XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5900,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I'm still floored by my inability to get dispute CASE XXXX fully reviewed. I continue to receive conflicting information from Citi. I called previously and was told I could amend my initial reason for dispute as none of the available options to select fit the issue. I have received multiple letters from Citi saying I could send in additional documentation. They provided a copy of the merchant 's response, which did not in any way even mention or rebut the partial disputed amount of {$450.00}. However, when I sent in my appeal as instructed, I'm now receiving form letters that don't make sense with the situation, indicating I have conflicting reasons for appeal so they can not help me. Per my discussion with Citi reps and previous communication, it appears this issue should have already been taken care of. I have never changed the reason for my dispute -- again, it's that none of the reasons available fit. \n\nUPDATED REASON FOR DISPUTE : Product description was inaccurate"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8209",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90046"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2121,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CITIBANK is negligent for assisting a criminal with the ongoing identity theft I am suffering from. \n\nOn the date of : XX/XX/year> I sent them a police report, which verified my location and my identity, due to fraudulent charges on my card : One charge for {$750.00} and another for $ XXXX made in XXXX, New York ( And both are FRAUDULENT ) My identity has been verified by the XXXX as XXXX XXXX XXXX with a California Driver 's license. Police report dated XX/XX/year> The CITIBANK email that I sent the information to on XX/XX/year> was : XXXX HOWEVER, when I checked my account today, XX/XX/year>, I saw that a replacement card had been ordered?! When I called into customer service to ask about it, they confirmed that the replacement card was on its way to : XXXX, XXXX XXXX AGAIN- Right back to where we started. \nI don't know if there is someone working in Citibank that is assisting this criminal with accessing my information, but it seems impossible that AGAIN my replacement card is on its way back to the criminal that I just reported to the : Financial Crimes Division of the XXXX - Please see the attached documents ( 1 ) Police Report ( 2 ) Credit report from Experian ( 3 ) Disputed charges AND Replacement card in route ( 4 ) Official letter from CITI - so they do have my California address on file Which is why- I don't understand why Citibank keeps sending replacement cards to this criminal in XXXX XXXX New York ? Please Help Thank You"
+}

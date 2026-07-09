@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_450",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7843,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "so my complaint is again citibank i couple months i been having about 12 to 14 transactions with out my authorizationin XXXX washington when i call citibank to complain and dispute this charges i didnt receiveany help even when i was complaining iver the phone a transaction was preceding during the call in seatle i leave in XXXX XXXX california i got the letter from them that y dispute was denied i fight secon time they said that i used my pin number that are transatcions that i did i really upset with citibank now i got 2 small transactions again i dispute for this transaction again i not feeling confortable anymore with citibank i supposted be a trust bank even customer service is so bad no greet you as soon you enter one of the brunch if i need withdraw money the dont enough big bills ost of the time leave with a lot of 20 is so inconvinience i told them that i will complain with you guys because is no fair is my money and you trust a bank for your money to be safe and no they ending rob you. \nXXXX"
+}

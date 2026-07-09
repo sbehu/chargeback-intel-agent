@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6032",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90034"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41529,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I enrolled in a financial hardship program with AMEX. I signed up to the program with my XXXX XXXX  account. I immediately requested to cancel my enrollment. AMEX customer service representative told me that I was not allowed to unenroll from the program. I called back and spoke with a different representative who then honored my request, and informed me that he had unenrolled me from the program. I haven't received any confirmation email that that actually happened. There was no money in my XXXX XXXX  account, so AMEX used information from another account ( XXXX XXXX XXXX ) that I had previously used for making payments to my card and initiated an ACH transfer that I did not authorize. AMEX withdrew {$120.00} from my XXXX XXXX XXXX account without my consent. I have filed a dispute with XXXX XXXX XXXX, and AMEX has been completely uncooperative."
+}

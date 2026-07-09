@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7826",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "38138"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43219,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "During a period beginning on XX/XX/XXXXXXXX  and ending on XX/XX/XXXX, fraudulent charges were made on my Citibank credit card totaling {$2600.00}. All of the charges made show that they were initiated in Florida at various retailers. All charges were under {$100.00}, but totaled {$2600.00}. \n\nI was at home or at work in XXXX, TN during this time frame. My Wife was also in XXXX, TN with me during this time. We rarely use this credit card, and it had a XXXX balance before these fraudulent charges occurred. \n\nUpon discovering these charges on XX/XX/XXXX, I immediately contacted Citibank and initiated a fraud claim. They cancelled the card and sent me a new one. They told me that in no case was I responsible for fraudulent activity. I assumed the matter was resolved. \n\nSome days later, I received notice that the dispute was not credited due to ME not providing requested information. No one from Citbank EVER requested additional information from me. I immediately called and was bounced between departments before finally reaching an operator that re-opened the dispute. They seemed very understanding and once again assured me that I was not responsible for any fraudulent activity. I made sure to ask if ANY more information was needed, and the representative assured me that there was not. Again, I assumed the matter was handled.\n\nToday, XX/XX/XXXX, I received a mailing from Citibank. It says that my dispute is closed and that I AM RESPONSIBLE. The exact phrase reads, \" The card 's XXXX chip was used to make the disputed transaction ( s ) at a chip enabled card reader. You verified that your card was in your possession at the time of the transaction ( s ), so we don't consider this fraudulent activity. '' The above statement is not only categorically false, but also an outright lie by one of the largest banks in the world. I was not even in the state, and both cards were in my family 's possession in Tennessee when these charges were made. In my opinion, an XXXX XXXX  could look at the timing, amounts, and locations of all these charges and quickly deduce fraud. \n\nFurther research by me found MANY people that have been stonewalled by CITI and denied their disputed claims. While I suspect that many give up, I assure you that I will never do that. \n\nThis submission is my first step. Tomorrow I will retain an attorney and pursue this matter until the charges are removed. It is then my intention to collect any attorney fees incurred by me in this process from Citibank. \n\n\n* * * Please note, the card number I entered on this CFPB form is the NEW card number that Citbank sent me * * *"
+}

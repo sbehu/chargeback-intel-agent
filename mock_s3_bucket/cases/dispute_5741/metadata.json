@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5741",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "321XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I received an email from Home Depot stating that I had a minimal payment due on my credit card. Since I had not made a purchase with that card for over XXXX months, I logged into my account. Upon logging in, I noticed over XXXX charges that I did not make, all from a different state and all related to Home Depot purchases.\n\nI immediately contacted Home Depot ( Citi ) to report this issue. When I inquired about the payment due, they confirmed that I needed to make it, despite the fact that I was not responsible for the charges. Feeling this was unjust, I made the payment, only to be later charged a late fee when I was not actually late. \n\nI requested confirmation of the investigation into my claim, but they informed me that they could not provide a confirmation number or send an email verifying that the investigation was underway. The next day, XX/XX/year>, I called again to see if I could reach someone else. I was told not to make any further payments and that the investigation was still in process. I asked for proof of this investigation, but once again, they said that they could not provide any. \n\nI also inquired about the late fee and was advised not to worry, as security would call me within 30 days. I explained that by that time, I would have a 30-day late mark on my credit report, but the representative reassured me not to be concerned. I asked again for something in writing, and they refused to provide it.\n\nHome Depot ( Citi Cards ) has denied my request for any proof of an investigation, disregarded my concerns about unauthorized access to my personal information, and neglected the potential impact on my credit score. This is why I am seeking help with this matter."
+}

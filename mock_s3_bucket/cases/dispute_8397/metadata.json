@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8397",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60076"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5803,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Citi online support about unauthorized recurring charges from XXXX to my XXXX XXXX XXXX in XXXX. XXXX refused to stop the charges due to claiming they were unable to find any accounts associated with my credit card. \n\nWhile contacting Citi, I waited for an agent for several minutes, and an agent ultimately was summoned. After appearing, the agent did not respond for over three minutes, and then provided incomprehensible responses that seemed to refuse to block only XXXX from using my credit card. Requests for further clarification were even less clear and inquires about the agent \" XXXXXXXX XXXX  '' native language and requests for a native XXXX speaking representative went unanswered. \n\nAlright, you selected XXXX XXXXXXXX XXXX  by Citi XXXX XXXX \nSure, I'll connect you with a representative. I'm always learning new things, so maybe I'll be able to help next time. \nXXXX XXXX  So close! A representative will be with you soon. \nThank you for reaching Citi live chat representative. While I take couple of minutes to review the interaction with bot. \n\nI would like to understand if this your first interaction with the chat agent for this query. \nCustomer Message please block Paramount+ from charging my XXXX XXXX XXXX. \nDelivered Customer Message XXXXXXXX XXXX XXXXXXXX Are you with me? If I do not hear from you I will be forced to disconnect and follow up with a CFPB complaint. \nDelivered Customer Message XXXX PM. Complaint in two minutes of inactivity Delivered I'm here Customer Message Due to lack of substantive response, I am initiating a regulatory complaint Customer Message XXXXXXXX XXXX XXXXXXXX Read I have to review your account, so that i can able to reply There are two ways to stop the recurring charges/autopay charges to vendor : XXXX. You can contact the merchant and ask them not to charge the card XXXX. If they still charge the card, you will need to security close the card, report the charge, and get the new card Process from our end : XXXX. Charges from this merchant will be reported and issue a new card XXXX. Your account settings will be updated, so that the merchant will not charge the new card XXXX. All the recurring charges will be cancelled, once you receive the account details, you can provide your account information to the merchant if you want to continue any recurring charges for the new card Customer Message So you are refusing to block charges only from XXXX on my existing card? \nXXXX XXXX are the XXXX steps to block Customer Message Your XXXX is unclear. It appears that you are refusing my request. \nDelivered You have to request for the new card to stop the charge in feature and to report this transaction Customer Message what new card? Is XXXX your native language? \nCustomer Message feature? \nCustomer Message Please direct me to someone who can communicate more clearly. \nDelivered Customer Message I am presently drafting a regulatory complaint Read You need to request a new card to stop future charges and report this current transaction.\n\nMay i know, whom you would like to speak with?\n\nCustomer Message Someone who is a native XXXX speaker Customer Message if you can not do so, then your direct supervisor Delivered Let me transfer your chat to the supervisor So close! A representative will be with you soon. \nCustomer Message XXXX XXXX XXXXXXXX Sent"
+}

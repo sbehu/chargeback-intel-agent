@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10498",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "125XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1376,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX i logged on to my healthcare providers site to pay a bill for {$15.00} ( provided to citibank XXXX and when i put in the payment amount as {$1500.00} ( I mistakenly put in a \" comma '' instead of a \" decimal '', and the payment when through to paypal as {$1500.00}. I immediately called XXXX and they said I had to dispute it with Citibank, which I did and Citibank issued a temp credit in the amount of my dispute {$1500.00} ( $ XXXX {$15.00} which is what I owed. \nXX/XX/XXXX Citibank sent me an email that they could not verify anything so they were re-charging my account for the {$1500.00}. WHAT!!! \nXXXX I called again to re-open the dispute and resent my bill of {$15.00}. \nXX/XX/XXXX I get an email from Citibank stating they received my \" dispute of {$15.00} and have issued a temp credit for that amount while they investigate. and again I called saying that is NOT the disputed amount. and shortly after that I received an email that my dispute was resolved and the {$15.00} temp credit was now permanent. \nXXXX i called again to open the dispute of {$1500.00}, spoke with XXXX- XXXX dispute ) and questioned why they did a credit of {$15.00} and i said the same thing. she said that my account would be credited {$1500.00} in XXXX to XXXX business days. \nXXXX i asked for an update and there was nothing in my file so i asked for a supervisor and spoke to XXXX XXXX and said that my file would be noted and to wait XXXX to XXXX business days XX/XX/XXXX I called and asked for an update an there was no update. i expressed my frustration and she said she will note the file and i should wait XXXX to XXXX business days. so i closed out my account and said that i was writing a complaint to the finance department"
+}

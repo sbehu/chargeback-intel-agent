@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7564",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48042"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16162,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im filing a complaint against Citibank for denying my dispute related to a XXXX charge of {$1200.00} made on XX/XX/XXXX. I intended to purchase XXXX XXXX XXXX concert tickets for the XX/XX/XXXX show but was mistakenly charged for 6 tickets. I realized the error immediately but XXXX has a strict no-refund policy and refused to help in any way. I contacted them multiple times and was told all sales were final, even though I did not receive the intended number of tickets.\n\nBecause the venue later changed the stage layout and the group I was attending with could no longer go, I had no choice but to resell the tickets. I took a loss of {$550.00}, and have attached documentation showing this.\n\nI submitted a dispute to Citi, explained the situation clearly, and provided evidence. Despite multiple attempts to get Citi to review or escalate this fairly, they denied the claim without acknowledging the merchants refusal to resolve or the financial impact on me. I am not requesting a full refundonly the amount I lost due to an honest mistake.\n\nCiti is expected to protect consumers in cases where no remedy is available through the merchant. I respectfully request a partial refund of {$550.00} to account for the loss I incurred after being overcharged and forced to resell the extra tickets."
+}

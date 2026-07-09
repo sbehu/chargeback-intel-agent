@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12626",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "40220"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41254,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX phone from Best Buy and used their credit card. I returned the phone per the stores instructions via XXXX on XX/XX/XXXX. I received a confirmation on XX/XX/XXXX from XXXX advising the phone was delivered. I have gone to store XXXX  times to fix and Best Buy blames XXXX and XXXX blames Best Buy. I continue to receive calls regarding payment."
+}

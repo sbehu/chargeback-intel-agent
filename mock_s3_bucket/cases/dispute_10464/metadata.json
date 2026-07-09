@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10464",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53150"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40614,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing recurring monthly charges of {$29.00} from a merchant called XXXX XXXX dating back to XX/XX/year>. I never knowingly enrolled in a monthly membership or subscription, and the recurring nature of the charge was not clearly or conspicuously disclosed at the time of the transaction. \n\nAmerican Express has determined that authorization must have occurred based on a click or checkbox, but this does not reflect informed consent to a recurring subscription. I am disputing this as a deceptive enrollment with inadequate disclosure, not card theft. \n\nI requested cancellation of all future charges and asked for a goodwill adjustment for recent months, which American Express declined. I am requesting that American Express re-review this matter and consider a goodwill credit given the deceptive nature of the enrollment and the merchants documented pattern of similar complaints."
+}

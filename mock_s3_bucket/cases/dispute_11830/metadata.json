@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11830",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84095"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17672,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a charge dispute that was incorrectly denied by American Express. \n\nOn XX/XX/year>, I attempted to complete a required business filing online and was redirected to a third-party service, Fast Filings, where I was charged {$110.00}. I believed I was completing a legitimate filing process. \n\nWithin minutes of realizing this was a third-party service, I attempted to cancel the transaction. I attempted to contact the merchant by phone immediately and later followed up by email on XX/XX/year> to continue my cancellation request. \n\nThe merchant claims that a digital product was downloaded. However, I did not download, receive, or access any documents from this company. I have no knowledge of what was supposedly downloaded, and I did not receive anything of value. \n\nAdditionally, the service I paid for was never completed. The filing was not submitted by the merchant, and I was required to complete and pay for the filing myself directly with the Utah Department of Commerce. I have official documentation showing that I completed the filing independently.\n\nThe merchant also incorrectly stated that I never attempted to contact them, which is false. I provided documentation showing my attempts to contact and cancel the service. \n\nAdditionally, American Express appears to have misinterpreted my documentation. The filing document from the Utah Department of Commerce was completed and paid for by me directly, not by the merchant. This document was incorrectly treated as evidence that the merchant completed the service.\n\nIt also appears that the merchant may have obtained my filing from publicly available records and used it to support their claim, which is misleading and does not demonstrate that they completed the service. \n\nAdditionally, American Express did not follow its own dispute timeline. In a letter dated XX/XX/year>, I was instructed to submit documentation by XX/XX/year>. However, I received a decision dated XX/XX/year>, denying my dispute before that deadline had passed. \n\nAmerican Express denied my dispute based solely on the merchants claim that a digital product was downloaded, without verifying whether the service was actually completed. \n\nI am requesting a full reversal of the {$110.00} charge."
+}

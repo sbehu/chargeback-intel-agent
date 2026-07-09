@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5090",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "79904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20498,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card was used in a fraudulent manner in XXXX XXXX on or about XX/XX/XXXX. It all started when I took a taxi there XXXX week about XX/XX/XXXX. The taxi driver told me that if I paid with a credit card, the fare would be cheaper. Like a fool, I believed him, and handed him my XXXX card. He told me that the card was declined. Then I gave him my Sears credit, card..He told me the same thing. The fraud with the XXXX card was reported and I was NOT charged for it. When I got back from XXXX XXXX, the following Saturday, I called the number in the back of the XXXX card. I called on Monday to report the fraud, since Sears fraud Dept does NOT work on the weekends. The total was {$260.00} to Clip Mx in XXXX XXXX. Sears told me that I would NOT be charged for the amount pending the fraud investigation. I was issued a new credit card with a new number. On my XXXX bill, the amount was deleted from my credit card bill. \n\nI thought everything was taken care of until I called last Sunday XX/XX/XXXX. My bill sounded too high since I always have a general idea about what the amount of my credit cards should be. I called immediately and was told again to call Monday..I called the following day XX/XX/XXXX. The fraud Dept told me that after their investigation, it was discovered that I was responsible for paying the amount..I was NOT given a reason for this decision so do NOT know the result of the investigation other than the rude foreign individual told me that I gave the business my credit card for the purchase, which I did NOT..the Sears credit card never left my wallet after I tried to use it in the taxi. I don't make those kind of purchases for online games"
+}

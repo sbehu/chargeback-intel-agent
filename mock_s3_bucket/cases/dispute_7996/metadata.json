@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7996",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92688"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42464,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an electric bike from XXXX for {$580.00} ( posted XX/XX/year>XXXX  ). Within 6 months the bike proved defective and unsafe : the rear wheel spokes repeatedly broke, causing instability ; photos also show uneven rear tire wear vs the front. I repeatedly sought help from XXXX and its vendor ; both refused any remedy, citing past 3 months. \n\nAmex closed my dispute strictly on the 60-day FCBA window and declined to consider the new evidence or any goodwill remedy, leaving me with a defective, unsafe product and no merchant support. Im asking Amex to reopen/review and provide relief ( credit or other resolution ) given the clear defect and merchant refusal. \n\nThank you, XXXX XXXX"
+}

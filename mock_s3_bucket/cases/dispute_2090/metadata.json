@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2090",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "77346"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26557,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A fraudulent charge occurred on my corporate credit card with Citibank for {$670.00} from XXXX, after my card was stolen on XX/XX/year>. After speaking to Citibank, they mentioned that they would credit this back to my card within 2. Billing statements. Its been over 2 years and they have yet to refund this to my billing statement."
+}

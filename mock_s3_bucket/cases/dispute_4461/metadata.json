@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4461",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15267,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I took a XXXX  to XXXX XXXX XXXX from the XXXX XXXX XXXX XXXX on XX/XX/year>. The agreed upon price for the ride was {$30.00}. The merchant showed me the XXXX XXXX machine with the {$30.00} charge after the ride, which I used my American Express card to tap to pay for. After that, the merchant turned the machine around and said we were good to go, so we left. Unbeknownst to us, the merchant had added a {$150.00} tip after we left that we never authorized. The merchant also never provided me with a receipt that I could sign for the final charge, which ended up being {$180.00}. I initially didnt recognize the {$180.00} charge at all, so I filed a dispute for the unrecognized charge, since the only cab related charge I was expecting from that day was a {$30.00} charge from the XXXX. After Amex provided a receipt showing the {$150.00} tip that I never authorized got added on, I was advised to re-dispute the claim as an over-charge, which I did. However, Amex did not rule in my favor, instead telling me to resolve the issue with the merchant. Amex has failed to provide me with a way to contact the merchant, and I did not save the merchants contact details as I was not expecting them to fraudulently and illegally tip themselves {$150.00} without my consent. Amex has refused to protect me from fraud, even when the merchant was unable to provide proof that I had signed for or in any way authorized a {$180.00} charge to my credit card for the ride to and from XXXX XXXX XXXX  that he provided. It is not uncommon for merchants to illegally tip themselves more than what the customer authorized, and I dont understand why Amex isnt willing to protect customers from this kind of fraud."
+}

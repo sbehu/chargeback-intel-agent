@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1213",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83709"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46272,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXXXXXX  and XX/XX/XXXX returns were accepted at the XXXX return warehouse for 2 items totaling XXXX. Both of these returns were never credited back to my amex gold card per XXXX policy and reaching out to XXXX did not resolve the issue so I filed 2 separate disputes with Amex. When I created the disputes with Amex furnished screenshots of the XXXX app confirming the receipt of the returns, XXXX tracking data showing XXXX confirmation of return ( including item weights that match the delivery info ) the as well as XXXX proof of delivery. The first dispute projected resolution has been pushed XXXX now since it was filed on XX/XX/XXXX stating that Amex was waiting for more info from XXXX. None of the XXXX has been credited to my account to date. \n\non XX/XX/XXXX I get a notice via chat app that Amex needs to speak to me about an issue with my gold card account. So I contact then rep and he states that due to the high balance on my card Amex was taking negatives action and rendering the card non functional until a time where i pay down the balance. \n\nI explained to the rep that I only have a \" high '' balance due to the pending disputes that Amex has not resolved or credited me he proceeded to send me into a infinite loop of transfers and reps who kept telling me I need to \" paydown '' my balance or my card would not become active again. Finally I was simply hung up on. ( I have included the whole chat thread in the notes ) My current balance on this card is XXXX of that XXXX is in what should be a very clear cut dispute leaving my actual balance at XXXXXXXX Historically that is not an uncommon amount to carry on this card as I use it very frequently. I have in XXXX alone made XXXX total payments totaling XXXX making the assertion that a balance of XXXX ( the real balance after the disputes are properly removed ) nonsensical at best. \n\nAmex has violated my disputing rights under the FCRA by XXXX ) refusing to process these clear cut disputes in a timely manor XXXX ) refused to service the disputes in general based on the communication on XXXX XXXX ) Taken negitive action against my account due to properly submitted and documented disputes 4 ) Held me responsible for disputed amounts on my account and then doubled down telling me to \" pay down '' my account to make it active again based on the communication on XX/XX/XXXX"
+}

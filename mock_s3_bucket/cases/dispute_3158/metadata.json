@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3158",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11735"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16576,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Name : XXXX XXXX XXXX : XX/XX/XXXX Email : XXXX Phone # : XXXX XXXX XXXX XXXX Dispute I purchased a service from XXXX that was not fully provided. The service was for teeth straightening and would include physical aligners, dental checkups, a dentists oversight, retainers, refinements, and additional aligners as needed. I signed up for this service in XXXX of XXXX. They Initially gave me a 6 month treatment plan. After finishing all the aligners, my teeth were still extremely crooked. They were nowhere near straight. They had guaranteed me that my teeth would be completely straight in the end. After showing them my teeth were still extremely crooked, they made me an appointment in store for a rescan. They rescanned my teeth and sent me more aligners XXXX XXXX weeks later this is what they call a touch up or refinements. I did this over XXXX more times with them for the next 3 years. On XX/XX/XXXX I was approved for another touch up because my teeth still werent straight. They had emailed me stating they were making me more aligners. They also gave me a short video which is called the smile journey, it shows what my teeth look like now and how they will look after going through all the aligners. Some time had passed and I never heard from them, then they sent me an email saying they were closing and they would not send my aligners. I have not been able to reach a single person by phone, email, or through their website. My teeth are still crooked and XXXX did not honor their guarantee to me. They are not sending me any more aligners, I never received my final retainers because my teeth are still crooked, I have no way of getting dental checkups and there is no more dentist oversight. Please see the attached files as evidence. \n\n\nCITI HAS REFUSED TO HELP ME, THEY HAVE GIVEN ME THE RUNAROUND FOR A MONTH. ONE PERSON TRASNFERRING ME TO THE NEXT ITS RIDICULOUS."
+}

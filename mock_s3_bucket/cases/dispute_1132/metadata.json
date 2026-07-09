@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1132",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75032"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31532,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/ we purchased windows from the Home Depot install service in the amount of {$16000.00}. The purchase was paid for with the Home Depot credit card serviced by Citi Bank. The payment terms were 24 months zero % interest, we made the payments on time. The Home Depot install service installed defective windows that did not pass the XXXX XXXX building inspection on XXXX XXXX XXXX  The Home Depot installation service refused to do the required warranty work and we received a certified letter dated XXXX XXXX XXXX  denying our request for warranty work to repair the windows that did not pass inspection. I filed a dispute with the Home Depot Credit Card company. When the dispute was filed there was remaining balance of {$13000.00} on the credit card and we had a credit balance of {$3600.00} due to us. The Home Depot install service sent a certified letter to me and to Home Depot credit card company dated XXXX XXXX XXXX The letter was addressed to XXXX XXXX that has never been a name associated with me. The letter was filled with many untrue facts about me and my husband so they could prevail in the dispute. When the dispute ended the Home Depot Citi card charged our card an additional {$16000.00} which resulted in a balance of {$29000.00}, the charges are fraudulent. The Home Depot Citi Credit card refuses to remove or allow us to dispute the charges and they told us to talk to Home Depot to get them remove the charges. We also were told by the Home Depot Citi credit card employee to file a complaint with The Federal Trade Commission and file a dispute with the credit bureau. How can the credit card get away with charging us an additional {$16000.00} when we did not purchase any additional items using the card. We are XXXX on a fixed income, this is a total scam that has resulted in financial hardship for our family."
+}

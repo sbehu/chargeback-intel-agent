@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7101",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37216,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am attaching the Amex response to my 4th complaint. They are asking for proof I submitted medical documentation to the airline in order to refund the XXXX change flight fee. In the XXXX and the US, it is illegal to charge a change flight fee for a medical reason. My mother fell at work and was hospitalized with a XXXX XXXX XXXX. I flew back from XXXX to help her and handle her affairs. I submitted this to the airline almost immediately. They wanted proof I was her child. I sent them a birth certificate with her name listed. This is when they completely ghosted me. They told Amex I agreed to their terms. This is true. What they didn't tell Amex was that they told me the XXXX would in no way stick to my account since my mother almost died and it was the most valid reason in the world to change a flight and 100 % complied with their terms and conditions. You will see in the screenshots the address they told me to send the documents to. I did everything they asked, then completely stopped responding to me once I did so. When Amex investigated this, XXXX literally only sent them that, and none of the medical documents, which I am submitting now. I expect this to be credited to my account, and I would appreciate Amex siding with me on this and actually charging the airline since this is an enormous breach of aviation law."
+}

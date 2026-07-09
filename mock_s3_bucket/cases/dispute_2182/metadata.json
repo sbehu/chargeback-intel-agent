@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2182",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VT",
+    "complaint_zip": "057XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33392,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This document is a summary of a conflict between XXXX XXXX  and the XXXX XXXX XXXX XXXX ( XXXX ). In XX/XX/2023, XXXX  received a call from XXXX requesting his appearance on a podcast interview, which he agreed to. XXXX later informed him that they received numerous calls about his initial interview and wanted to feature him on a panel discussion with other interviewees. They mentioned that the cost would be {$15.00}, but xxxxxx later realized it was actually {$1500.00}. Due to upcoming XXXX and financial concerns, XXXX  decided to cancel the podcast interview and informed XXXX about his decision. A Vice President of XXXX told XXXX he would take care of the cancellation. However, XXXX did not cancel the charge, leading XXXX  to dispute it with American Express ( AmEx ). AmEx reviewed the documents provided by XXXX and initially decided in favor of XXXX. However, XXXX  claims that the documents produced by XXXX are FAKE. He pointed out that he had never heard of XXXX before XX/XX/2023, and had no prior engagement with them or their celebrity host, XXXX XXXX. XXXX XXXX also denies receiving any emails or approving any documents from XXXX. He questions the authenticity of the documents, including an UNSIGNED letter, an emailed receipt, a, so called, proof of services rendered, a logo created for a campaign and most significant a COUNTERFEIT SIGNATURE image, He also disputes XXXX 's claim that they incurred substantial expenses related to cable TV exposure and advertising marketing of his name and BUSINESS image, he has been retired for the past 20 years and does not have a business as XXXX claimed. American Express reopened XXXX  's dispute. AmEx provided a XXXX generated FALSE address for the New York merchant. In a call to XXXX, the company agent refused to give XXXX an address. The details have been reported to the FBI, the Federal Trade Commission and the Attorney General of New York"
+}

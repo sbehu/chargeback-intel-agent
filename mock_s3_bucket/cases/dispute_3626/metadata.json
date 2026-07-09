@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3626",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "875XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46368,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In late XXXX  2024 I decided to sell some items on the website XXXX. On this website, sellers post photos and descriptions with prices for used clothing or household items. Others can leave messages on the website for the seller, make an offer or buy at the offered price. Shortly after I posted my first few items on XXXX XXXX, 2024, I received a message on the XXXX website that said the person was interested in the item but couldnt see the photos for some reason and asked that email them the photos. \n\nI emailed them the photos to the address given. The party sent me a link to chat and indicated they were interested in purchasing but said I needed to give my credit card number so they could put the money on my credit card account. They said theyd put a minimal charge on there to verify the card. I thought this sounded strange but having not sold anything on XXXX, I gave them my credit card number. When the American Aadvantage Aviator card company sent me an alert of a charge for {$290.00}, I responded that the purchase was OK. Very quickly the chat went dead and I realized what had happened. \n\nI notified XXXX right away who asked for the information about the person who emailed me but they said that I shouldnt engage with someone off the website and that they could do nothing to assist me. \n\nI contacted American Aadvantage Aviator that same day explaining the situation. They said the charge was pending and they couldn't do anything until it was an actual charge, Then XXXX additional charges showed up for a total of {$780.00}. I had several conversations with American Aadvantage Aviator and on XXXX XXXX, 2024XX/XX/year> they sent me a letter denying my claims stating that they did not consider these charges to be fraudulent. They told me I could request the cases be reopened by sending a written Letter of Intent which I submitted via fax on XXXX XXXX, 2024, explaining that though I had authorized the payments, I received nothing from the vendor for the payment. The vendor on the credit card statement was XXXX. If you XXXX this company, it is clear they are a group of internet scammers and that I was defrauded. \n\nI have only XXXX copy of an email that I can locate from the transaction with the fraudulent party. That is attached. \n\nAmerican Aadvantage Aviators contract with their credit card customers indicates that they protect consumers against fraud. \n\nMeet your fraud team When it comes to protecting you from fraud, youre in expert hands with our dedicated, XXXX fraud team. Investing in state-of-the-art technology is at the forefront of our fight against fraudsters, which means we can alert you in less than XXXX seconds if we spot a suspicious transaction on your account. \nAs I stated earlier the vendor on the credit card statement was XXXX. If you XXXX this company, it is clear they are a group of internet scammers and Barclays should have known that. \n\nI was the victim of the fraud and that Aadvantage Aviator should reimburse me for these fraudulent charges. \n\nIn good faith I have been making payments to Barclays so as to not hurt my excellent credit rating. \nThank you."
+}

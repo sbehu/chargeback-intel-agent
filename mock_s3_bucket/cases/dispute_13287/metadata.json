@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13287",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "765XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38510,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitting a filing a complaint regarding an unauthorized credit card transaction and improper handling of my dispute by Citibank. \n\nOn XX/XX/year>, a charge of {$1300.00} was posted to my credit card by XXXX XXXX in XXXX, XXXX. I did not authorize this transaction. \n\nOn XX/XX/year>, I underwent a hair transplant procedure in XXXX. Before the procedure, on XX/XX/year>, the merchant confirmed in writing that the total cost would be {$1500.00} USD, to be paid upfront. I paid this full agreed amount in cash before the procedure. I have documented communication confirming this agreement. \n\nAt the time of the procedure, I was under sedation and did not have possession of my credit card. I did not present my card, did not sign any authorization, and did not consent to any additional charges. The {$1300.00} charge was added after the procedure without my knowledge or consent. \n\nI reported this as fraud on XX/XX/year>. During the dispute process, Citibank reclassified my claim from fraud to a billing dispute without my clear consent or explanation. The case was subsequently closed with a finding of customer responsible, and the provisional credit was reversed. \n\nXXXX written response states that they were unable to uncover evidence to support the claim that this was paid for by other means. This directly mischaracterizes my claim. I am not disputing this charge as a duplicate or alternative payment. I am stating that this charge was never authorized. \n\nAdditionally, I was not given the chance to submit or have my evidence reviewed prior to the final decision. I sent email and made multiple phone calls, including extended calls, attempting to resolve this issue, but did not receive adequate assistance or a clear explanation of the investigative process or findings. \n\nThe handling of this dispute raises concerns regarding : Misclassification of an unauthorized transaction Failure to properly evaluate available evidence Lack of clear communication during the dispute process This transaction was made without authorization and under circumstances where I was not able to provide consent. I request that this matter be reviewed as an unauthorized transaction and that the charge be removed. I also request clarification on the basis for the original decision and confirmation that all submitted evidence will be properly considered."
+}

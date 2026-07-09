@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_549",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "WI",
+    "complaint_zip": "53090"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9002,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I saw charges on my Wayfair credit card/account that were not made by me. I emailed XXXX XX/XX/23, no response. \n\nI heard back on XX/XX/23 that there was no balance on the account and account was in good standing with NO errors she said she even opened up a ticket with the finance dept. On XX/XX/23 they try to email me and say they over refunded me and I owe them money. \n\nThe document attached will show I emailed over 6 times between XXXX asking if account was fine & they continued to look into it, state it was fine. Their error is THEIR error. I will not be paying the over-refunded money. They can pay it & close my credit card because the account IS PAID OFF. Also, resolutions management XXXX lies & states there is no communication found in regards to this matter. LENGTHY communication attached since XX/XX/23 showing no responses back from resolutions manager, stating my account is fine and no errors, etc. \n\nTheir XXXX  response to my complaint all 3 times is a copy and pasted response stating that I need to communicate with XXXX about the issue ( WHICH I DID FOR WEEKS ). XXXX are the ones that told me my account was fine multiple times. I specifically spoke with XXXXXXXX XXXX  XXXX from that department. \n\nTheir copy & pasted response on XXXX also state that this is about a product that has defects. They are not even opening & reading the complaint. I have tried since XXXX to get this resolved, MY portion is paid off, I want my account closed and I am not responsible for a charge that they put on my account for no services in return & was a mistake on their end."
+}

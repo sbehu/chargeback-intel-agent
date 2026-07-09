@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12569",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89141"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46079,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citis handling of a disputed credit card transaction involving the purchase of herbal/medicinal products in XXXX XXXX from XXXXXXXX XXXX XXXXXXXX XXXX XXXX in the amount of {$550.00} on XX/XX/year>. The dispute was filed under Citi XXXX XXXX XXXX XXXX. I disp\nuted the charge because I believe the merchant engaged in deceptive and unfair business practices, including misrepresentation of the products, possible counterfeit goods, and charging an amount that was not properly disclosed during the sales process.\n\nDuring the transaction, I believe I was pressured into purchasing products represented as legitimate medicinal goods. After the purchase, I became concerned that the products may not have been authentic and that the pricing was grossly inflated compared to what was represented at the time of sale.\n\nI promptly contacted Citi and disputed the transaction. Citi acknowledged receipt of the dispute and later acknowledged receiving additional documentation from me on XX/XX/year>. I provided supporting information, including a physician letter from my treating doctor stating that there were substantial concerns regarding the authenticity and safety of the products and advising that I should not use them because they could present a health risk if counterfeit or misrepresented. \n\nDespite this supporting documentation, Citi denied the dispute on XX/XX/year> and reversed the conditional credit previously issued to my account. Citi did not provide meaningful evidence supporting its decision. Instead, I received only a brief letter stating that the documentation or facts provided do not support the billing error dispute claim without providing the merchants response, supporting transaction documentation, or any explanation demonstrating how the investigation was conducted.\n\nI believe Citi failed to conduct a reasonable investigation into my billing dispute. The fact that I submitted medical documentation supporting concerns about counterfeit or materially misrepresented medicinal products appears to have been disregarded entirely. I do not believe Citi adequately considered the evidence provided or explained why it was rejected.\n\nI believe this handling may not comply with the Fair Credit Billing Act ( FCBA ) and Regulation Z, which require credit card issuers to conduct a reasonable investigation of billing disputes and explain the results of the investigation.\n\nI am seeking regulatory review of Citis dispute handling process, transparency, and compliance with consumer protection requirements relating to disputed credit card transactions involving potentially counterfeit or materially misrepresented goods."
+}

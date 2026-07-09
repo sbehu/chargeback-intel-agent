@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6683",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6111"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22235,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I placed an order on a website called XXXX for shoes. I had previously contacted the individual seller on the site requesting US men size 15s, of which they responded with a picture of shoes which I took for them in size 15. As a result I went ahead and ordered shoes, selecting size 12 as it was the largest available size. I included in the comments attached to the order my desire for size 15s and not 12 ( please see the \" order '' attachment ). I also immediately messaged the seller via the platform ( please see the \" DM '' attachment ) expressing my desire for size 15s. The seller responded once and then ignored my messaged and went ahead and shipped me size 15 shoes nearly one week later.\n\nIn the interim I had contacted the platform multiple times ( please see the attached text file ) expressing my concern that the seller was ignoring my messages and I was going to receive a useless size 12 shoe. The platform assured me this would be handled, even stating the : XXXX Thank you.XXXXThank you so much for waiting. Upon checking, I can confirm that the seller has indeed been unresponsive. Please dont worry as I have submitted a report to contact the seller and urge them to respond to you as soon as possible. \n\nXXXX XXXX assured that once a report is filed against a seller, they are prompted to take action quickly, as continued inaction may lead to penalties or even a possible ban from the platform.\n\nDespite all of this, the seller went ahead a few days later and shipped me size 12 shoes on XX/XX/XXXX. \n\nI feel the seller did not have size 15s and did not want to forfeit the sale so they sent me size 12s, despite knowing it was against my wishes. The platform railroaded me when I sent this to them, and now Citi has closed my dispute siding with the seller for unknown reasons.\n\nI agree that I messed up ordering size 12s and assuming a picture of shoes that do not show the size meant they had size 15s. However, it was clear on the order I wanted size 15s, in addition to the messages I sent them.\n\nDespite having this information and me contacting the site/seller nearly half a dozen times pleading to not send me size 12s, I received size 12s. I do not feel it is right that I should have to pay for these shoes, as I did all I could to avoid them sending me the size 12s."
+}

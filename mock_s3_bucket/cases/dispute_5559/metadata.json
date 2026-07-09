@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5559",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "630XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33536,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Financed dryer from Best Buy on XX/XX/year> had for XXXX months started to smoke, contacted a person to check it out they had said that the person who installed it did wrong put screws that were not meant for that dryer. ended up finding the screws in the bottom of dryer they did not do their due deligence and failed to install right which almost burned my house down. I contacted Best Buy and they said they would pick up and take off the XXXX from my account, well they screwed up again and did as a haul instead of a return and never took off my account! Im not paying for their mistakes!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8888",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "50131"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11800,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted CITI on XX/XX/25 to report XXXX fraudulent charges in the amount of XXXX made between XX/XX/25 and XX/XX/25. Multiple charges were made in a given day, for example on XX/XX/XXXX my card was charged 5 times for the same amount. \n\nThe charges were entered as a fraud report. Fraud claim was denied because I had previously had a legitimate charge with the vendor. I was told by CITI XXXX XXXX to contact the merchant. \n\nI have spoke with the merchant multiple times and the merchant has not resolved the charges. \n\nI called and requested the charges be disputed. The person did not follow through with establishing the dispute. \n\nXX/XX/25 I called again to inquire, and received what I thought was excellent service. The staff member indicated they had reported all of the XXXX charges for dispute and gave me provisional credit for two of the charges. \n\nXX/XX/25 I called Citi to inquire about the charges. I was told it looked like they would all be reversed. \n\nXX/XX/25 With no credits being made to my account, I sent a certified letter to Citibank XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX  In the letter I requested full credits for all remaining For Keeps Floral Charges and interest as well as adjustment of the minimum payment during the time of investigation XX/XX/25 Certified letter delivered to Citibank XX/XX/25 XXXX hour phone call with Citibank XXXX department Was told the disputes could not be submitted because of the date of the charges Requested a supervisor within the XXXX  department Supervisor was going to contact me and did not follow through XX/XX/25 Contacted XXXX XXXXXXXX XXXX XXXXXXXX 's Department Deputy XXXX took my complaint and will be investigating the theft. \nCase # XXXX XX/XX/25 XXXX XXXX  CST Call with Citibank XXXX Department Employee XXXX forwarded all charges to the XXXX  department. \nThe employee indicated this issue is fraud because the number was stolen to be used in unauthorized charges. \n\nThere has been no resolution and I am having to pay exorbitant minimum monthly payments and Citibank refuses to take accountability for not addressing the fraud appropriately or protecting me as their customer by detecting fraud on very obvious fraudulent charges."
+}

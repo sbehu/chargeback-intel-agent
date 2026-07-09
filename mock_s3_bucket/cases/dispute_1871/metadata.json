@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1871",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89183"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22263,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I used my Citi credit card to pay {$51.00} for a XXXX XXXX XXXX at XXXX The gift card was never received. \n\nOn XX/XX/XXXX, I called the gift card merchant directly to try to resolve the issue. The support agent I spoke with advised that the merchant would follow up with me in \" a few days. '' I never heard from the merchant. \n\nOn XX/XX/XXXX, I initiated the dispute process with Citi to seek a refund of the {$51.00} I paid. \n\nOn XX/XX/XXXX, Citi advised me that they were closing the dispute and ruling in the merchant 's favor. \n\nOn XX/XX/XXXX, I contested Citi 's determination and advised that the item still had not been received and the merchant still had not contacted me."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8122",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "346XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38838,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> an amount of XXXX and XXXX in checks from discover were sent to citi which were to XXXX out both my personal loan and credit card with citi financial. I have been fighting with citi since that date every week 2 and 3 days a week for hours on end on the phone with them trying to get them to resolve their error. They credited both of those checks to my credit card account instead of credting the XXXX check to the personal loan account, like it was supposed to have gone to. I have explained this multiple times for months on end with no FULL resolution from citi, and have accrued TONS of monies in interest because of it, that I also want FULL reimbursement for! They can not mentally process/grasp/articulate how to resolve their error or they are pretending to not be able to, to steal and have me incur tons of interest fees for the 3 months that this has been going on. I have spoken to several supervisors and still to no avail. They still have that XXXX on my credit card as a balance, that I do NOT owe, yet they are charging me interset against it and have it is a balance that is inaccurate, untruth, and invalid! PLEASE HELP ME GET JUSTICE AGAINST THIS!"
+}

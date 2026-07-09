@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11359",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53149"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34518,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX I was going through and cancelling credit cards that I never use, I came to the home depot card, through citi-card and saw that someone had maxed it out with purchasses in XXXX, and the card had been canceled. I called Citi-card to report fraud, and open an investigation. I was told that in XXXX months I would recieve a letter. about 7 months later I called again to report it again, and was told the same thing. I have never recieved anything back from them. I have continuted to make the minimum payment in good faith."
+}

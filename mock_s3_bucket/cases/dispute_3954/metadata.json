@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3954",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90046"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21500,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I've been dealing with this matter for several months now. My credit card was stolen, presumably from a gym locker room. Multiple fraudulent charges were made on my account. I contacted Barclay 's to dispute the unauthorized charges and provided them with a copy of the police report filed over the incident. The initially provided a provisional credit to cover the disputes. On XX/XX/year>, Barclay 's sent me a letter stating one fraudulent charge, totaling {$74.00}, had been placed back onto my account and the provisional credit reversed. Barclay 's claims this was due to \" documentation provided by the merchant. '' These charges were never made by me. Therefore, any \" documentation '' Barclay 's claims to have is also fraudulent. I asked for proof, the company refuses to furnish it. Again, I supplied a police report. If Barclay 's has any further questions, they can contact the XXXX XXXX Police Department. I will NOT pay for charges I did not make. I have been patient and reasonable with this company. They just refuse to accept the facts. This is my final attempt at rectifying this matter. If Barclay 's doesn't immediately credit my account back the {$74.00} they erroneously charged me I will have no choice but to take legal action and will sue Barclay 's in Small Claims court. I will not be treated like this and I will not pay a bill which does not belong to me. I did everything the company asked me to do. I went to the police. I put up with their ridiculous questions over and over again. I filled out forms, etc., etc. What else do they want from me? This charge is not mine. What part of this is difficult?"
+}

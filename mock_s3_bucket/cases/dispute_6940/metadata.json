@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6940",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "183XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26188,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I booked a vacation package through Priceline by speaking with a live agent, who clearly informed me that the entire reservationincluding hotel and flightwas fully cancellable within 24 hours. Due to immigration concerns, I called back the next day ( XX/XX/XXXX ) and canceled the entire package approximately 15 hours after booking. Despite this, Priceline refused to issue a full refund and has since claimed that the hotel portion is non-refundable, which contradicts the terms communicated at the time of booking.\n\nOn the same day I canceled, I also contacted my credit card issuer, Barclays, to dispute the charge before it was even posted to my account. Despite this timely notice, Barclays failed to block the charge and only later issued a partial and temporary refund. I believe both companiesPriceline and Barclaysfailed to act in good faith and ignored their obligations to protect me as a consumer. I am requesting CFPBs assistance in holding both companies accountable and ensuring the full removal of these charges."
+}

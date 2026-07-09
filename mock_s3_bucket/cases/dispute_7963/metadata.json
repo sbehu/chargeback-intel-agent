@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7963",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92105"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9450,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This new dispute submission is related to my original dispute case XXXX. That case is awaiting my reply back but the page to submit the reply would not load, so I called CFPB for assistance and was instructed to open a new dispute case and reference the existing case. They also provided me with a phone number for free legal advice in my area in case I need it. \n\nI received another letter from Citibank on XX/XX/year> stating they could no longer work on the dispute because the time frame had passed. This seems unfair since they are the ones dictating the time, and they are the ones who told me I had to wait until the fraudulent charge posted before I could initiate a dispute. I had warned them ahead of time that this was a fraudulent charge but they did nothing. Now, they are trying to charge me the fraudulent amount of {$2100.00} because they can't recoup any of it from the fraudulent ticket agent. \n\nI am attaching my reply back to the original CFPB case I opened, along with some additional documentation. Please don't hesitate to reach back to me if you need anything else. This has been dragging on since XX/XX/year>XXXX  and I am so frustrated and exhausted trying to fight for what is right against a corporate entity who it seems has no concern for consumers who try to follow the rules. \n\nI implore you to help me find a just resolution to this issue. \n\nThank you so much, XXXX XXXX XXXX"
+}

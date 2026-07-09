@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3844",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85339"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21340,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A total of XXXX transactions were approved by CITI Bank on a CITI issued card between September 8-10 2024. All XXXX were reported as fraud and XXXX had already been refunded by the merchant as suspicious. I saw a credit on the account the morning of the XXXX of XXXX when I called in to report them all as fraud. I have a police report from XXXX XXXX XXXX XXXX ( XXXX ) as well. \n\nCITI is claiming that no refunds have been issued, will not issue provisional credit for the frauds, and claiming I am over my limit. I have proof in hand that on the XXXX at least XXXX of the XXXX charges ( not including the one I saw on the account ) has been refunded. I have been told by both the vendor that refunded right away ( that I saw on the statement ) and the second vendor that refunds have all been fully processed and settled. CITI refuses to get me a manager or supervisor as they are all \" too busy '' and refuses to settle the dispute or explain where any of the refunds have gone. \n\nAt this point, I was the victim of Credit Card Theft, and apparently also a victim of the CC company refusing to process the refunds already issued. This is negatively impact my personal credit."
+}

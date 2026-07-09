@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8245",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94553"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31453,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CITI, through Best Buy, issued a credit card in my name that I only used twice in-store. I received a notice that my membership was renewing and I called to close the account and membership. I have since received multiple statements, each with higher fees, for software that I did not request, have not downloaded and not used because I already own the software they claim I purchased. I never authorized the purchase and called to cancel the account and membership as soon as I became aware that it was up for renewal. I already opened a complaint previously but they insist I owe the money. I do not believe I owe the money."
+}

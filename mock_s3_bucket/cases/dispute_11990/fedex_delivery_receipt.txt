@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-74630832-US
+Shipment Date:   2026-03-10T00:00:00Z
+Delivery Date:   2026-03-16T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     1103 MAPLE DR, TX, 75035
+============================================================

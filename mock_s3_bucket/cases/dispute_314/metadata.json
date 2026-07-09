@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_314",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20120"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8276,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a mobile app from a company named XXXX XXXX on XX/XX/2022. Upon downloading the application I knew instantly that I would not be able to use this. I attempted to call the XXXX number listed on the sales info, but no one answered this phone. I attempted to call both XXXX and XXXX which were numbers I found for this company of the Internet. Neither of these phones were being picked up. I then called my credit card company, American Express, and disputed the charge. In Virginia, you can cancel a sale within 72 hours without a reason. Somehow, some way XXXX XXXX found that I disputed the charge and got American Express put the charge back on my card. When my credit card bill showed up and this charge was still there I called American Express irate telling them my dilemma and asking that this charge be removed and a second dispute was started. \n\nAs of today, the money has never been credited back to my American Express account. \n\nI have emails from XXXX XXXX claiming that they have returned my money. \n\nI am now caught in the middle. XXXX XXXX says they returned the money and American Express said they did not. I want to know what I can do to move this to resolution before handing it over to my attorney where this will get real expensive for one or both of these companies. \n\nI am including emails I have from XXXX XXXX ( XXXX ) stating that the dispute was found in my favor and they have credited the money back. Of course, upon asking them for proof they say that this letter should serve as proof. \n\nXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, XXXX XXXX XXXX"
+}

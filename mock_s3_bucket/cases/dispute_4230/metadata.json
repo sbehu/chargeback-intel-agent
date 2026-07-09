@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4230",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98056"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The purpose of this letter is to file a formal complaint about the handling of a disputed {$170.00} charge on my CitiBank account ending in XXXX. The disputed amount was eventually acknowledged and reversed on XX/XX/year>XXXX  but I was turned over to collections for the {$160.00} accumulation of fees and interest related only to the {$170.00}. I have documented hours upon hours of representatives names and conversations concerning this matter. I called numerous times each time I received another statement when I was told it would be taken care of, not to worry and all I got was transferred to another department or told to call back tomorrow because they needed to get my records brought back or some nonsense. \nThey assured me throughout this process that it would not be turned over to collections, but that was a lie obviously, because that is exactly what happened. I received a letter dated XXXXfrom XXXX XXXX their debt collector demanding the {$160.00}. Now they are calling me ( I blocked them ). \nI have asked repeatedly for a manager or someone that can actually do something about the erroneous interest and charges but they just kept passing me around. \nI not only want the charges reversed, but a letter of The purpose of this letter is to file a formal complaint about the handling of a disputed {$170.00} charge on my CitiBank account ending in XXXX. The disputed amount was eventually acknowledged and reversed on XX/XX/year> but I was turned over to collections for the {$160.00} accumulation of fees and interest related only to the {$170.00}. I have documented hours upon hours of representatives names and conversations concerning this matter. I called numerous times each time I received another statement when I was told it would be taken care of, not to worry and all I got was transferred to another department or told to call back tomorrow because they needed to get my records brought back or some nonsense. \nThey assured me throughout this process that it would not be turned over to collections, but that was a lie obviously, because that is exactly what happened. I received a letter dated XXXX XXXX XXXX, their debt collector demanding the {$160.00}. Now they are calling me ( I blocked them ). \nI have asked repeatedly for a manager or someone that can actually do something about the erroneous interest and charges but they just kept passing me around. \nI not only want the charges reversed, but a letter of apology from CitiBank and client services clearing my currently outstanding credit rating. I no longer use a primary CitiBank card and will not ever in the future as their customer service is patronizing and unwilling to help a valued customer. I repeatedly told them to check my records as I pay all my bills in full monthly and do not pay penalties and interest. \n\n\nExhausted and mishandled, XXXX XXXX apology from CitiBank and client services clearing my currently outstanding credit rating. I no longer use a primary CitiBank card and will not ever in the future as their customer service is patronizing and unwilling to help a valued customer. I repeatedly told them to check my records as I pay all my bills in full monthly and do not pay penalties and interest. \n\nExhausted and mishandled, XXXX XXXX"
+}

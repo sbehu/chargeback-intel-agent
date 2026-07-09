@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3825",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77008"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48038,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "While on vacation in XXXX my card was stolen on or around XXXX XXXX and over {$3000.00} of charges made without my knowledge over two weeks before I became aware of the fraudulent charges. I did not realise my card was missing as I had recently asked for a replacement card as my credit card chip was not working intermittently and I thought the card in my wallet was the new card but in fact it was the one. I would also note Citi did flag some charges and send an email/text as potentially fraudulent but DID NOT disable the card despite not hearing from me to confirm if they were real or not. I did not receive these messages as from the XXXX XXXX until the XXXX XXXX I was sailing up and down the cost of XXXX, stopping only at remote villages with no cell phone of internet service. Most of the charges appear to have been made in XXXX XXXX, a place I was XXXX miles away from. I reported the fraud to citi as soon I became aware of the charges but citi denied the dispute bc I said I was not 100 % sure if the card I still had was the old one or new one when I first reported it. The card have identical numbers, expiration etc. so I am not sure how I was supposed to know at that time. I only realised what had happened when I could not find XXXX cards in my luggage and I knew that I had both the old card and replacement with me when I arrived in XXXX. These charges were not made by myself or anyone else on the account and citi states that cardmembers have {$0.00} liability on such charges. This is clearly a false statement as they will deny valid disputes with little to no investigation. There are actually multiple active lawsuits against citi due to these practices brought by various state AGs."
+}

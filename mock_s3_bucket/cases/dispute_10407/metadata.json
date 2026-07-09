@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10407",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85395"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10473,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a formal complaint against Citibank for its failure to fulfill its legal obligations under the Fair Credit Billing Act ( FCBA ) since I originally filed last fall. \n\nOn XX/XX/XXXX, Citi Disputes Dept. manager \" XXXX '' guaranteed me a refund within 7-10 business days once he learned of the situation and the poor responses Id been getting via email from Citi for months due to fraud and services not rendered, only for Citi to later rescind his promise by phone. I have requested that Citi review the recorded call from this date, which contains the verbal guarantee. Furthermore, on XX/XX/XXXX, XXXX XXXX used intimidation tactics while providing false legal information regarding the bank 's responsibility to protect consumers from merchant failure to offer services paid for and even fraud, saying they are not required to reverse a charge if there is a chance they won't be able to recoup the funds from the merchant. XXXX XXXX agreed with me on another long call that day, but then after putting me on long holds repeatedly came back on his final return relaying their request for a \" credit slip '' request, a previous stonewalling tactic. I explained to him repeatedly that they had the proof of my 3-year contract and payment, and that the company went bankrupt shortly thereafter. \n\nCiti has reneged on their promise by demanding this \" credit slip '' from a bankrupt merchant a bad-faith requirement designed to block a legitimate \" Services Not Rendered '' claim. I request that your office compel Citibank to review their internal recordings and honor the dispute resolution guarantee made by their management with the proof I provided of services not rendered when XXXX XXXX XXXX went bankrupt shortly after I signed a 3-year warranty contract for {$1600.00} ( renewing the {$700.00} 1-year contract I had signed in XXXX ) which they coaxed me into for \" the multi-year cost value '' luckily I declined the 5-year contract they urged me to sign for {$2500.00}! It was later brought to my attention by Elite customer representative and XXXX XXXX XXXX and then the current bankruptcy attorneys now handling their insolvency, that theyd reverted to a Ponzi-type scheme of sorts, using these funds paid from new customers for long-term warranties to pay out debts to other pre-existing customers in a last-ditch effort to save their business. \n\nAside from the proven services-not-rendered, the core of this complaint is Citibank 's refusal to acknowledge documented merchant fraud. I was quoted and paid {$1600.00} for a 40-month term ( 3-years plus 4 months free ) by phone, yet the subsequent contract they sent me contrarily listed the expiration as XX/XX/XXXX. This 25-month discrepancy proves an intent to defraud by collecting multi-year premiums and subsequently documenting different terms in the written contract. I have enclosed the contract ( marked Exhibit # 1 ) as proof that Citibank is refusing to investigate a documented case of merchant fraud as required under the FCBA. I contend that ignoring a fraud involving 25 missing months of quoted service constitutes a failure of their federal duty. \n\nPlease be sure to review my consumer phone call recordings with XXXX on XXXX XXXX, XXXX, the phone agent on XXXX XXXX, XXXX who acknowledged XXXX 's promise ( and that it was now past ten business days ), and finally the \" XXXX '' and \" XXXX '' calls on XXXX XXXX as referenced in my statement above. Again, I simply expect Citibank to honor legal guidelines and the refund guarantee made by their own XXXX XXXX on XX/XX/XXXX, and to stop demanding impossible documentation ( a credit slip ) from a merchant in XXXX  XXXX liquidation."
+}

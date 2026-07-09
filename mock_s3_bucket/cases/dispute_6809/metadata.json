@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6809",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "631XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33088,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Continued Issues See attached list of transactions. \n\nTransaction Date Description Category Amount XX/XX/2025 XXXX XXXX XXXX XXXX XXXX  This credit balance refund was never received - it needs to be reissued or fixed. \n\nXX/XX/XXXX XXXX XXXX XXXX XXXXXXXX This transaction is fraud"
+}

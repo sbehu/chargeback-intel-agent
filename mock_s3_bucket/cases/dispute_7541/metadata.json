@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7541",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "92508"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16485,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchased tickets for an event at XXXX ( thru XXXX ) using a Citi Credit card on XXXX XX/XX/year> for an event on XXXX XX/XX/year>. The tickets were purchased for this specific event ( out of several events ) due to the specific performing XXXX. \n\nEverything started on the day of the event as expected, and instead of bringing the stars out, they played a TV show. After the nearly hour long TV show, the venue announced that the star would not be present and they had other attendees instead. \n\nI checked the website and saw that this star was quietly removed a few days before the event ( I used the wayback machine to verify when the star was removed ). I contacted the venue complaining about this issue and never received a reply. I then filed a chargeback with Citi and they investigated, requested information ( and proof ) and then stated on XXXX XXXX 2025 that \" They were unable to assist since I used these services with the knowledge that they were not what I originally agreed upon. '' I refiled the dispute and then Citi responded on XXXX XXXX 2025 stating that the charge was valid. Again, this was a bait-and-switch dispute, not an invalid charge. \n\nI refiled again and then Citi responded on XXXX XXXX stating they didn't have enough information to support my claim. \n\nI refiled again and Citi stated they were reaching out to the merchant. Citi gave the merchant 60 days to respond and the merchant responded on the XXXX day. On XX/XX/XXXX, Citi responded that the information they had wasn't enough to support the claim. I contacted Citi and found they told the merchant I never received the tickets. Of course, this was not true, so I OPENED THE DISPUTE AGAIN. \n\nOn XXXX XXXX and then XXXX XXXX, Citi said that they \" Have no recourse with the merchant for this issue. '' On XXXX XXXX, Citi responded that they will support my claim if I can provide a credit slip from the vendor. Of course, this is nothing I have, and I can not supply. \n\nCiti is no longer responding to my claims for support. \n\nAt no point did the venue attempt to notify attendees that this star would not be present."
+}

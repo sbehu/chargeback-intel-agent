@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_396",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92122"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31823,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Amex grossly neglects to manage the disputes properly. During my travels, a couple of hotels happened to be providing unacceptable conditions and lacking the advertised amenities, leading to my disputes. Amex consulted with the hotels which used fraudulent strategies ( or just lies ) to invalidate my claims, such as lying that I didn't complain to the front desk and give them the chance to fix it. Amex consistently closed my disputes in responses although I have brought these issues and claims to their attention and repeatedly reopened the claims."
+}

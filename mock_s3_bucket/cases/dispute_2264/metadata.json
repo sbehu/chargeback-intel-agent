@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2264",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "287XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16163,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Between XXXX and XXXX I had 28 fraudulent charges ( totaling {$160.00} ) on my card ... ... ..all with the same merchant name. I talked to XXXX and used their online tool to check for charges to my card number and they did not show any charges. I reported this activity within days of the charges showing up. AMEX has always been responsive on the phone, issued replacement cards and for the first few charges they were prompt in communications and provisional credit. To date, they have refunded 20 charges for {$77.00}. With the remaining 8 charges ( totaling {$84.00} ) AMEX has been much more difficult. I have reported these charges no less than four times and each time the phone staff are very responsive, but the credits never get issued. It has now been almost two months since I first reported the most recent fraudulent activity. I have one confirmation dated XXXX ( several weeks after reporting the charges ) stating they would credit my account for {$52.00}. This credit has never occurred. After multiple additional attempts ( and contacting the Office of the President ) to get provisional credit, I received another letter on XXXX stating they have issued provisional credit for {$31.00}. This credit has not occurred to date. The resolution date is XXXX which is over XXXX months from the time I first reported the activity. \n\nFinally, after 3-4 calls to the Fraud department and a letter and 3 calls to the Office of the President they did provide the remaining credit that they had been promising for over a month. This credit was provided without any letters, emails of verbal communication from the company ... ... .just a credit that i happened to notice on my account."
+}

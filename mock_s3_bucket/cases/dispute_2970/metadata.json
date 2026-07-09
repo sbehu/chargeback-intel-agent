@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2970",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1834,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted claims with the Delta American Express Fraud Department in XXXX, XXXX and provided all of the supporting documentation to ensure that Delta American Express would process the fraudulent amounts off of my account. However, they did not process the claims, nor did they attempt to process the claim. They simply denied the claim without due process or review. Multiple attempts to contact Delta American Express went unanswered with no recourse. They closed my account and placed the account in collections despite the attempts to contact and provide the documents again. \n\nXXXX proceeded to send me a tax statement showing that the charged-off amount was written off, however they refuse to remove the collections amount from my credit report as well. \n\nAdditionally, Delta American Express refused to follow SCRA guidelines and Laws and make the proper adjustments to my accounts.\n\nI would like for Delta American Express bank to refund me all of the money owed to me with interest, provide all documents and adjustments needed to rectify the damage that has been caused to my credit. I would also like my Delta American Express Credit Card Account privileges reinstated should I ever desire to apply with this company in the future."
+}

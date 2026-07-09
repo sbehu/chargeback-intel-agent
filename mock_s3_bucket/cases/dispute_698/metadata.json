@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_698",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91016"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34478,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I initiated a dispute regarding a charge online via my online account with American Express. After answering their questions, and submitting my response, American Express declined to proceed with investigating my claim. After receipt of the denial, I contacted American Express directly and spoke to a customer service representative. I was asked to explain my case again and the reason for the dispute. Per the Representative, I \" selected the wrong option for my dispute '' and the Representative initiated my dispute afterwards. \n\nWhile I am happy American Express is proceeding with the investigation, the regulation requires that investigations be initiated as long as they fit within the regulatory timeframe to file disputes. This act presents a potential violation of Truth-in-Lending laws. I am requesting that American Express provide an answer as to why my initial dispute was not processed."
+}

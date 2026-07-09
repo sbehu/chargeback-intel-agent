@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-90873361-US
+Shipment Date:   2026-03-15T00:00:00Z
+Delivery Date:   2026-03-17T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     6823 SUMMIT BLVD, TX, 77339
+============================================================

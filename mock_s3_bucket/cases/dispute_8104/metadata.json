@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8104",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NE",
+    "complaint_zip": "680XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1409,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a bill from Navyist Rewards Mastercard for items charged that I didnt charge on the card. \n\nXX/XX/XXXX XXXXXXXX XXXX XXXXXXXX XXXX XXXX  for {$440.00}. \nXX/XX/XXXX XXXX XXXX XXXX XXXX XXXX for {$320.00} XX/XX/XXXX XXXXXXXX XXXX XXXX XXXX XXXX  for {$330.00} XX/XX/XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX for {$330.00} XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX XXXX  for {$320.00} Total Purchase {$1700.00} Barclays for the Navyist Rewards Mastercard wrote me a letter on XX/XX/2025 stating the transactions were not fraudulent. \n\nI know no one in Washington nor have I ever visited the state. I reside in Nebraska and am an XXXX who recently retired after 35 years in this position the last 17 years as a well respected employee for XXXX XXXX XXXXXXXX. I also have an XXXX XXXX  card with free shipping so why would I even charge anything on this XXXX! \n\nOn XX/XX/XXXX through the XXXX this summer ( XXXX  ), my spouse our XXXX grandchildren and myself were camping in XXXX Iowa at XXXX XXXX XXXX campgrounds. There was no internet connection that is well known at this area, which can be verified through the park. I had no capacity online for the suggested purchases.\n\nIm not sure how someone obtained my account information but did get a notification that my email had been hacked around the same time frame."
+}

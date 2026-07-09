@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10259",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "401XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20369,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I see that XXXX responded that I needed to clarify my dispute. The problem is I already did that. I put one dispute in for {$100.00} and some change in another for thousand by phone on separate days because I cant figure out exactly what they did but I know I was overcharged. I do have a better perspective on it now because I see theyre deleting and charging me for the same things over and over again even if they were refunded. So their response was not appropriate because I did initiate the dispute and they did the opposite and put XXXX in dispute and I never said that. I even called and followed up after that. They still did not correct it. Now they have me accumulating a lot of interest and have conducted no investigation and am in fact giving me statements that reinforce that my credit card bill was inflated and added back in things that were refunded or paid for already. If you pay attention to XXXX, it says my balance was greater than XXXX then they did their promos and I know those documents are dry and Im providing an example and I will label it example. Its a different credit card, but it just shows that they are making their receipts up. Im glad I have a receipt of some sort, but its for my granite that I bought with my XXXX XXXX XXXX XXXX there because I quit using my Home Depot card after XXXX. The first charge was for the granite in the amount of XXXX something dollars in XX/XX/XXXX, and the other charge wasnt until XXXX when they installed it for the backsplashes. They gave it to me all on one receipt. Thats definitely not an original. When I reached out trying to get receipts because everything was deleted out of my Home Depot account and not buy me this and the other receipts were given to me by email and they even say theres no URL associated with it. I hate that Im having the problem establishing the of my charges, but its their fault. They deleted my account and they did so for a reason. Please note on the XXXX statement they recharge all my purchases again, including the ones that were refunded. I have a paper with an XXXX {$1700.00} order included in the files that Home Depot assured me was completely refunded and provided me a copy. Then i see on the statements that I requested from Home Depot that a {$200.00} charge from that order was added back in amongst other things. And the same two cans of paint keep showing up more than one time for {$110.00} or something like that youll see it. And Ill tell you while I did buy ceiling paint that was on that XX/XX/XXXX receipt it was before that financing was done. It wasnt part of the 0 %. I do believe the order was about {$110.00} and didnt have two cans of paint on it. I have paid them around {$7300.00} to date and Im quite sure Ive probably overpaid. I cant trust any receipts. They gave me and youll see why. I know I previously never had any promos expiring in XX/XX/XXXX either they all shouldve been for XXXX at the latest XXXX if it was a different billing cycle. I have a copy of something I got off the Internet in a XXXX way from XXXX and there were no new purchases. I did this before. I asked Home Depot to mail me the statements which by the way I didnt get one for XXXX, but they say my first statement is 48 days long and its ridiculous. There was also a refund on the {$1200.00} paint order they created in the amount of XXXX and some change that I didnt create. There were refunds later in XXXX as well. I was assured the amount would be put in dispute and no interest or late feees would accrue. The amount of the dispute was greater than what I owed, and now they have done the opposite and tacked on late fees and by interest and failed to correct the disputed amount. they created this problem. I didnt."
+}

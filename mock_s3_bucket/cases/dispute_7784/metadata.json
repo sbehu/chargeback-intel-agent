@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7784",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92021"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44252,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Card was used for unauthorized transaction totaling XXXX USD. I called Citi while transaction were still pending and notified them that while I had my wallet, my phone was lost/stolen at a convention in XXXX. Theres a phone number in the merchant and when dialed it is just a personal voicemail, and the company XXXX XXXX seems to be a XXXX XXXX of some sort for online gaming as the charge. Citi denied my claim without giving me additional information and stated it was my fault."
+}

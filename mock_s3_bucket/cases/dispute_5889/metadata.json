@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5889",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80907"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32633,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Since XX/XX/year>, I have been charged over $ XXXX for a service I did not authorize. I have reached out to AmEx and XXXX XXXX XXXX requesting that this tv service be canceled. \n\nXXXX has refused to cancel it because an email was used to start the subscription that does not belong to me and because I don't have access to the email they won't stop charging MY credit card. Its insance. \n\nAmEx has given me a similar run around saying they don't have the authority to stop the recurring billing."
+}

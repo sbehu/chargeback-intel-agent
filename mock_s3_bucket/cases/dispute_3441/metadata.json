@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3441",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60068"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16672,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraud was committed on credit card on XXXX XX/XX/year> by a XXXX XXXX for XXXX EUR. \nDispute was noticed on XXXX XXXX shortly after the charge posted for XXXX EUR. \n\nOn XXXX XX/XX/year> I was notified that the dispute was closed against me automatically and that I am liable for the disputed purchase. \n\nI want Citi Bank investigated for not protecting me from fraudulent charges even though they claim to and not investigating fraudulent charges. I would like my money refunded to me for charges I did not make, that Citi said it would protect me from. The card does not have a PIN even though I want it to have one for security purposes. \n\nI did not make this transaction, the credit card company Citi did no due diligence to contact the merchant and to prove that it was valid or that I made the purchase. They made no attempts to get billing receipts from XXXX XXXX XXXX. \n\nCiti bank credit card representative said because a physical card was used for the transaction, and because transactions were made after the transaction, the dispute is automatically resolved in the merchants favor. This makes no sense, and they are clearly trying to shirk their responsibility. The Citi employee I spoke to refused to reallocate the dispute or re-open it as services not rendered. \n\nI attempted to reach out to XXXX XXXX XXXX and was not able to even get in touch with this merchant as they exclusively speak XXXX, a language I can not even speak. XXXX does not even offer individual consulting services, they only do marketing to businesses. This case is so obvious I am shocked that Citibank Credit card services can harm consumers and get out of their contractual obligations with no consequences."
+}

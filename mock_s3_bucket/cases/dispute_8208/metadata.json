@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8208",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "070XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18049,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> I got scammed by a company named XXXX XXXX for the amount of {$390.00}. The rep that handled the situation is named XXXX XXXX. This scam of a company claimed to be XXXX XXXX I was dealing with dealing and XXXX XXXX children who were not able to travel that day. I called what I thought was XXXX XXXX asking for my options on not losing the tickets. They claim if I pay the amount I would be reimbursed for the tickets minus the {$390.00}. The call became suspicious and once I questioned it they hung up on me. I since then found the correct info for XXXX XXXX  and they mentioned they dont operate in that way and would never charge a fee for a canceled flight. I used my American Express card which I filed a claim with and also led me to file a complaint for the refund of the scam for their were no services rendered and I was tricked."
+}

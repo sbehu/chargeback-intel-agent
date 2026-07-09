@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7291",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33133"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2298,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, XXXX XXXX, XXXX XXXX charged XXXX different charges on my wifes American Express even though she had a {$2000.00} limit per billing cycle limit.Total {$15000.00}. This wrecked my credit and launched us into divorce court. ( $ XXXX ) Ive phoned the XXXX XXXX & AMEX multiple times.to no avail."
+}

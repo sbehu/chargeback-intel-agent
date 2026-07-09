@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11914",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NE",
+    "complaint_zip": "68116"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34580,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a predatory balance and unconscionable lending practices by Citibank ( Best Buy XXXX XXXX ). \n\nIn early XXXX, I purchased a television for {$1900.00}. Based on my bank statement audit, I have paid Citibank {$3400.00} since that purchase. Despite paying 175 % of the original principal, Citibank claims I still owe a remaining balance of {$1600.00} due to a deferred interest 'trap ' and a 29 % APR. \n\nFurthermore, my official credit report ( attached ) shows this account was marked as 'CLOSED ' as of XX/XX/XXXX. Despite the account being closed and the credit line terminated, Citibank continues to accrue high interest and demand monthly payments. \nI have a 7-year history of 100 % on-time payments with this institution ( see attached payment history ). When I called to negotiate a good-faith settlement, a supervisor abruptly terminated the call the moment I requested a XXXX-balance waiver. \n\nI have now revoked my authorization for automatic drafts. I am requesting that Citibank perform a Goodwill Adjustment to bring this balance to {$0.00} and settle the account as 'Paid in Full, ' given that the principal and a significant profit have already been satisfied."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_121",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33837"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31296,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2022, my XXXX account was compromised which had my Citi Double Cash card linked to it, the account was used to purchase some odd item with that card which amounted to XXXX. I immediately, within seconds, requested to cancel the order with XXXX and notified Citi of the problem. Citi thanked me for informing them and requested I wait to see if XXXX will cancel the order, and if not they will proceed with reversing the transaction. It seems at this point Citi opened a dispute and closed it marking it consumer responsibility as XXXX was supposed to handle it. To my misfortune and after many different attempts trying to get his resolved over a few months, XXXX could not cancel the order since the item bought was sold by a third party seller, of which they contacted the seller requesting a cancellation to no avail. I asked them how I'm supposed to get my money back if they can not refund it. The representative of XXXX told me to dispute it with Citi, as they have no way to refund the money to me. I took and have screenshots of this conversation. I went on to call back Citi, informing them of what happened with XXXX. The Citi representative asked me to send the screenshots to XXXX, and told me upon review of the screenshots a refund will be issued. This was in XXXX of 2022. I called back a couple months later as I did not see a refund, and to my surprise there was no notes or information about my prior call and none of the information was reviewed. I reexplained what happened, told them what XXXX said, told them what the last citi representative said, and they assured me it will be reinvestigated and I will be kept informed. Again, a couple months go by and nothing. I call back, again, and ask about any update. Lo and behold, there was no notes or information about that call either. At this point I'm quite upset, so I demand to speak with a manager, and after practically begging to speak with one I get connected to one after some time. I reexplain everything again, what XXXX said, what the first representative said, what the last representative said, my frustration with being deceived and delivered false promises, etc... The manager sympathizes with me, apologizes, and assures me the case will be reinvestigated. I thank them and hang up. This was probably in XXXX of this year, I cant quite recall. I waited a couple weeks, didn't hear back, didn't see a refund or update in my Citi app, so at that point I was done. Their fraud department is so frustrating to contact so I simply did not have the energy to continue fighting this battle. To this day theres no followup. \n\nFYI, the card number inputted on a later page in this complaint was an older card that has since been updated, i.e a new card number was issued. The number inputted was the number that was compromised."
+}

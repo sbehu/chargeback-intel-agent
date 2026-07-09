@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_439",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77494"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37606,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reported missing credit card following unauthorized transactions on my credit card with this company on XXXX transactions. My initial dispute was through XXXX where the unauthorized transactions occurred but XXXX refused to act on the dispute. So, left with XXXX last option I filed the dispute with my credit card company, only for my credit card company to make their decision based on XXXX claim citing other valid transactions on the XXXX account as the reason to counter my dispute. It is a shame that the credit card company will go with a merchant like XXXX who actually benefited from the unauthorized transactions in fees and interests to deny a consumer disputing an unauthorized transaction been fully aware that this was a case of a reported missing card. I have decided to report this here as a last resort to resolve the dispute I filed."
+}

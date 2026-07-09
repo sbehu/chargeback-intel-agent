@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6421",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "AZ",
+    "complaint_zip": "85364"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16724,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX of 2025 someone used my Citi card information on XXXX Car Rental in Oklahoma and charged XXXX. I reported this transaction immediately and my card was cancelled and replaced. I received a security credit and I was told everything should be good now. \nOn XXXX of 2025 another charge was made to my card from the same company. I called Citi bank again to report the charge. They cancelled my card again and another one was sent. The transaction was showing as pending and never posted, so no credit was issued. I asked why was my card able to be charge again and I was told by Citi representative that the merchant had my card information saved as concurrent payment and the information updated as soon as my card was replaced. I requested for this feature to be removed and block this merchant as I have never done business with this company. I was assure the request was done and it should happen again. \nOn XX/XX/year> another charge of XXXX dlls was made to my new Citi card without my authorization from the same merchant. I called and reported the transaction again. My new card was cancelled once again and a new one was sent. I called Citi for an update on XX/XX/XXXX because the charge still chowing and I was told it was still in process and they could see my dispute on their end. On XX/XX/XXXX, I texted through the Citi 's app for an update on my dispute. I was told they could see my dispute on their end and gave me the direct number to the fraud department. On XX/XX/XXXX, I called to get an update on my dispute, and I was told by the representative that the merchant provided proof showing somebody's name making this a non-fraudulent charge. I have never heard this person 's name before not I have ever worked with this merchant before. This card is under my name and I don't have any authorize users in my account, I don't know how this person can use my card information."
+}

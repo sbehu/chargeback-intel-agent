@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5537",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92128"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4893,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Follow-Up Complaint Regarding Citibank Dispute Handling ( Reference Prior Case # XXXX ) Dear Consumer Financial Protection Bureau , I am submitting a follow-up complaint regarding Citibanks failure to conduct a fair and thorough investigation into my credit card dispute for a XXXX hotel charge of {$880.00} XXXX While Citibank has responded to my initial complaint, their investigation was incomplete and unfairly favored the merchant without properly considering all the facts. \n1. Citibanks investigation was one-sided and lacked due diligence. They blindly accepted XXXX standard non-refundable policy without considering my specific complaint, which involved a technical glitch that led me to book a hotel in the wrong state. They also failed to acknowledge the exceptional circumstances of my fathers passing, which directly affected my ability to use the reservation. \n2. Citibank placed the burden of proof solely on me, rather than investigating XXXX system. XXXX controls their own booking system, yet Citibank made no effort to review whether a technical error occurred. Instead, they shifted all responsibility onto me as the consumer, making it impossible for me to provide documentation that only XXXX would have access to. \n3. I am requesting Citibank provide the full dispute file, including all correspondence with XXXX. This is critical to understanding how they justified siding with the merchant, despite my evidence and extenuating circumstances. \n\nGiven these failures, I respectfully request that the CFPB reopen this case and escalate it for further review. Citibank has a responsibility to conduct fair investigations and protect consumers in disputed transactions, and in this case, they have failed to do so. \n\nSincerely, XXXX XXXX"
+}

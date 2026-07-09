@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8909",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43235"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2588,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Urgent : Double Charge on Hotel Booking via Citi XXXX Request for Review and Refund Dear Citi XXXX/ Dispute Resolution Team, I am writing to formally request a review of my recent hotel booking dispute, which appears to have been mishandled and has resulted in a double charge for the same accommodation. \n\nI used Citi XXXX to book a hotel reservation, just as I have successfully done in the past for flights and other travel bookings. My expectation was straightforward to complete the booking through Citi XXXX and not be charged again by the hotel at check-in, unless my stay schedule changed. \n\nHowever, upon arrival at the hotel, I was asked to present my credit card. I assumed this was only for verification or incidental purposes. Later, when reviewing my credit card statement, I discovered that the hotel had charged me again for the same stay despite my payment having already been made through Citi XXXX. \n\nI immediately raised a dispute for the hotels transaction, explaining that it was a duplicate charge. Citi resolved that first dispute in favor of the hotel, stating that I had stayed at the property. Subsequently, Citi opened a new dispute for the original Citi XXXX transaction which I assumed would be resolved correctly as a duplicate payment. To my surprise, that dispute was also closed in favor of the merchant, citing that I should have canceled the booking before check-in.\n\nRespectfully, this reasoning is illogical I did not cancel the booking precisely because I intended to stay there. The issue is not a cancellation but a duplicate payment for the same accommodation. I have no visibility into communications with either merchant, and the helpdesk has only informed me that an appeal can be initiated without providing a way to track its progress.\n\nAll I ask is that this case be properly reviewed and that one of the two transactions be refunded, as I paid twice for the same stay. This situation has been extremely frustrating and has caused significant stress and XXXX. I trust Citi will ensure this is resolved fairly and promptly. \n\nPlease confirm that my appeal has been logged and provide visibility into the next steps or any documentation you may require from my end.\n\nThank you for your time and understanding. \n\nSincerely, XXXX"
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-12198282-US
+Shipment Date:   2026-03-16T00:00:00Z
+Delivery Date:   2026-04-15T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     6409 RIVER DR, NJ, 8081
+============================================================

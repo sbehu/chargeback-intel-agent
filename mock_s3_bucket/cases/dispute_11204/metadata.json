@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11204",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90046"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45958,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I searched for a medical provider online and encountered many that disclosed nonrefundable fees. Eventually I found XXXX and in the screening process their system said I was approved and prompted me to input my shipping address and credit card info. My card was then charged and I was forced to go to another portal to fill out a medical intake form where it was apparent I did not qualify. I did not submit the medical intake form. There was no option to cancel or withdraw my order. I immediately tried to dispute the charge and emailed the company to cancel the transaction. They refused and stated that they hold {$100.00} for processing medical intake which I did not submit. Citibank denied my dispute even through I received no goods or services and did not submit any medical intake or medical forms."
+}

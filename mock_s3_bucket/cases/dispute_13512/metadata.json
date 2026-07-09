@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13512",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95828"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24361,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this response to clarify my dispute regarding the XXXX suitcase purchased from XXXX XXXX in XXXX. \nI am not disputing that I made this purchase. My dispute is based on the fact that the item I received was defective, and the merchant refused to provide a refund or exchange, which is not consistent with reasonable merchant practices or consumer protection standards. \nThe suitcase has a broken handle that does not retract, making it unusable for its intended purpose. I identified this defect immediately after purchase and returned to the store the following day to resolve the issue in person. \nAt that time, I spoke directly with an employee and demonstrated the defect. I was toldusing a translation appthat they would not accept a return or exchange because the item was purchased as tax-free. Despite clearly showing that the item was damaged, my request was denied. I made multiple attempts to resolve the issue, including asking for an exchange, but was refused. I was effectively forced to keep a defective item. \nThis refusal is unreasonable. A merchants tax-free policy does not override their responsibility to provide non-defective merchandise or to remedy defective goods. Refusing any form of resolution for a damaged product is not consistent with fair business practices. \nAfter returning to the United States, I made an additional attempt to resolve this directly with the merchant by contacting them. I received a response but the company stated they will not process a return so I have a broken suitcase I can not use. I have included documentation of this outreach with my dispute. \nKey Facts : Item received was defective ( non-functioning handle ) I attempted in-person return the next day and spoke with staff Merchant refused refund or exchange citing tax-free policy I made a good faith effort to resolve the issue multiple times Merchant failed to provide a satisfactory response to my outreach I was left with a damaged, unusable product and no resolution They provided false information to American Express saying I did not speak to them in person when I clearly did. \n\nUnder American Express dispute standards, this qualifies as defective merchandise and merchant refusal to accept a valid return. The merchant failed to uphold their obligation to resolve a defective product claim. \n\nI respectfully request that this dispute be resolved in my favor. \nThank you for your time and consideration."
+}

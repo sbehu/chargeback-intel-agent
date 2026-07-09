@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3800",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "787XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2781,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello the office of CFPB, I am writing for your assistance to please help me to get American Express to do a thorough investigation on the fraud/scam case opened by me in XX/XX/year>. I would like them to reexamine their current outdated policy/guidance and to correct this situation : Refund me the invalid {$11000.00} charge on my account and to report this merchant to the appropriate authorities to prevent them from doing this to others. Scammers are getting smarter, and it is hurting all of us if we don't look at the facts and adapt our policies too. \n\n1. In XX/XX/year>, I traveled to XXXX XXXX and purchased a single candle for {$11.00} in XXXX XXXX. The merchant took my card and charged it to something else without my knowledge and authorization. I am disputing the invalid and unauthorized {$11000.00} charge to me by XXXX XXXX which American Express is allowing to be posted on my account. \n- American Express allowed the {$11000.00} charge on my card without prior verification with me. This is to date the highest amount charged on my card or any of my credit cards. \n- This also happened internationally so this should have been a major red flag for the AMEX fraud department. \n2. Once I became aware of the situation, I timely reported the finding and provided evidence. There was a lot of back and forth and in the end, American Express gave me back a generic In response to our previous inquiry, the merchant has provided us with itemization and a signed receipt indicating that the charge in question is valid which has been attached for your reference. '' - The merchant targeted me because I used the American Express card and found a loophole in the system. \n- They provided invalid and falsified documentation for a transaction that I did not authorize. I did not receive any of the listed items. Also, the single candle for {$11.00} that I got was not listed on their receipt. \n3. When I spoke to American Express representations, they were not helpful because this situation did not fit perfectly in their defined guidelines. It isnt a fraud because I gave the card over to the merchant even if the merchant switched the charge on me without my authorization. They agreed that this is a scam and I was told that I was not protected with scam cases. \n\nTo date, I have provided evidences of what I purchased : photo and the receipt given to me after the transaction matching what we agreed on and what I actually received, my communication with the merchant about the transaction in which he could not confirm it was me or my transaction but refused to correct his error, my notes on the discrepancies on the merchants documentation, as well as my notifications to the agencies of this fraud/scam case. \n\nPlease help me. Please just read through the facts. This is an awful feeling and I truly hope for this to not happen to anyone else too. \n\nThank you!"
+}

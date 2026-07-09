@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2910",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33189"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44335,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was traveling in XXXX last month and towards the end of my trip I realized some unauthorized transactions posted on my XXXX credit card. I immediately called Barclays to inform of some kind of fraud happening. I informed them about the irregularity and explained that I was traveling with a large group of people where credit cards were handed back and forth to pay for food and stuff. I didn't know most of this people, I don't know if maybe XXXX person used my card without my knowledge and authorization. Barclays collected information about the unauthorized transactions, started an investigation, entered temporary credits for the unauthorized transactions, blocked the credit card and sent a new one. Just today I found out the credit card company decided all the transactions were valid for them and I have to pay that money."
+}

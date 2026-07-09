@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6306",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "479XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30984,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b\"My name is XXXX XXXX XXXX XXXX. I am an American Express client since XXXX, my social security is XXXX, Credit card number AMEX XXXX XXXXXXXX XXXX XXXX. Address XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX indiana, XXXX  On XXXX XXXX XXXX, I was charged $XXXXXXXX by XXXX via American Express for two roundtrip business class airline tickets (XXXX). The travel dates were XXXX XXXX to XXXXXXXX XXXX XXXX.\\n\\nOn XXXX XXXX XXXX, we were denied boarding on the initial business class flight due to overbooking. After more than 10 calls to XXXX, we were rebooked in economy class without our consent on an alternate routing. A delayed connection caused us to miss the flight to XXXX  and incur over $XXXX in hotel, meals, and transport costs in XXXX XXXX On XXXX XXXX and XXXX, we were again downgraded from business to economy, including on a 16-hour international segment from XXXX XXXX  to XXXX. We also lost a prepaid connecting flight and business meetings.\\n\\nXXXX refused to issue any refund or monetary compensation and only offered non-transferable vouchers, which we rejected.\\n\\nI submitted two disputes to American Express: XXXX and XXXX. Despite clear evidence (tickets, boarding passes, receipts, emails), both disputes were closed citing XXXX refund policy. This is not a refund case, but a clear breach of contract and non-delivery of the purchased service. American Express failed to uphold its responsibilities under Regulation Z and the Fair Credit Billing Act.\""
+}

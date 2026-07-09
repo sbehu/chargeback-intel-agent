@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8267",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10452"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9290,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchased from XXXX, order number XXXX for a total of {$580.00} ( XXXX items ) for purchased of items for my family house during our family vacation. I took advantage of the sale that the store was having online plus an extra discount if I applied for the store credit card which I did and was approved. \n\nI received the delivery on XX/XX/XXXX but was unable to open my huge box which received and when I had a chance to opened it on XX/XX/XXXX the box only have XXXX items out of the XXXX that belonged to my order and about XXXX that were not part of my original order. I contacted XXXX customer service immediately to explain the issue, they sent me a label to return the items that did not belong to me which I sent in good faith because there was no use for me to keep and steal these products but when I asked about my items, they did not replace them and claimed I had received it and was charged for it. I was transferred to XXXX card services which handles XXXX XXXXXXXX card and they filed XXXX disputes so far with no outcome that can refund my money, I repurchased the items at the store and some online and paid {$160.00} for the items I received but now I have a balance of {$440.00} and no one is being responsible for it damaging my credit. I owe no one and am unemployed and this situation is causing me XXXX and aggravating my XXXX XXXX it is unfair that I ambling liable for some items I did not receive, The box I received the items was sealed with the XXXX XXXXXXXX tape which led me to believe someone at their warehouse stole my merchandise."
+}

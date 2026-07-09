@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7006",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "731XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7071,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or around XX/XX/XXXX, a {$65.00} charge from XXXX XXXX XXXX appeared on my Dillards Citibank credit card. I did not authorize this transaction, and I contacted Citibank immediately while the charge was still pending to report it as fraud. \nI was told by a customer service representative that the dispute was not processed and no record of my original report could be found. I have now had XXXX separate calls disconnected one after being on hold for over an hour, and another after I asked to speak to a supervisor. \nI have made multiple attempts to resolve this and simply want the unauthorized charge removed and to ensure no interest or late fees are added to my account while this is pending. I have now filed a formal written dispute per the Fair Credit Billing Act but have received no follow-up or resolution from Citibank"
+}

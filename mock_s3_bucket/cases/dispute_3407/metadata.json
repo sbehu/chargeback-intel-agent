@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3407",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96701"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31445,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Approximately XX/XX/XXXX I discover an unauthorized charge of {XXXX} to XXXX XXXXXXXX XXXX  on my XXXXXXXX XXXX XXXX XXXX XXXX on XX/XX/XXXX for XXXX days XX/XX/XXXX to XX/XX/XXXX. I immediately contacted XXXX who closes the account, removes the unauthorized charge and issues me a new charge card. I notice in my statement dated XX/XX/XXXX that the charge is reinstated and I receive a letter dated XX/XX/XXXX that XXXX is referring this transaction to a dispute specialist. I them received a letter date XX/XX/XXXX that concluded the transaction is not fraudulent. \nI receive a call on XX/XX/XXXX from the Dispute Department at XXXX saying I am being held responsible for this charge of {$XXXX}, primarily because I was in XXXX XXXX at that time and my email and phone number was used and credit card was used. \nMy communications to XXXX included an email XX/XX/XXXX stating I contacted XXXX for a refund. On XX/XX/XXXX I send a letter to XXXX detailing my attempts to get a refund from XXXX because no-one showed up for the reservation. On XX/XX/XXXX I send another letter to XXXX with proof that I stayed at XXXX XXXX  during this trip to XXXX XXXX from XX/XX/XXXX to XX/XX/XXXX FREE. On XX/XX/XXXX I send another letter to XXXX enclosing a copy of my Boarding pass from XXXX to XXXX XXXX arriving at XXXX am PST ( XXXX HST ). The reservation for the {$XXXX} was made on XX/XX/XXXX at XXXX HST. I am already in XXXX XXXX at XXXX HST so I could not possibly have made this reservation with XXXX. My next letter to XXXX dated XX/XX/XXXX informs XXXX that XXXX has refunded XXXX  all monies except for {$XXXX} a one night no-show fee. On XX/XX/XXXX I send a letter to dispute the decision made by XXXX that this was not fraud. \nI receive a letter today dated XX/XX/XXXX from XXXX stating that this was not fraud and I am liable for the {$XXXX} and it is now due."
+}

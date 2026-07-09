@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_797",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95628"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49286,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I erroneously made a payment on my Citibank credit card of nearly {$6000.00}. On XX/XX/2023 at about XXXX  ( PST ) I realized my mistake and called Citibank to receive a refund. I was informed it would take approximately XXXX - XXXX business days to receive my refund via paper check. I complained, and a supervisor 'over-rode ' the system so that the refund could be directly deposited to my bank account. However the refund still would not be issued for XXXX - XXXX business days. This seems like a long time, given the speed with which electronic transfers can be made. I asked to speak to the supervisor. I believe his name was XXXX, who repeatedly told me the same information, continuously interrupted me and did not listen to my concern. When I told him that, based on our discussion, i wanted to close my citibank credit card account, he asked for my text number to send verification, which I gave him. I asked that he also send confirmation that the refund was being processed. He refused, saying there isn't a system e-mail for that purpose, and he couldn't send personal information via e-mail or text. I wasn't asking for personal information, just a confirmation that they were working on my refund. I tried to tell him this, but he talked over me, and ultimately hung up on me. I have not received the text he said he would send to verify closure of the account. I have no assurance that my refund is being processed or will be made in a timely manner."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12059",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "73170"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21910,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a sofa from XXXX for {$630.00} on XXXX XXXX, 2025. The product was advertised as Assembled : Yes and estimated to require 30 minutes to assemble. However, it arrived completely unassembled and required full construction with extensive hardware, which is inconsistent with the listing. \nI attempted to return the item. The merchant acknowledged that home pickup was required due to the size and weight but refused to provide it, offering only drop-off return or a partial refund. The item was labeled for team lift and could not be returned without additional cost, making the advertised free return unusable. \nI disputed the charge with Citibank and provided documentation, including merchant communications and evidence of the product discrepancy. The first denial stated that there was insufficient evidence, despite my submission of supporting documentation. The second denial stated that the merchant delivered the item. In both cases, Citibank did not evaluate whether the product matched the listing or whether the return policy was usable as advertised. \nI attempted to reopen the dispute and submitted additional documentation, including a full evidence package by mail. Citibank again denied the claim without addressing these issues, and appeared to evaluate only delivery confirmation rather than the combined issues of misrepresentation and an unusable return process."
+}

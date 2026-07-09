@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3080",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "32080"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36301,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged {$570.00} by a company called XXXX XXXX XXXX XXXX  I immediately recognized this as a charge we did not make. I called Barclays and they shut down our card and credited the account. A month later they sent a letter saying the charge was legit and put it back on the card. I appealed and appeal was denied. I asked for proof and they sent me photos of the three items. ( Socks, shorts, and slippers ) The company is supposed to be in XXXX but there is no website even though I was said to order online. I also have put XXXX of charges thru this card last 90 days and paid in full each billing cycle. I have tried to hire local attorney but no interest. I will not be paying this charge. Please help. This is a Barclays Aviator Mastercard. Their number is XXXX"
+}

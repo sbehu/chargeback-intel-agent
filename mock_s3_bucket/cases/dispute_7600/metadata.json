@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7600",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33322"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33737,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Upon routine inspection of Barcleys Banana Republic MC statement on XX/XX/XXXX I found that there was a fraudulent charge made on my account in the amount of {$3500.00} on XX/XX/XXXX. I never received any verification attempts from the bank about this charge before they released the amount and placed a charge on my account. I called the customer service immediately and they informed me that the charge was made using convenience check. I wasnt aware of what that was and informed them I didnt use any checks. They opened an investigation which after 10 days they concluded and informed me that check is legitimate and Im responsible for this charge. I informed them that I had not use any checks and didnt authorize any charges. Since that day XX/XX/XXXX I can not resolve this matter with Barclays representatives. On XX/XX/XXXX I received in the mail a copy of the check in question and I can definitely confirm its not something I signed and after inspection with my amateur eyes a can attest to not being legally binding document. Im very disappointed with lock of professionalism on Barclays side in resolving this issue. I will greatly appreciate your assistance in getting this resolved as soon as possible."
+}

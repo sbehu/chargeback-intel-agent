@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7622",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90047"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25835,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting a defective XXXX washer/dryer combo that has leaked water repeatedly for nearly a year and does not properly filter or remove lint. The lint continuously cycles inside the drum, creating a potential fire or overheating hazard. \n\nWe had seven technician visits, and XXXX  service personnel acknowledged that the unit was defective. However, the problem was never fixed. XXXX later closed the case and refused to issue a refund unless I signed a legal agreement that included a gag order, waiver of my right to sue, and other legal language I was uncomfortable with. This was communicated to me by XXXX  XXXX XXXX, XXXX. I refused to sign. \n\nWe are no longer using the washer out of concern for safety, and I believe XXXX has attempted to suppress legitimate complaints with legal pressure rather than fix a defective product."
+}

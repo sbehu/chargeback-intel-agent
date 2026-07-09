@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5713",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94133"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8527,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citibank card was charged {$330.00} and {$650.00} on XX/XX/year> with XXXX for a flight from XXXX to XXXX XXXX in XXXX which I did not purchase. I disputed this to Citibank and closed out my card. XXXX  denied the claim as my \" name was on the ticket ''. However, I know I did not make this charge, and my name being on the ticket doesn't prove anything."
+}

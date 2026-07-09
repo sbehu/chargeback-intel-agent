@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8743",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90045"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41676,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025 I used my American Express Platinum Card to pay for a hotel reservation through XXXX  ( confirmation # XXXX, dates XXXX XXXX in the amount of {$3200.00}. \n\nUnfortunately, I discovered that the reservation was made in the wrong city. I contacted XXXX right away to cancel, but the merchant explicitly refused to cancel or refund the charge. I have screenshots of their refusal to cancel or refund despite the fact that I asked to cancel, never checked in and received no services. \n\nI then filed a dispute with American Express, providing this documentation. However, Amex denied my dispute in favor of the merchant because I did not check in. I believe this was unfair because the merchant kept my full payment despite no service being rendered. Per XXXX 's policy, if you cancel less than 14 days before arrival, which I attempted to, the cancellation fee will be 50 % of the total price. I am not requesting a full refund, I am simply seeking that 50 % back as restitution. \n\nWhat I am seeking : I am requesting that American Express reconsider this dispute and issue the 50 % cancellation refund of {$1600.00}. \n\nSupporting documentation attached : XXXX Confirmation XXXX confirmation showing reservation details, dates, and total amount charged to my Amex Platinum card.\n\nMerchant Refusal Screenshot Screenshots of XXXX Merchant explicitly refusing to cancel or refund the reservation, despite request made prior to check-in in accordance with their policy, no check-in and no services being rendered. \n\nAmex Dispute Denial Letter Letter from American Express denying my dispute in favor of the merchant, despite evidence of merchant refusal to provide service."
+}

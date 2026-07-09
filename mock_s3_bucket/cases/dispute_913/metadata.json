@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_913",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "VA",
+    "complaint_zip": "232XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13178,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express has a policy of approving transactions on expired cards if they are a subscription. this is Fraud as Amex is approving unauthorized charges from a merchant that doesnt have current account information ( I.e. incorrect expiration date, incorrect CVV ). In talking with their reps - we all agree I didnt authorize the charge and American Express assumed I wanted them to go through. I did not"
+}

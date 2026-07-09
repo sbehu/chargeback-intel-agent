@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9221",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49373,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays Bank Delaware has repeatedly and willfully refused to conduct any reasonable investigation of my Fair Credit Billing Act dispute ( original charge {$1100.00}, XX/XX/year>, merchant Lets MoVet ). \nDespite XXXX prior CFPB complaints ( XXXX XXXX, XXXX, XXXX ) and an open XXXX case XXXX, Barclays continues to : Rely on merchant evidence containing a knowingly false statement that the dispute was dismissed and settled in their favor on XX/XX/year> a date when no final decision existed and provisional credit was illegally removed without written notice. \nAccept and use merchant submissions that are not billing records at all, but explanations prepared for an ongoing California XXXX XXXX XXXX investigation ( XXXX active cases ), including illegally obtained protected veterinary medical records from a third-party animal hospital after the patients death and without authorization. \nIssue duplicate closure notifications ( XX/XX/XXXX & XXXX, 2025 ) for a non-existent amount of {$1100.00} instead of the actual {$1100.00}. \nClose the same dispute under XXXX different internal case numbers ( XXXX XXXX XXXX XXXX ) with no consolidated history. \nRepeatedly close CFPB complaints with identical templated denials ( latest XX/XX/year> ) that address none of the violations raised. \nBarclays has never provided : a written investigation report, explanation of evidence reviewed, justification for removal of provisional credit, response to the merchants submission of false and illegally obtained documents. \nThis constitutes a systemic, deliberate pattern of unreasonable investigation in violation of 15 U.S.C. 1666 and CFPB XXXX XXXX. \nI request that CFPB : Reopen and consolidate all prior complaints, Compel Barclays to produce a complete written investigation report addressing each violation listed above, Order permanent reversal of the {$1100.00} charge plus all finance charges, Impose appropriate supervisory or enforcement action for willful FCBA violations. \nI have filed a parallel formal supervisory complaint with the Delaware XXXX XXXX XXXX XXXX XXXX  XXXX and will provide tracking upon request."
+}

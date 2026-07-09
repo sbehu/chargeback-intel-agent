@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11295",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98056"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23353,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding fraudulent charges on my American Express XXXX XXXX XXXX credit card. \n\nMy account showed multiple unauthorized XXXX XXXXXXXX XXXX  charges within a short period of time, totaling approximately {$1800.00} during the billing cycle. I did not authorize these transactions. \n\nI reported these charges to American Express as fraud and expected a proper investigation. However, American Express did not properly investigate the disputed transactions and did not provide me with a clear explanation of how it determined that the charges were valid or authorized. \n\nThe pattern of transactions shows numerous XXXX charges posted close together and in varying amounts, which is consistent with fraudulent activity. Despite this, the bank failed to properly address the situation and did not provide adequate documentation or evidence showing that these transactions were authorized by me. \n\nAs a consumer, I believe American Express did not conduct a reasonable investigation into these unauthorized credit card charges. \n\nI am requesting that American Express reopen the fraud investigation, remove all unauthorized XXXX charges from my account, and provide a clear written explanation of the basis for any determination it has made regarding these disputed transactions."
+}

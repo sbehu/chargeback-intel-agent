@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_639",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "071XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40310,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Order # XXXX I purchased a 2 piece suit from Macy 's online on XX/XX/XXXX  for {$110.00}. Upon receipt, I discovered that the company only sent a jacket and no pants. I contacted Macy 's and informed them. They stated that they would send a replacement and also send a separate return label to return the original item. I waited for several weeks and to date I have not received the label or the replacement. On XX/XX/, I visited a Macy 's store to return other items. On that day, Macy 's Online indicated to me and the store clerk that they processed the return under Order  # XXXX and that I should leave the item at the store. The store processed what they called a XXXX return, which means that they took the merchandise but did not issue a credit since the Macy 's Online representative confirmed that he processed the return and that I would receive the {$110.00} in two business days. As of XX/XX/XXXX, I had not received the refund and I returned to the store. Three store clerks spoke to Macy 's online representatives in an effort to assist me in getting the refund. A Macy 's store clerk listened and confirmed that they processed the refund and even provided me with a confirmation number # XXXX. On XX/XX/, I called Macy 's Online to see why the refund has not been issued. The Macy 's Online clerk indicated that my refund was not processed and she does not why. I paid for merchandise that I never received in full and I returned the partially received merchandise without being fully refunded for returning the merchandise in which Macy 's accepted."
+}

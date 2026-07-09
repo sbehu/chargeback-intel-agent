@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_837",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "47401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36501,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Today I received a letter from Citi about the disputed charges they have removed from my account. But they have since nearly DOUBLED the amount of original charges. So instead of disputed XXXX charges ( XXXX of which have been refunded ) there are now XXXX charges. \n\nAs artifacts, I am attaching : - the original statements of the disputed transactions. \n- the analysis of the new transactions ( XXXX total ) placed on my account compared with the original transactions ( XXXX total ). \n- the letter from Citi saying that the issue is closed and RESOLVED. \n\nThis issue is NOT resolved."
+}

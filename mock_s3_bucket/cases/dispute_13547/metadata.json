@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13547",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91302"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14662,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I purchased airline tickets from supposedly XXXX  on my XXXX for {$4600.00}. When I found out later ( I called the airline to ask a question ) that there are no reservations in my name, I immediately called the merchant. There were XXXX busy rings and then the phone went dead. I called many times and the same thing happened. At that time I notified Citi Cards and started a dispute. Then we found out that it wasnt XXXX but rather XXXX. For over a year theyve opened and closed many disputes, tossing me from the dispute department to the fraud department, back and for and each time I got a letter, telling me the dispute was closed and a different reason was claimed. \nThe police had opened an investigation and were unable to reach the merchant. I have the police report, letters and emails I had sent to Citi Cards and they have disregarded them all."
+}

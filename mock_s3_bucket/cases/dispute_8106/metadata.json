@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8106",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "199XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 908,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CFPB Complaint Letter XX/XX/year> Subject : American Express denied chargeback related to insurance-covered travel cancellation I am submitting this complaint regarding a denied chargeback dispute by American Express related to a hotel booking that should have been reimbursed under a travel insurance policy purchased at the time of booking.\n\nHere are the facts of the situation : I booked a hotel reservation through XXXX and purchased travel insurance from XXXX  as part of the booking. \nDue to a covered illness, I was unable to travel and attempted to file a claim with XXXX. Despite multiple attempts, XXXX  either failed to provide a legitimate way to file the claim and ignored my submissions entirely. \nI then initiated a chargeback request through American Express, providing proof of the insurance, documentation of the illness, and my attempts to resolve the matter with the insurer. \nAmex denied the chargeback, stating the transaction was valid despite the fact that I was unable to receive the services paid for due to a medical emergency that was contractually covered by the insurance policy. \nI have since filed a formal complaint with the XXXX XXXX XXXX XXXX ( XXXX  ), which opened an investigation and contacted XXXX. As of today, XXXX  has failed to respond within the 14-day window required by the XXXX. \nWhile the XXXX is pursuing the matter with the insurer, I am requesting CFPBs assistance to evaluate Amexs failure to protect me as a cardholder, despite the presence of third-party insurance coverage, which was purchased specifically for such an event.\n\nI believe American Express failed to : Appropriately investigate the basis of the chargeback under circumstances involving insurance coverage and medical inability to travel Apply protections available to consumers under federal chargeback regulations Acknowledge the extraordinary situation involving an unresponsive insurer, which left me with no recourse despite good faith attempts Please investigate whether Amexs denial of the chargeback was handled in accordance with applicable consumer protection laws and whether further action is warranted in this case.\n\nI am requesting CFPB to review and provide guidance or compel a response from American Express regarding this matter.\n\nThank you for your time and attention."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_758",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75098"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37079,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to dispute a charge of on {$94.00} from XXXX XXXX XXXX XXXX to my credit account on XX/XX/2023. The charge is in error because I paid cash for the rental of the golf cart because my credit card was declined. I thought it was declined due to being in XXXX on vacation. After paying cash, I called Barclays and asked why my card was declined and the rep said there is no decline nor any attempts of a charge from XXXX XXXX XXXX XXXX. The Rep said it could be a bad internet connection and the terminally probably declined it. The rep assured me my card was not charged and had no pending authorization. I was shocked to have seen a charge for {$94.00} for the XXXX XXXX XXXX XXXX. I emailed XXXX XXXX XXXX XXXX to request a refund and they said they have not received a bank credit under my card number. Also, they said I paid cash. They provided me a copy of the paid receipt! \n\nI mailed all the copies of the email communication. Copies of the receipt of the paid invoice of cash. Along with email documentation from XXXX XXXX XXXX XXXX indicating I paid cash and requesting that I dispute the charges with my credit card. Please correct the error on my account promptly. \n\nBarclays responded in a email saying I did not provide them with sufficient documents. I emailed them a copy of the receipt saying paid. \n\nI have an email and a phone conversation from the XXXX XXXX XXXX XXXX saying that I paid cash."
+}

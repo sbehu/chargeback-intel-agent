@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9695",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11341,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Formal billing dispute Non-delivered Merchandise and Credit Reporting Error I am writing to formally dispute a charge on my Wayfair credit account related to an order placed on XX/XX/year>, for a XXXX XXXX XXXX XXXX XXXX XXXX Area Rug ( Order total : {$320.00} ). \nAt the time of purchase, I applied for a Wayfair credit card to receive a promotional discount. Although I initially received notice suggesting approval, I subsequently received written correspondence from Citi stating that my application was declined. Based on this, I reasonably believed the order would not be processed or delivered. \nI never received the merchandise. I later discovered that the item was delivered to XXXX XXXX signed for by XXXX XXXX, which is not my address, nor an authorized recipient. XXXX has provided written confirmation verifying that the package was not delivered to my address. \nI promptly contacted Wayfair and Citi upon receiving a bill. Despite providing evidence of non-delivery, my dispute was denied, and I was repeatedly redirected between Wayfair and Citi without resolution. This charge has since been reported and has negatively impacted my credit. \nThis constitutes a billing error under the Fair Credit Billing Act and inaccurate credit reporting under the Fair Credit Reporting Act. I am requesting the following corrective actions : 1. Immediate removal of the {$320.00} charge 2. Correction of all negative credit reporting related to this account 3. Written confirmation that my credit file has been restored I have acted in good faith at all times and have provided third-party proof that the merchandise was never delivered to me. I expect this matter to be resolved promptly.\n\nPlease provide written confirmation of your investigation and resolution."
+}

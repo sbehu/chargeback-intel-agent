@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6934",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11580"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9349,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an item or made an order online with XXXX clothing using my AMEX Credit card on two different occasions. \nI got to know about XXXX via promotional offer from American Express platinum card that I have with I want to use by purchasing the qualifying items. \nXXXX. XXXX XXXX of {$350.00} was purchased with my Amex credit card on XXXX XX/XX/year>. \nI got a notification that XXXX  will deliver the on XXXX XX/XX/year> where I later saw the photo of delivery outside communal door of my building which was not delivered to me, neighbor, friend or to my door. When I got home from work I could not see any package and I raised a complaint with XXXX and unfortunately they told me that they can not refund me so I raised dispute with Amex and the money was put on hold and I did not get further update with Amex. \n\n2. I purchased a XXXX XXXX XXXX  of {$1300.00} and got delivery notice that was delivered on XXXX XX/XX/year> and no photo was shown so I quickly rushed down to the house. I was like a mad man asking neighbors if they got my package but unfortunately said no. I kept asking where did the XXXX delivered the package to as no proof of delivery. \n\nI immediately contacted the merchant XXXX who told me that I should speak to XXXX but while contacted XXXX  they told me that I dont have any business with them that I should speak to XXXX and ask them to contact them. \nThe XXXX support then told me that they will investigate the issue and get back to me and I requested a copy which was sent to me but I got no update from XXXX and I realized a dispute which was declined and filled dispute with Amex and the money was put on hold. \n\nFew weeks after I saw that my account spending has increased so I contacted Amex and was told that I was rebilled the XXXX payment. I was not happy with Amex because it surprised me that Amex did not update me about the dispute and awarded or rebilled me with the transaction. Then I asked them to check the previous dispute which was also rebilled and I never knew so I opened the dispute for both and told Amex I want update of every process. \nNow Amex told me that the merchant send them tracking number or info and the order was delivered at my address and theres nothing they can do. \nIt is so frustrating that they want me to be liable and responsible for item or order I did not received. \n\nI need help and support because Im frustrated. \n\nThank you"
+}

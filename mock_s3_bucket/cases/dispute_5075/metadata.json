@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5075",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60623"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42080,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My eyeglasses required for me to see were broken. I went to the nearest XXXX  to have them repaired or get a new pair. Per my insurance policy, this is a covered expense. The store insisted to charge me. I verified with the insurance company that it should have been covered and they stated the provider must submit a claim. Provider refused to submit claim. Therefore I filed a dispute with the Citi card. They denied the claim although it is listed as a dispute covered by their resolution process. They forced me to submit documents countless times which was at an expense to me as were the financial, emotional, and medical damages done. \n\nThere are several other issues I have had with this card/creditor which are violations of the FDCPA. \nThis includes charges which were not made by me and unauthorized on my account for which they have not followed dispute process fairly and continue to charge interest on. \n\nAlso refused to issue a new card to me for several months. \n\nAuthorized ACH payments from my bank account which I did not authorize. \n\nClaimed that I was at fault for these returned payments and charged late fees. \n\nImpossible to contact by phone, text message, or online messaging for payments, disputes, settlement inquiries. \n\nHarassing emails late at night regarding unjust debts. \n\nAbusive contact without any apparent purpose."
+}

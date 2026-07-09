@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10716",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34120"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44177,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, we paid {$2100.00} for a sideboard with white-glove delivery. The item was improperly assembled twice, resulting in misaligned doors, a top panel not seated correctly, damaged hinge mounts, scratches, and missing/incorrect parts. We promptly notified the merchant, provided photos and videos, and requested repair or return. \n\nThe merchant acknowledged defects and proposed repairs but failed to provide a firm plan or complete repairs. After months of delay, we filed a credit card dispute. The merchant then conditioned any resolution on closing the dispute and threatened return action. Citi later reversed the provisional credit despite documentation of defects and unresolved merchant performance."
+}

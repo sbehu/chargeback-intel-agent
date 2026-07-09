@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2435",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29605"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4766,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I began receiving credit card statements for bill from Best Buy for nearly {$3000.00}. Around the same time, I received bills for AT & T for an account with cell number of area code XXXX. I did not open any of these accounts. I do not have this cell phone. This was all done in fraud. I filled out police report with XXXX XXXX Police Department. \n\nI filled out paperwork for AT & T fraud but have not heard back. I filled out an online form today. I have spoken with Best Buy multiple times regarding this and have been told that their report indicates that this is NOT fraud and that I owe the money on the account. I absolutely did NOT open a credit card with Best Buy, phone account with AT & T, or make a purchase of this account at Best Buy. My last purchase with Best Buy was last summer to my knowledge. I have not been in a Best Buy store since XXXX or XXXX XXXX XXXX. Best Buy Fraud department would not let me speak with whoever did the investigation. This is going to significantly negatively impact my credit score for accounts that I never opened."
+}

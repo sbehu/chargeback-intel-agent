@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-89405074-US
+Shipment Date:   2026-03-12T00:00:00Z
+Delivery Date:   2026-03-15T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9060 RIVER LN, AZ, 21972
+============================================================

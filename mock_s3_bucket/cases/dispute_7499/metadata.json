@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7499",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6438,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had received a call identifying as American Express. The caller had my personal information and card number. Caller inquired about a large charge needed to confirm my identity. I confirmed that charge is not mine and it is fraudulent by my identity. Further caller asked me to confirm it through the message link. I did get suspicious after I clicked on their link and called American Express number off my card. The representative wasn't able to confirm if it was legit or scam call at the time. Representative noted that there is pending foreign charge on my account, which I asked to remove as I never traveled nor used my card lately. Also I requested to lock my account and send me new card as I was suspecting fraud. More than a week later I noticed XXXX balance on my card and as I called XXXX from Amex she confirmed my dispute was rejected and she had to resubmit it!! I asked a manager XXXX to review this situation. Manager said review takes up to 30 days. I feel exposed and not protected by this banking institution as they allowed the fraudulent charge to process even so I called at the instance the scam was taking place right away. There was no valid reason for Amex to reject the submitted claim of fraud ( somewhere in XXXX country with foreign transaction fee! ) Please note the very poor unprofessional customer service. Also I spent nearly 2 hours of my time on the phone on this issue. Also the fraudster caller id said Amex as well!! It is worrisome that their system might be exposing clients personal information... the fact that representative could not confirm legitimacy of the summers call is concerning..."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10325",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "31721"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16788,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Many month ago, I was notified by law enforcement that I had been ( and was ) the victim of idenity and mail fraud/theft. I was then advised to closely review all of my financial accounts. Upon reviewing the charges to my Citibank Mastercard, I located the following charge : XXXX. Merchant Name ( as shown on statement ) : XXXX XXXX XXXX Disputed Amount : {$47.00} Date of Charge : XX/XX/year> I immediately disputed the charge. However, Citibank never acknowledge my dispute of this particular charge. As of the date I submit this complaint, Citibank has still failed to ever acknowledge this particular dispute. Months after disputing the charge, I transmitted written correspondence to Citibank regarding this particular charge. Despite transmitting this written correspondence, I never got any response from Citibank. Several weeks later, I submitted additional written correspondence to Citibank and this, like my prior correspondence, was transmitted via email and was physically delivered by the United States Postal Service. I do have copies of the delivery confirmation. Despite transmitting this written correspondence, I never got any response from Citibank. I have spoken with this merchant multiple times and the merchant is ready and wants to refund me but, despite me submitted my dispute and despite my multiple letters, Citibank has NEVER contacted the merchant. \nTHE FACT THAT CITIBANK HAS STILL NEVER CONTACTED THE MERCHANT IS UNBELIEVABLE HE MERCHANT WANTS TO REFUND ME BUT IS WAITING ON CITIBANK and the l for the company just reiterated this to me again. This is very improper and CITIBANK SHOULD BE SANCTIONED"
+}

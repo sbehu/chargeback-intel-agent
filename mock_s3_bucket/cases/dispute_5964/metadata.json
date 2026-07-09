@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5964",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24417,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding Barclay USA credit card company.\n\nThere was series fruad transaction for the purchase I've never done with total amount of more than {$7000.00}. \nI called company and reported fruad back in XXXX, XXXX and I was told it will be resolved in a few week, but never happened. \nI called follow up calls for more than 5 times, and the latest call I made was XX/XX/XXXX, and was informed same thing that my issue will be resolved in XXXX business days. \nThe ability handles fruad issue in this credit card company, Barclay USA is just horrible... never heard any company who is not capable of dealing with fruad issue like this one. \nMy CASE # : XXXX Account manager I talked on XX/XX/XXXX : XXXX"
+}

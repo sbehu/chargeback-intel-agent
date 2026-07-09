@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13068",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "206XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a billing dispute with Citibank involving charges that were posted after my credit card account was closed. \n\nI previously submitted a written dispute via certified mail, and XXXX tracking confirms delivery. However, Citibank has failed to acknowledge or respond to my dispute. \n\nThe charges in question should not have been applied because the account was already closed at the time they were posted. Despite this, the balance remains and continues to accrue interest. \n\nI have been unable to access my account, can not log in, and no longer have the physical card. I have also been unable to reach a representative who can address this issue. \n\nCitibank has not complied with its obligation to investigate and respond to a billing dispute within the required timeframe. \n\nI am requesting that Citibank : 1. Investigate the disputed charges 2. Remove any charges that were improperly posted after account closure 3. Reverse all interest and fees associated with the disputed balance 4. Confirm the account status and ensure no negative credit reporting occurs during the investigation This complaint concerns a specific Citi XXXX XXXX credit card account ending in XXXX that was closed on XX/XX/year>. I may have other active accounts with Citibank, but this dispute applies only to the closed account referenced above. \n\nI have documentation of my certified mailing and am prepared to provide it. A complete copy of my original dispute, along with supporting documentation, is attached."
+}

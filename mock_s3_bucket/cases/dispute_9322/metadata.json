@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9322",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85308"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3123,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> XXXXXXXX XXXX charged our credit card WITHOUT OUR CONSENT the amount of {$740.00}. Since that date we have filed a dispute with Citi card which they 'resolved ' by letting the charge stand with NO EXPLANATION. Dispute number : XXXX. I have asked Citi why they didn't ask for a tracking number, a proof of delivery or our signature. There is no proof that XXXX XXXX XXXX send us any product, that we authorized the purchase, or that we even knew they were going to charge us. XXXX XXXX  has not provided a receipt either. Additionally every time I try to contact XXXX XXXXXXXX XXXX there is NO PHONE NUMBER on their scammy website or when I call the number that is on my Citi statement it goes to some XXXX  person for XXXX XXXX XXXX  that you can barely hear let alone understand and they try to tell me that either they didn't charge our card or that we will be billed another {$99.00} on top of what was already charged. The story changes each time I call and yet I can't get anything resolved. I have contacted the Attorney General, the XXXX, the SOS for Wyoming, the DEA and more trying to resolve this. XXXX XXXXXXXX XXXX has thousands of consumers credit card information and is charging people without shipping anything to them. I have asked Citi to reopen the dispute and actually INVESTIGATE, even sending them all my communication which is email after email with a BOT at XXXX XXXX yet Citi has not given us back a credit. Citi can't prove we authorized this charge. To top it all off we use the this card and charge well over XXXX per year. Citi is treating us like XXXX. I'm tired of it. I want this charge reversed and Citi to actually follow up with XXXXXXXX XXXX. Its absolutely inexcusable the way they have handled this with NO investigation what so ever."
+}

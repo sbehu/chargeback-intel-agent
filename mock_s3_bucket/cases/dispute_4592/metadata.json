@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4592",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27613"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28095,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I used my XXXX XXXX XXXX Amex Card to pay for a car part and installation. The mechanic failed to show on XXXX occasions, and finally texted to say they would not be ordering the part or returning to install it. I tried for weeks to contact the merchant, and even filed a state level complaint with the attorney general 's office without resolution. I finally contacted Amex, who suggested a dispute. I received a denial. I have since appealed, since an agent indicated the correct dispute reason would be \" expected goods and services not received '' instead of the original \" not satisfied with goods or services. '' to date, I paid for a service I never received, and have not received a credit or refund. Although the original dispute was filed within the filing period, the second dispute was filed recently once I noticed it had not been resolved. Ref number is XXXX and is for {$200.00}."
+}

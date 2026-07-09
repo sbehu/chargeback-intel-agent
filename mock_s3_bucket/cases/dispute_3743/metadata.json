@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3743",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90028"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25417,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchased services online from website. Was duped into buying more expensive plan only to learn that it did not give me the services i really needed, told to upgrade a second time. Refused and requested refund. The website never provided these services as advertised. Refund requested multiple times. Management of website did not respond or refund. Many reviews on website stated similar activity. Contacted citibank for purchase protection. Favored other party even though services not provided."
+}

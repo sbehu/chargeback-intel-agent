@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13493",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8755"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14749,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company Website : XXXX Email Address : XXXX Date of order : XX/XX/year> Disputed Charge : {$130.00} Placed an order for some coffee beans and accessories. Never received an email confirmation of my order. Company has NO PHYSICAL ADDRESS OR CONTACT PHONE NUMBER, ONLY AN EMAIL ADDRESS. Company never responded to my email inquiry. I contacted my credit card company while the charge was still pending to cancel transaction. They told me they can't cancel the charge. They said I have to wait till the charge is posted and then file a dispute. The charge was posted a few days later and was made to a women 's apparel company. I WAS SCAMMED. Filed a dispute with the credit card company multiple times and keep getting denied my {$130.00} credit. I will provide documents that I submitted to the credit card company."
+}

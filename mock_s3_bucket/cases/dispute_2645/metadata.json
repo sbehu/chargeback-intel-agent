@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2645",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39320,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express is not believing my XXXX third party tracking evidence which literally shows and states the merchant signed for the merchandise return over a month ago and I am owed my refund. Merchant has lied multiple times about not receiving the return. When I asked American Express why they keep extending the resolution deadline the representative XXXX had no answer to me and when asked why my XXXX tracking was not being believed she got very rude and told me to close to dispute multiple times and speak with the merchant myself. But I needed American expresses help to resolve the dispute or else I wouldve never opened it. Its like American Express does not care about disputes by XXXX Americans."
+}

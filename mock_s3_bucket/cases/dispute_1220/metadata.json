@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1220",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11427"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7485,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I was charged {$380.00} for three doctor 's appointments by XXXX XXXX XXXX. I reported that this entire charge is void because one of the appointments did not actually take place ( XX/XX/XXXX ) and the other two were paid for by my insurance. The merchant had fraudulently charged me for one appointment, and double-charged me for two others despite my insurance ( XXXX ) paying them. Even though I showed proof of of my insurance paying for the charges, American Express refuses to credit my account for the dispute amount of {$380.00}. The credit card 's dispute reason for this charge is incorrect, since the appointment or the services from this merchant were not received. I have provided proof of the insurance paying for the other XXXX charges, and a copy from the insurance rejecting the claim for an appointment the merchant fraudulently claimed ( XX/XX/XXXX ). Thus, the {$380.00} should be credited back to this user 's credit card account."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7964",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19067"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39489,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I was charged {$30.00} from Best Buy/CBNA bank. This was not a charge that I made but a fraudulent purchase that someone else made. They alerted me to it, but when they called using a voice activated phone call, they requested the last four of my social, which I did not supply because I thought it was a fraudulent call trying to gain my personal information. \nI spoke to an actual individual in XXXX and they said that this was indeed on my card. I then filed a dispute. I received a letter from them indicating that they've reversed the charges. \nI filed a dispute with all three credit bureaus in XXXX. The credit bureaus reached out to Best Buy/CBNA bank and were told that the charge was accurate. \nI spoke to a XXXX and a XXXX from Best Buy/CBNA on XXXX and they said that it was a fraudulent charge and they 'were n't sure ' why someone would say that this was a valid charge. Meanwhile, my credit is now the lowest it has been."
+}

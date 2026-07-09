@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11595",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "305XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39238,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a welder and canceled the order, I was getting no response from merchant so I filed a chargeback on XX/XX/XXXX the bank waited till XX/XX/XXXX to contact merchant. Merchant responded XX/XX/XXXX Citibank waited till XX/XX/XXXX to respond saying it was my problem. They never asked for documents till that time and told me too much time had lapsed and it was my problem."
+}

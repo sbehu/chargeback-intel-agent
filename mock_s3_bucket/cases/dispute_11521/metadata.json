@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11521",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91361"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5931,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a Barclays-issued co-branded airline credit card specifically to take advantage of a promotional offer tied to a travel purchase. \nAfter making a time-sensitive airline charge, Barclays froze my account and required identity verification exclusively through mailed documents, refusing to provide any electronic or real-time verification option. \nI have repeatedly attempted to resolve this by phone and have been unable to reach any supervisor, account specialist, or escalation team. Frontline representatives refuse to transfer calls and block access to higher-level review. \nThis has resulted in my account access being restricted, despite my willingness to immediately verify my identity through standard electronic methods. \nAs a result, I am unable to use the account as intended and am being denied the promotional benefit that prompted the account opening.\n\nI am requesting : Immediate removal of the account restriction through alternative verification methods, and Resolution of the transaction issue, including dispute or adjustment of the airline charge if access can not be restored promptly. \nThis situation represents a failure to provide reasonable access to account services and a lack of escalation pathways for resolution."
+}

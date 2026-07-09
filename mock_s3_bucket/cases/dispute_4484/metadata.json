@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4484",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75034"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42423,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> We checked in XXXX XXXX XXXX XXXX.They charged us {$200.00} for our service dog.They didn't let us change the room after we're been told current policy fee was on every animal the room we are right now. Disputed by citi but failed."
+}

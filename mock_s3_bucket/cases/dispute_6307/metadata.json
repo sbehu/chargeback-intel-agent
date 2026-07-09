@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6307",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3051"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29322,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a charge account with Citibank. My card was fraudulently charged four times through XXXX ( I DO NOT HAVE XXXX AND NEVER ORDERED THROUGH THEM OR AUTHORIZED ANY ONE TO DO SO ). All these items were charged during the period XXXX XXXX XXXX  Finding out I reported as a dispute the four charges, CANCELED my card, and was issued a new card. \nToday I received a second letter from Citibank holding me responsible. Among other things it cites, I did not provide the information requested. NO PLACE, TIME, OR BY ANY METHOD WAS I ASKED FOR MORE INFORMATION. \nI dispute was found in my favor and like ALL the others was in the same timeframe and same method through a XXXX account. That one transactions shows as : XXXX * XXXX XXXX XXXX CA XX/XX/year> Amount {$81.00} I was found responsible for : XXXX. XXXX * XXXX XXXX CA XX/XX/year> Amount {$310.00} ; XXXX. XXXX * XXXX XXXX CA XX/XX/year> Amount {$900.00} ; XXXX. XXXX * XXXX XXXX CA XX/XX/year> Amount {$370.00} ; and XXXX. Citibank XX/XX/year> ADVANCES TRANSACTION FEE {$80.00}."
+}

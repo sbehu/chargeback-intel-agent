@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7857",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "212XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13169,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX side-by-side refrigerator from XXXX XXXX and, XXXX XXXX hours returned it because the ice maker ran continuously and was too loud. XXXX XXXX picked it up and dropped off an XXXX refrigerator. When I received my American Express bill I saw the charge but not the refund. They said I had plenty of time before my payment due date ( XX/XX/XXXX ) and encouraged me to call XXXX XXXX to ensure they issued the refund. XXXX XXXX said I had to go in person ( even though it was an online purchase ). I did so. American Express emailed confirmation of the XXXX XXXX merchant credit from XXXX XXXX for {$1900.00}. I called American Express again. This time they said I needed to pay the {$1900.00} - even though the merchant had refunded that amount. I said I was going to deduct that credit. AMEX said \" bad things '' would happen, including a late charge and restrictions on further use of the XXXX card. Tonight, I made the payment and AMEX says I still owe {$1900.00}. This is unfair. I no longer have the XXXX refrigerator, and AMEX has confirmed via email that XXXX XXXX issued a refund on XXXX XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3060",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "31404"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26967,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX XXXX I noticed fradulent transactions on my Barclays JetBlue card. \n\nTransactions : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX} I immediately called JetBlue, the transactions were cancelled on their end and was told the monies was credited back to my account on their end. Barclays since XX/XX/year> has delayed crediting the entirety of the monies back to my Barclays JetBlue Mastercard. Transactions 1 and 2 ( seen above ) have not been credited back to my account. Transactions 3, 4, and 5 have been credited. I have received \" run around '' service since XX/XX/year> from Barclays as to the monies in question. The following are individuals from Barclays with whom I have spoken to : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  This issue has severly impacted my credit score and my credit card account standing as well as put me under heavy stress."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1827",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21749,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I did a purchase of {$1400.00} of a tourist service. The service was cancelled and I opened a dispute, Citi Bank gave me a conditional credit of - {$1400.00}. \n\nFor my XXXX statement they reversed the credit with a charge of {$1400.00}. The merchant issued a refund of - {$1400.00} on XXXX XXXX, because they were supposed to refund only 95 % of the total which I agreed. \n\nHowever on XXXX XXXX I received another charge of the same merchant of {$1400.00} which will net the balance of the refund, leaving me with {$1400.00} of debt. \n\nI complaint again about this transaction and on XX/XX/2023 they told me they were incorrect and that they will opened a new dispute regarding that {$1400.00} charge, but they never did. I called them multiple times, but they are not able to reopen my case or open a new one. \n\nI contacted the merchant and they sent me the detail of the charges made on my account, and that they never did that other charge of {$1400.00}, told the bank multiple times I had that proof but they told me not to send it before having a case number assigned, but they haven't assigned yet."
+}

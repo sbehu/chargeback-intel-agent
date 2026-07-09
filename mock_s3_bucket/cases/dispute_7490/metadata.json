@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7490",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "630XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37457,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citicard : XXXX. Citi dispute ID : XXXX I am writing to file a complaint regarding a disputed credit card charge and the mishandling of the case by Citi. \n\nOn XX/XX/2024, I was charged {$300.00} by XXXX XXXX XXXX for a subscription service that claimed to provide access to XXXX XXXX. However, after completing the payment, I discovered that XXXX XXXX was not available. The product offering was misleading and did not match what was promised on their website. I have screenshots of the merchants false advertising. \n\nI contacted the merchant directly, and they acknowledged the issue. On XX/XX/XXXX, they agreed via email to issue a partial refund of {$290.00}, which they claimed was processed. I have their email confirming this. \n\nConcerns : Missing Refund : The {$290.00} refund appeared as \" pending '' in my Citi account for one day, then disappeared. It has now been over 10 days, and the refund has not been posted to my account. \n\nDispute Mishandling by Citi : Despite clear evidence that the merchant acknowledged fault and agreed to a refund, Citi denied my dispute. The reason provided was irrelevant and failed to address the core issue : the merchant advertised a service it could not deliver. \n\nSuspicious Merchant Behavior : All communications/responses from the merchant were in XXXX. \nThe listed business address appears suspicious. \nI am concerned this may be a fraudulent operation targeting U.S. consumers and collecting personal information without providing valid services.\n\nCitis Broader Responsibility : While the disputed amount itself is one issue, Citis irresponsible handling of the case is even more serious. It reflects a lack of accountability and due diligence that puts consumers at risk. This behavior should be brought to public attention, and Citis administrative leadership needs to be made aware of how these cases are being mishandled.\n\nRequest : I respectfully ask the CFPB to investigate : Why Citi deny a valid dispute despite the merchant admitting fault and agreeing to refund? \nWhat happened to the {$290.00} refund, and why did it disappear from my account after showing as pending? \nThe legitimacy of XXXX XXXX XXXX, given the suspicious nature of their communications and operations. \nThe internal review process at Citi, to ensure such failures are addressed at the administrative level.\n\nI have attached supporting documentation, including : Screenshot of the merchants website advertising XXXX XXXXXXXX access and actually the service is not actually available. \nEmail from the merchant confirming the {$290.00} refund Thank you for your time and assistance in this matter. \n\nSincerely, XXXX XXXX XXXX XXXX XXXX XXXX XXXX MO XXXX phone : XXXX Citi Credit Card Last 4 digits : XXXX"
+}

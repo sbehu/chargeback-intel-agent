@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6955",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "605XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28822,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX back to back fraudulent charges made on my card XX/XX/XXXX totaling {$300.00}. The merchant is listed as vital labs. When I initially looked up this company, the website was expired and took me to the domain hosts website. Thinking it was clear cut I couldnt have made these charges since the website wasnt even up that day, I assumed it would be an easy dispute. I log onto my CC portal and see the dispute was denied and I am liable for the charges. No reason stated why on the app. I will be calling to find out more."
+}

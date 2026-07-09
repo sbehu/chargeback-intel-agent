@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7389",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "78626"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39622,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Unauthorized Use of Personal Information and Unsolicited Credit Card Advertisement Luxury Card ( XXXX XXXX XXXX  ) To Whom It May Concern, I am filing a formal complaint against Luxury Card ( XXXX XXXX XXXX ) and its issuing bank, Barclays Bank Delaware, for violating my privacy by sending me an unsolicited credit card offer without my consent. \n\nI never requested any information or applied for a Luxury Card product. Despite this, I received a promotional mailer containing a simulated credit card with my name and address clearly printed. This raises serious concerns about how my personal data was obtained and used without authorization. \n\nUnsolicited financial advertisements like this are intrusive, create potential security risks ( identity theft and mail fraud ), and violate consumer privacy expectations. I consider this practice predatory and misleading because : XXXX. I did not provide consent for this marketing communication. \n\n\nXXXX. Displaying a realistic credit card image with my name could lead to confusion and misuse. \n\n\nXXXX. These types of offers make it difficult for consumers to control their personal information. \n\n\n\nI demand the following actions : Remove my name and address from any marketing or mailing lists immediately. \n\nProvide a detailed explanation of how my information was obtained. \n\nConfirm that no pre-approved account or credit pull has been initiated in my name. \n\n\nIf this is not addressed promptly, I will escalate this matter further with regulators and consumer protection agencies. \n\nSincerely, XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3322",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84065"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2472,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX I received multiple dubious charges for \" cosmetics. '' These were for {$99.00} on XX/XX/XXXX, {$99.00} on XX/XX/XXXX, and {$190.00} on XX/XX/XXXX. \n\nI called on XX/XX/XXXX with concerns about these charges. I indicated I did not authorize the charges, and that they were fraudulent. I was instructed they would be changing my credit card, and assured they were taking care of the charges. I was not told I needed to follow up on any online site to ensure my chargeback went through, I assumed because they were obviously fraudulent. \n\nThe charges were indeed reversed and I went about my business. \n\nOn XX/XX/XXXX, I was troubled to find out that the charge for {$190.00} had been reversed and I was again charged for this fraudulent sale. Apparently there was a \" message center '' that was used to contact me about additional information. This should have been unnecessary - as the paperwork was obviously fradulent and used a fake email, claimed that I was using a pakistani IP address to make the purchase, and invented a fake email for me. \n\nDuring the time that this \" message center '' request was made, I had logged into the citi.com website and logged in to make a payment. At no point was I given any indication that I needed to follow up on my fraud chargeback. In fact, from what I can see the message center is inaccessible from the mobile citi.com website that I use for the Costco credit card to pay bills. No attempt was made to call me or send me a letter in the mail. \n\nI called and explained, again, that I had never purchased cosmetics, ever, on this card, that the information used for my email was fake, and that I did not authorize any purchase. The individual I spoke with told me they would reopen the investigation. That seems to have ocurred, but my charge is still showing on my account. I was not given a timeframe. \n\nI emailed that same day ( XX/XX/XXXX ) to the email address provided for chargebacks with a good deal of information on why the \" evidence '' supplied by the criminals in this matter should never have been accepted given some obvious problems ( IP address in XXXX, fake email address, didn't actually list a product, etc. ) I called today ( XX/XX/XXXX ) and was told that they would not remove the charge from my account during the investigation. The invidual claimed it would take up to 60 days to get a resolution. I pointed out the dubious nature of the evidence provided and the rep. from citibank security refuesed. He also refused to escalate my complaint to a supervisor. Supposedly I will get a call but I don't trust it will happen."
+}

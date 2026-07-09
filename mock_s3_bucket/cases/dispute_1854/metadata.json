@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1854",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33186"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42771,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A home Depot credit card, that I acquired in XXXX, the final XXXX numbers are XXXX. The last time I used it, was back in XXXX, I paid off the balance, and got rid of the card, breaking it, and disposed it, in the garbage can. I have never applied for another card. I have been receiving, phone calls, from XXXX XXXX claiming a debt, of XXXX XXXX approximately. I was able to recover the account online, and I found out, that several transactions were made in different stores, located in New York. I have been living in XXXX, since XXXX. I also noticed, in my personal information, an address, also in New York, it looks like Citibank, sent a new credit card, to this scammer, or organize group of criminals."
+}

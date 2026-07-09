@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3947",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43123"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47543,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In early XX/XX/2024, I stayed at the XXXX XXXX XXXX XXXX, and I encountered severe issues with the hotels accommodations. Specifically, the air conditioning in my room was not functioning, leaving the room uncomfortably hot, As you can see, the XXXX control panel shows XXXX, but this was the maximum it was showing there. It was actually hotter than that. I was forced to open the windows, which let in a strong sewage smell, as well as unbearable noise from the streets and passing airplanes. The hotel staff informed me that no alternative accommodations were available, and it was too late for me to find another hotel given that it was after midnight and I had small children with me. As a result, I was forced to stay under these unacceptable conditions. \n\nI initially requested a full refund from the hotel but was only offered a 25 % refund, which I declined as it did not adequately compensate for the issues I experienced. I then disputed the charge with American Express, providing them with all necessary evidence, including videos of the conditions and documentation of my interactions with the hotel. \n\nDespite my detailed submission, American Express granted the credit to the hotel without properly addressing my claim or the evidence I provided. The total charge for the stay was approximately {$300.00}, and I believe this amount should be fully refunded given the failure to provide the service that was promised. I have contacted American Express multiple times, but they continue to uphold the charge in favor of the hotel. \n\nI am now seeking the CFPBs assistance in resolving this dispute and obtaining the refund I am entitled to."
+}

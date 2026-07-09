@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_390",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30533"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3920,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought an ounce of gold from XXXX for {$2000.00} but never received it. I called the usps to see what happened as the proof of delivery said it was delivered on XX/XX/2023 and signed for by me, but the signature was not mine and I did not receive any package. The XXXX apologized and acknowledged the signature was not mine when I complained but said it was the merchants responsibility to handle the matter as they were the ones who would have insured the package ( I am unsure if they did in fact insure the package ). I then called XXXX, who said the item was sold by a third party merchant, and that all they could do was contact them and have them respond to me, and that I should dispute the charge with my credit card company. The third party merchant, XXXX, responded and apologized for the issue but since the XXXX tracking had the package as delivered they would have to investigate it. They requested I file a police report, which I did, and said they would respond when they complete their investigation. I have contacted them several times since and have received the same response, that they are still investigating the issue. Since I made the purchase with my Citi bank Best Buy Visa card, I contacted Citi bank to dispute the charge on the grounds I never received my purchase. Initially they sided with me on the issue after I provided documentation, but subsequently changed their decision and put the charge back on my card. I reopened the dispute and am still waiting for a response."
+}

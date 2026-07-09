@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6730",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15101"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2633,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute with Barclays Bank XXXX on XX/XX/year>, regarding a charge of {$400.00} USD from the XXXX XXXX XXXX, which appeared on my credit card statement. The charge includes an unauthorized restaurant bill of approximately {$200.00} USD that I did not incur. \n\nDespite my repeated requests, XXXX XXXX failed to provide any proof, such as a signed restaurant bill, to justify the disputed charge. \n\nOn XX/XX/year>, I contacted Barclays to check the status of the dispute and was informed that the case had already been closedwithout any prior notification to me. I was not given a chance to respond to any findings or review the merchants evidence, if any. Barclays also failed to provide a written resolution report or disclose any documentation they received from the merchant. \n\nI believe this case was handled improperly and prematurely closed, without following appropriate procedures under the Fair Credit Billing Act. I am requesting that the CFPB investigate this matter and ensure Barclays reopens the dispute and properly reviews the evidence."
+}

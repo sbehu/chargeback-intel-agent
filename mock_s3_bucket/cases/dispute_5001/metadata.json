@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5001",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "105XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2781,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "GoDaddy.com AI system charged me {$330.00} three times on XXXX XXXX 2024. \nI filed a dispute with American Express Business Card online customer service system. \nI received a credit for {$330.00}. The problem there are two more {$330.00} charges on my balance. Producing a overcharge {$670.00}. GoDaddy.com has corrected their billing. I notice the situation during annual account review. \nFor some reason when calling XXXX I receive AI prompts that can not address the issues. Request CFPB find a real person and credit my credit card account. \nXXXX XXXX 2024 XXXX XXXX XXXX account. I requested discontinue paying XXXX I am still being charged."
+}

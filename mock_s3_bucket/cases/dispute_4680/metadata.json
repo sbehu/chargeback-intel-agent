@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4680",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "1970"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11225,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The company replied to my previous complaint XXXX with a factually incorrect statement. They also sent me a letter, Your Citi Inquiry - XXXX, with the same incorrect ( or deliberately misstated ) information on XX/XX/year>. I responded the next day, pointing out what was incorrect in their response, and providing, once again, the evidence for their initial discount promise. I have received no response, and no action has been taken. \n\nTo quote my response, \" The company responded with the information that was factually wrong. 1 ) the response contains the wrong price of the product ( {$990.00} was never the amount advertised by XXXX XXXX ) 2 ) a discount applied ( {$170.00} ) after the wrong delivery had nothing to do with the issue in hand 3 ) The ad contained the promise of {$100.00} discount when the purchase was {$300.00} or more ( and not XXXX as claimed by the company ) So the company managed to lie 3 times in a single response! ''"
+}

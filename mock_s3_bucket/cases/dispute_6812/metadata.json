@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6812",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90247"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36773,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I received a text alert from Citibank regarding the validity of a {$980.00} XXXX XXXX charge to which I responded that the charge was fraudulent. The charge was to a recently issued Citibank card sent to a stranger who had stolen my information. This was likely due to Citibank 's lack of proper security controls. The charges were in my name, but the address shown on the online bill was XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXXXXXX, North Carolina XXXX, where I do not live. On XX/XX/year> I received an online bill from Citibank showing the XXXX XXXX charge of {$980.00} as well as an application fee of {$49.00} and a minimum payment requirement of {$20.00}. Basically, even after I reported that the charge was fraud Citibank went through and subsequently charged me for this fraudulent {$980.00} charge. After numerous calls, Citibank has done little to relieve me of this fraudulent debt. This is quite disappointing given that I also have a XXXX Citibank card for use on government travel. I also reached out to XXXX  about the fact that this Citibank credit card was opened in my name to an address in XXXX North Carolina, where I have never lived. You are my last hope at resolution. Thank you"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3340",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8619"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37331,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Charge : {$280.00} on XXXX, and according to Citibank transaction record, XXXX XXXX XXXX '' at merchant, XXXX XXXX, XXXXXXXX XXXX XXXX XXXXXXXX XXXX XXXX \n\nA second charge was also attempted that day on my Citibank card which was declined due to fraud suspicion ( which I confirmed as such ). The first charge was deemed my responsibility since a card was supposedly presented. \n\nHowever, even though the cards were in my possession that same day as the fraud activity took place, my phone geolocation data has me and my wife ( other authorized user ) over 30 miles away from that merchant ( we have also never done business with that merchant before nor have I been in/near that town for at least a decade, likely at least a couple decades- only reason I can't claim longer is I moved away from that area XXXX yrs ago ). \n\nIf a card with XXXX was presented, as claimed by Citibank, there are now people cloning cards or faking cards with such technology ( I see some XXXX articles about such ). The quick closure by a financial institution despite trying to assert I was nowhere in the vicinity and placing the payment responsibility on me is inappropriate. \n\nPlease let me know my options to resolve."
+}

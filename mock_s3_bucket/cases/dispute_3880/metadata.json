@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3880",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11590"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14705,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased car battery from XXXX on XX/XX/XXXX in the amount of {$350.00}. However, the merchant did not deliver the product until the promised delivery date on XX/XX/XXXX. After unsuccessful attempt to contact the merchant by phone, I opened up a dispute with American Express on XX/XX/XXXX with the Reference number XXXX. American Express closed my dispute on XX/XX/XXXX without issuing any credit, stating that the merchant provided proof of delivery. \n\nHowever, the proof does not show that the product was delivered to my home address, does not show any signature nor photo of the package being left. Therefore, I called American Express again on XX/XX/XXXX. The company representative suggested me to open a purchase protection claim, however, the claim was rejected couple days later."
+}

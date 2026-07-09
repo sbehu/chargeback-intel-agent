@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5257",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "59715"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3894,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Urgent Assistance Required : Unfulfilled XXXX XXXX XXXX Job Guarantee and Refund Issues My Situation : Initial Contact : On [ date not specified ], I encountered an advertisement by XXXX XXXX promising a 100 % guarantee of securing a XXXX XXXX  within 90 days. \nAdvertiser 's Credentials : The advert claimed over 10 years of experience in the field, which influenced my decision. \nInvestment Decision : Instead of depleting my last savings, I opted to \" invest '' in this opportunity for myself and a friend, anticipating a job within the stipulated timeframe. \nKey Details : Enrollment Date : XX/XX/year> Current Status : Despite the 90-day guarantee, I remain unemployed. \nResponse from XXXX XXXX and Team : Efforts to evade responsibility and retain the payment have been observed. \nTotal Amount Paid : {$14000.00} Payment Method : Through XXXX XXXX XXXX and American Express credit card Refund Attempts : Outcome : Both XXXX XXXX  XXXX and American Express have denied my refund requests. \nAppeal for Assistance : Name : XXXX XXXX Request : I urgently need help in resolving this situation, specifically : Securing the promised job or a viable alternative. \nObtaining a full refund of {$14000.00}. \nAmerican Express : {$2900.00} XXXX XXXX XXXXXXXX : {$11000.00} XXXX XXXX XXXX and his team accountable for the unfulfilled guarantee. \n\nAction Required : To assist me, please consider the following steps : Investigate XXXX XXXX 's business practices and the legitimacy of the 100 % job guarantee. \nFacilitate communication with XXXX XXXX and his team to resolve the employment and refund issues. \nProvide guidance on navigating the refund denial with XXXX XXXX XXXX and American Express, exploring alternative dispute resolution avenues if necessary. \nOffer support in seeking legal or regulatory recourse, should it be deemed necessary."
+}

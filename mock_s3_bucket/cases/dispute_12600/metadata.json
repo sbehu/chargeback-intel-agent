@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12600",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90650"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47261,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Weeks ago, I called Citibank to make a {$70.00} payment. However, a payment of {$700.00} was processed instead, withdrawing from my XXXX XXXX account and leaving it overdrawn. I called Citibank back to explain that the payment was supposed to be {$70.00}, not {$700.00}. The representative assured me the mistake would be corrected. Despite this, a few days later, Citibank withdrew {$700.00} a second time, overdrawing my account again. It was incredibly frustrating to keep explaining this situation to both Citibank and XXXX XXXX. \n\nAfter the third unauthorized withdrawal of {$700.00}, I demanded to speak with a Citibank supervisor. The supervisor claimed the system was simply retrying the initial failed amount. I reiterated that I never authorized {$700.00} in the first place, only {$70.00}. I then demanded that they refund the overdrawn money to my XXXX XXXX account. I then said, \" Please deposit the {$700.00} that was overdrawn back into my XXXX XXXX account. '' The supervisor from Citibank replied, \" Please know that Citibank attempts to process a payment three times. '' I asked why the other representatives I spoke with had not mentioned that. I literally had to demand that the deposit of {$700.00} be put back into my XXXX XXXX account because I was being charged overdraft fees. What is very surprising, though, is that even after I explained the situation, the supervisor never apologized on behalf of the representatives who failed to provide adequate and correct information during my first call, which would have prevented me from calling several times. \n\nThrough numerous steps, the Citibank supervisor did deposit the amount of {$700.00}. However, they failed to inform me that a second deposit of {$700.00} would be made a week later. I was not made aware of this by the supervisor or any other Citibank employee, nor did I receive an email notification about either deposit. \n\nI only found out because I let a couple of weeks pass before checking my Citibank credit card balance. To my surprise, I saw that I was over my credit limit by {$700.00}. I then called Citibank to find out why my account was over the limit, and I was told that two deposits of {$700.00} had been made from Citibank to XXXX XXXX. \nWhile it is good that I was credited the initial {$700.00}, the second deposit resulted in my Citibank credit card going over its limit. It is going to take me a while to recover from this because I now have to rebalance my budget across all of my current bills. In other words, this payment issue with Citibank threw me completely off course, which is deeply stressful, especially since I am already paying a lot out of pocket for my chronic XXXX condition. In all, its very frustrating to go back and forth to resolve an in issue which should only take a couple of minutes rather calling so many times and being ignored."
+}

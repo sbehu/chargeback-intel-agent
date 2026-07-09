@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4594",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3051"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37962,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a billing dispute with this merchant XXXX from XXXX XX/XX/year> for merchandise not received. \n\nDispute # XXXX Reason for dispute - Unrecognized charge ( this is what citi filed it for when i clearly stated its a BILLING dispute and not a FRAUD ) I had called citi to file a dispute and the ridiculous rep filed a dispute for fraud when it was supposed to be a billing dispute. Now, citi comes back to me and says customer is responsible for the charge and provided me docs from the merchant which doesn't state anything about proof of delivery but just about who initiated the transaction so clearly citi went to the merchant saying its fraud and the merchant denied. I tried to reopen the case but I cant and citi is giving me hard time. I am done dealing with their ridiculous customer service. I was told by citi that you will receive a letter and the letter i received clearly states that if you dont agree with this decision and want to file a fraud, sign below which makes no sense at all I never received my goods from this merchant and there isn't any proof of delivery either, no picture nothing so I want to get my refund from the merchant"
+}

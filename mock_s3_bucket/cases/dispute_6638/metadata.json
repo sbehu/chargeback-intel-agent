@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6638",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32832"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14717,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi had been siding with a fraud merchant that has scammed millions of dollars from their customers, while Citi hasnt reviewed any of the evidence I have provided. When attempting to contact Citi, they have been extremely unhelpful in attempting to resolve my dispute. \n\nI havent been able to access my purchases since I bought them. And on XX/XX/XXXX, the company ( XXXX ) basically shut down operations without fulfilling the purchase I made and took everyones money. \n\nXXXX have not responded to any customer inquiry I have made through their any of their customer facing channels. I have been attempting to contact the merchant for months since the purchases. However, the fraud merchant has been unreachable through phone, email, or mail. All they have been doing is responding to disputes of customers who are trying to get their money back."
+}

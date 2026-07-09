@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2515",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19063"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25420,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I recevied a statement in the mail with a number of charges that I did not recognize or make. I called the card company and reported fraud. they offered a tempoary credit while they investigated the issue. In XX/XX/XXXX, I received a statement in the mail for a partial credit, and was asked to pay a balance of {$340.00}. The company is saying that I am liable for these charges even though I did not make them. The breakdown on my statement is as follows. XXXX XXXX {$160.00} ; then XX/XX/XXXX ( {$120.00} ) then XX/XX/XXXX {$50.00}. \nI do not shop at the stores where these purchases were made and did not authorize or make these purchases. I have called the compnay at least 3 times to explain and dispute these charges to no avail. The last time I called was XX/XX/XXXX. I called in XXXX and asked for further investigation on this matter and never received any additional information. Can The company can pull the signature of the receipts as part of the investigations? if so, would like to request it so that it can be further proven that these are not my purchases."
+}

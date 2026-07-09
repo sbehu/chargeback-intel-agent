@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12512",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94582"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48218,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint concerns Barclays Bank Delaware 's continued refusal to reverse a {$340.00} disputed charge for counterfeit merchandise, and is related to my earlier CFPB Complaint XXXX, which was closed with explanation on XX/XX/year>. I am filing this as a new complaint because I now have written confirmation from the brand owner that materially changes the record and that Barclays has not addressed. \n\nOn XX/XX/year> I made a {$340.00} contactless purchase from a storefront branded \" XXXX XXXX '' inside The XXXX XXXX in the XXXX, intending to buy authentic XXXX merchandise. On XX/XX/year>, an independent luxury authenticator, Real Authentication, issued a written determination that the jacket is counterfeit, citing materials below brand standard, stitching inconsistencies, and incorrect typography on the labels.\n\nI filed a dispute on XX/XX/year>, submitted the authentication report and supporting evidence on XX/XX/year>, and sent a written rebuttal on XX/XX/year> invoking the Fair Credit Billing Act. Barclays denied the dispute XXXX times on XX/XX/year>, XX/XX/year>, and in its XX/XX/year> response to my prior CFPB complaint. None of the denials addresses the authentication evidence on the merits. Barclays ' final rationale relied on the fact that the transaction was contactless and the cardholder was present at the point of sale, which has no bearing on whether the merchandise was authentic. The XX/XX/year> denial also threatened adverse credit reporting on the disputed amount. \n\nOn XX/XX/year>, XXXX XXXX XXXX ( XXXX XXXX, XXXX ) responded in writing and confirmed that the specific storefront at issue is not authorized, that XXXX operates only one authorized boutique in the XXXX selling only womenswear and childrenswear, that the merchandise does not belong to XXXX XXXXXXXX XXXX  collections and was not purchased through its authorized distribution network, and that certain third-party operators using the XXXX name are independent and not authorized retailers.\n\nThis brand-owner confirmation directly eliminates Barclays ' stated rationale for denying the dispute. The transaction being contactless and card-present has no bearing on whether the merchandise was authentic. I have also filed parallel complaints with the FDIC and the Delaware Office of the State Bank Commissioner, and have demanded reversal directly from Barclays ' Office of the President with a ten-business-day deadline."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8495",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89148"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10792,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Barclays Bank Delaware Account Type : Credit Card Transaction Date : XX/XX/year> Amount : {$1500.00} Merchant : XXXX XXXX XXXX / XXXX XXXX Summary of Issue : I am disputing an unauthorized {$1500.00} charge posted on XX/XX/XXXX to my Barclays credit-card account by XXXX  XXXX  XXXX ( also operating as XXXX  XXXX ). The merchant never obtained my authorization for this transaction, and Barclays improperly denied my dispute even though the merchant produced no valid proof of consent or contract supporting the charge. \nFacts : XXXX XXXX XXXX had access to two of my credit-card numbers from prior transactions. They randomly charged one card on XX/XX/XXXX without my permission. \nThe merchant submitted XXXX XXXX  screenshots to Barclays, but those communications do not contain any statement authorizing a {$1500.00} payment. They only show general correspondence about our accountnot authorization. \nFor XXXX and XXXX, the merchant provided invoices and I paid voluntarily ( XXXX was billed correctly to a different card ). There was no invoice or written agreement for any XXXX charge. \nThe XX/XX/XXXX transaction was therefore arbitrary and unauthorized. The merchant has never produced a signed contract, invoice, or written consent for it. \nBarclays denied my dispute even though Regulation Z ( 12 CFR 1026.12 ( b ) ) requires the issuer to demonstrate that the transaction was authorized. That burden of proof was never met.\n\nAdditionally, the company failed to deliver the agreed service of providing ten qualified leads within ninety ( 90 ) days. Only one lead was ever provided. After that failure, they claimed they would work for free, which is not measurable, enforceable, or an acceptable substitute for contractual performance.\n\nRequested Resolution : I request that the CFPB review Barclays Bank Delawares handling of this billing dispute and require Barclays to : Reverse the {$1500.00} charge and all related interest or fees ; Acknowledge the transaction as unauthorized under Regulation Z ; and Ensure future compliance with dispute-resolution standards by requiring documentary proof of cardholder authorization before denying similar disputes."
+}

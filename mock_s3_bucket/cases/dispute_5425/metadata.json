@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5425",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30032"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43203,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Returned an item, person who ran the return ran it as store credit without warning even though a receipt was present. The reason why it ran as store credit without warning is because I didnt give them a receipt. When I asked to run it as a charge back instead they refused to and said, \" they couldn't do anything now. '' Tried contacting the manager and got no where. And to make matters even worse, the store credit didnt even work. \n\nWhen I disputed the charge in less then XXXX hours I got a email saying, \" XXXX you take it up with the mamanger. '' Customer support doent help, citi saids, \" we did what we needed to do, '' which Im guessing means immediatly close the dispute. \n\nDon't use cards with citi bank. \n\nCase number is : XXXX"
+}

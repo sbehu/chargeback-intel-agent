@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9725",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95691"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12721,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To : Consumer Financial Protection Bureau Subject : Citibank FCBA Violations Improper Burden Shifting and Denial of Unauthorized Transaction Claim Complainant : XXXX XXXX Account : XXXX XXXX XXXX ( last four digits : XXXX ) issued by Citibank Amount in Dispute : {$9000.00} ( {$4000.00} & {$5000.00} ) Citibank Disputes : Case ID XXXX and Case ID XXXX. \nMerchant : Chauffer Anywhere Merchant Principal : XXXX XXXX Transaction Period : XX/XX/year> Complaint Statement : I am submitting this complaint against Citibank for violations of the Fair Credit Billing Act, 15 U.S.C. 1666 and 1643, arising from Citibanks improper denial of my claim for an unauthorized {$9000.00} charge. \n\nI did not authorize, request, or receive any services from the merchant in XX/XX/year>. The merchant charged my card using stored card information from a prior, unrelated transaction in XX/XX/year>. I immediately disputed the charge and provided extensive documentation demonstrating the absence of authorization, including text messages showing that only XXXX services were discussed and authorized. \n\nCitibank : 1. Repeatedly misclassified the dispute as a cancelled service, despite my explicit written notice on XX/XX/year>, that no service was ever ordered and therefore could not have been cancelled.\n\n2. Relied on inconsistent and false merchant representations, including a fabricated invoice and contradictory service dates ( XX/XX/XXXX or XX/XX/XXXX ). \n3. Provided conflicting explanations over a seven-month period from representatives located in XXXX, XXXX XXXX, and the XXXX XXXX  XXXX \n4. Ultimately denied my claim by assertingon XX/XX/XXXX, XXXXthat the burden of proof lies with me, the cardholder, to prove the transaction was unauthorized. \n\nThis position is contrary to federal law. Under the Fair Credit Billing Act and Regulation Z ( 12 C.F.R. 1026.12 ), once a consumer states that a charge was unauthorized, the burden shifts to the creditor and merchant to produce affirmative evidence of authorization. A consumer can not be required to prove a negative, nor does prior possession of card data constitute authorization. \n\nCitibank has failed to produce : Any signed contract Any written authorization Any booking confirmation Any recorded consent Any contemporaneous communication authorizing a {$9000.00} charge Instead, Citibank improperly shifted the burden to me and denied the claim without legally sufficient proof. \n\nRequested Relief : Reversal of the {$9000.00} unauthorized charge Correction of Citibanks dispute records Confirmation of FCBA compliance Appropriate regulatory action I respectfully request CFPB review and enforcement. \n\nSincerely, XXXX XXXX"
+}

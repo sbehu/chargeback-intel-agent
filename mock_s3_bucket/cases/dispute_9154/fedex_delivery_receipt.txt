@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-80081896-US
+Shipment Date:   2026-03-04T00:00:00Z
+Delivery Date:   2026-03-28T00:00:00Z
+Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
+Destination:     8650 MAPLE WAY, CA, 94546
+============================================================

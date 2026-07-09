@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11550",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92404"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24524,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase for XXXX on XX/XX/XXXX. The purchase had XXXX  months no interest if paid in full. I was short XXXX on my last payment on XXXX of XXXX and was charged XXXX in interest. I called the Citi and asked for a one time waive of the fee or reduced fee. they said it was company policy not to waive the interest fee."
+}

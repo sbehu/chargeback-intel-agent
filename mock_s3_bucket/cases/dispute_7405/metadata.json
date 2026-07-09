@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7405",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "72764"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22460,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I booked a round trip flight and purchased the XXXX XXXX XXXX  from XXXX XXXX using my Barclays Credit Card. After the flight was booked, XXXX changed their flight schedule which included a significant layover, so I reached out on XX/XX/XXXX to reschedule the flight or obtain a refund. I was told I could receive a full refund if I cancelled my membership, which I opted to do ( I have the chat correspondence to prove this ). When I received the refund it was less the {$99.00} XXXX XXXX Membership Fee. I disputed the transaction with the XXXX XXXX Representative and was told there was nothing they could do in spite of the miscommunication provided by the XXXX XXXX Representative. I disputed the charge through my credit card company, Barclays, and after several months of back and forth, Barclays told me on XX/XX/XXXX there was nothing they could do because the membership was non refundable according to the XXXX cancellation policy. I shared the chat correspondence where I was misinformed but it did not change anything. I believe XXXX and/or Barclays owes me {$99.00} at least due to extreme inconvenience this has caused. Honestly they should probably pay at least {$1000.00} due to the headache and time involved in trying to resolve this dispute. XXXX changed my flight after booking, told me I could get a full refund, did not honor their word, and Barclays did not hold them accountable in spite of the chat correspondence provided. I'm hoping there's something CFPB can do to assist. I have tried to let this go over the previous months/years because I didn't think there was anything else I could do, but I recently thought that perhaps it's not too late for the CFPB to advocate on my behalf. Thank you very much for your time and consideration."
+}

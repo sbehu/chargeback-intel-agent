@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7514",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27863,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I signed my kids up for sporting programs for {$270.00}, and they changed the location of where my kids would be doing the sporting program to over 2 cities away a couple weeks before they started. I told the company I wouldn't be able to drive 40 minutes each way to the practices and games and that I'd like a refund. They told me there wouldn't be a refund allowed because I had agreed to their terms which say the location may change. I told them changing within the city is reasonable or even up to 20 minutes but asking me to drive 40 minutes both directions for all of this was unreasonable and I wanted a refund. They agreed to refund {$190.00}. Originally the refund showed a {$100.00} refund and {$90.00} refund in pending, so I did a dispute for {$84.00} to get the rest of the money. Only the {$100.00} refund came through from pending to permanent, and then the {$84.00} got approved. I talked to customer service several times about getting it changed, and they kept saying they would change it but didn't ever do anything. I cancelled the {$84.00} thinking I could submit a new claim for the {$170.00}. After, it wouldn't let me reopen the dispute. I talked to customer service and told them, and they said they would reopen it for me. Every month or so, I've been contacting to ask what is happening with it, they tell me nothing was done before but they will take care of it, and then nothing happens still. So since XXXX, I've been waiting for them to actually get back to me, and nothing happens. I would really like to get this dispute resolved as soon as possible."
+}

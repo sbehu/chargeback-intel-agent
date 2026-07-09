@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9761",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "067XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30413,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Against : Citibank , N.A . \nIssue Type : Credit card billing disputes/ unauthorized recurring charges/ account management failures Account : Second Citibank credit card ( separate account ) I am submitting this complaint regarding a second Citibank credit card account involving repeated unauthorized recurring charges and Citibanks failure to honor account controls and customer instructions. \n\nAlthough this account did not exceed its credit limit, Citibank repeatedly allowed recurring and subscription charges to post that I did not authorize. These were primarily automatic renewal and subscription fees, not one-time purchases for goods or services. \n\nAfter identifying the issue, I locked the credit card to stop recurring charges. Despite the card being locked, Citibank continued to allow recurring transactions to post, rendering the card lock ineffective. \n\nI also changed the card number, yet the same merchants were still able to charge the account. This suggests Citibank permitted the use of merchant account updater services or similar mechanisms without my consent, allowing merchants to obtain new card numbers automatically. \n\nI disputed several of these charges and explicitly instructed Citibank to stop permitting recurring transactions. Despite these disputes and instructions, the charges continued. \n\nAdditionally, I have experienced difficulty accessing and downloading account statements through Citibanks website, which interfered with my ability to promptly review and dispute transactions.\n\nCitibanks failures have caused : Unauthorized charges Loss of effective control over my account Repeated disputes for charges that should have been blocked Significant time and effort spent correcting Citibanks errors I can not even access my statements online to give you the dates and amounts."
+}

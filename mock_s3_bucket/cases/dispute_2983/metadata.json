@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2983",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75088"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49819,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern : RE : Refund of cancelled flight tickets purchased on XXXX XXXX- I made a flight reservation was for a refundable XXXX  round trip tickets which was purchased originally for USD {$1400.00} on XX/XX/XXXX. \nXXXX - This reservation was eventually canceled on XX/XX/XXXX and per XXXX emails attached below I was supposed to receive a refund within 30 days as per XXXX  ( see attached ). \nXXXX - However, even after 60 days, neither have I received any refund and neither can I get any response from the merchant. Therefore, I requested that the funds of {$1400.00} be refunded to my Citi MasterCard ending XXXX forthwith. Citi Business Customer Service also issued a temporary credit to my account during the investigation. \nXXXX - Citi Business Customer Service reversed the credit based on misleading information initially provided by the merchant XXXX and failed to communicate with me prior to reversing the temporary credit. They completely failed to review the incorrect documents sent to them by XXXX. Citi cancelled my dispute against me based on information provided for a completely unrelated transaction XXXX - I promptly called Citi and they stated that they will reopen the case and asked me to fax the supporting documents and promised me a resolution within XXXX business days. This is not true whatsoever. \nXXXX - I received another letter from Citi stating they the merchant XXXX has refused to issue a credit and that they can not do anything and reversed my temporary credit one more time. \nXXXX - At this point I am helpless and can not do anything because neither XXXX nor Citi Business Customer Service have refused to help me or assist me in this matter. \nI have cancelled the reservation on-time and did not use any of the services whatsoever. \nTherefore, I humbly seek your assistance in recovering my funds in the amount of USD {$1400.00} plus applicable daily accrued interest per prime rate for the unscrupulous delay. \nYours truly, XXXX XXXX XXXX"
+}

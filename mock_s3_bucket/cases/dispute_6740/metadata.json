@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6740",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "WA",
+    "complaint_zip": "98003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 993,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My mother fell at work and was hospitalized. I was on vacation in XXXX. I needed to change my flight because she was seriously injured and she has no caregiver or spouse. In both the XXXX and XXXX, you are allowed to change your flight with no fee for serious medical issues OR the medical issues of a \" first relation '' which I am. I even sent them my birth certificate showing this. I changed my flight with XXXX. I called them as the system wanted me to pay XXXX USD, but they said don't worry you are covered you just have to send in the medical documentation which I did FOUR TIMES. XXXX submitted an absolutely useless page to American Express, saying \" the passenger requested a change in the original ticket purchased with a restricted fare. As such, this change requested by the passenger generates a PENALTY FEE, which is non-refundable. '' I did not purchase this extra service, I was told it would be immediately refunded after I literally consulted XXXX of the very nature of the incident ( severe head trauma ). THIS IS NOT LEGAL. As I have stated, I sent FOUR separate emails to XXXX with my medical proof. They, of course, did not provide this to American Express and simply told American Express I had made a purchase. They made XXXX mention of the medical angle, and XXXX CLEARLY didn't read my actual complaint which clearly states that. You will see my submission to XXXX, their acceptance, and other correspondence. I trust this credit will be issued so I won't be forced to escalate further but this is a black and white case here."
+}

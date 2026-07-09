@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9650",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92129"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33759,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Unauthorized charge merchant can not be identified What happened : Citibank denied a dispute for a {$2400.00} unauthorized charge on our XXXX XXXX XXXX card, claiming the transaction was chip-present. The card was never out of the cardholders possession, and the only legitimate use that day was a parking meter. \nCritically, Citibank has failed to provide verifiable merchant information. The merchant name listed on the statement does not correspond to an identifiable business, making it impossible to resolve the matter directly with the merchant. \nDespite reopening the dispute in writing and acknowledging review by email, Citibank denied the dispute again without explanation and has continued to assess interest on the disputed amount. \nWhy this is a problem : Under the Fair Credit Billing Act, consumers are entitled to : Identification of the merchant Evidence of authorization Protection from interest and penalties during a valid dispute Citibank has denied the dispute while failing to meet these requirements."
+}

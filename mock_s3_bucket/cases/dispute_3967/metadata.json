@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3967",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11237"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38387,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Bestbuy XXXX Citibank XXXX credit card. \n\n\" credit life insurance fee '' I have been charged monthly for a \" credit life insurance fee '' I had auto pay and never looked at the statement. as it was a small fee every month compared to the over all debt. I did not notice it. \n\nhowever, when disputing another charge today I noticed this fee and saw them on all statements. when I called Bestbuy/citibank. they said that I have been charged this since I opened the account 12 years ago. when all totaled up its roughly {$4000.00}. I asked Best Buy/citibank to cancel and dispute previous charges and they informed me to contact the insurance company directly because they can't do anything from their side. Citibank was asked to give XXXX back to customers. I did not receive anything."
+}

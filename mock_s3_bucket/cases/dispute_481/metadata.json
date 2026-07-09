@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_481",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29025,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/23 a transaction was posted on my card that the Company recognized as fraudulent and they informed me. I confirmed it to be fraudulent and had them close the card. Four days later, another {$1100.00} transaction was posted with an XX/XX/23 transaction date, a transaction that I did not initiate nor have any idea who filed it. When it posted, I reported it to the Fraud team who said they would investigate. Two billing cycles later, when it remained on my bill, I complained that they still hadn't removed it. They simply declared the transaction valid without any info related to the investigation nor how they determined it was valid. I had no participation in it. The company keeps adding interest. I have a 9 page document that illustrates all the exchanges with the company that I will attach."
+}

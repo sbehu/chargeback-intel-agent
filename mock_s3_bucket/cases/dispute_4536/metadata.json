@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4536",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "92501"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21952,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Gap credit card is mistakenly billing my credit cad account for a returned that I made."
+}

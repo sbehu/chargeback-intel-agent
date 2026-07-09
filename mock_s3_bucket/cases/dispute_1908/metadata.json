@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1908",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "752XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2299,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I was in XXXX and took a pedi cab ( bike driven taxi ). After being dropped off the man told me it would be XXXX pounds. I swiped my card and he rode off. Immediately I see a text from citi bank asking if the charge for {$2500.00} was fraudulent. I immediately hit yes and call citi bank ; they cancel my card and send me a new one. I think this is taken care of. However, the pending charge became a posted charge and so yet again I am calling citi bank. They say it must be turned into a dispute since it is a posted charge. I supply the information ; as I do not have a receipt as it was a man on a bike. \nThey have \" resolved '' my dispute and said it is my responsibility. I am deeply frustrated with how this was handled as I took immediate action and in no way shape or form thought should I be held liable for {$2500.00}. \nI would like citi bank to protect their customers as they claim they do."
+}

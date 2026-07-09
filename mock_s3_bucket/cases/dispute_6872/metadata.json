@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6872",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1610"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13960,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : American Express XXXX XXXX XXXX XXXX in No Show and Loss of Refund In XX/XX/year>, I purchased airline tickets through the American Express XXXX website for travel with XXXX XXXX. Due to urgent immigration-related issues, I canceled the tickets directly through the Amex XXXX XXXX XXXX in advance of the departure date. \n\nDespite using Amexs own cancellation system, XXXX XXXX later marked me as a no-show, which disqualified me from any refund or credit. When I contacted XXXX XXXX, they informed me that they could not assist because the ticket was booked and supposedly canceled through a third party in this case, Amex XXXX and they never received a valid cancellation notification. \n\nIn short, I followed all the correct steps, but the Amex XXXX platform failed to properly communicate the cancellation to XXXX XXXX. As a result, I lost the full value of my ticket. \n\nI contacted American Express for help, but their support has been unhelpful and dismissive. They have not accepted responsibility, issued a refund, or provided any viable resolution. There were XXXX escalations done through them, but they dismissed everything, saying they did cancel even though XXXX has confirmed that it was a NO SHOW. I will upload their email as proff. Also when I advised them to listen to the recording when i talked with AMEX reps about them saying that you will have credit they said they could not find any thing. \n\nWhat I'm Asking the CFPB to Help With : A full refund of the ticket cost, or A travel credit of equal value A formal investigation into Amex XXXX 's failure to relay cancellations, and whether this constitutes deceptive or negligent business practices. \n\nThis situation resulted in a financial loss through no fault of my own, and I believe American Express mishandled my transaction and violated my rights under the Fair Credit Billing Act. \n\nThank you for your assistance."
+}

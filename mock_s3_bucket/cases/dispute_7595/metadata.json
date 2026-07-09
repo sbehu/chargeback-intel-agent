@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7595",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33156"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25117,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, XXXX, I placed an item order on XXXX. I did not receive the item, no matter what Citi and XXXX are saying. XXXX refused refund after multiple attempts to contact, so I opened a dispute case, provided the evidence of whole open box video to show that I did NOT receive the said item. \nXXXX XXXX XXXX XXXX  Citi rejected my dispute under the claim that the item which I returned was not the item shipped to me. I did not receive the item, how do I return the item? It is absurd and extortionary. Plus they did NOT provide evidence to back up their claim, no CCTV footage, no nothing, while I have solid evidence to back up my claim. \n\nNow they are claiming that I did not send back a request within the timeline. I did, via their dispute email, they are lying about this. I did, and they did not process my request. This is simply unacceptable. \n\nPlease issue penalties according to policy to Citi. It is full violation of Fair Credit Billing Act ( FCBA ) 15 U.S. Code 1666, Regulation Z ( 12 CFR 1026 ) Implements the Truth in Lending Act ( TILA ), Unfair, Deceptive, or Abusive Acts or Practices ( UDAAP ) Dodd-Frank Act, 12 U.S.C. 5531."
+}

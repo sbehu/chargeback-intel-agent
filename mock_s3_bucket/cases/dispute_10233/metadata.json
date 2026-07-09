@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10233",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48864"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14037,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing multiple unauthorized charges on my Costco Anywhere VisXXXX card ( XXXX between XX/XX/XXXX XXXX XXXX 2025 ). \n- I reported the fraud to XXXX Costco Anywhere card on XX/XX/year>. I informed them that all XXXX charges were with one single merchant, XXXX. I also told them at that time that one charge for {$150.00} was valid/I had made a purchase at XXXX for that amount. - I received a letter two weeks later stating they had classified the fraud as a merchant dispute and I was responsible for the charges on my account. \n- I called them back on XX/XX/XXXX and repeated that this was fraud and not a merchant dispute and was given an email address ( XXXX ) for follow-up. \n- I sent multiple emails to that address ( the first of which I repeated that the {$150.00} was a valid purchase ) and sent screenshots of my XXXX account to provide evidence of the only purchases made in 2025. \n- Yesterday I made a police report at XXXX XXXX in Michigan, where I reside due to the mismanagement and misclassification by Citi ( case number XXXX ). I followed up again with Citi Costco anywhere card via that same email to inform them of this but have received no response to any of my emails. \n- Today I received a letter from Citi dated XX/XX/XXXX stating they had investigated the one legitimate charge ( {$150.00} ) which was incorrectly included in my fraud dispute. \n- Citi has failed to provide written confirmation that the remaining fraudulent charges are being investigated as fraud and not as a merchant dispute. They have also charged me/debited back {$530.00} of fraudulent activity after stating that I am responsible. Phone calls to them are extremely difficult, time-consuming, and often met with unhelpful or rude representatives. \n\nI am submitting this complaint because Citi has not responded to multiple written follow-ups and has failed to provide an accessible method to resolve my dispute."
+}

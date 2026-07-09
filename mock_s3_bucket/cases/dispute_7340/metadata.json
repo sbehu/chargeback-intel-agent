@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7340",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "17044"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39526,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX I received a fraud call from CitiBank, there were XXXX suspicious charges on a card that I had. This account had been carrying a XXXX balance for several months and I was planning to close the account. At the time of the phone call I informed the credit card company that the charges were not mine and that the balance on the account was XXXX and to just close the account. They agreed to take care of the fraudulent charges and closed the account. At which time I destroyed the card and I never got another thing from them, I assumed it was closed. \nAround XX/XX/XXXX my XXXX XXXX started to rapidly drop. After some research I realized it was for the Citibank fraudulent charges. I started contacting Citibank immediately and disputing these charges. I was also disputing the charges with XXXX XXXX. Citibank never sent me anything to see what these charges were. \nLast week I received a call from a collection agency, they were calling about Citibank. I informed this caller with all of the above mentioned information. I told her that I gotten nothing about this account and she was verifying my information and the address she had was not mine. I have lived at the same address from XXXX  years. She could not provide me with the address that she had on file. She changed my address and today I got a collection letter in the mail. With every person I spoke to that represented Citibank they have agreed this looks fraudulent. \nI have worked very hard to keep my credit in the excellent range and this is destroying my credit. \nI would just like this cleared from my credit so that I can move on and take care of this. \nThank You, XXXX XXXX"
+}

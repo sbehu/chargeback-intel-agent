@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-34487869-US
+Shipment Date:   2026-03-04T00:00:00Z
+Delivery Date:   2026-04-13T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     9448 WASHINGTON CT, NY, 117XX
+============================================================

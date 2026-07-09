@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10377",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "710XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33195,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was scheduled for a cosmetic XXXX at XXXX XXXX XXXX in XXXX, La my schedule procedure in XX/XX/year> in which I did not go through with the XXXX. I was charged the total amount for procedure to my Best Buy Credit Card so I disputed the charges twice uploaded information showing it was only a {$500.00} non refundable deposit but I was charged {$5700.00} in addition to the {$500.00} deposit no XXXX was done or performed. I was told since I provided this information there should be no reason why I would be responsible for charges but after the end of this 6 months going back and forth the charge is still on my account."
+}

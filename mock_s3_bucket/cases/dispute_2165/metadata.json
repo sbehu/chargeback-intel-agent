@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2165",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77301"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17831,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made ( XXXX ) purchases to XXXX through XXXX on XX/XX/year>. I reached out to XXXX  via email as that is the only contact information they provide to confirm my purchases. I received a message back that the email address was invalid. I reached out to XXXX and asked for their assistance. XXXX directed me to file a claim with my credit card company. I filed ( XXXX ) disputes with my credit card company AMEX. Amex then filed chargebacks against XXXX. XXXX provided documents & tracking number via XXXX indicating my package was delivered to an address in the same city as my address via XXXX. I reached out to XXXX and confirmed the package was not addressed to my address via the tracking number XXXX  provided. Apparently this is a common fraud practice where the merchant will send a package to a random address in the same zip code and use this as proof of service to the credit card company. These matters remain unresolved with XXXX, XXXX & AMEX. I have submitted a Service Request to the XXXX requesting a formal report on the tracking number XXXX provided. XXXX and AMEX have not been willing to provide contact information to XXXX so that I might pursue resolution directly with them. It appears XXXX has dropped XXXX from their website. I need your assistance in bringing resolution to this matter. Thank you!"
+}

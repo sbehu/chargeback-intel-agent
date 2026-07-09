@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13309",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10471"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44751,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> our flight on XXXX XXXX XXXX was cancelled due to snow storm. A second flight was cancelled the following day. We booked the flight with Frequent XXXX XXXX ( not credit card or cash ). During our next attempt to rebook with XXXX XXXX XXXX ( \" XXXX '' ) while holding for a representative, a XXXX XXXX got on the line and introduced himself as the XXXX representative. He said that since we were using Frequent Flyer Miles ( \" FFM '' ) we would be required to first post a \" shadow credit card charge for the full price of the flight and when the tickets were issued those credit card charges would be cancelled and refunded and the payment would reverse to the FFM and that was the only manner in which it could be done ''. He said the refund/cancellation would be completed XXXX. We completed the transaction. I was then contacted by CitiCard to confirm ( and dispute ) a {$10000.00} charge from XXXX in XXXX, XXXX. I now realized I was a victim of Call Interruption Scam. I called XXXX and they confirmed that they did not know of XXXX  or XXXX XXXX and that neither XXXX or ( upon my investigation ) other aiders and abbetors ie. XXXX XXXX, an XXXX XXXX had any authority whatsoever to act on their behalf. I disputed the charge with CitiCard. Citicard said it was legitimate. I asked for the documentation that was submitted by the vendor that their decision was based upon. They never responded. I have tried to appeal but have been sent on a run around. The public opinion has expressed general frustration with Citibank in relation to dispute resolutoions. I have filed a complaint with the FTC as well. Except by use of FFM I could not otherwise afford to pay for the flight. It seems Citibank is turning a deaf ear to a patently fraudulent scheme. XXXX is just the billing proxy. It is XXXX XXXX XXXX ( XXXX XXXX ) and its agent XXXX that are perpetuating this fraud."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9301",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "070XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10982,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I booked a hotel stay using American Express travel for the XXXX XXXX XXXX for a trip from XX/XX/XXXX ( today ) until XX/XX/XXXX. I was charged a XXXX night deposit on XXXX  XX/XX/XXXX for the stay in the amount of {$990.00} since it was XXXX hours out from our arrival. When we arrived at the XXXX XXXX this morning we were told at the front desk they did not have a reservation in our name and in fact must have booked at the wrong hotel. Upon further investigation we realized that we were at the XXXX XXXX XXXX which is on XXXX XXXX and we had booked at the XXXX XXXX XXXX which is in XXXX ( a different town and zip code! ) Luckily, we were able to get a reservation at the \" right '' XXXX but they said we needed to call the other one to deal with the dispute... Clearly this happens! When we called American Express who then called the other property, they cancelled the reservation there but are refusing to refund our deposit even though we are staying at the sister hotel owned by the same parent company. We had no choice but to book at the higher rate \" day of '' since my husband is here for business for XXXX XXXX XXXX and needs to be walking distance from the hotel. I spent much of the afternoon on the phone with American Express and the other XXXX I tried both routes but neither American Express OR the other XXXX is willing to make an exception to their \" rule '' even though we are long time platinum American Express customers, we booked the trip through American Express and we are now ( of course! ) using our American Express on an even higher room stay for XXXX nights. So, while we will be spending over {$7000.00} now on this XXXX night stay, ALL THE WHILE using our American Express which is supposed to \" protect ' its valued customers, they are refusing to refund us even though we chose to still stay at a different location of the said same hotel chain! This is infuriating! I would like ( calmly and reasonably ) to receive a refund of {$990.00}. Nowhere on the reservation at the XXXX XXXX ( besides the address ) did it say XXXX which is not just a street but in fact a separate part of XXXX! The fact that no one has been reasonable enough to get on the phone from the hotel and actually assist me with this credit is a crime because they took a deposit on a room that was NOT the correct location for us and we STILL are using our American Express, spending MORE for the late in-person booking, and this was a completely honest mistake on my part because I was misled into thinking that the XXXXXXXX XXXX XXXX in XXXX. I would like this handled XXXX, as I feel I was misguided and as a valued American Express Platinum card with all the associated protections and the huge fee we pay to BE a platinum card member it is absolutely absurd to be manipulated by them this way! If their intent is getting us to spend MORE not less on our card, they have already accomplished that. But, I feel it is MORE than fair to expect they refund the deposit from the wrong hotel location."
+}

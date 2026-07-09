@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13307",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21209"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40356,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a custom made suit from XXXX for {$330.00} using my American Express card ending in XXXX. \nI initiated a dispute XX/XX/XXXX because the product after a long protracted course of trying to get XXXX  to alter custom suit to fit. The provided was fundamentally defective and significantly not as described. Specifically, the suit was made with incorrect measurements taken by their own tailors making the suit unwearable. I went to their showroom and send numerous email which XXXX ignored. Effectively refusing to honor their for promise guarantee.\n\nI have provided American Express with my email communications with XXXX  and pictures of the improper fitting suit. \n\nI opened a CFPB complaint XX/XX/XXXX an AMEX provided monetary relief. However, I just received a letter that they charged my credit card again. The response they provided me that the merchant was correct and that I didnt contact the merchant within 10 days of receiving the order and I had remove the tags from the garment. However, this is untrue, I had contacted the company within 10 days and even had a confirmed appointment at their showroom when I arrived at the showroom, I found it closed. I immediately sent an email to the company and they told me that they will investigate and follow up. They never contacted me again. I sent them multiple emails and they never responded to any of them. I believe that XXXX  is clearly making up false allegations to cover up their mistakes. I followed all their rules and procedures. I request AMEX reopen my complaint and do a thorough review with all of the documentation that had sent them. The garment still has his tag on it if they require a picture Ill be happy to send."
+}

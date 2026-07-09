@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9959",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8612,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, an unauthorized charge of approximately {$16000.00} appeared on my American Express credit card statement.We missed that charge on our statement and same merchant charged us again on XX/XX/year> but this time charged {$9000.00} XXXX times. The charge was processed through XXXX and listed as from a merchant named \" XXXX. '' I did not authorize this transaction, have no knowledge of it, and it is completely fraudulent. I immediately disputed the charge with American Express as unauthorized fraud in XX/XX/year>. \nWhen I contacted the merchant processor ( XXXX ), they confirmed that the transaction was suspicious and informed me that they had already closed the XXXX merchant account due to suspicious activity. \nDespite this clear evidence of fraud from the processor itself, American Express denied my dispute, refused to remove the charge, and instead closed my account without resolving the issue or providing assistance. \nThis unauthorized charge violates my rights under the Fair Credit Billing Act ( FCBA ), which limits liability for unauthorized charges and requires issuers to properly investigate billing disputes. \nI have supporting evidence, including : Credit card statements showing the charge Records of my disputes with American Express ( reference numbers, emails, chat logs ) Police report"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10405",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90240"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3248,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase XXXX for amount of {$190.00}. The item was not as described and was shipped back to merchant as requested. I sent in documents for my dispute on XXXX to citi and also XXXX more times after that. \nThey stated they made a mistake and did not see my documents sent in so the time frame for the dispute past and I lost my money and no item. It is not my fault citi did not take care of this matter as I did my part on time and before documents were asked for."
+}

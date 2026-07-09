@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6550",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10001"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38875,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed XXXX formal disputes with Citi on XXXX different credit cards ( ending in XXXX and XXXX ) related to a custom furniture order from XXXX XXXX XXXX. Despite submitting detailed documentation, including receipts, photos, and written communication, both disputes were denied. \n\nThe merchant failed to complete the order, delivered defective furniture, and caused damage to my apartment. However, XXXX XXXX  reviewed the same case for a third transaction and refunded {$2000.00} in my favor, confirming the legitimacy of my complaint. \n\nI also filed a complaint with the XXXX XXXX XXXX to which the merchant never responded."
+}

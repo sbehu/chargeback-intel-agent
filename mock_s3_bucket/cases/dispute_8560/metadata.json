@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8560",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14150"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13634,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Case ID # ( via Credit Card Company Disputes ) XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX These 4 case id # are for my disputes for my transactions. You've recently closed my disputes without pursuing to the merchant for more information when I already gave my statement/screenshots/transactions to you. If this doesn't get disputed then I will file a complaint against you with CFPB. You canceling my dispute is unjustified as I've sent out everything you need already. These claims has been started since XX/XX/XXXX and you did nothing to help me as a consumer. Please get this out because I've did not authorize these charges from the merchant XXXX that was posted from the month of XXXX. I've reached out to the merchant and on my behalf & they do not know what or where these charges came from so therefore these charges are fraudulent. Once again, I did not authorize these charges and the merchant ( XXXX ) used/charged my Best Buy XXXX XXXX. Which is why I requested a new credit card mailed out to me. You do not need more information as I've sent out my screenshots/reasoning of why I started the disputes of ( 4 ) transactions on XX/XX/XXXX. It is a duplicate charge and they charged me already on XX/XX/XXXX & XX/XX/XXXX. \n\nAbove is my sent out letter to the credit card company of XXXX Citi Credit Card Company. I've tried to contact the Dispute Department Center countless of times but they are not able to be contacted. It's frustrating because ( 4 ) transactions that I've disputed since XX/XX/year> has lead to nothing and the dispute company did not do their job to pursue for more information from the merchant and credit my account. I've submitted my documentations and reasoning onto why I've disputed my transactions & they declined the disputes. I've waited nearly 2 months and they did nothing to pursue or help the consumer as myself to win my money back."
+}

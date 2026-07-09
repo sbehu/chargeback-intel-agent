@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2768",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "OH",
+    "complaint_zip": "447XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33422,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX or XXXX I created a dispute for {$1200.00}. I never received the order. CitiBank/Home XXXX says it was delivered XX/XX/XXXX. They also claim it was signed for. I was returning from California on that date so there is no way I could have signed for it. In addition it was going to my office building which was closed for the holiday. They offered a settlement of {$350.00}. Unsatisfactory! I tried to call CitiBank several times after that and could not get through to a real person. I finally had to go into XXXX XXXX and have the manager call. I reopened the dispute in XXXX of XXXX. I had not heard from them for several months so, I called and was told they closed the case without any correspondence or phone calls. On XX/XX/XXXX, I sent a certified letter. To date I have still not heard a word from them."
+}

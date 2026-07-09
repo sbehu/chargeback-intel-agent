@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9715",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97212"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1355,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, placed an order with GAP, INC totaling {$180.00} that was never delivered. On XX/XX/XXXX, GAP customer service acknowledged that the order was lost and that GAP was at fault. But instead of issuing a refund, they directed me to a third-party claims administrator XXXX XXXX XXXX XXXX  ). \n\nI filed a claim on XX/XX/XXXX. This claim was automatically denied due to my return history, even though this situation does not involve a return but rather merchandise that was never received. Additionally, Ive always completed my returns in line with company policies. \n\nWhile there is technically a way to contest the denial, the process is confusing, time-consuming, and may take 24 weeks. I have already spent hours attempting to resolve this with GAP customer service and XXXX XXXX XXXX customer service. \n\nGAP has not refunded me for merchandise they confirmed was lost. I have opened a credit card dispute and am seeking a refund for goods not received. \n\nOrder number : # XXXX XXXX  authorization ID : XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5163",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89135"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29485,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank VISA double charged my account {$4100.00} on XX/XX/XXXX. When I called Citibank and asked for an electronic refund, I was told that could not be done and that a refund check would be sent to me. I received a refund check for {$3400.00} on XX/XX/XXXX. When I asked for why there was a discrepancy of {$650.00} I was told that new charges were taken out. I then asked what were these new charges. Their customer service representative was good in looking these up for me but no prior explanation had been given to me. These new charges came to {$590.00}. So there was still a discrepancy. When I called back again, I was told that I had a previous balance which was taken out of my refund check. \nThis whole episode was not fair. First, Citibank should not have double billed me. Second, if they could not refund electronically, they should have promptly refunded me the full amount overcharged. Third, there was no explanation given to me with the refund check as to why the amount was less than the overcharge. Fourth, the explanation given to me on repeated telephone calls was not satisfactory and I believe that I was still not given the full overcharged amount. Fifth, I have a credit card with Citibank ; not a debit card. Why were charges immediately taken out from my account?"
+}

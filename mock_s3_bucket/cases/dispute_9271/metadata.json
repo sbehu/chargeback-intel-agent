@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9271",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97330"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31970,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an airline ticket on XXXX and somehow scammers got hold of this information and double charged my Citi XXXX : XX/XX/year> - {$2000.00} - this is the actual correct charge XX/XX/year> - {$2000.00} - this is a duplicate charge for the same airline ticket. \n\nFurthermore on XX/XX/XXXX, there were XXXX additional charges that were fraudulent and not mine. Please see attached account printout for the detailed charges, unauthorized charges are underlined. \n\nI filed a complaint with Citibank, they blocked my card and I listed the fraudulent charges. However, when later that day a logged back into my account to double verify whether the right charges have been listed, only XXXX of the XXXX transactions were entered in my complaint, the most expensive one, the double charge for the airline ticket was conveniently left out, please see second attachment for additional details. \n\nCustomer Service provided me with their separate XXXX Dispute Center number at XXXX, but after being on hold for hours, there is no customer service representative available to correct my complaint, even though I know, I filed it correctly in the first place. \n\nI am a XXXX veteran, currently with limited resources, this should not be a battle to start a dispute resolution and I feel these are tactics of Citicard to delay a real dispute resolution."
+}

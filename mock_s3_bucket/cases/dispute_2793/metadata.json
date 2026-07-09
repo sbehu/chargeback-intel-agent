@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2793",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1945"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7044,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX I made a purchase of storm door together with the installation service from the HomeDepot. For several months the contracted installer was not able to install and made severe damage to the building. After numerous conversation with the supervisor of the project, the local store manager and the online customer service, the purchase was refunded, hoever the damage to the property was never resolved. \n\nIn XXXX this case was brought to the district court, JUDGEMENT FOR PLAINTIFF ( S ) DOCKET NUMBER XXXX Trial Court of Massachusetts District Court Department. JUDGEME\n\nNT TOTAL PAYABLE TO PLAINTIFF ( S ) {$4800.00}.\n\nThe Homedepot never fullfilled the court order."
+}

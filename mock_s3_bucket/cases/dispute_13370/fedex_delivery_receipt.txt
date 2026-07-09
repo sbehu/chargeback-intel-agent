@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-40534378-US
+Shipment Date:   2026-03-17T00:00:00Z
+Delivery Date:   2026-03-24T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     7418 CEDAR ST, TX, 76012
+============================================================

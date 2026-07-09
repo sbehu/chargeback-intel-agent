@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9145",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11211"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33753,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Citi and XXXX have both failed to address a clear case of a merchant not providing the services I paid for. \n\nOn XX/XX/XXXX, I made a hotel reservation through XXXX. Although I booked directly on XXXX, the reservation was routed through one of their so-called partners. This partner has been completely unresponsive from day one. I never received legitimate confirmation from the actual service provider, and I was never able to use the reservation I paid for. \n\nBetween XX/XX/year> and XX/XX/year>, I contactedXX/XX/XXXX multiple times. They repeatedly told me they were trying to reach the partner, yet they never succeeded. Despite acknowledging they could not contact their own partner and that the service was not delivered, XXXX still refused to issue any refund. This demonstrates complete failure on their part to provide what I paid for. \n\nI submitted a dispute to Citi shortly after, on [ insert dispute date ], providing evidence that the merchant never delivered the service. Citi closed my dispute in favor of the merchant, even though XXXX never provided proof of service, because the service was never provided. Citi appears to have acceptedXX/XX/XXXX generic responses without performing any meaningful investigation. \n\nI reopened the dispute on [ insert date ], and once again Citi dismissed it without addressing the underlying facts. Citi has not explained why they are allowing a charge to stand when the merchant failed to deliver anything. At this point, Citi is failing its obligations under the Fair Credit Billing Act ( FCBA ) by refusing to properly investigate and by repeatedly closing the case in favor of a merchant that did not provide the purchased services. \n\nXX/XX/XXXX can not contact the partner, can not prove the service was provided, and refuses to refund an invalid charge. Citi refuses to protect me as a cardholder and is effectively enabling XXXX negligence. \n\nI am requesting that the CFPB intervene because : XXXX charged me for services that were never provided. \n\nXXXX refuses to refund me despite acknowledging they can not reach their own partner. \n\nCiti has failed to conduct a reasonable investigation under the FCBA and continues to close the dispute without addressing evidence.\n\nI am being held financially responsible for a service I never received. I even conctacted Booking.com and they confirmed that they were not able to reach out to the service themselves. \n\nI am asking the CFPB to require Citi to follow FCBA guidelines, reopen the dispute, and issue a proper chargeback. XX/XX/XXXX should not be allowed to profit from a service they never delivered."
+}

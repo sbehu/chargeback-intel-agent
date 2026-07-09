@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7923",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23060"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13397,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I used my Citi Shop Your Way card to purchase a XXXX XXXX Expedition from XXXX XXXX XXXXXXXX for {$4000.00}. Within XXXX miles of driving, the vehicle experienced transmission failure and stalling. XXXX licensed repair shops confirmed pre-existing safety defects ( brakes, suspension, battery ) that should have failed Virginia inspection. XXXX XXXX warranties were canceled : XXXX due to pre-existing mechanical issues, the other due to contract manipulation by the dealer. \n\nThe dealer refused to allow a pre-sale inspection. The Bill of Sale includes an AS-IS clause ; however, the signature is undated, which raises legal concerns under XXXX  XXXX and Virginia consumer protection law XXXX Citi denied my dispute before reviewing my legal rebuttal and failed to address any of this material evidence or investigate merchant fraud."
+}

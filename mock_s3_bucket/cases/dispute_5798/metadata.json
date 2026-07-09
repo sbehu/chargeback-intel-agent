@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5798",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "117XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32997,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used XXXX XXXX to try and do taxes. I had several questions regarding the fees and charges for submitting the paper work. None of the issues were resolved and I was just passed along from one agent to another. I called the customer service and spoke to them explaining how upset I was in the service and that I did not want to file my taxes through them. They sent me a link for the refund as they had already charged my card without filing the taxes to the Federal or the state. I contacted Citibank who a day later aprx XX/XX/XXXX told me by email I was getting a permanent refund back to my credit card. Later when checking the statement I saw a notice by the XXXX XXXX credit which stated withdraw dispute. Knowing I had received confirmation by Citibank I pressed this button thinking it was to remove the stated dispute from my statement. Now I find out on the very same day that this was not the meaning and spoke to there Manager XXXX who agreed how this statement could be misunderstood and that he would take care of it. I called back today XX/XX/XXXX to find nothing was done and the XXXX dollar charge is back on my statement from Citibank despite there advising me it would be done back on XX/XX/XXXX. I need someone to intervene on my behalf as nothing is being done. In the meantime I did engage with another firm to do my taxes as time is of the essence. I never filed anything through XXXX XXXX."
+}

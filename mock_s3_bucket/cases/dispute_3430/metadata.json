@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3430",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11758"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36830,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/year> i was notified by Home Depot CC asking if i made a purchase in XXXX Texas, i stated that i did not. i live in XXXX. they said they would cancel the charge. i requested that the account be closed. i did receive email confirmation of the account closure and the fraud charge. \ni am now being billed for over {$600.00} in charges on the closed account from purchases made in XXXX Texas. \nwhen i contacted them, i was told, the fraud did not get over to billing. \ni then contacted fraud dept. they said the investigation was never started. they would go ahead and start it now, and it could take XXXX days. \ni ask them to send me a statement that i have a XXXX balance and i am not liable for the amount, i was told they can not send that out. billing has to do that. \ni am worried about my credit rating and payment history, which is impeccable. \ni should be able to receive ample documentation from them stating the results of the investigation and the confirmation of the closed account and XXXX balance."
+}

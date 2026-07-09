@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2391",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33323"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47775,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Macys account has been hacked. A scammer stopped my paper billing and changed it to electronic billing to an email address that is not mine. An account number has been changed ( last digits XXXX ) and charged approximately XXXX. \nI have called the company and have gotten no satisfaction. I have written to Macys Amex and the credit companies. I have filed a police report and put a freeze on my credit reports. Ive filed with ID theft and spoke with the Attny Gen regarding this issue. My credit has been damaged due to this identity theft and has not been restored."
+}

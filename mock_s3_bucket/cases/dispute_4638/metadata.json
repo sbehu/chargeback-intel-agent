@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4638",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20737"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43592,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I paid {$3600.00} to XXXX XXXX XXXX in XXXX, OK for automotive work, namely fixing misfires on the engine in my vehicle. \nBy XXXX, the misfires had return. I attempted to have the vehicle repaired under warranty, but local dealerships declined to fix the issue. \nI attempted to receive a refund from the XXXX XXXX XXXX, but they declined. \nOn XX/XX/year>, I filed a dispute on the charge with Citi. They asked for more information and evidence, which I provided on XXXX evidence included a second opinion from an expert, in this case XXXX 's XXXX in XXXX, MD, which looked at my vehicle stated on the receipt that I had been charged for \" incomplete engine work. '' On XX/XX/year>, their dispute team decided I was liable for the charge. According to the letter they sent : \" With the information we had, it wasn't enough to support your claim and resolve the dispute in your favor. '' On XX/XX/year>, I called to ask how Citi came to this conclusion, as I had provided a second opinion from an expert that clearly stated I was charged for work not completed, and the document featured the signature of a manager at the shop. They asked for a narrative of the events, which I provided via email on XX/XX/year>. \nOn XX/XX/year>, Citi responded that \" We have reviewed all the documents pertaining to your dispute with the merchant. Unfortunately, we have no options available to assist you in obtaining the credit you desire for your account. '' Since then, I have repeatedly called Citi to attempt to find a path forward. I have asked how they denied my dispute on reasoning that contradicts evidence they received. Citi employees have admitted a clear mistake on behalf of the investigations dispute team. They have promised to investigate further, to provide me with more information and to call me and keep me updated. None of this occurred. \nOn XX/XX/year>, Citi wrote to me that \" A review of the documentation you supplied shows you received the services. Your dispute is about the quality of the services. Since you received the services, the merchant must be paid. We have no grounds to assist with this type of dispute. '' XXXX XXXX XXXX 's receipt says their tech was meant to repair misfires in the engine. The misfires returned and the evidence I have provided Citi 's dispute team shows \" incomplete engine work, '' which means I paid for services I did not receive. This suggests a dismissal of provided evidence, or ignorance of said evidence. \nTo further complicate this issue, Citi does not allow its customers, or even its own team members, to know the contact information for its dispute investigation team. Through my numerous calls with Citi, no one has been able to find their contact information to allow me to speak with them directly."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3832",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94903"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3073,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased XXXX mattresses, a bed frame, and XXXX apparatuses to move the beds up and down from Macys. The items were delivered to me in XXXX of XXXX, and were promptly returned to Macys in XXXX. Macys and Citibank did not properly credit my Macys credit card for the returned merchandise. I spent months calling Macys, trying to correct their error ( s ). \nOn XX/XX/XXXX, after numerous calls and letters, I sent a letter to Macys disputing charges on my Macys credit card account. On XX/XX/XXXX, Macys responded and failed to correct their billing error, and failed to remove negative information from my credit report, and continued to charge interest on the account. After receiving Macys erroneous response, I sent another letter on XX/XX/XXXX, hoping Macys would correct their mistakes. Instead of correcting these errors on my account, Citibank is suing me for a balance I don't owe in the amount of {$3100.00}."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13172",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35226,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint against : Citibank N.A. \nDate : XX/XX/year> Complainant : XXXX XXXX, XXXX XXXX XXXX XXXX XXXX, XXXX, NY XXXX Account : XXXX XXXX XXXX by XXXX ending XXXX ( old )/ XXXX ( new ). \n\nI am filing this complaint against Citibank for wrongfully closing a fraud dispute and ruling it \" Customer Responsible '' despite documented evidence proving physical impossibility. \nThe disputed charge : {$1700.00} at XXXX XXXX XXXX NY, XX/XX/year> at XXXX XXXX ET an in-store, card-present transaction. \nWhy the finding is impossible : My physical card was in XXXX, XXXX on XX/XX/year>. I had used it in person at XXXX XXXX, XXXX XXXX on XX/XX/year> to pick up a rental vehicle a transaction requiring physical card presence, confirmed on my statement as \" XXXX XXXX XXXX XXXX {$670.00}. '' On XX/XX/year>, I returned the rental car at XXXX XXXX at XXXX XXXX local time and boarded XXXX flight XXXX, departing XXXX XXXX at XXXX XXXX local time ( XXXX XXXX XXXX ), arriving XXXX XXXX at XXXX XXXX  ET. At XXXX XXXX  ET the exact time of the XXXX XXXX charge I was physically mid-flight over the XXXX XXXX. The card was on the plane with me. It was not in XXXX. It could not have been in XXXX. \nHow the fraud was discovered : On XX/XX/year>, while mid-flight from XXXX to New York, I received a fraud notification on my card. Immediately upon landing at XXXX, I called Citibank and confirmed that I had not made the {$1700.00} purchase at XXXX XXXX in XXXX as I had been in the air over the XXXX at the time of the charge. The Citi representative assured me the matter would be taken care of. \nCiti 's investigative failures : All evidence above was communicated to Citi representatives on multiple occasions. Not a single representative asked for additional documentation throughout the investigation. \nOnly on the final call on XX/XX/year> after the investigation was effectively concluded did a representative ask whether I had filed a police report for a stolen card. The card was never stolen or lost. It was physically in my possession throughout. A Citi representative had canceled the card during the phone call. No representative ever suggested filing a police report until the investigation was already over. \nDespite all of this, Citi closed the dispute as \" XXXX XXXX. '' Prior actions taken : Fraud reported to Citi : XX/XX/year> Dispute filed : XX/XX/year> Formal appeal submitted to XXXX : XX/XX/year> XXXX XXXX notified of potential card compromise : Case # XXXX XXXX complaint against XXXX : Complaint # XXXX Desired resolution : Immediate reversal of the \" Customer Responsible '' finding and full credit of {$1700.00} to my account."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4604",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2301"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34274,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "i HAVE NO STATMENT FOR 3 MONTHS THIS ACCOUNT WE SET FOR AUTOMATIC PAY MONTHLY WAS ARRANGED THROUGH XXXX XXXX XXXX \nXXXX AM I BEING CHARGED A LATE FEE FOR FOR THE JET BLUE CARD WHEN ITS AUTO PAY.PLEASE ANSWER.THANK YOU."
+}

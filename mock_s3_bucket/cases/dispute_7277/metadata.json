@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7277",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17363,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi bank master card used to be my default card for XXXX. I switched to XXXX XXXX as my default card at the end of XX/XX/XXXX. Somehow default card on XXXX jumped back to Citi without me recognizing so I thought the charges at Citi were fraud. I called Citi bank and they disputed the charges and dropped the payments. Because XXXX didn't receive payments from Citi, they froze my account and asked for another form of payment. I then realized they weren't fraud charges so I instructed XXXX to use my XXXX XXXX card XXXX reopened my account. I called Citi back and told them the charges weren't fraud on XX/XX/XXXX, told them it's XXXX that switched the default card. \n\nBig mistake, I am now being punished by being honest! Becasue of that, Citi charged me again with those charges. I was being double charged. I called Citi back and they told me that someone would call me back regarding that matter. No one called. I called again on XX/XX/XXXX around XXXX and spoke to XXXX from the security team. She said again the billing department would call me and again, no one did. I called on XX/XX/XXXX arond XXXX, spoke to XXXX from dispute department. She PROMISED all charges would be dropped for the next statement as long as I pay the last balance of {$75.00}. I asked her for a email confirmation, she refused to and kept telling me to trust Citi bank. I paid off my {$75.00} on XX/XX/XXXX and the remaining balance is still {$640.00}. \n\nI called again on XX/XX/XXXX around XXXX. Spoke to XXXX from the security team. Wanted to escalate and she said no one was available and her manager will call me back. I can no longer go back and forth with them which no resolution. Please help me with the charges. \n\nThe run down of the charges : XX/XX/XXXX {$41.00} XX/XX/XXXX {$5.00} XX/XX/XXXX {$61.00} XX/XX/XXXX {$160.00} XX/XX/XXXX {$71.00} XX/XX/XXXX {$110.00} XX/XX/XXXX {$130.00} XXXX of {$590.00} Please help and I am willing to escalate it to whatever it takes to get justice. Thank you once again!"
+}

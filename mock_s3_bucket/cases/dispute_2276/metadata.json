@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2276",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "SC",
+    "complaint_zip": "295XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1738,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX I noticed charges that were not mine on credit card statement. I called and they removed them also were to close account and send me new credit card. I did receive a new credit card but never activated it, I dont use this card often. I received a new statement with a new charge on there for {$52.00} made on XX/XX/year> to mint mobile. I immediately called and disputed also said this account should have been closed due to previous problem. They said they would remove charge and close account. Today XXXX XXXX I received a notice that they have closed investigations and refilled my account. This should have never been billed. They have email account as XXXX Internet address as Washington Virginia United States. \nI just want this account closed and this charge removed"
+}

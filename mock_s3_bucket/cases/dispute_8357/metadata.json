@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8357",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91941"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 753,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I attempted to pay my monthly XXXX  bill of {$1200.00} for my condominium online. In XXXX, while making the payment, I inadvertently failed to update the payment amount from {$21000.00} to {$1200.00} due to rushing the process. Upon realizing the error, I contacted the XXXX  XXXX  company right away. However, they refused to amend the payment and directed me to resolve the issue with my credit card company which I did within 72 hours.\n\nI promptly reached out to the credit card company to dispute the charge. However, their communication was unclear, with multiple requests for additional documentation via email but no direct phone calls or clear explanations. I diligently provided the requested materials, yet the lack of clear guidance caused delays in the dispute process. Every month it was a new request from them. In XXXX, the credit card company informed me over the phone that they were unable to recover the funds from the XXXX, holding me responsible for the full payment. As a result, my credit card balance has escalated to {$25000.00} due to their failure to effectively handle the dispute. \nWhile I acknowledge that I owed the XXXX  a significant amount due to special assessments, I intended to pay these charges in a more manageable way. This unexpected financial burden has left me struggling with substantial credit card debt and uncertainty about how to address it."
+}

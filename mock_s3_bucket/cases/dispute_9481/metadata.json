@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9481",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "754XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2047,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint to request an immediate reversal of a charge in the amount of {$1000.00} for a transaction that occurred on XX/XX/year>, for a set of chairs purchased via XXXX XXXX. Upon delivery on XX/XX/year>, we attempted to assemble the product, but the item was immediately found to be defective and unsafe ; specifically, the back support cracked upon the slightest pressure due to poor construction, rendering the item functionally useless and dangerous to sit in. On XX/XX/year>, I contacted the seller to return the unsafe item and was instructed to return the goods to a XXXX store ; however, when I attempted to return the item to XXXX in person, they refused the return and stated I must deal with the seller directly. \n\nFollowing this refusal, I reached back out to the seller on XX/XX/year>, but the seller ceased all communication and has not responded since, effectively \" ghosting '' me to avoid processing the refund. Consequently, I filed my initial dispute with Citibank on XX/XX/year>, which was well within the protected XXXX timeframe required by the Fair Credit Billing Act ( FCBA ). Despite these facts, Citibank has failed to protect my consumer rights and has denied my disputes even after receiving blatant evidence of a defective and unsafe product. \n\nCitibank has not provided specific reasoning for the denial other than stating it is the \" customer 's responsibility, '' which demonstrates laziness and a failure to investigate the dispute with due diligence regarding the merchant 's refusal to communicate. I still possess the defective merchandise and remain willing to return it if the merchant provides a prepaid shipping label, which they have failed to do. Currently, Citibank has opened a third and \" final '' investigation and has stated the case will be closed if it is denied again ; therefore, I am seeking assistance because the bank 's denial suggests a complete lack of thorough investigation into the merchant 's failure to accept a return of hazardous goods."
+}

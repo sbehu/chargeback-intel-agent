@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1779",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "786XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9849,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute starting on XX/XX/XXXX with Citi Costco VISA regarding a charge for {$79.00} for merchandise that I never received. I have repeatedly informed Citi Card that I never received any merchandise from this merchant & that I wanted to continue with the dispute. I answered all the questions asked by Citi Card & sent all the requested support documentation including the order confirmation email I received from the merchant with my correct information & address ; & emails that I sent to the merchant asking them about my order & informing them that I never received the merchandise. Citi Card notified me on XX/XX/XXXX that the merchant informed them that the merchandise was delivered and therefore, Citi Card closed their investigation and reversed the credit to my account. The documentation that Citi Card provided to me from the merchant showed a package was delivered to a totally different address in a totally different state ; and was signed for by a totally different person. On a side note, my sister placed the same order with the same merchant on the same date ( XX/XX/XXXX ). She never received her order, but, her credit card company issued her a full refund with no problems. I believe that the web site that we placed our orders on was a scam. I am extremely disappointed in the customer service that Citi Card has provided."
+}

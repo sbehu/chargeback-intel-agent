@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3065",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28210"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19171,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, there were fraudulent charges to my Citibank credit card for purchases that were not made or authorized by me. In XX/XX/XXXX, I notified Citibank credit card about charges on account that were not made by me, owner of said credit card. Citibank was to investigate and to advise as to the next steps to be taken. \nIn XX/XX/XXXX, charges were reversed on said account, which equaled a XXXX balance. The following month the charges were re-added, plus late fees and interest charges. \nAfter receiving the XX/XX/XXXX statement, I talked with Citibank XXXX Department many times to many people. The charges are for companies that do not exist nor do they have valid telephone numbers as shown on the credit card statements. \nCitibank XXXX Department indicated YES this is a scam, but have yet to correct the problem as of XX/XX/XXXX. I have never purchased in the past from either vendor. \nThe vendors in question are as follows : XXXX XXXX -- XXXX ( per XX/XX/XXXX, this number has been disconnected ) XXXX XXXXXXXX XXXX XXXX XXXX ( sales rep answered phone as customer service and does not identify the company or the product. She does not know the business name of XXXX XXXX XXXX XXXXnd mentioned that her company deals with promotions. ) Due to Citibank 's actions, my XXXX XXXX has been severely damaged."
+}

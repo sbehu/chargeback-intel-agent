@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8686",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "11230"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23034,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express once again is a problem. The disputes dept never investigates anything and just rejects it. I have had to keep submitting the same proof and they have said they can't identify where my proof came from when you can see it on the tabs and on the emails. They keep doing this with 3 disputes that have been going on for months. They're truly incompetent. They do not look at the proof provided or they would not keep rejecting the dispute. I have the proof that they're not investigating by the fact that they keep rejecting them when they have proof. I can provide the proof for the disputes to corporate that needs to get involved. the customer service is always XXXX and they always mess up my account. I have called into disputes when my card was stolen and i sat on the phone for a long time per usual and she still got it wrong per usual. I hate this company because theres always a problem and i don't have these issues with my other cards that's why. I have decided to stop using this card. They don't protect you at all. They reject everything. They are also giving me issues with a travel insurance which i provided my admitted in the hospital during the trip. I provided the doctors note and everything and they are still rejecting it for months now. They XXXX!"
+}

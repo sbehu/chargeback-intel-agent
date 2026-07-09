@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5076",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NJ",
+    "complaint_zip": "8088"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35164,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I 100 % returned an item and confirmed receipt with a representative. I then received an email that the package was the wrong weight and they would not refund me. I explained I did not use the original packing but reiterated that all four curtain panels were returned. I have requested a phone call but they have not responded."
+}

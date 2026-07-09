@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10206",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11001"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24933,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Sir or Madam I have amex card - no XXXX Amex is charging monthly charge of {$57.00} since XX/XX/2025. We approached AMEX that charge is \" unauthorised. We approached vendor to request, why the charge is collected? \nWhat is the natire of service provided? who opened the account? The vendor - XXXX - confirmed ( ans is documented ) that vendor can not locate why the charge is incurred. We explained that to AMEX. Amex did put hard block. But again the charge keep appearing. Amex credit the charge on dispute but within two days, it reverses the credit. \nAmex is not providing detail, approach the vendor to seek details, nature of charge., Attached is \" vendor '' - XXXX XXXX XXXX  system. The vendor itself could not locate - whey there is a charge Thank you XXXX"
+}

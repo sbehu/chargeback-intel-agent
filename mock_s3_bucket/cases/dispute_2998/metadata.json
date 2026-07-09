@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2998",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "HI",
+    "complaint_zip": "96740"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24363,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rented a car with allied car rental using my CITI XXXX XXXX card. During this time I received a XXXX $ parking ticket which I paid online. I then received a charge for XXXX from allied car rental saying it was for a parking ticket. I provided them the details about paying said ticket including the confirmation of payment email. I asked them to provide me further information or reverse the charge. They denied. I filed a report with CITI banks saying it was a fraudulent charge. CITI opened a case and closed it promptly not reversing the charge. They proceeded to charge my card again for XXXX with no explanation. I filed another billing dispute / fraud dispute with CITI and it has not been resolved for over 3 months. They havent issued a credit for this unauthorized charge and it is incurring late fees and interest. I called to ask them why they didnt issue a credit while its under investigation and they said not to pay it yet that it wouldnt incur charges or have a late fee. That person lied and now I have a late payment that is shown on my credit report. CITI has been no help resolving this issue and no representative seems to understand what is going on. Ive been on the phone with them for over XXXX hours being transferred and hung up on."
+}

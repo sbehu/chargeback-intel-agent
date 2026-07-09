@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12467",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10452"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22418,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, a charge in the amount of {$460.00} was made through XXXX using my payment method. I did not authorize this transaction and did not make this reservation. \nCitibank denied my fraud claim stating that I had access to complete the transaction. I dispute this conclusion. \nAlthough the transaction appears as an XXXX XXXX charge, I did not approve this payment using Face ID, passcode, or any authentication method. I did not authorize this transaction in any way. \nOn XX/XX/2025, just days before the unauthorized transaction, I received a notification of an attempted sign-in to my XXXX  account from an unfamiliar location outside of the United States XXXX XXXX, XXXX ). I did not initiate or approve this login attempt. This strongly indicates that my account and/or personal information had been compromised prior to the unauthorized XXXX charge. \nI do not share my account credentials, device access, or payment information with any individual. This transaction resulted from unauthorized use of my payment credentials and account information. \nI reported this incident as identity theft and fraud to the Federal Trade Commission and submitted supporting documentation, including evidence of the suspicious login attempt and a signed identity theft statement. \nAdditionally, XXXX failed to require identity verification or secondary authentication before allowing the reservation to be completed. XXXX also closed my case without providing details of any meaningful investigation, including whether login IP addresses, device information, or location data were reviewed. \nAfter submitting my appeal and supporting evidence to Citibank, I did not receive any communication or update regarding the status of the reinvestigation. I had to contact Citibank myself for an update and was then informed that my evidence was considered unclear. No proactive effort was made to contact me or request clearer documentation. \nCitibank failed to properly investigate this matter as fraud and instead treated it as an authorized transaction despite the evidence provided. \nUnder the Electronic Fund Transfer Act, consumers are not liable for unauthorized transactions. I am requesting that Citibank reopen this case, conduct a proper fraud investigation, and reimburse the unauthorized {$460.00} charge. \nI am also requesting a detailed explanation of how this transaction was determined to be authorized despite the evidence of account compromise and identity theft that I provided."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12628",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KS",
+    "complaint_zip": "67207"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48783,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding the handling of multiple fraud and billing dispute claims on my Citi card account. Over the past several months, my account has experienced significant issues involving unauthorized activity, incorrect charges, and merchants continuing to process transactions after my account had already been deactivated. \nDespite repeatedly providing documentation, receipts, account records, and written proof supporting my claims, I have not received consistent or accurate assistance from Citi. I have spoken with numerous representatives across both the fraud department and billing disputes department, and I have repeatedly been given conflicting information regarding how these claims should be handled. \nAt various times, Citi representatives instructed me to proceed through fraud because the charges involved incorrect amounts or transactions processed after account deactivation. Other representatives later stated the matters should instead be handled as billing disputes. I also contacted Citi XXXX, which appeared to focus on only one merchant while many other unresolved transactions remained outstanding. \nThis has resulted in an ongoing cycle of contradictory guidance, repeated submissions of the same documentation, and significant delays in resolving my claims. I was repeatedly assured that actions were being taken on my account ; however, on XX/XX/year>, I learned that certain actions I had been told were completed had not actually been carried out. \nIn addition, I continue receiving dispute determination letters that directly contradict both the evidence provided and prior communications from Citi representatives. Some letters state that merchants would not issue refunds, despite the fact that several disputes involve charges that were either incorrect in amount and/or processed after my account had already been deactivated. In other situations, merchants had already acknowledged issues related to the transactions. \nI have spent countless hours attempting to resolve these matters through Citi directly, including repeated phone calls, resubmissions of documentation, and communications with multiple departments. I have also experienced calls being disconnected while attempting to obtain assistance. \nFor reference, I have retained supporting documentation, receipts, emails, account records, and recordings of recent phone conversations reflecting the handling of my case and the representations made to me by Citi representatives. \nI am requesting that Citi conduct a complete and thorough review of my account, including all prior communications, notes, submitted evidence, and dispute history. I am also requesting immediate corrective action regarding the mishandling, delays, contradictory determinations, and failure to properly investigate these claims. \nI am concerned that the delays, inconsistent information, and improper handling of these matters may negatively impact my rights and the timelines associated with billing dispute and fraud investigations under applicable consumer protection regulations and card network rules. \nI respectfully request prompt assistance and resolution regarding these ongoing issues"
+}

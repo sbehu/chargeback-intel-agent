@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2457",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "440XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48079,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have submitted several complaints through this portal as well as made direct communication to Citi Bank in regards to XXXX card accounts I had opened around the XXXX  season at Wayfair and Bloomingdales. After opening these accounts I was given a digital card number to utilize my credit limit right away. \n\nI had attempted to use both these store cards to purchase XXXX gifts with that card number. However, after each attempted use, the transaction was canceled by the store merchant with no given reason. No orders were ever shipped to me. It should also be noted I never received any physical card for these accounts in the mail. \n\nIn response to an earlier complaint Citi stated the Bloomingdales account has been closed as I requested. They are still however reporting and trying to collect a past due balance from me, as is the way fair account. \n\nPlease can we have this finally handled properly and have both of these accounts closed and corrected to the {$0.00} balance that they are supposed to be at, as no purchases were ever completed."
+}

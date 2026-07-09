@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6837",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70114"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8539,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I was charged {$200.00} on my Citibank XXXX at XXXX XXXX. I disputed the charge and because I had the card in my possession, Citibank said I owed the money. After extensive research, I have found that XXXX XXXX has no physical address, no website and a phone number that goes to an unidentified voice mail. Even XXXX own records show XXXX XXXX on one page and then under details, another company name of XXXX XXXX. I went to XXXX XXXX  ( where I'd never been before ) and they search their records and no {$200.00} charge was made that day, nor the day before. Through the LA Sect. of State 's office I found XXXX XXXX to be owned by a XXXX XXXX of XXXX XXXX, XXXX XXXX. Further research shows he has been in prison in XXXX XXXX. He also has two other businesses listed through the Sec. of State, neither with an Internet presence, both probably for the sole purpose of kiting credit card numbers. Despite all this, including filing a police report with the XXXX XXXX. Citibank has not taken away this charge. Meanwhile XXXX XXXX is probably racking up a lot of other victims."
+}

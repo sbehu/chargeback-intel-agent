@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2664",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "125XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25687,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The XXXX ( XXXX ) charges made by XXXX XXXX on XX/XX/year> are all in dispute and will remain in dispute. I will not be paying these charges. I will deduct them from my payment and these items will remain in dispute indefinitely. \n\nYou are not to pay XXXX XXXX under any circumstances. \n\nJet blue XXXX contact me directly from this point forward. \n\nJet blues response to American Express is fraudulent and omits the facts in an attempt to overcharge the consumer. \n\nThe reason the charge occurred was because their computers were not working and the XXXX XXXX employee took my card and did something and I explained to them my tickets included the only bags and the same bags we checked to the XXXX and returned with. The XXXX XXXX counter check in employee took over and she said she saw that my bags were in fact included as I stated ( we flew there from XXXX and they got it right ) and she said she credited them back to me realizing the error. I showed her the email that I already paid for the bags. She said they were having problems and I would receive the credit. \n\nThen my bill showed XXXX XXXX did not credit me. XXXX XXXX overcharged me by billing me again for the bags I already paid for included in my itinerary XXXX. This act of overbilling initially seemed like a mistake on their part, however XXXX Blues actions since that time seem to indicate they intentionally overcharge, overbill, and then attempt to conceal the facts in order to retain the overcharges. This manipulation of business documents to seek financial gain is simply unacceptable and may be considered criminal act. \n\nOur invoice and XXXX XXXX Website at the time of purchase showed our bags included in the ticket price we paid, we only checked XXXX bag each for XXXX XXXX, XXXX XXXX XXXX, and XXXX XXXX. \n\nI will not under any circumstances pay XXXX XXXX for these charges. American Express will credit me for the {$130.00}. If XXXX XXXX wishes to continue the dispute they can do so directly with me, American Express is prohibited from allowing these to be placed back on my statement. \n\nA copy of this is being furnished to CFPB and the XXXX XXXX Attorney General. \n\nSettlement will be accepted only if XXXX XXXX credits in the full the XXXX {$45.00} charges ( {$130.00} credit total ) and in addition due to my inconvenience of over XXXX hours on phone calls with XXXX XXXX I bill at $ XXXX for my time, I want XXXX XXXX to credit me {$550.00}. \n\nI will not pay these charges on my American Express XXXX even though I normally pay my bill in full every month I will deduct the charges and American Express is prohibited from charging me any fees, late fees, or interest as a result of the fraud by XXXX XXXX"
+}

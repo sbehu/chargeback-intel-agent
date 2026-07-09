@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4372",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28173"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22980,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint to : Citi Bank XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX On XX/XX/year> I sent in an online payment of {$1500.00} to a old credit card account number ( Same bank/credit card ) The payment was drafted out of my account. but was never applied to the new account number. Consequently the new account was still showing as unpaid. \n\nI put in a dispute request with the bank and they credited back the funds and opened a dispute case. ( Case number : XXXX ) The bank sent me a letter asking for proof that the payment was taken from my account, I was to send in this proof by XX/XX/year>, I did send in the proof on XX/XX/year> I then get a letter from the bank stating that they have closed the case and reversed the charge back to me on the basis that did not provide the statement. I have called teh back again to try and get this corrected but they say they're looking into it but will have to charge the funds back to while investigating."
+}

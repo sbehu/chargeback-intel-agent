@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_967",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "41017"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47928,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased over XXXX of costume jewelry from XXXX using the Gap Barclay card. They had sent me an email initially to get me to shop w/them for XXXX off the order. The promo code did not work, I emailed them and they refunded the XXXX honoring the promo code so the total then was XXXX ... .then the jewelry came and half of it was not what the listings had shown ... ..I did not like it and they said no we will not provide a shipping label we dont do refunds, sorry about our listing, but no refund. Contacted Barclay to do a dispute, they put it in over the phone and yesterday they called and said well you got a XXXX refund from them ... .i explained what that was from which had nothing to do with the dispute and the Barclay Manager informed me that the dispute was starting from XX/XX/XXXX and it would be another 45 days and they are waiting on the XXXX  to decide what will take place and that after all they had given me XXXX ... ..no matter what I reexplained over and over again she just kept making sound like it was up to the XXXX  ( which has already made it clear that they were not refunding and dont want the jewelry back, which is why I even filed a dispute in the first place! ) to get back with them and it would be another 45 days. I filed the dispute on XX/XX/XXXX"
+}

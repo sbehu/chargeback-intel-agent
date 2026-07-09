@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_410",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "808XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41008,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I stayed at XXXX XXXX XXXX XXXX XXXX from Tuesday XX/XX/XXXX to XXXX XX/XX/XXXX and piad with my AMEX Corperate Card. \n\nUpon check out the hotel refused to provide me with a receip. The desk worker was incredibly rude and just kept yelling that its their policy to to give receipts. After much argument she finally printed out a checkout confirmation that stated that i checked out at XXXX XXXX on XX/XX/2023. \n\nThe hotel then proceeded to charge me for an extra day. First claiming i checked out on Sunday. Once that was proven to be impossible the hotel changed their story and is now claiming i checked out at XXXXXXXX XXXX  on XXXX the XXXX. \n\nI have raised a complaint with the hotel. XXXX XXXX and American Express. All which have failed miserably to understand let alone remedy the issue. The hotel has been completely unresponsive while XXXX as failed to follow up after talking to a manager at the elite support line. AMEX failed to follow their own dispute procedure and out of systematic incompetence has repeatedly failed to investigate the matter in a timely fashion. \n\nAttached documents 1. \nthe receipt from the hotel with a time stamp of XXXX Sat XX/XX/XXXX. \n\n2. \nProof I Returned my rental car at the XXXX XXXX XXXX at XXXX XXXXXX/XX/XXXX 3. \nProof i was on board a XXXX flight which depared at XXXX XXXX. Meaning i was on board the aircraft no later the XXXX XXXX and at the airport no later then XXXX to be in time to check luggage. \n\n4.\n\nProof i checked into a XXXX XXXX  in XXXX by XXXX on XX/XX/XXXX. \n\nXXXX XXXX XXXX XXXX has adamantly refused to correct the billing issue and provide a correct receipt for the charges. They first insisted i had checked out Sunday the XXXX and then later claimed i checked out at XXXX XXXX  Saturday. Both are impossible and the hotel employee keeps making up more lies to try and cover her mistake. Hotel mgmt has failed to act. XXXX XXXX and AMERICAN EXPRESS has been allowing fraudulent activity to go on under their watch and has done nothing dispite the overwhelming evidence that has been providedto them."
+}

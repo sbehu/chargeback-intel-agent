@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1672",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34759"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22736,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is exactly what I wrote to Citi Bank The following is the dispute number they gave me XXXX On XX/XX/2024 I made a purchase from two different vendors booking the exact same room at XXXX XXXXXXXX XXXX XXXX XXXX FL XXXX The first transaction was XXXX and was not supposed to go through since I did not approve purchase via the verification system on the website I exit out prior to completing the transaction because I found it for XXXX at XXXX. I was charged twice for one night stay at the hotel on XX/XX/2024. I let the person working at the front desk know and he said not to worry since I had dispute it and it should clear on its own since it's practically a duplicate charge for the same transaction of the one night stay at the hotel for the same room and same time period of XX/XX/2024 to XX/XX/2024 XXXX. XXXX  is known for there scammish ways all over the internet."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4227",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19355"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25873,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called them about a dispute for a dishwasher and microwave that were damaged and installed improperly which caused an insurance claim of approx XXXX. Since the problem existed the store stopped dealing with me claiming its an insurance matter so I called CITI Group who owns the Home Depot card On XX/XX/XXXX they sent a letter that the matter was resolved in my favor for XXXX cents Then on XX/XX/XXXX they sent a letter saying it was reversed. I called because I had to answer by XX/XX/XXXX and the letter arrived XX/XX/XXXX. So there was no way to respond fast enough When I called the gentlemen said, no, there is a new letter you haven't received saying it been switched back. I never received the letter. \n\nI called today and they have no clue why the guy lied and they have no letter. \n\nThis whole matter started because they won't take the product back or fix it because it destroyed my house for over XXXX and XXXX XXXX co says talk to them and they say talk to insurance. The house is fixed only because I made a claim because Home Depot was railroadiing me.\n\ngiven this nightmare, I don't think I should pay them anything for the work and product they won't let me return.\n\nThis is why I am counting on CITI who now has flip flopped and lied to me.\n\nNobody at HOME DEPOT or CITI will deal with this."
+}

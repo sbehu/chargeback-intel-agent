@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-59656847-US
+Shipment Date:   2026-03-14T00:00:00Z
+Delivery Date:   2026-04-06T00:00:00Z
+Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
+Destination:     5484 OAK ST, FL, 34953
+============================================================

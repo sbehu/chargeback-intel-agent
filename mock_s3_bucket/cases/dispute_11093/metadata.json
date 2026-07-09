@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11093",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43207"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2519,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Credit Card Dispute Case ID : XXXX Disputed Amount : {$170.00} Date charged : XX/XX/XXXX Context : On XX/XX/XXXX I purchased four tickets ( {$42.00} per ticket = {$170.00} total charge ) for a comedy show at the Athenaeum Theater in XXXX, OH scheduled to take place on XX/XX/XXXX. The venue was operated by XXXX, owned by XXXX XXXX XXXX from Arkansas, and the charge on my card was from the following merchant : SQ * XXXX XXXX XXXX OH I purchased the tickets directly from the XXXX XXXX XXXX as a 'walk-up \" purchase. The tickets were issued by XXXX. An existing or new account with XXXX tied to my personal information was not associated with this purchase and it was processed through a XXXX credit card processor. The account listed on these tickets was generated as XXXX, but again has no ties to my personal information because I was a walk-up purchaser. \n\nLast summer, XXXX XXXX XXXX / XXXX announced the closure of the Athenaeum venue ( along with other venues they operate nationwide ), and the cancellation of future events including the performance I held tickets for on XX/XX/XXXX. \n\nI pursued a refund from XXXX, but because I purchased the tickets directly with the venue ( again, instead of through a XXXX account associated with me ), they directed me to pursue a refund with the venue directly. In this case, the venue held the actual payment instead of XXXX. Because the venue closed, I was not able to pursue a refund with the venue as there no longer was a way to contact them ( the phone number no longer was active, the in-person Box Office was shuttered, etc. ). The venue announced they would issue refunds to ticket holders, but that never happened for my purchase. The XXXX representatives I spoke with advised me to pursue a dispute with my credit card for this case, and is the reason for my submitted dispute. \n\nAfter many phone calls with Citi 's customer service representatives, they directed me toward a Billing Dispute email contact. Citi advised that I send an email with corresponding documentation, which I did on XX/XX/XXXX26 including : Photo of four tickets {$42.00} each = {$170.00} Announcement of Venue Closure : https : XXXX https : XXXX Announcement from the artist about the cancelled performance https : XXXX Citi then replied with a letter saying the timeframe to resolve the dispute had elapsed and there are no further actions they can take to help resolve my case. \n\nAfter multiple more calls to Citi customer service appealing this decision ( after all, they had requested that I provide the information to review ), they replied another letter stating that \" the merchant is not willing to issue credit to my account '' and the case is closed. \n\nI attempted to contact XXXX XXXX XXXX via phone ( no known working phone number ) and email without any success or reply to my email. \n\nCiti claims they were able to contact the merchant, the merchant denied my claim, and they in turn closed my case. \n\nThis is clear example of goods and services not being rendered for my purchase."
+}

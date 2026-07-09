@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7538",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "GA",
+    "complaint_zip": "30213"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38410,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a lift chair from Wayfair in early XXXX of XXXX with a cost of {$730.00}. The chair was never delivered, therefore I called Wayfair to report that the item was never delivered. A dispute was opened by Wayfair. I received a letter from Wayfair on XX/XX/XXXX informing me that a dispute was open and I would be notified soon of the outcome. I was asked to send in an official police report to verify that the item was not delivered. I did so and uploaded the police report into the Wayfair system on XX/XX/XXXX. \n\nI never received a response from Wayfair and the charge remained on my credit card statement. Therefore, I contacted Wayfair on XX/XX/XXXX to ask about the disputed charge. I was told that they never received the police report. The Wayfair rep asked me to mail in a letter stating that the product was not received, include a copy of the police report and mail everything to XXXX. XXXX XXXX, XXXX XXXX, SD XXXX. I did so and mailed the letter via the XXXX on XX/XX/XXXX. \n\nI received a letter from Wayfair on XX/XX/XXXX informing me that the dispute was not in my favor and I would required to pay the disputed charge. However, the letter did not give a reason as to why or how the decision was made. I contacted the company via cell phone. I spoke with a Wayfair rep by the name of XXXX. XXXX informed me that they never received the letter and police report. I was asked to send it in again via mail. I did so again, but this time with a delivery confirmation from the XXXX. According to the XXXX confirmation, the letter was delivered and picked up from the P.O. box on XX/XX/XXXX at XXXX am. \n\nI contacted Wayfair on XX/XX/XXXX to verify if the documents had been received and to see if a resolution was reached regarding my dispute ( # XXXX ). I was first told that they never received my letter. After informing the Wayfair rep about the delivery confirmation I was told that the resolution was not in my favor. I then asked to speak with a supervisor. I was transferred to XXXX an account supervisor ID # XXXX. XXXX informed me that the letter was receive and I would here from them soon regarding the outcome of the dispute. \n\nI reached out to Wayfair again today ( XX/XX/XXXX ). I spoke with XXXX and was told that I would have to write in a letter to request that the dispute be reopened once again. \nI have been given the run around for approximately 6 months now and would like to request assistance from your agency. I am XXXX XXXX military personnel and do not have time for the constant back and forth with this credit card company. I'm in the process of paying for the remaining charges that do not include the disputed amount of {$730.00}. Once the remain balance is paid in full, I plan to cancel this line of credit and have no further dealing with Wayfair. \n\nPlease do not hesitate to reach out to me if any additional information is needed. \n\nRespectfully, XXXX XXXX ( XXXX ) XXXX"
+}

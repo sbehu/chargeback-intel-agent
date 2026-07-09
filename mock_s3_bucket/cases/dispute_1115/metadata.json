@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1115",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33144"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34129,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 my Bestbuy card from Citibank was charged {$2700.00} at Best Buy in XXXX Fl. I did not make or authorize this purchase. I contacted Best Buy and filed the transaction as fraud. I was asked if the credit card was in my possession which I replied yes. The Best Buy credit card I had was not activated. \nThe fraudulent transaction was made via their look up method which you provide personal information to verify your account and can make a purchase without the physical card in hand. \n\nToday I receive a call from citi bank fraud department stating my claim has been denied due to me having my Best Buy card and the transaction being done via chip reader. I expressed the improbabilities since XXXX. I never made the purchase. XXXX. The card was never activated. XXXX. I have the online receipt that clearly states the transaction was made via look up. \n\nAs my frustration grew from being accused of committing fraud I asked to speak to a supervisor, which I was denied and would need to wait XXXX hours to get a call back. I went to the extent to get a copy of the receipts and send them to their email. \n\nAttached youll find a copy of the fraudulent transaction which next to the dollar amount youll see the term look up. Also attaching a transaction I did with the chip reader which youll see next to the dollar amount. \n\nThis is an unethical attempt to decline my claim with false information"
+}

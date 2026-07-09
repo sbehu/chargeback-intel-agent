@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5861",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44060"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27267,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An order was placed on my Citi credit card and subsequently successfully immediately cancelled through the vendor ( Aliexpress ) as I suspected it might be a scam. The merchant claimed to have refunded the full amount to the original payment method, but the refund was never received. After two week I opened a dispute with Citi, and despite providing multiple pieces of evidence and information to support my claim over the following few months, and the acknowledgement by Citi themselves that the refund had never been received back to the credit card, the dispute was closed by Citi and ruled in the merchants favor after a total period of 126 days.\n\nTimeline of events are listed with details below. These are also summarized in a screen print from Citi in Attachment XXXX \n\n\nXX/XX/XXXX - Order was placed from the merchant XXXX for {$320.00} and cancelled shortly thereafter as I recognized it was likely a scam. \n\n\nXX/XX/XXXX Refund for {$320.00} allegedly issued by merchant back to the original credit card used to purchase. ( Attachments XXXX ) XX/XX/XXXX XXXX had still not shown up on the credit card, so a dispute was opened with Citi. ( Attachment XXXX ) XX/XX/XXXX Additional documentation was requested from Citi. ( Attachment XXXX ) XX/XX/XXXX My additional documentation was received by Citi. ( Attachment XXXX ) XX/XX/XXXX Citi contacted the merchant and was still working on the dispute. ( Attachment XXXX ) XX/XX/XXXX Citi received information back from the merchant and indicates they would respond within XXXX business days. ( Attachment XXXX ) XX/XX/XXXX XXXX business days later Citi ruled in the merchants favor and closed the dispute. \n\n\nXX/XX/XXXX Documentation posted to my Citi account detailing the ruling. Citi states in Attachment XXXX that they recognize the refund was never posted to the account despite the merchant claiming it was. ( Attachments XXXX ) XX/XX/XXXX I sent an email to Citi with XXXX signed form ( Attachment XXXX ) stating I had not received the credit from the merchant in any form in order to reopen the dispute. ( Attachment XXXX ) XX/XX/XXXX My signed form and email were received by Citi. ( Attachment XXXX ) XX/XX/XXXX Dispute was reopened by Citi. Citi sent additional information to the merchant. \n\n\nXX/XX/XXXX XXXX response was received by Citi. ( Attachment XXXX ) XX/XX/XXXX Citi stated they attempted to resolve the dispute with the merchant and the merchant is unwilling to issue credit. Citi stated the investigation is closed, the conditional credit reversed, and the original charge has been rebilled. ( Attachment XXXX )"
+}

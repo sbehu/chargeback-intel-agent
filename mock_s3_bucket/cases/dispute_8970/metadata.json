@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8970",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39613,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased XXXX XXXX XXXX XXXX XXXX tickets from XXXX on XX/XX/XXXX by using my American Express card ending in XXXX. After i purchased ; i realizing this at the time of purchases, XXXX had not released any official tickets for the event, which means XXXX was selling speculative listings for tickets that did not yet exist. So I tried to dispute the charge with American Express, i called 4 times ; American express didn't even allow me to open a case for it, they said its my own risks buying them ; finally i called the XXXX XXXX the supervisor opened the cases for me and told me its unlikely i can get these dispute. my original statement was citing misrepresentation. But Amex denied my dispute and when i look at the statement it was under \" merchandise not received '', they claiming XXXX delivery policy allows tickets to be provided closer to the event date and even if they don't have the tickets its my own risks buying them. However, my issue is not delayed delivery it is that the product sold did not exist at the time of sale, and the merchant misrepresented its availability. American express should have cites my statement as \" misrepresentation of goods or services, rather than merchandise not received ''. I believe the sale was inherently deceptive and that a refund or charge reversal is warranted XXXX sale of speculative tickets was deceptive, because they implied availability that did not exist ; and XXXX refusal to act on a clearly deceptive transaction could constitute an unfair or abusive handling of a consumer dispute.\n\nThis violates the Fair Credit Billing Act ( 15 U.S.C. 1666 ) and Regulation Z ( 12 C.F.R. 1026.13 ), which protect consumers from being charged for misrepresented or undelivered goods. I also believe this may constitute a deceptive o\nr unfair practice under the Consumer Financial Protection Act of 2010 ( 12 U.S.C. 5531 & 5536 ). \n\nI am requesting assistance because : XXXX charged me for tickets they do not yet have and may never have.\n\nAmex refuses to refund or investigate the misrepresentation. \nThis sale constitutes speculative ticketing and unfair trade practice."
+}

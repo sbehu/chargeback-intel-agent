@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8274",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32608"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40984,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/scrub> 2025, I purchased XXXX miles from XXXX XXXX XXXX XXXX XXXX using my American Express card ending in XXXX. My statement shows I was charged four identical transactions, each for USD XXXX ( total USD XXXX ). In XX/XX/year>2025, XXXX XXXX XXXX unilaterally removed the miles from my account without any notice or authorization and has refused to refund me. I filed complaints with the XXXX and XXXX consumer authorities on XX/XX/year>2025 and XX/XX/scrub> 2025, and I opened disputes with Amex. Two of the four charges have been refunded ; the other two remain unresolved and correspond to Amex dispute case numbers XXXX and XXXX. I have repeatedly submitted evidenceincluding account screenshots showing the mileage removal, transaction records, communications with the merchant, and the consumer-authority filingsbut XXXXXXXX XXXX XXXX refused mediation and provided what I believe are false/insufficient service rendered documents, which Amex has repeatedly accepted to deny refunds on the two remaining charges. For reference, the Transaction Reference Numbers ( TRN ) for the four charges are : XXXX, XXXX, XXXX, XXXX. Amex has not clearly mapped these TRNs to dispute outcomes, making it impossible for me to confirm from TRNs alone which two were refunded and which two were not."
+}

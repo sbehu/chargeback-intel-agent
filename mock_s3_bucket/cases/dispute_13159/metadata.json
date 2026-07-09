@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13159",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29923,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express improperly denied XXXX billing disputes ( totaling {$210000.00} ) filed under Reason Code XXXX ( Product Quality Unacceptable ). The merchant XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, operating through B-Stock Solutions breached a specific written contractual promise : Section XXXX of XXXX XXXX XXXX  's published Mobile Carrier Liquidations Terms of Purchase states verbatim that \" XXXX XXXX XXXX will unlock/provide codes for 95 % of each lot of phones sold. '' Despite that promise, the lots delivered ( auction orders XXXX dated XX/XX/XXXX for {$66000.00}, and XXXX dated XX/XX/XXXX for {$140000.00} ) included approximately XXXX carrier-locked phones roughly half of the total making them unsellable in our resale channels. Many remaining phones also did not match the advertised condition grade. \nDisputes were filed with American Express ( XXXX for {$66000.00} and XXXX for {$140000.00} ). American Express closed both in XXXX rounds. The first-round denials ( XX/XX/XXXX for {$140000.00} ; XX/XX/XXXX for {$66000.00} ) accepted the merchant 's \" AS IS / final sale '' recital as conclusive. American Express 's own letter described its \" research '' as nothing more than reviewing the merchant 's terms and conditions. \nA reopened-dispute response was then submitted with substantial new arguments : ( a ) Section XXXX of AT & T 's Terms of Purchase ( the 95 % unlock guarantee ), which conflicts with and overrides the \" AS IS '' disclaimer in the same contract ; ( b ) the merchant 's own response admitting the phones were \" advertised as unlocked ( 95 % + according to the device unlocking terms ) '' ; ( c ) the merchant 's own admission of \" XXXX disputes filed by XXXX XXXX XXXX all of which were resolved amicably and resulted in a total credit of {$91000.00} '' these credits were applied directly by the merchant whenever phones from earlier auctions were delivered locked or otherwise not as described, proving that the merchant routinely refunds for this exact defect and that the \" AS IS/ final sale '' line the merchant fed to American Express is contrary to its own course of dealing ; ( d ) an offer to return the locked and misgraded phones. \nAmerican Express closed the reopened disputes on XX/XX/XXXX ( {$66000.00} ) and XX/XX/XXXX ( {$140000.00} ) the latter marked as their \" final position. '' Neither letter addressed any of the new arguments. Both characterized the reopened submission as \" in the absence of new information '' which is factually inaccurate. \nThe XX/XX/XXXX letter contains an extraordinary written admission : \" The merchant has an all sales are final policy that we are unable negotiate or nullify. '' This is a direct admission that American Express does not enforce a cardholder 's billing-error rights under the Fair Credit Billing Act ( 15 U.S.C. 1666 ) and Regulation Z ( 12 CFR 1026.13 ) when a merchant attaches \" all sales final / as is '' language. That position is contrary to the cardholder protections those statutes are designed to provide. \nAdditionally, every merchant-response document in the case file references only Transaction B ( {$140000.00} / Transaction ID XXXX / Date of Sale XX/XX/XXXX ). No Transaction A-specific merchant response has ever been provided. American Express may have applied the Transaction B response to deny the Transaction A dispute without obtaining a transaction-specific response an investigation issue the CFPB is asked to require American Express to clarify. \nA detailed analysis with verbatim quotes, all XXXX denial letters, and the merchant 's admissions is set forth in the attached complaint document and supporting evidence."
+}

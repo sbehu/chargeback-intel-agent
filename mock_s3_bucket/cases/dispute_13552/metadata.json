@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13552",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "106XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36368,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I initiated a dispute with Barclays regarding charges on my JetBlue MasterCard after learning that XXXX XXXX ceased operations on XX/XX/XXXX. At the time, I was in the process of finalizing my design plan and preparing to remit the final payment for the scheduled delivery of cabinets and countertops in the first week of XX/XX/XXXX. I had been engaged with XXXX XXXX since late XXXX ; however, the project was delayed due to unforeseen family circumstances. \n\nAs part of my dispute, I requested reimbursement of the {$2000.00} installment payment charged to my credit card on XX/XX/XXXX. On XX/XX/XXXX, Barclays advised me in writing that it was unable to issue a credit, asserting that I had failed to provide requested information prior to the dispute. That position is inconsistent with the documentation I submitted in support of my claim. The basis of the dispute is straightforward : the merchant is no longer in business and, as a result, is incapable of providing the goods and services for which payment was made. \n\nCompounding this matter, Barclays has since provided multiple and inconsistent explanations for its denial of the claim, despite no change in the underlying facts. On XX/XX/XXXX, I was informed that Barclays does not process chargebacks for installment payments. On XX/XX/XXXX, I was given a different explanation that the transaction fell outside the 120-day dispute window. These shifting justifications raise serious concerns regarding the adequacy and fairness of Barclays investigation and dispute resolution process. \n\nUnder these circumstances, I respectfully request immediate assistance in securing a credit for the disputed amount so that I may proceed with obtaining the cabinets and countertops necessary to complete my kitchen renovation. It is neither equitable nor reasonable for me to bear the financial loss resulting from the merchants closure and Barclays inconsistent handling of this matter.\n\nEnclosed are the four letters have sent to Barclays, together with the supporting documentation previously submitted in connection with its investigation. I would greatly appreciate your prompt attention to this matter.\n\nThank you for your consideration."
+}

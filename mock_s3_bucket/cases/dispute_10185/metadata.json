@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10185",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "52806"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21390,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I reported a fraudulent charge of {$410.00} on my Citibank credit card after years of it remaining open but not charged to ( It is a backup card that was used for a balance transfer in XXXX ). At the time of that report in XXXX, there was an additional related charge pending for the amount of {$53.00} that should have been addressed as part of the original fraud dispute. That charge was not resolved and remained on my account. Later that month, another fraudulent charge showed up from XXXX that was unauthorized and I didn't even receive my new card. Upon calling Citi after not receiving the second card, we discovered my mailing address and residential address was changed multiple times to a mailing address in California that was not my address. \n\nSince XXXX, I have contacted Citibank approximately twelve times via the phone and once via email to follow up on this unresolved, fraud-related charge. Each time, I was told the dispute was under investigation or being handled, but no resolution occurred. I was never provided a case number.\n\nBecause the charge was not resolved, interest and late fees accrued, and three months of late payments were reported, causing significant damage to my credit. \n\nOn my most recent call ( XX/XX/XXXX, on the weekend ), I was transferred between Customer Service and the Fraud Department. Fraud Department ( her name was XXXX XXXX stated they could not provide a case number and that only the Security Operations Team has authority to resolve the dispute or authorize reversals. I was told that team was closed until Monday morning.\n\nI requested reversal of interest and late fees due to Citibanks failure to resolve the fraud in a timely manner over the last 4 months. The Fraud representative stated that Customer Service said fee reversals could only be approved by the Security Operations Team because the charge is disputed. No temporary relief or corrective action was provided.\n\nI requested that notes be added documenting that Citibanks inaction after timely notice of fraud caused fees, late payments, and credit damage, and that prior escalation requests had been made without resolution. While the representative confirmed notes were added, the charge remains unresolved and the harm continues. \n\nCitibanks internal departmental limitations and delays should not result in ongoing consumer harm after timely fraud reporting and repeated follow-ups."
+}

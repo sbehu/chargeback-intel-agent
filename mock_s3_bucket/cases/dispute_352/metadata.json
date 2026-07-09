@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_352",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43607,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used my credit card to purchase XXXX XXXX XXXX XXXX size XXXX shoes from online vendor XXXX on XX/XX/2023, for {$220.00} through XXXX. After the purchase I immediately contacted my credit card company to rescind the purchase because I suspected fraud on the part of the vendor. This suspicion was based on other customers who complained online that the company never responded to their complaints after failing to receive purchased goods. My credit card company initially reversed my {$220.00} charge pending a fraud investigation. I followed up with the credit card company in writing on XX/XX/2023, that I never received the shoes, even though the vendor claimed to have delivered them to my residence via XXXX XXXX XXXX on XX/XX/XXXX. I learned about this so-called XXXX delivery not from the vendor but from the credit card company. The vendor never acknowledged receipt of my {$220.00} purchase via email, never sent me the XXXX tracking number, and I never received the tracking number from UPS even though I am a member of XXXX XXXX, which is supposed to deliver such notifications to me via text or email. I first received the tracking number from my credit card company more than a month after the package was supposedly delivered. When I tried to plug in the tracking number through the XXXX website, it wouldn't allow me to file a complaint about a missing package. In late XXXX my credit card company rejected my fraud claim for lack of evidence and posted the {$220.00} charge back on my card, even though I had also complained that I never received the shoes. So on XX/XX/2023, I wrote back to the credit card company demanding a full {$220.00} refund because I still had not received the shoes. I also emailed XXXX on XXXX, XXXXXXXX XXXX demanding a full refund and never got a response. In addition to the letters I sent I also had phone correspondence with the credit card company 's fraud department on XX/XX/XXXX and XX/XX/XXXX in which I complained about not receiving the shoes. Both calls to my knowledge were recorded. I am seeking a full {$220.00} refund because I never received the shoes I purchased."
+}

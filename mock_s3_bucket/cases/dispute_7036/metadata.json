@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7036",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53713"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37987,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I made a payment of {$890.00} to a recipient that I later learned was a fraudulent airline Helpdesk scam ( often operating under the name XXXX XXXX or similar variations ). The payment was made in an attempt to resolve an issue via the flight booking through a phone number I found online and believed to be the airline directly. The individual claiming to be from the airline customer service directed me to make an immediate payment for a ticket reissue, which I later learned was part of a travel scam and alleged service. Subsequently, I was able to work with XXXX XXXX for a refund of {$380.00} towards the original {$890.00} ticket charge that XXXX charged my card. When speaking with an official XXXX agent after I got home that week, XXXX XXXX refunded the {$380.00} for the flight that was affected by weather. However, while speaking to the official XXXX XXXX agent, they informed me that the total cost of the ticket was not {$890.00}, as XXXX had claimed and charged me for in the fraudulent ticket. Rather, it was {$380.00}. The remaining {$500.00} is a fraudulent charge and does not even represent the ticket cost, unlike XXXX claimed. \n\nThe contact number I called appeared to be legitimate airline customer service at that time. I needed to make immediate changes to my flight given the flight delay caused by severe weather, which would have made it impossible for me to get home due to a missed connection. \n\nThe alleged airline customer service agent, XXXX, who identified himself as an airline agent, asked for a payment over the phone for services that were ultimately not provided. He wanted me to change airlines from my original flight on XXXX to XXXX and assured me I would be refunded the {$890.00}. XXXX persisted that I needed to cancel my original flight but he needed new credit card information and my personal contact information in order to make the transaction because of the switch between XXXX XXXX and XXXX, which I reluctantly provided at his insistence. \n\nThe transaction was initiated over the phone, and I did not receive the attached email until much later after the calls. When I did receive the email, and I saw the requested authorization in the text of the email, I did not respond or authorize the transaction. The questionable email content and email address of XXXX XXXX, ( which I received much later after speaking with XXXX XXXX, was a suspicious email ( see attached ), did not come from an official XXXX XXXX address, and had an image of a XXXX XXXX ticket which had clearly been altered. \n\nOut of suspicion regarding the altered XXXX ticket and questionable email origin, I proceeded to work through my company travel agency to resolve my immediate travel needs to return home. \n\nSubsequently, I was able to work with XXXX XXXX for a refund of {$380.00} towards the original {$890.00} ticket charge. The remaining {$500.00} is a fraudulent charge and does not even represent the ticket cost. \n\nImmediately, I contacted my credit card in an attempt to resolve this issue but on XX/XX/2025, my dispute was denied. I called and reopened the dispute and provided documentation showing that it was a scam/fraudulent charge, but again, they denied my dispute without responding to my documentation or addressing what I had sent."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11941",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93313"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15904,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint against Citibank , N.A . regarding a billing dispute that was improperly investigated and wrongfully denied in violation of the Fair Credit Billing Act ( FCBA ).\n\nI disputed a charge of {$750.00}, part of a {$2200.00} transaction for a ticketed live event ( XXXX XXXX, XX/XX/year> ). The dispute is based on material failure of services and misrepresentation, not non-use. \n\nThe event materially deviated from what was advertised. A headline XXXX ( XXXX ) did not perform, and the event became significantly disrupted and unusable due to performer misconduct. The service delivered was not the service purchased. \n\nCitibank denied the dispute solely on the basis that services were utilized, without evaluating whether services were delivered as agreed. This misapplies the FCBA, which covers services not delivered as agreed or involving failure of consideration. \n\nCitibank failed to conduct a reasonable investigation. They did not : Compare advertised vs. delivered services Evaluate the failure of a headline performer Assess event disruption and usability Determine whether the merchant fulfilled its obligations Instead, Citibank issued a conclusory denial and directed me to the merchant. This is improper. Once a dispute is invoked under the FCBA, the creditor must independently investigate and resolve it. \n\nThis complaint concerns : Failure to conduct a reasonable investigation Misapplication of the FCBA Improper denial of a valid dispute Deflection of statutory responsibility to the merchant"
+}

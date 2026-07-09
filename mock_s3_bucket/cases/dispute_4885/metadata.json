@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4885",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94544"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30586,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The card was reported lost in the mail, and I discovered unauthorized charges on my XXXX XXXX XXXX XXXX This was reported to XXXX XXXX cutomer service Fraud department. They did NOT fix the problem and still charging me with interest. Attached is Police Report and the XXXX XXXX Account Statement - as of XX/XX/year> my new balance is {$1500.00}"
+}

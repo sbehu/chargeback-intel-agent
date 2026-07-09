@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5902",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 779,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I booked a reservation through XXXX XXXXn error. I immediately cancelled and was sent an email that states that I would be receiving a refund in XXXX days. This timeframe as past and I have contact Citi bank to file a dispute on the charge, the representative XXXX, who did not want to process my request to file a dispute told me that XXXX XXXX XXXX XXXX  of Citi XXXX reputable merchant and i should contact the contact service team after XX/XX/XXXX to try filling my disputes once more. I did and they closed out my dispute with out a proper investigation in favor of their reputable merchant."
+}

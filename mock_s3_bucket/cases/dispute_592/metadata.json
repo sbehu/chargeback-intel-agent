@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_592",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "068XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18555,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I landed at XXXX airport on XX/XX/ around XXXX XXXX. I went to taxi stand to get ride to parking facility. I ( stupidly ) got in a XXXX XXXX that had an XXXX tag and the guy did he could take me. He said it cost {$30.00}. I gave him my card. I didnt get a receipt. He didnt disclose terms and conditions. My XXXX statement on my Citibank Costco XXXX had a charge for {$2000.00} to a vendor called XXXX XXXX XXXX XXXX XXXX. Citibank says since I used my chip I am responsible. BTW- if you try to find the XXXX XXXX company, there is no info. If you call the phone # it is disconnected. I asked Citibank to ask the vendor for a receipt. Maybe ask them to prove that I charged something instead of asking me to prove that I didnt charge anything. I have called them 7 times and spent hours trying to resolve this."
+}

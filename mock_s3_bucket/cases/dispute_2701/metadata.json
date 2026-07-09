@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2701",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75048"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49775,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> @ Booked online ( 4 ) refundable tickets with XXXX for {$6100.00} via American Express. \n\nDate of Travel : XX/XX/year> - XX/XX/year> Later on XX/XX/year> called and spoke XXXX XXXX customer service agent XXXX XXXX requesting a refund of my refundable booking due to my lack of confidence in XXXX XXXX, system issues, and discovered bad reviews ... ..which said she that the booking would be cancelled and refund processed and to wait XXXX days, she also provided refund number # XXXX. \n\nAfter 15 days, I disputed the charge since no refund was processed as assured. \n\nXXXX charged my American Express with not ( 1 ) total charge, but ( 4 ) separate transactions equal to the amount of {$6100.00}. \n\nSince XXXX, I've spent several months calling, updating, and working with American Express to resolve the simple refund issue of ( 4 ) inaccurate charges.\n\nAt this point, American Express has closed/resolved about 75 % ( 3 of the 4 transactions ) of the dispute. But unfortunately, they have yet to resolve ( the final inaccurate transaction ) this dispute completely."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2962",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "295XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9173,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024 I had the unfortunate to click on a link that I received which will took me to zoom video for a few minutes and I gave my inf of my credit card fewto this company name XXXX minutes later I realized that I just got scam I didnt received any invoice or receipt or perhaps any contract or merchandise so I called immediately to XXXX and said that it was fraud that was my mistake well Barclays said not to worried cancel my credit card sent me a new one I activated and I travelled out of the country 3 weeks later Barclays credit card company sent me letter said that they granted the XXXX to the company in question because I was in zoom video which I thought it was an introduction I believe but anyway in the meantime I tried to contact the company by email phone calls nothing not respond so I asked Barclays to run an investigation because Im not responsable for something I didnt receive Barclays is responsible for not complying by notify me that I had set up in my app that when I have a transaccin for more then XXXX they fail to communicate with me before released that huge amount in what ground because the company said that I was in zoom that supposed to be an introduction not reason for Barclays to believed this company and paid them XXXX now the interest and fees are out unbelievable hight and Barclay keep said that because I gave my credit card isnt considered scam they had to paid so I explained to them if you issued me a new credit card sent to me I activated why Barclays said to me not to worried about it you fail in communicated me that you had released the funds which Im not responsible out all my credit cards I received an alert I had been in business with this credit card company for the last XXXX  years Barclays fail to protect my rights as a consumer and now are ruined my life my credit score was excellent and now Barkley all kept saying isnt a fraudulent and Im responsible for it please help me I finally got in touch with the company in question on XX/XX/XXXX after I arrived to XXXX and this guy said to me that they wont return my money back and the only reason I reached to then is because Barclays granted the money and hang off on me I called again and he hanged off on me and I hadnt heard from them at this point I m in desperation and dont know what else to do Im a low income individual."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1961",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90066"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47683,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding multiple fraudulent charges on my Costco Citibank Visa credit card totaling {$6700.00}. There were 96 fraudulent transactions in total, starting XXXX XXXX, XXXX through XXXX XXXX, XXXX. All of the transactions were with various XXXX locations in XXXX California. I became aware of the activities on XXXX XXXX, XXXX, and called Costco Citibank that same day to cancel the card. The representative assured me that day that the fraudulent charges are obvious, and would be credited back to my account. I called again on XXXX XXXX, XXXX to follow up. On XXXX XXXX, XXXX, Citibank credited my account for 5 of the 96 fraudulent charges, totaling {$370.00} of the {$6700.00}. I have yet to recover the remaining {$6400.00} as of XX/XX/XXXX. \n\nI called Citibank again on XXXX XXXX and XX/XX/XXXX, and each time, the representatives assured me that the charges would be credited back. Today is XX/XX/XXXX, and Citibank issued a statement to me saying the disputes have been closed, and that I would be responsible for the remaining fraudulent charges of {$6400.00}. I am told I have to submit a hard copy letter to request the investigations team to re-open and review the case again. \n\nI am extremely concerned at being held responsible for {$6400.00} that should never have been allowed to be processed by Citibank under the obvious suspicious nature of the transactions. For example, on XXXX XXXX, XXXX alone, there were 34 separate charges at XXXX totaling {$2400.00}. Here is the summary by date : XXXX XXXX, XXXX : XXXX charges totaling {$330.00} XXXX XXXX, XXXX : XXXX charges totaling {$800.00} XXXX XXXX, XXXX : XXXX charges totaling {$930.00} XXXX XXXX, XXXX : XXXX charges totaling {$840.00} XXXX XXXX, XXXX : XXXX charges totaling {$2400.00} XXXX XXXX, XXXX : XXXX charge totaling {$74.00} XXXX XXXX, XXXX : XXXX charge totaling {$75.00} XXXX XXXX, XXXX : XXXX charges totaling {$1200.00} XXXX XXXX, XXXX : XXXX charge totaling {$1.00} Please help resolve this matter. \n\nThank you."
+}

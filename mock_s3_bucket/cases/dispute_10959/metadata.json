@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10959",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20743"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44568,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Citibanks handling of a disputed {$7400.00} charge processed on XX/XX/year> by XXXX  on behalf of The XXXX XXXX XXXX. \nCitibank previously denied my dispute and has now formally closed the investigation, stating they will not respond to additional correspondence. However, new material evidence demonstrates a clear timeline inconsistency that was not reasonably addressed. \nThe merchant relies on a XXXX Certificate of Signature reflecting a signature dated XX/XX/year> at XXXX UTC ( XXXX AM Eastern Time ). \nAt XXXX AM Eastern Time on XX/XX/year>, I was in-flight on XXXX XXXX XXXX from XXXX ( XXXX ) to XXXX ( XXXX ), which departed at XXXX AM Eastern Time. I did not have in-flight internet access and did not purchase WiFi services. \nAdditionally, the {$7400.00} charge was processed on XX/XX/year> XXXX days prior to the alleged signature date. Billing activity was initiated XX/XX/year>. \nThis creates XXXX critical inconsistencies : The charge was processed before the alleged signature date. \nThe alleged electronic signature occurred while I was airborne without internet access. \nI submitted the following documentation to Citibank when requesting reconsideration : XXXX XXXX confirmation showing XXXX XXXX XXXX departure XX/XX/year> XXXX  Certificate of Signature showing XX/XX/year> XXXX UTC timestamp BILL payment notification dated XX/XX/year> Despite this documented timeline conflict, Citibank refused to reopen or reconsider the dispute and stated they will not respond further. \nI am requesting that Citibank conduct a reasonable reinvestigation of this matter and address the documented inconsistency between the charge date and the alleged authorization. \nI am not requesting emotional consideration I am requesting a proper investigation of the timeline evidence provided."
+}

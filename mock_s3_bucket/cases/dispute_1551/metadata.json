@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1551",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "339XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16847,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My problem is with Macys credit card. \n\n. On XX/XX/XXXX I discovered fraudulent charges on my Macys Credit Card.\n\n. I called and reported to Macys and identified 13 fraudulent charges which they said they would remove from my card. \n\nIn XXXX I started getting calls from Macys Credit dept so I checked and Macys had remove 12 charges but overlooked one charge. This charge was almost identical to another charge at the same store on a different date that had been removed. \n\n. After many many calls to Macys they agreed 7 different times to handle the item, but the calls Macys continued. They said the case was under investigation. \n\n. On XXXX XXXX, XXXX my bank informed me that my credit score had dropped XXXX points upon checking Macys had reported me delinquent on my account. On XX/XX/XXXX XXXX called me and said they resolved the charges and I now have a {$23.00} credit balance. But they could do nothing about my damaged credit score as the case was still under investigation. \n\n. On XX/XX/XXXX my bank informed me that my XXXX XXXX had dropped another XXXX points. Investigating I found on XX/XX/XXXX XXXX had made a request for a hard credit report resulting in the 9 points reduction.\n\nI did not know or approve this request I was not requesting credit or a loan.\n\nI had a credit amount on my Macys card They owed me money What was their reason for requesting a hard credit report other than harassing me. \n\nI have a big financial deal working and my finances are very reluctant to continue with a total credit report drop of XXXX points. This is going to result in significant reprucessions to me and my business opportunities. \n\nIn early XXXX I informed Macys that I believed they inadvertently missed one charge.\n\nIn many many calls to Macys over the past XXXX  weeks I have only spoken to one person out of about 40 whose native language is XXXX. It is difficult to understand many and I had the feeling many did not understand me. \n\n. I have had a hard wired telephone in my house and home since I was XXXX XXXX XXXX. Due to the harassing XXXX 's calls to collect a debt I am canceling my phone to avoid the harassment.\n\nI consider myself a hard working professional person with an extremely good credit rating. Now this is all ruined by Macys and their broken systems, flawed procedures and improperly trained personnel. They do not care a bit about the little people in the world. They can not correct their problems or restore my lost credit worthiness that the destroy for no good acceptable reason."
+}

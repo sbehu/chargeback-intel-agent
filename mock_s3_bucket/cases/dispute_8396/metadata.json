@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8396",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "438XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46171,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of this year I open day Priceline CC through Barclays. There were quite a few charges made to CC even before activation, ranged from {$20.00} to {$190.00} ( in total {$430.00} ), most on priceline. I came to know as I was setting up my account. Account was already on hold due to suspicious activity. I was asked to call the Barclay Bank fraud service department. I was given temporary credit pending investigation, account was closed and I was send a new CC. Same problem with new CC. Over next few days to my dismay and disbelief fraudulent charges from the first CC were denied. I called the Barclay Bank to find out reason for this denial. Agent stated that when they reached out to priceline.com they were told that I'm a customer of priceline.com so this were were not fraudulent charges. Priceline.com did not care to check my account. I was asked by the fraud investigation department to call priceline.com directly to get a refund. I attempted to call and chat with them, both were unsuccessful as I did not have any reservation number, without reservation number I can not get through. I called the fraud department at Bank again and reported my unsuccessful attempt to call priceline.com. I was asked if I wanted to reopen investigation which I did and I also submitted copy of my account activity on priceline.com. I was told that appeal after initial denial on investigation are generally denied again, furthermore on appeal I'm not giving temporary credits so I am stuck paying the bill and Hope investigation does more thorough job this time and priceline.com does its job. I am afraid this is a scam/insider job at priceline. I'm afraid priceline.com is inundated with this type of fraudulent activity and therefore they are not doing a honest investigation. I'm asking Barclays to press Priceline for more details on transection and it would be obvious that these charges are fraudulent. You have business relationship with them so you can demand the appropriate information, I can't even get them on phone."
+}

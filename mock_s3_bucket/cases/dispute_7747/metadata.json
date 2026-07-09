@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7747",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91104"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37262,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is the XXXX time in XXXX months that my credit information has been leached to make fraudulent purchases from now bothy the Best Buy and Home Depot Citibank NA credit cards! \nThe XXXX time was at best buy where {$13000.00} dollars was charged fraudulently -- it was a drag but they reported immediately to the credit bureaus that it was not my fault and reversed the charges. \n\nNow, XXXX months later -- i have XXXX more Citibank NA fraudulent charges this week! I have a {$4000.00} charge through Home Depot Citibank NA card and an $ XXXX instore purchase in Minnesota and I live in California XXXX Totally frustraing bc NO OTHER CARD OR COMPANY HAVE HAD THIS ISSUE WITH. \n\nAdding insult to injury, my credit bureaus just let me know that my credit score has gone down XXXX points bc of \" overusage ''!!! I immediately reached out to Citibank NA for Home Dept and they agreed to immediately send a clarification to the XXXX credit bureaus. I then get transferred to the the Citibank NA Best Buy division and had to go through XXXX supervisors to be told they would NOT update the credit bureaus and that it would take XXXX days to clear this up!! XXXX XXXX XXXX? \n\nThis is NOT my fault! If you go online there are a ton of complaints about internal security with Citibank NA so someone should really do an investigation bc they are the ONLY company in my XXXX years of using credit cards that this has happened with and now XXXX TIMES IN XXXX MONTHS!!!! \n\nXXXX CUSTOMER SERVICE especially from the UNEMPATHETIC AND UNHELPFUL senior customer service agent XXXX in SECURITY OPERATIONS from my XX/XX/25 call. \n\nPLEASE HELP"
+}

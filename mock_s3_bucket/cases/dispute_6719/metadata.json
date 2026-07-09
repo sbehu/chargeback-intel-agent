@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6719",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37160"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46838,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased a laptop from XXXX using my American Express credit card. However, the laptop was never delivered. I attempted to contact XXXX to resolve the issue, but I was unexpectedly locked out of my XXXX account, which prevented me from accessing my order information or communicating with their customer service. \n\nI then filed a XXXX XXXX claim with American Express. I also filed a police report with the XXXX XXXX XXXX  and submitted both the report and the purchase receipt to Amex. \n\nDespite submitting all required documents, I have not received any resolution or meaningful update from American Express. I have followed up, but there has been no clear response or progress. \n\nI am able to provide the order confirmation, emails received from XXXX, and a copy of the official police report to support this claim. I respectfully request that the CFPB assist in ensuring that this matter is handled fairly and without further delay.r."
+}

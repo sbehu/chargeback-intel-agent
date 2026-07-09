@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5720",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "244XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30609,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Two fraudulent charges were made by the same XXXX  merchant on XX/XX/year>, each for {$86.00}. Citi acknowledged that they were fraudulent, and immediately issued me two credits for these amounts. Citi also cancelled my account and issued me a new account with a new card number. Yet, now it reversed one of the credits, claiming that I received two credits on only one transaction. The XXXX  at Citi were incapable of realizing that there were TWO fraudulent charges. Like the fed employees fired by XXXX. the XXXX XXXX XXXX at Citi are getting paid for making errors."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_108",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "018XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38777,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased 2 XXXX XXXX XXXX XXXX from XXXX XXXX. Upon opening the seats were very cheaply made and i asked to return within policy of 30 days to request a return. The seats were returned within 30 days. XXXX tracking confirmed seats delivered back to XXXX and signed for. XXXX will not issue refund. I am being charged for goods i do jot have"
+}

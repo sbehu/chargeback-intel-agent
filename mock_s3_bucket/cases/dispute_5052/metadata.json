@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5052",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97306"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34613,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I made an online purchase from XXXX for a XXXX of shoe risers in the amount of {$25.00}. I received the order on XX/XX/year>. Upon receipt of the purchase I noticed that I only received XXXX pair of Rizzsoles instead of the 2 pairs I was to receive. I immediately reached out to \" XXXX '' who is the third party vendor that handled the payment and delivery of the items and received no response. I also reached out to XXXX by using the email address they have listed under the \" contact XXXX '' section on \" XXXX ''. That email address is XXXX. The email was immediately returned as XXXX with the message that stated \" Sorry, we were unable to deliver your message to the following address XXXX. Unable to deliver message after multiple retries, giving up ''. I attempted to re send the email two additional times and received the same unable to deliver message both times. I then went to XXXX XXXX and attempted to file a dispute to see if they could help me recover the funds. I used their online dispute function and answered the series of questions that were required in order to complete the online dispute. One of the questions was had I attempted to return the merchandise and I answered \" no '' as I had not attempted to return as I had no way of reaching the merchant in order to obtain an address or a return authorization. Upon me honestly answering the question of \" no '' I was immediately told that my dispute was rejected and if I wanted to try again I had to mail in a dispute at a later time after I had attempted to return the merchandise. I then reached out to their online chat help and spoke via chat with a dispute associate and I was told in order to file another dispute as my first dispute was rejected for failure to not attempting to return the merchandise I would have to attempt to return the merchandise and then send them a dispute in writing to their corporate address. I have no way to return the merchandise as I am unable to contact or reach the merchant through the email they provided. I also have no telephone number that is listed for them to attempt to contact them. XXXX XXXX has violated my rights under the Fair Credit Billing Act by refusing to investigate and attempt to resolve my dispute. I contacted them within the 60 days of the statement showing the charge as required by law and truthfully gave them the information that would allow them to complete a review and resolve my dispute. However, they denied me for failure to attempt to return the merchandise which was outside of my control. In addition, I was never sent an acknowledgement of my dispute or a reason in writing why they were denying my dispute within the 30 days required by law."
+}

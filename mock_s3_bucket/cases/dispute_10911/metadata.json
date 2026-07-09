@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10911",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77373"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2324,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing {$4600.00} in unauthorized XXXX charges that appeared on my American Express XXXX XXXX XXXX XXXX XXXX I did not authorize these charges, and XXXX has refused to provide any documentation showing toll usage, timestamps, invoices, or proof of authorization. \nI attempted to dispute these charges with American Express. Amex initially issued a provisional credit and then removed it. When I attempted to reopen the dispute, Amex repeatedly misclassified it as a fraud case instead of a billing dispute for unauthorized use of stored card credentials. Because of this misclassification, Amex representatives and supervisors told me they could not attach my written statement, could not reclassify the dispute, and could not request documentation from the merchant. \nI submitted a written statement through the Amex app explaining that I did not authorize these charges and that the merchant refused to provide documentation. Multiple Amex representatives acknowledged the statement but said they could not attach it because the system had locked the dispute into the fraud workflow. I was repeatedly transferred between departments, including fraud, even after explaining that this is not an identitytheft case and does not require a police report. \nAs a result, I have been unable to file a proper billing dispute, and Amex has prevented me from exercising my rights under the XXXX Credit Billing Act. I am requesting that American Express XXXX XXXX XXXX reopen this as a billing dispute, attach my written statement, request documentation from XXXX, and reverse the charges if the merchant can not provide valid proof of authorization."
+}

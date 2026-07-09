@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1630",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25958,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Urgent Assistance Needed Regarding Fraudulent Charge on Citi DoubleCash Credit Card Dear CFPB, I hope this message finds you well. I am writing to bring to your attention a concerning matter regarding my Citi DoubleCash credit card account. \n\nOn XX/XX/2023, I noticed a fraudulent charge of {$600.00} on my account attributed to a purchase from XXXX ( XXXX CA ). Immediately recognizing this as unauthorized, I promptly contacted your customer service team to report the issue and filed a fraud claim. \n\nRegrettably, despite my efforts, the initial claim was denied on the grounds that I had made a previous purchase from XXXX. However, I wish to emphasize that this particular charge of {$600.00} was not initiated by me. Despite reaching out to XXXX directly, they were unable to provide any information regarding the transaction and directed me back to Citi to address the matter. \n\nFollowing Citi 's guidance, I subsequently reopened the claim, this time categorizing it as a Canceled Service claim on XX/XX/XXXX. However, to my dismay, I recently received notification on XX/XX/XXXX that this claim has also been denied. The frustration mounts as both Citi and XXXX seem unable to provide clarity or resolution regarding this fraudulent charge. \n\nI find myself trapped in a cycle of communication between your institution and the merchant, without any meaningful progress toward resolution. Despite XXXX acknowledging the fraudulent nature of the charge, Citi has insisted on holding me accountable for the full amount. \n\nI implore your urgent assistance in thoroughly investigating this matter and facilitating a prompt resolution. It is evident that neither party involved has been able to substantiate the legitimacy of this charge, leaving me unfairly burdened with its consequences. \n\nThank you for your attention to this matter. I eagerly await your prompt response and resolution. \n\nWarm regards, XXXX XXXX XXXX : XXXX Phone : ( XXXX ) XXXX"
+}

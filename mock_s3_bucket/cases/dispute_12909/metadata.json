@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12909",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32806"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4562,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was pressured and manipulated by a psychic to withdraw my disputes due to fraud cause she didnt want to be caught red handed and deal with the consequences. She was harassing me sending me screenshots and calling me constantly three months ago. I felt she was scamming me and pressuring me to pay for spiritual or cleansing services to remove blockages and bad spirits. So I filed disputes and two weeks after I filed them she was blowing up my phone how I was scamming her and Im ruining her bank and business. How come XXXX didnt take them down and they love doing business with her and never had complaints. So I withdrew them cause she manipulated me to do that and Citi card wont let me reopen them cause I withdrew them. She made me feel as if shes legit and doesnt like being called out for scamming or swindling others for cash to pay her so called bills and she deserves to be paid for her goods and services cause shes a so called psychic. My old card had to be cancelled due to fraud from somewhere else so I would like the remaining amount refunded to my new card number."
+}

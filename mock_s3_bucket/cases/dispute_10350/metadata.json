@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10350",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98058"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4889,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint about American Expresss handling of a billing dispute ( dispute resolution process ) involving defective / not-as-described merchandise. \n\nTransaction : {$990.00} to XXXX XXXX. The merchants product listing represented that the aftermarket front bumper would fit XXXX XXXX XXXX XXXX models. My vehicle is a XXXX  XXXX XXXX XXXX ( XXXX ). \n\nWhat happened : - The order included a splitter that arrived partially damaged. The merchant acknowledged the damage. \n- The main bumper was advertised as compatible with my vehicle, but after professional test-fit/installation it did not fit as described. The mounting points did not align and the bumper could not be installed correctly without modification. For a bumper, fitment can not be verified without test-fitting/installation. \n- I contacted the merchant and provided the requested photos and information. The merchant repeatedly asked for more photos and suggested retrying with the installer rather than providing a clear resolution. Once it became clear the bumper did not fit the advertised application, the merchant did not provide a practical resolution path as the customer. \n- I opened a dispute with American Express and submitted documentation showing the item was damaged and not as described ( misrepresented fitment ). \n- American Express ultimately closed the dispute in the merchants favor, placing heavy emphasis on the fact that the item was not returned, even though the core issue is that the product did not match the written description/fitment and was unusable for its advertised purpose. \n- After the dispute outcome, the merchant issued only a {$150.00} partial refund, leaving {$840.00} of the original {$990.00} charge unresolved. \n\nWhy I am complaining : This outcome effectively requires a return ( and imposes additional costs ) to obtain relief even when the product is not as described/defective. A large body part like a bumper can not be evaluated for fitment without test-fit/installation, and requiring return under these circumstances makes meaningful consumer protection impractical. \n\nRequested resolution : 1 ) A higher-level review by American Express of the dispute decision under goods not as described / defective, considering the documentation already provided.\n\n2 ) A fair adjustment reflecting the remaining {$840.00} ( the amount left after the merchants {$150.00} refund ), or a detailed written explanation of the specific evidence standard applied and why the not as described/defective documentation was not sufficient."
+}

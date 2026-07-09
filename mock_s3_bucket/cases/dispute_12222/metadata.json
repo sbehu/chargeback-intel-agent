@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12222",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97230"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49993,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a pair of shoes for {$65.00} through XXXX with my Barclays credit card. I returned those shoes promptly as they didnt fit. They were to credit my Barclays credit card for the amount of purchase. I have all the tracking information from XXXX. XXXX received the shoes XX/XX/XXXX. After repeated delays to my refund and multiple conversations with XXXX customer support, a month went by with no credit. I finally decided to file a dispute with Barclays. After a couple months, Barclays decided to side with the merchant. Even though XXXX never issued a refund to my credit card, Barclays sided with them. XXXX has no proof to dispute my claim ; while I have tracking info and info from XXXX that they indeed receive the shoes."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6444",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98296"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30938,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary I am filing this complaint regarding Citi 's failure to process a {$1800.00} refund from XXXX that was confirmed by the merchant but never credited to my XXXX Citi credit card account. Despite multiple communications with both parties and providing documentation, Citi has denied my dispute without proper investigation. \n\nDetailed Timeline XX/XX/year> : I returned merchandise to XXXX. ( Documentation available ) XX/XX/year> : XXXX confirmed via email they were issuing a refund of {$1800.00}. They provided transaction number XXXX. ( Documentation available ) XX/XX/year> : A pending credit of {$1800.00} briefly appeared on my XXXX Citi credit card account but disappeared after approximately XXXX day. \n\nXX/XX/year> : I contacted Citi customer service who assured me this was normal procedure and that the credit would reappear within XXXX  days. \n\nXX/XX/year> : After the full XXXX period elapsed with no refund posted, I contacted Citi again XXXX Their representatives claimed they never received the credit from XXXX. They advised filing a dispute. \n\nDuring dispute process : I informed Citi I had documentation proving XXXX had initiated the refund, including the transaction number and confirmation email. The representative stated they would contact me if additional information was needed. \n\nXX/XX/year> : Citi closed my dispute unfavorably without requesting any supporting documentation from me or properly investigating the transaction number provided by XXXX. \n\nSubsequent communications : Citi has repeatedly claimed they never received the funds but can not explain why the pending credit initially appeared. \nWhen questioned about the closed dispute, Citi promised to investigate but has not done so. \nXXXX erroneously claimed they sent the refund to a XXXX account, which I have never used for XXXX purchases. I exclusively use my XXXX Citi card for all XXXX transactions XXXX"
+}

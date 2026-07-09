@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7351",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91764"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42996,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I lost my XXXX XXXX  XXXX XXXX and whoever found it used it and charged an amount of XXXX. \nI called the credit card company when I received a message from them asking me if I tried using my card. I called them back and told them I must of lost the card and someone else got it and used it. \nSo they dispute that charge and sent me a new card and removed the charge from my account. \nTime passed by and I didn't hear from them. Then I seen the charge was back in my account. I called them and requested to dispute the charge again and they did. But this time they didn't remove the charge. I also wrote their dispute center a letter that I will be attaching here.They told me verbally and in writing that I wasn't required to make a payment towards the dispute amount. I also got another letter stating that the investigation has been resolved and it's determined that the charges are not mine. \nNow what I don't understand is why are the charges and late fees still on my account. XXXX customer service keeps calling me to make a payment. And this has negatively impacted my credit score XXXX points. \nThey have terrible customer service that is not willing to help me with this matter anymore. \nThis has been going on since XX/XX/year> till now. \nI have the letters that they sent me. I will be attaching them here. \nThank you for your help"
+}

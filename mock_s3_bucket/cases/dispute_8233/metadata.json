@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8233",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "599XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32401,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is in regard to a charge dispute with Citibank Visa credit card. \n\nThe company XXXX, appeared to be XXXX XXXX in emails to me after booking flights directly with XXXX XXXX. The emails sent to me looked exactly like what I had recieved from XXXX XXXX in the past. So I called the number on the email to rebook a flight that had not been confirmed by XXXX from a previous booking. Somehow XXXX found that I was trying to book a trip to XXXX XXXX, they presented themselves as XXXX XXXX via email. They convinced me that if I booked a first class ticket for {$11000.00} XXXX dollars, I could cancel it and book a seat directly next to my girlfriend for approximately {$2200.00}. They then would refund the remaining amount to my credit card. \n\nThey did book the correct flight and seat next to my girlfriend, but my credit card never received the credit back from the company, XXXX. This company claimed that the refund would occur within 60 days of the charge, and it did not. \n\nI proceeded to dispute the charge with Citibank. Citibank proceeded to stall and were very difficult to communicate with. I would email them about the dispute, and they would say I would see a response within 10 to 14 days. When there are several emails being exchanged, this process was very slow going and Citibank felt no urgency in getting this resolved. Last week my claim for refund was rejected with no explanation. I have since googled the company XXXX, they are known scammers. And Citibank apparently agrees with them that I owe the fee. Now I think Citibank and XXXX are working together to scam me."
+}

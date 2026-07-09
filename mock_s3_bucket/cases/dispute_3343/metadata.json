@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3343",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28216"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened and used a Citibank/HomeDepot credit card to have a flooring installed in XXXX. The first installation was done fairly satisfactorily but the second installation was poorly done and damage was done to my home. After several discussions with Home Depot they agreed to refund me the amount paid for the second installation but only if I signed a document releasing them from liability for the damages done to my home. I refused to sign the document and instead filed a dispute with Citibank as the true lender. The amount disputed was {$1400.00} on XX/XX/XXXX which was the entire cost of the botched installation. Citibank responded with a claim that they were denying {$320.00} of the claim. Their reasoning was that returns had been made to the account totaling {$320.00}. I asked them to verify that the returns were all related to the {$1400.00} as I had returned items from other purchases during that time period. They have not provided me with that information. I also asked them to give me a breakdown of my payments made prior to the dispute since they stated that my payments sent in were applied to the {$1400.00} and they have not provided that information either. I informed them during 5 separate phone conversations that I was going to continue to dispute the charges until this information could be verified because what they were claiming I owed from the {$1400.00} did not reflect any of the payments made. During one of the phone conversations, a representative stated to me that I needed to just sign the documents from Home Depot and take the check for {$320.00} from Home Depot to pay Citibank back. I filed a complaint about the statement from the representative but Citibank never reached back out to me regarding this complaint. Now, Citibank has reported me to credit bureaus as making late payments but I have never had late payments filed on me for any credit card with a credit bureau. Prior to the dispute every payment was made on time with Citibank."
+}

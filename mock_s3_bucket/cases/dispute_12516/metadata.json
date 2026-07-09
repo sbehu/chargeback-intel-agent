@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12516",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "922XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28229,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a complaint regarding XXXX XXXX  what I believe was a confusing and misleading recurring billing and cancellation process involving a semaglutide telehealth subscription service. \n\nWhen I originally signed up, I was never clearly informed that the program involved two separate recurring subscriptions : one for the medication and another separate membership/service fee. \n\nLater, when I canceled the medication portion of the service, I reasonably believed I was canceling the entire program. At no point during the cancellation process was it clearly disclosed that I also needed to separately cancel an additional recurring membership subscription. \n\nAs a result, I was charged {$190.00} in ongoing membership fees after discontinuing the medication service. I disputed the charge with my credit card company, and I lost the dispute. \n\nAfter discovering the charge, I contacted the company and attempted to resolve the issue reasonably. I requested either a refund or reinstatement of the membership period I had already paid for. I also offered to continue paying the monthly medication fee for additional months so I could receive the benefit of the membership charge that had already been retained. \n\nThe company refused both a refund and any reasonable compromise. \n\nMy concern is that the companys subscription structure, cancellation process, and recurring billing disclosures may be misleading to consumers and may cause customers to unknowingly continue being billed after believing they canceled their service."
+}

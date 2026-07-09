@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13158",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77493"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3454,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a charge of {$2700.00} made on XX/XX/year> to XXXX ( XXXX XXXX XXXX XXXX ) on my American Express XXXX XXXX. The charge is for a XXXX XXXX XXXX that I never received. \nThe merchandise was shipped via XXXX XXXX XXXX XXXX, with a claimed delivery date of XX/XX/year> at XXXX XXXX  in XXXX, TX. I never received the package. I contacted XXXX multiple times by phone to report the non-delivery. \nI filed my first dispute with American Express on XX/XX/year>. American Express initially ruled in my favor and issued a credit. XXXX subsequently submitted documentation to American Express, after which American Express reversed the credit and rebilled the {$2700.00} charge. I filed a second dispute on XX/XX/year>. American Express again denied and rebilled the charge. I called American Express on XX/XX/year> at XXXX XXXX  and spoke with an agent ( employee ID XXXX ). The agent reopened the dispute and routed it to the Small Claims Under $ XXXX department for secondary review. The agent confirmed during that call that the only evidence XXXX had submitted was a generic statement of delivery to an address. American Express has now denied the dispute again and provided me with XXXX evidence packet. I have reviewed that documentation and it is insufficient to establish delivery for the following reasons : 1. The XXXX Proof of Delivery contains no signature, no photograph of the delivered package, and no specific street address. XXXX lists the delivery location only as XXXX, TX, XXXX, XXXX and Front Door. For a high-value electronics shipment of this amount, the absence of a signature and a delivery photo means there is no verifiable proof the package reached me. \n2. XXXX states they conducted a shipping investigation in conjunction with the carrier but submitted no evidence of any such investigation. There is no XXXX  case number, no XXXX investigator name, no XXXX  findings letter, and no documentation of any communication between XXXX and XXXX regarding this shipment. XXXX  own emails to me show this investigation was completed in under three hours : an initial email at XXXX XXXX  on XX/XX/year> stating they were checking on the delivery, and a denial email at XXXX XXXX  on the same day. A legitimate XXXX investigation into a lost high-value shipment can not be completed in under three hours.\n\n3. XXXX states the package remained the correct weight throughout. Weight tracking only proves the package was not opened in transit. It does not prove the package reached me. XXXX is offering evidence relevant to in-transit tampering, not to the actual issue, which is non-receipt. \n4. The shipping address on the XXXX invoice is a XXXX XXXX designation, indicating a multi-tenant building. XXXX left a high-value XXXX at a generic Front Door with no signature required and no photographic confirmation, which is significantly more vulnerable to theft or misdelivery than a single-family residence. This context further undermines the claim of successful delivery. \n5. XXXX cites reason code C08 ( Goods or Services Not Received ), which is the correct American Express dispute category for this case. XXXX acknowledges the dispute reason but has not produced evidence sufficient to overcome a non-receipt claim. Under standard cardholder protections for non-receipt of goods, the burden of proof rests with the merchant. XXXX has not met that burden. \nI am requesting that American Express reverse the rebill and issue a permanent credit of {$2700.00}."
+}

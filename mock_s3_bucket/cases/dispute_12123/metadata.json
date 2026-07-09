@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12123",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "330XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22682,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have called many times to American Express, I told them I never had Amex card, the card listed on my credit report is wrong, XXXX belong to a company called XXXX XXXX, I am not familiar with that account. They argue that I make payment to this account using XXXX  XXXX XXXX checking account and I have proof that I do not have and I never had XXXX  XXXX XXXX checking account. They have my information because I called and they did not have information by giving my name and social and as soon as I provide the information the link with this account. \n\nNow, I have report from XXXX XXXX  about my banking records that I can provide and an update police report. Please I need your help"
+}

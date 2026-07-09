@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4525",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96815"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20231,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against American Express regarding their handling of an {$11000.00} disputed charge on my account. I understand that American Expresss actions appear to violate multiple consumer protection laws. \nI have been a loyal American Express customer for 23 years and currently pay a {$700.00} annual membership fee. The current situation arose when my partner mistakenly reported certain pre-authorized payments as unauthorized to his bank. While he has acknowledged this error, American Express has : 6. Refused to classify this as a billing dispute 7. Restricted my entire credit line 8. Continued charging interest on the disputed amount 9. Failed to provide any written policies regarding their dispute procedures 10. Failed to respond to multiple written communications, including letters to CEO XXXX XXXX American Express claims this situation doesnt qualify as a dispute because it involves a bank return. However, they have provided no written policies supporting this position, despite multiple requests. This lack of transparency appears to violate federal requirements for clear disclosure of billing dispute procedures. \nThe impacts of American Expresss actions have been severe. I have been unable to use my card for essential graduate school expenses, despite continuing to pay a {$700.00} annual fee while being denied the cards benefits. The interest charges on the disputed amount have continued to accrue, and there is potential damage to my credit rating. Additionally, I have spent significant time and effort trying to resolve this matter. \nI understand that American Expresss actions may violate multiple provisions of the Fair Credit Billing Act, including : Failure to acknowledge and respond to billing error notices Restricting account access during a dispute investigation Charging interest on disputed amounts Failing to provide required written policies and procedures I am requesting that American Express : 6. Immediately classify this as a billing dispute 7. Remove the restriction on my account 8. Cease charging interest on the disputed amount 9. Provide written dispute policies and procedures 10. Investigate and resolve this matter within the statutory timeframe While I hope to resolve this matter through the CFPB process, I am prepared to speak with legal counsel to pursue arbitration if necessary. I believe I rights under federal consumer protection laws, including the right to recover damages, attorneys fees, and statutory penalties for violations of these requirements. \nAll supporting documentation is available upon request. \nSincerely, XXXX XXXX"
+}

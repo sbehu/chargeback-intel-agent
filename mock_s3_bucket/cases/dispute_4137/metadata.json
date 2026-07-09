@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4137",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "537XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10243,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello I've contacted the bank about these duplicative and fraudulent transactions over a year ago, and they've never responded to me. I've sent letter, sent an online message, and waited on a phone call hold over an hour. I request all of these transactions credited. The same company that I do not recognize is charging twice in XXXX XXXX, and XXXX XXXX.\n\nXXXX XXXX XXXX XXXX {$36.00} XXXX points XXXX XXXX XXXX XXXX {$36.00} XXXX points XXXX XXXX XXXX XXXX {$36.00} XXXX points XXXX XXXX XXXX XXXX {$36.00} XXXX points XXXX XXXX XXXX XXXX XXXX XXXX XXXX {$36.00} XXXX points XXXX XXXX XXXX XXXX XXXX XXXX XXXX {$36.00} XXXX points"
+}

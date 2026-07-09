@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2707",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "150XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15606,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "received a late payment notification from Citi Bank. This card is used for emergencies only and I probably only charge XXXX XXXX dollars on it annually, so when I got the late charge notification, I checked online the activity. The card in question has ALWAYS been in my possession. \nStarting XXXX is when the fraud starts. There are XXXX charges for XXXX at XXXX XXXX on XX/XX/XXXX. XXXX more charges on XX/XX/XXXX for the same XXXX and XXXX charge for XXXX, XXXX, and XXXX at XXXX and XXXX for XXXX. On XX/XX/XXXX a total of XXXX charges at XXXX XXXX all at XXXX per. XX/XX/XXXX has a total of XXXX charges at XXXX XXXX for XXXX per. XX/XX/XXXX has XXXX charges at XXXX XXXX all for XXXX per. \nSo, we have a total of XXXX charges at XXXX XXXX in 6 days... all for XXXX each. XXXX at XXXX and XXXX at XXXX. \nThere are also 3 charges totaling XXXX to XXXX XXXX XXXX XXXX, which is a commercial cleaning company in XXXX, AL. I have spoken with the owner from XXXX XXXX, and the said that they are also a Citi Bank customer and they have also been hacked with people running cards through their system. Her name is XXXX XXXX XXXX XXXX ). She also gave me the number of the private investigator who is working on her case, we also spoke with. His name is XXXX XXXX ( XXXX ) I have contacted XXXX XXXX as well and they have opened two case at their loss prevention ( # XXXX and # XXXX ) It is beyond me how Citi Bank did not flag this immediately. \nI live in XXXX Pa and have never been to XXXX XXXXXXXX. Citi Bank did an investigation and stated that these we're done with a chip, and being the card was never lost, I am responsible. Anyone with common sense can see this is fraud. I have also attached the statements for XX/XX/XXXX and XX/XX/XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1838",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98682"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4485,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> placed an order for some XXXX XXXX from XXXX. \nXX/XX/year> received an automated call that my order will be delivered on XX/XX/year>. \nXX/XX/year> at XXXX PST received an automated call that the delivery is en route. I have screen shot of my call log. \nXX/XX/year> at XXXX PST I went out to my gate to open it and leave it open for the delivery driver. I have screen shot of my security camera on my property, it has date stamp of XX/XX/year> it will clearly show I went out there on my XXXXXXXX to open the gate. \nXX/XX/year> at XXXX PST XXXX XXXX states that my package has been delivered. This is impossible. I have screen shots of my security camera on my property, it has date stamp of XX/XX/year> it will clearly show that there is no moon of acvity between XXXX when I went out to open my gate to XXXX when my wife took the car to go to work. \nXX/XX/year> XXXX PST my wife took our car to go to work, while I stay home to wait for the delivery. I have screen shot of my security camera on my property, it has date stamp of XX/XX/year> you can clearly see a white XXXX drive off. \nXXXX I called the XXXX number XXXX and talked to them for 30 minutes. They kept saying its delivered and they cant provide any proof of delivery. So in the end they told me to call up my bank ( AMEX ) and dispute the transacon. This is what I did, then XXXX fought it and sent ( AMEX ) nothing more than a receipt of the charges. This does not prove that I received my products that I ordered and was supposed to be delivered. So then AMEX reversed the dispute. \nI then had to drive out to XXXX XXXX  and explain this story and show them video footage of my security cameras, clearing showing that no one showed up to the property to delivery anything during the meframe that they said it was delivered. So they agreed to credit me back the {$520.00} plus the {$810.00} ( not sure why but they split my order into two transacons ). Here is the issue, I sll have 2x purchases of {$520.00} plus {$810.00} but was only credited one {$520.00} plus {$810.00}. \nI paid extra so the delivery people can deliver it inside my XXXX as these XXXX were super heavy and I didnt want to try to move it myself. \n\n1 ) XXXX XXXX can not provide any pictures of it being delivered to my property 2 ) XXXX XXXX can not provide any signature proof that I signed for the delivery. \n3 ) Nor does my security cameras show any delivery of anything between XXXX when I went to open my gates to XXXX when my wife took the car to go to work. They said they delivered it at XXXX so my security camera wouldve picked up the footage and they ( XXXX ) should be able to provide me with pictures and my signature. \n4 ) XXXX XXXX already agreed, aer reviewing my security camera footage, that the items were not delivered so thats why you see a credit on my account. Issue is theres 2x charges and only 1x credit. So Im sll paying for something that never got delivered. \n5 ) If XXXX XXXX delivered it, they delivered it to the wrong house as anyone coming or going on my property will be picked up by my security camera. XXXX XXXX already admied fault and can not prove that the items were delivered. I, on the other hand, have proven with security camera footage that the items purchased were never delivered. \n\nAt the end of the day, XXXX can not provide proof of delivery. My signature isn't anywhere and they don't have pictures of the items delivered on my property. Amex is siding with XXXX XXXX because they provided some bogus \" delivery confirmation. ''"
+}

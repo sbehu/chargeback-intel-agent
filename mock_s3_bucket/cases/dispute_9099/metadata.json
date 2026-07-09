@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9099",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "897XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7900,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXXXXXX XXXX XXXX  I booked two charter flights with XXXX XXXX XXXX ( XXXX ) and paid XXXX a refundable deposit totaling {$90000.00}. See Exhibit 1. After the conclusion of the flights, on or about XX/XX/year>, I contacted XXXX about the refund of the deposit to my American Express credit card. On XX/XX/year>, I received an email from XXXX stating the following : The security deposit hold for both flights in the amount of {$44000.00} and {$46000.00} should have been credited back to your card. You are not responsible for these amounts. I have escalated this to our processing team and the credit will be issued back. \n\nSee attached. \n\nThe {$90000.00} deposit was never credited back to my American Express card. \nI filed a complaint and claim with Amex and they took 60 days to deny the claim. I did further research and learned that the company isn't even in business and shouldn't have an active merchant account because the entity filed to cease their ability to duct business with the state of Florida. They therefore fraudulently charged my card and Amex is allowing them to operate a merchant account without a business license associated with that account. I brought this to the attention of Amex and was told they would look into this and no recourse has been completed. \n\nAttached are the documents supporting the claim that the business is not in business anymore as well as the email correspondence with Amex."
+}

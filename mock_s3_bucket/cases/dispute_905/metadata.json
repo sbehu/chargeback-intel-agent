@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_905",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11720"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7118,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order with XXXX that was never delivered. I tried to dispute this online but that option was not available. I tried to dispute this by phone but they have a habit of disconnecting you \" accidentally ' after long holds and many transfers. I have tried disputing this in writing as well with no success yet. I provided proof that XXXX acknowledged the item was shipped to the wrong address. The credit card company is purposely making this impossible in the hopes that consumers will give up. \n\nThe company has not responded to me. They refuse to speak to me by phone, other than to say a letter is coming. I have yet to receive any letter. I received an email from XXXX promising a response by email. That response has yet to come. In the meantime, they have brazenly flouted the requirements of the Fair Credit Billing Act. They continue to take action to collect the amount in dispute, imposing interest and requiring payment on the disputed amount. Since Barclay 's refuses to abide by its obligations, I ended up paying the amount in dispute to avoid further collections and interest. \n\nThe company provided a response to Complaint XXXX by attaching a file ( XXXX, XXXX ), but that file is corrupt and can not be opened. That complaint was closed despite my concerns not being addressed and despite the Company 's noncompliance with the law.\n\nIn addition, my complaint is threefold and the Company 's response fails to address any of the issues raised. First, they have failed to assist, at all, in my billing dispute. On information and belief, they have failed to contact the merchant or investigate the claim at all. Second, they have implemented a customer complaint system specifically designed to discourage and thwart consumers in the exercise of their rights. Finally, they have brazenly flouted their duties under the Fair Credit Billing Act by failing to respond to my dispute despite promises to do so, and by continuing to attempt to collect the amount in dispute and charging interest on it."
+}

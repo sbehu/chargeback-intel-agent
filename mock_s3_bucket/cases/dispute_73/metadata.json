@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_73",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5620,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I took my car to the merchant for a routine oil change. Unfortunately, after the service, a misfire occurred, leading the merchant to admit that they might have accidentally removed the sparkplug. They requested me to bring the car back to their shop for repairs. \nUpon returning my vehicle, the merchant informed me that fixing the misfire would cost approximately {$250.00} to {$300.00}, which I agreed to pay. Furthermore, they assured me that the car would be returned within 14 days. \nHowever, the merchant XXXX XXXX XXXX XXXX XXXX communication became increasingly sporadic, with long periods of no response to my inquiries about the status of my vehicle. I made numerous attempts to cancel the service but received no response. It was only after XXXX months, in XXXX of XXXX, that I finally received a call from the merchant. \nDuring the call, the merchant insisted that I pay {$470.00} to retrieve my vehicle. I provided my credit card information over the phone, trusting their assessment of the charges. \nShockingly, a few days later, I discovered that they had charged my credit card for a staggering {$4700.00}, instead of the agreed-upon {$470.00}. \nTo compound matters, upon receiving my car, I noticed that the engine lid was missing, the car seat was damaged, and, to my dismay, the check engine light illuminated the very next day, rendering the vehicle undrivable. Despite immediately contacting the merchant, their response was dismissive, offering only to purchase an engine lid while demanding an additional {$9000.00} to fix the engine, which is an exorbitant and unjustifiable amount. \nGiven the circumstances outlined above, I kindly request your assistance in resolving this dispute with the merchant. The unauthorized charges of {$4700.00} must be reversed, and I should not be held liable for any costs associated with repairing the damage caused by the merchant. \n\n\nThe biggest issue I had is that American Express has not been investigating this charge. They constantly send me the same response ending the dispute in the merchant 's favor without answering to the evidence. For example, the dispute was opened because \" The vehicle is still damaged '' but Amex responded by saying. \" There was no records of cancellation '' which is not even what the dispute was started for. In addition, I was asked to provide information and I did, but the dispute was closed because \" they did not receive the documents. '' The dispute number is : XXXX"
+}

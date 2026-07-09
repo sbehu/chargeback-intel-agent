@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6957",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10037"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19024,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/, there was a charge in the amount of {$630.00} from XXXX XXXX XXXX XXXXXXXX, Texas, made to my Barclay Card, that was not made by me. I've written to Barclay Bank to request a correction, explaining that I did not make the purchase. The Barclay Bank responded that after the bank 's investigation, the charge was correct based on documentation supplied by the merchant. According to Barclay Bank the charge was for XXXX meal plans at {$45.00} per person. Despite the facts I've not been to XXXX XXXX is the past ten years, I'm an XXXX XXXX XXXX, single man with no family and would not of my own volition visit a theme park. Barclay Bank refuses to understand the error of the bank 's decision to side with the merchant. The Barclay Bank refuses to credit my account for this fraudulent charge of {$630.00}. Stolen credit card numbers are a significant problem in the credit card industry and fake transactions are a major problem executed at considerable expenses to the card companies and merchants that honor these fraudulent charges. I'm caught in the middle of this dispute. Barclay Bank and XXXXXXXX XXXX XXXX XXXXXXXX want someone to pay for this mistake and put the fraudulent charge on my credit card. I did not make this charge and I want a credit in the amount of {$630.00} issued to my Barclay Bank as soon as possible."
+}

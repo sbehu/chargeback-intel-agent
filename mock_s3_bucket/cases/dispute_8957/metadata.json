@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8957",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78626"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8388,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against American Express regarding their unsatisfactory handling of a billing dispute and failure to assist in enforcing a merchants warranty obligation. \n\nOn XX/XX/year>, I purchased a mountain bike from XXXX for {$1100.00}, charged to my American Express XXXX XXXX in XXXX. The bike came with a XXXX-year quality guarantee. However, after only XXXX months of use, the rear wheel hub broke, rendering the bike unusable. \n\nI contacted XXXX repeatedly for over a week but received no response or resolution. As a result, I filed a dispute with American Express to seek a refund under the merchants warranty policy. \n\nUnfortunately, American Express has repeatedly redirected me to different departments, failed to follow up, and ultimately instructed me to call their Account XXXX XXXX at XXXX. Despite doing so, no one has taken responsibility or resolved the issue. This has resulted in a frustrating cycle of being passed around without any meaningful assistance. \n\nI expect American Express to properly investigate this dispute, honor their cardholder protection policies, and ensure that the merchants warranty is upheld. \n\nI request that your agency oversee American Expresss conduct and ensure they comply with consumer protection standards. \n\nThank you for your attention to this matter. \n\nSincerely,"
+}

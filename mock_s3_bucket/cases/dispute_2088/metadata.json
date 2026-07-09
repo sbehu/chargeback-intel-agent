@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2088",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "548XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21645,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a Wayfair account through CitiBank credit card company. The Wayfair account shows a credit card ending in a different account that I never had a card for. I've tried to resolve this with CitiBank previously on the phone, email, etc. and they still are not providing any proof of a purchase made by me and my Wayfair account has a XXXX balance because I did pay for my prior purchases with them. I have steadily asked CitiBank to provide proof because they have not. They call and leave messages on my phone from robocalls for debt collection and I know that's illegal, especially since I've asked them to provide proof because I have been a victim of Identity Theft in the past and again recently on 2 other credit cards that scammers have made purchases that I have no clue what the items were and where they went. I am tired of CitiBank harrassing me and causing my credit score to drop. They are a scam company I do believe. \nMy account online at Wayfair is a XXXX balance. When I log onto CitiBank website, they have a balance due so they are not on the same page as Wayfair and I'm tired of their scheming."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_272",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7450"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47861,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing regarding a dispute of a charge of {$41.00} from XXXX, XXXX on XX/XX/23. On XX/XX/23, we attempted to use the \" XXXX XXXX '' XXXX app to book a parking space in XXXX  XXXX  XXXX for the following day. We have used this app several times successfully in the past. However, on this occasion, the app malfunctioned. Our reservation didn't show in the app any time on XX/XX/23 or the morning of XX/XX/23. I took a screenshot on the morning of XX/XX/23 ( provided to Citibank ) to prove that the reservation was not showing up in the app. We also never received a confirmation email, as we had every previous time we used this app. \n\nOn the morning of XX/XX/23, we wanted to cancel the reservation because it was no longer needed. XXXX XXXX XXXX Terms and Conditions allow for cancellation any time up to the start of the reservation ( XXXX XXXX XXXX also provided to Citi ). However, without it showing up on the app, there was no way to cancel it, and XXXX XXXX doesn't provide a phone number to call. Since the reservation wasn't showing up and we didn't get a confirmation email, we assumed it never went through. \n\nWe didn't realize that we were charged for this reservation until XX/XX/23, when it showed up on our credit card statement. We immediately contacted the merchant by email but they were unhelpful and quickly became unresponsive. \n\nMultiple attempts to dispute the charge with Citibank have been unsuccessful. They claim we havent submitted evidence that we attempted to cancel the reservation. However, it was literally impossible to cancel the reservation because there was no evidence it existed until after it had already expired. This should be treated similarly to an undelivered product or service."
+}

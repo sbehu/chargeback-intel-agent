@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2935",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33321"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37561,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against Citibank regarding an unresolved chargeback request related to a transaction that occurred on XX/XX/year>. Despite my efforts to resolve this issue through Citibank 's billing disputes department, I have not received satisfactory assistance. The transaction in question involves an illegal business, and I have provided substantial proof to support my claim. \n\nDetails of the Incident : I was initially quoted {$1500.00} on XX/XX/year> for a XXXX XXXX XXXX XXXX by XXXX XXXX, also known as XXXX XXXX, the sole practitioner of XXXX XXXX XXXX XXXX XXXXXXXX. However, {$2500.00} was charged to my credit card without my consent. The procedure failed to deliver the promised and advertised results, and I later discovered that XXXX XXXX is not licensed to perform these procedures. \n\nIn fact, I discovered the procedure, practitioner, and business is operating without the proper licenses. According to Rule 61G5-18.00015 1 ( b ) of the Florida Administrative code, procedures such as XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ( which these were ) are beyond the scope of a XXXXXXXX license and require a medical license. The practitioner from the XXXX XXXX is not a licensed XXXX XXXX, or medical professional, violating state regulations. The business itself also does not appear to be properly registered as a XXXX XXXX XXXX XXXX  business. This unlawful practice has been reported to the Florida Attorney Generals Office, the Florida Department of Health, and the Florida Department of Business and Professional Regulation. Citibank was also notified of these details to aid in resolving the chargeback. \n\nAdditionally, XXXX XXXX XXXX XXXX XXXX 's advertised policy states, \" Our policy is that if there is no measurable and/or visible difference our clients do not get charged. '' Despite no visible or measurable improvement, this policy was violated, and I again informed Citibank of this policy, and provided proper proof of this advertised refund policy. Other customers have experienced similar issues and reported them on XXXX, this indicates a pattern of this business refusing to honor their own advertised policy, which constitutes a violation of Floridas Deceptive and Unfair Trade Practices. \n\nI have been a loyal Citibank customer for several years and have maintained an excellent credit history. I am concerned that this unauthorized transaction will impact my credit score, which I have worked diligently to uphold."
+}

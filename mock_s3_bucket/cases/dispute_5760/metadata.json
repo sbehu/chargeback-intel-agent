@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5760",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78723"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16613,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Details of the Issue : On XX/XX/year>, I reported three fraudulent charges from XXXX on my Barclays credit card, totaling {$230.00}, {$470.00}, and {$890.00}. \nI immediately closed my credit card after reporting the fraud. \nBarclays initially reversed the charges but later reinstated them after the merchant provided documentation claiming the charges were valid. \nWhy the Charges Are Fraudulent : I never made any booking through XXXX. \nBarclays provided me with booking details, showing that the reservation was made under the name XXXX XXXX, using the email XXXX. \nMy actual email address, which is linked to my Barclays account, is XXXX do not own or use an XXXX account. \nThe fraudulent booking was for XXXX XXXX  in XXXX, XXXX, from XX/XX/year>, to XX/XX/year>. \nI have not traveled to the XXXX in years, nor was I traveling during this time. \nEvidence Submitted to Barclays : I provided Barclays with multiple forms of proof showing that I was in XXXX, Texas, from XX/XX/XXXX to XX/XX/year>, and then traveled to XXXX, Georgia, for my bachelorette trip. My supporting documents included : XXXX camera footage with timestamps confirming my presence at home. \nCredit card transactions in XXXX, some of which were made using my Barclays card. \nFlight details showing I traveled from XXXX to XXXX on XX/XX/year>. \nTransaction from the XXXX XXXX on XX/XX/year>. \nAttempts to Resolve the Issue : I attempted to contact Booking.com directly, but their system requires a booking number and PINdetails I do not have since I did not make the booking. \nI called Barclays again and explained the situation, but they refused to reverse the charges. \nRequest for CFPB Assistance : Barclays has failed to properly investigate my dispute, despite clear evidence of fraud. I am requesting the CFPB to intervene and ensure Barclays : Reverses the fraudulent charges and credits my account. \nConducts a proper investigation in compliance with the Fair Credit Billing Act ( FCBA ).\n\nImproves its dispute resolution process to prevent similar consumer issues. \nI appreciate your prompt attention to this matter. Please let me know if further information is needed."
+}

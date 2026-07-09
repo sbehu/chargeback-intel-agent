@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1663",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "77389"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9593,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We purchased a XXXX dishwasher through BestBuy on/around XX/XX/2022. At the time we made the purchase, we signed up for and were approved for a BestBuy credit card. One of the features of making this purchase through the credit card was coverage ( warranty ) for one year. This warranty was called the Total Tech Plan. We were told that any warranty repairs were at no cost to us. However, upon making a claim, we were told that we needed to pay {$99.00} plus tax, or roughly {$100.00}. We ended up canceling the scheduled repair as we were not certain being charged was correct. However, even though we didn't have anyone come out, and even though we have been on XXXX calls trying to explain the situation and get our {$100.00} back, neither BestBuy nor the issuer has not refunded the amount nor provided proof that such an amount was credited back to us. We are escalating to see if CFPB can assist and to let others know to steer clear of BestBuy 's warranty service. It just isn't worth the huge headache it has been for us. It is now about principle, not about the amount."
+}

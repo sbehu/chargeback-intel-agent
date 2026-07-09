@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8820",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "77316"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24304,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Against : American Express Type of complaint : Credit card Dispute of charge ( Fair Credit Billing Act violation ) What happened : On XX/XX/year>, American Express billed me {$1000.00} from XXXX XXXX XXXX XXXX XXXX for advertising in their XX/XX/year> issue. \nThis charge should not have been processed because I had properly terminated the contract before that issue, as allowed by the contracts relocation clause. \nThe contract explicitly states : If for any reason the business relocates out of the state of Connecticut, the contract can be terminated with 30 days notice. \nI provided written notice of termination to XXXX XXXX of XXXX XXXX XXXX on XX/XX/year>, notifying her that my business had relocated and invoking the relocation clause. The contract does not specify any production or publication deadlines related to termination. \nAfter receiving my notice, XXXX XXXX retroactively changed the alleged deadline multiple times first claiming it was XX/XX/XXXX, and later XX/XX/XXXX both after the fact. However, XXXX XXXX own automated email dated XX/XX/year> stated : This is a final reminder that our deadline Wednesday, XX/XX/XXXX is approaching for our XXXX issue. \nThis XX/XX/XXXX email created a reasonable reliance that XX/XX/XXXX was the true deadline, and their later claims contradict their own written representation. \nI consulted Attorney XXXX XXXX ( XXXX XXXX XXXX XXXX XXXX ), who confirmed that I have strong grounds to dispute this charge based on : Breach of Contract : XXXX XXXX failed to honor the relocation termination clause. \nMisrepresentation : They provided conflicting and misleading deadline information. \nServices Not Rendered as Agreed : The XXXX advertising was unauthorized after contract termination. \nDespite clear supporting evidence, American Express denied my dispute and reversed credits that had already been issued. American Express failed to properly investigate the matter as required by the Fair Credit Billing Act, ignoring both the contractual terms and the legal principles involved.\n\nWhy this violates U.S. law American Expresss refusal to honor a valid billing dispute constitutes a violation of the Fair Credit Billing Act ( 15 U.S.C. 1666 ), which requires card issuers to : 1. Conduct a fair and reasonable investigation of billing disputes, and 2. Remove charges for services not rendered or obtained through misrepresentation or breach of contract. \nTheir acceptance of a retroactive change to the merchants due date after proper termination and documented misrepresentation violates these protections. \n\nRequested resolution I request that the Consumer Financial Protection Bureau require American Express to : 1. Reopen and properly investigate this dispute in compliance with the Fair Credit Billing Act. \n2. Reverse the {$1000.00} charge from XXXX XXXX XXXX XXXX XXXX. \n3. Confirm that no negative credit reporting or further collection occurs on this account."
+}

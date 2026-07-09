@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3902",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85331"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3802,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was in and out of town for a XXXX  due to my XXXX XXXX XXXX  XXXX  and my kids were with me. Then I was out of the country for XXXX  days. My email and phone were hacked and took time to get them back but didn't notice anything bc I was stressed and not paying attention to email. Someone used my card to have over XXXX shipped to my house but also picked it up. I would never know. We generally are not home a lot, especially during this time and I work a lot. Other people told me this is the latest thing. You can look at my credit history and see I have never spent that much money in a couple weeks on what looked fluke clothes. I don't spend that in a year. I have XXXX kids I'm helping through college. Been doing it alone and now more than ever, plus XXXX XXXX. I can not afford to pay for something I didn't do. It's been a XXXX enough year now this. Please help. I already had life lock so I thought they would alert me. I thought life lock was enough."
+}

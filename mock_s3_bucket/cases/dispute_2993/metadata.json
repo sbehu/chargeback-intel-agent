@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2993",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "290XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26100,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Good day. \n\nI have struggled with American Express to properly investigate my dispute claim on a product I didn't receive. I have asked to speak with the dispute team and I have been told by the representative that they don't have any access to reach them. As a client I have a right to have my dispute claim investigated in a thorough manner. This is not happening with American Express. I have sent overwhelming evidence that I didn't receive my vacuum cleaner from XXXX. American Express focused on a tracking number that XXXX had submitted and their final decision was enough proof that I indeed received the vacuum. \n\nI contacted XXXX and asked them to look up the tracking number XXXX. Upon their review, they told me my name, address nor product was not associated with that number. I have submitted that information into my dispute claim file at American Express. Again, I do not feel that American Express is investigating my case appropriately. I reached out to XXXX via XXXX and they again gave me the same above tracking number for my order. I told them this was an invalid tracking number for me. I was disconnected from XXXX. I have submitted all this information to American Express. \n\nI have been charged {$830.00} for an item I never received. I need an advocate for me to help me as I have justified in more ways than XXXX that I never received my vacuum. I am asking for someone to reach out to American Express, XXXX and XXXX on my behalf. I am asking for someone to reach out to me so I know someone is listening. \n\nI appreciate your time and help with this matter. \nXXXX XXXX XXXX XXXX XXXX"
+}

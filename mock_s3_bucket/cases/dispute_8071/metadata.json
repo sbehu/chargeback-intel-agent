@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8071",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11374"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4507,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Consumer : XXXX XXXX Issue : Fraudulent charge / Citibank refusal to credit account Complaint : On XX/XX/year> I was contacted by someone impersonating a XXXX XXXX representative, offering a XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX Im have XXXX XXXX XXXX XXXX XXXX Caller had all my info membership ID, persons that I travel with as well I was give certificate that looks exactly same as original. Believing the call was legitimate, I authorized the charge. \nThis transaction was fraudulent. Since I was not able to schedule any trip immediately requested a refund, the merchant blocked my number and email as well as for all my family. \nI disputed the charge with Citibank. Was denied.. I request to reopen it While they reopened the case, I provided official letter from XXXX XXXX XXXX no call were from them. And Citi bank still declined my request, stating they could not issue a credit without a credit slip from the merchant. \nXXXX XXXX confirmed in writing that the call did not originate from them, which I forwarded to Citibank. Despite this, Citibank refused to credit my account, leaving me without resolution. \nCitibanks insistence on a merchant credit slip for a clearly fraudulent charge is unreasonable and unfairly denies me recovery. \n\nPlease assist withImmediate full refund of {$2100.00}. \nCitibank must investigate and credit my account without requiring an impossible merchant document. \nAssurance that Citibank properly handles fraudulent charges to prevent similar harm in the future. \n\nThis unresolved fraudulent charge has caused financial loss and significant stress. I am requesting CFPB intervention to compel Citibank to take responsibility and return my funds. \n\nSincerely, XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1711",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85050"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9525,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/2023, I made a purchase of approximately {$2800.00} from a furniture company using my American Express credit card. The furniture piece in question has had 3 different warranty claims assessed by me against the company, most recently I filed one in XX/XX/2023. The piece has recently broken again and the company is unwilling to issue any kind of refund despite the obvious defect. \n\nI contacted American Express on XXXX XXXX via their support chat to discuss options for a dispute, given the ongoing issues with the furniture merchant. I did not ask to open a dispute, rather to discuss my options and understand their policy on disputes better. I was particularly concerned about the time past since both the original purchase and last warranty claim. I shared these dates as stated above with the AMEX representative and was told I could still file a dispute. I was informed that the date was no problem and AMEX would open and file a dispute with the merchant. At no time did I ask to open a dispute, the agent opened one right away open On XX/XX/XXXX, I received 2 emails in quick succession. One informing me the dispute was opened, and another informing me it was closed immediately after, due to the time period of the purchase and claims. This is in direct contradiction to what I was told by the rep on XXXX XXXX \n\nOn XXXX XXXX, I called AMEX support to ask for more context on the situation. I found the phone agent to be argumentative and aggressive when I asked to simply have more details on the dispute. To summarize, I was told the following by the agent : - The original chat rep never promised to investigate a dispute, only to file one. I asked for clarification on the difference and was not given a definitive answer. The phone rep was also not a party to the chat conversation so I am unsure how we would know the exact phrasing of the chat rep. \n- That the representative did not make a mistake and followed the process for opening disputes. Again, I am unsure how given incorrect guidance on the process is within AMEX support guidelines. \n\nI requested a call-back from an AMEX supervisor and received one on XX/XX/XXXX. The supervisor re-iterated similar guidance as the agent, and appeared to imply that I was in the wrong for not understanding the dispute process. I asked the agent why I am expected to know more about the process than Amex representatives, and he said he would share my feedback as part of the case rather than answering the question."
+}

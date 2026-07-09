@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7934",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91331"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40818,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I lost my wallet and I did not know my GM card was in there at the time and it was used at various locations. XXXX sent me a new card that I place in my personal truck I was involved in a car accident and my truck was left at a shop for a month at that time someone took my card and used it without my permission I sent all the documents pertaining to this issue proof that I lost my wallet and had to get a new drivers license a tracker for my wallet and a new wallet I need your help with this issue I should not have to pay for these charges its causing me to lose sleep and also my credit dropped over XXXX points I need help resolving this please thank you."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11198",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "492XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2835,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "At the end of XX/XX/XXXX, we purchased furniture from XXXX XXXX XXXX for the total of {$3100.00}. \n\nOn the evening of XX/XX/XXXX, we were informed by XXXX XXXX XXXX that they would not be able to deliver our furniture and we would not be able to get a refund at the store. The company had filed for bankruptcy and pointed us towards the legal process instead of offering a refund after reaching out to the parent. \n\nWe promptly reached out to our credit card with Citibank on XX/XX/XXXX and filed a dispute about the charge due to the fact the furniture would not be delivered by the company 's own admittance. A conditional credit was added to our account at the time while they investigated the matter. \n\nOn XX/XX/XXXX, we were told that Citibank had ruled in favor of XXXX XXXX. The delivery date had been listed as XX/XX/XXXX, and so they found the date of delivery had not yet occurred. The conditional credit was reversed, leaving the full amount on our card. \n\nWe reached out to Citbank on that evening, XX/XX/XXXX, and explained the situation. Citibank then went ahead and re-opened the dispute. But they did not add another conditional credit to the card, causing interest to start accruing. \n\nAfter a number of calls where we were assured the issue would be handled within XXXX business days and getting no results, on XX/XX/XXXX we received an email stating that they've resolved the dispute in our favor and our account would be credited. When checked, it seemed as though our balance was indeed normalized. \n\nThe next day, while checking other things on the card, we discovered that the charge had returned to our account and the official resolution had changed from being in our favor to being in the company 's favor. We had not been notified about this nor was a reason given. \n\nWe contacted Citibank. The staff we spoke to seemed to be uncertain what was going on, both telling us that the money was in an account but also saying we owed it. We were once again asked to wait XXXX business days. \n\nOn XX/XX/XXXX we recieved an email about a document stating that XXXX XXXX XXXX had refunded us the money from the original charge to our account. This did not result in a change to how much we owed After receiving the physical statement for XXXX ( and having been charged further interest on this purchase ), we reached out once again. We were told to give them XXXX business days for them to complete an audit on our account. \n\nOn XX/XX/XXXX, our account was updated with the results of Citibank 's audit. It said that we had been charged {$9400.00} and were credited {$6200.00}, meaning we still owe {$3100.00}. This was only learned by personally looking into the account and was not mentioned during a phone call with the company on XX/XX/XXXX. \n\nOn XX/XX/XXXX, we called to ask about this information. We were once again told that we owe the full amount, and that we needed to wait XXXX business days for any action to be done. \n\nIt appears what happened was we were charged for the initial purchase, given the initial dispute credit, charged again when the credit was reversed, and then when XXXX XXXX refunded the amount of the charge, we both got the refund and were also charged for a second reversal credit we never received."
+}

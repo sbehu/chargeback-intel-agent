@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3431",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98502"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13465,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX I had 4 charges to my XXXX XXXX Citi card that I did not make. All charges were made at stores in the other side of the country as well. One was a charge from XXXX for {$250.00}. The other 3 were from XXXX in Ohio for {$300.00}. I went through the Citi fraud process and they will not issue a credit to my account. I have followed all necessary steps to request information on how to resolve this but to no avail."
+}

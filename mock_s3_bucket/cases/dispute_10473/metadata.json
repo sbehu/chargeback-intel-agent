@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10473",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18747,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express is knowingly validating a debt resulting from a Deceptive Trade Practice, in violation of the Consumer Financial Protection Act. \n\nThe Facts : I disputed a transaction from XXXXXXXX XXXX XXXX  ( {$19000.00} ) because the services delivered were materially different from the services sold. Specifically, the merchant advertised XXXX XXXX ' terms, which I relied upon for booking, and denied accommodation of the cat for our stay, without offering a no penalty cancellation. \n\nThe Evidence : The merchant has admitted in writing ( see attached XXXX XXXX ) that the terms displayed to me were the result of a XXXX XXXX ' and were incorrect, that they remained published and active throughout my stay, and that they were changed only after I checked out. \n\nThe Violation : I filed XXXX disputes with American Express for 'services not provided / misrepresentation ' - XXXX XXXX XXXX XXXX Despite being presented with the merchants written confession that the transaction was based on a system error, American Express closed the dispute stating 'services were rendered. ' This ignores the material fact that the contract was formed under false pretenses admitted by the vendor. \n\nConclusion : By validating a charge where the merchant has confessed to a system error, American Express is aiding and abetting a Deceptive Act. I demand the immediate reversal of these charges."
+}

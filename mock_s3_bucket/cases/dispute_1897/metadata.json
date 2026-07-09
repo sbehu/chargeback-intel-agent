@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1897",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "023XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12869,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2021 multiple charges totaling XXXX plus interest and fees for a grand total of XXXX I have made multiple calls to the credit card company and also the collection agencies involved with no results. These charges were made WITHOUT my permission as I was in another place at the time of all these purchases Not my charges!"
+}

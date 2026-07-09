@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5210",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28112"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34478,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Sir/Ma'am, I hope this letter finds you well. \nOn XX/XX/XXXX, I requested American Express to formally dispute the charge of {$910.00} on my American Express account ending with XXXX related to a purchase of an international airline ticket from XXXX. The charge was made for a flight ticket purchased on XX/XX/XXXX, through the XXXX website for a flight from XXXX ( XXXX ) to XXXX  XXXX ( XXXX ) on XX/XX/XXXX, flight XXXX. \n\nMy return flight with XXXX was delayed significantly by XXXX hours, but I received no prior notification about the delay, leaving me unprepared and causing significant disruption to my travel plans. I discovered the delay during my online check-in process. Despite being aware of the delay, XXXX failed to provide timely updates or any communication regarding the situation. \n\nAs a result of this delay, I missed my connecting flight with XXXX XXXX from Washington XXXX ( XXXX ) to XXXX ( XXXX ), which I had already booked. Because of this, I was forced to purchase new tickets with XXXX XXXX for {$370.00} plus {$21.00} for travel insurance, totaling {$390.00}. \n\nFurthermore, I made multiple attempts to contact XXXX 's customer service, but each time I was either put on hold for extended periods or the call was abruptly disconnected, and I was unable to speak with a live agent for assistance. I also lost a full day 's pay from my employer due to the extended delay and having to adjust my work schedule. This added financial burden only further emphasizes the inconvenience and negative impact this experience has had on me. \n\nIn addition to the flight delay, I contacted XXXX via phone and email on XX/XX/XXXX and XX/XX/XXXX, requesting reimbursement for the expenses I incurred. XXXX responded by offering a 20 % discount on a future flight to be purchased from their agent and not online, which I rejected as it did not address my current expenses. Also, I dont want to use their services in the future because they are not reliable, and international traveling is frustrating enough. \n\nAlthough providing all the documents to American Express to show that XXXX didn't honor their promised service and requesting a dispute for the charge and reimbursing me at least the expenses I have incurred during the XXXX significant delay of XXXX hours without a proper notification, American Express denied my request multiple times on XXXX XXXX, XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX I believe that I should be reimbursed due to XXXX 's significant delay of XXXX hours with lack of notification, for a total of {$390.00} to be partially refunded."
+}

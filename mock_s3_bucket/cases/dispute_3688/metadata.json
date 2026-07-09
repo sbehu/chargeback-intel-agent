@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3688",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32712"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36430,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "1. In XXXX I had XXXX XXXX XXXX \" XXXX XXXX XXXX, XXXX rebuild the engine on my XXXX XXXX XXXX XXXX XXXX, but they did not properly repair the vehicle. They only replaced one lifter instead of all lifters, did not repair the valves and replaced a XXXX. Also, I have replaced the camshaft sensor three times since the repair. I paid for the repair with my XXXX XXXX XXXX XXXX credit card. I requested the credit union do a chargeback against the repair shop or hold them responsible to properly repair my truck, but XXXX refused. \n2. XXXX XXXX XXXX XXXX XXXX XXXX was used by XXXX XXXX XXXX when I was XXXX XXXX XXXX XXXX for XXXX  days. She continued to use my card many times after my discharge. I approached her about it, and she promised to make good on the unauthorized purchases but never did, I filed a police report with the XXXX XXXX  police department. My identification was lost/stolen and as a result there were some attempts to open accounts by unknown person ( s ). I am a XXXX XXXX, and she has committed XXXX  XXXX. XXXX XXXX has refuse to go after her to rectify this situation.\n\n3. If you review my credit history, my credit score has not been below XXXX for more than 35 years. In addition, you will see that I have always paid on time or before time with all of my legitimate accounts including my mortgage. I have also paid off another mortgage XXXX  years ago. XXXX has baselessly reduced my credit limit to a mere {$100.00} and refuses to restore my credit limit t to its original level. This is an unfair practice, and no one needs a {$100.00} credit limit it is virtually useless. \n4. XXXX XXXX XXXXXXXX has reduced my combined credit limit by {$23000.00} and it continues to get reduced with every payment. This is again a baseless and unfair practice. By reducing my credit limit with each payment, my credit utilization rate increases and with XXXX  XXXX XXXX and XXXX the utilization rate is now remaining above 90 % when is has always remained under 50 %. This is again evidence of unfair credit practices and needs to be stopped. \n5. Whenever a well reputed debtor has been consistent in paying their debts on time and before time, then isolated incidences of dispute appear on the radar, this is a red flag that something is desperately wrong with a transaction, the creditor treatment, be it interests, reduced limits, pending disputes, or some other issue. This does not mean that a debtor is having financial woes, under duress or strained financially. It may mean as it does in my case that I refuse to pay for transactions that I did not create, and I am not responsible for.\n\n6. Barclay card claims that I owe a specific amount for charges on my card, and I have explained to them that I did not make these charges. I have never been on paperless billing, and I do not receive statements from Barclay, so I am not sure why they haven't rectified this situation as of yet. I am sure this is related to the loss or theft of my wallet and identity theft of my information. This has an adverse effect on my credit score/report and needs to be immediately corrected."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7086",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70785"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3195,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got a notification on XXXX, XXXX from citi bank that they noticed some suspicious activity. I looked at my citi bank app and noticed XXXX different suspicious changes. XXXX was for {$8000.00} dollars, XXXX was for {$6000.00}, and XXXX was for {$2000.00}. I immediately called them and notified them that I DID NOT make those charges. And I told them I wanted to dispute the charges. They told me they would dispute the charges and look into it but that it could take up to XXXX  days. About XXXX weeks later they informed me that I was responsible for the charges. I DID NOT authorize the charges and dont feel like I should be responsible for the charges. \nThe charges on my card was to a company called XXXX out of XXXX XXXX XXXX Ca. \nI googled the company and tried to call XXXX to inquire about the charges and the phone number is disconnect or no longer in service."
+}

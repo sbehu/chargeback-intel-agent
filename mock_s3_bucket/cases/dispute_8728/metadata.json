@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8728",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44113"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1369,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, XXXX XXXX billed my American Express card for a {$69.00} subscription I never agreed to or authorized. I had previously canceled any associated membership and have an email confirmation from XXXX dated XX/XX/year> confirming that the subscription was terminated. \n\nDespite providing that written proof of cancellation, American Express immediately closed my dispute without investigation and without requesting or reviewing the merchant contract. This is an unlawful failure to investigate a billing error under the XXXX XXXX  XXXX  XXXX. \n\nI specifically requested that Amex produce evidence of authorization and they refused. XXXX continued billing after cancellation, which constitutes an illegal negative-option renewal. Amex is enabling this predatory billing practice by rubber-stamping the merchants charge without due diligence. \n\n- I am requesting that the CFPB require American Express to : - Reopen the dispute and actually investigate - Provide the merchant authorization they relied upon - Credit the {$69.00} to my account - Block future unauthorized rebilling Amex advertises strong cardmember protection, but their current dispute handling is customer-hostile. This is part of the enshittification of consumer finance ; card issuers siding with merchants instead of consumers. I am requesting regulatory intervention to enforce XXXX compliance."
+}

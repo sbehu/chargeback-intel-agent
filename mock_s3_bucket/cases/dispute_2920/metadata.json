@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2920",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48141"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29110,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "1- XXXX XXXX XXXX XXXX  XXXX Charged my Card {$23000.00} for No Service Provided. \n2- On XX/XX/year> I Disputed these fraudulent Charges with American Express XXXX Ref. No. XXXX. \n3- On XX/XX/year>XXXX XXXX XXXX Closed the Dispute with no resolution, apparently, American Express relied on False Invoices provided by XXXX XXXX XXXX, for a vehicle that they didn't perform any work on. \n4- XXXX XXXX even refused to provide me with documents to determine the validity of the debt. \n5- XXXX and American Express took advantage of my Old Age, to run this scheme, and deprive me of my right to dispute fraudulent charges."
+}

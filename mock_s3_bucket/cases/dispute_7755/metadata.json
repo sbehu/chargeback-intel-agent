@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7755",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27604"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35831,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I prepaid {$670.00} for the XXXX XXXX on XX/XX/XXXX for an upcoming work trip to XXXX. I used my company 's third-party booking software, which uses XXXX to book the hotel. \n\nAfter I checked out of the hotel, I was charged an additional {$610.00} on XX/XX/XXXX. When I called the hotel to verify what this charge was, they could not provide me any information or documentation on what the charge was for. They sent me my check-out receipt and it showed I owed them {$0.00}. \n\nI then opened a dispute with Barclays for the {$610.00} additional charge to my account. They \" investigated '' and then ruled in the favor of the hotel due to \" evidence '' that was sent over. However, the evidence of services rendered for {$610.00} had the INCORRECT name of XXXX XXXX XXXX from XXXX, XXXX. The letter from the hotel also stated that the Dispute notification was for XXXX XXXX XXXX, not me. However, Barclays took this as evidence that services were rendered to ME for the {$610.00}. \n\nBarclays has been so incompetent and unhelpful throughout the entire process. They clearly did not read the \" Evidence '' provided to them by the hotel, because if they had they would see it proves the {$610.00} charge was meant for XXXX XXXX XXXX."
+}

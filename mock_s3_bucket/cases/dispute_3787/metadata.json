@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3787",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "38116"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7696,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am writing to formally request your assistance in resolving a dispute I have with Wayfair regarding a defective mattress purchased in XXXX. The mattress was intended for my XXXX daughter, who only began sleeping on it independently this summer. After a few months of use, we discovered that the mattress has sunken in the middle and is no longer usable. \n\nInitially, Wayfair accepted my dispute and asked for supporting documentation within 72 hours. However, before I had a chance to gather and submit the necessary documentation, they denied my claim due to the length of time since the purchase. This was despite the fact that the product was unused for nearly 2.5 years, and the defect only became apparent when my daughter started using it. \n\nThe mattress was purchased during the COVID-19 pandemic, and it seems the product was poorly made. I believe I am entitled to a refund or replacement for a defective product, regardless of the time frame, especially given that it was unused for such an extended period. I would appreciate your help in disputing this charge and ensuring that Wayfair addresses the defect in the product they sold. \n\nThank you for your time and assistance in this matter. \n\nSincerely, XXXX"
+}

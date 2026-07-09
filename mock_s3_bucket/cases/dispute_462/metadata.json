@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_462",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "197XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7724,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I ordered an air conditioner from XXXX for {$470.00}. It was marked delivered on XX/XX/2023. It was not delivered to my house, it was shipped through XXXX  and the photo they uploaded was not my house. After contacting XXXX they told me I would need to dispute this charge with my credit card company. I have been disputing this charge since, for a total of 5 months, over and over. XXXX sends them a \" proof of delivery '' which has NO details attached to it whatsoever, and they then close the dispute in XXXX favor. I have provided multiple times, pictures of my house in person ( including the house number ON THE HOUSE ), along with screenshots of my house on XXXX  services like XXXX maps, and in comparison the delivery photo attached to the XXXX  tracking number showing a different house. American Express has continuously refused to look at the proof I have provided, and has continuously closed this dispute in XXXX favor citing that they have provided \" supporting documents '' but only showing the same \" proof of delivery '' page which shows nothing but simple text saying the item was delivered to the property address ( it wasnt ). \n\n\nI have submitted a complaint against the company already and they did NOT resolve the issue, they did nothing other than provide the same INCORRECT information they have been providing to me this entire time. If this complaint can not be resolved this time, I will have no other choice than to take this to court. I will NOT be paying for an item that was not delivered to me."
+}

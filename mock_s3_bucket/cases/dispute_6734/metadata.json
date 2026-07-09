@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6734",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33578"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18985,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My biggest concern is American Express uses non-U.S. citizens to determine dispute status. These employees of American Express do not speak, read or fully understand English. How could a bank representative be expected to make a decision in accordance to Fair Credit Billing Act ( FCBA ) : Merchandise/Services Not Received regulation if they do not understand it. \n\nAs an American Express cardholder I am appalled at the notion of an American Express employee making a decision that a charge for which the goods remain in XXXX, not shipped, or delivered to the cardholder in the United States should be forced to pay. \n\nWhat reasonable explanation could American Express provide for such actions. \n\nXXXX XXXX XXXX XXXX XXXX XXXX XXXX, Florida XXXX XXXX American Express XXXX XXXX XXXX New York, NY XXXX Ref : XXXX Transaction Amount : {$1000.00} Transaction Date : XX/XX/year> Dear XXXX XXXX XXXX For the disputed transaction as listed above. The crucial point is that delivery to a shipping agent doesn't automatically mean delivery to the cardholder. The cardholder is the ultimate consumer and the one who must receive the merchandise to fulfill the merchant 's delivery obligation.\n\nWhen a cardholder initiates a dispute based on non-receipt, the merchant 's claim of delivery to the shipping agent does not resolve the issue. The cardholder 's non-receipt remains the central point of the dispute, and the cardholder retains the right to pursue a chargeback if the merchant doesn't resolve the matter satisfactorily. \nWhile the merchant may have delivered to the shipping agent, that does not guarantee delivery to the cardholder, and the cardholder is disputing based on their personal non-receipt.\n\nThe FCBA provides consumers with protections against billing errors, including being billed for merchandise not received.\n\nThe FCBA allows cardholders to dispute charges for merchandise that was not delivered, regardless of whether it was received by a shipping agent or another third party. \nThe cardholder 's dispute is based on the merchant 's failure to fulfill their part of the transaction by delivering the merchandise to the cardholder. \nDelivery to a shipping agent is a step in the delivery process, but it doesn't absolve the merchant of their responsibility to ensure the merchandise reaches the intended recipient and lack of delivery confirmation to the cardholder 's address is a valid reason to deny a merchant its ability to force a cardholder to pay for goods not received as lack of the cardholder 's signature on any delivery receipt is a requirement. \nThe merchandise was delivered to the shipping agent, not the cardholder, and therefore, the merchant 's obligation was not fulfilled. \nThe specific chargeback is related to \" Merchandise/Services Not Received '' ( e.g., Reason code C08 ). This reason code clearly indicates the basis of the cardholder 's dispute, is that the merchandise was not received despite the transaction being processed.\n\nA cardholder has the right to dispute a charge when merchandise is delivered to a shipping agent but not received by the cardholder because of \" Merchandise/Services Not Received '' claim under the protections of the Fair Credit Billing Act with evidence of their non-receipt. The merchant 's evidence of delivery to the shipping agent doesn't negate the cardholder 's dispute, as the cardholder remains the intended recipient. \n\nRespectfully,"
+}

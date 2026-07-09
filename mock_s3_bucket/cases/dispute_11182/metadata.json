@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11182",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91786"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13856,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchased Computer graphics card for {$1800.00} at bestbuy.com using citi bestbuy card on XX/XX/XXXX. \nReceived Package on XX/XX/XXXX. \nUpon collecting package I noticed the shipping label showed the item was shipped from a \" returns center ''. that seemed odd to me since I purchased a new item and not a used or refurbished one. once I opened the shipping box I noticed the product box inside had one the seals that looked to have been tampered with so I took pictures, when I opened the product box there was a graphics card that was not what I ordered and under that were bags filled with pebbles. I called best buy and the representative I spoke with had me ship the package back to them. I then received the package back several days and on XX/XX/XXXX I received an email from XXXX saying they have concluded their investigation and will not be providing a refund or replacement. I emailed back asking how they reached this decision but I never Received that information. On XX/XX/XXXX I filed a Dispute with Citi for the {$1800.00}, On XX/XX/XXXX I received a letter from Citi saying they are denying my dispute because \" merchandise was provided as intended '' even though it was not. On XXXX I sent a formal appeal letter to Citi with Emails and photos of package I received and asked for information as to how the denial decision was reached since the investigation appeared to have relied solely on information from Best Buy, which did not adequately address the tampering or mismatch. The denial reasoning does not refute the evidence of substitution or damage in transit/prior handling. On XX/XX/XXXX I received another letter from Citi denying my dispute once again but this time because they \" unable to identify or determine that a billing error occurred. '' Now citi is directing back to best buy even despite my prior attempts to fix the issue with best buy."
+}

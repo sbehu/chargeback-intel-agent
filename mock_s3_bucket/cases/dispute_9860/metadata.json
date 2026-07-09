@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9860",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11210"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11005,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased goods from the merchant under Invoice # XXXX for a total of {$4100.00}. The items purchased were XXXXXXXX XXXX XXXX XXXX XXXX ( {$1200.00} ), XXXX XXXX XXXX XXXX ( {$1500.00} ), and XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ( {$1300.00} ). \nI did not receive any of the items. XXXX days after the purchase, I contacted the merchant to request tracking information or confirmation of delivery but did not receive a response. \nI later received an email from the merchant stating that the items were no longer available, that they accepted the loss related to the dispute, and that no further action was required from me. The merchant advised me to contact my payment provider regarding the refund. \nI submitted all supporting documentation, including the invoice and the merchants written confirmation, to American Express. Despite this, the dispute remains unresolved, and I have not received the goods or a refund."
+}

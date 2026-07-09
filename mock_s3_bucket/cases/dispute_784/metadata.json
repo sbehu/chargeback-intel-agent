@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_784",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1960"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32778,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was double charged for an excursion by the hotel. This was finally resolved, however, one of the amounts remained on my credit card so I reached out directly to the Hotel Manager who tole me I was owed a credit of approximately XXXX euros. I have this in writing and have been dealing with Barclays for over 2 months on this matter and they have not been able to resolve it, nor can they call me due to something they claim is Robo calls which is irrelevant. The bottom line is after speaking to 2 rude individuals I have closed this Master Card completely. They have not responded to multiple emails I have sent them with the correspondence from the Hotel Manager and have not resolved the difference on my Master Card which is approximately {$100.00}. Your assistance is greatly needed to resolve this matter."
+}

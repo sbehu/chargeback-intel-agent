@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3560",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "75088"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41506,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "See previous complaint # XXXX that was closed after Barclays responded . In their response they provided a credit application with a scribbled line representing my signature. This is a falsified/fraudulent document. My personal information has been used to apply for credit that I didnt authorize. I sent Barclays another letter dated XX/XX/year> explaining that I didn't complete the document provided. And according to a billing statement I received, the transaction on the credit card represents \" Wyndham XXXX XXXX XXXX' from XX/XX/year> for {$4100.00}. I didn't authorize this purchase. I requested a contract/installment agreement/Truth in Lending statement or something that will evidence my approval of this purchase. As this is fraud, I took the liberty of reporting this incident and improper use of my personal information to the XXXX XXXX police department as Im sure it will be needed to further their investigation. The report number is XXXX."
+}

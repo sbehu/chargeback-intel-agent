@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3986",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48227"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40767,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX On XX/XX/XXXX, I paid my Best Buy credit card, which is financed by Citibank {$3300.00} leaving a XXXX ( {$0.00} ) balance. My XXXX statement showed a XXXX ( {$0.00} ) balance. I made no other transactions or purchases or renewal approvals after XX/XX/XXXX with my Best Buy credit card. On XX/XX/XXXX I received an email from Best Buy that my XXXX cyber security product would be renewing. On XX/XX/XXXX, I called and emailed Best Buy and said I don't approve this renewal charge. Please credit my account the {$49.00} and any interest that may have accrued with this charge. I asked to have my account credited the full amount of the renewal amount. I received another email in XXXX charging me {$52.00} for the XXXX cyber renewal. I called customer service again and filed a dispute of the charge. On XX/XX/XXXX. I talked to Best Buy Several times and was told this matter was handled and I no longer owed this debt, and the dispute has been approved. On XX/XX/XXXX, I received a letter stating they received my inquiry regarding the transaction ( s ) made at XXXX XXXX. Dispute Amount Transaction Date {$52.00} XX/XX/XXXX. 'We issued a credit to your account for the above amount ( s ) and adjusted any associated fees and interest charges. These will appear on your statement within XXXX billing cycles. We now consider this matter resolved and have completed our investigation. Any amount placed in dispute status has been removed ''. I continued to see this charge on my account, receiving several calls from XXXX XXXX demanding payment of {$52.00}. I continued to call XXXX XXXX and continued to tell XXXX XXXX that I didnt owe this debt. On XX/XX/XXXX, I spoke with XXXX XXXX again trying get this charge off my account. I was transferred to the XXXX XXXX and was told they could pro-rate the charge and take {$40.00} off the {$52.00} and I'd have to pay {$12.00} because I did not request the cancellation in XXXX. I declined the offer because I do not owe this debt and want it to be eliminated from the account. Now, XXXX XXXX has XXXX my credit limit from {$8000.00} to {$380.00} and reported me as delinquent to the credit bureaus and as a result my credit score has been reduced by XXXX points with some agencies. I have been a loyal continuous Best Buy customer for over XXXX  years. I had XXXX balance and an {$8000.00} credit limit and if I had approved this renewal. I would have paid the {$52.00}. Also, in looking at my account, every statement is available to view except the month of XXXX, which is the month in question of the purchase. The fact that my credit score has decreased after years building my credit, has ruined my credit and increased any interest rate I would have to pay if I needed to secure more credit, for anything. I want all of this to be reversed and for Best Buy and Citi Bank to rescind the negative entry into the credit agencies and help to restore my credit score to which my XXXX score has dropped XXXX points of what it was before the negative entry."
+}

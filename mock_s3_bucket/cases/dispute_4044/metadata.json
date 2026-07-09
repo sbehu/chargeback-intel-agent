@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4044",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "79904"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40440,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a reservation originally made for XX/XX/XXXX to XX/XX/XXXX with this hotel called \" XXXX '' located in XXXX, TX ( a remote small town in XXXX Texas ). Their website was not functional at the moment of reserving, so it booked from the dates of XX/XX/XXXX to the XXXX. I talked this out to one of their front desk agent whom was very polite about the situation and told me no issue they would refund me for the night of XX/XX/XXXX after they had sold the room. They have a \" cancel before 72 hours '' policy however I did notify them about this issue well in advance. It is just now that they are trying to cover themselves with such policy. However they did not even announce the room in question and did not even make an attempt to \" sell it '' even though the hotel is often booked. This is when I realized there was no intention of even refunding. \nWhen I filed my dispute with American Express, they even sent out some timestamps showing when I came in and came out last time of the hotel. It even shows I left on XX/XX/XXXX. \n\nI am being charged over a pity negligence, I wished American Express had helped me on this matter as the company kept sending random predatory calls from random XXXX surroundings numbers. It is just a dispute for one night, {$210.00}. American Express no longer wants to intervene as I lack \" Signed documentation from the merchant promising a refund ''."
+}

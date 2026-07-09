@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8628",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11758"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48680,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "SECOND MAILING ON XX/XX/XXXX THIRD TIME SENDING THIS XX/XX/XXXX THIS IS THE FOURTH TIME SENDING THIS XX/XX/XXXX COVER LETTER ATTENTION BARCLAYS XXXX XXXX DEPARTMENT CASE # ( see attached document ) This is a request to file a fraud claim on both accounts identified below. I have called XXXX times since XX/XX/XXXX to file these fraud reports and finally was provided directions from a fraud investigation representative of the steps I need to take. \n\nAccounts Being Report and Currently Under Investigation by XXXX XXXX Police Department XXXX Credit Card XXXX XXXX Credit Card XXXX Enclosed you will find statements in which each fraudulent charge has been highlighted/circled. \nA copy of the police report was provided on all previous submissions of this information on XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX. \n\nThank you for your timely investigation with this. If there are any questions I can answer or additional information needed please contact me. \n\n\n\n\n\n\n\n\n\n\n\nACCOUNT ID ( see attached document ) CASE # ( see attached document ) Note : A few of the transactions I highlighted were made by a non-authorized user. Detectives had suggested I reach out to merchants as I identified fraudulent charges as I was hoping to support these timely efforts. I spoke with representatives at the following locations XXXX who specifically called me back to confirm they identified their client and that it is not any user from my cards and they are willing to speak to Barclays and the Detectives regarding this misuse of my credit cards/fraud/stolen identity. I was informed by representatives that their client, Destiny Boulougne, was using my credit card without my knowledge or consent. I did not know this woman. \n\nXXXX XXXX XXXX ( XXXX ) XXXX Charge Date XX/XX/XXXX Charge Amount {$390.00} Spoke with XXXX who check their cameras and stated they identified the client and have a name to report of who used my credit card fraudulently/unauthorized XXXX Lashes XXXX XXXX ) XXXX Charge Date XX/XX/XXXX Charge Amount {$96.00} XXXX Charge Date XX/XX/XXXX XXXX Charge Amount {$84.00} Called and left voicemail. Received call back they ask the police or Barclays XXXX XXXX XXXX XXXX ( XXXX ) XXXX Charge Date XXXX Charge Amount {$140.00} Called and left XXXX voicemails XXXX XXXX ( XXXX ) XXXX Charge Date XX/XX/XXXX Charge Amount {$140.00} Spoke with owner who said XXXX check cameras and ask police/Barclays call Owner provided this cell phone number to contact too ( XXXX ) XXXX All statements included are circled for ALL of the fraudulent/unauthorized charges and examples of identity theft however the above I was able to make contact with myself and they were willing to engage in some conversation. Other merchants said they must hear directly from Barclays XXXX XXXX and/or the police. \n\n\n* * Can provide a copy of the police report as well if that helps"
+}

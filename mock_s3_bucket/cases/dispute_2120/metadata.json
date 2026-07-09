@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2120",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75204"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10282,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have AMEX XXXX XXXX since XXXX  ; I use it for thousands of transactions, around XXXX per year. this is my second dispute with them for a charge, and they didn't treat me fairly and failed to resolve it I used the Amex card for a car rental XXXX  in XXXX XXXX  ; I also have car rental insurance for any repairs, which is the main reason I used the Amex card because of its repair insurance The XXXX XXXX XXXX XXXX  provided me with a damaged car, which wasn't apparent at first. After a few days, it stopped in the middle of XXXX 's busy streets while I was traveling,. It took them 10 hours to get me a new car, and I had to pay out of pocket to pull the vehicle to a safe place when I had to cancel my travel arrangements for which I rented this car. \nAt the airport, they claimed there was a scratch on the latest car, which was not true as the car was all scratched when I received it and was noted on the inspection. I disputed the charge and signed the dispute I paid for the repair upfront, but XXXX XXXX never delivered proof of repair, so I disputed the charge ; Amex said it was a legit charge despite the merchant never providing the proof of repair, which he claimed and took upfront money. \n\nI filed with Amex Insurance to refund the money, as Amex 's credit card declared it a legitimate charge despite the merchant 's failure to provide proof of repair. However, Amex Insurance refused to refund the repair money as they didn't accept that it was a legitimate charge and wanted proof of repair. \nI spoke to XXXX for the Amex card and said to XXXX from the Amex insurance department, and both didn't find a resolution as the insurance is not accepting the charge as legit. \n\nI am complaining against Amex Insurance for having their insurance policy a scam as they are not accepting to refund me the money despite Amex the card accepting it as a legit charge for repair. \n\nI am complaining against Amex card for not providing scam protection and for providing a scam car rental insurance with the card as they didn't refund me the repair money despite accepting the charge as legit and didn't refund me the other charge of car rental as the goods delivered which is the car was damaged and caused danger to me by sudden stopping in the middle of the street before my travel"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2007",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49474,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have an account with Best Buy. XXXX XXXX, I made multiple purchases using my Best Buy credit card. One of the purchases was a cell phone. Best Buy advertised a rebate of {$25.00} in exchange for my phone. I gave the receptionist my phone. She charged my card {$25.00} for a rebate that she should have applied a refund to my account. Both of the store managers were exceptionally rude and refused to address and or resolve the matter. Since that time, Best Buy has 1. Changed their promotional offers and sent me a bill this month that included a fee of over {$120.00}. THey escalated the terms of payment. 2. They have yet to provide me with an explanation and or correction of the {$25.00} charge. 3.Instead of sending me a plain print out of charges, they sent the amount and not the item purchased. It is difficult to verify charges. The charges/fees that they charged this month ( are over {$120.00} ). That fee is retaliation for my expressing concerns to them about the transactions and the managers and about their practices. 4.During the course of all of this, I made a discovery of Best Buy surveillancing my devices..I pay them for XXXX and a membership. When apps are not functioning and I saw a device that was used to remotely manipulate my devices, I am now facing a situation where the trust factor has been lost. XXXX. I have issue with the fees and interest that they suddenly applied although I have been making more than the minimum payment for months. I request a full investigation into every charge and transaction. 6.They suddenly changed the terms of the agreement of my membership and this month arbitrarily began charging me for a home visit by the XXXX XXXX XXXX after their on line staff was unable to remotely connect a brand new printer that I had just bought from Best Buy to my devices. I returned the printer and they refused to credit my account. They forced an instore credit to be issued."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10368",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "088XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31449,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays card responded to my initial complaint about fraudulent charges in XXXX of XXXX. They acknowledged and began correcting fraud charges. There are {$1100.00} dollars in unresolved charges that they are nearly identical to resolved charges that they say are my responsibility. They have issued the fraudulent party new credit cards even after I identified the fraudulent activity. I get boiler plate responses that seem to be auto-generated and I am not allowed to speak with the actual investigation department. I have to try to piece together all the things they tell me when I'm on the phone with them in a letter and mail it to them with supporting documentation. They have on several occasions, as recently as XX/XX/XXXX, said they agree with me and credited all the charges and then I get a new statement with them back on it. I have paid them more than I owe at this point and continue to pay as they are reporting me as non-payment on the disputed amount and it is ruining my credit score. It is apparent that the charges are fraudulent even to them since they already credited duplicate charges from the same time and locations. I can pay the disputed amount, but they won't remove the negative comments it's already created on my credit report."
+}

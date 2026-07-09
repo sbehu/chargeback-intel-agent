@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9950",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8968,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint against American Express for failure to conduct a reasonable investigation and improper handling of a billing dispute under the Fair Credit Billing Act ( FCBA ). \n\nI disputed a charge of {$2600.00} from XXXX XXXX XXXX XXXX WEB related to an international airline ticket. American Express denied my dispute solely based on the merchants assertion that the ticket was voluntarily canceled, without addressing whether I provided informed consent or whether the merchants policy was fairly disclosed and reasonably applied. \n\nThe cancellation occurred after I contacted the airline to inquire about available options due to unavoidable circumstances. At no point was I clearly informed that this inquiry would be treated as a voluntary cancellation resulting in the forfeiture of nearly the entire ticket value. No reasonable consumer would knowingly cancel a {$2600.00} international flight within XXXX hours of booking with the understanding that over 90 % of the fare would be retained. \n\nAmerican Express accepted the merchants statement without requiring proof of : Explicit consent to a non-refundable voluntary cancellation Clear disclosure of refund consequences at the time of cancellation Evidence that the fare rules were meaningfully presented and agreed to The airline refunded only {$220.00} while retaining the remainder of the charge, which I believe is disproportionate and unfair. American Express did not provide a written explanation addressing these concerns, nor did it demonstrate that it independently evaluated the fairness or adequacy of the merchants evidence. \n\nBy relying exclusively on the merchants unsupported claim and rebilling the charge, American Express failed to meet its obligations under the FCBA to conduct a reasonable investigation and protect the cardholder from unfair billing practices. \n\n\nSupporting details They are XXXX disputes opened in AMEX, Total amount = {$10000.00} Dispute Reference : XXXX Transaction Amount : {$2600.00}, Total amount for XXXX tickets is {$10000.00} Merchant : XXXX XXXX XXXX XXXX WEB Partial refund issued : {$220.00} Remaining amount rebilled without adequate investigation"
+}

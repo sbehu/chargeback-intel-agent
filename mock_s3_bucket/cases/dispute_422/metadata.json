@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_422",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10583"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31974,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was planning a trip to XXXX, XXXX when XXXX and leg problems developed I went to primary doctor on XX/XX/XXXX who gave me meds for pain and inflammation After a week I still was in pain and hardly could walk I went to XXXX XXXX XXXX to see orthopedist My trip was XX/XX/XXXX return XX/XX/XXXX I received a NOT FIT TO FLY from hospital and primary doctor No flying due to ongoing physical Therapy to mid XXXX Attached is NOT FIT TO FLY certificate XXXX was travel platform I bought ticket after asking me to wait and month and then they extended to possible 3 months for airline to respond (! ) This is like COVID days where airlines wanted \" long float, interest free loan '' for tickets held"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5937",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92111"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24164,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX 2025, I contacted Citibank to report the unauthorized charges. During my call, I explained that I had not used the card in over a year and could not have incurred the charges in question. I was assured by your Fraud Department that an investigation would be opened and that I would receive a written notice detailing the results.\n\nDespite following up with Citibank twice, I have not received any correspondence or outcome from your fraud investigation team. During these follow-up calls, I also made it clear to your representatives that I would not agree to pay the disputed charges until a proper investigation had been completed and I was informed of the findings.\n\nTo add to my concern, I have now received a letter from Citibank implying that my XXXX Citibank account, which I have held in good standing for many years, may be cancelled if I do not pay the disputed amount related to the Double Cash card. This feels not only retaliatory but deeply unfair given the circumstances and lack of communication by Citibank."
+}

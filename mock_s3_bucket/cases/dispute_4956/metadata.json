@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4956",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33308"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9881,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Unauthorized charges on CITI credit card. \nCharges : {$360.00} XX/XX/XXXX - XXXX : Disputed XX/XX/XXXX Security Credit issued XX/XX/XXXX {$54.00} XX/XX/XXXXXXXX XXXX XXXX Disputed XX/XX/XXXX Security Credit issued XX/XX/XXXX {$2700.00} XX/XX/XXXX XXXX XXXX Disputed XX/XX/XXXX NO CREDIT ISSUED"
+}

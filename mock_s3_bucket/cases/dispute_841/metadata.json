@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_841",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33434"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27584,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX 2 airline tkts were charged to this card. On XX/XX/XXXX the tkts were cancelled and supposedly refunded to the card in the amount of {$1200.00} X 2 = {$2400.00}. I have transaction # 's XXXX and XXXX given to me by XXXX XXXX XXXX  for the refund. Barclays Bank keeps saying they havent received and will not do anything about locating the money. They even spoke to XXXX  to obtain ALL the info including ticket # 's, refund transaction # 's etc verifying the refunds were issued from their end and Barclays refuses to acknowledge or locate my money and post it to my credit card account. I disputed the charges, spoken to managers and supervisors to no avail. \nTHIS WAS AN electronic transaction... It has to be traceable and no one is helping me resolve, especially Barclays Bank"
+}

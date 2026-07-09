@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3555",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80233"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19970,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have XXXX expenses on my bill that weren't mine. I asked them to cancel. XXXX  they helped me cancel. Then they lowered my credit card limit and gave me the money I had canceled. Not only did I have a lower credit limit, I owed them money. I wondered why. My XXXX XXXX was very low by this company."
+}

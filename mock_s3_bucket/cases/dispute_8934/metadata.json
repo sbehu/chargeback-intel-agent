@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8934",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "45431"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39856,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX a charge was made from XXXX on our Citibank credit card for {$3200.00}. Citibank flagged it as fraud XXXX. I was not aware it was a scam at the time, but was aware of the charge as XXXX had promised it would be refunded by 90 days. When Citibank told us it was fraud our card was cancelled ending XXXX and new one issued ending in XXXX. Citibank said if the credit came in it would go to new card issued. I called XXXX and they said that it would be issued by XX/XX/year>. As of today, XX/XX/year>, it has not and I am presently unable to reach the Booking company. I am now sure that it was a fraudulent company as after many attempts I can not reach them and when I was able to speak to someone they requested more money to get my refund. It was a different story every time. \nThe above issue is the first problem. The second issue is that Citibank credit card now has the wrong balance. They have a duplicate charge of {$3200.00} that became part of total balance on new card number sometime on the XXXX or XXXX statement. I have disputed it numerous times. The confirmation number XXXX. The last person I spoke to was XXXX and the confirmation of conversation is XXXX on XX/XX/year>. Prior to this I spoke to a dozen people and received the run around and it appears no one is solving the issue of duplicate charge or prior scam. My balance is over {$7500.00} approximately and I have only charged approximately {$1000.00}. The original charge of {$3200.00} is a scam charge I feel I shouldn't have to pay. The second charge is of {$3200.00} is a duplicate charge I never consented to. I have kept a written timeline of all events and conversations and have the records of everything discussed above that I can provide."
+}

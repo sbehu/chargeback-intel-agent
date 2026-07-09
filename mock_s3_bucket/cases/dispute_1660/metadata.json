@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1660",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "914XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27013,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a charge made on my card on XXXX on my card at XXXX XXXX  for {$1000.00}. I did not use that card at the time and was not checking it. I disputed the charge in XXXX when I saw it I called and opened a claim telling them it was not me. \nThey supposedly did an investigation and said the charge was me and put the amount back on my card. I called and disputed it again. Told them to send me a signature proof or images of me making the purchase since I was physically not possible for me to be at this location to make the purchase and it was not mine. \nThey said they would look into and and I just received my statement and they put the amount back. \nIts not me. What can I do"
+}

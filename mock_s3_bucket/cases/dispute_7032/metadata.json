@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7032",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32703"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12678,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Best Buy XXXX XXXX XXXX XXXX : Formal Complaint Regarding Unauthorized Charges. \n\nDear XXXX, I am writing to formally express my dissatisfaction with the ongoing issues I have experienced with Best Buy XXXX XXXX customer service and the repeated unauthorized charges on my XXXX  card. \n\nOn XX/XX/year>, I was charged for a XXXX subscription that I neither signed up for nor authorized. Despite my efforts to resolve this matter, I have been continually billed for this subscription each year, including the most recent charge. I have contacted the support team multiple times, and each time I was assured that the charges would be refunded and that the subscription would be canceled. However, XXXX months later, the same fee reappears on my XXXX card statement. \nThis recurring issue has caused me significant XXXX and inconvenience. Each interaction with the customer service has involved being bounced around various departments, often resulting in hours of wasted time, without a permanent resolution. I find this level of service unacceptable, especially given the repeated assurances that the problem would be resolved. \n\nThank you for your attention to this serious matter. \n\nSincerely, XXXX XXXX"
+}

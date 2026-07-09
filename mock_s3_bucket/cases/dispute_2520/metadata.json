@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2520",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97526"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21082,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, A fraudulent charge of {$87.00} was made to my account. I notified Citicard & they reversed the charge. On XX/XX/year> I rec 'd a letter stating that \" merchant provided documentation confirming merchandise was delivered to my home address '' & that they were reversing the credit. I contacted the disputes department many times to argue my case but nothing happened. I finally wrote to the Consumer Service Team with the following information : This company \" XXXX XXXX XXXX XXXX '' sells Specialized parts for mountain bikes on line. I pointed out that I'm a XXXX XXXX XXXX woman! In addition the 'confirming documentation ' shows the following : \" Delivery date : NOT AVAILABLE, and XXXX : N/A, There was no delivery. On the basis of this evidence, on XX/XX/XXXX they credited my account for {$87.00}. HOWEVER, they failed to remove the interest and penalties that had accrued since XXXX. The balance is now over {$110.00} & increasing by over XXXX  XXXX. And because of this 'non-payment ' my XXXX XXXX has gone down over XXXX points. There should have been no late payments or fees while the purchase was in dispute, and it should not have been reported to the credit bureaus as late payment.while in dispute."
+}

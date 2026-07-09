@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2168",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11211"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49681,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX, I received XXXX fraudulent charges across XXXX different credit cards from XXXX different vendor accounts. All told I was assessed {$18000.00} for charges I did not authorize : * AmEx Platinum Card * {$340.00} from XXXX ( XXXX XXXX XXXX ) * {$11000.00} from XXXX  XXXX XXXX XXXX XXXX  ( XXXX XXXX ) * AmEx Corporate Card * {$5600.00} from XXXX XXXX XXXX XXXX ( XXXX XXXX  ) * XXXX XXXX XXXX * {$360.00} from XXXX I immediately contacted each credit card company to dispute these fraudulent charges. Both card companies issued me new cards and initiated fraud investigations. \n\nAfter an initial investigation, the charge to the XXXX AmEx account was confirmed as fraud and the charge was reversed. However AmEx has repeatedly refused to confirm the other charges to the XXXX card as fraudulent. Instead they keep re-billing those charges to me. \n\nTo justify this theyve provide documentation from the fraudulent vendor ( s ), however the documentation ( attached ) has no substance. For example the \" receipt '' they provide has a description that simply reads any amount ( in XXXX ). My signature is not on it ( despite their claims ), there is no itemized bill, no evidence of any goods or services actually provided. \n\nAll AmEx repeatedly tells me is that since a chip card was used, it cant be considered fraud. This is clearly an incorrect assumption and a flawed policy that those committing the fraud are exploiting. AmEx should be held accountable for having a business relationship with these fraudulent vendors. \n\nAt the end of the day these are unauthorized charges, even though a chip card was present. AmEx advertises XXXX liability for unauthorized charges and they should abide by their promises."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1618",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10033"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23346,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, In XXXX I signed up for an AAdvantage Aviator Red Mastercard. It was to be mailed to me but I never received it. Someone intercepted my mail and used the card for XXXX charges : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  {$2100.00} XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX C {$16.00} I received an email notice about the charges and I immediately called the credit card company to let them know that I never received my card and that this was fraud. I spoke with the fraud department and they immediately canceled the card, reversed the charges, and sent me a new card. You will see this reflected in the XXXX attached statement. \n\nIn XXXX I used my new card for XXXX purchase - you will see that reflected in the XXXX statement where the old charges were still not appearing. \n\nIn XXXX, suddenly the charges reappeared on my new credit card account again. I again immediately called and spoke to another member of the fraud department and they said that they decided that it was not fraud and are charging me for the purchases I did not make. You will see this and the {$150.00} interest charge they're suddenly charging for this purchase ( which by law shouldn't be happening during an investigation ). \n\nI reported again that I didn't have the card in my possession. They said they texted and emailed me about the charges at the time of purchase and they were approved. I informed them this must be identity theft because I never received any such email/text notices ( and I have received other notices from them which is why this is very suspect ). What is most concerning is that someone was able to open an account with my personal information which is terrifying. I've since changed all of my passwords online and bank cards etc to address this possible identity theft, and they said they'd issue another fraud investigation and get back to me in 30 days. \n\nI paid off the charge that I made in XXXX with the new card, but refuse to pay anything to do with the fraudulent charges from the old card that was never in my possession. It's now been over 30 days, and the charges are still on my account and somehow accruing interest, and I've received no information or contact from them in any form. \n\nI do have a case claim number they gave me and I've simply been told my case is \" pending '' - XXXX Please help me remove these fraudulent charges and get this Barclaycard company to be responsible to their customers and for their internal inadequacies. I'm not sure what else to do but this is quite a large sum of money that I don't have and I need to resolve it. I pay all of my credit cards on time and have never had any issues like this with any other credit card companies. I'm not sure what else to do. \n\nThank you! \nXXXX"
+}

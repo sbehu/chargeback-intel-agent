@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9058",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80123"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18568,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The fraudulent charge occurred on or about XX/XX/XXXX Amex reversed my valid dispute and reinstated the {$2600.00} charge in XX/XX/XXXX I am the victim of a well-documented XXXX scam by XXXX XXXX XXXX ( XXXX, NY ) XXXX \n\nOn or about XX/XX/XXXX, a telemarketer called me and spent over XXXX hour flattering me and stating that inclusion in their directory was free and merit-based. \n\nOnly at the very end did they switch to high-pressure sales, demanding {$2600.00} for a lifetime membership + plaque and claiming the one-day-only price would expire that night if I didnt give my card immediately. \n\nI felt coerced and provided my American Express card. The {$2600.00} charge posted the next day. \n\nI disputed the charge immediately with American Express. \n\nAmex initially sided with me and reversed the charge, correctly recognizing it as fraud. \nHowever, after XXXXXXXX XXXX XXXX submitted rebuttal documents ( likely a scripted recording or order form obtained under deception ), Amex reversed their decision and reinstated the full {$2600.00} charge to my account without adequately investigating the merchants long history of identical scams. \n\nThis merchant has : A XXXX XXXX XXXX rating with dozens of complaints describing the exact same XXXX minute flattery sudden {$2600.00} hard-close script Been labeled a XXXX scam by XXXX, XXXX, and hundreds XXXX consumer reports Uses tactics that violate the federal Telemarketing Sales Rule ( 16 CFR 310.3 misrepresentation and artificial urgency ) I have already submitted a detailed appeal to American Express with : A signed affidavit/timeline of the fraudulent call XXXX  complaint screenshots XXXX XXXX XXXX scam article FTC XXXX report # XXXX State Attorney General complaint ( filed XX/XX/XXXX ) American Express is failing in its XXXX XXXX protect cardholders from known fraudulent merchants by siding with XXXXXXXX XXXX XXXX despite overwhelming evidence XXXX deception. \n\nI request that the CFPB require American Express to : Permanently remove the {$2600.00} charge Issue a full credit to my account Provide a written explanation of why they initially reversed the charge, then reinstated it against clear evidence of fraud"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7326",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "351XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29885,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or about XX/XX/year>, my company was a victim of identity theft. A business line of credit with American Express XXXX XXXX was established in the name of XXXX XXXX XXXX, XXXX without my knowledge. The amount that I have been told that was submitted for a line of credit is {$77000.00}. I was not aware of this debt until I started getting phone calls from American Express requesting payments. I have never received anything by mail concerning this debt. I was told on the phone that it was a loan for 3 months and was to be paid by the end XX/XX/year>. I have talked with American Express Fraud Department, and I have filled out an ID theft affidavit and started proceedings to get this resolved. At this time, I have only ever had an American Express credit card in my business name and never any other account with American Express. Any help with this matter would be much appreciated."
+}

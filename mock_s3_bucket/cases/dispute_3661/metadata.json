@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3661",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1821"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21706,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a phone call from Citi Card in XXXX asking me if I did certain transactions as they were concerned about Fraud. I verified the transaction that I did not do and they reversed them and sent me a new Credit Card. In error they reversed a transaction from XXXX XXXX that was authorized. I called the Citi Card on XX/XX/XXXX and spoke with XXXX, Explained that the amount of the Oil bill shows paid for {$910.00} but the oil company did not receive the funds. She gave me a Case # XXXX and I thought that was going to be the end of it. On my XXXX statement I noticed I was credited for {$910.00} which would have offset the charge in XXXX but then I was charged twice under purchases. I called on XX/XX/XXXX and spoke with XXXX and asked for a supervisor which I supposedly got XXXX which gave me a phone # to XXXX XXXX XXXX and said i have to speak with them. I called and was told someone would call me withing 5-7 business days. I did not hear from anyone and when I received my bill for XXXX I noticed I was credited for {$910.00} and them charged for {$910.00}, so I am still being charged for one extra {$910.00}. I called again on XXXX XXXX and was transfered to the billing dispute dept. by XXXX. I spoke with XXXX and he assured me I would get Provisional credit again for the amount and the interest which I did for {$910.00} and XXXX. I was also charged the {$910.00} again under purchases. I called again on XXXX XXXX and spoke with XXXX, when I got my XXXX bill and saw I was charged again. She suggested I call and order an Audit on my account. I called and they said I would need to be available for any questions during the audit. I was going out of the country for 3 weeks and I said I would call when I got back. I called On XX/XX/XXXX and spoke with XXXX that said the audit would take a week to 10 days. Did not hear anything, called back XXXX XXXX spoke with XXXX she transferred me to Supervisor XXXX and told me I needed to go online and I could see the progress. I told him I don't want to go online I want an answer. He said he could not do anything for me!!!!! I called again on XX/XX/XXXX and spoke with XXXX who transfered me to a supervisor XXXX He agreed I was charged twice and that I would see the credit on my next statement. Well ofcourse I did not. I called again on XX/XX/XXXX spoke with XXXX and she was going to expedite investigation on case appeal. I would receive an update in the mail from XXXX?? I have finally had it and called XXXX XXXX but they just sent me an email saying to contact you. I am beyond frustrated and don't know what else to do. I hope you can rectify this for me."
+}

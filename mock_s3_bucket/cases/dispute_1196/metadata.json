@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1196",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20901"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7841,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have unauthorized charges on XXXX of my American Express cards from a merchant called XXXX XXXX, XXXX NY. There are XXXX charges, dated XX/XX/XXXX through XX/XX/2023, totaling {$95000.00}. I do not recognize this merchant nor did I purchase or receive goods or services in those amounts. I opened XXXX fraud cases with American Express on XX/XX/XXXX. As of XX/XX/XXXX, the claims have been denied and closed with no explanation or supporting documentation, no contact information, and no appeals procedures. I have repeatedly contacted the AMEX Account XXXX XXXX at XXXX, but no one has been able to provide the information that I need. My AMEX case numbers are : XXXX for the account ending in XXXX, and XXXX for the account ending in XXXX. Both claims are in my name as the primary account holder ; my wife, XXXX XXXX, is listed as the secondary account holder on both accounts."
+}

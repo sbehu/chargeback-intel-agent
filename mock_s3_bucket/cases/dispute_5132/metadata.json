@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5132",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "HI",
+    "complaint_zip": "96789"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11271,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "the XXXX of XXXX a purchase was made for an XXXX cruise worth XXXX. I noticed it about a week later and disputed the claim onlineXXXX  and XX/XX/year>. They said they would investigate the issue. I did not hear anything back and the dispute was not resolved. I called again XX/XX/year> to dispute the charge over the phone and to cancel my card. I had heard nothing back and though it was disputed. They had not sent me a letter with the disputed information as they said they would provide. I had also gone on XXXX and have heard nothing. When i checked XXXX, the dispute had failed, I had late fees and my card was not cancelled or was I contacted. I have taken a credit score hit, late fees, and still have the charge. I do not know the way forward"
+}

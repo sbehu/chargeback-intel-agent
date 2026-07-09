@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4960",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ND",
+    "complaint_zip": "58078"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21143,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX I logged into my Citi Bank XXXX to view my balance and pay the {$99.00} bill for my credit cards annual fee. Upon logging in, I noticed a XXXX balance transfer was initiated on XX/XX/year>. I did not request this balance transfer. \n\nOn XX/XX/year> at XXXX XXXX I called Citi credit card XXXX XXXX XXXX ) department and reported the transaction as fraudulent. They informed me that the balance transfer sent to a checking account, which I did not open, with Citi Bank in my name. Then a couple days later {$7200.00} of that balance was transferred again to another Citi Bank account to an individual I do not know. \n\nI then called Citis Banks Banking fraud ( XXXX ) department on XX/XX/year> at XXXX ; XXXX XXXX and reported the checking account that I did not create as fraudulent and had the account blocked. \n\nSince then, I have called Citi Banks credit card fraud department on XX/XX/year> at XXXX XXXX to confirm that theyd submitted my credit card fraud claim as it wasnt showing as a disputed charge in my app. They informed me that it would now show as disputed because a new card had been issued."
+}

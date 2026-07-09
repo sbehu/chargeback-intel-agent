@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7439",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "335XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36900,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'On XXXX I purchased 31 rechargeable under cabinet lights on XXXX  XXXX web site. \\nThis product was advertised on XXXX. \\nI ordered the lights and waited for three weeks for some type of shipping confirmation. \\nI contacted the seller and they said that we did not have any orders on their website from XXXX XXXX. I gave them the confirmation number and information and they never responded. \\nWe contacted our credit card company, Barclays, XXXX XXXX XXXX. DE XXXX by phone. Barclays stated that they would remove the charge. They never did remove the charge. \\nUpon request from Barclays we faxed and mailed XXXX  our position. \\nOur credit card company informed us that the case was closed and threatened us that if we did not pay our bill that they would report us to four bureaus. XXXX XXXX XXXX and XXXX. \\nWe then received a package from the seller weighing .42 ounces. \\nThe product we ordered would weigh about 11to12 pounds. This an attempt from the seller to prove that they mailed a package to us. \\nWe have the shipping statement from the XXXX. \\nWe never received the order we placed, period. \\nThanks,\\nXXXX and XXXX XXXX \\nXXXX XXXX XXXX XXXX\\nXXXX, Fl XXXX\\nXXXX XXXX XXXX\\nXXXX"
+}

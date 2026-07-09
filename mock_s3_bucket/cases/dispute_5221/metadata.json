@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5221",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30097"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41046,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have contacted American Express about fraudulent charges on my account two years ago, including with XXXX XXXX XXXX who even verified it was a fraud charge. It still has not been resolved. \n\nThey continue to report this to credit bureaus."
+}

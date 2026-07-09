@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7159",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75237"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11980,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My name is XXXX XXXX, and I am submitting this complaint regarding how Best Buy handled a recent {$2700.00} store credit applied to my Best Buy credit card account. This credit was issued after repeated issues with a previously purchased television that had been covered under a warranty. \n\nWithout fully confirming that I wanted the store credit instead of a replacement TV, the in-store representative applied it to my account. When I asked to reverse it, I was told the transaction was irreversible. The credit also did not carry the same value because the original product was no longer available at the same price, leaving me with fewer options despite spending the same amount. I would not have agreed to use the credit if I had known this. \n\nI used the credit to purchase a projector and screen setup, which has significant performance issues including a very dim image, poor compatibility with my XXXX, and a general lack of functionality as advertised. I received no guidance from staff during the purchase process, despite the high cost and complexity of the product. XXXX XXXX even hinted I might want to exchange the unit, but I was never properly informed that this projector might perform poorly in my environment. \n\nWhen I asked to return it, I was told I would be charged approximately {$1100.00} in non-refundable fees including restocking and installation. I paid over {$300.00} for mounting and was told if I wanted to have someone inspect the device in-home, I would have to pay an additional {$100.00} or disconnect and bring the equipment in myself, even though it was professionally installed. I should also add that the technicians ( XXXX XXXX ) who mounted the projector screen, ripped off dry wall and paint when removing some cable hiders I had on the wall. \n\nCustomer service has been consistently unhelpful. I have been redirected across multiple departments, denied escalation to senior managers, and received no meaningful follow-up. I also fear that I am being penalized unfairly despite following proper steps and paying for warranties and services in good faith. \n\nI am disputing these non-refundable charges and asking for CFPB intervention to help resolve this. I am still willing to use my credit at Best Buy but not under these unfair conditions."
+}

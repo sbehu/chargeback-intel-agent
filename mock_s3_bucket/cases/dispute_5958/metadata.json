@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5958",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93550"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46674,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am being charged {$1000.00} for a credit card used in XXXX. I have NOT used the card since XX/XX/year>. That card expired. I told them It is fraud and they closed the account. However, I am still expected to pay XXXX I REFUSE to pay. I have not heard anything from them since the last letters from XXXX regarding the issue. No updates, nothing and I am worried. The credit card is from BestBuy/Citibank ."
+}

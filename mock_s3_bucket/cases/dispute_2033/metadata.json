@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2033",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "194XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20669,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX XXXX XXXX I rented a car via XXXX for XXXX XXXX at XXXX XXXX XXXX and received confirmation via XXXX and XXXX XXXX XXXX for {$690.00}. My flight was delayed ( XX/XX/XXXX ) so when I arrived at the airport the XXXX counter was closed. I had to take an XXXX and then went back to Airport the next day ( XX/XX/XXXX ). The girl at the counter was having trouble in their operating system and had to ask me for my confirmation XXXX XXXX another agent helped her. I returned the car to the same parking lot I retrieved it from on ( XX/XX/XXXX ). Although I was enrolled in XXXX ( drop your key in drop box ) the counter was open and I returned my key at the counter and was told that my statement would be mailed/emailed to me. I never received it. On XX/XX/XXXX I was reviewing my bills when I noticed XXXX entries pending on my Citi Statement XXXX charges and XXXX refund all from XXXX posted for {$1400.00} - I called Citi right away and the agent states that they suspected fraud and he closed my card and issued a new one. I then received XXXX conditional credits to my account. On XX/XX/XXXX I received ( XXXX ) Dispute notifications with XXXX different case ID # 's. I was asked to sign that I recognize charge or do not and return with additional information. I did that on XX/XX/XXXX and on XX/XX/XXXX I received XXXX notifications that my case was closed ; however, those notifications were for the {$690.00} charge that I did recognize and both notifications had that case ID # and charge yet they re-charged my accoun t for {$690.00} recognized charhe and {$910.00} unrecognized charge. I emailed for a follow up on this on XXXX and received no response, I then called and spoke with an agent on XX/XX/XXXX that sent over notification for a follow up. On XXXX I called the XXXX XXXX XXXX XXXX XXXX XXXX  and spoke to an agent XXXX that stated she was sending a notice to re-open my case. I have heard nothing, I called again today to be told the same thing. I am aware of over XXXX complaints against XXXX, I would assume that a special fraud department would also be aware. I find the resolution and lack of response unacceptable in nature and timeframe. XXXX  months to resolve?"
+}

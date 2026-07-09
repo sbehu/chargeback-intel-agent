@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5563",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11375"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29244,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> - we were scammed by a company called XXXX XXXX XXXX XXXX. For our {$23.00} taxi ride, we were charged {$1900.00}. We had originally asked the driver how much our fare would cost and he replied \" cash meter ''. When the ride was over, he put a different amoutn ( XXXX pesos ) into his machine than was showing on his meter ( XXXX pesos ). The taxi driver told us that he could not provide a receipt when we got out of the cab. We knew that this was fishy, so we checked our credit card app and saw that we'd been scammed. We immediately called Barclay Bank ( this was a Barclay 's JetBlue Card ) and told them what happened. We asked them not to honor the charge. They said that they had to wait until the charge posted to my account. The charge posted XXXX days later. The original charge on XX/XX/XXXX listed the Merchant as \" unknown '', but two days later, the merchant was listed as a \" travel agency '' named XXXX XXXX. \n\nBarclays has twice denied our dispute to this charge, claiming that we have not provided sufficient documentation. We were not given a receipt, so there is no documentation to provide. Our research has revealed many many scam complaints against XXXX XXXX XXXX. We believe that Barclay should have alerted us right away to this suspicious charge, and that they should reimburse us for this fraudulent charge. Thank you."
+}

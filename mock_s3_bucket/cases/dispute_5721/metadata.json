@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5721",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30832,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "When I returned my rental car to the rental agency on XX/XX/year>, I was scammed by the rental agency, and charged a cleaning fee of {$100.00} USD ( inclusive of taxes ). I did not approve, or authorize the charge because when I returned the vehicle it had been thoroughly cleaned, and was NOT at all dirty. \nI contacted the credit card company upon returning home, and filed a dispute regarding the charge, communicating that the charge was fraudulent, unjustified and unauthorized. \nI even took video of the vehicle at the rental agency location when I returned it which clearly showed that the vehicle was clean, and in no way dirty. \nHowever, the online dispute process with my credit card company did not allow the ability to upload the video as proof of the condition of the vehicle. \nI provided the credit card company with the proof of payment, and charges I received from the rental car company ( the invoice ), but the credit card company ultimately notified me that the dispute was closed, and resolved against me/not in my favor providing a generic response stating that merchants sometimes charge for additional charges such as a cleaning fee during a rental. Again the cleaning fee was fraudulent, unjustified and unauthorized being that the vehicle was clean when it was returned. \nThe credit card company also claimed that I did not provide them with a valid credit slip when in fact I uploaded the invoice the rental car company provided me with at the time I returned the rental car. \nI am including a few pictures of the vehicle showing that it was clean, but I can also provide the video which shows the entirety of the vehicle if needed."
+}

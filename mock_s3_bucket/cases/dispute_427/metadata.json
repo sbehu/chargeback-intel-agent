@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_427",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60564"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41431,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was taken advantage of because I have a learning XXXX and a physical XXXX and now have to speak to this phone to write that someone has stolen and use my card to multiple place and I do not know who. Some people come to help me out sometimes to clean and to general help me out. all of the charges are not mine this is the second time and American Express is discriminating against me because of my learning XXXX and XXXX by refuse to help me. Please just help me. Im tired of people taken advantage of me. I didnt never authorize no one. The lady I speak did not even do anything to fix my balance"
+}

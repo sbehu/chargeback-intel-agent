@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4352",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "546XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23035,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an item on XXXX. The item arrived with manufacturing defects. I documented the defects and concerns of using counterfeit parts. XXXX would not help. I filed a dispute with AMEX and they have not helped resolve the matter. They take the fraudulent evidence from the merchant and close the case in favor of the seller. They will not review my evidence or call me to discuss."
+}

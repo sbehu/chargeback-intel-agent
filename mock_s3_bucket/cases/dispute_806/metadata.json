@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_806",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43214"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8807,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed XXXX charges from the same merchant : {$970.00}, XX/XX/2023, # XXXX {$490.00}, XX/XX/2023, # XXXX I have submitted billing disputes because the merchant engaged in misrepresentation of services and fraudulent solicitation. The service I purchased was not the actual service they delivered. \n\nCiti Bank denied these billing disputes without reasonable explanations. I filed the same billing disputes with other banks and they all accepted the claims without issue. Additionally, the CFTC and XXXX both shutdown the merchant for these exact reasons, yet Citi Bank is still denying the claims. \n\nThis merchant is a XXXX broker/prop firm that charges for application to trade for them. The service is that you pay to go through a challenge and if you pass the challenge, they provide capital to the trader and take a commission on profit. Specifically, they specify this is real money to be traded in real markets. However, this has since proven to be untrue. \n\nOn XX/XX/2023, Both the United States Commodity Futures Trading Commission ( CFTC ) and XXXX XXXX XXXX XXXX ( XXXX ) shut down My XXXX Funds ( Traders Global Group ). The major charges are as follows but not limited to below : Fraudulent Solicitation - Advertised to customers that they can become \" professional traders '' and \" we only make money when you do '' when, in reality, traders never had a chance to be professional and My XXXX Funds ( Traders Global Group ) profited from their losses. \n\nMisrepresentation of XXXX - XXXX as real money funding for traders, but it was actually a fake account that was never connected to the real markets. \n\nNo XXXX - XXXX did not use a third-party liquidity provider as promised so they actively manipulated orders and profited from customer losses. \n\nUnethical Practices - XXXX manipulation, hidden charges and unjust pretexts to terminate accounts. The owner, XXXX XXXX, also transferred tens of millions of dollars made from fraudulent services to his personal accounts. \n\nThe merchant responded to my dispute with screenshots and highlights from them showing I agreed to no refund for the service. What they didn't provide in their response is that while they XXXX not refund for the service, they never actually provided the service in the first place. I was supposed to have an opportunity to pass their challenge and become a professional trader using their funding of real money, to be traded in real markets, and they would take a percentage of the profits. I never got the opportunity because they were not providing real money accounts. They were fake accounts that were never entering orders into the real markets to begin with. Consequently, the merchant was shut down by both the CFTC and XXXX for this reason as well as others. \n\nBelow I have attached documents of the charges from the CFTC and XXXX, their press releases and links to the releases on their websites. If you can please review these claims and my statement again, I think you will find the evidence satisfactory to accept my disputes as accurate, remove the reversals on both XXXX and XXXX and permanently refund these charges. \n\nhttps : XXXX : //www.osc.ca/en/news-events/news/osc-issues-temporary-cease-trade-order-against-myforexfundscomhttps : //fundedtrading.com/my-forex-funds-shut-down-understanding-the-cftc-charges-and-what-they-mean/"
+}

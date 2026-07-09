@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6581",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2166,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit report notified me that I have a closed account. After further review, I found that there were two credit cards issued that I never received. Therefore, I contacted both the service provider and informed them of what had occurred."
+}

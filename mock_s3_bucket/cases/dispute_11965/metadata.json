@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11965",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2724,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Bank : Complaint Against : Citibank ( Credit Card Services ) Issue : Incorrect denial of unauthorized transaction dispute I am filing this complaint regarding Citibanks refusal to properly handle and reimburse an unauthorized credit card charge. \n\nCharges of approximately {$600.00} from ClassPass were made on my credit card without my authorization. The transaction was initiated by a minor who used my card without my knowledge or permission. I did not consent to the creation of any account, enrollment in any trial, or authorization of any charges. \n\nUpon discovering the charge : The account was immediately cancelled No services, classes, or benefits were used I promptly notified Citibank and disputed the charge Citibank denied my dispute. However, this is not a billing disagreement or dissatisfaction with services. This is a clear case of repeat unauthorized transactions. \n\nUnder the Fair Credit Billing Act ( 15 U.S.C. 1666 ), I am not liable for unauthorized charges. A minor does not have legal authority to bind me to a contract or authorize use of my credit card. Additionally, I received no benefit from the transaction. \n\nCitibank appears to have misclassified my dispute and failed to conduct a reasonable investigation into the unauthorized nature of the charge. \n\nI am requesting : Immediate reversal of all charges from Classpass Correction of the dispute classification to unauthorized transaction Written confirmation of the outcome If necessary, I am prepared to provide documentation supporting my claim, including proof of cancellation and lack of usage.\n\nI request that Citibank comply with its obligations under federal law and resolve this matter promptly."
+}

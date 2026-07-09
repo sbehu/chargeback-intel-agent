@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2542",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94597"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30546,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I made a reservation for XXXX XXXX paid for in points through their website. \n\nOn XX/XX/year> I arrived said XXXX XXXX and used Amex Card as a placeholder. \n\nAfter checking out on XX/XX/XXXX, XXXX Amex card was charged {$200.00} by XXXX XXXX. \n\nConfused, so I called the front desk of the hotel and they directed me to their corporate office and his email. \n\nOn the same day, I filed a dispute for unrecognized charges. Got denied. So I called Amex and they reopened the case, and this time I uploaded all the evidence of prepaid receipts. And the hotel check-out receipt showed no extra fees charged. \n\n8 weeks passed by, the corporate office from XXXX never replied the dispute case, and Amex refunded the initial charge. The dispute case was closed. \n\nI checked on XX/XX/year> Amex credit card statement, and recognized there is a dispute credit reversal from XXXX. So I called Amex again. And they explained to me that XXXX sent all the evidence in XXXX and they have explained the decision to charge back through snail mail, which I never received. \n\nI am out of wit as this is an unauthorized charge by XXXX and I showed the bank the service was prepaid with hotel points the prior month. And the Amex representative pushed me away and suggested reaching out for a point refund from XXXX instead. \n\nI then called XXXX 's customer service line, and they found my reservation record, but it is not under the credit card that is on hold, and there was no record of the charge from Amex. The representative from XXXX gave me a case number, however, there is no further communication such e-mail confirmation, email follow-up, or phone call. And XXXX is unresponsive as if I am talking to a wall. \n\nUntil today I still have no idea why Amex allowed this transaction despite ample proof this is a fraudulent charge. And I have no idea why my Amex card is being charged in the first place."
+}

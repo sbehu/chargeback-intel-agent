@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9299",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60660"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33178,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXXI GOT A CALL TODay from citi back stated i have had a card applied for in my name with a charge that has bees tried to be applied. I wad asked if i have lost mt ID i stated, no. I was told that charge was XXXX to a XXXX XXXX. I stated i have not applied for a card with CITI BANK. The CITI bank rep XXXX XXXX XXXX stated the FBI will call. He stated he could connect me to talk with a state FBI Rep he state no XXXX  parties on line, and be trueful. I was not able to talk longer he suggested he could call back AT XXXX I did not hear back fron him. I was to know if the FBI really talk to be yesterday on the phone. I tried to call CITI BAND CON NOT GET A REP ONLINE TODAY.XXXXI NEED HELP.XXXX XXXX XXXX"
+}

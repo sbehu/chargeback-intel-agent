@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6987",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91763"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1383,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I visited a beauty salon that I first encountered at a XXXX XXXX XXXX. They were promoting a special deal : {$100.00} for any XXXX services. My boyfriend purchased the promotion for me. \nI went in for the appointment and received XXXX services a facial and a moxibustion treatment which lasted over XXXX hours. After the session, the staff pressured me into purchasing a moxibustion package, telling me it cost XXXX XXXX XXXX, which I understood to mean {$190.00}. They said it included XXXX sessions plus XXXX free sessions and a personal-use tool kit. \nI agreed and handed them my Citi credit card. They then had me sign a no refund agreement, but they never showed me the total amount charged, never gave me a receipt, and never had me sign a credit card slip. I was exhausted after the XXXX session and did not realize what had happened until I checked my bank statement on XX/XX/XXXX and saw I had been charged {$1900.00}, not {$190.00}. \nI immediately contacted the salon and asked for a refund. They refused, saying it was non-refundable. I contacted Citibank and submitted a dispute. The bank denied my claim twice, saying the merchant refused the refund. \nI have never used any of the services in the {$1900.00} package. I believe this was a case of misrepresentation and deceptive sales tactics. The charge was made without proper disclosure or my informed consent. I am asking for CFPBs help in reopening this dispute and refunding the full {$1900.00}. \nI would also like to highlight that none of the documents I signed included the {$1900.00} amount. The form that shows {$1900.00} was filled in by the sales rep but never shown to me or signed by me. I was never given a written copy of any amount prior to being charged, which I believe is a serious issue of non-disclosure and deception."
+}

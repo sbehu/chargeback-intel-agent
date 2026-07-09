@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4868",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32404"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29110,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I had a XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX in XXXX for the amount of {$3700.00}. However, that XXXX was botched and left me with XXXX XXXX XXXX XXXX XXXX and the result was not what was originally agreed on. My voice did not change and left me with XXXX XXXX XXXX XXXX XXXX XXXX XXXX I attempted to dispute this charge with American Express but they closed the dispute without any nvestigation or contacting me regarding their actions! I request continuing the dispute with XXXX for the amount!"
+}

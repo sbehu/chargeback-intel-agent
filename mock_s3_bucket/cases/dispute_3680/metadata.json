@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3680",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95134"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4450,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed a fraudulent transaction on my XXXX XXXX XXXX XXXX XXXX account with Barclays Bank Delaware, on XX/XX/year>. The transaction, totaling {$3000.00}, was not authorized by me. I immediately reported it to the credit card company on XX/XX/year>. After their initial investigation, they concluded that the charge was legitimate, a finding with which I strongly disagreed. \n\nI requested a re-investigation and provided all necessary information to support my claim. Despite my repeated follow-ups, the re-investigation has been dragging on for XXXX weeks, with no resolution in sight. The company has been unresponsive and has not provided me with updates on the status of my case. \n\nThis ongoing delay has caused me significant stress and concern, especially regarding potential damage to my credit score. I am filing this complaint because I believe the credit card company has failed to properly address and resolve the issue, and I am seeking assistance from the CFPB to ensure that a thorough and fair investigation is conducted and that the fraudulent charge is removed from my account."
+}

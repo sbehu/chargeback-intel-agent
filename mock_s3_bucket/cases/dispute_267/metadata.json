@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_267",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28718,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I reached out to Citibank and disputed the following charges : XXXX XXXX. XXXX XXXX XXXX XXXX XXXX {$100.00}, and XX/XX/2023, XXXX XXXXXXXX XXXX XXXX, {$2.00}, as fraudulent not belonging to cardholder requested removal of charges and for a new card number to immediately issued. \n\nCitibank has refused to remove charges and give the cardholder a new account number, encouraging further unauthorized usage of card charges and accumulation of interest on fraudulent charges. \n\nCitibank is also making it impossible for the consumer to reach out by telephone to immediately dispute fraudulent charges and obtain new cards or account information placing the consumer in a telephone queue only to then disconnect the call."
+}

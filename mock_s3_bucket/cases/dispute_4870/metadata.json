@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4870",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10033"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28446,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My American Express credit cards were charged over {$80.00} by a company called nyc pedicabs Those are unauthorized charges because company was suppose to deliver the products first than do the charges yet nyc pedicabs charged my cards in advance without authorization and never delivered the products ( XXXX XXXX XXXX XXXX ) However company owner disappeared and left the country. \n\nI ended up being liable for charges even made some payment to American Express meaning that while I lost my credibility and cash money as well since I had to make payments for this credit accounts. \n\nMy company XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

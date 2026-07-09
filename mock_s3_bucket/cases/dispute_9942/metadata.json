@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9942",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "019XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10805,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Please see the attached letter from Citbank, which was a response to my complaint regarding 2 fraudulent charges on my LL Bean Mastercard, one for {$500.00} and a second one for {$550.00}. \n\nAfter an investigation and complaint here to CFPB, Citibank agreed that the charges were fraudulent and promised to credit my account for the two charges play {$15.00} in associated interest. This is stated in the letter,. \n\nThis never happened and I have been waiting since XXXX. I am owed at least {$1000.00} and would appreciate prompt action."
+}

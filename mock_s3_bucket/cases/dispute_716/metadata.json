@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_716",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33027"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23994,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase form XXXX XXXX XXXX XXXX, and I submitted a complaint with the name of XXXX XXXX XXXX XXXX, this complaint is because the credit card company, Barclay, XXXX XXXX did not resolve my issue in my favor. \nThe purchase I made was sent incorrectly, i did not receive the product I purchased. \nI have been trying to resolve the issue with XXXX XXXX XXXX XXXX, and their finmal resolution was that they sent me the right product. \nBut it was not the case, as I demonstrated through pictures : I purchased XXXX Medium Firmness mattresses, and I received XXXX soft firmness mattresses. \nBarclays does not support their customers in their query for satisfaction of the products purchased from a merchant."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9878",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80221"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14646,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Transaction Date : XX/XX/year> Merchant : XXXX Amount : {$710.00} Amex Offer : Spend $ XXXX, Get {$120.00} Back Disputed Amount : {$120.00} Statement Credit Prior to the transaction, I properly added the \" XXXX : Spend $ XXXX, Get {$120.00} Back '' offer to my American Express card ending in 11005. \nBefore making the purchase, I utilized the \" View Store Locator '' link provided directly on the Amex Offer page to ensure the location I was visiting was a participating merchant. The specific store I visited was explicitly listed as an eligible location in the official American Express store locator for this promotion. \nOn XX/XX/year>, I completed a purchase of {$710.00} at this verified location. \nDespite spending over the {$600.00} threshold at a verified location, the {$120.00} statement credit was never applied to my account. \nI contacted American Express customer service, and they denied the credit, stating that \" outlet locations are excluded. '' However, I pointed out that this specific location was explicitly included in their own promotional locator tool. \n\nAmerican Express engaged in deceptive advertising by providing a \" Store Locator '' tool that explicitly listed this location as eligible. As a consumer, I relied on the information provided within the promotional interface to make a significant financial decision ( {$710.00} ). The presence of a general exclusion in the fine print does not negate the specific inclusion provided by the merchant locator tool, which serves as the primary guidance for consumers."
+}

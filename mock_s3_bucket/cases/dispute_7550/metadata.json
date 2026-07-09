@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7550",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "292XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1311,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I filed a credit card dispute with Citibank regarding a charge for vacation rental accommodation where I experienced documented consumer rights violations. On XX/XX/year>, the vacation host unlawfully removed my belongings from my prepaid accommodation without notice, consent, or communication, requiring building staff and building security intervention. I was forced to leave the accommodation I had paid for, for safety reasons and could not use the prepaid services as intended. \n\nI provided Citibank with over XXXX pages of evidence including text messages, the availability of third-party witnesses from the building who helped me that day, and documentation of the violations. I mailed this evidence on XX/XX/year> to their dispute address. \n\nCitibank ruled against me on XX/XX/year>, stating only \" services were provided as intended a statement that is factually and ethically indefensible. This leaves me to believe that the investigation was anything but thorough. To support that indication, Citibank also failed to provide the promised Dispute Letter explaining their decision. \nComplete documentation of the events leading up to this case, including detailed affidavit and exhibits, is attached."
+}

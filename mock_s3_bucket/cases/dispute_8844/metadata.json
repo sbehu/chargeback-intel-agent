@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8844",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1887"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20989,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been a victim of credit card fraud. I had a Citi credit card that I had not used in some time. In fact, when the fraudulent activity occured, my credit card had been sitting in a drawer at home with the sticker still on it and had never been activated. \nBack in XXXX I received a few voice mails from Citibank about possible fraudulent charges. However, when I contacted the number they said they didn't see any charges or fraud at that time. I thought it was strange but forgot about it until we received calls from citibank telling us we missed a payment, which was odd, because I hadn't used the card and should have had no charges. However, when we looked online at our statement it showed over {$11000.00} charged, all in western US, mostly New Mexico. I immediately called and placed a fraudulent claim on those charges and completely closed my account. The company confirmed my card had not been activated or used at the time of the charges and that \" not to worry, all should be all set '' but it would take a few months to see the change in my credit report. \n\nI was told I should be receiving information regarding a dispute claim, which I hadn't received so after XXXX I receive a letter stating that the original account was closed and any remaining balances were transferred into a new account. I called Citibank to get an update and all I received were people who did not speak XXXX very well and asked if I wanted to dispute the charges all over again. I explained and after a lengthy conversation, and I believe two phone calls, I thought it got squared away. \n\nIn the initial call I was told that we would be receiving information regarding the dispute but none ever came until XXXX, when when I received a letter stating that the original account was closed and any remaining balances were transferred into a new account. I called Citibank to get an update and all I received were people who did not speak XXXX very well and asked if I wanted to dispute the charges all over again. I explained that there should be an ongoing claim of a dispute and, after a lengthy conversation - and I believe two phone calls- I was told it should be all set so I finally thought it got squared away. I did call again in XXXX when they sent a letter requesting more information and we had to go through everything ALL over again. \n\nFast forward to XXXX, and I continue to receive past payment phone calls. I also received an email notification that my dispute was closed so we contact Citibank again but this time the credit card company told me that the investigator said we had the card on us and so the dispute was closed. They clearly did not do any investigation nor did they even read through the transcripts of our initial conversation with their representative. I recently checked my credit report and it is showing New Mexico as one of my addresses and a phone number I have never used. I have placed a freeze on my credit and disputed those items on each of the reporting agencies. I have called Citibank again yesterday and implored them to reopen the case. I just don't know what to do and am disgusted about the way this investigation was conducted. My husband and I have called them on at least 6 occasions and have had no help in this matter. \n\nI am attaching the following : - XXXX  statement prior to when the fraudulent activity occured. \n- XXXX statement showing the fraudulent charges - The letters we have received from Citi since the inception of the dispute claim in XXXX. \n- The XXXX dispute that was settled taking the New Mexico address and fraudulent phone number off my credit reports."
+}

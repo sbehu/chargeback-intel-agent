@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1297",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95062"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3328,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This letter is in regard to Case ID XXXX, AAdvantage Aviator Red World Elite MasterCard credit card account ending in XXXX and the disputed transaction with XXXX XXXX XXXX, in the amount of {$2100.00}, and with a post date of XX/XX/XXXX. You notified us that you were unable to obtain credit on our behalf because you were not provided with proof of an altered amount or payment by other means. I believe the following account of what happened during that transaction may provide further helpful information in resolving this case to our satisfaction. \n\nMy husband and I arrived at the XXXX XXXX XXXX at XXXX XXXX on XX/XX/XXXX. After collecting our luggage, we walked towards the airport exit and were approached by two men claiming to be taxi drivers. They offered to take us to our hotel, the XXXX XXXX XXXX XXXX XXXX XXXX which is XXXX mile away from the airport, for the amount of XXXX XXXX. We verbally agreed to that amount and were then driven XXXX mile, for XXXX minutes, to our hotel. Upon exiting their car, we offered to pay in cash, but the driver said he would NOT accept cash. I gave him my XXXX XXXX credit card, and he ran it through a XXXX device attached to his cell phone. It was raining slightly, so he held it up under his open trunk lid, so I could not see the amount he was entering, claiming that he didnt want to get his phone wet. He then told me the charge didnt go through, and that I needed to give him a second card. I then gave him my XXXX XXXX XXXX XXXX which he ran through his XXXX device, continuing to hold it up high so I could not see his cell phone screen. He said the second card charge went through, and he returned my card. He did not ask me to sign for the charge. Then he and his partner RAN to their car and drove away without giving us a paper or digital receipt. \n\nAfter we registered at the hotel, approximately XXXX to XXXX minutes later, XXXX XXXX contacted us and said they detected a fraudulent charge on our account in the amount of {$2100.00}. The representative told us that it was obvious that the charge was fraudulent because it was outrageously high for a taxi ride. XXXX XXXX denied the charge. We checked the American Airlines/Barclays card , and there was also a {$2100.00} charge on that account for the taxi ride. We immediately called the dispute line and asked for a denial of the charge. I was told that the charge could not be denied and that it had to be posted before it could be disputed. I then asked for a freeze to be applied to our account so that the fraudulent taxi driver would not receive this outrageous amount. We have since tried to dispute this charge, but the name under which the XXXX men were operating, XXXX XXXX XXXX has no contact information. I believe this is intentional on their part, since in retrospect, they intended to steal several XXXX dollars from us. \n\nThe XXXX XXXX defines fraud as the wrongful or criminal deception intended to result in financial or personal gain. I made a verbal agreement with these men to pay XXXXXXXX XXXX for a XXXX minute, XXXX mile taxi ride ( see attached supporting information ) and in good faith gave them my credit card to pay for the service. At no time, did I ever agree to pay XXXX XXXX  ( {$2100.00} ) for this service, let alone XXXXXXXX XXXX  on two different credit cards. This, to me, is a clear case of fraudulent activity on the part of these two men."
+}

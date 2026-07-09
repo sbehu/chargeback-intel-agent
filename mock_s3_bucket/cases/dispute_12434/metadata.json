@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12434",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95014"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38403,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Appeal of Denied Fraud Dispute Unauthorized Recurring Charges $ [ XXXX ] Description : I am filing this complaint against Citibank regarding their failure to properly investigate and resolve a series of unauthorized charges on my XXXX XXXX XXXX card totaling {$1100.00}. \n\nDespite filing XXXX formal disputes, Citibank has denied my claims. Their stated reason is that \" authorized account information '' was provided to the merchants. This conclusion is logically and legally flawed. While the card credentials ( authentication ) may have been used, I never authorized these transactions, nor do I have any relationship with these merchants. \n\nKey Points of Contention : No Prior Relationship : I have never purchased goods or services from these merchants. These are not \" forgotten '' subscriptions ; they are fraudulent account takeovers or subscription scams. \n\nLack of Evidence : Citibank has failed to provide the \" documentary evidence '' they used to deny my claim, which I am entitled to under the Fair Credit Billing Act ( XXXX ). They have not produced a signed contract, an IP address log matching my location, or proof of delivery to my home address. \n\nAuthentication vs. Authorization : Citibank is conflating the possession of card data with my personal authorization. Under the FCBA and Citibank 's own XXXX XXXX policy, my liability for unauthorized use should be {$0.00}. \n\nPayment Made Under Protest : I have already paid the disputed balance of {$1100.00} in full. This payment was made under protest solely to protect my credit score from negative reporting while this investigation continues ; it is not an admission of liability. \n\nCitibanks refusal to reverse these charges places the burden of merchant fraud entirely on the consumer. I request that Citibank reopen this case, conduct a thorough investigation into the merchants authorization logs, and issue a full credit to my account."
+}

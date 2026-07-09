@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12832",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94110"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26533,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered some clothing from \" XXXX XXXX, '' a XXXX company, on XX/XX/year>. \n\nOver the course of the next several months I emailed back and forth with the company, they kept saying they were about to ship the clothes. They never did. I disputed the {$320.00} charge on my Citi credit card on XX/XX/year>. \n\nAfter I opened the dispute, XXXX XXXX told me by email that the clothes were ready to ship and that they would ship them if I withdrew the dispute. I did so on XX/XX/year>. Again, nothing was ever shipped and they stopped responding to emails, so I called Citi again to reopen the dispute. They told me this would be no problem and that I would receive a response within 7 business days. I received a letter on XX/XX/year> saying that the dispute was resolved in favor of the merchant. \n\nI would like a refund of this money since I never received the goods I paid for in any way, shape, or form."
+}

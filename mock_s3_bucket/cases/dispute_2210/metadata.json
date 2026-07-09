@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2210",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91411"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6041,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a XXXX year- old widow of a world -XXXX XXXX XXXXXXXX I paid a veterinarian {$10000.00} for XXXX XXXX treatments for my dog in early XXXX. I was told if the treatments did not work I would be advised. When the treatments concluded, my dog started experiencing severe pain. The XXXX charged me another approximately {$6700.00} claiming the dog was suffering XXXX and other ailments requiring the removal of his right eye. They refused to do a XXXX scan to determine the status of the XXXX until I demanded it and refused to pay more unless they did so. The XXXX showed that the XXXX had not worked and the XXXX had spread to his XXXX. I had him euthanized that same day. I refused to pay some {$3000.00} in bogus charges for XXXX, etc following the XXXX. I disputed the charge with Citibank giving them the details of the scam. Citibank refused to accept my dispute and continues to bill me for the {$3000.00} plus interest. My credit has been affected. Although I filed a dispute letter with XXXX they apparently are not sending my letter with the credit report. I was recently denied a credit card by XXXX XXXX XXXXXXXX based on this information. \nI demand that the {$3000.00} plus interest and penalties be canceled. I paid the XXXX for the XXXX XXXX, XXXX and other charges that seemed reasonable in the amount of approximately {$3700.00} post XXXX."
+}

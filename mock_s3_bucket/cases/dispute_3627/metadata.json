@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3627",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "IL",
+    "complaint_zip": "60914"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1680,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I ordered a hack squat machine for {$1900.00} from XXXX XXXX  XXXX XXXX, XXXX. Delivery lead time was XXXX days. I agreed to the lead time. \n\nThe very next day, I received a FedEx shipping notification and learned that the wrong machine had been sent to me. \n\nXXXX XXXX  XXXX XXXX, XXXX confirmed they sent the wrong machine to me. \n\nXXXX XXXX  XXXX XXXX, XXXX directed me to refuse the delivery, which I did on XX/XX/year>. \n\nI obtained documentation from FedEx confirming I refused the delivery, a Legal Notice of Refused Freight document. \n\nOn XX/XX/year>, I requested the cancellation of the order and a refund of {$1900.00}. I spoke to a XXXX over the phone who agreed to process the refund. \n\nOn XX/XX/year>, I disputed the charge with Best Buy Visa Card because I had not received a refund. \n\nOn XX/XX/year>, Best Buy Visa Card somehow concluded that I was responsible for the charge despite the fact I refused delivery. \n\nOn that day, Best Buy Visa Card returned the charge on XX/XX/year>, of {$1900.00} to my account balance, and also added two more charges of {$1900.00} for a total of {$5900.00} At this point, I have been charged three times for a single purchase that I refused delivery and do not have."
+}

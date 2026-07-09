@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11434",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "76244"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21462,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding Barclays Bank Delaware and its handling of a fraudulent transaction dispute on my Barclays AAdvantage Aviator Red Mastercard. \nOn or about XX/XX/year>, my wallet was stolen. The wallet contained my Barclays credit card, along with other financial cards. I did not have possession of my Barclays card at the time the disputed transactions occurred. \nAfter discovering the theft, I identified the following unauthorized transactions on my account : XX/XX/year>XXXX XXXX XXXX XXXX XXXX {$360.00} XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXX {$110.00} XX/XX/year> XXXX XXXX XXXX XXXX XXXX {$100.00} These charges total {$590.00} and were not authorized by me. I did not participate in or benefit from these transactions. \nBarclays has denied or is disputing my fraud claim based on an alleged statement that I had possession of my card at the time of the transactions. This is incorrect. At no point did I knowingly or intentionally state that I had possession of my card after my wallet was stolen. Any such assertion is either a misunderstanding, mischaracterization, or documentation error on the part of Barclays. \nTo be clear : My wallet, including my Barclays card, was stolen on or about XX/XX/year>. \nI did not have possession of the card when these transactions occurred. \nI did not authorize these transactions. \nAdditionally, I have filed a police report documenting the theft and the resulting fraudulent use of my credit card. \nUnder the Fair Credit Billing Act ( FCBA ), I am not liable for unauthorized charges made on a lost or stolen credit card. Barclays reliance on an inaccurate or misinterpreted phone statement does not override the facts of this case or my rights under federal law."
+}

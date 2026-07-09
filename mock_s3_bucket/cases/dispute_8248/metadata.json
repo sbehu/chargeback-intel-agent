@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8248",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70791"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42712,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Incident date XX/XX/year> did not receive product, but was charge by the XXXX American Express credit card."
+}

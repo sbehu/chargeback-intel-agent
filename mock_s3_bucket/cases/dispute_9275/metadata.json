@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9275",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KS",
+    "complaint_zip": "670XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4763,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Improper handling of a credit card dispute, incorrect coding, failure to process documents, and unlawful billing of a disputed amount. \n\nI am filing this complaint because Citi mishandled my XXXX dispute involving XXXX XXXX. Their errors prevented my dispute from being investigated properly and have caused financial harm, including a large balance being posted to my account that should have been under dispute. \n\nHere is what happened : XXXX. Citi told me repeatedly that my dispute ( Dispute ID : XXXX ) was open and under review. I can not update my XXXX Case XXXX so Ive had XXXX reopen a case with what XXXX told XXXX the new dispute number of XXXX. \nXXXX. I continued to submit supporting documents through the Citi dispute messaging portal. \nXXXX. Citi later informed me that the dispute was actually coded as closed, even though their system still sent me automated messages indicating it was active. \nXXXX. Because Citi mis-coded the case, none of my evidence or messages were routed to the dispute team, and therefore Citi did not review the materials I provided. \nXXXX. Citi informed me that a conditional credit would be reinstated on XX/XX/XXXX, but it never was. \nXXXX. Instead, the full disputed balance was posted to my account and caused XXXX XXXX harm to my authorized user. \nXXXX. I never received required dispute disclosures, and Citi did not perform a proper investigation because my documents were never forwarded internally due to their own system error. \n\nThis violates XXXX XXXX because : The bank failed to properly investigate a dispute. \nThe bank continued billing for an amount still in dispute. \nThe bank did not accept or review supporting documentation due to internal miscoding. \nThe bank misled me through system messages stating the case was open when it was not. \nThe conditional credit was never reinstated as promised. \n\nWhat I am requesting : XXXX. Reopen the dispute due to XXXX internal processing error. \nXXXX. Ensure that all documents I submitted are reviewed by the dispute team. \nXXXX. Reinstate the conditional credit immediately. \nXXXX. Remove any negative credit impact caused by Citis mistake. \nXXXX. Provide written confirmation that I will not be held responsible for the disputed amount until a compliant investigation is completed. \n\nI am a long-time Citi customer in good standing for over 10 years and have never had an issue like this. The mishandling of my dispute has caused extreme stress and financial harm. \n\nThank you for reviewing this matter."
+}

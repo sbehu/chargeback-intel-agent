@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6627",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96761"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17729,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint no. XXXX Submitted to the CFPB on XX/XX/XXXX. The status is closed. I am requesting that the investigation remain open until a decision has been communicated and finalized. Barclays sent me a letter XX/XX/XXXX saying the investigation is pending and there is no result yet. As I understand it the status of the dispute is pending with Barclays and XXXX. The complaint was closed prematurely. Forcing me to request to reopen the complaint or to file a new complaint. \nThe results are pending and the consumer has not received the appropriate response from the Barclays indicating that a full credit will be permanently posted to the account or that the credit will not be permanent and I may still owe payment for this fraudulent charge to XXXX XXXX. Barclays has failed to provide proof that XXXX has my consent to charge my credit card for {$3500.00}. Barclays has failed to hold its merchant to the standard of proof that the charge is either valid or fraudulent. Why? Barclays is able to reverse a fraudulent charge and charge back the merchant. Why wont Barclays do the right thing and permanently post the credit to my account when proof has been provided by the consumer and its been investigated by Barclays? \n\nBarclays XXXX XXXX  failed to request proof of the fraudulent charge from me the user from the start XX/XX/XXXX. Barclays failed to obtain proof of authorization from the merchant since claim began XX/XX/XXXX. I cancelled services with the merchant XXXX XXXX on XX/XX/XXXX. I have an email as proof. I was not able to cancel my account using the XXXX XXXX online portal. There is an option to cancel but due to predatory business practices you receive an error and instead of being able to cancel you must email the company and request assistance from a representative. XXXX XXXX does not receive phone calls even though a phone number is listed. On XXXX XXXX the merchant XXXXXXXX XXXX notified me via email that they ceased operations due to financial trouble and told me to seek services elsewhere. My credit card was charged without my approval and consent as required on XXXX XXXX. Over 4 months after I cancelled and over 3 months after they notified me they closed there business and ceased operations. They used my card without consent. I did not consent. I have closed my Barclay credit card account. I am waiting to learn if I will owe the charge of {$3500.00}. \n\n\nAsking The Barclays credit card to reverse the credit card charge to my account in the amount of {$3500.00} and require XXXXXXXX XXXX  to do the same. Barclays should ask the user for proof of the dispute from both parties. Due to their unfair business practices they should be fined and monitored more closely. Barclays is a predatory lender and does not take appropriate steps to protect the consumer by requesting more information when it is investigating. They protect the merchant. The merchant is not required to provide proof of authorization for credit card charges when a dispute arises. Its unfair and gross. I dont agree with Barclay stating that if any merchant uses a consumers card once then that merchant will have complete authorization to charge at will. Consumers need more protection than this. This is why I find Barclays practices and position to be predatory."
+}

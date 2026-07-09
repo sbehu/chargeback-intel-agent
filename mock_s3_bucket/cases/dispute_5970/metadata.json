@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5970",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "32570"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32575,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX through Barclays I agreed to free trial of a XXXX service that would renew each year started on XX/XX/XXXX Cost XXXX I provided my credit card that expired on XX/XX/XXXX. ( From memory ) To be used for renewals As a matter of practice I use credit cards for automatic renewals. I do this so if don't remember a service that is being charged to me, it will be flagged once the card expires and I will be asked to update my card information to continue the service. \nAs it turned out I never used the service after the free period and it was my bad I did not cancel it So there were valid charges made through XX/XX/XXXX But when XXXX came around I found a charge on XX/XX/XXXX on an expired card I contacted Barclays to get the charge removed and they denied the request. \nNow when I was issued a new card due to expiration it had the same card number but different expired date ( XX/XX/XXXX ) and different security code The data provided to me by Barclays from the merchant had the following information about the order Card holder. My name Expiry date. XX/XX/XXXX XXXX. Not supplied Postal code and address match Now I don't own any card with that expiration date So I asked Barclays how they accepted a charge from a merchant that did not have the correct expiration date They said it is their practice to allow this! \n\nAs far as I am aware the expiration date is required information when attempting a transaction I believe it is Barclays responsibility to protect the security of my account and I believe their acceptance of this transaction violates that trust. \n\nI am also not sure how it is okay for the merchant to create a transaction and enter a expiry date that is not the one on the card they have on file. \nAs long as I am venting... Barclays requires callers to consent to being recorded when talking with them, I am fine with this, but they will not consent to you recording the same conversation. Is this a valid policy for a company in the financial industry? \n\nT Sincerely"
+}

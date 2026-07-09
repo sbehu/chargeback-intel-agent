@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8677",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20007"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9760,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recently opened a credit card account with Citibank. However, the card was stolen before it reached me. Someone activated it without my authorization and made charges. I reported the fraud to Citibank immediately. They issued chargebacks for two initial charges but did not freeze or close the account, and fraudulent charges are still appearing.\n\nDespite multiple requests to : -Freeze or close the account -Cancel the stolen card -Stop all future charges -Send a replacement card Citibank has failed to act effectively. I also requested to close the account, but they still allow the stolen card to be used. I'm now being locked out of phone support and have no way to resolve the issue through regular customer service.\n\nI visited a local Citibank branch, but they could not escalate or resolve the issue either. I also filed a mail theft report with XXXX, as I suspect the card may have been intercepted during delivery. \n\nI will be away for the next couple of weeks, and will not be able to keep contacting citibank on a daily basis like ive been to try to solve this issue. \n\nThis matter is urgent and ongoing. I can not access support through regular Citibank channels and require assistance to escalate this."
+}

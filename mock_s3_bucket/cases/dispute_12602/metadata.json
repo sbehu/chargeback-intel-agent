@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12602",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10036"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9325,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> Barclays Bank Delaware Dispute Resolution Department XXXX. XXXX XXXX | XXXX, DE XXXX Re : Formal Written Appeal of Dispute Determination Case No. : XXXX Account : XXXX XXXX XXXX ending XXXX Amount : {$180.00} Merchant : XXXX XXXX XXXX Dear Barclays Dispute Resolution Department, I am writing to formally appeal the determination issued in the above-referenced dispute, in which Barclays concluded I am responsible for the {$180.00} charge by XXXX XXXX XXXX. That determination is in error and a permanent credit is warranted under the Fair Credit Billing Act, 15 U.S.C. 1666 et seq.\n\nI. SERVICES WERE NEVER RENDERED The reservation was booked with incorrect dates. I promptly contacted XXXX to request a date modification a standard accommodation offered by virtually all legitimate travel merchants. XXXX refused any modification. As a direct result, I did not stay at the property. No hotel room was occupied. No services were rendered.\n\nA charge for services never provided is not a valid transaction. Under the FCBA, a cardholder is not obligated to pay for goods or services not received. Super.coms retention of {$180.00} for a stay that never occurred constitutes unjust enrichment and an unfair billing practice.\n\nII. REQUEST FOR MERCHANTS EVIDENCE Pursuant to 15 U.S.C. 1666, I formally request a complete copy of all documentation and evidence submitted by XXXX in response to this dispute. I am entitled to review the basis upon which Barclays reversed its provisional credit before this matter is considered final.\n\nIII. GROUNDS FOR REVERSAL Barclays decision to side with the merchant without affording me an opportunity to review and rebut their submission is procedurally deficient. Specifically : 1. Non-delivery of services is an absolute defense regardless of a merchants cancellation policy. A policy permitting retention of full payment for a room never occupied is unconscionable and unenforceable.\n\n2. XXXX refusal to accommodate a simple date correction not a cancellation left me with no viable alternative. The error was correctable at no cost to the merchant ; their refusal was unreasonable.\n\n3. No-refund policies can not lawfully override the fundamental principle that payment is owed only for services actually rendered.\n\nIV. DEMAND I respectfully demand the following : 1. Immediate reinstatement of the {$180.00} provisional credit as a permanent credit to my account ; 2. Production of all documentation submitted by XXXX in this dispute ; 3. A full re-review of this matter in light of the facts set forth herein.\n\nIf Barclays declines to reverse this determination, I will file formal complaints with the Consumer Financial Protection Bureau ( CFPB ), the Office of the Comptroller of the Currency ( OCC ), and the New York Attorney Generals Office of Consumer Frauds and Protection, and will pursue all available remedies under applicable law.\n\nI expect a written response within 10 business days. \nRespectfully, XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9392",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "RI",
+    "complaint_zip": "2895"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44904,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a dispute with XXXX XXXX on XX/XX/year>. Dispute case # XXXX. The dispute was created because I never received my item, ( XXXX XXXX XXXX ) for {$170.00} purchased from XXXX seller XXXX. After providing photos, and email proof through first class mail documents and uploading to the XXXX website, XXXX denied my dispute. The Fed XXXX delivery photo on XX/XX/year> shows my package was not delivered to my house and I never received it. The photo is not my house and there is no house number included in the photo. The XXXX seller also failed to include a signature confirmation upon delivery. This package wasn't signed for. I reported it to Fed XXXX and opened a missing package claim on XX/XX/year>, XXXX XXXX XXXX XXXX XXXX  ). On XX/XX/year> XXXX  emailed me and confirmed they could not locate my package and advised me to contact my bank for a refund. I also opened a case with XXXX and XXXX appeals and all were denied. An XXXX representative explained that it is XXXX policy to deny cases solely when tracking shows \" delivered '', even if the buyer never received the item. I provided the email from XXXX confirming my package is lost, photos of my actual house, XXXX  delivery photo, and email from XXXX encouraging me to open a chargeback with my financial institution. Because the seller failed to ensure delivery to the correct address, I'm requesting a full chargeback. Im asking for a refund of the full amount of {$170.00}."
+}

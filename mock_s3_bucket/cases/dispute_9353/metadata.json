@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9353",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95688"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17112,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "# Consumer Financial Protection Bureau Complaint * * Complainant : XXXX XXXX XXXX XXXX XXXX XXXX Product : * * Credit Card * * Institution : * * Citibank , N.A . \n\n-- - # # Summary of Complaint I am filing this complaint because * * Citibank improperly closed a fraud investigation and held me liable for unauthorized charges without providing any evidence * *, in violation of the * * Fair Credit Billing Act ( FCBA ) * * and Regulation Z. \n\n-- - # # Description of What Happened On XXXX XXXX XXXX XXXX XXXX XXXX XXXX I was traveling on a cruise in XXXX. While reviewing my Citi credit card account, I noticed several high-value charges from merchants located in XXXX XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX XXXX XXXX that I did * * not authorize * *. \n\nThe unauthorized charges are : XXXX XXXX XXXX XXXX XXXX XXXX XXXX {$1400.00} XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX {$2200.00} * XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX$2200.00} XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  {$4800.00} * * I immediately reported these transactions as fraud through Citibank. Citibank cancelled my card, acknowledging a possible compromise. \n\nDespite this, Citibank later issued a letter stating that the investigation was * * closed * * and that I am liable for the charges * * solely because the physical card was in my possession * *. \n\n-- - # # Why Citibanks Decision Is XXXX XXXX XXXX XXXX  No proof of authorization was provided * * Citibank never provided merchant receipts, signed sales slips, POS entry mode ( chip, swipe, contactless, or manual ), terminal logs, chargeback documentation, or merchant responses. \n\nXXXX. * * Possession of the card is not proof of authorization * * Under the Fair Credit Billing Act, consumers are not liable for unauthorized use of a card number even when the physical card remains in their possession. Citibank relied on assumption rather than evidence. \n\nXXXX. * * Failure to conduct a reasonable investigation * * Citibank closed the investigation without substantiating the charges or allowing me to review or rebut any evidence. \n\nXXXX. * * Transactions were physically impossible * * The charges occurred in multiple distant cities ( XXXX and XXXX ) during limited cruise port hours. I could not physically travel between these locations or make these purchases. \n\nXXXX. * * Unhelpful customer service * * Multiple Citibank representatives were unable or unwilling to explain the decision, provide documentation, or escalate appropriately, which caused significant stress. \n\nXXXX. * * Long-standing customer relationship ignored * * I have been a Citibank cardholder for over XXXX XXXX XXXX XXXX XXXX XXXX and have maintained my account responsibly. This history was disregarded. \n\n-- - # # Requested Resolution I request that the CFPB require Citibank to : 1. Reopen the fraud investigation 2. Provide all transaction documentation and evidence 3. Reverse all unauthorized charges listed above 4. Remove all related interest, fees, and penalties 5. Provide written confirmation that I am not liable for these charges 6. Confirm compliance with FCBA and Regulation Z -- - # # Attachments ( if applicable ) * Citibank letter stating the investigation is closed * Screenshots of disputed transactions * Cruise itinerary or travel records * Copies of my written dispute correspondence -- - # # Additional Statement I do not know how the fraud occurred and am not required to. I only know that I did * * not authorize these transactions * *. Determining the method of fraud is the responsibility of the bank. Citibanks refusal to provide evidence while assigning liability is improper and violates federal consumer protection law. \n\n-- - * * Signature : * * ________________________________ * * Date : * * ____________________"
+}

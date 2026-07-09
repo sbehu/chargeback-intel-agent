@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11169",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75013"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35642,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Citibank has failed to properly investigate a material misrepresentation by the merchant ( XXXX ). The merchant sold a 'Hotel ' ( secure interior-corridor access ) but delivered a 'Motel ' ( unsecured exterior doors ), creating a safety risk for a solo traveler. \n\nIn their initial denial, Citibank explicitly acknowledged this security discrepancy in writing but still sided with the merchant 's refund policy. A 'Non-Refundable ' policy does not authorize a merchant to provide a structurally different product than advertised under the Fair Credit Billing Act ( Service Not as Described ). Citibank has since stalled my appeal, providing only an automated receipt of my request with no further action. I am asking for a reversal of the charges."
+}

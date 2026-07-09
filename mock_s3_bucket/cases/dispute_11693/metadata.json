@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11693",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96813"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17418,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against American Express for failing to honor a disputed charge of {$1000.00} related to a hotel reservation I made in good faith and attempted to cancel in a timely manner due to a documented family medical emergency. \nBackground In early XXXX I booked a XXXX-night stay ( XXXX XXXX XXXX ) at XXXX XXXX XXXX XXXX, XXXX through XXXX ( Booking ID : XXXX ), charged to my American Express card ending in XXXX. Shortly before my scheduled arrival, my grandmother was placed in XXXX XXXX making travel to XXXX impossible. \nMy Cancellation Attempts Upon learning I could not travel, I immediately contacted the property using the contact information provided directly within my XXXX booking confirmation email. That confirmation explicitly listed XXXX as the designated contact address for all reservation inquiries. I emailed this address on XX/XX/year> XXXX days before my scheduled check-in clearly stating my situation and requesting cancellation. Receiving no response, I followed up again on XX/XX/year>. \nI never received any acknowledgment, response, or denial from the property. Despite this, the hotel subsequently classified my reservation as a \" No-Show '' and retained the full {$1000.00} charge. \nKey Facts Supporting My Dispute I contacted the property XXXX  days before check-in using the contact information provided in the official booking confirmation well within a reasonable cancellation window I have timestamped email records of both cancellation attempts ( XX/XX/XXXX and XX/XX/year> ) The property never responded to either communication, depriving me of any opportunity to pursue alternative cancellation methods The property can not claim I failed to notify them when they failed to maintain or monitor the contact channel they provided in their own booking documentation The cancellation was necessitated by a documented family medical emergency ( grandmother placed in XXXX ) American Express has declined to uphold my dispute despite the submission of this supporting documentation Relief Requested I respectfully request that the CFPB investigate American Express 's refusal to honor this dispute and facilitate a full refund of {$1000.00} to my account. A merchant can not designate an unmonitored contact channel in official booking communications, ignore a guest 's good-faith cancellation attempts, and then hold that guest financially liable for a no-show. \nI have attached the following supporting documents : XXXX booking confirmation email showing XXXX as the designated property contact Screenshot of my XX/XX/year> cancellation email to the property Screenshot of my XX/XX/year> follow-up cancellation email to the property I am happy to provide any additional documentation upon request."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6435",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44102"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8582,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a follow-up to a previous CFPB complaint ( Reference # XXXX ) regarding a disputed charge. My credit card company responded, but isnt responding directly to my dispute. They need to provide additional evidence proving receipt of goods. \n\nIn the original dispute, I explained that a substantial portion of the charge was for XXXXXXXX XXXX XXXX XXXX  which were never provided to me during my visit. I submitted a sworn statement confirming that I never received or used the credits, which constitutes a failure to deliver services a valid basis for a dispute under the Fair Credit Billing Act ( FCBA ).\n\nDespite this, the credit card company recycled their original denial and failed to address the core issue : the non-receipt of services. Their response ignored my sworn statement and made no indication that any further investigation was performed after new evidence was submitted. They simply are showing receipts that I signed for the purchase, but the agreement is signed for was implying the amount of cash I paid equated to these gift certificates.\n\nThis is a violation of their duty to conduct a good faith investigation under the FCBA. A signed receipt or agreement does not excuse a merchant from delivering the services paid for.\n\nI am requesting that the credit card company be required to re-investigate the dispute based on the actual claim ( non-receipt of goods/services ), and that the portion of the charge related to the undelivered XXXX XXXX credits be refunded. \n\nSupporting documentation, including the sworn statement, can be provided again if necessary."
+}

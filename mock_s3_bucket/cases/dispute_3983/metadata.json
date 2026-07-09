@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3983",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11211"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36983,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a text message on XXXX XXXXXX/XX/XXXX that there were attempted charges on my card. I responded to the text that I did not make those charges. I then called the number provided to confirm that I did not make XXXX fraudulent charges on my card from the XXXX XXXX location. \n\nThey confirmed that I would not have to worry as these charges were flagged. \n\nToday, on XX/XX/XXXX, I received an email that my XXXX 's bill was available. Upon checking, I saw that those XXXX fraudulent charges, as well as another fraudulent charge from XXXX was on my bill. \n\nUpon calling them again to confirm why these were still on the account, they said that they would issue me a new card. There was no resolution about how to dispute the charges, XXXX XXXX as lost/stolen so that I could dispute the charge, or anything to help in this manner. \n\nThe total balance is at {$560.00} and I did not make any of those charges. The card hasn't been used since XX/XX/year>."
+}

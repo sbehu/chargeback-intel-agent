@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4876",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "336XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46552,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have tried filing a dispute on a faulty product and returning it to the home depot store but the website is not allowing me to submit a dispute on the card. I Attempted dispute in XXXX of XXXX, over the purchase of a dryer and manufacture warranty not being honored. \n\nInterest payments on the credit card are also becoming extreme as i have paid over {$2000.00} in payments on the card but it has not affected the balance any when the promotion promised 12months no interest charges."
+}

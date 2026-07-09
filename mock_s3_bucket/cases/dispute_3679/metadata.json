@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3679",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "956XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28991,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I applied recently for an apartment as I have been at my current residence for 9 and 1/2 years. When the credit portion came back it shows that I have over 30 inquiries in my name in the last 2 years. A few accounts that were opened in my name in a different city. Immediately finding this out yesterday I went to all the bureaus and sites and I put fraud alerts as well as freezing my credit on all bureaus and making a police report on the fraudulently opened accounts in my name. \n\nXXXX/cbna w a balance in amount of {$1400.00}. Date of Delinquency shows on XXXX only as XX/XX/XXXX. Originally account was opened on XX/XX/XXXX. Since the issue occured both XXXX and XXXX fixed this mistake but for some reason on XXXX it still showing as owed. \n\nI also reached out to the creditor an since nothing has happened. This is definitely damaging my credit because I do not have much credit as I had identity theft in the past 10 years. I would love this to be removed so I can apply for an apartment thank you."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_735",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "94066"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject - Ref. XXXX / Disputed charge of {$260.00}. XXXX Dear Customer Service, On XXXX, XXXX XXXX, I made an on-line reservation to obtain a hotel room at approximately XXXX. I checked out the hotel at XXXX. In the parking lot, there was an incident with my son where he was called a derogatory name. ( He was called the XXXX word. \n\nI went to tell the front desk, but they were busy. My family did not feel comfortable. I called XXXX customer service immediately. ( The time was around XXXX. ) They provided verbal confirmation that this hotel room would be cancelled. \n\nI was also communicating through the chat where they told me the same thing. They were very apologetic. \n\nI had the room on hold for maybe two hours. We never checked in. XXXX XXXXXXXX or XXXX  was not harmed in any way. Due to the mishap that my family experienced on the property, I never doubted that XXXX would not honor their word and reverse the transaction. They could have done that immediately. \n\nTo my dismay and to my surprise, they send an email that they would not refund my money. I was very confused. \n\nAs a long time and loyal American Express customer, I was confident that American Express would take up for me in light of these circumstances. \n\nConsequently, I did ask XXXX if I could receive a one-night hotel stay in lieu of the refund. I was refused."
+}

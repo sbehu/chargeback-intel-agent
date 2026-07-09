@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9719",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "DC",
+    "complaint_zip": "20019"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26755,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting a fraudulent international charge on my American Express card for {$4100.00} that American Express is improperly holding me responsible for, despite clear evidence the transaction was unauthorized under the Truth in Lending Act ( Regulation Z ). \nWhile traveling in XXXX, XXXX, I handed my American Express card to a waiter for routine meal charge. He returned and told me the card was declined. I then paid the legitimate bill using my XXXX card for {$85.00}. I never approved, signed for, or saw any transaction for {$4100.00}, nor did I receive goods or services for such amount. \nWhen I received my Amex statement, I discovered a {$4100.00} charge from that same merchant. This was an unauthorized transaction. Amex initially opened a dispute, but then closed it after the merchant falsely claimed the charge was valid. I was not shown any legitimate evidence such as a signature, PIN entry, or a card-present authorization that matches my involvement. Amex refuses to acknowledge that the legitimate transaction was already processed on my XXXX card and that the {$4100.00} charge could not have been possibly authorized by me. \n\nI have made it clear to AMEX that I : Never approved the {$4100.00} transaction Never signed or entered a PIN Never saw the receipt Already paid the legitimate bill with another card Under Regulation Z, I am not liable for unauthorized credit card charges. American Express is improperly assigning liability to me, contrary to federal law. They have refused to provide evidence supporting the charge and have refused to reopen the dispute despite new information. \n\nI am requesting that the CFPB require American Express to : Reopen the fraud investigation under Regulation Z Provide all documentation they used to deny the dispute Remove the fraudulent {$4100.00} charge Confirm that I will not be held liable"
+}

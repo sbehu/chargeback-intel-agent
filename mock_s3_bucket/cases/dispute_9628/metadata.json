@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9628",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30082"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40666,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Credit Card Billing Error Merchant Failed to Deliver Goods ; AMX Refused to Honor Federal Protections What happened : I am filing a complaint regarding a billing dispute with American Express ( AMX ) involving a {$140.00} charge from XXXX Department Store. I never received the merchandise associated with this charge, yet both the merchant and AMX have refused to correct the billing error. \n\nTimeline and details : I placed an online order with XXXX. XXXX provided XXXX tracking number XXXX, claiming the package was delivered on XX/XX/year>. I did not receive the package. I did not sign for any delivery. I did not authorize anyone else to receive it. The XXXX tracking entry does not include GPS coordinates, a delivery photo, or any verifiable proof that the package was delivered to my address. \n\nI opened a dispute with AMX because I never received the merchandise. On XX/XX/year>, AMX informed me that they were closing the dispute solely because XXXX stated the package was delivered. AMX did not request or review any actual proof of delivery beyond the generic tracking entry. During my call with AMXs representative, XXXX, I was toldwithout empathy or meaningful reviewthat AMX was done with the dispute.\n\nWhy this violates federal protections : Under the Fair Credit Billing Act ( FCBA ) and FTCenforced consumer protections, credit card holders are not required to pay for goods they did not receive. I never received this order, and the merchant has not provided valid proof of delivery to my residence. Despite this, AMX has held me responsible for the full charge, leaving me with no product and no recourse. \n\nWhat I am requesting : That AMX be required to reopen and properly investigate the dispute. That AMX obtain verifiable proof of delivery from XXXX, including GPS coordinates, timestamp, and delivery photo. That AMX issue a credit for the {$140.00} charge, as the merchandise was never delivered to me. \n\nI am seeking the CFPBs assistance to ensure AMX complies with federal billing error resolution requirements and honors the protections afforded to consumers who do not receive the goods they paid for."
+}

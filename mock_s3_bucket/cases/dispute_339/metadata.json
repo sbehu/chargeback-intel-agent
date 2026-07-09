@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_339",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27832,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "While reviewing my bank statement on XX/XX/2023, I discovered that XXXX XXXX XXXX used the Home Depot credit card to buy gift cards and items not utilized in the project without my authorization. \n\nXXXX XXXX did nothing correctly at the house and didn't repair things. I am providing evidence such as an inspection report made by an inspector with letterhead and an inspection letter explaining in detail line by line that the XXXX did not do or finish anything, or any other documentation supporting my claim. \n\nThe only items that were utilized were the ones ordered online and picked up by XXXX XXXX. These orders are order # XXXX, # XXXX, # XXXX, # XXXX, ORDER # XXXX He spent {$1600.00} on items and gift cards that were not utilized at the project since he did not repair or do anything. I reached out and initiated a dispute for these charges and Home Depot Credit Card support said that the expense was on me since I was the one that gave him the credit card to use. I explained to them that I was a victim of a scam and unlawful business that did not deliver the service and I was willing to provide evidence that supported my claim but they did not provide any flexibility for me to present my documents and support the dispute. I told them that I thought they offered consumer protection under regulation E since I was tricked and induced to pay for material or services that were not delivered still they did not reimburse the {$1600.00} funds. \n\nXXXX XXXX has criminal records I found out everything after the facts and it is very unfair for XXXX XXXX not to give the chance to support my dispute by showing them public record that shows this XXXX has a criminal record for fencing and stealing."
+}

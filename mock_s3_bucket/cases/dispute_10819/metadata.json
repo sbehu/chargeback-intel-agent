@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10819",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23831"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5382,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Thursday XX/XX/XXXX, I made a transaction at XXXX to purchase tickets totaling {$230.00}. I received a text message from Citi indicating the transaction was declined and asking was it me attempting to make the purchase. To which, I responded Yes. The message that followed read ; to complete the transaction please try your purchase-it is ready for use. As a result, I ran the card a second time. This time, I used a merchant credit in conjunction with my card, and the new total was {$150.00}. I received another text message from Citi indicating the transaction was declined, was it me attempting to make the purchase. To which a second time, I responded yes. The massage that followed stated, you are all set there is nothing more for me to do. Upon reaching out to Citi I was informed that both transactions went through. As I told several representatives in customer service and the dispute department. I only ran the card a second time because Citi told me to. I reached out to XXXX for a refund. Due to the nature of their business they confirmed they were unable to return any funds, and I would need to follow up with the credit card company. I have since paid my balance and closed my account as I have no further interest in banking with Citi. However, I have requested to speak with a manager or someone who can properly understand the fraud functionality and clarify. I have disputed the transaction as I should not be held responsible for since they informed me both transactions were declined."
+}

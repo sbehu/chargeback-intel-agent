@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5330",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95124"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22086,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "RE : XXXX To whom it may concern, On XX/XX/year>, a cash register was purchased online from XXXX XXXX XXXX in XXXX, Florida. The item was received on XX/XX/year>. When the cash register was set up to be used, the keys on the register would not work and the battery backup compartment was all rusty. \n\nContact with the company, XXXX XXXX XXXX, was attempted on XX/XX/XXXX at XXXXXXXX XXXX XXXX A message was left at this time. Another call was made to the office on XX/XX/XXXX at XXXX XXXX  XXXX. At this time, it was explained to the vendor about issues with the register not working and the rusty battery compartment. An request was made to get a return form so that the item could be sent back but the vendor laughed and hung up the phone. \nI made a final attempt to rectify the situation on XX/XX/XXXX at XXXXXXXX XXXX XXXX requesting that return paperwork be provided. They again hung up on me. The broken item is still in my possession as this vendor would not provide any way for us to return it. \n\nAs a result of the above interactions, I then filed a complaint with VISA and have just now received a letter on XX/XX/XXXX stating that the case was closed because the seller sent a document only stating the item was delivered. The dispute is not about the delivery but about the item not working and being rusty. We should not be held responsible to pay {$680.00} for an item that is non-functional. \n\nPlease see below a picture of the register we expected to receive ( XXXX XXXX ). Following that are pictures ( page XXXX ) of the register we received. \n\ndespite the evidence provided to Citi credit card, they refused to take action against the XXXX XXXX XXXXXXXX."
+}

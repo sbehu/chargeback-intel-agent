@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8002",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "125XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49872,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I hate disputed a charge for {$640.00} and within weeks was notified I won the dispute but only received {$1.00} back. I called to check on that and was assured that it was an error and I would receive the full {$640.00}. After another week when I had indeed only received {$1.00} I called back and was told only a XXXX could reopen a dispute and I needed a call back request which I asked for and would be called back within XXXX hours. After XXXX hours I called and and learned that the previous person did not in fact put in the request and was assured the new person would do it and Id have to wait another XXXX hours and the XXXX could reopen the case and have it fixed. XXXXXXXX XXXX days I did receive a call where the XXXX listened to the original dispute call and I indeed asked for {$640.00} and not {$1.00} and that it was an error on that person part putting it in. All the XXXX could do was send it to the investigation team where Id have to continue to wait to see if they would reopen the case ( she could not do anything ). I asked for written confirmation that she was doing this as well as the previous conversations where I was assured falsely, and she told me she was not able to but I could continue to call back daily if I wanted, which unfortunately is no feasible or acceptable."
+}

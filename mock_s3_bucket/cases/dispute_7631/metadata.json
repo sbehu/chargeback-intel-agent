@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7631",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60608"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14249,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, a {$580.00} charge from XXXX XXXX XXXX posted to my American Express account. While I signed up, I never scheduled, attended, or received any lessons. Before any service began, I called XXXX XXXX XXXX to cancel and was verbally told a refund would be issued. Illinois is a two-party consent state, so I could not record the call. \n\nXXXX XXXX XXXX own published refund policy states : \" If student/customer requests a refund prior to the first lesson we will, under discretion, process the refund on a case-by-case basis. A 30 % processing fee will be applied to all refunds. '' American Express initially credited my account during the dispute process but reversed the credit on XX/XX/2025, after the merchant submitted documentation. This documentation did not show that I received or used the service only that I signed up. \n\nWhen I asked AmEx to reopen the dispute, they refused unless I could produce documentation of cancellation. Under the Fair Credit Billing Act, my written statement and the merchants own published refund policy are valid evidence. American Express is refusing to reasonably consider this evidence and is holding me responsible for a service not provided."
+}

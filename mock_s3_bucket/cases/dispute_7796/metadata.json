@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7796",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "430XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1329,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary of Dispute I purchased a XXXX XXXX XXXX bracelet for {$3200.00} from a seller on XXXX, paid in XXXXwo transactions ; on XX/XX/year> for {$3000.00}. Of the {$3000.00}, {$1100.00} was the negotiated price of the bracelet. This is evidenced by an invoice I submitted as well as messages with the seller. A second charge of {$2000.00} was invoiced on XX/XX/year>, as I was asked to pay a premium to upgrade the bracelet as the first bracelet was broken. Despite weeks of communication, a bracelet was never delivered. I filed disputes for both charges with Barclays. \n\nBarclays credited {$2000.00} for the XX/XX/XXXX transaction but reversed the provisional credit for the XX/XX/XXXX charge. Of that {$3000.00} transaction, {$1100.00} was specifically for the bracelet. Barclays improperly accepted a generic shipping receipt as proof, even though it only related to other items and did not show the bracelet was delivered. The sellers evidence ignored the bracelet entirely, I did not receive the bracelet and there is no proof I ever received it. \nI submitted detailed evidence, including two invoices for th\ne bracelet and 29 pages of messages and supporting documentation that demonstrate misrepresentation, fraud, and record tampering by the seller. Barclays did not properly review this evidence and instead accepted the sellers incomplete submission. \n\nAs a long-standing customer, I am disappointed that Barclays failed to conduct a fair review and left me without either the bracelet or the full refund. \n\n* fax confirmation of Barclays receipt of the full package of evidence is available."
+}

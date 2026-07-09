@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4663",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33143"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22239,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I only used this credit card back in XXXX to purchase an airline ticket which I paid inmediately. I requested to cancel the card after that and they didn ; t, apparently they sent a replacement. Back in late XXXX I check the online account to see if the card was closed for good, and I found a charge, which i dispute, it was a cash advance on XX/XX/XXXX for the amunt of {$490.00} and they credited the account and said that was going to be investigated. I never got a notification, so around XX/XX/XXXX i checked the online account and found that the charges were posted back and another extra charge of {$24.00} on XX/XX/XXXX was posted as well, ( interest ) plus the {$490.00} back again, i searched for anything on the website and found a letter stating that in response to my dispute on a charge for cash advance of XX/XX/XXXX ; they said : that because the card was in my possession it shall be a valid charge, since is a chip technology ; I completely disagree with that. \nChip technology is not perfect, and there is a history of scams related to this type of technology, which is documented on the internet. I have not been in any ATM, I never pull out any cash advance, I don't even know how to do a cash advance. \n\nThe letter dated XX/XX/XXXX also mentions that was done in XXXX XXXX, it doesnt say how, which XXXX XXXX, what city and state ; or what location. I called on XX/XX/XXXX to dispute again the charge, and someone transfer me to a Fraud department, they mentioned that was done in XXXX XXXX, and they filed another dispute, I spoke to XXXX XXXX XXXX XXXX XXXX \nI called again on XX/XX/XXXX, to make sure is being investigated and I spoke to XXXX, a specialist who told me that he see the case but nothing was done, and he didnt understood why they didn't process a credit again while the charge is in dispute. as of today the charges are still showing a balance of XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, I am disputing this again because I havent done any withdraw of cash, I want to know if you have a video of the person using the atm in XXXX XXXX. I want access to that video. \n\nI am a very good client with my credit cards, I have an excellent history of payment and credit. I dont appreciate that this is happening and to be charged with something that I have not done. The only charge I made with this credit card was when I bought a ticket in jet blue back in XX/XX/XXXX, and it was paid immediately in XX/XX/XXXX. \n\nThe specialist on XX/XX/XXXX, told me not to pay, but i see the statement due XX/XX/XXXX and I don't want to be affecting my credit report. \nI have XXXXXXXX XXXX, and i have excellent history and I pay all my bills every month, I don't accumulate interest, I dont like to owe credit cards any amount. \n\nI thank you in advance for your investigation to go further and see what exactly happened. \nMy phone number is XXXXXXXX XXXX XXXX so I can discuss with anyone what happens here."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2185",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8094"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2241,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I brought my sons XXXX XXXX into Best Buy XXXX XXXX in XXXX NJ for repair. I was charged {$420.00} for XXXX parts and service. Also, I was charged for a XXXX yr warranty in the amount of {$190.00}. When I got home and realized the warranty charge, I called Best Buy customer service and made complaint. The amount wrongly applied to my Best Buy card was credited back, {$190.00}. This was on same day, XX/XX/XXXX. That credit was applied a couple of days later. On XX/XX/XXXX my son XXXX and I went to pick up his computer but Best Buy could not fix the problem. I was then credited back for the XXXX parts and service by the XXXX XXXX representative ( see receipt ). My son then decided to just buy new XXXX XXXX from Best Buy, My son used his XXXX debit card of {$2000.00} towards the purchase and I paid the balance of this purchase with my Best Buy card for {$160.00}. The total of the new computer was {$2100.00}. ( See receipt ). Ive been arguing with Best Buy now since for not crediting back the XXXX items and service charges on return or credit receipt attached. Ive made at least XXXX calls and spoke with XXXX Best Buy customer support representatives who opened up a dispute and each time, made update notes and could see all relevant receipts and credits. As of this date, XX/XX/XXXX Best Buy still has not credited my Best Buy credit card which is issued by Citi bank. I attempted to contact Citi bank and advised them of this but they said I had to deal with the Best Buy store how would issue the credits to them. Citi bank said they have no access to see receipts only charges from Best Buy. On my Best Buy card as of XX/XX/XXXX, I only have a balance of about {$140.00} on a pro mo account of a purchase with no interest till XXXX of XXXX. The only other charge on my Best Buy card should only be the {$160.00} charge for the balance of the new computer tower. As you can see on receipt of purchase, {$2000.00} was used with my sons debit card for {$2000.00} and I then paid the balance of {$160.00}. Best Buy has refunded the wrongly charged warranty amount of {$190.00} within just XXXX days but the other charges for the XXXX items and still have not been credited back to my Best Buy card as seen in refund receipt. Im asking that your department help resolve this issue as Best Buy is deliberately delaying my refund process since XX/XX/XXXX as seen in my receipt/retune. \n\nMy name is XXXX XXXX XXXX XXXX XXXX XXXX XXXX, NJ XXXX This complaint is being filed under my wife, XXXX XXXX information , profile as I had a hard time singing into me this complaint"
+}

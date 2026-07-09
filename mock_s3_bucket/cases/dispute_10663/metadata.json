@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10663",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89502"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1539,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am submitting this complaint regarding Citis handling of a billing dispute on my credit card account. \n\nI authorized a transaction in the amount of {$39.00} only. However, the merchant charged my card an additional {$340.00}, which I did not authorize. When Citi sent a fraud alert text asking if I recognized the {$340.00} charge, I immediately replied NO and provided an explanation. \n\nDespite my prompt response and multiple phone calls to Citi during which I experienced long wait times and several disconnections my dispute was denied. I was instructed to contact the merchant directly, but I have been unable to reach them, and I am concerned this may be a scam. \n\nThis situation has caused me significant stress and anxiety, as I feel my billing rights have not been properly protected. Under the Fair Credit Billing Act, I am requesting that Citi conduct a thorough reinvestigation of this unauthorized charge and provide documentation explaining why the transaction was determined to be valid. \n\nI am seeking the removal of the {$340.00} charge and a fair review of my case. \n\nThank you for your assistance in this matter. \n\nSincerely, XXXX XXXX"
+}

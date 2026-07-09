@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10463",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "170XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36382,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank regarding a merchant dispute ( Case ID : XXXX ) that was unfairly denied on XX/XX/XXXX. \nOn XX/XX/XXXX, I ordered a pair of sunglasses from XXXX XXXX Per the merchant 's return policy, I returned the items, and they were officially delivered back to XXXX on XX/XX/XXXX. I have provided proof of delivery to both the merchant and Citibank. \nI opened a claim with XXXX ( Reference No : XXXX ) to request my refund. XXXX acknowledged receipt but stated it would take XXXX weeks to process the credit. Fearing the expiration of my dispute rights under the Fair Credit Billing Act ( FCBA ), I proactively opened a dispute with Citibank on XX/XX/XXXX. \nOn XX/XX/XXXX, Citibank denied my claim, stating they \" no longer have any recourse to obtain credit '' because the timeframe for resolving the dispute had passed. This is a violation of my consumer rights under the FCBA for the following reasons : Timely Notification : I notified Citibank of the billing error ( a missing credit for a return ) on XX/XX/XXXX, which is well within the XXXX window of the original charge and within a month of the return being delivered. \nMerchant Cooperation : The merchant has acknowledged the return but is withholding funds beyond a reasonable timeframe ( XXXX weeks ). \nFailure to Investigate : Citibank 's claim that the timeframe \" has passed '' is inaccurate, as the dispute was initiated promptly. Under the FCBA, the creditor must resolve the dispute within XXXX billing cycles or XXXX days. \nDesired Resolution : I am seeking a full refund of the disputed amount, as the merchant is in possession of the returned goods and has failed to issue the promised credit. I also request that any interest or fees associated with this disputed amount be reversed."
+}

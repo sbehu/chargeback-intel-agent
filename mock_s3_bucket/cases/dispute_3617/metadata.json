@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3617",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11369"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9314,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The item has still not been shipped let alone delivered. Even when I call now almost a year later they tell me the item will be ready to ship in XXXX weeks or by the end of the month. They have been doing that every single time we call for the past year and it's getting frustrating and I just want my money back. When I called the supplier for the item they said the item is in stock and no orders have been made by XXXX for this item in the past year. They scammed me out for the money and never shipped the product. The order number is XXXX. If you call ( XXXX ) XXXX and give them the order number and the name XXXX they will tell them the exact same thing. The item hasn't shipped over a year and it's always the same thing. Also I have a recording of the call I want to send to them so you can hear my latest conversation with them. They had told me the item would ship at the end of XXXX but still a month later I got nothing. At this point I just want my money back and for this to be over. Please do the research and rethink the decision. I have all the information you need please feel free to contact me for more information. I have proof they never sent the item and are still telling to keep waiting for the past year. If you look at the company reviews, which I wish I did, there are many people who are in the same situation as me and it's been many months and still not even an update on delivery. I have pictures of these reviews and will happily send them if you need it. My next step was to contact XXXX to see if they can help me with a dispute and file a chargeback. Even though I have all the evidence they need to resolve the case and get my money back they claim nothing can be done because its been too long. I have been trying to send them recordings of the calls and additional information as well to no avail. XXXX refuses to help and insists I pay off the amount charge."
+}

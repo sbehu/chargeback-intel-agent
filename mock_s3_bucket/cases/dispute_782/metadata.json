@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_782",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "440XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24579,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "between XX/XX/XXXX and XX/XX/XXXX on XXXX separate charges a total of {$17000.00} was STOLEN right off my card- by making balance transfers. \n\nI have demanded an explanation of how this could happen as this card was ONLY in my name. I have received no response. \n\nI have repeatedly demanded XXXX the IP addresses of all of the withdrawals XXXX. Where my money was transferred to- account details XXXX. Exact Dates and amounts of when the money was moved I am getting NO answers. Citigroup has NO sense of urgency. \nPlease help asap. \nThank you so much XXXX XXXX"
+}

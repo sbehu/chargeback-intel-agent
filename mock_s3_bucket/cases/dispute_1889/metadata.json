@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1889",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22554"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30457,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Old Navy online order XXXX XXXXXXXX placed on XX/XX/2024. \n\nI ordered 9 items, the online tracking showing all of the times were delivered in 1 package. However, I received an XL size empty bag with only 2 small items inside. The package looked like it had been opened previously and re-taped with clear packaging tape. I filed a claim with Old Navy regarding 7 missing items asking for a refund. \n\nAdditionally, I redeemed my Cash rewards dollars, XXXX XXXX and otherwise utilized a total of {$76.00} in multiple promotions in this order. Since 7 out of 9 items I ordered were never delivered, I had to re-order those items at a full price, which cost me 2-3 times more than the original cost, so I asked to be reimbursed for the difference as well. \n\nOn XX/XX/2024 I received a response from Old Navy customer service saying that my request for a refund had been denied, without any reason or further explanation. I was completely dumbfounded. I was a loyal customer for many years, and buy A LOT from this company on a regular basis. In all my life I've never had to deal with a retail company refusing to refund merchandize I paid for, but they failed to deliver. They can't do that, can they??"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13242",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "967XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48026,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2026 an illegal charge of {$600.00} was made at XXXX XXXX, XXXX, NY using a physical credit card sent by CitiBank by XXXX XXXX to a criminal who took over my account, and using information they could have only got from Citibank not me, that is my security questions and answers, who tricked Citibank into negligently adding them as an authorized user and sending them an new authorized user additional card in the criminal 's name to a completely illegal address then my legal address on file. I live in Hawaii and could not have received or made charges in New York State. \n\nThis was on my Citi XXXX XXXX XXXX previously ending in XXXX which XXXX cancelled assuring me I would not be responsible for the charges and then sending a replacement card ending in XXXX but unfairly and deceptively still showing this clearly criminal charge still on my account with the new card. I was falsely absolutely assured by no less then XXXX different Citibank XXXX XXXX, both from the foreign fraud call centers and also by XXXX in the domestic XXXX XXXX XXXX, that I would not be responsible for the charges. \n\nAlso previous to this XX/XX/XXXX criminal charge on my account I received a text message from Citibank saying a new Citi XXXX XXXX XXXX was being sent to me by XXXX XXXX and I immediately, and before the illegal charges, called the XXXX XXXX call center and was falsely, negligently, and unfairly told that Citibank never sends cards by XXXX XXXX, only by USPS, and since no card came to me by XXXX XXXX I thought it was a phone scam until I saw the illegal charges made by the criminal with the illegal new card. \n\nThe criminal did not fly to Hawaii to get near my physical card or locked P.O. Box at the post office and could have only gotten my information by tricking Citibank Citibank needs to correct it's negligent and unfair security breach"
+}

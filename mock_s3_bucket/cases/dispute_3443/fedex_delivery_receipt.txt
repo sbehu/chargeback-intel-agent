@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-82457071-US
+Shipment Date:   2025-11-04T00:00:00Z
+Delivery Date:   2025-11-10T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     3842 HILLSIDE WAY, OH, 42214
+============================================================

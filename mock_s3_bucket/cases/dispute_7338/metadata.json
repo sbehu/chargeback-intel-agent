@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7338",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33027"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36253,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Re : Citi AAdvantage Platinum Select Cards Charges not made by me to the credit card : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  As soon as I received the notification of these charges, I proceeded to call Citi and told them to decline the transactions, that I didn't do the purchases ; Citi even told me to call the merchant, so I called XXXX XXXX, and they said I had to call Citi to decline the purchase. Even though Citi credited the amounts while investigating, they came back saying that I'm responsible for the charges and reversed the credits. I have wasted a lot of my time calling Citi on several occasions, where sometimes is almost impossible to understand the person I'm speaking with, as most of the fraud department agents are from another country. This has been very frustrating trying to resolve this issue."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11388",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80524"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8109,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "citi just sent me a letter and it is full of blatant lies. \n\nI have every email I have sent to this compay to support my returns and disputes, they XXXX Lying when they say I didn't send them that. \n\nI have so many emails, I will try to attach all. \n\nCiti, stop lying and handle your business appropriately, please and thank you I will attach the letter that states the amount of {$100.00} wasn't returned and i didn't support what they needed. NOT TRUE I will clearly attach a screen shot of my order, amazons confirmation of a return and refund, minuz the XXXX retail fee in colorado. \n\nI was due a full refund, XXXX confirmed it, but they didn't process it, so I asked XXXX to be involved. \nthis is for XX/XX/year> {$100.00} The only reason it is now too late to help me is that they ignore every othe remail I have sent with the tracking numbers and refund screen shot, for months at a time. Why do i have to file a complaint with the CFPB to get real help? \n\n\n\n\nI am also attaching the {$21.00} on XX/XX/XXXX which they claim i didn't support the return nor did XXXX. Not true, clearly attaching exactly what I sent to them multiple times. \n\nsorry but this has been very stressful on me and I have chronic illness."
+}

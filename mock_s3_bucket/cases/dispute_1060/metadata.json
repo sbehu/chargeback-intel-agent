@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1060",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "18940"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3650,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have ordered XXXX XXXX XXXX  from XXXX. XXXX Upon opening the package, I discovered the screen has a crack and ordered the replacement on XX/XX/XXXX after reported to XXXX. I mailed back the damaged package with tracking #. A day later XXXX XXXX  was order was canceled by XXXX with no reason giving. When I asked why the replacement was cancel the agent has no answer for me. Then I decided to order from another vendor XXXX. I ordered the same phone with XXXX instead. Same price XXXX. \nThe following week it was XXXXXXXX XXXX the same exact phone was reduced to the price of {$850.00} I have returned back the XXXX order and purchased the lower price one from XXXX again order #. \nUntil XX/XX/ I have discovered on the credit card investigation package of tracking # that was sent to my address. I immediately report to XXXX that I havent never received any notification or any type of communication. XXXX agent refused to help and ask me to contact XXXX for a missing package that they sent. When I contacted XXXX I was told only sender can request credit and from receiver. XXXX refused to file a missing package on my behave and refused for refund along with the BestBuy credit card company. I have paid my credit card, {$1100.00} with fee and interest due to the failure of XXXX not filing the missing package."
+}

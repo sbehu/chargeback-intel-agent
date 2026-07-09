@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12094",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93711"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44001,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "YEAR XXXX -- -Erroneously added {$1000.00} by mistake to my bridge toll account in early XXXX, XXXX. Meant to add {$100.00}. I initiated a dispute for charges with Citibank on XX/XX/XXXX because the toll bridge entity was not responsive to my situation and took 3 weeks to finally return the {$1000.00} to my Citibank cc. The bridge toll vendor returned the {$1000.00} o XX/XX/XXXX back to my Citibank credit card. Citibank resolved dispute in my favor on XX/XX/XXXX ( over 45 days after money was credited back to my account by bridge toll vendor ). That was over a year ago. Case closed, it'si the past. \n\nYEAR XXXX But no... \n\nXX/XX/XXXX, XXXX Citibank mysteriously reopened the disputed case after I spoke with an incompetent Citibank dispute agent re : other disputes on the card. She erroneously re-opened the already resolved dispute in question without my authorization as I had never made mention of this dispute. \n\nXX/XX/XXXX- Citibank says the dispute was once again resolved in my favor and a conditional credit of {$1000.00} on XX/XX/XXXX to my account. However, Citibank has never, to this day, credited my account with the conditional credit of {$1000.00} despite it being stated in my online info. I had to deposit an additional {$1000.00} to my account in order to not get charged with monthly fees. \n\nI have spoken to at least 6 dedicated Citibank Dispute and Fraud agents by phone in the past 2 months and except for one agent, all the others were of absolutely no use. The one good agent told me that he'll get it resolved in 2-3 weeks. Needless to say, that didn't come to fruition. I have emailed Citibank Dispute Dept on two separate occasions and both times no response on receiving my email were returned, despite my explicit request for a just a quick response indicating that they had received my correspondences. I have sent proof to the repayment of {$1000.00} by the toll bridge vendor and they still have not responded to me by mail, phone or text. Crickets. Nobody at the Dispute Dept is competent or have the ability to firstly, understand my situation, and secondly, have the power to resolve the situation. I have spent at least 1-2 hours with each of these agents, most of the time being on hold while they to research, only to return without understanding the gist of the problem or having the ability to resolve it. I am beyond frustration... I do not know where or who to speak to anymore.\n\nCurrently, according to the Citibank website the case is under review ( it's been over 2 months in review ). It doesn't take 2 months to look up one transaction and adjudicate this case in my favor.\n\nI hope you can somehow assist in calling this case to Citibank 's attention as it appears that this case has fallen through the cracks and nobody at Citibank is seriously addressing it."
+}

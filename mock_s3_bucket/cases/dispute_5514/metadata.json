@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5514",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10705"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9647,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order from Home Depot XXXX  website on XX/XX/XXXX. It was marked as delivered at XXXX I went downstairs to get my package and nothing was there. I sent a message to the delivery driver XXXX XXXX who claimed he left it in front of the glass door in front of my apartment building. I told him nothing is there and he said its there and there's a picture sent. There was nothing there and I never received a picture. So I called XXXX XXXX customer service and the rep told me to file a dispute with Citi. I filed a dispute and on XX/XX/XXXX I received a letter in the mail stating the dispute was found in my favor. On XX/XX/XXXX, I received a letter that the dispute was found in the favor of Home Depot and that I am required to pay for the merchandise. They also threatened to ruin my credit by reporting it to the XXXX agencies. I was then told to reach out to the retail equation. So I called them and the man I spoke to told me they based it on my past transactions because I returned a few things. He told me if I don't agree to send an email to this email address XXXX and I will receive a copy of the transactions and if I don't agree with them to send them an email to dispute it. Today XX/XX/XXXX they responded saying the transaction is valid and I need to pay for it. How is that right? Forcing someone to pay for something I never found and threatening to ruin my XXXX XXXX. What they are doing is illegal. I would appreciate your help please. Thank you"
+}

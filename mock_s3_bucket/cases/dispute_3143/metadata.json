@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3143",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44310"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>2024 I booked a prepaid rental car reservation through XXXX & XXXX XXXX XXXX XXXX totaling {$170.00} that I paid for with my XXXX account linked to my debit card & personal checking account. We picked the rental up on XX/XX/XXXX & used our Barclay 's Mastercard to cover the deposit required to rent the vehicle, as we already prepaid for the vehicle on XX/XX/XXXX. We returned the vehicle as scheduled on XX/XX/XXXX. The following week, I discovered a charge for {$440.00} on our Barclay 's Mastercard that was used for the deposit. I immediately contacted XXXX via email to inquire about the charge as email is their only method of communication. Only XX/XX/XXXX, I received a email response indicating I had been billed for an additional cleaning fee & the charge was determined to be valid. I emailed back requesting photos or evidence of the need for additional cleaning as I'm sure we returned the vehicle in the same condition we picked it up in. The same day, XXXX responded indicating they were going to investigate further & get back to me. I never received any further correspondence from them. As a result, I filed a dispute with my Barclay 's Mastercard later that week. I sent Barclay 's evidence of my reservation & total cost for the rental as well as my prepaid charge on my XXXX  account that was paid in full ; as well as the email exchange between me & XXXX XXXX XXXX confirming they never responded to my request for proof. I spoke with at least XXXX different agents & XXXX Sr. Account Resolution Specialists at Barclay 's trying to resolve the matter. I received a letter dated XX/XX/XXXX from Barclay 's indicating they denied my dispute due to insufficient evidence that services were not rendered. I called back requesting XXXX call backs twice. The last dispute  specialist who called me back simply regurgitated what was stated in the letter & told me if I have further concerns to write into the CEO 's office as I could not speak with his XXXX. I explained several times I was not disputing the fact that services were rendered. I was disputing the undocumented cleaning fee that has no evidence to support it. The XXXX did nothing to resolve the matter."
+}

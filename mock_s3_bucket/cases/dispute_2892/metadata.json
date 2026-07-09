@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2892",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95112"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37003,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX i received a camera purchased from XXXX, the camera had defects and was not functionally operational as intended. I that weekend opened up a case with Citi and was provided a conditional credit a few days later. I provided description and proof. \nOn XX/XX/XXXX Citi sent me that they will investigate the issue after the CFPB complaint On XX/XX/XXXX I provided the PDF below called proof.pdf that shows proof the item was damaged and was not functioning as intended On XX/XX/XXXX, less than 48 hours they sent me \" We have reviewed the information concerning this dispute. Unfortunately, we are unable to resolve this dispute in your favor, since we have not received valid proof of what was expected versus received, and any proof of return. \nPlease contact the merchant to pursue this matter further. \nWe now consider this investigation complete. '' This is after providing the visual proof that they requested! \nI then contacted Citi again via phone and an agent said they would reopen the case as he saw the proof in the images. \nOn XX/XX/XXXX I got \" We may be able to assist you if you provide us with a documentation showing the merchant agreed to credit your account. If you are unable to provide this, you will need to seek other means to obtain credit. '' Once again, referring to proof.pdf, XXXX refused to give me my money back and I could not refund the item. I then contacted Citi again and they said they would look at the case once more without the phone rep elaborating based on the proof i provided. \n\nOn XX/XX/XXXX Citi closed the case for good with this note \" We have reviewed the information you provided, as well as the information provided by the merchant. Unfortunately, we are unable to continue your dispute as we have determined the merchant is unwilling to issue a credit. \nWe now consider this investigation complete. ''"
+}

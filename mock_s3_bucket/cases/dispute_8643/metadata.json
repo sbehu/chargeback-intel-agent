@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8643",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "462XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 857,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Home Depot sent me a washer w/ free installation Which was not properly installed Consulted w/ them numerous times Washer does not work I demanded a new washer or Repairs to be made. Home Depot declined Therefore I am requesting return of store card charges Or new appliance Home Depot do not acknowledge their wrong doing That has been the whole issue surrounding this situation"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9375",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10021"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32100,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used my American Express XXXX XXXX for a purchase from XXXX XXXX that was never delivered. I filed a dispute with American Express and provided extensive independent evidence proving non-delivery, including : A signed statement from my buildings package room attendant confirming that the signature XXXX XXXX submitted was for other apartments packages, not mine. \nBuilding package logs and camera confirmation showing no delivery to my unit at the claimed time. \nTracking information showing clear contradictions ( marked Delivered at XXXX XXXX  but later marked Received at facility / in transit at XXXX XXXX  ). \n\nXXXX XXXX repeatedly submitted the same incorrect proof of delivery, and American Express accepted it without conducting a reasonable investigation. American Express instructed me to contact the shipping carrier myself, which is the merchants responsibility, not the cardholders, and is inconsistent with Regulation Z and the Fair Credit Billing Act.\n\nAmerican Express has ignored all independent evidence and denied the dispute twice, relying solely on the merchants recycled documentation. I am being billed for merchandise I never received despite substantial proof of non-delivery.\n\nI request that the CFPB require American Express to conduct a proper investigation, reopen my dispute, and/or reimburse the loss under Purchase Protection as allowed for XXXX cardmembers."
+}

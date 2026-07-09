@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1571",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94509"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49696,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX - I filed a disputed transaction report with Barclaycard, regarding an item purchased from XXXX that was never delivered. \nXX/XX/XXXX - Barclaycard issued a provisional credit for the disputed amount. \nXX/XX/XXXX - Barclaycard sent a letter stating that they tried to call me twice to gather additional information ( I don't deny this - I did not answer the calls because I didn't recognize the number and thought they were junk. ) Therefore Barclaycard reapplied the amount of the item to my account. However, the letter stated I could reassert my claim within 10 days of the receipt of the letter and could send additional documentation to support it to an address they provided. The letter was dated XX/XX/XXXX but I received it on XX/XX/XXXX. \nXX/XX/XXXX - I mailed a letter to Barclaycard to the address they provided reasserting my claim. Documentation was included. \nXX/XX/XXXX - My letter was returned unopened, marked \" Return to Sender/Attempted - Not Known/Unable to Forward/Return to Sender. '' XX/XX/XXXX - I contacted the Barclaycard Dispute Department and was given a different address to mail the paperwork to. They gave me instructions to formally request for the case to be reopened. I mailed the letter the same day. \nXX/XX/XXXX - Barclaycard sends a letter denying my claim, stating \" We are outside of the permitted timeframe to continue this claim through the dispute process. '' XX/XX/XXXX - Barclaycard unexpectantly sends another letter stating, \" we are pleased to notify you that we have resolved your billing dispute with XXXX in your favor. You will see a credit of {$280.00} on your next billing statement. '' XX/XX/XXXX - The credit does not appear on my next billing statement, so I call the number provided by XXXX for help. They say the issue is \" being escalated to the back office team '' and to look for credit to be applied soon. \nXX/XX/XXXX - The credit does not appear on the next statement. I call Barclaycard again. I am told, \" rest assured you have won your case. Credit will be applied. Please continue to wait patiently. '' XX/XX/XXXX - XXXX months later the credit still has not been applied to any statement. I called Barclaycard. The representative says he sees nothing in the system regarding their letter of XX/XX/XXXX and wants me to mail in a copy of it. I refused and demanded to speak to a supervisor. The supervisor acknowledges they sent the letter, and said the credit should be issued in XXXX week. \nXX/XX/XXXX - As I write this complaint, no credit has been issued. \n\nThank you for taking this complaint against this company, who is giving this long-time customer the run-around for no apparent reason. This business practice needs to be stopped for the good of all consumers. I have documentation of everything referred to above : the letters Barclaycard sent, copies of the letters I sent, the returned envelope, post office receipts, notes from phone calls with the names and ID numbers of the Barclaycard representatives I talked to, as well as documentation from the original transaction with XXXX and their delivery carrier XXXX."
+}

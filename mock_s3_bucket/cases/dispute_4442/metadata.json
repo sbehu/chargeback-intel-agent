@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4442",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15998,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had recently moved to XXXX, XXXX XXXX and work at the XXXX XXXX XXXX XXXX. On XX/XX/year>, after having dinner with my family at XXXX XXXX in XXXX, we were walking out of the restaurant and a man approached us in a suit and name tag. He said he worked for XXXX XXXX and asked if I had signed up for my 20 % off coupon. I said I wasnt interested but he was being persistent and said it would only take a few minutes. He led me to the XXXX XXXX XXXX row of ATMs and said I could sign up on the ATM, and I just needed to use my bank card ( in XXXX XXXX many different types of transactions are done through the ATM so this did not seem unusual to me ). \n\nI inserted my XXXX XXXX  XXXX debit card and logged into the ATM. Another man approached and was trying to distract me. I started to get the sense that something was not right and I tried to retrieve my ATM card but it was stuck in the machine. I took out my citibank credit card and tried to dislodge my ATM card with it but it did not work ( I did not insert it fully into the ATM machine ). The second man walked away and the first man was pretending to assist me. I told him that I worked for the XXXX XXXX and was calling the XXXX XXXX XXXX XXXX XXXX XXXX to assist he then fled. \n\nKnowing that my bank card was stuck in the machine, I immediately deactivated it through the app. Subsequently, a number of charges were blocked totaling close to {$7000.00}. Unfortunately, I did not cancel my citibank card because since it didnt go into the ATM machine, I didnt think it was compromised. I only realized it was compromised after I got an alert from Citibank for potential fraud ( charge for {$2500.00} for XXXX XXXX ). Unfortunately, their first transaction of {$1700.00} for XXXX XXXX XXXXXXXX XXXX went through. This does not appear to be a legitimate company and I did not authorize the transaction. I disputed this claim through the fraud department and was told since I was still in possession of the card it was not fraud? Clearly this is a skimming scam and I did not authorize the purchase. Had Citibank performed even a cursory review, they would have realized this was fraud. \n\nBased on the advice of a very helpful Citibank customer service rep, I then tried to dispute the claim with Citibank as a charge dispute ( instead of fraud which it is ), and then denied the dispute again on XX/XX/year> - stating That once the credit card number is given to merchant and a transaction has taken place, the merchant terms and conditions apply.\n\nAgain, this was FRAUD and was subject to a skimming scam from a reputable ATM machine. I never gave my credit card information up to engage in a transaction with XXXX XXXX XXXX XXXX"
+}

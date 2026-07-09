@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8036",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "78660"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42621,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, my Citibank credit card was fraudulently charged {$500.00} at XXXX XXXX. I immediately received the transaction alert and disputed the charge right away, while also canceling the card. At that time, I was at work, so it was impossible for me to be at XXXX XXXX making this purchase, and my card has always remained in my possession. \n\nAfter the investigation, the bank informed me that since the transaction was made with a chip card, it was considered my responsibility. In XXXX, the disputed amount was posted back to my account, and the automatic payment has already repaid this charge. \n\nI would like to emphasize the following points : XXXX. Over 90 % of my transactions on this card are made at XXXX, and I rarely use it elsewhere. This transaction is inconsistent with my spending habits and usual purchase locations. \nXXXX. I was at work at the time of the transaction and had no opportunity to shop. \nXXXX. My card has always been in my possession and has never been lost. \n\nI kindly request that Citibank reconsider this case and refund the disputed amount."
+}

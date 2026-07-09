@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3781",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "834XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9461,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXXXXXX XXXX XXXX XXXX charged our XXXX XXXX XXXX XXXX for {$59.00}XXXX XXXX must have had our credit card on file and were charging a subscription fee. Problem was we didn't know they made the charge and we hadn't done any other business with Citibank since XXXX. The first I knew about this charge is when Citibank sent me emails saying a payment was past due. I thought I had cancelled my card with Citibank years before, so I thought the emails were scams. After a couple of emails, I looked into it and found the charge from XXXX plus interest and charges {$41.00}. \nWe called Citibank, told them the XXXX  charge was not authorized by us and we agreed to get XXXX to remove their charge. Citibank told us if XXXX removed their charge, they would refund fees and interest. So, for XXXX to refund, we had to have a statement from Citibank showing their charge, which we received and sent a copy to XXXX and they refunded the {$59.00} and we receivedanother statement from Citibank showing XXXX balance. A month later we get another billing from Citibank showing fees and interest owed. We've called Citibank and no one knows anything about the agreement to refund us the fees and interest. They want to pay, it doesn't seem right. It's not a big amount of money, but I couldn't let it go without complaining, about them not attempting to make this right but also about their horrible phone messaging system, making it almost impossible to talk to a rep, and getting tossed around from one person to another and have to explain the whole problem again."
+}

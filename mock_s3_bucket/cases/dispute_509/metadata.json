@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_509",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85257"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "At the end of XXXX.Multiples unauthorized payments were allowed that i had to have rescinded XXXX Was told a XXXX XXXX dollar adjustment was made and then asked to have it taken off and they said tough luck just figure it out and pay it back. \n\nXX/XX/18 Was told a XXXX dollar payment I made hasnt been applied to credit limit and I asked multiple times and they said it was waiting then, on the day it was meant to paid back they backtracked and said it was even though on multiple recorded lines said it hadnt and even had me verify with the bank twice. \n\nI asked for a limit raise as a gesture of good will or just a credit adjustment of the misled amount to make up and they refused saying they could do nothing. \n\nI have been lied to multiple times over the past few days and you can request the calls."
+}

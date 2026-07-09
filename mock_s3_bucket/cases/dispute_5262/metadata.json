@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5262",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "730XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38414,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I received an email from Citibank [ AAdvantage ] ; account ending in XXXX and to XXXX that a charge for {$130.00} was being drawn from my XXXX XXXX XXXX  checking account. When I called Citi Card, they acknowledged seeing the charge but could not explain it. They could not identify the merchant, and I would have to call back in four days. In the meantime, I called XXXX XXXX XXXX and disputed the charge on that end. \nOn XX/XX/XXXX, around XXXX am, I again called Citi Card ; the Fraud Dept. The agent could not explain the charge and said it was being investigated. \n\nSubsequently, I received a letter from Citi Card noting the disputed undertaken by Bank of Oklahoma, and Citi Bank wanted me to go ahead and pay the {$130.00}.\n\nIt is alarming that somehow, using the Citi Card system, that someone could initiate a draw on my bank account. I have locked my Citi Card account and deleted all links to all four of my bank accounts."
+}

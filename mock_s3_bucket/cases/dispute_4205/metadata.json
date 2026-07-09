@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4205",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14051"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30510,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was victom of a XXXX scam in late XXXX, and submitted a dispute of nearly $ XXXX to barclays bank. My dispute was closed immediately, with a letter sent to me stating it was essentially auto-closed because \" service was provided '' although the property I rented was not at all what was advertised. I put together a detailed packet of information, and sent it to Barclays within 30 days to re-open the case. They closed the case again stating I did not send my followup documentation within 20 days. This arbitrary 20 day time limit was not disclosed in the initial letter, nor can I find it anywhere in my account documentation. The scammer is walking away with nearly $ XXXX, will continue to scam other customers, and Barclay Bank is doing nothing to stop it."
+}

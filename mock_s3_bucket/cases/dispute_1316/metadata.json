@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1316",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "117XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7429,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I placed an order at Macy 's web site Order # XXXX Rope Link XXXX '' Chain Necklace ( XXXX ) in XXXX Gold {$410.00}. According to Macys item was delivered on XX/XX/2023. I was never given a tracking number neither proof of delivering. I never received the item. \nMacy 's sent this email and closed my dispute : Dear Jose L Calle , Thank you for your recent inquiry.\n\nAfter careful consideration of your claim and after reviewing your order history, we regret to inform you that your request for a credit or order reshipment has not been approved.\n\nWe value you as a Macy 's customer, so if you feel your issue has not been satisfactorily addressed, please email us at XXXX. \nRespectfully, XXXX A Customer Service Representative XXXX I believe Macy 's has a bias business practice with their Macy 's AMEX credit card in other words Credit Card protects Macy store interests while penalizing the customer in this case me, their refuse to credit back {$410.00} amount for the item I never received, their only answer is the case is closed. As a credit card user should be protected against a lost of item that was never delivered to me. \nI need your help to guarantee a fair resolution to this problem that will protect my interest as a consumer. \nTo protect my good credit history I have proceed to paid for the amount of the item I never received, so for me a fair resolution will be for Macys to full refund me the amount of {$410.00}. \nBased on this this bad experience I will proceed to close my Macy 's AMEX credit Card account and stop doing any business with Macy 's as I believe Macy 's didn't look in account my best interest as customer."
+}

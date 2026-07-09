@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_331",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30144"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11099,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There is a fraudulent charge on my account that I have been trying to resolve for months from XXXX XXXX XXXX which is located in Florida and I live in Georgia. I saw the charge on my account XX/XX/2023. I have never used garage services in my life and when I tried to dispute the charge American Express is denying the dispute."
+}

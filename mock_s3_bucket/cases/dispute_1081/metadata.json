@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1081",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89147"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23482,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I disputed a charge made by XXXX saying I had purchased a game that was shipped to an address in Texas. At first, the employees I spoke to tried to be helpful. I spoke to at least XXXX. In XXXX, I received a notice that they had documentation from the merchant & the {$160.00} was added back to my account. I immediately contacted Citibank & spoke to a man ( I wish I had written his name down ). He became very accusatory & said you didn't sign the letter & return it to us by XX/XX/XXXX, as you were instructed. I told him I never received the letter. He said you most certainly did, it's on your webpage. I said & I'm supposed to know this. He said yes. I did find the letter on my webpage. I signed & mailed it to Citibank, XXXX XXXX  XXXX, XXXX XXXX, SD XXXX. \nI phoned Citibank again & was bounced around & asked to call a different number. Finally, I reached a man who seemed to know what I was talking about. He said they had documentation from XXXX. The documentation showed my credit card number, my name was misspelled & an address of XXXX XXXX XXXX, XXXX XXXX, Texas XXXX, where the game was delivered. I did not make this purchase & have no intention of paying. XXXX of the employees asked if I had grandchildren who XXXX have used my credit card. I do have grandchildren, but they live in XXXX & have no access to my credit card. The thing that bothers me the most is that I receive advertisements & solicitation from Citibank at least weekly in the mail & they couldn't mail the letter or send me an e-mail to tell me the letter was on my webpage. They have now sent me a bill & sent an e-mail to tell me where it was. They have charged me interest & have threatened to charge me a {$40.00} late charge. Please help."
+}

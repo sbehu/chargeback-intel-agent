@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_430",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91202"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34338,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, two charges were made on our credit card, using a \" XXXX '' machine. Both charges were in identical amounts of XXXX XXXX ( or {$4200.00} total ) to two businesses located in XXXX. On this date we were traveling from XXXX to XXXX, using rail service. We learned of the fraud charges after returning to the US and receiving the credit card monthly statement. We immediately reported the fraud to Barclays. The company initially responded by reversing the charges on XX/XX/XXXX. We told the company that we still possessed the credit cards, and they issued new replacement cards. Following their investigation, they reinstated the charges on XX/XX/XXXX. On XX/XX/XXXX, we received two contradictory letters from Barclays, one saying we were not responsible for the charges, and the other saying we were responsible. On XX/XX/XXXX, we mailed a letter to Barclays sitting out our position of why the charges were fraud and how our credit card was out of our view on separate occasions on XX/XX/XXXX. On XX/XX/XXXX, we received another letter from Barclays, confirming their decision that the charges were valid and we had a responsibility to pay. We still dispute this decision. We note that a \" XXXX '' device is hand held, some small enough to fit in a pocket, and easily used for fraud. We received no impression from Barclays that they actually investigated the two companies located in XXXX."
+}

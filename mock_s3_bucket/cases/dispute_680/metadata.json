@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_680",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "958XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24117,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Oh my goodness where to start. My husband and I booked a hotel for XXXX, XXXX as part of our honeymoon from XX/XX/XXXX to XX/XX/2023. The hotel is called XXXX XXXX. We booked the hotel on XX/XX/2023 it was for 2 nights, 1 room, and it was going to be my husband, myself, my best friend, and my best friends boyfriend who were going to stay at in the same room. The total came out to {$750.00}, however, we were not charged the amount until we checked into our hotel on XX/XX/XXXX. We got to the hotel at approximately XXXX XXXX. The four of us were all exhausted, so we just checked in handed the front desk my American Express platinum card, and our passports, and then went to our room. We put our bags down on the floor then the four of us decided to take a nap, about 30 minutes into our nap my husband wakes up and says ow something had bit him on the arm, I go over to look at his arm and it looks like a bug had bit him. We immediately started searching the beds in the room and sure enough we saw one bed  bug  under the mattress. We also saw dried up blood spots all on the mattress. I took a picture of my husbands arm and of the dried up blood spots. We started looking for other hotels and luckily found an XXXX  not far away. We got our bags and as we were leaving the gentleman who checked us in asked us where are we going? My husband told him that he got bit by a bed bug, but the gentleman assured him it was just a mosquito bite. The gentleman asked my husband to show him where he found the bed bug and the dried up blood spots, the gentleman went to the room but literally just swiped at the bed sheet and did not do a thorough check. The gentleman ended up charging us the full amount even though we were at the hotel for a total of less than an hour. We ended up filing a dispute with American Express and explained the whole situation to them and provided the pictures of my husbands bed bug bite on his arm, and of the dried up blood spots on the mattress. Initially Amex sided with XXXX XXXX until we provided all the information. Then Amex sided with us. But then on XX/XX/XXXX  I see the charge of {$750.00} show back on my Amex Platinum statement. On XX/XX/XXXX  I call Amex customer support saying why was the charge posted again and they said because XXXX XXXX did not agree with the dispute. I asked to speak with a manager and they said for me to call the Amex Travel Insurance support, since apparently Amex Customer Support did not want to deal with my dispute anymore, they said there was nothing they could do anymore and I would have to pay the charge, pretty much telling me to XXXX off."
+}

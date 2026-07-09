@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10759",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "721XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22397,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a vehicle which the dealer would not stand behind. I had to fix and issue which was dealer created and they would not stand behind it. The dealer would not refund my money and I filed a compliant with the credit card company. I just want my refund back asap."
+}

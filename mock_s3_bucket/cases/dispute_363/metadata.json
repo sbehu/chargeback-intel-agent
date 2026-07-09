@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_363",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90036"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41296,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to bring to your attention a pressing matter concerning a recent transaction on my credit card account, which I firmly believe necessitates an immediate chargeback. The details of the issue are as follows : Transaction Details : Transaction Date : XX/XX/XXXX Transaction Amount : {$790.00} Merchant Name : XXXX  Description of Goods/Services : Unauthorized charge for services not agreed upon The heart of this matter lies in the unauthorized charge of {$790.00}, which was processed on XX/XX/XXXX by XXXX. I wish to underscore that I did not authorize or consent to this transaction in any form or manner. \n\nCitiBank has responded with the following : ( I have attached the letter as well ) We respectfully decline your request to issue credit for the disputed {$790.00} XXXX charge that billed to your account on XX/XX/2023. We previously requested that you provide us proof that you cancelled in accordance with the merchants terms and conditions. An example of this proof would have been a cancellation confirmation email from the merchant. Because valid proof of cancellation was not received and due to the length of time that has elapsed since the charge first billed to your account, we are unable to assist you further through the dispute process. You will need to seek alternate means to obtain a credit. \nThanks for your inquiry. We'd like you to know that it's important to us and we appreciate the opportunity to respond."
+}

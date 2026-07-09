@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_532",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "816XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47018,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been illegally billed by an XXXX XXXXXXXX XXXX XXXX XXXX XXXX' for XXXX 's of dollars. The most recent charge is {$190.00}. I was never mailed notice as required of this recurring charge. CitiBank will not assist me. XXXX XXXX is in violation of local, State and Federal Laws. Automatic renewal is one of the critical areas in consumer protection and notice is required. I have had no notice. Citibank is not responding properly to my fraud request saying this is not fraud when it clearly is fraud. THERE was no notice. That is illegal."
+}

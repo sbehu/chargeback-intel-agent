@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9723",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "335XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2057,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I placed a lock on my credit card account so that no transactions can be processed. I erroneously placed an order on XXXX XX/XX/XXXX, of which I immediately canceled on XXXX site. I went to check my credit card and found a pending charge. XXXX days later the charge posted to my account even though it was locked. On XX/XX/XXXX, I filed a dispute online with the credit card merchant, sent an additional email to XXXX and then called Barclays customer service. I spoke to Barclays customer service representative who stated only actual card transactions are blocked. I escalated to an account manager, who told me that certain transactions like auto payments and subscriptions will still go through even if card locked. I explained, this was a actual purchase on XXXX day, so it should not have posted on a locked account. The account manager went on to explain, the charge was initially declined, but it was put through again and they approved the charge without notifying me. I explained, thats not possible, since I only made the mistake once and my XXXX nor XXXX card does not operate like this. Now they believe- I should be hassled disputing the charge with the merchant, when the transaction should never have been processed. It appears Barclays are not operating in good faith and need to have their business practices and security looked at. A consumer should have the comfort of knowing their transactions are safe especially during the holiday, once their card is locked. See emails as evidence account was locked and transcation immediately canceled. No alerts were sent to cardholder."
+}

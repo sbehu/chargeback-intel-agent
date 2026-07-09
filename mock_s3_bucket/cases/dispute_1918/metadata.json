@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1918",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VT",
+    "complaint_zip": "5401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36131,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citi bank card had some fraudulent charges on it from XX/XX/2023 to XX/XX/2023 charges XXXX charges ranging from XXXX to XXXX to a vendor ( XXXX XXXX ). However, the company is telling me that the chip was present at the time of purchase, so they do not feel that it is a fraud claim. The vendor is listed as from XXXX XXXX CA. a place I have never been. Four of the five claims have been denied, however the fifth was covered because it had happened after I reported the charges and was issued a new card. it was charged from the same vendor oddly enough, so they canceled my new card and sent me a third. I have Called several times to have this issue resolved and am frankly sick of the run around. anyone with access to my account and common sense can see there is a clear problem however Citi has made me feel powerless to resolve on my own or within their claims center."
+}

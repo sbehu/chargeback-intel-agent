@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1761",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34231"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11537,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a Sears credit card ending with XXXX. I had a financial difficulty, worked something out with Sears and made a payment with agreement on the phone to pay to delete. After Sears closed down, they sold the account to a 3rd party. \nIn XX/XX/2023, I saw a negative report from them on my credit report so I called the credit card to dispute it. They refused to settle but also refused to remove it from credit report. They sent me a letter stating that they are no longer attempting to collect the remaining balance on my account. They refused to acknowledge my settlement payment that I already paid to delete from Sears because they're now the new owner of the account. Please help me to have them remove the negative report from my credit report because it is hurting my opportunities to purchase a house. \nI can be reached at my email : XXXX or my cell ( XXXX ) XXXX. I give you permission to talk to my wife on my behalf as well. \nThank you so much for your understanding. \nXXXX XXXX"
+}

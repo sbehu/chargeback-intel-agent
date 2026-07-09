@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1381",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33458"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14560,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX took out three credit cards in my name with out my knowledge even signed my signature. \nXXXX. Amex for XXXX. I found after card was 90 days late paid the XXXX balance and closed it. paid and closed XX/XX/23 XXXX. XXXX XXXX for XXXX I found out about this file after it was in collection. \nXXXX XXXX for XXXX paid and closded after 30 day late on XXXX"
+}

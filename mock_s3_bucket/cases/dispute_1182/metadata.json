@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1182",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17944,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "New Information Reply to American Express response dated XXXX. \n\n\nYour letter makes no sense. I am not interested in the history of Amex or XXXX as this has no bearing on my fraud dispute. \nI am not responsible for services or products that I did not receive especially when you have evidence from XXXX dental reports that states under penalty and perjury that most the dental work charged was not performed and does not exist. \nOn top of this you have also received a copy of California Superior Small Claims Court judgement for the full limit the court can legally give of {$10000.00}. I want a response that is relevant and addresses my letters which i have never received from your Company. \nI have been an upstanding customer who has paid in full and on time every bill for over 33 years. \nYou may have been around 150 years but are not protecting your loyal customers and instead have sold out to crooked merchants and dont seem to care if its fraudulent or not. \nI expect the answers to this letter and my last letter. \nI also expect a phone call back as Ive been promised 7 times via phone. \nYour lack of service and personal response is showing that American Express is no longer the Great co it used to be. \nLastly I also offered to attend your offices and show you that the work stated by the fraudulent dentist XXXX XXXX has not been done. \nYou have refused. \nIt is your duty to investigate with due diligence the charges Im disputing and you are not doing so."
+}

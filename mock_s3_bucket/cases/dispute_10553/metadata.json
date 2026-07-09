@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10553",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "480XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27604,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a XXXX XXXX XXXX XXXX XXXX, model XXXX, XXXX XXXX, in-store for {$740.00}. The sales associate talked me into opening a Best Buy Credit Card through Citibank, with the option to pay it off at the time of purchase, so I wouldn't incur any fees and would receive promotional points in dollars to spend on another purchase later. The order number on the receipt is XXXX. The store number is XXXX. This purchase happened at XXXX hours. My XXXX XXXX member ID is XXXX. At the same time, after the card was approved and the purchase was charged to the card, I made an in-store payment of {$740.00} to XXXX XXXX on the same day, which my bank statement supports. The purchase was processed and cleared on XX/XX/XXXX. My bank statement shows the payment posted, and no statement indicates the payment was ever reversed, so the money was received by Best Buy. I was then charged again by the credit card company on my statement for interest and late fees. I paid the interest and late fees to avoid damaging my credit, and filed a credit card dispute on XX/XX/XXXX with CITI Card, submitting my evidence from my bank of the payment. I received a letter dated XX/XX/XXXX, stating that they found no evidence of a payment that was received but not applied to my card, which is unreasonable since I sent proof of payment in the form of a bank statement. They also said they were reversing the charges to my card and would report them to the credit bureaus, since the payment was not made on time after the purchase. I can not stomach paying twice for this washer. Where is the money I paid?"
+}

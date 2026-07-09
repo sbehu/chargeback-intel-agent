@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9057",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3110"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34711,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a merchandise-not-received dispute with American Express for a XXXX purchase that was never delivered. Before disputing, I contacted XXXX several times to resolve the issue directly. XXXX told me they could not provide a tracking number, could not identify the carrier, and had no delivery confirmation, GPS scan, signature, or photo. They also told me they could not locate the package and explicitly advised me to dispute the charge with American Express because they had no proof of delivery to provide. Despite this, American Express denied my dispute twice ( on XX/XX/XXXX and XX/XX/year> ), relying only on an internal XXXX XXXX system entry that says delivered, which is not actual proof of delivery. Walmarts internal code does not show who delivered the package, where it went, or whether it was delivered at all. I repeatedly informed American Express that XXXX has no tracking or delivery evidence and requested escalation to the Chargeback Team, but Amex refused unless I provided new information, even though the merchant has none. American Express is improperly denying the dispute without valid documentation and refusing to correct the decision. I am requesting CFPB assistance to require American Express to reevaluate the dispute under the proper standard and refund the charge since the merchant can not provide any proof of delivery."
+}

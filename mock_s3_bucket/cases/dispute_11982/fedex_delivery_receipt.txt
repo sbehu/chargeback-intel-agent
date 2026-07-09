@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-20869841-US
+Shipment Date:   2026-03-06T00:00:00Z
+Delivery Date:   2026-03-13T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     7344 SUNSET AVE, NC, 27514
+============================================================

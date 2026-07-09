@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8309",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1701"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42538,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a computer with two service memberships for one year. I only had them for a year. One of the memberships was cancelled correctly while the other stay active. I was not aware of the activity until my credit score dropped XXXX points because i did not pay the balance. I was not aware the balance was that as i have received many fraud emails that look like best buy/XXXX. I have not made any purchases at best buy since such computer and i assumed it was fraud. \n\nBest Buy Credit Card charged me for a membership that i canceled with the other one i had. As i have received many fraud emails resembling best buy, i ignored it. I incurred in late fees, and now my credit score via XXXX  dropped by XXXX points which it is significant. \n\nDate of charge : XX/XX/XXXX for {$100.00} Membership was sold via a new computer for a purchase in XXXX. That membership was not to be auto renewal but credit card charged me anyway in XXXX. \nDispute with credit card was raised."
+}

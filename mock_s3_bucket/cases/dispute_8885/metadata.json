@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8885",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11219"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34212,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this formal complaint and appeal against Citibank for improperly denying my billing dispute on defective products and for a systemic failure of their customer service and dispute resolution processes under the Fair Credit Billing Act ( FCBA ).\n\n1. Chronology of Administrative Chaos and Communication Breakdown The core of this issue is Citibanks complete failure to manage the dispute process and provide any effective human assistance : - Initial Intake ( Phone Call ) XX/XX/year> : I was unable to file the dispute via the app and was instructed to call. The initial representative mishandled the case intake, improperly entering the full charge of {$300.00} instead of the intended disputed amount of {$68.00}. The agent acknowledged the error and promised correction. A case under ID XXXX was opened under {$300.00} amount which they closed on XX/XX/year> and reopened case ID XXXX under amount {$68.00} on XX/XX/year>. \n- Block on Communication : The resulting active case ( ID ending in XXXX ) was completely inaccessible via the Citi app or online portal. When I called in repeatedly for a status update on this inaccessible case, the representatives, who were the only human contact point, hung up on me ( XX/XX/year> ). \n- Executive Channels Ignored : I sought urgent clarification and help by sending detailed emails to both XXXX and XXXX. I received no real person response from any XXXX or designated customer complaint channel. I have emailed them on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX and never received a human response. \n- Catastrophic Oversight Failure : Citibank first closed the Case ID XXXX on XX/XX/XXXX ( while I still have no access to this case ), stating I was \" Customer Responsible. '' I appealed this denial via email, and the bank reopened the exact same Case ID ending in XXXX ( and gave me access to this case after reopening it, so I did not have access to this case from XX/XX/XXXX - XX/XX/XXXX despite I have requested access repeatedly ), only to close it again as \" Customer Responsible. '' Denying the exact same claim twice demonstrates a failure of investigation and human oversight. \n- Unacceptable Case Management : Prior to the second denial of Case XXXX, Citibank then created a new case ID XXXX for a different amount, {$60.00} on XX/XX/XXXX, while closing the actively disputed Case ending in XXXX on XX/XX/XXXX."
+}

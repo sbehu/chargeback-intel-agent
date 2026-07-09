@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5243",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46226"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41636,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was over-charged for a purchase from XXXX Flowers. The retail company declined to explain the overcharge, so I disputed it through Citi. Citi responded by saying the retail company had provided a satisfactory written explanation. However, the link provided by Citi did NOT lead to any letter or any explanation at all for the overcharge. I still believe the charge was erroneous, and I want an explanation. Following is the only information provided to me by Citi. \n\nXXXX, XXXX. XXXXXXXX XXXX  {$370.00} on XX/XX/XXXX Investigation complete Resolved - Customer Responsible XX/XX/XXXX XX/XX/XXXX {$55.00} expansion arrow Dispute Details Case ID XXXX Reason for Dispute Incorrect amount Card details Card ending in - XXXX Credit Status Conditional Credit Reversed Dispute Received XX/XX/XXXX expand more button Action Required XX/XX/XXXX expand more button Resolved - Customer Responsible XX/XX/XXXX We've Completed Our Investigation A letter detailing your dispute resolution is available in your Notices & Letters. \nThe conditional credit we previously issued will be reversed."
+}

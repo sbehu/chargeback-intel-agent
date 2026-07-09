@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12608",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "414XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35417,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rented a XXXX XXXX  XXXX from XXXX through XXXX on XX/XX/XXXX. I was notified by XXXX on XX/XX/XXXX that they did not have a XXXX XXXX XXXX available and that I would not be charged. I did not discover that I had been charged and not refunded until I was going through my credit card statements while preparing my personal taxes in XX/XX/XXXX. I then contacted XXXX and they stated the merchant ( XXXX ) would not authorize a refund. I contacted XXXX and they returned my email stating \" Our records show you prepaid your rental with the tour operator. We regret that we are unable to assist you due to third-party billing involvement. Please contact your booking source for a review of the charges billed ''. I then contacted XXXX again and they gave the same response. I asked that this be escalated to a manager and was told that I would receive a callback, however no one ever called. I tried to initiate a dispute through the credit card, but it was beyond the timeframe to file a dispute."
+}

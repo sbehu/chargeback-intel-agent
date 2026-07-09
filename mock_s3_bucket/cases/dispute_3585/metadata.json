@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3585",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37122"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28737,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I were in XXXX XXXX for vacation and ate at a restaurant called XXXXXXXX XXXX XXXXXXXX. The bill was {$61.00}, including a tip. The restaurant submitted the bill to Citibank for {$660.00}, adding {$600.00} to the bill. I contacted Citibank and told them of the error. I provided a copy of the menu and precisely what we ordered. I also noted that XXXX other couples were with us and, therefore, we had XXXX eyewitnesses to the fact that we did not spend {$660.00}. \n\nCitibank did not honor the dispute and I called them to determine why. the call took place at XXXX XXXX. on XX/XX/XXXX. I spoke with XXXX in their Fraud Department and XXXX in Arizona, before being transferred to a supervisor named XXXX. He told me that they were denying our challenge of this charge because they had reached out to the merchant XXXX teims and the merchant had never responded to them. So, despie the evidence submitted to Citibank of apparent fraud, they took no action because the perpetrator of the fraud did not bother to return their call. \n\nCitibank says that it provides fraud protection for customers. This episode appears to offer evidence that this claim is inaccurate and a fraud committed by a vendor will, in fact, be protected even if the vendor chooses to wholly ignore Citibank. It is difficult in this case to ascertain who may have committed the larger fraud, XXXX XXXX XXXXXXXX or Citibank. \n\nI further note that I have had my Citibank card for more than XXXX  years and have never previously lodged such a fraud complaint."
+}

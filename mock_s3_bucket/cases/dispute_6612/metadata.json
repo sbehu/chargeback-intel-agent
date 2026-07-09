@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6612",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38601,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX, I was charged for a deposit on my Citi credit card for a hotel. At the hotel I was told I could use a different card to actually pay for the reservation. The Citi card was the card was the original card I made online a month prior for the hotel reservation. At check in, I opted to use a different card than Citi because I just had opened a new card for a statement bonus. I noticed a charge on my Citi card but was told by hotel staff that was a deposit and it should come off since I changed cards. Long story short, I come home and it has gone to pending to posted. I call the hotel and they provide me with PDFs showing that it is fact a deposit and should have not cleared. They claim I need to just dispute it with my card holder, Citi, the hotel provides all documentation when I then provide to Citi Bank. Today, XXXX XXXX XXXX  -- For some reason, even with all information, Citi claims they can not get enough information even though I provided them with the hotel phone number and all the financial ledger information on the PDF given to me by hotel staff to help support my case. I don't exactly know what more they need to reverse the charge. It is clear as day and I feel like they aren't actually investigating anything at all and I sure as heck will never use this card ever again even though it's been my main card for probably XXXX years now. This feels illegal and gross."
+}

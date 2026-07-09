@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7572",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "024XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44371,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is for a citibank credit card ending in XXXX, I do not have the full credit card account as the account is closed. \nThere was a dispute of the payment with the company called XXXX, I had booked a ticket with them in XXXXXXXX XXXX XXXX they had booked the ticket in which the name and surname was reversed so we were not able to travel on that, we had requested XXXX to cancel our ticket or change the name and surname within 24 hours. The did not do it, they kept on saying we can't cancel it. I have email communication with them. I had disputed that charge on citibank and told them to reach out to me to hear my side of story. I also called them multiple times during the dispute period. The did not even care to reach out to me and only heard of XXXX. The credit card account is closed and they are telling me I am wrong and should make the payment. What kind of credit card company is this."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4624",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42326,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My account was charged {$930.00} on XX/XX/year>. \nThe charge was made in XXXX, XXXX. \nI have never been to XXXX, XXXX. \nI notified the credit card company and they stated that I made the charge. \nI re-submitted my dispute via Certified Mail requesting proof of purchase and they emailed me that they had re-opened the investigation. That was 30 days ago and no proof of purchase has been provided or communication received. The charge remains on my account and they are now charging interest thereon. \nThe charge identifies a company that XXXX XXXX XXXX shows to be a commercial wholesaler. Clearly not a company making sales to foreign individuals. \nEssentially, my complaint rests on my belief that I should not be liable for unrecognized purchases for which proof of purchase can not be provided."
+}

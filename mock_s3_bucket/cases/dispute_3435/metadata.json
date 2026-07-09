@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3435",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "10710"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46223,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, while on vacation in XXXX, XXXX, I went to fill up at a gas station, where I handed my credit card ending in XXXX to the gas attendant who had a HANDHELD CREDIT CARD MACHINE, I assumed that the HANDHELD CREDIT CARD MACHINE was for the GAS STATION and no other business. He then proceeded to run my card on the handheld credit card machine that I thought was for the gas station and then returned it back to me stating my card was declined. I was not given proof of said declined charge. As a result, I proceeded to pay with cash where I was not provided with a receipt for cash payment. I was not aware this handheld credit card machine was for a business named XXXX XXXX XXXX  from XXXX XXXX . I DID NOT authorize payment of {$590.00} to this said merchant, only to the gas station XXXX. \nAgain, although I DID hand my credit card for in person face to face charge, I was made to believe that the handheld credit card machine was for the gas station XXXX. I was not informed that handheld credit card machine was for another business. \n\nIt is impossible to believe that I may be the first person that his happens to where people hand over their credit cards to be charged on a handheld machine, be told it was declined and later find out card was charged for a transaction that was not authorized. \n\nI am very displeased with Barclays asking for proof of payment with other means, as I stated before, when I was informed my card was declined ( with no proof provided ), I paid cash and was not provided a receipt for cash payment. I re-state, I can not be the first one that isnt provided a receipt for cash payment. \n\nYour letter dated XX/XX/year> mentions that Merchant has not violated the terms and conditions of the contract. I have called Barclays asking for the contract and the contact information of the merchant so I can then dispute the charge with the merchant directly. Barclays fails to provide this information. This is also unacceptable."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4121",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92656"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3327,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed the entire outstanding balance of {$4500.00} American Express Hilton credit card back on XX/XX/year>, but the company kept rejecting the case. I called in Amex card company on XX/XX/XXXX, to dispute the charges, the representative said that they already closed my Amex credit card and declined the charges to protect me because it was unusual amount. But later on, the more higher amount charged again, so I disputed it. But the Amex kept rejecting my disputed transaction amount. Please concern"
+}

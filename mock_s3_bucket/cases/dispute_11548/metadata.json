@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11548",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "PA",
+    "complaint_zip": "190XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40205,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank regarding a dispute for a {$4200.00} transaction with XXXX for a resort stay. The bank has repeatedly misclassified a \" Total Breach of Contract '' and \" Safety Hazard '' claim as a subjective \" Quality of Service '' issue. \n\nThe merchant failed to provide the safe, habitable \" Luxury All-Inclusive '' environment contracted for. Specifically : Bodily Injury : I suffered a physical laceration to my leg due to defective and unmaintained facilities at the resort. \n\nChemical Negligence : Resort staff applied industrial vinyl paint in an occupied children 's playroom while my child was present, leading to chemical exposure. The merchant admitted to this painting in writing but inaccurately claimed industrial paint was \" safe ''. \n\nIndustrial Hazards : The resort operated as an active construction zone with heavy industrial machinery on guest beaches daily. \n\nCitibank initially denied the claim as a \" billing error ''. Upon appeal, they denied it again on XX/XX/year>, claiming that because the services were \" used, '' they could not \" place a dollar value '' on the compensation. This is legally incorrect ; a service that results in physical injury and chemical exposure to a child is a 100 % failure of the contract and holds a value of {$0.00}. \n\nFurthermore, Citibank 's internal systems were unable to process the high-resolution color photographic evidence of the injury and chemical labels. Despite being notified that color was critical to distinguish blood and chemical warnings, the bank failed to provide a secure digital upload method and instead closed the case."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4356",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "56007"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29756,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "this is a continuation of cfpb complaint XXXX. \n\nI am writing to say i intend to use every legal means available to me to get that money back and compensation for my time."
+}

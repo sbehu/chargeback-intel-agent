@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6789",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33026"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23209,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I stayed at XXXX XXXX XXXX in late XX/XX/XXXX. My hotel XXXX states charges of {$2300.00}. The hotel XXXX shows XXXX payments made on my XXXX card- {$1700.00} and {$580.00}, total paid of {$2300.00}, bringing my account balance to zero ( see attached XXXX from hotel ). \n\nMy card statement from XXXXXXXX XXXX XXXX  Card XXXX in XXXX showed XXXX charges for this XXXX : {$1700.00} XXXX time, a second {$1700.00}, and {$580.00}, totaling {$4100.00} paid. I contacted Barclays and reported the duplicated payment of {$1700.00}. A credit was issued to my account by Barclays XXXX XX/XX/XXXX. \n\nXXXX 's, on XX/XX/XXXX, reversed the credit and the duplicate {$1700.00} charge reappeared on my card. Upon review of my XXXX statement, I noticed the charge had been reestablished and I called XXXX 's on XX/XX/XXXX to inquire why the credit reappeared. The agent claimed that XXXX 's had received support from the XXXX that supported the reason why the duplicate charge was reestablished. I made the agent aware that there must be an error and I asked for such documentation be sent to me. When I received the documentation, it did not support the Bank 's position at all. \n\nI called Barclays again, only to be advised that the case was closed and there is nothing that could be done. On XX/XX/XXXX I wrote a letter to XXXX 's again explaining the details and asking that they reopen the case to resolve the matter that I have been overcharged by {$1700.00}. \n\nI contact XXXX XXXX XXXX accounting department, spoke to the accounting XXXX XXXX XXXX, who stated that their records show only {$2300.00} was received from Barclays and they do not have record of ever receiving the additional {$1700.00}. See their reply email dated XX/XX/XXXX. \n\nIn a letter dated XX/XX/XXXX, Barclays again advises that they \" remain unable to further pursue '' this case and directs me to pursue issue with merchant ( which I have already ). \n\nI am stuck between a merchant who claims to have not received the duplicate payment and a XXXX  card company that states everything is proper and will not investigate further. XXXX 's has not given me a proper explanation why they feel it was appropriate to reestablish the XXXX charge. \n\nAs a consumer, I am hoping the CFPB can help me find out who has my {$1700.00}. I have been charged and have paid {$1700.00} XXXX times -- XXXX legit and XXXX duplicate. \n\nWhat can I do from here? Please help!! \n\nXXXX XXXX XXXX"
+}

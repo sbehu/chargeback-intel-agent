@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6228",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "398XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46077,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a XXXX XXXX from Best Buy. When purchasing the XXXX, I asked for XXXX XXXX be added to my device warranty for an added layer of protection. A {$170.00} charge was added to my device. I completed payment on the computer in XX/XX/XXXX. Because I had not made any purchases with my card, I had not accessed my account since I made my final payment on the XXXX purchased. \n\nOn XX/XX/XXXX, I received a call, while traveling, from a man stating that he was calling regarding an important matter regarding my Best Buy Citi account. I asked him what the call was in reference to and he stated he needed me to confirm my identity. I refused to provide sensitive information over the phone, due to the high volume of spam calls I receive. I asked him to send the correspondence via email and I would reach out to Citi when I returned home. On XX/XX/XXXX, I receive an email with a notification that my account is two months past due. After signing into my account and reviewing the statement, I realized I was charged {$170.00} for Best Buy Membership. I had not received any communication to notify me that my card was charged in XX/XX/XXXX or that it was past due in XX/XX/XXXX. \n\nWhen I called to inquire about what the charge was today, XX/XX/XXXX, I was told by XXXX, that the XXXX XXXX XXXX was an annual fee. I explained to her the warranty regarding the XXXX XXXX and XXXX XXXX was not properly explained to me in the store, so I was under the impression this was a one-time charge for multiple years of warranty. Additionally, she added that I could have missed correspondence because the email attached to my account was a previous email address, attached to student account. All correspondence regarding payments, including the payments for the laptop, has always been sent to my gmail account, so I was confused as to why this payment would be different. I checked my student email account to find the last correspondence regarding my Best Buy XXXX was on XX/XX/XXXX. This means I never received notification regarding the charge initially. A representative did wave the late fees associated with my account ; however my credit score and credit limit has been negatively impacted due to missed communication and lack of communication via Best Buy."
+}

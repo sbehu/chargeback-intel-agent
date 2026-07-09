@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2127",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92223"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27384,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I applied for this card at Best Buy on XXXX Friday XX/XX/2023. I was approved in store for {$2500.00} and I purchased a XXXX XXXXXXXX XXXX tv for {$1600.00} I was told my payments would be XXXX a month for 2 years. I didnt receive a card until XXXX and when I did it was in the name of XXXX XXXX XXXX the account paper it came on still said my name. I called and found out that he received my card, made himself an authorized user, got credit increases and made thousands of dollars of purchases during this period that I didnt even have a card. On XX/XX/2023 he made a charge for {$700.00}, after that, on XX/XX/2023 another charge for {$900.00}. Then another on XX/XX/2023 for {$630.00}, and one more on XX/XX/2023 for {$1600.00}! After I called they closed out that card and sent me a new one. I received that card and made my first payment of XXXX $ on the account and the balance looked correct. Next month I try to pay and all of the charges are back on my account. I call and they said the dispute was denied and Im now responsible for all of these charges. The only information they gave me on why it was denied was this : The facts and/or information reviewed as part of the investigation does not substantiate the claim of unauthorized use. Ive now reopened this case for the third time and am getting no help. So, I have only ever used this card for one purchase on XX/XX/2023 in XXXX Ca XXXX where I live. I didnt receive a card until XXXX, and XXXX transactions were made in different cities in XXXX."
+}

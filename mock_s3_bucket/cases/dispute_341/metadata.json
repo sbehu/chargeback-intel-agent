@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_341",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76107"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43392,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There were 2 fraudulent charges made on my card on Saturday XXXX XXXX, XXXX of {$12000.00} and one of {$250.00}. \n\nI was not notified by Citi bank and the transaction was allowed and posted on my account, it was not flagged and I was not notified in any way. Even though this was a purchase in a state I have not visited and by far the highest single purchase I have ever made. Now Im over my credit limit and its affecting my credit score. Citi will not give me conditional credit whilst they undertake an investigation. I have checked my credit score and there is a warning for being credit limit and my credit score has actually gone down over XXXX points."
+}

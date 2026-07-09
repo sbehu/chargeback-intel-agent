@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3540",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44122"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27840,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My card was used for several fraudulent transactions and closed by XX/XX/XXXX ( see attached fraud notification ). On XX/XX/XXXX a new charge was made on the card despite it being closed. An additional charge was made on XXXX despite it being closed. Called customer service to report and they did not resolve or acknowledge that they had not prevented the card that was closed from being used."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6882",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11756"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37452,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, while commuting home from work, I began receiving multiple email notifications about unauthorized charges being made to my XXXX credit card. As I was traveling on the train, I was unable to make a call immediately. When I arrived home later that evening, I attempted to contact customer support but found that no representatives were available after XXXX XXXX. \n\nTo prevent further fraudulent charges, I logged into my account and found no option to pause or report the card as compromised only the option to cancel the card entirely, which I proceeded to do.\n\nThe following morning, I contacted customer service and spent approximately an hour speaking with the fraud department. I was told a fraud claim had been filed and was under review. \n\nHowever, on XX/XX/year>, I received an email indicating a payment was due. When I logged in, I saw a balance of approximately {$170.00}. I called customer support again to inquire and was connected to a representative who saw the dispute on file but disconnected the call unexpectedly. I\n\ncalled back and reached another representative, who asked me to provide details of the transactions. While trying to log back into my account, I was unable to do so the system would not let me reset my password. I was then informed that no fraud claim had been processed, and since the card was closed, it was no longer possible to file one. I find this situation unacceptable. I am being held responsible for charges I did not authorize, and the lack of clear support or proper fraud handling is deeply concerning. I am requesting the following : A full investigation into the unauthorized charges made to my card. Immediate reversal of the fraudulent charges currently reflected on the account. Clarification on why the fraud claim was not properly processed. Access to my account records so I can review and identify the unauthorized transactions. Please acknowledge receipt of this message and advise me on the next steps. I expect this matter to be treated with urgency."
+}

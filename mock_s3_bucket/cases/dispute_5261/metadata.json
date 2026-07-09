@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5261",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "AZ",
+    "complaint_zip": "86301"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42241,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a Best Buy credit card which is a Citi Bank account. They have a service called XXXX XXXX. I informed the store clerk that I no longer want the service, as their terms of service changed. They assured me upon renewal I would not be charged. Several months later I received a text message from Citi Bank that had a payment due. I had not received any statement indicating that I had made a purchase. Upon calling Citi they informed me I have a charge on my account for the XXXX XXXX service for another year. I call Best Buy customer service, explaining the charges and was informed that because I did not contact them within XX/XX/year> days I would be obligated to pay 20 % of the charge which amounted to about {$45.00}, along with late charges, now owning over {$100.00}. I explained had I received a statement indicating a charge, otherwise I would have timely responded. Needless to say I'm frustated dealing with them and additionally concerned about having my credit dinged. My FICA score is well above XXXX."
+}

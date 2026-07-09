@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1173",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30039"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31005,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called Citibank two days before XXXX XX/XX/2023 to complain about a series of almost daily charges made showing payment to XXXX that I did not authorize. I allowed my son to use the credit card to get gas in his car and fast food on occasion. He apparently without my knowledge signed up for some online gaming site that turned out what may be a Russian scam operation. Once they got my credit card information, that repeatedly made charges to the card. I called Citibank and was told that the card was cancelled and that no further charges would be posted to the account after it was closed supposedly on XX/XX/2023. Despite my best efforts to have the card cancelled I kept seeing new charges posted to the credit card after I believed the account had been closed. The lady on XX/XX/2023 told me I would receive a new credit card with a new account number in a plain white envelope in about 10 days. I immediatly cut the credit card into tiny pieces and threw it away. When I kept seeing new charges posted to the account I called CitiBank again the first week in XXXX and tried to find out what was going on. The fraud department did not seem to have record of the first call in their system. I explained what had happened and that I should have no responsibility for any charges after my first call to Citibank on XX/XX/2023. I was told that since my son did apparently sign up for this Russian game that I would have liability for the XXXX charges. I told them that no services were provided and that the entity placing the charges was a scam operation. It appeared to me that Citibank was in some conspiracy with the creditor placing the charges against me. I have impeccable credit and went ahead and paid the bill in its entirety in dispute to keep my excellent credit. I received a letter today from Citibank that they contend the dispute is now closed and threatening to report my account as past due to the credit reporting agencies if the debt was not paid ( which I had already paid in full under protest )."
+}

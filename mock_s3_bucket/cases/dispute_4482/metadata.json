@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4482",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95020"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34486,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "From XXXX XXXX XXXX my two Citi bank cc have an excessive amount of fraud charges on them. I am victim of Identity theft and my online information was compromised. My address, phone number, security code and login information was changed. Resulting in my replacement card/cards being mailed to XXXX RI. Where all the fraud happened on my credit cards. I live in California and had never been to RI. \nCiti denied my claim stating the card was a chip enabled read. This is due to Citi mailing my card to the wrong address in RI. I filed a police report and filled out an Identity Theft packet and got it notarized as Citi requested. I am committed to pursuing this dispute until it is resolved and I realize that it's a criminal offense to falsify a police/Identity theft report. \nThe address XXXX XXXX XXXX XXXX, RI XXXX appeared on my credit report do to Identify theft. I have never lived at this address. I have only lived in California. \nI am waiting on the police report but I did file. If you need anymore information from me please let me know XXXX"
+}

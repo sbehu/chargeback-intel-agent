@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7557",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42319,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally request an escalation of a dispute case I have now reopened three times regarding a hotel charge of approximately {$21000.00} for a suite I booked that included four bedrooms. Despite multiple attempts to resolve this matter through the standard dispute process, there has been no change in the outcome, and I believe my case merits further review. \n\nThe core of my dispute is that one of the four bedrooms was unusable due to a severe sewer odor, rendering the room uninhabitable throughout the duration of my stay. Additionally, upon arrival, I was not able to access the XXXX XXXX XXXX XXXX despite a XXXXXXXX XXXX check-in time. The hotel acknowledged this delay and issued a {$1000.00} credit. \n\nOn the day of check-in, I immediately contacted American Express to inform them of the problem, but I initially chose not to file a dispute because I wanted to give the merchant the opportunity to resolve the issue, which they promised to do. Unfortunately, over the next 23 days, the hotel repeatedly gave me the runaround. It became clear that they were not going to resolve the issue, at which point I officially filed a dispute with American Express. \n\nMy dispute request was very reasonable : I only asked for 25 % of the total charge to be refunded, reflecting the unusable 25 % of the suite ( 1 of 4 bedrooms ). I am not seeking a full refund, only fair compensation for a materially incomplete service.\n\nThe merchant claims that if I was dissatisfied, I should have left the property entirely. However, had they honestly informed me at the outset that the problem could not be fixed during my stay, I would have had the opportunity to make alternate arrangements. Their failure to be transparent placed me in a difficult position, and I believe this important context is being overlooked. \nI have been a loyal American Express cardholder for approximately 12 years and have virtually no history of disputes. I have always paid my balances and used my card in good faith. I am now asking American Express to stand by me as a customer and take a closer look at this situation. I believe this request is entirely fair and within the spirit of the protections that American Express promises its members. Thank you for your attention to this matter. I trust that American Express will do the right thing."
+}

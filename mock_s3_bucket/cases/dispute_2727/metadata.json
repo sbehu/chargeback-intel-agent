@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2727",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89436"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18315,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a complaint in 2023 with you. \n\nAmex replied stating that they did comply with the Signed, XXXX XXXX order ( attached ) The address that AMEX used on the letter is a FRAUD ADDRESS! This is exactly the problem I'm having. \n\nThe court order states very specifically for AMEX to remover ALL fraud accounts and information with my nam XXXX and social. \n\nI have letters from them stating that they did this. I have emails from their attorney stating 'its done- I have letter from AMEX to XXXX agencies CONFIRMING its fraud. \n\nThe judge ALSO confirms its fraud. \n\nnevertheless AMEX is STILL SENDING MAIL TO FRAUD ADDRESSES, AMEX IS stating that I had a 'bad interaction '' with them. HOWEVER I HAVE NEVER INTERACTED WITH AMEX. WHOEVER WAS USING MY IDENTITY ON FRAUD ACCOUNTS CLEARLY WERE! \n\nI realize this is a crazy story, so I went to COURT and PROVED IT To a JUDGE. \n\nTHE JUDGE AGREED WITH ME, Signed the final order for AMEX to comply with. \n\nFor 4 years I have been serving and contacting AMEX ** ONLY VIA CERTIFIED MAIL AND EMIAL So it's in writing as it is a court order. \n\nafter the amex attorney confirmed the order was 'complied with \" I attempted to apply and was denied. \n\nThe reason for denial was XXXX to a \" previous account ''. - XXXX, this is fraudulent and should no longer be in their system - Violation of court order Then amex changes their stance ( in writing ) and states that the reason is an 'unprofessional interaction ' -- again. I have NEVER interacted with them outside the COURT and EMAIL/VERT MAIL. \n\nI should not have to BEG a company to COMPLY With a FINAL Court order, its NOT a request, its not an allegation ITS REQUIRED TO BE COMPLIED WITH AMEX has shown that they have no intention of complying with the order and they intend to PUNISH ME FOR BEING THE VICTIM OF FRAUD ( again not my allegation a PROVEN FINAL COURT ORDER ) I need you to FORCE THEM TO REMOVE ANY AND ALL information from their systems with my name and social. \n\nI need you to have them PROVE this by providing a search showing no results, AMEX HAS NO LEGAL RIGHT TO DENY SOMEONE DUE TO being a victim of fraud, in fact its ILLEGAL for them to do this so please I would like to press all charges, fine them bring them to court and I am still exploring adding another law suit against them for defamation. \n\nthey have been presented with a court order confirming that these accounts were FRAUD so clearly there COULD BE NO INTERACTION by ME, the actual owner of my identity, and clearly it was the fraudster. \n\nThis incident, specifically AMEX being the only XXXX of XXXX institutions THAT REFUSE TO COMPLY WITH THIS COURT ORDER, has caused me to suffer from XXXX with a doctors note. \n\nIf this is not resolved with proof of removal and my new application in good standing I will pursue this matter in law and equity. for all damages and emotional distress including notifying every government regulator XXXX, blogs, scam reports as AMEX NOW is BREAKING FEDERAL REGULATIONS Please pursue this I will testify in court. \n\nIN AN EMAIL AMEX CONFIRMED THE FRAUD ACCOUTNS WERE REMOVED AMEX HAS NOTIFED THE CREDIT AGENCIES BUT AMEX REFUSES TO REMOVE THE FRAUD ACCOUNTS FROM THEIR SYSTEM AND INSTEAD FALSELY ACCUSES ME OF DEFAMORTY ACTIONS THAT WERE DONE BY A FRAUDSTER AND PROVEN IN COURT. \n\nAMEX THAN ATTEMPTED TO FORCE ME TO SIGN A 'SETTLEMENT AND NON DISCLOSURE '' -- WHY WOULD I SETTLE ANYTHING THIS IS A PROVEN CRIME OF FRAUD, I AM THE VICTIM AND THE JUDGE IS ORDERING THEM TO ACT. \n\nTHIS IS NOT A DIFFICULT ISSUE, THEY WILL COMPLY WITH THE ORDER AND I WILL NOT BE PENALIZED FOR A FRAUDSTER THAT IS FEDERAL REGULATIONS CORRECT? THIS IS NOT AN ALLEGATION ITS A FINAL COURT ORDER."
+}

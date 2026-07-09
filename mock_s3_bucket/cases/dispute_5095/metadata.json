@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5095",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23455"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37953,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citi credit card was charged an on amount of {$180.00} on XX/XX/year>. I disputed. \nCiti bank sent me dispute response which shows that someone name : XXXX XXXX XXXX used my card to order XXXX XXXX phone, with proof of delivery to XXXX XXXX, US. I do not know who are they. I did not do this transaction. \n\nI just support evidence to Citi bank and they are re-opening dispute. \n\nI also lock my credit card. I hope Citi bank can do further investigation for my case. I am feeling unsecure if I continue using this credit card."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1610",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "077XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22496,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was scammed by a spoof website pretending to be an actual hotel that I was looking to reserve a room from. \nWhay happened is as follows : I searched a specific hotel but somehow was forwarder to another website when I clicked on the hotel 's website through some sort of browser manipulation. \nThis was unknown to me at the time. I was shown the price of the room ( on the identical webpage as the actual hotel ). I selected and clicked reserve. I was somehow then charged hundreds of additional dollars in fees over the amount shown on the screen in an email conformation from a stie I never heard of, nor did I think I did business with. \nI immediately called the number on the email and stated my dismay and concern and was told I could immediately cancel and not be charged since it was still \" pending ''. \nI rebooked the exact same room moments later, this time with Amex travel services since I did not know what was going on or how this happened and thought my browser may have been compromised. \nI consequently paid twice for the exact same stay, as the spoof website kept the money and did not reverse the charge. \nI called AMEX to explain but the company sent in a response that it is the hotels policy to keep the money and there are no cancellations. \nThe actual hotel reports receiving NO money, deposit or initial reservation, as I stayed in the hotel anyway through Amex travel services on the same nights and selected room and inquired upon check in since I was told I could cancel and have the charge reversed from pending to decline. \nUpon informing AMEX of the situation after receiving my monthly statement the scam travel website is now stating it paid the money to the hotel and does not have it. \nI would have never paid for the same room twice. What person would not have absorbed the extra fees as a result of the mistake instead of paying double for the same room??? I was not assured I could cancel at no charge, yet the company is now disputing and not handing over the tape of the conversation. The charge for the rebook was only done 4 or 5 minutes after the first one. \nSeems there is NO CUSTOMER service department to speak to me FROM THE FAKE TRAVEL SITE but one apparently is disputing the chargeback! \nTHE CHARGE EVEN APPEARS ON MY CREDIT CARD STATEMENT AS THE ACTUAL HOTEL!!!! How is this legal??? \nThere is no receipt of the money being sent to the real hotel either. What kind of company is this? The online reviews all state the exact same thing. All the people say they clicked on the real website but were somehow sent to this one and overcharged, told they could cancel for free, then charged anyway with no hope of a refund. HELP!!!!"
+}

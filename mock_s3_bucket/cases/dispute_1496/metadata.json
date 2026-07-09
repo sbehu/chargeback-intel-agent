@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1496",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91724"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36598,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": ".Subject : Formal Complaint Regarding Fraudulent Charges on Best Buy Credit Card Issued by Citi Bank Dear Consumer Financial Protection Bureau , I hope this letter finds you well. I am writing to bring to your attention a concerning and unresolved issue involving fraudulent activities on my Best Buy credit card, which is issued by Citi Bank. Despite numerous attempts to rectify the situation, I have not received a satisfactory resolution, and I believe that your intervention is necessary to address the injustice I am currently facing. \n\nThe incident in question took place when unauthorized individuals gained access to my credit card information and made online purchases from Best Buy. These fraudulent charges subsequently appeared on my monthly statement from Best Buy. I promptly contacted Best Buy 's fraud department to report the unauthorized transactions and requested a refund for the items I neither purchased nor received. \n\nIn my attempts to seek redress, I submitted a written complaint to Best Buy, detailing the circumstances surrounding the fraudulent charges and requesting delivery records for the disputed items. Regrettably, Best Buy failed to provide substantive answers to my queries. Upon contacting their fraud department via phone, I was informed that the purchases were indeed identified as fraudulent and that a refund would be issued. Unfortunately, no concrete action was taken to effect the promised refund. \n\nFrustrated by the lack of resolution from Best Buy, I escalated the matter to the Federal Trade Commission by filing a case on XX/XX/2023, under the reference number XXXX. However, to date, I have not received any response from the Federal Trade Commission regarding the status of my case. \n\nCompounding the issue, I recently received a notice from Citi Bank threatening to escalate the matter to a debt collection agency if I do not settle the full amount. This threat is both unjust and unwarranted, considering that I am an innocent victim of fraud, and the issue has been pending resolution for almost two years. \n\nI am seeking your assistance in ensuring a fair and timely resolution to this matter. I kindly request the Consumer Financial Protection Bureau 's intervention to investigate the fraudulent charges on my Best Buy credit card, facilitate communication with the involved parties, and expedite the refund process. Additionally, I urge the Bureau to look into the lack of response from the Federal Trade Commission regarding my filed case. \n\nI appreciate your attention to this matter and trust that your intervention will lead to a just resolution. I have attached relevant documentation, including copies of my correspondence with Best Buy, the case filing with the Federal Trade Commission, and the notice from Citi Bank for your reference. \n\nThank you for your prompt consideration and assistance."
+}

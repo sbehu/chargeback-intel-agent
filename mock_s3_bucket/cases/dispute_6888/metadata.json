@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6888",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92691"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14664,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Original purchase from vendor XXXX for a microsdcard total- {$180.00} Product was momentarily lost in shipment-I requested a dispute with Citibank ( my credit card ) since the product was missing * Product eventually was delivered and I requested the dispute be removed by Citibank which they did * Product turned out to be defective and/or counterfeit. XXXX issued an XXXX, I returned it, they acknowledged receipt issue a credit memo to my credit card company Citibank XXXX XXXX XXXX XXXX XXXX I have repeatedly contacted Citibank requesting the credit {$180.00} be applied. They have not done so and keep telling me it is under investigation, 7-10 days. I never hear back from Citibank, and have to repeatedly call and I get the same answer, with no credit applied to my account."
+}

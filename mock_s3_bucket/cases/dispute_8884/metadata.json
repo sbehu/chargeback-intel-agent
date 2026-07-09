@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8884",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ND",
+    "complaint_zip": "58503"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16260,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>2025 I agreed to purchase by phone {$8500.00} of furniture from XXXX XXXX  in XXXX XXXX XXXX VI that was promised by XXXX 2025 on my CITI credit card. My agent was only able to receive {$750.00} of merchandised requested. After numerous trips to pickup promised merchandise, XXXX XXXXXXXX continuously sold merchandise to other customers. Tried contacting XXXX XXXX, Owner, numerous times for merchandise by phone and by agent stopping at her place of business. Never received merchandise and owner avoid answering phone or any personal contact with XXXX XXXX ( myself ) or XXXX XXXX my agent working for me in XXXX XXXX. Contact CITI about not receiving mechandise. I have sent CITI all the documentation providing information about returning the {$750.00} worth of mechandise receive which I was unable to do because owner was never in, to request at least I am only billed for the amount of mechandise I have received ( {$750.00} ), and not the remaining {$7700.00} for mechandise I did not receive. I can provide you with the 15 pages of documents I sent CITI about my calls and all other dates they requested. I also sent them a arrest warrant for the owner that was issued by the XXXX XXXX police department for theft of property."
+}

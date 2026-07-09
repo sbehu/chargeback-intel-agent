@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7692",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "763XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25942,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a text from Citibank asking if I recognized a {$28.00} charge. I responded with a \" N '' which started a chain reaction on Citibanks part to cancel my card and reissue another one. I did not ask for that, they did not notify me and I only realized when the card was declined the next day. I have since telephone Citibank immediately upon knowing this that 7 other charges were NOT disputed and they have yet to resend the money to my vendors. This has resulted in job shut downs, damaged relationships with companies and I have called at least 30 times to Citibank to get the problem resolved. I have repaid the vendors and I am out over {$12000.00} becuase of Citibank 's problem not to mention the amount of relationships that have been damaged. I will be filing an action in Civil court as well as notifying the press of Citibank 's theft of my money"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7089",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77545"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41677,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I, XXXX XXXX HAVE AN AMERICAN EXPRESS CARD FOR XXXX. XXXX, XXXX STATED THEY WOULD CREDIT BACK MY ACCOUNT FROM A CHARGE OF {$230.00} WHICH INCLUDES {$59.00}. \n\nI HAVE SENT OVER TO AMERICAN EXPRESS THE DATA from XXXX and they still are not crediting back my account the full amount stated, Every time I speak with American Express they keep on saying they are waiting on the merchant. \n\nI am asking for CFPB to help with American Express in crediting back my money from XXXX"
+}

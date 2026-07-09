@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2981",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "598XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28662,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a refrigerator from XXXX, but was notified that it was out of stock, to order a different one. I found another for XXXX. It was delivered and I put it into a XXXX XXXX XXXX XXXX. The next month on XXXX my citibank app suggested to put my purchase onto a XXXX XXXX. I thought I made a mistake and put it into XXXX XXXX # XXXX. This amount was XXXX. Citibank readded the canceled refrigerator onto my card as XXXX XXXX XXXX. It never left the warehouse! I was paying for 2 refrigerators. I canceled XXXX XXXX and it was canceled from XXXX but the balance of XXXX was added back onto my standard purchases. I had made 3 payments of {$110.00}. I have made at least 25 call and written a certified letter. I escalated my complaint in XX/XX/XXXX. They sent it to an analyst in SD. XXXX added my purchases and fees from XX/XX/XXXX to XX/XX/XXXX. It was {$22000.00}. My payments and credits were {$21000.00}. Balance XXXX proving I was overcharged by {$1200.00}. My bill showed a ballace due of {$2200.00}. Citibank won't respond or give written explanation."
+}

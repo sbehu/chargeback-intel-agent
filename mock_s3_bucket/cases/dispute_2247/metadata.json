@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2247",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "108XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18898,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On the month of XXXX of XXXX, I received an alert on my phone that my card was being utilized at a Best Buy. I immediately called the bank and stated that it was an unauthorized transaction. They informed me they will dispute the charge and later stated there were multiple charges in my account that I had no knowledge of. They cancelled the card and allegedly issued a new card which I never received. There were more purchases made with that card to which I disputed again and requested to immediately cancel the account. They instructed me that the mailing address they had wasnt the one I was providing the with. I asked which address is the one they had they refused to provide me with an address. They advised me that they will update the address again in the system and issued a new card. I called today XX/XX/XXXX to inquire on the status of the dispute to only be told that there were more purchases made with a card. I advised them that is impossible cause I havent received any cards in the mail yet. Once again they said they had a different address that where I reside. I requested for the 3rd time to cancel the account and dispute all these charges since XX/XX/XXXX. They have not been able to close this account and still accruing charges. I need to dispute all these charges and close the account immediately. All these transactions are not authorized by me and they failed to close the account to prevent any further transactions. I need to have a resolution on this matter closed any contact with this terrible company and have those charges reversed."
+}

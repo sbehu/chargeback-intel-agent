@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_674",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30097"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15161,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "- On XX/XX/XXXX, Citibank reached out to me asking if I had made some recent purchase on my card. They were suspecting fraud. \n- I confirmed that some of the transactions were not made by me or anyone authorized on the account. \n- They closed the account, and generated a request for a new card. \n- Looking at my account later, I can see that SOME of the transactions identified were removed from my account. \n- There are currently two charges which were not removed : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX - {$300.00} - I contacted Citi by chat on XX/XX/XXXX to understand why these were not credited. \n- After much time, I was told that they would not be able to help me, and gave me two phone numbers to call instead. \n- I finally got through on one of those numbers on XXXX XXXX \n- I was told that the investigation on these items is still underway, but they \" would do what they could to expedite ''. \n- My new statement dropped on XXXX XXXX  which will include these fraudulent charges. \n- Because I choose to use auto-pay, I will automatically pay these fraudulent charges when due. \n- I was told that there was nothing else which can be done."
+}

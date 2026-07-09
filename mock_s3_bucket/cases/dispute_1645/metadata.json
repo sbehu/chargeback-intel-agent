@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1645",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48823"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46241,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX reports a $ XXXX charge from XXXX on my credit report. I do not have this credit card nor have I made a purchase on that site. I am not sure how to prove that I dont have something."
+}

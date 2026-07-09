@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9635",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21941,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barkleys closed my case because I did not forward any proofs. I called and spoke to over XXXX different people over XXXX XXXXays. Easily XXXX hours spent trying to get an answer if Barkleys contacted the merchant. Not one single person would answer that question. You have to put in a request for a supervisor to call you back and when they do, they tell you that they want more information and I continually tell them there is no more information its fraud. They insist I send proof. I tell them the only proof is the charge itself thats why it is fraud but Im speaking to the wall. I tell them there is no other proof. That answer is not accepted by barkleys. They want proof and they refuse to contact the merchant requesting proof of authorization. Barkleys is uninterested in following up on fraud claim. Barclays has refused to contact XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6756",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "305XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Date : XX/XX/year> Merchant : XXXX XXXX XXXX XXXX XXXX  Merchant Address : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Amount : {$810.00} USD ; {$16000.00} XXXX XXXX  While traveling overseas, I visited a pharmacy where I intended to purchase medication. Approximately two-thirds of the items had price tags ; the rest did not. I asked the cashierwho spoke mostly XXXX and very limited XXXX much the unmarked items cost. She quoted me a price verbally ( significantly lower than what I was ultimately charged ). \n\nI handed her my American Express card to pay. She processed the transaction and quickly handed me a receipt to sign. Only after signing did I see that I had been charged nearly {$4000.00} MXN ( XXXX Pesos ) more than the amount she had verbally quoted. \n\nWhen I questioned the overcharge, she pointed to a sign stating, All Sales Are Final. I immediately called AMEX from the store and spoke with a fraud specialist. He advised me to take photos of the products and signage and told me I had two options : take the merchandise or leave it. I explained that I was uncomfortable accepting the goods under the circumstances and wanted to dispute the charge. He assured me that there would be no issue with the dispute, noting that these types of situations happen frequently when traveling internationally. \n\nOnce I returned home, I formally disputed the charge. Despite providing all requested documentation and following AMEXs instructions to the letter, my dispute was deniedtwice. I then filed a complaint with AMEX directly, which was also denied. Throughout this process : AMEX never requested a statement from the merchant, AMEX refused to provide a transcript of the call I made from the store, I have no merchandise in my possession related to the charge, And I followed all directions given to me by their fraud representative in real time. \n\nI believe I was misled by the merchant and that AMEX has failed to properly support and protect me as a cardholder, particularly given that I relied on their live guidance when the issue occurred. Im seeking a full refund for the amount charged and a proper review of the case, including acknowledgment of the guidance I received during the incident."
+}

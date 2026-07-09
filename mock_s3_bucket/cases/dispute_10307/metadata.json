@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10307",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33176"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19536,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern at the Consumer Financial Protection Bureau, I am submitting this formal complaint against Citibank regarding the denial of my dispute on my Citibank XXXX account ending in XXXX, related to a charge from XXXX XXXX in the amount of {$2300.00}. \n\nThis charge was the second payment made to the same vendor for services related to a wedding event that was ultimately canceled due to unforeseen and devastating personal circumstances. No event took place, and the services associated with this payment were never rendered. \n\nDespite providing Citibank with documentation and a detailed explanation that the wedding was canceled and that XXXX XXXX did not perform the contracted services, Citibank denied my dispute ( not once twice ). Their decision failed to take into consideration that : - The services tied to this payment were never provided. \n- The vendor retained funds without delivering goods or services. \n- This payment was directly connected to the same canceled event for which another payment had already been disputed with a different financial institution. \n\nXXXX refusal to credit this charge places the full financial burden on me for services that were never received, which I believe is inconsistent with fair consumer protection practices and the intent of the Fair Credit Billing Act. \n\nI respectfully request that the Consumer Financial Protection Bureau review XXXX handling of this dispute and assist in ensuring a fair and equitable resolution. Consumers should not be held financially responsible for services that were never rendered, especially in cases involving unavoidable life events. \n\nThank you for your time and attention to this matter. \n\nSincerely, XXXX XXXX"
+}

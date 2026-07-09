@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12071",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19607"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9044,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Barclay Mastercard Mishandled a Dispute Summary : This complaint concerns failure of Barclay Mastercard in addressing the handling of a charge dispute. Despite presenting them with timely information by faxed correspondence, they have ignored my request to refund me. They have been giving me the run around and not addressing my request for the refund. \n\nDetails : On XX/XX/XXXX, XXXX charged my credit card {$230.00} in duty/VAT for a shipment of personal relocation items from XXXX XXXX XXXXXXXX. The XXXX employee incorrectly marked the shipment as commercial, which caused the improper charges. \n\nWhen I disputed this with XXXXXXXX they voided the original invoice and created a second invoice in XX/XX/XXXX for {$280.00}, billing it to the shipper. Since I was the shipper, this resulted in me being charged twice for the same error. I contacted Mastercard to tell them about the error. The person with whom I spoke, never created a dispute claim for the first invoice. They tried to say it was my fault that it hadnt been created. I had immediately called them when I saw the charges on my XXXX credit card statement. \n\nXXXX eventually refunded the XXXX invoice on XX/XX/XXXX. \nHowever, the original XX/XX/XXXX charge of {$230.00} was never refunded. Barclay mastercard refused to address it each time I called them. They continued to say that the case had never been opened. I tried to explain to them that there couldve never been a second case without the first case. \n\nOn XX/XX/XXXX, XXXX emailed me claiming that the XXXX invoice was voided and credited.. I contacted Mastercard directly, and a representative reviewed every billing statement from XX/XX/XXXX through XX/XX/XXXX. They confirmed that no refund was ever issued for the XX/XX/XXXX charge. I sent Barclay dispute a copy of the email from XXXX stating that I should have received a refund. I sent this to them as proof that it was a valid request made by XXXX. Barclay still refuses to give me back my money. Barclay closed my dispute without addressing the missing refund. \n\nI have had this Barclay card for over 30 years. I am absolutely aghast at how XXXX being treated."
+}

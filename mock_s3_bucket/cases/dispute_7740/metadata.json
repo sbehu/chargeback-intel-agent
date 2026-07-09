@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7740",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "88012"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44997,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank credit card dispute made on XX/XX/year> for goods/services not as described at XXXX XXXX XXXX for {$2300.00}. After numerous back and forth correspondences between Citibank and XXXX XXXX XXXX, my credit card dispute was denied because the merchant told Citibank that they gave me a credit/refund. I received a letter from Citibank explaining this dated XX/XX/year>. I called Citibank to let them know I did not receive a credit or refund from the merchant and therefor would not be able to provide them with a \" valid credit slip '' because I did not receive one. I was told by Citibank dispute representative XXXX, that the dispute would be reopened and that they would reach out to the merchant due to the credit/refund not showing on my credit card account. I received a letter from Citibank dated XX/XX/year> saying that the dispute would be closed \" due to the amount of time that has passed since this charge was first billed, we no longer have any recourse to obtain credit on your behalf. '' I find this unfair and unethical due to the fact that I had no control over how long it took for Citibank and the merchant to resolve this. I responded to all correspondence in a timely manner as soon as it was requested from me. When the merchant told Citibank they had credited/refunded me, Citibank did not go into my account to see if this was true. Citibank prolonged the dispute investigation process and did not follow through with the merchant to get me my credit/refund. I have kept all correspondence and can submit it upon request."
+}

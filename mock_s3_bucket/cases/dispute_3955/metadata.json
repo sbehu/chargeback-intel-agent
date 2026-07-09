@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3955",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "52302"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21432,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I received an email from Home Depot Credit Services with a statement showing a balance of {$5200.00}. The statement showed 6 purchases each between {$700.00} and {$900.00} that were made in Pennsylvania and New Jersey between XX/XX/XXXX and XX/XX/XXXX. I called the number on my credit card to report the fraudulent purchases. I was told that a person by the name or alias of XXXX XXXX had taken control of my account, made himself an authorized user, and was sent his own credit card linked to my account. I was NEVER notified of these changes. Home Depot has acknowledged notification of the fraud and stated in a letter that I did not have to make payments on the disputed charges. However, since then I have continually received email statements almost daily showing that I owe the disputed balance. I have also received two letters from Citi Bank stating they are attempting to collect a debt and that my account is past due. I last used my Home Depot card on XX/XX/XXXX and paid the balance on XX/XX/XXXX. I have not used the card since then. I have not made any purchases where I would owe any payment. It appears to me they are trying to make me pay for the fraudulent purchases that they were responsible for."
+}

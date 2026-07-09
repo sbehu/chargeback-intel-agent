@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-64378734-US
+Shipment Date:   2026-03-05T00:00:00Z
+Delivery Date:   2026-03-29T00:00:00Z
+Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
+Destination:     1116 SUNSET AVE, NY, 11224
+============================================================

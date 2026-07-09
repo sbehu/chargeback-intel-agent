@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2162",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90046"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31646,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The complaint I previously submitted for Amex XXXX, claiming that they are holding me responsible for {$22000.00} of fraudulent activity on my card ( including late fees and penalties ) APPEARED to be closed and ruled in my favor on XX/XX/XXXX. I received an email from Amex ( attached ) stating that the case was CLOSED and the whole amount ( including fees and penalties ) was returned to my card, which it was. It was only today on XX/XX/XXXX when I received the companies response to my complaint that I read they were 'investigating ' the charges still and in fact, the case was not closed! I am lucky I read it carefully because it appears Amex was covering their own bases by telling both you the CFPB and I, that they have decided to do the right thing and not hold me responsible for the charges. \nThis is not true and on the VERY SAME DAY they reopened the case for the FULL AMOUNT under a different case # XXXX. \nThe deceitfully did not tell me this, and I had to contact customer service to see what was going on. They do not have any answers except that it is 'still under investigation. ' I did not open this case, they did, and as far as I was aware, my case was CLOSED. \n\nFrom the complaint response on XXXX : CFPB XXXX No : XXXX Ref : XXXX Account Ending in XXXX Dear XXXX XXXX, Were writing in response to your recent correspondence to the Consumer Financial Protection Bureau XXXX We are happy to inform you that we issued credits totaling {$22000.00} for the fraud charges, late fees and interest charges. \n... If we need additional information from you, we will contact you before XX/XX/XXXX, or you may consider this case closed. \n\nAnd from Amex on XX/XX/XXXX : Membership Number : XXXX Amex Reference Number : XXXX Dear XXXX XXXX XXXX Thank you for bringing to our attention the unauthorized charge ( s ) on your American Express account XXXX This case has been resolved and is now closed. We are crediting your account for {$22000.00}. This credit will appear on an upcoming statement."
+}

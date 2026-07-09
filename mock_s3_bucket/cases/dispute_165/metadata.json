@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_165",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98074"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38999,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An unauthorized purchase was performed at XXXX XXXX on XX/XX/2023 for {$500.00} with my Citi credit card account. \nThe charge was disputed, and the bank ruled against me. The bank stated that I participated in the transaction. \n\nThe bank stated that the card used during the transaction was a card ending in XXXX, belonging to my wife. My wife is an authorized user ( has an \" additional card '' ) of my citi account. \nCiti asked me to confirm that the card was in our ( me and my wife ) possession. \nCiti asserted that the card was present, and that the \" chip '' was used to complete the purchase. Citi claims the chips can not be duplicated. Hence they conclude that we participated in the transaction, and ruled against me. \n\nI contacted Citi via phone on XX/XX/XXXX, and they confirmed that the extent of their investigation was that the \" chip '' was used, and that those can not be duplicated. \nCiti apparently decides to routinely ignore the fact that there are known attacks against EMV ( a.k.a. chips ) and immediately rule against the consumer. \nI don't have any sort of proof as to the time of this writing - that the transaction was indeed EMV-based. \n\nWe had possesion of the card ending in XXXX, and we ( my wife and I ) were both hiking up a mountain at the time we received texts from the bank asking for confirmation for the transaction regarding this complaint. \n\nMakes me wonder how often this happens, and how much money Citi is keeping from the customers. This due to Citi immediately ruling against the consumer whenever the disputes are about *supposedly* EMV-based transactions XXXX"
+}

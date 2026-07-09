@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11487",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10469"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10126,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, I make a {$4000.00} purchase before I leave to go on my vacation in XXXX XXXX when returning back in XXXX I see some transaction on my account. I reported these transaction and didnt know American Express been using my XXXX account to fund these fraudulent transaction XXXX they take {$1000.00}. XXXX take XXXX in XXXX take out XXXX out chase bank helping XXXX XXXX fund them fraudulent transactions I do not have a XXXX account and these charges is still on my account and they are still looking for me to pay for it"
+}

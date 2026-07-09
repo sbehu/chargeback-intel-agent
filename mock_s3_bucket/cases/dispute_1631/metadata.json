@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1631",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Due to travel delays, I attempted to check into the XXXX XXXX XXXX in XXXX XXXX in the evening hours of XX/XX/2023. I was informed my room for my entire reservation had already been rebooked to another party and I would have to find another hotel since they had no other vacancy and that I would be refunded for my reservation. I have now been trying to dispute the {$750.00} charge with Citibank for over 4 months. I was initially told by XXXX that since the room was booked through XXXX, an XXXX company, they would be responsible for the refund. When I spoke with XXXX they explained XXXX should be responsible. The charge was initially taken off, but then put back on my credit card on XX/XX/2023. I have been trying to work with Citibank, contacting them by phone and by email several times. My emails to them are documented in case you need them they can be supplied. The last correspondence by email stated that since I attempted to check-in late on the evening of XX/XX/XXXX before XXXX they put me as a no-show and therefore they had the right to rebook my room for my entire stay without a refund. I sent a screenshot of XXXX 's policy that clearly states ( Check-in time : XXXX ; Check in end time : anytime ). My reservation was not honored when their policy states I could have checked in anytime. It states nothing regarding them rebooking my reservation if I did not arrive by a certain time and they booked my room to another party, collected those reservation fees so they are receiving double reservation fees for one room that I never stayed in. I thought Citibank would quickly credit me but they have put me through an endless dispute process with terrible customer service and refusing to reply to my emails. I will attach the documentation below showing their check-in end time policy. It leads me to wonder how many times are they allowing XXXX and XXXX to double book their rooms, turn away guests, and generate double revenue simply due to a late arrival due to unforeseen travel delays when their policy clearly states otherwise."
+}

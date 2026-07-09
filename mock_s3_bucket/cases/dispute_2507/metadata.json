@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2507",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MS",
+    "complaint_zip": "39211"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28197,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I was charged {$210.00} from the merchant XXXX XXXX XXXX XXXXI have never purchased anything from this company, nor have I been to XXXX XXXX, Florida. Once I noticed the charge, I opened a dispute ( XX/XX/XXXX ) with Citi. Before Citi would proceed with the dispute, they asked me to contact the merchant and seek a refund. \n\nI tried to contact the merchant both by telephone ( ( XXXX ) XXXX ) and email. I never received a response. \n\nAfter contacting Citi again, they agreed to open a dispute ( XX/XX/XXXX ). \n\nI sent over all the information Citi requested, and after several weeks, they resolved my dispute in favor of the merchant ( XX/XX/XXXX ). \n\nI have never seen a clearer case of fraud. If you XXXX \" XXXX XXXX XXXXXXXX XXXX  '' you will inundated with numerous testimonies from other victims of this fraudulent company. \n\nThis is the email I sent to Citi : \" Here is the required documentation for the aforementioned dispute. \n\nI have tried to contact the merchant multiple times. I have yet to get a response. \n\nA quick XXXX search clearly shows that XXXX is a scam company. It is impossible to contact them. All reviews of the \" company '' are simply other people complaining about their credit card information being stolen. '' I'm not sure what else I can do. Hence, why I am opening this case with the CFPB."
+}

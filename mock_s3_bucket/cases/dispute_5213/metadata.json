@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5213",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10036"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30641,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The issue is that the company offers a 30 % discount on any purchase made within the first XXXX days of opening an account. The salesperson informed me that the discount wouldnt appear on my purchase receipt but would instead be applied to my credit card statement. That was the only information givenjust use the card for XXXX days and receive 30 % off. \n\nWhen I received my XXXX XXXX statement, I noticed that the discount had only been applied to XXXX out of XXXX purchases. When I called to complain, the company told me that the XXXX  % discount was capped at a total of $ XXXX that was never mentioned to me in the store. In fact, my first XXXX purchases had already reached this limit, yet the salesperson failed to inform me. Instead, they used a calculator to show me how much I had \" saved '' by opening the account and encouraged me to keep shopping. \n\nThe tricky part is that the 30 % discount never appeared on the receipts, so there was no way for me to notice the limit had been reached. I explained all of this to the stores customer service, but they simply apologized for the misunderstanding. Unfortunately, since Ive already used the items, I cant return them."
+}

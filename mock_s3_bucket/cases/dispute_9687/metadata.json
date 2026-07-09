@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9687",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11106"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16974,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing Barclays Bank Delaware 's refusal to reverse unauthorized credit card transactions on my JetBlue XXXX XXXX XXXX XXXX. \n\nOn XX/XX/XXXX, my JetBlue Plus Card was used for two card-present transactions in New York XXXX one at XXXX XXXX  XXXX XXXX  XXXX XXXX, NY for {$1000.00} and one at XXXX XXXX XXXX XXXX, NY for {$530.00}. I did not authorize either of these transactions. \n\nAt the time of these transactions, I was physically present in California. I have attached multiple forms of third-party documentation proving this, including airline flight records showing I traveled from XXXX to XXXX on XX/XX/XXXX and did not return until XXXX,, a rental car agreement from XXXX at XXXX showing the same period and same-day in-person transactions on my XXXX XXXX XXXX  in XXXX XXXX, CA on XX/XX/XXXX XXXX \n\nIt was physically impossible for me to present in New York while these transactions occurred. \n\nI also immediately responded to Barclays ' fraud alert regarding activity that day and confirmed that the transactions were unauthorized. \n\nDespite this, Barclays denied my fraud claim stating only that \" chip card technology was used '' an asserting that the card was in my possession and that this technology can not be counterfeit. Barclays did not address physical impossibility, cardholder location, or the conflicting contemporaneous evidence from airline, rental card and third-party card records. Barclays also did not state that PIN verification occurred. \n\nBarclay 's determination relies solely on an EMV classification even though I had noted several times to them previously that I was not in the state at the time these transactions were made. This clearly constitutes a failure to conduct a reasonable investigation as required under the Fair Credit Billing Act."
+}

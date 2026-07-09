@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7320",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "24141"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35112,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "See attachments with timeline of events and specifics. \nI immediately reported ( in XX/XX/year> ) charges on my XX/XX/year> statement that were not made by me. XXXX charge was resolved and the other was not. I have written XXXX letters and spent hundreds of hours on the phone trying to get the charges resolved. It's my understanding, based on information Citibank 's employees shared with me, that the problems resolving the {$57.00} charge to XXXX XXXX online are because of when I reported charges initially, it was coded incorrectly in Citibank 's internal system as a billing dispute instead of a fraudulent charge and the original card was canceled and replaced with a new card. The fraudulent charge wasn't investigated due to original card 's cancelation. I lost all of my reward points as well. I have responded to Citibank 's requests to write letters, in addition to, reporting fraudulent charges. I recieve up to XXXX daily phone calls XXXX  me for payment of the disputed charge plus interst and late payment fees. Citibank contacted the credit reporting agencies and reported my account as delinquent. I have done everything in my power to resolve this issue. Every time I have spoken to multiple employees in the fraud, customer service and security operations, I am told conflicting information. I thought all of my contacts with Citibank would be documented so that every time I called, new employees would be able to reference notes in my account outlining the history of this dispute. However, that was not the case and I would have to re-explain the history of the charges and what I was told on previous phone calls."
+}

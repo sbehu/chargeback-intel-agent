@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6848",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34714"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21910,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Formal Dispute Urgent Attention Required Fraudulent Charges on Inactive Card To : American Express Customer Finance / Executive Office From : XXXX XXXX XXXX XXXX XXXX Date : XX/XX/year>2025 Account ending in : XXXX Dear American Express Customer Finance Team, I am writing to formally escalate an unresolved issue regarding a fraudulent charge of {$2000.00} that was made on a credit card I never activated, never used, and never authorized anyone else to use.\n\nTimeline and Summary of the Problem : I was approved for an American Express credit card and received the approval confirmation by email on XX/XX/year>2025. \nThe physical card was delivered to my XXXX address at XXXX XXXX XXXX, XXXX, Florida, XXXX, before I arrived at the location. \nOn XX/XX/scrub> 2025, I received a transaction alert for {$640.00}, even though I had not yet activated the card. \nI immediately called American Express to report the fraud. I was assured the card would be canceled, and the charge would be treated as fraudulent. \nDespite that, I received a full statement for {$2000.00} and have since filed three disputes, all of which were denied under the claim that I allegedly authorized another cardholder which is completely false.\n\nLet me make it absolutely clear : I never activated the card.\n\nI never made any transaction.\n\nI never authorized anyone to access my account.\n\nI was not even physically present at the address when the card was delivered, meaning I had no control over what happened to it before I arrived.\n\nWhat I Am Requesting : Immediate reopening of the fraud investigation.\n\nFull removal of the {$2000.00} in charges from my account.\n\nWritten confirmation that this situation will not affect my credit report in any way.\n\nA copy of all internal documentation that Amex used to justify denying my previous disputes.\n\nIf this matter is not resolved within 10 business days, I will proceed with a formal complaint to the Consumer Financial Protection Bureau ( CFPB ), the Florida Attorney Generals Office, and will consider legal action for damages related to fraud negligence and credit harm.\n\nI appreciate your urgent attention to this matter. \n\nSincerely, XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, FL XXXX Phone : ( XXXX ) XXXX Email : XXXX XXXX"
+}

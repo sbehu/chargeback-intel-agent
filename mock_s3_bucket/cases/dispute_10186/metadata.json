@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10186",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33411"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30558,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX ) This charge for medical testing is fraudulent. It is not supported by an invoice despite multiple requests. XXXX XXXX can be covered by insurance but not without an invoice. \n\nXXXX ) Only part of the test results ordered were provided and were provided LATE. \n\nXXXX ) Amex ignored the dispute, recharged, provided no proof or supporting documents. This charge is obviously illegal without a supporting invoice and without providing ALL of the services paid for. \n\n\nDate Status Description AmountView Transaction Details XXXX XX/XX/XXXX XXXX XXXX XXXX XXXX {$150.00} XXXX XX/XX/XXXX XXXX XXXX XXXX  {$150.00} XXXX XX/XX/XXXX XXXX XXXX XXXX XXXX, XXXX XXXX {$200.00}"
+}

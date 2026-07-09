@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9535",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "483XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34159,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Barclays has failed to resolve a valid chargeback despite written confirmation from the merchant that the refund must be processed through the banks chargeback procedure. \nI returned a new-with-tags XXXX dress immediately after delivery due to sizing. The merchant ( XXXX ) initially denied the return and attempted to send the item back to me ; however, the package was never successfully redelivered, and I do not have possession of the merchandise. \nXXXX has now provided written confirmation stating that because a chargeback is open, they are unable to issue a traditional refund and are required to process the refund through the banks chargeback process. They have explicitly directed me to follow up with my payment provider for the refund. \nDespite this, Barclays has not issued a refund and has not provided a clear explanation for the delay or denial. The merchant has deferred resolution to the card issuer, and I am being charged {$2000.00} for merchandise I do not possess. \nI am requesting that Barclays immediately resolve the chargeback in my favor and issue the refund. \n\nThis is the email from XXXX the merchant : Re : XXXX XXXX XXXX, Thank you for your email. \nAs a chargeback has been filed, we are now required to handle the case and process the refund through the bank 's chargeback procedure. \nWe are unable to issue a traditional refund while the chargeback is open. \nFor updates on your refund status, please follow up directly with your payment provider. \nThank you for your understanding. \nKind regards, XXXX XXXX XXXX XXXX This is my message to Barclays and their response. Ive called and written and they still have done NOTHING. \n\nComplaint / Compliment Subject : Immediate Chargeback Resolution Required Merchant Confirms Bank Must XXXX XXXX XX/XX/year>, XXXX AM Subject : Immediate Chargeback Resolution Required Merchant Confirms Bank Must Process Refund I am writing to formally follow up on my open chargeback regarding {$2000.00} for XXXX Order # XXXX. \nI have now received written confirmation from the merchant, XXXX, stating that : * A chargeback has been filed * Because of this, they are required to process the refund through the banks chargeback procedure * They are unable to issue a traditional refund while the chargeback is open * They have directed me to follow up directly with my payment provider for the refund I have attached the merchants email confirming this. \nAt this point, the merchant has explicitly acknowledged the chargeback process a Barclays customer service XX/XX/year>, XXXX AM Hi XXXX XXXX : Thank you for contacting us about your XXXXXXXX XXXX XXXX We understand your concern regarding the dispute case on the account. \n\nWe apologize for the oversight regarding the application of the credit to your account. Thank you for providing us with the details concerning the refund. In regards to the dispute on the account, please contact our Disputes Department directly at ( XXXX ) XXXX - XXXX in order to proceed on processing your refund through our chargeback process as instructed by the email from the merchant. Representatives are available Monday through Friday XXXXXXXX XXXX to XXXXXXXX XXXX ET, and they will be happy to help you. \n\nWe hope you find this information helpful. We apologize for the inconvenience this may cause you. If you have any other questions or concerns, please reply to this message. \n\nSincerely, Customer Care"
+}

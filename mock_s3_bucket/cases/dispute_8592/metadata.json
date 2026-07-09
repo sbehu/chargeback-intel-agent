@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8592",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6118"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22175,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was hacked on my XXXX and XXXX computer a voice came through my phone telling me to go to my computer because I have virus on it and they can removed them. So when I went to my computer they were already in my computer and the XXXX said they from XXXX and are going to charge me {$960.00} dollars to fix the virus they had all my American Express account information already ready to go then I realized I have a XXXX XXXX I immediately shut down my computer called American Express to declined that charges because I was being scammed. You know what American Express said and did bill me {$3900.00} for EGift cards XXXX times the same day XX/XX/year> and that I was working with the scammers. Which that's a lie. American Express has done XXXX scammers working for them. How the heck this person had all my card information. \nThanks for looking into this matter for me,"
+}

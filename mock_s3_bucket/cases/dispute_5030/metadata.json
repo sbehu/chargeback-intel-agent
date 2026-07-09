@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5030",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "335XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37212,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a charge with Amex Travel because of a noise complaint I made with the hotel I stayed at that I booked through them. I went through about two months of disputing this charge after being told to do several different steps only to receive the same resolution every time. They basically said theres nothing we can do. The below letter is a letter I submitted to them regarding the incident. They still gave the same resolution. The 3rd party company they book through said I never contacted them to resolve the issue. When I asked Amex to connect me the 3rd party so I can dispute the charge they said they couldnt do that and I would have to dispute through them. Which I did and provided evidence to the contrary that I contacted the hotel about the noise complain one in person and second by a survey. It was a very unpleasant stay. I would never book through their travel agency again after this incident. The rewards and point are really not worth it. Please see below letter. I also have a copy of the survey the hotel said they never received as well. \n\nLetter to Amex : My wife and I arrived at the XXXX XXXX in XXXX, XXXX on Saturday XX/XX/year>. \nWe had a very long and tiring day/trip to get there as we laid to rest for the night. The next morning ( XX/XX/year> ) we were woken up around XXXX XXXX  CEST to multiple doors opening and closing. Upon looking out of the room door we noticed housekeeping was beginning their cleaning of the rooms. We thought maybe this was an odd occurrence, so we decided to just leave for the day earlier than anticipated. On XX/XX/year>, we again noticed at approximately XXXX XXXX XXXX multiple doors were opening and closing very loudly, vacuums, cleaning of the other rooms could be heard, along with opening of supply closets on our floor we noticed upon leaving the previous day. We then got ready for the day, and I decided to stop by the housekeeping office, and I spoke with the housekeeping manager and made the noise complaint as I left for the day. The next day XX/XX/year>, we experience the same exact issue. I left a survey ( attached to the original complaint ) stating housekeeping was extremely loud early. Upon leaving early morning Friday XX/XX/year>, as I checked out of the hotel, I again requested information from the hotel about cleaning procedures and complained of the noise the make as guests are trying to rest. The front desk clerk simply smiled and thanked us for staying at the hotel. \nOverall, it was an extremely unpleasant stay at the hotel. Its an experience that will prevent me in the future for trusting Amex travel for my lodging needs should any resolution other than a complete refund of both charges be the outcome reached. Thank you for your consideration and investigating this matter."
+}

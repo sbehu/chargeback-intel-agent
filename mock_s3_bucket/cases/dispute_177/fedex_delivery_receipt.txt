@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-69966636-US
+Shipment Date:   2026-03-18T00:00:00Z
+Delivery Date:   2026-03-23T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     6624 MAPLE ST, CA, 90280
+============================================================

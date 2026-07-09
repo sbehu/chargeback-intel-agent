@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8094",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22306"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23277,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had some double charges from XXXX on my Citibank Credit Card, so I went back and monitored my credit card for double charges and cross referenced them with my purchase history. I came across {$340.00} charged on XX/XX/XXXX and XX/XX/XXXX, I couldnt recognize those charges so I reached out to the XXXX Chat for assistance. The representative i talked to review the charges and my purchase history, verified my address and couldnt find any purchases from those dates so they recommended I report the charges as fraudulent with my credit card company and change my XXXX username and password ( as the credit card had remained in my possession and the only place I had the credit card linked was with XXXX. When I filed the fraudulent charges I immediately received a credit, however, a few weeks later I received an email from XXXX XXXX requesting the charges back. I replied to the email giving the background of what I did and why & requested that they provide more information, after a couple of days I did hear back from them so called. I told the representative everything that happened and she helped me understand the charges and what happened ( since the dates did not reflect the purchase history ), since I recognized the charges I wanted to make sure they were paid, she didnt offer to just reverse the charges and I didnt think that the credit card could be used since it was reported stolen/fraud, I also did not have my new citibank credit card so XXXX used a different bank credit card. I called citibank to notify them what happened and they gave me an email to use to provide the details to the investigator. I gave the background to include the XXXX chat, the email form citibank chargeback requesting the money and snapshots showing that I used another card to pay for the items since I didnt have my new citibank card. I sent a second email from XXXX chargeback acknowledging payment with the last 4 digits of the credit card used. The investigator then recharged my account, I have been charged 3 times for these items with 2 refunds which equates to Citibank charging me for items I pd for on another credit card. I have called about this item a few times with the last 2 times talking to managers. One manager had the charge re-investigated, I asked hime when will I know that this is over, he said when the charges are refunded from your card. The charges were refunded and I was relieved that this was all finally over, then I logged in to my account to see that Citibank charged me AGAIN for the items, this time the manager I talked to in AZ told me that he would not remove the charges, since the items werent fraudulent they are keeping the items on my credit card, I told him they have been pd for on another card, he remained silent, I said I couldnt pay on Citi bank since one card was reported fraudulent the other never came, he said I could have used the fraudulent to reverse the charges. I have talked to MANY people from Citibank and NO ONE told me that if the charges were found non-fraudulent I could use the credit card marked as lost or stolen until just today, MONTHS after all of this happened. The Citibank manager understand that I am being double billed, he simply does not care and expects me to know what their own staff dont know about scenarios like mine."
+}

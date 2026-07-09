@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3127",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "480XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1834,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a third party contacted XXXX XXXX XXXXXXXX XXXX at XXXX XXXX XXXX XXXX XXXX ( XXXX ) and requested financial information pertaining to my personal credit card. The third party also requested that all related information be sent to a new email address and a new phone number, all without my consent or knowledge. \n\nSubsequently, XXXX XXXX XXXXXXXX XXXX at XXXX XXXX XXXX XXXX XXXX ( XXXX ) complied with the third partys request. They changed the contact information associated with my credit card on file and disclosed personal financial information to the third party. \n\nI possess the email chain and inquiry number, along with detailed notes, which substantiate these events. \n\nThis incident constitutes a breach of my personal information. It highlights a significant security vulnerability in their procedures and indicates a severe lack of training among their employees."
+}

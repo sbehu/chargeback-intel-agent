@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3988",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "791XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31895,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX I contacted American family law center that was referred to me through legal aide I was needing an attorney to obtain custody of my granddaughter! I call the company and was ask by a agent what do I need help with she assured me they can help me and that it was a XXXX time payment of {$550.00} dollars that needed to be pay up from before I could be assigned to an attorney, and that I wouldnt be charge until I would meet with the attorney to see if or how he could help! So I initiate the payment to find out that the attorney would not represent you in court would on give you the documents that you have to fill out and file in court yourself! I immediately went to the website review and found out this company is a scam I file a fraud case with my credit card company and was issued a new card! I then card my card company and them what I did! The agent told me that I should have filed a dispute instead but it was not an issue they would handle it and notify the fraud department! And that I would have to wait until the charge post before I could dispute it called the whole month and it never posted until XX/XX/XXXX when I call them I was told that the fraud department investigated it and because I initiated the payment it was sent to the company and reissued to my new card as a charge to me! This was the fault of there agents not handling the case I was told during the process to send a email to example what happen and was given the wrong fax number then never got a case number for the fraud case nor the dispute case after it post! Finally was give a case number for the dispute and the right fax number. But now they are tell me theres nothing they can do! This was the fault of XXXX agents not mind, I loss the money needed to obtain a real lawyer,"
+}

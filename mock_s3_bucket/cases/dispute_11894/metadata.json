@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11894",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6552,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I purchased an adjustable mattress from XXXX for {$550.00}. The mattress was defective and stopped functioning, so I initiated a return in XX/XX/XXXX. Due to the size of the item, XXXX arranged for a freight XXXX to retrieve it. The pickup was completed on XX/XX/XXXX, which I can confirm with security footage from my home. \nSimultaneously, I filed a dispute with Citibank. In XX/XX/XXXX, Citibank notified me that XXXX had disputed my claim and reversed the credit, resulting in a charge of {$550.00} to my account. I promptly submitted evidence to Citibank, including the security video confirming the freight carrier 's pickup, but received no response. \nIn XX/XX/XXXX, I contacted XXXX 's customer service directly. A representative confirmed that a refund would be issued within 710 business days. No refund was received. When I followed up in XX/XX/XXXX, I was told the item had never arrived at the returns facility. I then contacted the freight carrier directly, and they confirmed the item had been successfully returned to the warehouse. \nWhen I contacted XXXX again in XX/XX/XXXX, I was told that too much time had passed and that they were unable to process a refund. That same month, I contacted Citibank to reopen the dispute and submitted additional documentation confirming the item 's successful return to the warehouse. Citibank has also declined to assist, citing the passage of time. \nTo date, I have not received a refund of {$550.00} for an item that was confirmed returned by both security footage and the freight carrier. I am seeking a full refund of {$550.00}."
+}

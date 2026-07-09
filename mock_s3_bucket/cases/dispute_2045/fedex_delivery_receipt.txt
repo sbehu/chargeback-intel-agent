@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-46588011-US
+Shipment Date:   2026-03-15T00:00:00Z
+Delivery Date:   2026-03-21T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     5078 CEDAR LN, CA, 91766
+============================================================

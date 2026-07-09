@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-82202191-US
+Shipment Date:   2026-02-12T00:00:00Z
+Delivery Date:   2026-03-09T00:00:00Z
+Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
+Destination:     5554 WASHINGTON AVE, CA, 91741
+============================================================

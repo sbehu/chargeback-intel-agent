@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9290",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80021"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25892,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have described the situation may times. It seems American Express doesnt care about what happens to me - their long time customer - rather than XXXX  says they gave me what I paid for- which they did not.\n\nI bought two all inclusive vacation packages- American Express says XXXX  has provided proof that this is the case. Great I agree. \n\nThen they did not provide the service. Im not sure how they can prove that they did something that they did not. I have provided American Express multiple pieces of evidence of what they offered in my purchase and how that is not what was provided. XXXX  lied to American Express without evidence and it was merely taken as proof and I was written off. \n\nXXXX  stole my money, created a dangerous situation for both me and my mother as XXXX people when they blatantly ignored my accommodation requests that the previously said they would accommodate. Get that recording American express instead of just relying on their lies. \n\nThey ruined my fathers birthday and told us to spend more money on our ALL INCLUSIVE vacation by purchasing basics from the gift shop. \n\nThen even though I raised issues with XXXX  immediately - they didnt care. They offered me XX/XX/year> the cost in rewards points which is joy compensation or recompense and is a slap in the face telling me to spend even more money with them for a heal of garbage. \n\nAmerican Express has not fulfilled their federal duty, a through investigation was not done and none subsequently either. As they mostly do, they merely asked the merchant if the wanted to keep the money, the merchant said yes and American Express told me to go kick rocks. \n\nIn the multitude of complaints I submitted additionally, American Express does nothing more than respond telling me too bad and explaining how XXXX  gets to steal from people with the help of American Express and that I am out of luck. \n\nUnfortunately for me, I had already recommended American Express to others, but I will never again and instead be sharing as much as possible how American Express lies about consumer protection and then helps corporations steal from individuals. \n\nMy American Express card is always paid appropriately, my credit score is well over XXXX, this issue is clearly not that I cant afford this ( which I already paid my the card off immediately back in XXXX ) but that I dont want be stolen from."
+}

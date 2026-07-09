@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6478",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "894XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6834,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX of XXXX  XXXX, I had an unfortunate experience where I allowed access to my bank and financial accounts. This included my emails and passwords. I was also scammed out of {$2000.00}. About XXXX XXXX ago, I received a warning from my credit card company that there may be fraud on my account. I told them there definitely was and they told me they would take care of it. They sent me a new card. \nAbout a month  later, I received a letter telling me that I was responsible for the charges and that they had proof it was me. I asked them what the proof was, and they told me my email was used so I was responsible. I then explained my hacking situation so we opened an additional dispute. These charges are over {$1000.00} for show tickets in XXXX. I live XXXX XXXX  away in XXXX  and have not been traveling at all. I have excellent credit and they have told me they will take me to collections if I do not pay this. I should absolutely not be held responsible for purchases I did not make. As I said, they notified me because it seemed suspicious."
+}

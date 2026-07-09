@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1008",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27526"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3485,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed about {$1000.00} in unauthorized charges to XXXX on my XXXX credit card statement. After some investigation I discovered my child ( who has XXXX XXXX XXXX XXXX ) had used my card to purchase downloadable content from the game store without my permission. I followed up with XXXX but was not able to get the funds charged back since it was past their 7 day refund window. I then followed up with my card company as follows... \n\nOn XX/XX/XXXX, I had a conversation with a Citi representative. The representative did not accurately capture all the transactions. The representative also did not advise me of my rights to dispute the charges. They told me that since my child had made the charges I was still responsible regardless of if the charges were unauthorized or if my child had a XXXX or is a XXXX XXXX \n\nOn XX/XX/XXXX I did some research on FCBA and spoke to counsel. I discovered that I should have been allowed to submit notice to the credit card company for remediation and investigation and the charges should be credited while investigation was taking place. I contacted the credit card company on XX/XX/XXXX and asked again that my request be considered along with where I should submit my complaint in writing per the XXXX guidelines. \n\nA few days later I submitted a paper letter and copy of the disputed charges to the credit card company via USPS with the full disputed amount summarized. As an enclosure to this letter I also included proof of my son 's diagnosis of XXXX and asked that the charges be reversed. This was sent to the address provided by the representative. \n\nOn XX/XX/XXXX the company emailed me that my dispute had been resolved however they did NOT include the full amount of my dispute in any of the notes or resolutions nor did the email mention the full disputed amount. The dispute was for {$1000.00} ( which was communicated by BOTH by phone on XX/XX/XXXX and via paper letter shortly after ) The resolution was for a very small fraction of that amount, which equated to a single charge of {$53.00}. \n\nOn XX/XX/XXXX I called the company again, this time to ask about the resolution and if they had received my full complaint submitted via letter. The representative said they could not confirm any details sent by me. I asked to speak to his manager. I XXXX was put on the phone. I asked if they received the letter. He said he could not tell me and that it would be handled by someone in the complaint dispute team. I asked for a contact number for the team and was told he was not authorized to provide that information to me, but that he would enter notes on my account and someone would get back to me. No one has done so. \n\nIt has now been over 30 days since I submitted my documentation per the FCBA and should have been received by the credit card company. I would like to file an official complaint with CFPB under the FCBA that the company reverse these unauthorized charges."
+}

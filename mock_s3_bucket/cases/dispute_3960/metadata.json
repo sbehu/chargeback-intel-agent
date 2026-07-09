@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3960",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "610XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9238,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I booked two rooms at XXXX XXXX, XXXXXXXX XXXX The reservations were for 4 adults. I booked with Citi Travel. On the XXXX, we called the hotel directly, to confirm our reservations. When we tried to check in that evening, we were told that only one room was available. He said they were over booked due to some convention. Each room only had one queen bed. Thus, we had to drive 70 miles out of our way to find another hotel. \n\nThe man at the check in said he couldn't credit my Citi credit card because the reservation was through a 3rd party. He was saying that it was the 3rd party 's mistake. I feel it was the hotel 's mistake, because we called the hotel directly that morning to confirm. \n\nXXXX XXXX says that I was not allowed to cancel, because XXXX doesn't allow for cancellations. The irony of this is that I didn't cancel, the hotel canceled. Plus, when I disputed the charge with Citi, the hotel said I made reservations with XXXX. I made it with Citi Travel. \n\nOn XX/XX/XXXX, I finally was given a Citi Travel phone number, XXXX. As it turned out the number I called was a fraudster, who was giving me the refund through XXXX. Being gullible, he was able to hack into my checking account. \n\nI have disputed this charge with the hotel, and Citi numerous times to no avail."
+}

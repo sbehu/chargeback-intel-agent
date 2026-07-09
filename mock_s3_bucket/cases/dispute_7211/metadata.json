@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7211",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77584"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42762,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX attempted to use my XXXX Credit card to make a down payment on installation of new cabinets for XXXX. Payment did not went through and was canceled per Marchant. A few weeks later we noticed that the payment did went through, we contacted the merchant,  he did not responded at that time. we have filed a Duplicate payment/Pay by other means dispute with CiTi bank. Subsequently we received an email requesting more information, we were only allowed to upload a maximum of XXXX  documents and we had multiple documents that is relevant to the case with no way to uploaded. Hence we were waiting on communication requesting more information. Next communication we received his by email stating that the case is close and Citibank took back to provisional credit. XXXX texted the merchant Stating we would involve the police if he did not return the duplicate payment. The merchant text back stating that he does not have the money was returned and send a copy of his bank statement Proving the money was returned to CiTi bank. XXXX do not understand why CiTi bank reverse provisional credit and close the case, Without making a reasonable effort to contact me to get remaining supporting document and  knowing the merchant did not charge our credit card. \\n\\nwe have submitted the contract, clear evidence that the contract has been fulfilled by other means, text messages from the merchant stating that this was a duplicate payment, Including bank statement from the merchant where the transaction was reversed. The claim was reopen without the provisional credit and a report was made to  the Credit Bureau that we are over the limit on our citi credit XXXX investigate; Case ID numberXXXX XXXX number: XXXX XXXX XXXX XXXX"
+}

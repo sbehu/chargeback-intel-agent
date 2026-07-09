@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1924",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28078"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27312,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "HI I HAD EMAILED AND MAILED ALL THE PROOF, BUT AS OF XX/XX/XXXX, YOU ARE STILL ASKING FOR THE SAME PROOF I GAVE YOU 3 TIMES XXXX ARE YOU DISCRIMINATING AGAINST ME??? \nWHY DO I HAVE TO PROVIDE THE SAME PROOF OVER AND OVER??? \nI SPENT OVER XXXX A MONTH ON THAT CARD AND RARELY DISPUTED ANYTHING XXXX \nI'M SAD AND DISAPPOINTEDXXXX I PREPAID MY XXXX XXXX  USING POINTS AND CREDIT CARD XXXX  AT THE COUNTER, THEY REQUESTED A CREDIT CARD FOR INCIDENTALS WHICH I GAVE THEM MY CITI CARD XXXX  I WAS CHARGED AGAIN XXXX  I DISPUTED THE {$1700.00} CHARGE, BUT IN LESS THAN 24 HOURS, citi DENIED MY DISPUTE.XXXX .IT 'S NOT FAIR. I'M A GREAT CLIENT!! \nSEE ATTACHED PROOF of paid bill, duplicate charge THANK YOU"
+}

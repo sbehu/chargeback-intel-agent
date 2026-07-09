@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-48955511-US
+Shipment Date:   2026-03-17T00:00:00Z
+Delivery Date:   2026-03-20T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     2931 SUMMIT WAY, CA, 91711
+============================================================

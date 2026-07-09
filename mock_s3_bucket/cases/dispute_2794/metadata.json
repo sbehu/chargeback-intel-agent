@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2794",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90029"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23683,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Details of the Problem : On the night of XX/XX/year>, I made a purchase on the website XXXX XXXX XXXX. The site turned out to be fraudulent, and my credit card details were stolen. The next morning, I received an email from my bank about suspicious activity, with two attempted charges of {$1000.00} and {$990.00}. I reported that these charges were not authorized by me and blocked my card immediately. \n\nUpon reviewing my statement, I discovered two successful transactions made by the fraudsters that night : one for {$180.00} and another for {$970.00}. I contacted the bank to dispute these charges, and an investigation was initiated. The bank informed me that the {$180.00} would be refunded but the {$970.00} would not be refunded because the bank determined that this payment was made by me. I received the investigation report and found at least 12 discrepancies and errors, indicating extreme carelessness in reviewing the materials. \n\nOne significant error was the inclusion of a fake rental agreement in the investigation report. To prove this, I am attaching a copy of my original rental agreement. \n\nI wrote a letter to the bank detailing these errors and sent it to the address provided in the investigation report. It has been two months, and I have not received any response. I am now left unprotected, and I am currently paying off the debt on my credit card while the fraudsters are enjoying my money. \n\nActions Taken : Contacted the bank and reported the fraudulent transactions Received a partial refund of {$180.00} Sent a detailed letter to the bank highlighting errors in the investigation report ( no response received for two months ) Requested Resolution : I request that the bank reopens the investigation into the {$970.00} transaction and considers the discrepancies I have pointed out. I believe the bank can correct this situation and ensure that I am not held responsible for fraudulent activity. I seek a prompt resolution and a refund of the {$970.00}. \n\nSupporting Documents : Copies of emails from the bank about suspicious activity My letter to the bank detailing investigation errors The investigation report from the bank Credit card statements showing the disputed transactions A copy of my original rental agreement, proving the document in the bank 's report is fake Thank you for your immediate attention to this matter."
+}

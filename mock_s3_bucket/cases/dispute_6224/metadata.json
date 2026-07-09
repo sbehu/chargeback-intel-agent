@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6224",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20012,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Dispute Denied for Non-Delivered Product Merchant-Instructed Return Ignored Company : Citibank Product Type : Credit card or prepaid card Issue : Charged for a product or service I didnt receive Details : I am disputing a charge for an item I never received and was explicitly instructed to return by the customer service team of the merchant ( XXXX, a Wayfair  brand ). \nI placed the order of {$420.00} on XX/XX/year> ( see Attachment # XXXX ) because the estimated delivery date was XXXX, XX/XX/year> ( Attachment # XXXX ). \nI needed the item for a photo shoot on XXXX, XX/XX/year> for my real estate listing. If the item did not appear in the listing photos, there was no point in keeping it in the house for showings. \nWhen the item failed to arrive on XXXX, I contacted XXXX customer service. They informed me the delivery had been delayed until XXXX. \nI told them that would be too late and that I wanted to cancel the order. The agent explained they couldnt cancel over the weekend but instructed me to refuse the package upon delivery so it would be returned to sender. \nI never saw the XXXX driver in person, but tracking information later showed the item had been returned. I assume this was due to the merchant contacting XXXX. I never received or accepted the item. \nDespite this, I received an email stating I would be partially refunded $ XXXX I never received that refundand over {$67.00} in shipping fees were withheld ( Attachment # XXXX ). \nI contacted XXXX again. A supervisor initially offered to refund half of the shipping cost but never followed through. Later, another representative claimed estimated delivery dates arent guaranteed. I believe this misleads customers during the purchase process. \nI then disputed the charge with Citibank. After receiving a temporary credit, I was issued a letter ( Attachment # XXXX ) stating that because the merchant denied responsibility, I would have to seek reimbursement elsewhere. At the same time, Citibank reverse the temporary credit of {$420.00}. \nThis is completely illogical. Both Citibank and XXXX confirmed that the product was returnedyet I was still charged, fully! \nI called Citibank again on XX/XX/year>, and spent over an hour on the phone. The customer service asked me to look for other ways to claim. \n\nAs a Citibank customer for decades, I am extremely disappointed that my credit card failed to protect me in this situationespecially when your own investigation showed I was charged for a product I never received. \n\nI believe this violates the protections provided by the Fair Credit Billing Act, which ensures consumers are not held financially responsible for undelivered goods. I respectfully request a full investigation and a permanent reversal of the shipping charge.\n\nAttachments : # 1 : Original Order Confirmation # 2 : Original Estimated Delivery Date of XX/XX/year> # XXXX : Citibank Dispute Denial Letter"
+}

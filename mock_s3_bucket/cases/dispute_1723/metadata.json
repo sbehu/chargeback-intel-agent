@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1723",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "321XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4407,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We noticed that there was some illegal fraudulent charges on credit card on XX/XX/2024. We tried contacting them right then and there. But did not get ahold of anybody to XX/XX/2024. And that's the day they froze my credit card and told me not to make a payment until these issues were resolved. Then when I finally received my new credit card in the mail. I called them roughly around XXXX XXXX. I spoke to a supervisor who informed me that he was gon na reverse one of the transactions that was fraudulent. And that was gon na be posted to my account. Balance as a payment. I only had to make a {$46.00} payment. And that would have been the whole payment for that month and that would satisfy the account. That we would have been still a XXXX percent on our payments. He was gon na also make sure that the rest of the fraudulent charges late fees and everything else was taken care of. Well to my surprise that was not done. So I ended up calling back and speaking to another woman supervisor who said she was going to take care of this ASAP because she pulled the phone calls. And everything we just stated was correct. Well, I spoke to another person on XX/XX/XXXX. Who had someone call me back? Which was XX/XX/XXXX. Which was the supervisor saying that she was taking care of everything and our credit card wasn in good standing. She even agreed. Why are we gon na pay late in all of this on a credit card that has been used for fraud on charge we did not do. And she ended up reversing all of the cause. We can see that which means nothing was late. There was no late payments. We were up to date all good and dandy. Well, my wife has our credit reports on her phone from credit karmer and 2 hours surprise. Ding ding ding, we get. I noticed that they reported a late payment 30 days past due. Which is fun any illegal? Because there was nothing past due. We did everything instructed to us. By two different supervisors. We have phone records. We have a bank statement show in the XXXX tobacco. What? We're saying they have phone calls that recorded to back up what we're saying. Um, we can show you credit um. Credit card statements that show the charges. And her reversing them. We also called the credit card company today. XX/XX/XXXX to try to get this all resolved. The supervisor we talked to not only was Nasty, even though he could see that you know, we were telling the truth and everything we stated. Was that he pretty much told us to take us to take them to court? It won't hold up in court just because the credit card people told us what to do on. We should know better and we. We should have done the payments anyways, even though there was fraud on our account and everything was up-to date he pretty much said taken them to court or getting a lawyer was not gon na work because we were in the wrong for following what they told us to do."
+}

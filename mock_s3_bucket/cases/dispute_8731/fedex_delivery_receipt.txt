@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-76658331-US
+Shipment Date:   2026-03-16T00:00:00Z
+Delivery Date:   2026-03-20T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     1757 RIVER WAY, NC, 27703
+============================================================

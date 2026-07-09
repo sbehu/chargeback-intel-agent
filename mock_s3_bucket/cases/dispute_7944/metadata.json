@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7944",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "303XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37874,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased a XXXX XXXX bike from XXXX XXXX for {$320.00}. The bike was delivered on XX/XX/year>, in damaged conditionthe box was partially open, and the bike had multiple scratches and scuffs. I immediately notified XXXX XXXX on the same day via their online form and followed up with photos by email, requesting a return and refund. \n\nXXXX XXXX later refused my request, stating I had not purchased shipping insurance. However, there was no option to purchase shipping insurance at checkout, making their refusal both unfair and deceptive. \n\nI disputed the charge with Citi Card under the Fair Credit Billing Act. I provided documentation including photos of the damage, copies of my communication with XXXX XXXX, and proof that no insurance option existed at checkout. Despite this, Citi resolved the dispute in favor of XXXX XXXX, stating they could not reopen it. Citi relied on XXXXXXXX XXXX claim that I never contacted them, which is demonstrably false. My documentation clearly shows I contacted XXXX XXXX on XX/XX/year>, immediately after receiving the damaged product. \n\nXXXX Requested : I am seeking a full refund of {$320.00} for the damaged bike. \nI request that XXXXXXXX XXXX be held accountable for misrepresentation ( falsely claiming I never contacted them ) and for refusing to honor a return/refund based on a non-existent shipping insurance option. \nI request that Citi Card review this case properly under the protections of the Fair Credit Billing Act, as I should not be held financially responsible for a defective product that I promptly reported."
+}

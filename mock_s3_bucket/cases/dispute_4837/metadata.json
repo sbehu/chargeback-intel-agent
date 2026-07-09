@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4837",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "87144"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32995,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The problem is that I buy numerous items from a seller on XXXX where this person combines shipping fees on the items I purchase. I had to pay at the time for most of the shipping fees upfront and then this XXXX Seller would refund me the excess shipping fees which XXXX then reported to XXXX on my behalf. There is a total of XXXX credits with a total dollar amount of {$190.00} just sitting in my XXXX account. If you look at my account history, the last time XXXX reported these refunds/credits to American Express was back on XX/XX/XXXX, in which I received a {$8.00} refund/credit & also received a refund/credit of {$20.00}. For some unknown reason, my refunds/credits stopped being applied on my American Express Account starting on XX/XX/XXXX, as the first refund/credit that was not posted to my American Express account was back XXXX XX/XX/XXXX in the amount of {$15.00}. There are an additional XXXX refunds/credits like this XXXX and I have listed all of them below as well as have included copies of these refunds/credits from my XXXX account : XX/XX/XXXX XXXX {$15.00} ; XX/XX/XXXX = {$22.00} ; XXXX/XXXX/XXXX = {$11.00} ; XX/XX/XXXX = {$9.00} ; XX/XX/XXXX = {$23.00} ; XX/XX/XXXX = {$24.00} ; XX/XX/XXXX = {$20.00} ; XX/XX/XXXX = {$2.00} ; XX/XX/XXXX = {$0.00} ; XX/XX/XXXX = {$21.00}, XX/XX/XXXX = {$15.00} ; XX/XX/XXXX = {$6.00} ; XX/XX/XXXX = {$0.00} ; XX/XX/XXXX = {$19.00} for a total of XXXX Refunds/Credits totaling {$190.00} which I am asking American Express to collect this money from XXXX because XXXX is claiming that American Express already acknowledged receiving these credits but were never posted to my American Express account. I advised XXXX that my American Express account was not showing these refunds/credits on my American Express account XXXX XXXX advised me that they would request a XXXX to see where the money was, but when XXXX started the XXXX process, they closed out my complaint so I could no longer send messages regarding this issue and I have not been able to get this issue resolved with XXXX. I am also unable to resolve this issue with American Express as well. I mailed a dispute letter to American Express back on or about XX/XX/XXXX, and American Express has chosen to ignore this dispute letter which is unacceptable. Someone has this money, and the fact is I do not have this money which is my money, and I want it back now."
+}

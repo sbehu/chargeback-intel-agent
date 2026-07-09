@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4586",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NC",
+    "complaint_zip": "275XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22778,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged for international charges in XXXX that I did not make. I requested that the issue be resolved. They did not resolve the issue. Despite the account being closed, they keep charging me for charges I did not make on a card I never even activated once again for charges in XXXX. Please reverse all charges please mark the account as paid in full. Please reverse all fees associated with the Fraudulent charges. This letter will also serve as an official cease and desist for your continued harassment to pay for fraud and associated late fees/ charges etc... I will not pay for charges on this account. you are not not contact me any more through citi group or any third party agent."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7222",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22314"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6575,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I re-opened a dispute ( Reference Number : XXXX ) due to continued issues after product replacement and due to removed functionality of an item I purchased. In the dispute denial, American Express has claimed, \" We appreciate your efforts in contacting us again regarding your dispute. However, in the absence of any new information/supports, we are unable to reach out to the merchant again. '' This is factually incorrect, as I specifically told the agent via chat the reason for the dispute to be opened that have changed since the initial dispute. This tells me either the agent was not listening, did not care, or did not see a reason to do their job. This is unacceptable as the replacement took months to get and the charging issue still persisted after replacement and defeats the purpose of having used AMEX for this purchase if this is the level of support received."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2944",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48317"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37397,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I started 2 disputes with Citi Card XX/XX/XXXX. \nCiti Cards Billing Dispute XXXX XXXX and XXXX {$3400.00} transaction date-XXXX XXXX XXXX {$3900.00} transaction XXXX XXXX, XXXX I received a letter in the mail XX/XX/XXXX from Citi cards informing me that the investigation was closed due to not receiving a response from me requesting additional information. I have called every time within 24 hrs that I received a letter and talked to a customer service representative who would put me on hold to check and then tell me it was a mistake and disregard. They should have recordings and notes in my file each time I've called. I've also sent emails and forwarded documents to XXXX multiple times. at least 37 plus emails. I had purchased 2 storage containers from a company named XXXX XXXX which I found on XXXX. I was told I had to pay for the items in full before I would get delivery because they were coming from California. I have never received the items and attempted delivery 3-4 times with no luck. I'm unable to reach the company by phone and I've been blocked on the company 's XXXX. The amounts were added back into my Citi card balance and interest is accruing on it. I did call about interest on statement, so the customer service representative reversed the interest but balance is still reflecting the full disputed amount.\n\nI emailed another letter and documents to XXXX XX/XX/XXXX. \nI received an email from Citi Card XXXX XXXX that dispute has been received but have not heard anything else from them. The amount I'm disputing is still in my total balance. I have exhausted all avenues and sent all proof docs, emails, texts to Citi with no luck in a resolution. Citi has not and will not give me any information about what docs they received from XXXX XXXX  so I can see what was said. I haven't received the shipping containers at all. I don't understand why I have to pay for something I never received. Before I even did this I contacted Citi card and she assured me I was protected if I don't receive and if it was fraud."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2072",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30017"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38604,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have filed several complaints with the XXXX regarding a Home Depot store credit card. I noticed fraud on the card, unfortunately, I had been paying my monthly bill for months prior to noticing the fraud charges due to being busy running 2 businesses. Once I saw the fraud, I contacted XXXXome Depot and informed them of the fraud and they requested a copy of my bank statement and ID and provided a fax number to submit documents to their security operations team at XXXX. After sending the documents more than 3 times to 3 different number to include XXXX, I called to confirm receipt of the documents, only to be told they were never received. I expressed my frustration to include confirmation of the transmission report reflecting 10 pages were sent OK. This dispute has exceeded the maximum time alotted for resolution to include XXXXome Depot acknowledged fault and credited my account. However, Home Depot insisted I stay as a customer and assured they would close out the fraud account. In return, Home Depot issued a new card and confirmed it was not attached to the frauduelent card/account -- this after being asked several times by me, due to the frustration and desire to not keep a card with the institution. At this point I was referred to Citibank due to Home Depot 's lack of assistance in resolution and my many escalations on more than 5 calls. Once I received the new card, I chose to use it for an in-store purchase less than XXXX. Within 2 weeks of my purchase, Home Depot added the fraud charges from the previous fraud card-which was to be closed out and confirmed as fraud done in store from the security operation team upon my investigation of the charges, and my request for the store to pull the cameras from the store to pursue the fraud that incurred -- -and Home Depot put interest XXXX fees and the fraud from the confirmed card that was closed onto the new account and card that was issued after my bank account was credited initially. \nHome Depot then reported this to the credit bureaus as non-payment and put the fraud charges back on my account. I requested this fraud account to be closed in XX/XX/year>. Citibank then closed my Best Buy card that was paid in full with no balance after this incident. Furthermore, Citibank/Home Depot reported non payment to the 3 credit bureaus which immediately reduced my XXXX credit score by XXXX points and it is not repaired since this incident has occured. This is the only thing that is affecting my credit report."
+}

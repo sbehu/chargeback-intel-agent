@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8250",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55901"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29308,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed with the credit card companies, they either do not resolve or said I am responsible."
+}

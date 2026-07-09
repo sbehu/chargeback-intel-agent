@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1758",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "762XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32464,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/2023 I did a reservation using XXXX to stay in a house in Florida for the amount of {$1900.00} and {$200.00} deposit for the property in case of any damages. On XX/XX/XXXX of 2023 the property owner charged my card for the amounts of {$1900.00} and {$200.00} And on XX/XX/XXXX of XX/XX/2023 they charged again {$1900.00}. days later when I noticed the charges, I called the property to ask them why they did that, they replied saying that it was an error and that they have already refunde the money to the card. I checked and it was not true so I called the credit card company to dispute the extra charge of XXXX They told me not to worry about it and that they will issue a new card and that they will investigate and so, in XX/XX/XXXX of 2023 credit card sent me a letter saying that they had issued a credit back to my account of the XXXX from XX/XX/XXXX of 2023 and they considered this matter resolved. The other {$1900.00} and {$200.00} I paid them to my credit card company on XX/XX/XXXX XXXX, the amount I paid was {$4900.00} ( I didnt like to carry a balance so I would pay my balance in full ) .Later in XXXX of 2023 my credit card was fraudulently charged multiple times so I decided to canceXXXX the reservation and because I was unable to get a response from XXXX or the property regards my reimburse for the {$1900.00} and {$200.00} I disputed the charges. The nightmare lasted several months until finally in XX/XX/XXXX 0f 2023 the credit card company issued me a credit back to my account. So I called them and asked them why they did not sent me a letter to notified me, they responded saying that they did. Which is Not true. so asked them when will I get my refund for the amounts that I have already paid to credit card in XX/XX/XXXX of 2023, they said that they did not owe me anything, that the only thing they could do was a to check the whole account and that wit will take them up to 3 weeks. Later I got an message saying that they did not find anything. I called them again and explain them and this time the charged me for the {$1900.00}, {$200.00} from XX/XX/XXXX of 2023 and also {$1900.00} from XX/XX/XXXX of 2023. XXXX ok now according to them instead of they owning me my money they want me to pay {$4000.00} XXXX. I dont know what to do everytime I call they have that attitude of like you cant do nothing about it, I do have screenshots of everything, emails and pictures. \nPlease help me I just want my money back and everything back to. Or mal XXXX dont want my credit to be affected. Thank you Note I have a lot of pictures and emails and screenshots and a police report. If you need anything else please let me know. Thank Credit card info XXXX XXXX XXXX from city bank"
+}

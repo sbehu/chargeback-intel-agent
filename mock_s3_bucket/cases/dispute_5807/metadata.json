@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5807",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93012"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28592,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Complaint Against Barclays Bank for Mishandling Dispute and Poor Customer Service Dear Sir/Madam, I am filing a formal complaint against Barclays Bank US ( Barclays Bank Delaware ) for its failure to properly handle a fraudulent transaction dispute and for the poor treatment I received from its investigation department. \n\nOn XX/XX/year>, a charge of {$170.00} appeared on my Barclays credit card for a product that I never received. I attempted to contact the merchant using the phone number provided with the transaction, but no one ever answered my calls. This raises serious concerns that the charge may be linked to a scam or fraudulent business. \n\nI immediately contacted Barclays to dispute this charge. However, despite calling the bank more than XXXX times, I have not received any resolution. Each time, an agent assured me that my case was under review and that I would receive a follow-up call, yet no one ever contacted me as promised. When I finally spoke with the banks investigation department, I was met with disrespectful and dismissive behavior, rather than assistance. Instead of conducting a fair investigation, Barclays has refused to acknowledge my concerns and has failed to take any meaningful action to resolve my dispute. \n\nDue to Barclays ' negligence and failure to protect consumers, I am requesting that your agency investigate this matter and take action to ensure that : Barclays properly investigates my dispute and reverses the fraudulent charge in accordance with federal consumer protection laws. \n\nThe banks representatives are held accountable for their unprofessional and disrespectful behavior toward customers. \n\nBarclays is required to improve its dispute resolution process to prevent similar incidents from happening to other consumers. \n\nI request a prompt review of my case and would appreciate any updates on how your agency plans to proceed. Please confirm receipt of this complaint and inform me of any additional steps I need to take. \n\nThank you for your time and assistance. \n\nSincerely,"
+}

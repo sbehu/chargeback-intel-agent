@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10812",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "361XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19518,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "At XXXX XXXX  on XX/XX/year> a fraudulent transaction for {$1900.00} occurred at the XXXX, XXXX  Best Buy ( XXXX XXXX XXXX XXXX XXXX, XXXXXXXX XXXX XXXXXXXX ) utilizing my best buy Credit Card. This transaction included a XXXX XXXX XXXX '' Laptop with a SKU of XXXX and a model of XXXX. I further inquired about asset number, XXXX address number, or service number which could help police identify the device and the store was not able to provide these. Further included in this transaction were an air Duster and Monitor cleaning wipes. A second transaction was attempted at XXXX XXXX for {$100.00} which was declined and triggered an automated fraud alert. I did not authorize these purchases and was not aware I was not in possession of the card being used. I promptly contacted the fraud department for this credit card and they have cancelled the card as well as issued a new one and started an investigation. I am not in physically in XXXX and could not have possibly performed or approved these purchases."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11944",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33511"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24855,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a XXXX  XXXX receiver for {$480.00}. The unit failed XXXX  days after delivery and was sent for warranty repair on XX/XX/XXXX ( XXXX XXXX : XXXX ). On XX/XX/XXXX, the merchant 's agent provided a written XXXX resolution commitment. That deadline expired XX/XX/XXXX with no resolution. The unrepaired unit was returned on XX/XX/XXXX after the merchant 's own stated deadline. \nI opened a billing dispute with Citibank on XX/XX/XXXX ( Case ID : XXXX ). On XX/XX/XXXX, I formally rejected the unit as non-conforming goods under Florida Statute 672.602 and notified the merchant in writing. The unit remains sealed and unopened. \nCitibank denied my dispute on XX/XX/XXXX stating only that \" the merchant provided evidence that merchandise was delivered. '' Delivery was never disputed. My dispute reason was \" Damaged items '' a defective goods claim under the Fair Credit Billing Act, 15 U.S.C. 1666. Citibank applied the wrong legal standard. \nAdditionally, I submitted a full rebuttal with XXXX exhibits to Citibank on XX/XX/XXXX. Citibank 's own portal confirmed receipt. The denial was issued XXXX days later with no reference to my documentation. \nThe merchant 's chargeback response claimed I \" refused to open the box. '' This mischaracterizes my legal conduct once I formally rejected the goods under FL 672.602, opening the box would have waived my statutory right of rejection. \nActive government complaints : Florida FDACS XXXX XXXX and Florida AG referral . Remedy requested : full refund of {$480.00}."
+}

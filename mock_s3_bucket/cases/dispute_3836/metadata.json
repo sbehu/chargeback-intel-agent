@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3836",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "92618"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41862,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello CFPB Team, I am contacting you regarding a dispute with Citibank concerning a purchase made through XXXX on XX/XX/year>. After visiting the XXXX XXXX in XXXX XXXX XXXX, XXXX XXXX, CA, where the item I wanted was unavailable in my size, the sales associate assisted me in ordering it online. When the white leather sneakers arrived at my home on XX/XX/year>, I immediately noticed a scratch on the top part of the sneaker. Considering the high cost of these sneakers, receiving them in such a condition was unacceptable. \n\nI promptly reached out to my in-store sales associate via text on XX/XX/year> the same day I had received the item, who advised me to return or exchange the sneakers through XXXX. I followed the instructions and shipped the item back on the same day, explicitly noting the damage in the return request. However, XXXX returned the sneakers to me, claiming they were received in the damaged condition I had initially reported. \n\nFollowing this, I contacted XXXX customer service and was directed to their \" Client services '' for a resolution. Despite providing photos of the damage, screenshots of the communication with my sales associate, and following up through multiple emails and phone calls, I received no response. \n\nAfter several weeks, I reached out again to XXXX client services asking for an update, I was informed by a customer service agent that XXXX management decided they could not accept the damaged goods as they could not be resold. They suggested I contact Citibank to dispute the transaction instead. \n\nOn XX/XX/year>, I filed the dispute with Citibank via their mobile app, providing a detailed account of the issue and offering to supply further evidence upon request. On XX/XX/year>, Citibank concluded their investigation, holding me financially responsible without apparent consideration of the additional evidence I offered. \n\nDespite repeated attempts to obtain further details from Citibank, I have not received any additional information or the promised detailed letter, which was supposed to be available in the \" Notices and Letters '' section within 24 hours. It is now XX/XX/year>, and I still have no update. \n\nIn summary, XXXX delivered damaged goods and refused to resolve the issue, and Citibank has denied my dispute without thorough investigation. I am deeply disappointed and feel that I have been let down by both the retailer and my financial institution. \n\nThank you for your attention to this matter. I am eager to hear your advice on how to proceed. \n\nBest Regards, XXXX XXXX"
+}

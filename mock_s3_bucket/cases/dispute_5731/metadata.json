@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5731",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98502"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41357,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Barclays ' handling of my billing dispute with XXXX XXXX XXXX. XXXX and the burdensome dispute resolution process I encountered. On XX/XX/year>, I placed a delivery order through XXXX XXXX 's delivery service. Upon receiving the order, I discovered issues with the food that warranted a dispute. This was not a face-to-face transaction where I could inspect the merchandise before purchasing. The delivery person handed me sealed food containers and immediately left, giving me no opportunity to examine the contents before accepting delivery. \n\nI attempted to follow Barclays ' dispute process by first sending a secure message through my online account. According to Barclays ' own website, customers should be able to \" dispute a transaction online '' by logging into their account and selecting the transaction. However, after submitting my secure message, I was informed that I needed to call in to discuss the matter. \n\nI then received a letter from Barclays dated XX/XX/year> ( which arrived on XX/XX/year> ), which also directed me to call in. I complied and spent significant time discussing the issue with a representative over the phone. After this effort, I was then directed to mail or fax a letter to reopen the case. \n\nThis excessive run-around contradicts Barclays ' stated commitment to \" make it easy for your voice to be heard '' and to \" ensure that all customers are treated fairly and ethically and that issues are addressed promptly ''. Furthermore, the requirement to submit documentation via mail or fax imposed additional financial costs on me : {$9.00} to send a fax, or {$10.00} for USPS trackable mail to ensure Barclays received my response I chose to pay {$9.00} to send the fax, an expense I should not have had to incur simply to exercise my rights as a consumer to dispute a charge. Barclays should provide a streamlined digital process for handling disputes, especially since I initially attempted to resolve this through their secure messaging system. \n\nSteps taken to resolve the issue : 1. Sent secure message through Barclays online portal 2. Called Barclays customer service as instructed 3. Reviewed mailed response from Barclays dated XX/XX/year> 4. Called Barclays again to discuss the dispute 5. Paid {$9.00} to fax required documentation to reopen the case I request that Barclays : 1. Process my billing dispute without requiring additional mail or fax communication 2. Consider my original dispute based on the fact that this was a delivery transaction with no opportunity to inspect the merchandise before the delivery person left 3. Reimburse me for the {$9.00} I was forced to spend to send the fax required to reopen my dispute case 4. Implement a policy that if at any time in the future the only way for me or any other customer to reopen a dispute is via fax/mail, Barclays be required to pay for such costs 5. Modernize their dispute resolution process to eliminate unnecessary steps and costs for customers, in accordance with their own stated policies of making it \" easy for your voice to be heard '' 6. Provide clear guidance on their website about the complete dispute process so customers know what to expect Thank you for your assistance in this matter."
+}

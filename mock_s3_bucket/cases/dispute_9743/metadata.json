@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9743",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22935,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was charged {$490.00} for a two-night lodging reservation at The XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX \n\nWe arrived at the property at approximately XXXX PM. Within the first hour, a strong, pungent odor caused physical discomfort, including a headache. By approximately XXXX PM, we observed that the bathroom was not as advertised on the website and noted additional sanitation issues, including stains on the stove and visible stains on the bed. \n\nAt approximately XXXX PM, we contacted the property owner in writing to report the conditions. By XXXX PM, we discovered hair in and on the bed and additional stains on the bedding and comforter, confirming that the sleeping area had not been properly cleaned. We documented these conditions with photos. \n\nWe texted the owner again regarding the unsanitary bedding and air quality and received no response. At approximately XXXX PM, we called the owner and were informed that he was out of town. During that call, we formally notified him that we were checking out immediately due to unsanitary and uninhabitable conditions. \n\nThat same evening, we sent a formal written email requesting a refund, which was disregarded. We did not stay overnight and instead checked into a nearby hotel for both reserved nights, for which we have receipts. \n\nI disputed the charge with Citibank and provided documentation including photos of hair and stains on the bed, unsanitary kitchen and bathroom conditions, written communications with the owner, and proof of alternate lodging. Despite this evidence, Citibank closed the dispute after the merchant claimed services were completed and reversed the provisional credit. \n\nThe services were not completed. We vacated the property within hours of arrival due to documented health and sanitation concerns and did not use the accommodation. I am requesting that Citibank reopen the dispute under services not rendered/ not as described and permanently reverse the {$490.00} charge."
+}

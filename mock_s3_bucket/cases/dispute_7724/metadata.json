@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7724",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53045"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18717,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I initially used my Citibank credit card to reserve rooms at the XXXX XXXX express for XX/XX/XXXX and XXXX of XXXX. I have confirmation from the hotel on what I reserved but the hotel made charges on my credit card for XXXX rooms that I never requested. I called the hotel on XX/XX/XXXX, XXXX and XXXX, but they still put the charges on my card. I then filed a dispute with Citibank and the agent said it was fraudulent and shut down the card. He was incorrect and it was a billing dispute. I then had to call on XX/XX/XXXX and talk with an agent named XXXX to reopen it as a billing dispute. I asked at that time if I could provide my documentation and the agent told me no they will ask for it if they need it. I called several times over the next week to check on the case and again ask if I could provide my documentation. I received notification from Citibank on XX/XX/XXXX that the charges are my responsibility. I called and talked to an agent and asked her if I could appeal the decision and send my documentation since I never was given that opportunity. She looked at each church line by line and told me she applied a permanent credit to the charge for XXXX, XXXX, XXXX, XXXX, XXXX, XXXX, she said her name was XXXX and that I would need to wait XXXX business days for it to appear on my account. The charges were not removed so I called back and talked to another agent who did credit the XXXX. I called again about the other charges and talked to an agent that said they never shouldve told me they could put a permanent credit on my charge card for all of those amounts. That agent didnt know what she was talking about because that is not common practice. He told me they could not reopen the case because it was already decided. I told him I had not been able to provide my documentation. At this point, this was a supervisor I was talking to. He told me I would have to wait to Receive a callback from someone and I am still waiting for that callback Citibank is taking no responsibility for what their agents have told me and never provided me a documentation of why they made the decision they did. They also did not ask for my documentation."
+}

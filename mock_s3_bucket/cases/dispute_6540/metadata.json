@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6540",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "945XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49632,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this formal complaint against American Express for their refusal to close a credit card account that was fraudulently opened as part of a deceptive sales scheme by XXXX XXXX XXXX in XXXX. During a high-pressure sales presentation with XXXX, I was misled into opening an American Express credit card. I was told that this account was a necessary part of the timeshare purchase process and was assured that the timeshare could later be sold back to the company through a buy-back program. Both of these claims turned out to be completely false. \n\nThe credit card was presented as a formalitysomething required to \" secure '' the dealnot as a traditional line of credit I was expected to pay off over years. I would never have agreed to open this account if I had been told the truth. These were not simple misunderstandingsthey were deliberate misrepresentations made to secure my financial commitment under false pretenses. \n\nI have disputed this account with American Express, making it very clear that the charges stemmed from fraud and deception. Their response was entirely dismissive. They cited a contract return from XXXX but completely ignored the fact that the contract itself was induced by fraud. I am now being held liable for thousands of dollars on an account that never should have existed in the first place."
+}

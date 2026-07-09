@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10626",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89509"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10866,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'I am filing this complaint because of a technical communication failure between Citibank (XXXX XXXX) and XXXX  regarding a billing dispute for XXXX with the merchant XXXX\\n\\nTimeline of Events:\\n-XXXX XXXX XXXX  Transaction made via XXXX for XXXX XXXX XXXX I opened a dispute with Citi. (On Citi side the Case # is: XXXX XXXX XXXX XXXX XXXX XXXXXXXX: I contacted Citi to cancel the dispute and accept the charge. XXXX XXXX XXXX: Citi records show the funds were returned to the merchant\\'s bank.  \\XXXX XXXX XXXX: Citi issued a formal letter confirming the investigation is complete (see attachment).  \\n\\nThe Problem: \\nDespite Citis official letter (attached), XXXX Resolution Center (On XXXX  side the Case #: XXXX) still shows the status as \"Under review with the buyer\\'s financial institution\" (see attachment) XXXX claims they have not received the electronic \"Case Closed\" notification from Citi.\\n\\nFinancial Harm:\\n1.Because of this technical sync error, the merchant cannot release my reimbursement as the funds are frozen in the XXXX system.\\n\\n2. Citi is charging me an 18.74% APR (Prime + 11.99%) on this $XXXX balance because the dispute is technically \"open\" in the shared system. I have been charged approximately $XXXXmonth in interest since XXXX  for a case Citi claims is closed.\\n\\nI have contacted both companies multiple times, but each directs me to the other. I am caught in a loop where neither company will manually coordinate to fix the electronic status.'"
+}

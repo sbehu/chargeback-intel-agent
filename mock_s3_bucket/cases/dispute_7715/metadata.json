@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7715",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22102"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16610,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A charge showed up on my bill for {$2000.00} on XX/XX/XXXX from XXXX. I had made a reservation on XXXX and cancelled it, so I assumed XXXX had made a mistake. I notified XXXXclay, the credit card company. On the same day, my credit card number was stolen and several fraudulent transactions were made. I also alerted Barclay to the fraudulent transactions, and they were removed. Barclay continued to investigate the XXXX charge as a dispute. On XX/XX/XXXX, Barclay sent us a letter saying the dispute was denied. Barclay provided us the receipt from XXXX that was made by a non-authorize card user by the name of XXXX XXXX for a hotel in New York without providing the address associated with the credit card. The authorized card users did not approve this purchase and were not in New York at the time of the reservation, but Barclay is refusing to remove the charge."
+}

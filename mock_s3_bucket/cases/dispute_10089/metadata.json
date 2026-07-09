@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10089",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8491,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX at XXXX XXXX XXXX XXXX XXXX I booked a trip through XXXX for XXXX XXXX XXXX. I paid with my Citi XXXX XXXX credit card. XXXX stated that free cancellation was available before XXXX the same day of booking. However, when I cancelled before said time, I was eventually charged the full amount of {$850.00} USD ( or XXXX XXXX ) which is a clear violation of their terms. I reached out to the customer service team on Telegram, and they stated I cancelled the day after because I was not in the XXXX time zone. However, this is false. I booked the trip XX/XX/XXXX at XXXX XXXX, and cancelled it at XX/XX/XXXX at XXXX XXXX. In XXXX time, this corresponds to XX/XX/XXXX at XXXX, and XX/XX/XXXX at XXXX, respectively. Therefore, I cancelled within the same day, regardless of which time zone was considered. Thus this is a clear violation of their same day free cancellation policy. My credit card, Citi, rejected the dispute, which is an incorrect action. XXXX is not responding to my messages now and refuses to give any form of travel credit or monetary refund. \n\nI have included screenshots of my booking and time ( with timestamps ), as well as the credit card charge, and my correspondence with the company. I've also included examples of how their same day cancellation policy appears on their website bookings. \n\nThus, I am filing a complaint regarding Citibanks improper handling of a billing dispute under the Fair Credit Billing Act. I cancelled a XXXX reservation the same day of booking in reliance on the merchants clearly advertised same-day free cancellation policy. Despite submitting evidence of this policy, Citibank denied my dispute without adequately addressing the documentation or providing a substantive explanation. I am requesting a full reversal of the charge and a proper review of the dispute consistent with federal consumer protection standards."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3542",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34787"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5679,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Frontier charged my Frontier Mastercard {$590.00} on XX/XX/2024. I disputed the charge with Mastercard, having no idea what it was for. Mastercard temporarily credited the {$590.00} but was unable to tell me what the charge was for. Mastercard subsequently placed the charge back on my credit card and closed my dispute, allegedly because I failed to return two ( 2 ) phone calls. ( I have no record of any voicemail messages from Mastercard. ). Mastercard referred me to Frontier for resolution. Frontier now refuses to remove the {$590.00} charge for a XXXX Pass that I did not authorize and do not have on my account because I filed a dispute with Mastercard. I informed Frontier that the dispute is closed ; I never authorized this charge ; and I do not have access to this XXXX pass. Frontier advised today that they also consider the matter closed. I have been charged {$590.00} for something I do not want - never authorized - and do not have. Sounds like an illegal scheme between Frontier and Frontier Mastercard to cheat people out of {$590.00} plus interest."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7868",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "190XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18116,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Receiving a billing statement with a payment date of XXXX, I reviewed the bill which indicated two XXXX charges of {$96.00} on XXXX and {$66.00} on XXXX.However, I paid both charges by phone on XXXX as I did not want to jeopardize my credit score of approximately XXXX .Having no recollection of these charges, I took the first step of contacting the retailer XXXX but after being transferred to several customer service people, the problem was not resolved .I then drafted a letter to the dispute department for Citibank in XXXX XXXX XXXX XXXX . which included a copy of the aforementioned billing statement with the contested charges highlighted and and an addendum once again indicating the disputed charges and requesting receipts to confirm that these charges were made by me. Since my first contact with the dispute department I have received several requests to provide information on the dispute .I have complied with their requests on at least five separate occasions and mailed the completed forms, yet they keep sending the same form and requesting the same information .It has been a frustrating experience for this loyal card holder ( XXXX ) since XXXX.Than you for your attention to the matte."
+}

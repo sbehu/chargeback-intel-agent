@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2453",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33157"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47789,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Within the last 3 months Citibank has had to issue me a new card for transaction I have not made. Each time I call the fraud department they assure me that with the new card these transactions should not take place. I receive the new card and they still have my original card linked so it causes new transactions. The customer representatives are very vague, not helpful. You can hear personal background noise when speaking to them. When a supervisor is to return the call, they don't so I must call back the department to clarify information. Seems like their own employees are using the consumer information to do fraud."
+}

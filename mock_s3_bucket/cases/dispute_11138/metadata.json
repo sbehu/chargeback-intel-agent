@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11138",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "633XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15449,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My mother received her Barclays credit card statement in XX/XX/XXXX with 6 fraud charges made in XX/XX/XXXX. Called in XX/XX/XXXX to report fraud charges and spoke to XXXX. XXXX couldn't help. Then was transferred to XXXX. Explained that my credit card that I have ended in XXXX and Barclays issued XXXX XXXX a credit card ending in XXXX. The credit card statement shows both credit cards on the statement. Under the card ending in XXXX there are 6 fraud charges totaling {$540.00} made in XXXX, OH. XXXX XXXX was using my address for his account. When I called Barclays cancelled card ending in XXXX and issued me a new card ending in XXXX. Received XX/XX/XXXX statement and charges were still on account. I called again and was told I did not report fraud charges in XX/XX/XXXX. Every time I call it states I'm on a recorded line but there was no record of me calling. Was told in XX/XX/XXXX that they would take care of this for me. I called in XX/XX/XXXX and had to explain everything again. I do not know who XXXX XXXX is. I did not give anyone authorization on my account. I am XXXX  years told and a widow. My husband has been gone for over XXXX years. Someone got access to my information without my permission and got a credit card. In XX/XX/XXXX XXXX closed the credit card account ending XXXX that was issued to XXXX XXXX. The credit card ending in XXXX was never in my possession. I live in XXXX, MO. The charges were done in XXXX, OH. I have never been to Ohio. I did not make these charges and did not authorize anyone else to make these charges. I have been on the phone multiple times with Barclays. I have emailed them and wrote a letter to them. I have attached documentation. I finally filed a complaint with the XXXX on XX/XX/XXXX. After I did this I received a phone call from XXXX with the XXXX 's XXXX at Barclays. She told me she would get this taken care of if I had any questions she gave me her phone number ( XXXX ) XXXX. I have called this number over 5 times and no one answers and no one has returned my phone call. The message states someone will call after 48 hours. I have yet to receive a phone call back. I called XX/XX/XXXX ; XX/XX/XXXX ; XX/XX/XXXX ; XX/XX/XXXX, and left a message each time. On XX/XX/XXXX I received a letter in the mail addressed to XXXX XXXX with my address stating that the charges were valid and were owed. The charges were put on my current credit card ending in XXXX. They have put the charges that XXXX XXXX charged in Ohio under my current credit card account. This is wrong and unacceptable. I called back today, XX/XX/XXXX, and asked them to open my fraud case back up that I do not owe for these charges. I have disputed unauthorized fraudulent charges on my account. I did not authorize or make these transactions and request they be removed, along with any related finance charges, pursuant to the Fair Credit Billing Act. I would appreciate some help. I don't know what else to do. Thank you."
+}

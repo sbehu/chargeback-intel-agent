@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1212",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21042"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34813,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX  I purchased several XXXX watches from XXXX using my Citi Double Cash Card, but 1 item is missing from the delivery. \n\nThe itemized product i purchased ( order detail page pdf attached ) : XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Qty 2 {$710.00} XXXX XXXX XXXX XXXX XXXX  XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Qty 2 {$710.00} XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  Qty 2 {$710.00} XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX Qty 2 {$710.00} Item missing from the delivery XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Qty 1 {$350.00} I contacted XXXX on XX/XX/XXXX  and they asked me to dispute it with my credit card company. \n\nSo I disputed the amount for the missing item which is {$350.00} out of the total transaction of {$2800.00}, on XX/XX/, with my Citi Double Cash Card ending XXXX, Dispute Case ID, XXXX; But I got rejected, see attahced \" dispute_info.png '' screenshot and \" dispute_letter.pdf '' document. \n\nThe on XX/XX/XXXX  i contacted Citi through online chat and was asked to provided the itemized purchased item and missing item lists and sent them to their email ( see \" XXXX, XXXX, XXXX '' for the online chat history, and \" XXXX '' for the email screenshot i sent to Citi with the itemized order information they required ). \n\nHowever, on XX/XX/, got rejected again because of \" Without a valid credit slip, we are unable to intervene on your behalf with the merchant or their bank. '' ( see \" XXXX '' ) I have done what they asked me to do to provide the detailed order info, but they keep rejecting the dispute with new reasons."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1867",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27529"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37357,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was scammed out if {$510.00} by a person pretending to be a book editor. When she demanded more money and got nasty, I knew I made a mistake. Despite immediately disputing this twice, providing copies of texts, they paid her. I got nothing from her and she doesnt have my manuscript for review. She demands another {$1700.00}. There is an online history of XXXX XXXX ripping people off. My credit card company went against me and XXXX did nothing. They continue to allow her scamming of victims."
+}

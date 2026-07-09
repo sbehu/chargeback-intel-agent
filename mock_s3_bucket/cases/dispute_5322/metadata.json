@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5322",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23693"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2450,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX my XXXX XXXX XXXX through Barclays was used without my authorization in XXXX XXXX XXXX XXXX, XXXX transaction in XXXX  and XXXX transactions in XXXX. Totaling {$760.00}. ( I live in XXXX  ). These were all wave in store transactions I was told. I was told that the card was denied 5 times that day. Barclays has told me I am responsible for these charges because I benefited from these purchases. \nThey told me I need to prove to them that I was not in these states at the times of these transactions. The only proof I could come up with is taking a screenshot of my fitness app which shows the date, time and location of my workouts that day. I called my mobile phone carrier and also XXXX and they told me they do not location track. I asked my neighbors if they have on their XXXX cameras me walking that day as I took a walk that day. I contacted my neighborhood XXXX page and posted asking if any neighbors have me on their cameras ( trying to prove I was home all day ) My last workout ( my walk ) ended at XXXX XXXX, and the first unauthorized charge to my credit card was XXXX ( however at XXXX the card was denied the first time ). This first transaction took place XXXX hrs away from where I was ( at home ), therefore impossible for me to be there. \nI would also like to add that on XX/XX/XXXX ( the day before my credit card was breached ) I was the victim of a phone scam and lost ALOT of money. I contacted my local police and filed a claim that evening. I did not go ANYWHERE the following day as you can imagine I was devastated financially and emotionally. I went to my local bank on XX/XX/XXXX ( the next business day ) and closed all my accounts and started fresh. The fraud department with my bank was amazing and was able to recover a majority of what was lost. I am still in contact with my local police investigator but am doubtful any more of what I lost will be recovered."
+}

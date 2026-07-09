@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1148",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KS",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42413,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/23 I purchased 4 tickets to a concert totaling {$2800.00}. I received all 4 tickets. As a feature on their website the buyer can send the tickets to the other attendees in advance. I followed the process online to transfer electronically send the tickets to the other 2 attendees. That process was successful. After a few weeks 2 attendees were not able to attend the concert. I immediatly notified XXXX XXXX and asked what my options were. They said I could request the 2 tickets to be electronically returned to me and that I could sell the tickets on their website. The 2 parties completed the transfer and they no longer had access to the tickets. I tried to retrieve the tickets and the option to retrieve the tickets was \" dithered out '' not highlighted and I could not reclaim the tickets. These calls went on with XXXX XXXX for months leading up until the concert. The vendor admitted they knew I did not have access to the tickets and all the agents said they did NOT know how to \" fix it. '' I spoke with countless agents and chatted online seeking assistance to resolve this issue. I asked for a supervisor/manager and was repeatedly told they had no manager/supervisor. Essentially I was charged for 2 tickets that XXXX XXXX XXXX system could not return to me ( the buyer ) to use or sell. Because of XXXX XXXX inability to deliver the goods I still am being billed for the tickets they could not deliver. Eventually I was told by multiple agents XXXX XXXX does not give refunds for any reasons including their own systems error. I tried to resolve this issue with XXXX XXXX and Citi Bank Resolution Department. Citi Bank informed me they could not \" make the vendor returned my money '' but graciously placed {$100.00} credit on my account. I did submitted everything Citi Bank required to resolved this situation and was told the vendor does not issue refunds. Although refunds should be issued by the vendor when they can not deliver said goods such as these tickets I paid."
+}

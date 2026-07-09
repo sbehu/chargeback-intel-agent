@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5465",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32210"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9388,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "HELLO MY NAME IS XXXX XXXX I AM MAKING THIS COMPLAINT BECAUSE I PREVIOUSLY CALLED BARCLAY BANK TO REPORT THE THEFT OF THE CREDIT CARD OF MY AUTHORIZED USER [ XXXX XXXX ] WHERE MULTIPLE FRAUDULENT TRANSACTIONS WERE MADE TO MY ACCOUNT, BUT THE BANK HAS NOT YET OPENED THE CLAIM FOR THE FRAUDULENT TRANSACTIONS THAT I HAVE ALREADY CALLED 2 TIMES TO MAKE THE SAME REPORT"
+}

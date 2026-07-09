@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_393",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11225"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23983,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Wednesday, XX/XX/XXXX, I paid my entire Citi credit card balance of {$7400.00} and planned not to use the card again. On Saturday, XX/XX/XXXX, at XXXX XXXX I received a text alert asking if I attempted to use my Citi card at a XXXX store for {$810.00}. I was working then, so I did not see or reply to the text until the following day, Sunday, XX/XX/XXXX, at XXXX XXXX, stating I did not attempt to make the purchase. Shortly after my response, I received another text asking me to contact the Citi Fraud Department at XXXX. I contacted them and checked my mobile app to review my Citi statement. My statement showed five purchases on Saturday, XX/XX/XXXX, totaling {$4100.00}. Three charges at a XXXX store in XXXX XXXX, NY. One purchase at XXXX XXXXXXXX XXXX in XXXX XXXX, NY, and one purchase at XXXX XXXXXXXX XXXX, in XXXX, NY. The purchases were as follows : XXXX XXXX XX/XX/, {$810.00}, {$1500.00}, and {$1800.00}. XXXX XXXX XXXX XXXX XXXX$5.00} and XXXX XXXX XX/XX/ {$4.00}. \n\nI talked with the fraud department and disputed the charges. Several weeks later, I received a letter saying the dispute was not honored and I would have to make the payments. I contacted the police to file an official report. I also contacted Citi Cards again to dispute the charges and provide the police report number. Citi opened another investigation and said they would contact me in 1-2 weeks. I contacted the Citi fraud department several times to follow up on the investigation status but was not given any updates. On Friday, XX/XX/XXXX, I reached back out and was told for the second time that they were not removing the purchases, and I was expected to pay for the fraudulent purchases. I requested they open another investigation and asked what additional information I could provide to prove this was fraudulent activity. They told me to write a letter and an investigator would contact me in 1-2 weeks, which they continue to say to me, but I never received a call from anyone. Citi Cards expects me to pay the balance each month while they investigate for the third time."
+}

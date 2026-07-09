@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7138",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29455"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33322,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Booked transportation on XX/XX/XXXX for XX/XX/XXXX services to go from XXXXXXXX XXXX XXXX XXXX XXXX for {$88.00} via XXXX XXXX. We met outside at the specified gate per the email for over an hour past the pick up time. No transportation came or communication. We had to find alternative transportation with a taxi and another XXXX  service. Per the XXXX authorities when we asked at the airport, this company is temporarily closed pending investigation, but we were unaware of this at the time of the booking. Disputed my charge at Citi but was denied, despite documentation of no services rendered. Unable to dispute the resolution."
+}

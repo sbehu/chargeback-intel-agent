@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13370",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76012"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30000,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2026, I canceled my nutrition and medication subscription with XXXX XXXX in writing ( \" effective immediately '' ) via text and email. The monthly subscription was supposed to include compounded XXXX XXXX and nutrition coaching. I never signed any contract locking me in for 3 months I only told the owner XXXX XXXX I wanted to do it month-to-month, and he signed me up without having me sign anything. When I went to cancel, he automatically charged me {$890.00} for two additional months. I was experiencing significant side effects from the compounded XXXX medication provided through the gym, and I received absolutely no nutrition coaching whatsoever. Despite my clear cancellation, XXXX processed the unauthorized charge the same day. When I asked him for a signed contract proving I owed this money, he refused to provide one and told me to dispute it with your bank. \nXXXX was acting as an unlicensed middleman illegally reselling compounded prescription XXXX  medication through his gym ( visible in the gyms own XXXX XXXX XXXXXXXX XXXX ). This is against Texas law regarding the distribution and resale of prescription medications. This matter is currently under active investigation by the Texas Attorney Generals Consumer Protection Division ( case XXXX ) and XXXX XXXX XXXX \nI filed a dispute with Barclays ( XXXX # XXXX, Dispute Reference XXXX ). Barclays denied the dispute without properly investigating this obvious unauthorized post-cancellation charge. Their customer service has been horrible and appears to strongly favor the merchant over their own customer."
+}

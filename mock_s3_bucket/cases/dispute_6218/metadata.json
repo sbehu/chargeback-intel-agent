@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6218",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "945XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9270,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX and XX/XX/XXXX, I was charged by XXXX XXXX XXXX, a home appliance repair company ( AHS ) {$49.00} and {$29.00} as a monthly service fees. I called AHS and complained that I was charged twice. They immediately admitted and told me that it should be only {$29.00} and promised me to refund me {$49.00}. However, I didn't see this refund on my next statement, therefore, I called Citi credit card XXXX and they insisted first that it was the legitimate transaction as the merchant submitted the legitimate information and they did not issue me a refund. Then I sent them a copy of the email sent from XXXX stating that they had already issued me a refund ( its email is attached ). They say \" Please be aware that {$49.00} already credited to her account '' on XX/XX/XXXX, but this time Citi credit card said they never received the refund from XXXX. \nAs Citi Credit card XXXX requested their supporting document, I sent them AHS 's payment ID and the time when AHS refunded my money ( documents attached ). Nevertheless, Citi XXXX sent me the exact same letter as the one they sent me before I submitted all the required document and refused to pay me back {$49.00} and still refused me a refund. \nI have been caught between Citi Credit card XXXX and the merchant and this problem has been going on since XXXX, XXXX and just going no where. What I really want is the direct talk between Citi credit card company and AHS, then the issue would be resolved immediately. I believe either Citi card or AHS is not telling me the truth and I truly appreciate your intervention into this matter. \n\nTruly yours, XXXX XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7112",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11357"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6657,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, my credit card was fraudulently charged {$430.00}. I have tried contacting Citibank many times, but have not received a resolution. That month, there were five fraudulent charges on my account. Four of them have already been resolved, but this one has not been addressed. \nOver the past several months, I have made numerous calls but I have not received any clear explanation or resolution. This has caused me significant frustration and concern over the security of my account. My dispute case number XXXX"
+}

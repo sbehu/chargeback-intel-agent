@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-72587675-US
+Shipment Date:   2025-10-27T00:00:00Z
+Delivery Date:   2025-10-29T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     1555 RIVER BLVD, NJ, 8753
+============================================================

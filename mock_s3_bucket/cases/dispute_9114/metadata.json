@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9114",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "33558"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21065,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I filed a formal and immediate appeal regarding the bank 's denial of fraud Claim on an unauthorized transactions that occurred on XX/XX/year>. I unequivocally maintain that the transaction in question was unauthorized and initiated without my knowledge or consent. The Banks immediate response was closing the account and issuing a temporary number. That confirms that the bank XXXX department recognized the account was compromised on that exact date. The transaction that was posted as part of this fraud incident was XXXX ( XXXX XXXX XXXX XXXX ) for {$1300.00} was denied by the bank. The denial of the {$1300.00} XXXX payment based on a lack of documentation is inconsistent with the bank 's acknowledgement of the larger fraud event and is based on a flawed premise. \nI have no existing, pending, or historical reason to make {$1300.00} payment for an Austrialian visa application status. It was not authorized by me. \nThe bank 's immediate account closure and the reversal of the other XXXX high value charges are, in themselves, sufficient evidence that the account was compromised and subject to fraud on XX/XX/year>. Denying XXXX part of a confirmed fraud event while reversing the others is unjustified. \nI requested the bank to re open and thoroughly re-investigate this matter considering the entirety of the confirmed fraud event and ask to reverse the initial decision and credit the fraudulent amount of {$1300.00} back to my account."
+}

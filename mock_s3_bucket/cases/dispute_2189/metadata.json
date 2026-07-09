@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2189",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35416,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "ISSUE # 1 I called my BestBuy Citi to make a payment on a non promotional balance and the representative advised me a different amount than the purchase amount. I asked him why is the amount higher, he advised me it was due to a promotional balance that was not paid off in time and left some balance of around XXXX dollars. I advised I was making more than the advertised amount per month to payoff the balance within 12 month ( which is the 0.00 % period ). I asked for a payments history and the agent we do not provide history from XX/XX/XXXX. I asked him to send me the statements electronically he said no. They have to be mailed. \n\nISSUE # XXXX Citi seems to be hiding the non promotional balances online. When you try to make a payment it should allow you to target payments to a specific promotion if you have multiple or non promotional balance due. If you want to make a payment, you can pay total amount, minimum payment, other amount. Why is it not showing the break down of the promotion non promotional balance? What if I wan na pay towards sonething specific. Please note all this when I have auto pay pulling so it not interfering with the regular monthly payments. This information should be accessible on the web. \n\nISSUE # 3 If I have a remaining balance since XXXX of XXXX for XXXX some dollars and I pay XXXX dollars every month since XXXX of XXXX how Im I accruing interest on a remaining XXXX or XXXX or even XXXX dollars? Shouldn't payments apply to outstanding interest first?"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13677",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "981XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15810,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank , N.A . ( issuer of the Best Buy credit card/ Best Buy Credit Services ) regarding their improper denial of a billing dispute. \n\nAccount ending : XXXX Disputed charge : {$770.00}, Best Buy order XXXX ( XXXX XXXX XXXX XXXX XXXX, purchased XX/XX/year> ) Citi dispute reference : XXXX Denial letter date : XX/XX/year> Summary of the issue : I purchased a {$770.00} XXXX XXXX XXXX from Best Buy on XX/XX/year> and returned it. Best Buy confirmed receipt of my return on XX/XX/year> ( XXXX tracking number XXXX, confirmed on Best Buy 's own order portal ). The merchant has had the product in its possession for a month and has still not refunded me.\n\nI filed a billing dispute with Citi under the Fair Credit Billing Act and Regulation Z ( 12 CFR 1026.13 ), based on goods returned to the merchant that were not credited to my account. On XX/XX/year>, Citi denied the dispute, stating only that they were \" unable to identify or determine that a billing error occurred. '' That conclusion is not supported by the facts. The merchant has acknowledged receiving the return. XXXX tracking confirms delivery. The merchant currently holds both the product and my money. That is, by definition, a billing error under 12 CFR 1026.13 ( a ) ( 3 ), which covers a creditor 's failure to credit returned goods.\n\nCiti 's investigation was deficient. A reasonable investigation would have included contacting the merchant and reviewing the tracking and return confirmation I provided. The denial letter offers no specific findings, no description of what evidence was reviewed, and no acknowledgment that the merchant confirmed receipt of the return. Telling me to write in to \" appeal '' does not satisfy Citi 's obligations under FCBA. The burden is on the issuer to conduct a reasonable investigation, not on the cardholder to keep re-submitting the same evidence.\n\nCiti is also continuing to assess the charge against my balance and has warned in writing that they may report the account as past due if I do not pay. That further harms me for a charge I do not legitimately owe and which their own card protections exist to prevent.\n\nWhat I am requesting : 1. Citi reopen the investigation and conduct a proper FCBA inquiry, including direct contact with Best Buy regarding the confirmed return.\n\n2. Issuance of a credit for the full {$770.00} disputed amount.\n\n3. Removal of any related interest, fees, or late charges, and a hold on any negative credit reporting tied to this disputed amount during the investigation.\n\n4. Written confirmation of the resolution.\n\nCiti 's role as the card issuer is to protect cardholders in exactly this scenario. They are not doing that job."
+}

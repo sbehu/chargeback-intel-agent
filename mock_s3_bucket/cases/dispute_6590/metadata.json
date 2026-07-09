@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6590",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92103"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25588,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally dispute a charge posted to my Citi account regarding a purchase that I did not receive. In addition, I am providing the requested signed statement confirming that I have had more than two disputes for Non-receipt of purchased items from the same merchant within the past 30 days. \n\nDisputed Transaction Details : Merchant : XXXX XXXX  Item : XXXX - XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX Gaming Laptop ( XXXX XXXX XXXX XXXX, XXXX XXXX, XXXX XXXX XXXX XXXX, 1TB SSD , Platinum White ) Tracking Number : XXXX XXXX Dispute Reason : Non-receipt of item The XXXX tracking information states the item was delivered, but it was never received by me. There was no photograph provided as proof of delivery nor a signature of received, and after verifying with three local XXXX stores, I was informed they could not locate the package. Additionally, I spoke with my neighbors, and no one has seen or received the package on my behalf. \n\nI contacted XXXX XXXX, and a representative initially assured me a refund would be processed. However, I later received an email stating they would not be issuing a refund. Despite my efforts to locate the package and resolve the issue with the merchant directly, I have not received the item, and I do not believe it is fair that I should be responsible for paying for merchandise I never received. \n\nI again contacted XXXX XXXX as they say they were going to issue a replacement but eventually the replacement got cancelled. Contacted them for the third time and they said that they couldn't help me anymore. \n\nOpened a dispute with my credi card company CITI BANK and they said they couldn't find an error so I would be responsible for the charge. ( Letter attached )"
+}

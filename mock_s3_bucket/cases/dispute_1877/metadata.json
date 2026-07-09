@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1877",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32208"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4152,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "RE : Unauthorized balance transfer to XXXX XXXX Carnival XXXX Mastercard by Barclay Credit Card ( Case No. XXXX ) XXXX XXXX authorized a balance transfer from his Carnival XXXX Mastercard by Barclay credit card to his XXXX 's credit card account ending in XXXX in the amount of {$4.00}, XXXX and to his XXXX XXXX credit card in the amount of {$970.00} which posted to his Barclay account on XX/XX/XXXX. \n\nAfter the balance transfer, the CarnivaXXXX XXXX Mastercard by Barclay credit card statement showed an additional balance transfer to a XXXX 's account ending in XXXX in the amount of {$7000.00}. XXXX XXXX did not authorize this transfer nor does he have a XXXX account ending in XXXX which is one digit off from his authorized card number. \nXXXX XXXX immediately reached out to Carnival XXXX Mastercard by Barclays credit card fraud department. XXXX XXXX has evidence of calling about his dispute since XX/XX/XXXX with no resolve. The company is insisting that XXXX XXXX made the {$7000.00} balance transfer request. \n\nAfter numerous attempts of trying to work with Carnival XXXX Mastercard by Barclays fraud & dispute department to no avail, XXXX XXXX decided to contact Macys in XX/XX/XXXX, in order to provide evidence that XXXX did not have any documentation of a {$7000.00} payment on his XXXX account and furthermore, according to XXXX, there is no account number ending in XXXX which is one digit off from authorized number XXXX. \n\nThe following supporting documentation from XXXX 's ( REF : XXXX ) will prove that : XXXX. The only balance transfer that XXXX XXXX approved ending in XXXX was successfully paid to account in the amount of {$4.00}, XXXX. \n\nXXXX. The XX/XX/XXXX statement ending in acct XXXX shows that XXXX XXXX had an outstanding balance {$4300.00} and XXXX. The XX/XX/XXXX statement ending in acct XXXX shows a payment of {$4100.00} and a new balance of {$200.00} ; hence there is no payment made of {$7000.00}. \n\nXXXX. A XX/XX/XXXX letter from XXXX XXXX was sent stating that XXXX XXXX ' account ending in XXXX has a balance of {$270.00}. \n\nOn XX/XX/XXXX. XXXX XXXX called both Barclay and XXXX for a conference call. XXXX XXXX spoke with Carnival XXXX Mastercard by Barclays representative, XXXX case no. ( XXXX ). During the conference call, XXXX validated the following with Barclays representative, XXXX. \n\nAccount ending in XXXX is not a valid account number. This is of most importance because Carnival XXXX Mastercard by Barclay indicates that that account number is where the {$7000.00} was sent to. \nXXXX also verified that they never received {$7000.00} from Barclay on any account XXXX XXXX XXXX never owed {$7000.00} on account XXXX dated back to his XX/XX/XXXX statement. \n\nAs of XX/XX/XXXX, XXXX XXXX still has not heard from Carnival XXXX Mastercard by Barclay and the {$7000.00} is still on his credit report. In addition, it may be important to note that XXXX XXXX Barclay credit card had a {$9500.00} credit limit and due to this unauthorized {$7000.00} charge, the {$9500.00} limit has a total charge amount of {$12000.00}. Why would Carnival XXXX  Mastercard by Barclay allow a charge over the limit?"
+}

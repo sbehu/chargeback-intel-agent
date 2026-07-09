@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3121",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "077XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29245,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I tried to dispute a charge with Citi Card ; it would not do so. I called Citi Card today ; its off-shored phone service would not start the dispute. \n\nThe disputed charge is dated XX/XX/year> for {$270.00} to is XXXX - its phone number is XXXX XXXX XXXX. \n\nI am also very concerned that Citi Card would not start the dispute ; its workers kept asking me for more information about myself and it was hard to understand the workers since their mother tongue is not XXXX. Since I do not have a smart phone they could not send me codes and requests for more information. \n\nI fear I am getting ripped off by Citi Card and XXXX. \n\nPlease help."
+}

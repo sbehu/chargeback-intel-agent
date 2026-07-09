@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5054",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ME",
+    "complaint_zip": "4240"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24193,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My problem is with Barclays -jetblue credit. The jetblue merchant charged my credit card XXXX time in a row on the same day. Almost a {$1000.00}. I disputed the charge due to the fact I did not make this purchases. They were all fro jetblue. I m assuming for making a set change. I had requested to down grade XXXX seats I had tried to do it my self but the website was glitchy and bounced the seats back and forth, so I called jetblue and they made the adjustments for me. Never was I told there would be a charge. The stated they would refund me the difference for going from higher paid for seat to lower price standard seat. When I arrived home from my trip there were XXXX charges XXXX at {$99.00} and XXXX charges for $ XXXX called Barclays to start a dispute with they cancelled shy of 48 hours then I asked for a fraud review which they said they would open but instead if opening it for the XXXX charges all made on XX/XX/XXXX they went into my account and marked charges and payments I had made a month and XXXX month prior messing up my entire account. I spoke to a fraud investigator who said she would get it straightened it out and make sure the proper charges were marked. That did not happen and in random amounts they had started post charges to my account with no explanation. Which I paid because I was afraid it would mess up my credit. I have paid off all of the total amount of those charges combined, and I have started get charged for them again. Two more charges of {$99.00} have posted on my account which I paid and then today XX/XX/XXXX another one of those fraudulent charge showed up on my statement and the post date was XX/XX/XXXX. Barclays messed up my entire account got paid, never helped my get those charge removed and now they are randomly posting charge to my account again. I have not used this account since XX/XX/XXXX and have paid for all of the XXXX charges I should never have been charged by Jetblue airlines and Barclay did nothing but make things worse. Thank you, XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1150",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95758"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43890,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX XXXX XXXX XXXX XXXX on XX/XX/XXXX ( online at Best Buy ) and charged it to my Best Buy Credit Card. The bike was delivered and had a defective tension motor out of the box as well as a software issue where the screen would stop working. I contacted Best Buy and they said they can not assist and that I need to deal with XXXX XXXX  directly. I contacted XXXX XXXX, who then sent me to a 3rd party for assistance with my warranty. This was during the return window. They declined to help as well. I went back to Best Buy and they said they will not assist. I now have a bike I paid {$2100.00} that does not work properly. I continued to reach out to Nordic Track and the 3rd party they contract their warranty to and they continued to stone wall me. I spent a year calling them repeatedly about my defective bike and many hours of phone calls. One service agent suggested that I have my \" partner '' fix it for me. I am single. This was offensive. They then stated that I could pay one of their service partners {$250.00} for a service call, then let that service partner order parts, pay for the parts, spend another {$250.00} for another service call, and they will review it later and see if they will reimburse. This seemed like a fraudulent money grab. Please keep in mind this was defective out of the box upon delivery and clearly within the warranty timeframe. After so many calls and receiving no help the bike just sat in my living room unused. This year I paid out of pocket to XXXX XXXX in XXXX, CA to diagnose the bike. The charge was {$100.00}. They said it was a defective tension motor. They ordered the part and returned on XX/XX/XXXX to install it and I paid another {$120.00} plus the cost of the part for that service. The bike was ridden about XXXX times per month since then and the tension motor ( a XXXX XXXX  part directly from the company ) failed again and the flywheel/bearings are also defective ( knocking sound ). This feels like a lemon and I have been sold something that was improperly manufactured and the company just stone walls its customers by sending them to a 3rd party that frankly could care less about honoring the warranty. All told this was sold as a commercial quality bike and it has never actually worked as advertised and the parts I am repairing have been confirmed as a manufacturer 's defect. They need to replace this bike or refund the charge. Best Buy has an obligation to not sell defective merchandise. They are absolutely a big issue in this whole transaction."
+}

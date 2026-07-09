@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8869",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53045"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29406,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am seeking a full refund for an unauthorized {$190.00} renewal charge levied on XX/XX/XXXX on my Citi Card. This charge occurred despite my explicit cancellation of service XXXX months prior. Following the charge, I was subjected to repeated failures by XXXX 's customer support, which I documented, and a profound lack of safeguard from my financial institution ( Citicard ) during the dispute process, leading to the charge remaining unresolved. \n\nChronology of Events Date Event Details XX/XX/XXXX Initial Payment Paid {$190.00} for the Pro Annual Plan. \n\n\nXX/XX/XXXX Initial Payment I officially cancelled my XXXX account on this date. \n\n\nXX/XX/XXXX Disputed Charge Posted An unauthorized {$190.00} renewal charge was posted by XXXX to my Citicard account. \n\nXXXX XXXX Initial Resolution Attempts I made \" XXXX '' number of attempts ( calls/emails ) to XXXX to resolve this charge, but received no resolution. \n\n\nSubsequent Dates Failed Dispute Process ( Citicard ) I initiated a formal transaction dispute with my bank ( Citicard ) almost three times. I provided detailed evidence of my cancellation and past service escalations/misconduct documentation. Citicard has demonstrated incompetence and a failure to protect my rights or finalize the charge reversal despite conclusive evidence. \n\n\nAs evidence of XXXX 's lack of support and refusal to resolve the issue in good faith, I provided complete documentation, including email attachments, screenshots of the cancellation and refund process, all of which were ignored by Citi team."
+}

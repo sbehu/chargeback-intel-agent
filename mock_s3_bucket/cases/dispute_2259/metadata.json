@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2259",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11563"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6518,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024, I noticed three pending transactions on my account. These transactions were charged by the law firm that my husband has hired for his upcoming court case with his ex-wife. We had already paid over {$7000.00} for the lawyer 's retainer fee to prepare the case. However, we received an email from the law firm requesting more money, which my husband had not authorized through email. We immediately contacted Citibank to dispute the three transactions. My husband also called the lawyer, who stated that he was not aware of these charges and that it was the law firm accountant who had proceeded with them. \nOn XX/XX/2024, I received a letter in the Citibank app requesting specific information about the disputed transactions. I responded to the email XXXX with details about the three disputes and included the email from the law firm account that asked my husband to make the payment by clicking to confirm. I also mentioned that my husband did not click to make any of these payments. \nEnd of XXXX, I received a letter in the Citibank app stating that they had completed the investigation and found that we were responsible for the charges. I called Citibank for a second time, and the staff told me that they had not received any information from us. After I told her that I had sent an email on XX/XX/2024, to respond to their request for more information, she said that we did not give them enough information for the case, which is why they closed the dispute. \n\nThe law firm never mailed my husband the bills, they had the credit card and charged it without his permission. My husband called the lawyer, who acknowledged that we will not pay more besides the retainer. \n\nOn XX/XX/2024, I received a letter from Citibank stating that if I wished to reopen the investigation, I must provide them with a detailed description of how the merchant obtained my credit card information. I had already talked to the billing department about the situation twice. Firstly, the staff member I spoke to said that I had called to cancel the transaction, which was incorrect. I had actually called to dispute the transactions that were not authorized. Secondly, when I asked Citibank about their credit limit policy, they allowed three transactions totaling almost {$9000.00} to go through, even though my credit limit is only {$7500.00}. The staff member hung up on me for asking about their credit limit policy which she couldn't answer during our last call. \n\nI hope that all the calls have been recorded and reviewed by the investigation team. Whether I can successfully dispute those transactions or not, my hope is that enough people will become aware of my case and be cautious with their credit limits. My credit score has been negatively impacted due to carelessness, and I hope others can avoid facing a similar situation."
+}

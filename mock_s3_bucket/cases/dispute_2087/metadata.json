@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2087",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11235"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40336,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Account ending in XXXX XXXX XXXX XXXX writing this letter to help in this investigation to resolve asap. \nBarclay sent me New card without me knowing it and I continued using OLD one which was in my possession. \nOn XX/XX/2024 on my lunch break I went to supermarket ( XXXX ) and made few purchases worth {$35.00} for my lunch on my old card in XXXX XXXX, NY. \nI came back to my office around XXXX started eating my lunch and received email ( attaching copy ) that my pin was changed. I never used cash advances on any of my credit cards, I IMMEADEATLY called to report and we blocked card and noticed within minutes that card already was used in XXXX XXXX XXXX for {$2500.00}! \nXXXX XXXX XXXX its more than XXXX miles away and with heavy traffic that usually happens at this hour it take good hour to drive.Obviouisly we started investigation and dispute, hovewer I received a letter that investigation is complete and iam responsible for this fraudulent transaction! \nFraud dept.specialist/investigator DID NOT Bother to call me to help investigate or XXXX where fraud took place. \nI had to reopen case today and went to XXXX XXXX XXXX myself and found out that money were taken out from teller and I became identity theft victim.Manager of that branch told me to go to detective squad and file the report which I did.Its identity theft as well as Grand Larceny. \nDetective will subpoena XXXX XXXX  for video to catch that criminal. \nPleas return my {$2500.00} as I DID NOT have that card in my possession and NEVER took any cash advances from any credit cards. \nBarclay has to have more security, any credit card that I owe, I activate them via my cell phone or web portal! HOW DID THAT CARD WAS ACTIVATED? I NEVER RECEIVED THAT CARD, NEVER ACTIVATED AND DID NOT HAVE IN MY POSSESIONS AS YOU ACCUSING ME.I am sure Detectives will make it clear.\n\nPlease call me anytime if I can assist more to resolve this case and bring those criminals to Justice. \nDetectives will subpoena Chase following week.Detective XXXX XXXX was assigned to this case XXXX XXXX XXXX from XXXX XXXX if you have question to him his # ( XXXX ) XXXX PLEASE RETURN MY MONEY AS THIS CARD WAS NOT IN MY POSSESIONS! \nXXXX XXXX XXXX ( XXXX ) XXXX"
+}

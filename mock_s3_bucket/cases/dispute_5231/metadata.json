@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5231",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "953XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4553,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been a loyal customer with American Express Credit card for over 20 years with excellent credit reports. Also, a XXXX  citizen. On XX/XX/XXXX. I signed up onlineto XXXX XXXX XXXX XXXX for a free 1-week trial. On XX/XX/XXXX I sent an email to XXXX telling them to cancel my free trial. I have proof of correspondents. \nAmerican Express would never let me show my proof yet I did speak with a representative of American Express telling them that I had proof. American Express only took XXXX 's letters that did not include my email correspondents from XXXX showing I cancelled on within the Free trial time. There have been numerous complaints about XXXX - '' Grossly deceptive advertising '' ; False advertising '' and for Buyers to beware of them ''. \nAmerican Express has been complicit with the possible illegal activities of XXXX. \nI will need more time to upload the needed documents. Please respond in such a way that I can send documentation."
+}

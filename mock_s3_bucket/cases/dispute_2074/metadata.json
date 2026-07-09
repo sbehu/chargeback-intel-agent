@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2074",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MD",
+    "complaint_zip": "20815"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17096,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/24, I paid the full balance shown on my monthly statement, total of {$26000.00}. This my normal practice, I pay the full balance each month. Not sure if it was my error or the bank 's, but the full amount was paid XXXX, so that a second payment of {$26000.00} was also processed on the same date. I called my payor bank and the credit card ( both Citibank ) on XX/XX/24 to try to stop the payment, but the said they could not stop it on a weekend. On XX/XX/24, I called the credit card ( Citibank ) and requested a refund of XXXX of the XXXX payments. Citibank said it would take XXXX business days. I asked for expedited payment ; they said they would try and get back to me. One XX/XX/24, a Citibank representative called and said the refund would be processed in XXXX business days. On XX/XX/24, I called Citibank again because the refund had not processed. A supervisor named XXXX told me it would still be XXXX business days. I told them that I would be filing a complaint with CFPB if the money was not refunded by XX/XX/24. As of today, I have not received any refund and I have heard nothing more from Citibank. Because Citibank failed to provide a refund, I was unable to pay the full monthly balance on another card ( XXXX XXXX  ) and incurred {$330.00} in interest."
+}

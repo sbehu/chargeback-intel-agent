@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8724",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28767,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Unexpected cash advance fee on credit card purchase at Michigan XXXX kiosk What happened : On XX/XX/year>, at approximately XXXX XXXX XXXX I used my Citi credit card at an official Michigan Lottery self-service kiosk to purchase a lottery ticket. The kiosk displayed normal credit card payment options and operated like any standard retail payment terminal. There was no indication or on-screen message suggesting that the transaction would be processed as a cash advance. \n\nAfter the transaction, Citi charged my account a cash advance fee and began accruing immediate interest on the amount. I never received any cash or direct access to funds I only purchased a lottery ticket. \n\nActions taken : On XX/XX/year>, I contacted Citi customer support via chat to dispute the fee. \nThe representative confirmed the transaction was automatically classified as a cash equivalent under XXXX policy and that cash advance fees apply to lottery purchases. I requested a one-time courtesy reversal and escalation to a supervisor. On XX/XX/year>, at approximately XXXX XXXX XXXX, a Citi supervisor responded that the fee could not be waived, citing the terms and conditions of my credit card agreement. \n\nWhy this is a problem : The Michigan Lottery kiosk provided no disclosure that using a credit card would trigger a cash advance fee. The transaction appeared identical to a normal purchase, giving no reasonable notice to the consumer. \n\nThis results in unexpected charges and immediate interest, effectively misleading consumers particularly since this is a state-operated kiosk accepting standard credit cards. \n\nRequested action : I request that the CFPB review XXXX classification of Michigan Lottery kiosk purchases and consider requiring clearer consumer disclosure at the point of sale or within issuer policies. Customers should be explicitly warned when a credit card purchase will be processed as a cash advance to avoid hidden fees and interest charges."
+}

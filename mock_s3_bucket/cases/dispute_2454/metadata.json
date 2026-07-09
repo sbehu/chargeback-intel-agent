@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2454",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14223"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40463,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 my Home Depot account was used at a store XXXX miles away from my residence in XXXX XXXX XXXX. I received an email from Home Depot about the suspected fraud and I called Citicorp immediately to dispute it as I was at home at the time. I also cancelled the account. On XX/XX/2023 I received another notification that my account was used a second time at the same location, while I was also at home. My wife can verify both times of my location. When I called Citicorp and asked how can they used a closed account I was told that a new account was automatically opened and the new account was used. I did not ask for a new account and was unaware that one had been opened. After a couple of months the first charge was reversed. The second charge is still on my account as of today. I filed a complaint with my local police after some digging they found video of a couple, not my race, making the purchase. I called the Citicorp fraud dept and told them the new information and they asked me to send me my drivers license to verify my identity. I sent it in early XXXX of 2023 and on the XXXX statement the charges were reversed. On the XXXX statement the charges were reinstated without any notification from Home Depot or Citicorp. I called again today and am going through the same run around as I have done for the past year."
+}

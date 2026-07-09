@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4602",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32034"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18233,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a payment to my car insurance using the third party billing company, XXXX. The charge went through as a regular purchase with a delivery fee of {$13.00} imposed by XXXX. \nWhen I looked at my credit card account online ( Citibank ), I discovered the charge had been processed as a cash advance with a fee and approximately 21 % interest accruing daily. \nI immediately called Citicard who said it was the XXXX code that XXXX uses ( XXXX ) which shows the merchant is a mortgage company/non-financial institution/travelers checks. \nWhen I called XXXX, they said that they had processed the transaction correctly, and could not help me. \nSo here I am, a consumer stuck in the middle, with no assistance in resolving my issue. \nI have made several attempts to escalate my concern at both Citibank and XXXX. I have been denied the right to speak to a supervisor on several of my calls to both XXXX and Citibank. I have never been able to speak to someone who speaks XXXX as a first language. Apparently, these people no longer exist. \nI am completely frustrated with the lack of professionalism by both companies. Today ( XX/XX/year> ) I finally got transferred to someone who, with a rather heavy accent, said he was a supervisor at Citibank, and he disconnected the call while I was speaking. Actually, what he did was to route my call back to the initial automated greeting in the middle of my question. \nPlease look into the practices of both of these companies. This complaint is against Citicard Credit Cards. I am submitting a separate report on XXXX. \nI have included a screenshot of the transaction as it appears on my online Citicard account, and a copy of the email I received from XXXX explaining that the problem allegedly rests with Citicard. \nThank you for investigating my case. \n\nXXXX XXXX XXXX XXXX XXXX"
+}

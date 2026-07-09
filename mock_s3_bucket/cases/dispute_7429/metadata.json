@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7429",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8742"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18545,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I are long time customers of the credit card company XXXX XXXX. XXXX  of dollars of fraudulent charges were made by XXXX. We requested fraud alerts multiple times and were never notified despite hundreds and thousands of dollars being charged in a short period of time. The company refused multiple times to look up XXXX charges for any year proceeding XXXX. Over {$5000.00} in fraudulent XXXX charges were discovered after the consumer discovered this. Again we were never notified by the company as we requested. Each XXXX charge was flagged by me and reviewed by XXXX XXXX employees. I was told by XXXX, refused to provide ID number that I would be reimbursed {$4500.00} on XX/XX/XXXX. I spoke to XXXX, and XXXX, refused to give ID number that i received incorrect information. I was then hung up on by the security and fraud department. I am seeking the refund of {$4500.00} that I was promised. I am also requesting to have the recorded phone calls and notes from my multiple communications to be provided to me as the consumer. Thank you."
+}

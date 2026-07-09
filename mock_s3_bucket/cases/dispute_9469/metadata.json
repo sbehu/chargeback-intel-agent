@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9469",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21244"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Today I received XXXX notifications that my card has been used XXXX  and XXXX in NY. I have my card in my possession and have not used it at all other than to pay the bill on XXXX today XX/XX/year> transactions were made for XXXX and XXXX not authorized by me. I called immediately and asked to have transactions stopped and reversed and my account closed they began to ask me for my bank account number last 6 digits then sent a code to my phone and asked for the code which is not safe to give under these circumstances and with me having anther account with XXXX compromised in this same exact manner. I should not needed to give you the code on my phone that sounds fraudulent. I'm not sure if that process is correct but I am still not able to get into another account that was fraudulently stolen in the same manner with XXXX XXXX  and do not feel comfortable giving that information. The account needs to be closed and the XXXX transactions reversed."
+}

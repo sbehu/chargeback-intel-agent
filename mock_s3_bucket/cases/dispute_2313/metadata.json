@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2313",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "956XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21953,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX XXXX XXXX my social security an overall identity was taken. I made police reports also filed all necessary documents as I found out who took all my accounts an information. \n\nI then called all my credit card companies to make them aware after i claimed the identity theft all credit accounts good an bad were closed from companies. \n\nDuring this time of XX/XX/XXXX my credit was also ran 26 times In a few days. this account was originally opened XXXX XXXX. Now the original creditor Sears mastercard account is charged off/closed status with balance of XXXX XXXXXXXXShop your way ( Cbna syw mc ) at address XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX of XXXX of my accounts were breeched. One account was put in my name. I made them aware months before as I was unaware why my balance kept going up 2 months prior to my knowing. An 2 others. \n\nAfter communicating with sears mastercard ( shop your way ) mastercard they removed this account approx. 7 or more times. This account keeps adding back to my credit profiles. \n\nAll documents an proof needed an police report an new filed police report have been given as well to company was also past due as of same time frame originally prior to being resolved the first time around. Currently the account shows is past due in the amount {$1400.00}. \n\nXX/XX/XXXX my CBNA credit card for sears was opened as my account reflected perfect payment history in perfect status until this happened. My account went past due w charges showing past due of XXXX XXXX XXXX XXXX XXXX XXXX. I contacted the necessary party, gave all my reports an explained my identity theft. I had this account removed more than 4 times off my credit in this amount of years. For some reason it keeps popping back on my credit. \n\nAs a result I had to remove myself from certain business accounts as my credit declined from identity theft. Also as a result of these account being added an removed multiple times has completely ruined my credit to the point it has been impossible to reestablish credit due to the constant changes. I lost points everytime they re- added accounts. \n\nCurrently this account has come up onto all three bearus once again my credit score was affected again. If reviewed you will notice all my accounts were in perfect standing until XXXX"
+}

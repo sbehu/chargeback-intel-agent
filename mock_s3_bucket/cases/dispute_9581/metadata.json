@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9581",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1273,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX Police Department Case Number- XXXX I am disputing American Expresss denial of a fraud claim involving approximately {$220000.00} in charges arising from employee financial fraud. \n\n\nAn individual who worked for my business opened and used an American Express account without my authorization. I did not authorize her to open an account, be an authorized user, or incur charges on my behalf. \n\nAmerican Express denied my fraud claim on the basis that the actual account user was using the card ( I have received this email response multiple times ) because it was created at the same time as my account, then I received a letter from American express that says, and I quote, XXXX We've reviewed our records and are unable to accept your claim as you made payments on the account. By making payments, you have accepted liability for this account. XXXX ( dated XX/XX/year>. The first fraud case was opened up around the first week of XXXX I believe. This is after over XXXX calls to American express XXXX  team, I have not once got a call asking for evidence in the case. I have weeks of phone calls, with promises to get calls back and nothing has happened. With that being said, This conclusion from American Express is incorrect and unsupported. Simultaneous setup does not constitute consent or authorization, particularly where the account was opened by an employee acting fraudulently. \n\nCritically, the individual responsible has since been indicted by a grand jury for XXXX XXXX charged with a XXXX XXXX, and is currently XXXX  awaiting trial in XXXX XXXX XXXX XXXX XXXX This confirms that the conduct at issue was criminal in nature and not authorized. \n\nDespite all this, American Express has : Refused to reclassify the account as fraudulent Refused to provide proof of authorization Prevented meaningful investigator contact after reopening the case multiple times Payments during this time to my account were made out of Economic duress, and solely to prevent additional financial harm, interest, and account damage. \n\nEven after a demand letter sent to American express legal team, I have yet to get any evidence of either a signed application, recorded consent, digital acceptance logs tying me to personally to authorization, nothing, zero communication with American Express besides me trying to reach out and get this issue resolved."
+}

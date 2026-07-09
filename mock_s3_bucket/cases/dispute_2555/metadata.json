@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2555",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44145"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23993,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased 2 airline tickets from XXXX XXXX  using my AMEX card on XXXX, XXXX \nOne ticket for XXXXXXXX XXXX XXXX, the second for XXXX XXXX XXXX \nright after the purchase I checked my AMEX account to see the charges in US Dollars, I realized that AMEX applied and old exchange rate of XXXX XXXX XXXX XXXX XXXX instead of the new official rate from the XXXX XXXX XXXXXXXX XXXX which was XXXXXXXX XXXX XXXX = XXXX XXXX XXXX \nI immediately called AMEX and talked to an agent XXXX XXXX who assured me that the exchange rate will be corrected once the transaction is processed usually within 24 to 48 hours. \n\nI was charged XXXXXXXX XXXX instead of the correct charge of XXXXXXXX XXXX for one ticket for an overcharge of XXXX in one ticket, based on the official XXXX XXXX XXXX exchange rate for that day. \nI was also charged XXXX for the second ticket instead of the correct amount of XXXXXXXX XXXX for an overcharge of XXXX XXXX based on the XXXXXXXX XXXX XXXX XXXXXXXX official exchange rate. \nI have tried to resolve the issue on multiple conversations with agents on XXXXXXXX XXXX XXXX  and on XXXX, XXXX, XXXX  with no resolution. \nI was advised to dispute the charges, even though I informed the agent that the charges are all correct in XXXX XXXX, that my issue is not with the merchant, but with the exchange rate that AMEX was used, So I filed dispute XXXX, and XXXX, Of Course XXXX confirmed the charges XXXX which is true since all the charges in XXXX XXXX were correct I finally talked to a supervisor XXXX XXXX on XX/XX/2024 who totally understood the problem and he asked me to drop my dispute of the charges and file a complaint with AMEX instead, since this was and American Express internal issue and not a merchant dispute. \nHe promised me to start an investigation and clear the issue within 2 weeks. \nI paid all the charges because I was concerned about my excellent credit score, Unfortunately AMEX is refusing to refund me the difference go XXXXXXXX XXXX  for both tickets. \nYour are my last resort,"
+}

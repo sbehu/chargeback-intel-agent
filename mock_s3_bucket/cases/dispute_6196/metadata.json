@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6196",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2116"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40299,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to lodge a formal and urgent complaint against American Express for gross negligence, failure to honor a hard block request, and allowing unauthorized charges that have caused me significant emotional distress and financial harm. \nOn XXXX XXXX, I explicitly requested American Express to place a hard block on my card, with specific instructions to decline any transactions from XXXX and related entities. American Express confirmed that : 1. All transactions on my current and previous cards would be blocked.\n\n2. A replacement card would be issued.\n\n3. No recurring merchant will receive the new card information.\n\n4. The old card would no longer authorize any transactions.\n\nDespite these assurances : 1. I never activated the new replacement card.\n\n2. I never shared the new card information with anyone. \n\n\nYet, charges continued to appear, the latest XXXX on XXXX XXXX for XXXX XXXX American Express claims these charges are now appearing on the new card, which was neither activated nor disseminated by me. \n\n\nThis situation is deeply alarming and demonstrates a failure of American Express to : 1. Properly enforce a hard block, which I was assured would fully protect my account.\n\n2. Safeguard my consumer rights and account security.\n\n3. Provide truthful or consistent communication regarding their actions.\n\nAdditionally, the continued unauthorized charges have caused me extreme trauma, anxiety, and sleeplessness, affecting my mental health and personal well-being.\n\nMy concerns are : 1. How are transactions processed on an inactive, unactivated card?\n\n2. How did XXXX ( or any merchant ) obtain and charge a new card I never used or shared and was told by Amex that they won't receive new card information? I was told - Ill put the hard block after this replacement on all previous cards for this account so that no recurring merchant will receive the new card information.\n\n3. Why did the so-called \" hard block '' have absolutely no impact?\n\nThis raises serious questions about American Express ' internal controls, its handling of customer requests, and potential violations of consumer protection laws."
+}

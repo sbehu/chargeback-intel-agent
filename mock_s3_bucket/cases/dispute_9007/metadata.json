@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9007",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90065"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2806,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Reason for the complaint : Citibank denied my fraud dispute despite clear proof that I did not authorize the charges. I am requesting CFPB intervention under Regulation Z. \n\nDescription : Between XX/XX/XXXX and XX/XX/year>, {$2300.00} in fraudulent transactions were made in XXXX on my Citibank credit card. Citibank notified me of the fraud alert on XX/XX/XXXX, and I immediately canceled the card. The bank issued a provisional credit but reversed it on XX/XX/year>, stating the dispute did not pass. \n\nI provided clear evidence that I was not in XXXX during the fraudulent period. I re-entered the XXXX XXXX  on XX/XX/XXXX and remained in XXXX XXXX, where I made multiple legitimate purchases with this and other Citibank cards. It was impossible for me to make the transactions in XXXX. \n\nCitibank has not provided : - The reason code - Any merchant evidence - A clear explanation for denying the dispute Under Regulation Z ( 12 CFR 1026.13 ), Citibank is required to reimburse unauthorized charges and conduct a reasonable investigation."
+}

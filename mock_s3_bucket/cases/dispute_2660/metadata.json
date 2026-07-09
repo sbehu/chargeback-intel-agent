@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2660",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27514"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31118,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "1. Two tickets were purchased and canceled on XX/XX/XXXX ; refunded the same day as it was in the XXXX-hour risk-free cancellation policy SEE ANNOTATION # XXXX ON XXXX MARKUP 2. Two separate tickets were purchased on the same day, XX/XX/XXXX SEE ANNOTATION XXXX XXXX ON XXXX MARKUP a. Ticket XXXX SEE ANNOTATION # XXXX ON XXXX MARKUP ( ALSO SEE ATTACHMENT TITLED XXXX RECEIPT FOR NUMBER XXXX ON XXXX  ) b. Ticket XXXX SEE ANNOTATION # XXXX ON XXXX MARKUP ( ALSO SEE ATTACHMENT TITLED XXXX RECEIPT FOR NUMBER XXXX ON XXXX ) i. Please note that the total for this ticket is {$430.00}, yet only {$330.00} was charged to the AMEX card ; a credit of {$100.00} was applied. \nii. Please note that AMEX lists the ticket number as XXXX ; the attached XXXX receipt ( XXXX RECEIPT FOR NUMBER XXXX ON XXXX ) shows that was the previous ticket number ; XXXX is the correct ticket number. \n\nXXXX. On XX/XX/XXXX, the two tickets were canceled. \na. SEE ATTACHED EMAIL CONFIRMATION FOR TICKET XXXX, ANNOTATION XXXX XXXX  ON XXXX  MARKUP ( XXXX - CANCELATION FOR NUMBER XXXX ON XXXX ) b. SEE ATTACHED EMAIL CONFIRMATION FOR TICKET XXXX, ANNOTATION # XXXX ON XXXX MARKUP ( XXXX - CANCELATION FOR NUMBER XXXX ON XXXX ) XXXX. On XX/XX/XXXX, XXXX sent confirmation that both tickets were refunded to the AMEX. \na. SEE ATTACHED EMAIL FROM XXXX  ( XXXX REFUND EMAIL FROM XXXX ) b. Please note that the refund for ticket XXXX is for the total value of the ticket, {$430.00}, more than the {$330.00} charged to the AMEX. \n\nXXXX. On XX/XX/XXXX, a refund for ticket XXXX was posted to the account ( SEE ANNOTATION # XXXX ON XXXX MARKUP ) for {$430.00}. \n\nXXXX. The second refund of {$430.00} for ticket XXXX HAS STILL NOT BEEN RECEIVED. The XXXX  markup shows all transaction history from XXXX. \na. There is only XXXX refund of {$430.00} XXXX XXXX when the tickets were canceled and refunded. \n\nXXXX. After filing a XXXX complaint against XXXX, XXXX gave me the wire transfer confirmation for both tickets for {$430.00} each. \na. See attachment ( XXXX WIRE TRANSFER CONFIRMATION FOR NUMBER XXXX ON XXXX ) for ticket XXXX ( THE REFUND THAT HAS BEEN RECEIVED ) b. See attachment ( XXXX WIRE TRANSFER CONFIRMATION FOR NUMBER XXXX ON XXXX ) for ticket XXXX, ANNOTATION # XXXX ON XXXX MARKUP ( THE REFUND THAT HAS NOT BEEN RECEIVED ) XXXX. I disputed the charge two times with AMEX, which they initially provided credit for, but then reserved it because they continue to associate the two tickets that were purchased, canceled, and refunded on XX/XX/XXXX with this refund ( # XXXX in this narrative and annotation # XXXX in the XXXX markup ) a. Its impossible for a refund processed in XXXX to have been posted to my account in XXXX. \n\nI have spent countless hours with AMEX trying to resolve this issue. They are holding {$420.00} of my money hostage. I have generally had no problems with AMEX and enjoy their products, but this has turned out to be the worst credit card experience ever."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9012",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97229"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7451,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Against : Citibank Issue Type : Credit card dispute handling / billing dispute Product : Credit card What happened? \n\nOn XX/XX/year>, I was the victim of a deceptive and likely fraudulent locksmith service. I disputed the resulting {$450.00} charge with Citibank, but Citi mishandled the dispute by assigning the wrong dispute category, failing to collect or review any evidence, and ultimately denying the claim for reasons that do not align with the Fair Credit Billing Act. \n\nThe locksmith, operating as FM XXXX, falsely claimed to be licensed, bonded, and insured. I later confirmed with the Oregon Construction Contractors Board ( OCCB ) that no such license exists, and I have filed an official complaint with the OCCB.\n\nThe technician used coercive, escalating, and arbitrary pricing while I was locked out at night with my two young children. He charged {$450.00} for 7 minutes of work, caused damage to my doorframe, refused to provide an invoice, and subsequently attempted to obtain my sensitive information through a suspicious third-party website unrelated to the business when offering a partial refund. When I contacted Citi on XX/XX/XXXX, I was specifically advised not to use that link because it appeared to be attempting to capture payment information and to have no further contact with the merchant. \n\nDespite clear indications of fraud and deceptive merchant behavior, Citi categorized the dispute as goods/services not as expected, which is factually incorrect. Because of this error, Citis investigation did not consider the substantial evidence I prepared, including photos, licensing verification, price comparisons, screenshots, call logs, documentation from state authorities, and the fraudulent refund link.\n\nCiti representatives told me that I would receive instructions or an email address to provide evidence directly to the Disputes Department, but no such contact was ever sent, leaving me unable to submit documentation. As a result, the dispute was denied entirely based on merchant claims, with no evaluation of my evidence.\n\nThis is a violation of Citis obligation under the FCBA and Regulation Z to conduct a reasonable investigation."
+}

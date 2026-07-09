@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-89612015-US
+Shipment Date:   2026-03-10T00:00:00Z
+Delivery Date:   2026-04-19T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     224 HILLSIDE WAY, FL, 342XX
+============================================================

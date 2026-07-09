@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-510045",
+  "invoice_date": "2026-03-01T00:00:00Z",
+  "amount_cents": 5432,
+  "currency": "USD",
+  "billing_address": "1233 Sunset Ave, PA, 17036"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9031",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38158,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Against : American Express I am filing a complaint because American Express has failed to properly handle a billing dispute for recurring vendor charges that I attempted to cancel. The vendor was unreachable calls were unanswered, no email was available, and I could not access my account to cancel the service. \n\nI notified American Express multiple times that the charges were unauthorized and asked them to stop the vendor from billing my account. I was told repeatedly that nothing could be done and that I must resolve it with the vendor. The charges continued, and my balance increased due to fees and late payments that I did not consent to. \n\nAmerican Express has been investigating for months with no written updates, no case number, and no resolution. Every time I call, the agents tell me a different story and send me back to the starting point. \n\nThis issue caused my credit score to drop significantly ( from XXXX to XXXX ) because Amex reported multiple late payments even while the account is in dispute, which violates the Fair Credit Billing Act.\n\nI am requesting CFPB intervention to : 1. Require Amex to complete the dispute investigation 2. Remove all incorrect late payments from my credit reports 3. Remove all unauthorized charges and fees 4. Provide written communication and a case number Thank you for your assistance."
+}

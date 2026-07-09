@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2734",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43230"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28539,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX, XXXX XXXX began building a porch on our house. We tried paying him the final payment. We used our Barclays card. We tried using it but it kept declining the transaction. We had 5 temporary charges for XXXX and one charge for XXXX. I called Barclays and explained the situation. 4 of the charges were taken off as well as the XXXX but one charge of XXXX still remained. At this point, I could not reach XXXX XXXX and continued trying to locate him for 6 months. I assumed he had scammed us, and I was trying to seek fraud, or criminal charges ( I later discovered that he was sick and in the hospital. ) I filed a dispute at this time with Barclays in XXXX of XXXX. During this time, I provided Barclays with all the proof that the {$5000.00} was not owed to him. ( Cashiers check, Contract, There was also a charge filed against him through the Attorney General of Ohio so I submitted them the info as well ). \n\nSkip ahead to the Spring of XXXX, I finally was able to contact XXXX XXXX. He explained his situation about being sick, having major XXXX XXXX, and recovery. I explained to him my predicament with my credit card. He explained that he was called by Barclays while in the hospital in the Summer/Fall of XXXX. He told Barclays that we did not owe him the XXXX or the XXXX. I called XXXX and explained to them the situation. We had 3 3-person calls with XXXX where XXXX explained as did I, that XXXX was taken out of his account while the charge was in dispute with XXXX but XXXX the dispute was closed the charge was put back on my card. The charge is still on my account and when I called today, I was told that the case will never be opened again. \n\nIm out XXXX. I know Barclays can throw around money and XXXX is nothing to them. However, it is a lot of money for me. Ive spent countless hours on this dispute, taking days off of work to focus on this since the wait to be helped at Barclays is always long. The stress this has caused is beyond what should be experienced for anyone. Please help."
+}

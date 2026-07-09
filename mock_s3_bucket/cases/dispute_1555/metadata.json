@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1555",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77479"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27545,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I notified Citiback of a disputed charge in connection with a gift card purchase that I used at XXXX. The gift card was issued by Citibank Shop your Way Master Card. Each month since XXXX, I have have had to call Citibank Master Card to address the {$17.00} under dispute. I was told on XX/XX/XXXX when I called Citibank that the late fees of {$2.00} which were charged on the disputed amount was waived along with the disputed amount of {$17.00} was waived. Citibank also charged another {$19.00} in duplicate and this was also waived. The case was taken by XXXX in Customer Service and all of this was recorded in case iD # XXXX. Since this time, I received collection phone calls from Citibank on XXXX/XXXX/XXXX at XXXX and on XXXX at XXXX regarding a past due amount of {$17.00}. I have made Citibank aware that again Federal Credit Law for disputed amounts to be placed under collection, but the Collections Department seems to be unaware. I have tried diligently to resolve this matter, but I refuse to be held responsible for being charged for a purchase that was paid for using my digital gift card that was issued by Shop your Way Gift card. Since XX/XX/XXXX, I have received no word from Citibank regarding the results of the investigation. -- the only action that they have taken is to send the account to Collections to appears."
+}

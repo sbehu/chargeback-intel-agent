@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_160",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91320"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28012,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi XXXX by XXXX has rejected a dispute request for a charge on services not rendered ( wedding flower preservation ). I was charged {$530.00}, by ( XXXX ), in XXXX of XXXX. Due to XXXX, wedding was postponed until XX/XX/XXXX. XXXX promised to preserve my wedding flowers in a resin cast but I never received the product. In XX/XX/XXXX, I was told that I should reach out to my creditor since XXXX would be closing their doors and no longer offering refunds to consumers. I supplied my creditor with ample evidence of the charges and services unrendered. In the first communication from Citi, I was told that I didnt supply adequate information with my claim. Therefore, I resubmitted a new claim with the missing statement and a printout that another Citi consumer had received a chargeback ( for an XXXX purchase ) even though the 60 days from billing for a refund had also passed for them. I dont understand how a creditor can get away with giving credit back to only some consumers but not all who find themselves in the same predicament. This seems to be an unfair credit practice and should be regulated to better protect the consumer. I have lost faith in the creditor and would consider leaving the company if I had the option to keep my XXXX membership with an alternate creditor."
+}

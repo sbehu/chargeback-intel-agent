@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-38514637-US
+Shipment Date:   2026-03-03T00:00:00Z
+Delivery Date:   2026-03-18T00:00:00Z
+Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
+Destination:     6072 GREENWOOD AVE, NY, 10583
+============================================================

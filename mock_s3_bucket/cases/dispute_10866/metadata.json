@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10866",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95135"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32423,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I are long-time customers of the Citibank Credit Card , well over 10 years.\n\nWe always pay our bills on time and in full. However, during the past 2 years, we started to get many unauthorized charges, which caused frequent exchange of our credit card ; it is highly inconvenient. We complained many times to them, and now they changed their tactics to kick out inconvenient customers who do not pay them high interest on the Debt. Last month 's bill was {$4500.00}. We had the thank you point on {$110.00}, so we placed a request for the credit card payment and added {$4400.00} to cover the full payment. However, as soon as payment was processed, we noticed an additional amount of {$110.00} to our bill. This practice is outrageous thievery from their customers."
+}

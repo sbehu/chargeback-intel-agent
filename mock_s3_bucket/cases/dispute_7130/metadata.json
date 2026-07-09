@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7130",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "344XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3922,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is submitted against American Express National Bank for unlawfully attempting to collect, enforce, and report an unresolved balance after I submitted a formal billing error dispute regarding an uncredited payment. Their actions are in direct violation of federal statutory law, including the Truth in Lending Act ( XXXX XXXX. XXXX ). \n\nI. FORMAL BILLING ERROR SUBMITTED XX/XX/year> On XX/XX/year>, I submitted a valid payment of {$6000.00} to my XXXX XXXX account. That payment has never been credited. I notified the company in writing and initiated a billing error investigation under : XXXX ( a ) of Public Law XXXX ( XXXX XXXX. XXXX ) which permits the consumer to dispute an uncredited payment. \n\nMy billing error notice demanded : Application or rejection documentation of the XX/XX/XXXX payment ; Production of the full account ledger ; Correction of the account balance. \n\nXXXX. COLLECTION EFFORTS CONTINUED IN VIOLATION OF LAW Despite my billing error notice being properly submitted, XXXX XXXX : Issued new billing statements demanding payment on the disputed balance ; Refused to credit or investigate the XX/XX/XXXX payment ; Has continued to report this balance, potentially impacting my credit reputation ; Has acted as if the balance is valid despite it being the subject of an unresolved dispute. \n\nXXXX. STATUTORY VIOLATIONS PUBLIC LAW XXXX ( XXXX Stat. XXXX ) These actions directly violate : XXXX ( b ) : A creditor may not collect a disputed amount while the billing error is under investigation ; XXXX : A creditor must disclose and verify the basis of the claimed balance ; XXXX ( c ) : A payment must be properly credited when received. \n\nXXXX XXXX is acting as if the debt is valid and enforceable despite never resolving the payment discrepancy. This is a textbook statutory breach. \n\nIV. CONSTITUTIONAL DUE PROCESS VIOLATION XXXX Stat. XXXX By refusing to correct the balance or investigate the disputed payment while continuing to enforce collection, XXXX XXXX is depriving me of property without lawful process. This violates my Fifth Amendment rights under XXXX XXXX. XXXX, which guarantees that no person may be held liable for a debt without a fair opportunity to contest the basis of that obligation with full access to the evidence. \n\nRELIEF REQUESTED I request the CFPB : Order American Express National Bank to immediately suspend all billing and enforcement activities on this account while the dispute remains unresolved ; Investigate their unlawful continuation of collection activity in violation of XXXX ( b ) of the Truth in Lending Act ; Require them to issue a formal acknowledgment that the XX/XX/XXXX payment dispute is still active and that the balance is not validly enforceable at this time ; Refer the matter to the XXXX for regulatory sanctions due to charter breach and statutory misconduct under XXXX Stat. XXXX XXXX ; Provide documentation from XXXX XXXX confirming whether they reported the disputed balance to any credit bureau in violation of federal billing dispute protections."
+}

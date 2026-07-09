@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3371",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93940"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9836,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Regarding : Citibank XXXXXXXX XXXX XXXX XXXX Number XXXX Cardholder Name : XXXX XXXX XXXX Dispute of {$59.00} Balance Owed XXXX : XX/XX/year> : Fraudulent Charge of {$29.00} ( See Fraudulent Charge PDF Attachment ) XX/XX/year> : Called Citibank Customer Service. Disputed {$29.00} Charge. Closed Credit Card. Customer Agent stated fraudulent charge was removed. \nXX/XX/year> : Citibank Late Fee Charge of {$29.00} ( See Citibank Statement XXXX  Attachment ) XX/XX/year> : Citibank Interest Charge of {$00.00} ( See Citibank Statement XXXX  Attachment ) CItibank 's balance of {$59.00} is erroneous. It consists of a {$29.00} fraudulent charge that was disputed. A Citibank agent stated that this charge was removed. It was not. Citibank then erroneously charged a {$29.00} Late Fee and XXXX XXXX interest. \n\nRequest that charge of {$59.00} be reversed."
+}

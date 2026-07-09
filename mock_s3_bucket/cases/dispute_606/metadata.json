@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_606",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33067"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17796,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I did a purchase in XXXX, to XXXX, a furniture company. originally, the transaction for XXXX {>= $1,000,000} pesos or {$5500.00} was requested to be voided, hoewver one month later, by a letter, mail and phone call I confirmed to Citicard the transaction was correct, and requested them to charge my credit card. The Bank in XXXX, paid to XXXX the XXXX {$29.00} XXXX pesos, and XXXX delivered to me at satisfaction the furniture. \nCiticards, despite my continuous letters and mails, debited and credited the {$6500.00} to my account. They stated theyw ere investigating the report ( by the way, never contacted XXXX ). Suddenly in XXXX XXXX the XXXX bank took away from XXXX the {$29.00} XXXX pesos. XXXX has been asking me to pay them for their sales, I have stated to XXXX many times, to reimburse XXXX and charge my account. \nFinnaly, they charged me again on XXXX the XXXX but have refussed to reimburse XXXX the XXXX XXXX pesos tI owe them. The bank in XXXX contnues saying they have no instructions from XXXX to reimburse the {$29.00} XXXX XXXX pesos. Citicards refuses to give me a letter stating they have charged me and they will pay XXXX in XXXX. XXXX is talking about suing me in XXXX."
+}

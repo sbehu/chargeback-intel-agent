@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9702",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37167"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31724,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Formal Complaint Regarding Citibank 's Refusal to Process Valid Dispute I. The Underlying Transaction On [ Insert Date of Purchase ], I purchased a vacation membership from XXXX XXXX XXXX XXXX ( XXXX ) in the XXXX for {$24000.00} ( Agreement # XXXX ). This purchase was induced by material misrepresentation. The merchant sold me their lowest tier membership ( \" XXXX XXXX XXXX' ) at a predatory price point, while knowingly selling higher tiers to other customers for significantly less. Furthermore, the core service sold '' exclusive member rates '' does not exist. I have documented evidence that public rates on XXXX are consistently cheaper than the \" member '' rates I was sold.\n\nII. The Dispute and Date of Discovery I discovered this misrepresentation on [ Insert Date you checked XXXX, e.g., XX/XX/year> ]. Immediately upon discovery, I formally rescinded the contract with the merchant due to fraudulent inducement and \" Bait and Switch '' tactics.\n\nIII. Citibanks Compliance Failure I contacted Citibank to file a dispute for \" Services Not as Described '' and \" Misrepresentation. '' I explicitly requested that the dispute be processed under the XXXX Scheme Rules ( specifically XXXX  Reason Code 13.5 or XXXX XXXX ). These network rules allow cardholders to dispute transactions for up to 540 days when the service is for future delivery or when the misrepresentation is discovered later ( \" Date of Discovery '' ).\n\nIV. The Violation The Citibank representative refused to open the investigation, incorrectly citing the standard 60-day billing error window. This is a violation of my rights as a cardholder. The 60-day limit applies to mathematical billing errors under Regulation Z, but it does not override the Card Network 's contractual guarantees for disputes regarding Misrepresentation and Services Not Received. By refusing to assert my rights under the network rules, Citibank is effectively aiding the merchant in retaining funds obtained through fraud.\n\nV. Resolution Requested I demand that Citibank immediately open a formal dispute for the {$24000.00} transaction under the correct Reason Code for Misrepresentation. I possess all necessary evidence, including the rescission letter, price comparisons ( XXXX vs. XXXX XXXX ), and the predatory contract terms, and I am ready to submit them to the investigaXXXX."
+}

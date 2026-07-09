@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8865",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19120"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25142,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an item from Home Depot on XX/XX/year> ( Order Number XXXX, Item Number XXXX ). Amount of {$740.00} The delivery was originally scheduled for XX/XX/year>, but it was delayed until XX/XX/year>. \n\nAccording to XXXX Tracking # XXXX, the package was marked as delivered at XXXX XXXX XXXX XXXXXX/XX/XXXX. I received a delivery notification email aXXXX XXXX XXXX but there was no package at my home. I checked my XXXX footage, which clearly shows no delivery attempt between XXXXXXXX XXXX XXXX XXXX XXXX \n\nAt XXXXXXXX XXXX XXXXhat same day, I called XXXX to report that I did not receive the package. They opened a case for me ( XXXX # XXXX ). I also contacted Home Depot and provided them with the XXXX case number. \n\nA few days later, I was contacted by XXXX XXXX from the Home Depot Solutions Team. He told me that he had contacted XXXX to request proof of delivery, but XXXX did not respond. He said he could not issue a refund until XXXX completed their investigation and promised to call me back. \n\nThat same day, I received an email from XXXX stating that their investigation was complete and that if the package had not been received, I should contact the seller for further assistance. When XXXX called me again XXXX days later, he said he still could not refund me because the tracking showed delivered. I asked if he had received any proof from XXXX ; he said no. \n\nI asked for his email address so I could send my video footage proving there was no delivery attempt. I sent the video to XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. I sent XXXX follow-up emails after that, but XXXX never XXXX. \n\nSince then, I have called Home Depot multiple times. Each time, they tell me to open a dispute with my Home Depot Credit Card. I tried that, but the dispute was denied before I could upload any supporting documents because the upload link ( www.homedepot.com/mycrc ) did not work. When I called the credit card department, they told me to contact Home Depot for a refund instead. \n\nI have been going back and forth between Home Depot, XXXX, and the credit card department for over a month. Everyone keeps referring me to someone else, and no one takes responsibility or provides a solution. Even the local store XXXX could not help me. \n\nThe last representative I spoke with was XXXX XXXX ( XXXX ) on XX/XX/year>, at XXXX XXXX  She helped me create a new case ( # XXXX ) to request a refund. However, as of XX/XX/year>, XXXX XXXX XXXX  I still have not received any refund or further communication. I have sent the XXXX video footage XXXX times, but no one has responded. \n\nIt has now been more than a month since the delivered date. I have not received my order or a refund, and I have spent many hours calling and emailing with no resolution. I am requesting a full refund for my missing order and for Home Depot to review how my case was handled."
+}

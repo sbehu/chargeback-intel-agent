@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2258",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38359,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I write to follow up on Complaints XXXX of XX/XX/XXXX and XXXX of XX/XX/XXXX. Barclays responded to such complaints yet the issue of an overcharge on my account remains unresolved since early XX/XX/XXXX when I first contacted Barclays about such overcharge. Barclays ' measures have been temporary, reversed, and temporarily reinstated. Thus, the issue still remains unresolved. In addition to the documentation I have already provided Barclays more than once, I am willing to coordinate a conference call between the merchant and Barclays if that will help Barclays conclude its investigation or request any further specific documents it may so require. I am eager to conclude this matter and close my account with Barclays. \n\nI have called Barclays yet one number included in its last letter of XX/XX/XXXX is a wrong number and no person answers the \" direct line '' provided in such letter. I have left messages and await a response. \n\nThe time it is taking to resolve this matter is extraordinary."
+}

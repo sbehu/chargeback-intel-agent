@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4716",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90049"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22132,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024, I ordered movies from XXXX XXXX {$XXXX} and {$XXXX}. \n\nI never recieved the shipment of the movies and at the time I was in the hospital due to being elder abused and attacked at a XXXX. \n\nI contacted XXXX, a XXXX representative who informed me that I would be credited with the charges totaling {$XXXX} and $ XXXX would not need to pay for the movies. He confirmed I did not recieve the shipment of movies. See attached recording of the call. \n\nI contacted XXXX XXXX ( XXXX  ) who also informed me by letters that they investigated my dispute and would credit charges totaling {$XXXX} and {$XXXX}. See attached letters. \n\nXXXX  refused to credit the charges."
+}

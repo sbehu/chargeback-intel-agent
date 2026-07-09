@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_373",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7430"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43593,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I bought shoes on a scam website called XXXX. As soon as I submitted my credit card information I knew it was a scam because of the sketchy email. The charge that showed on my CC statement was \" XXXX XXXX XXXX XXXX XXXX  {$180.00}. I submitted a dispute for that as it was a scam. \n\nOn XX/XX/XXXX, the scammers attempted many many purchases through XXXX XXXX XXXX  a few of the purchases were declined, but two purchases went through : - XXXX  : {$2700.00} -XXXX : {$13000.00} The AMEX Fraud team called me themselves due to the suspicious activity. I said it was 100 % not me that made the purchases and it was fraud. They closed my credit card and sent me a new one and credited my account for the amount. \n\nOn XX/XX/XXXX, the AMEX Fraud team called me and asked if I put my credit card information to the scam website I said that I did. They then rejected my Fraud Claim on the terms that I gave the website my information, and debited my account {$16000.00}. I 100000 % never made these purchases."
+}

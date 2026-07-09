@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9212",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33634"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40498,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi closed my dispute without completing a proper investigation. They repeatedly claimed the funds were returned to the merchant bank on XX/XX/XXXX, yet provided no trace, no XXXX, no transaction record, and no evidence of refund. The merchant also stated they never received any funds. \n\nCiti sent XXXX letter to the merchant and received no response, yet closed the case anyway. A dispute can not be closed without merchant documentation. This violates XXXX chargeback investigation rules and standard banking procedures. \n\nI specifically requested : Proof of refund XXXX  / transaction trace Merchant documentation Merchant-bank confirmation Evidence of communication Citi provided none of these and simply told me to go deal with the merchant, which is unacceptable and improper under dispute resolution rules. \n\nI am requesting a full reinvestigation, escalation to a supervisor, release of all documentation under my rights, and reopening of the dispute. I also request CFPB oversight, as Citi is ignoring repeated requests and forcing the consumer to chase the merchant for a transaction the bank claims to have refunded. \n\nI will not pay this amount. This dispute must be resolved properly."
+}

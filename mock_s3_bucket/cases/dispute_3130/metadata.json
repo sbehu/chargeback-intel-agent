@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3130",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80120"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43196,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclaycard 's dispute process is broken and unusable. Any dispute is filtered through a few limited questions that don't cover many cases with no opportunity to comment. The only document upload provided is .jpeg - seriously? Barclaycard is, presumably intentionally, making a dispute almost impossible. They must try to wear down customers via horrible web portals, limited options, obscure communications. If and when you talk to an agent there is a language barrier as they must be using low cost labor from overseas with very basic XXXX skills."
+}

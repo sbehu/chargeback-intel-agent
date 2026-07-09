@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2740",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48535,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Last XXXX XXXX XXXX the XXXX at my home took XXXX of my credit cards without my permission and purchased over {$10000.00}. None of which the materials are at my house. XXXX was over {$4000.00}. XXXX XXXX was over {$6000.00}. I filed a police report. XXXX agreed and wiped out those charges however XXXX refuses. Ive tried XXXX times even when I talk to their company they feel that it should get wiped out, but theyre investigative group has decided again for a third time no. I have text proving that he admitted to doing wrong and would pay back. Hes never paid back and yet XXXX still refuses to wipe out these charges. I dont understand how that can not be fraudulent and should be a felony charge as well. I had pointed out what cards I was going to charge the extra cabinets on, but I did not hand them to him or tell him to use them for whatever he wanted. He also has XXXX other charges against him for acting as if he had a license and insured when he does not and also the XXXX office and other charges for the same thing thats happened to me with other people, weve paid and still has not supplied the material or the work in the thousands of dollars. Multiple thousands of dollars. My XXXX XXXX XXXX has now dropped to XXXX. Ive been forced to go into a XXXX XXXX XXXX and close out my cards because of this. There have been many things I wanted to do this year but cant afford because of this as well. This is not fair to me at all. Im a divorced mom of XXXX and a grandma of XXXX. Ive paid over {$3000.00} towards it already. Which has prevented me from paying more on my other bills so they all compiled interest charges hence needing to go into XXXX XXXX I was trying to save my credit score that I built up since my XXXX, all destroyed in less than a year. Please help as soon as possible thank you. Also note I posted on XXXX if anyone else had a problem with him and XXXX other people contact me. Since then I have XXXX now on XXXX messenger or on my XXXX page, I will be happy to give you a copy of those proof that they have filed or felt fearful of filingbecause he is a big guy very loud."
+}

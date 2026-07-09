@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-79412122-US
+Shipment Date:   2026-03-08T00:00:00Z
+Delivery Date:   2026-03-22T00:00:00Z
+Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
+Destination:     545 OAK DR, NY, 11211
+============================================================

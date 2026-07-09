@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11490",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "54650"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1829,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a credit card billing dispute that was improperly closed. \n\nThe disputed charge is {$170.00} from XXXX dated XX/XX/year>. \n\nThis transaction qualifies as goods not received, and the prior determination appears to rely on incomplete or misinterpreted information. \n\nThe timeline is as follows : XX/XX/year> : Order placed XX/XX/year> : Order canceled prior to fulfillment XX/XX/year> : Package was delivered but refused and returned to sender The product was never accepted, opened, or retained. I did not receive or benefit from the goods in any way.\n\nWhile the merchant may claim delivery occurred, delivery alone does not constitute completion of a transaction when the goods are explicitly refused and returned. A refused shipment is not considered accepted merchandise. \n\nAdditionally, the merchant offered a partial credit of {$79.00}, which contradicts their position that the full charge is valid and non-refundable. \n\nCiti closed the dispute stating the merchant is unwilling to issue a credit, rather than determining whether the charge itself is valid under billing error standards. \n\nThis is not a merchant policy issue it is a billing error for goods not received. \n\nAll statements above are supported by documentation, including evidence of the returned shipment. \n\nI am requesting a full reinvestigation of this dispute and appropriate credit to my account. \n\nThank you, XXXX XXXX"
+}

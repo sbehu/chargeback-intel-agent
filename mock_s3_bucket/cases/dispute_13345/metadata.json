@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13345",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "UT",
+    "complaint_zip": "84117"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27743,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi prepurchased a stay at XXXX  XXXX  XXXX  XXXX. Paid with my chase points. At the hotel they charged my Citi double cash card for the full stay as a mistake they said they would refund it. I called the hotel XXXX times and they emailed me showing they refunded. On my Citi card it never showed they refunded. I called Citi XXXX times and sent over proof that I prepaid as well as a pdf of the hotel showing they would refund. They denied the dispute. I still havent gotten a refund. I called Citi again and a manager looked at the dispute and the attachement agreeing it should be refunded and she would reopen the dispute. She did not. Im still out money. The hotel said Citi can call them directly they cant help me. Citi refused to even help me. I stayed at the hotel XXXX XXXX. Citi manager agreed I should have won the dispute they denied it without opening the files. She agreed on call it was recorded. Going to close all my Citi accounts after 6 years because of this."
+}

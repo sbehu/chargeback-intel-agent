@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7947",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "87110"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24060,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I initiated a balance transfer of {$1600.00} from my Citi Simplicity card to my XXXX credit card. Citi confirmed in writing that the transfer was processed and provided a XXXXXXXX XXXX \n\nI provided this trace ID to XXXX, who investigated and confirmed to me that no funds were received. This leaves Citi and XXXX in direct contradiction : Citi claims they sent the money, while XXXX states they never received it. \n\nDespite this, Citi has refused to provide me with proof of where the money was actually sent. Citi has also failed to provide me : The routing and account number where the funds were sent. \nSettlement confirmation or a Fed reference number proving the funds left XXXX system. \nAny return codes or rejection notices if the transfer failed. \n\nADDITIONALLY : XXXX only written response was a form letter from their Executive Response Unit, which was riddled with typographical errors ( e.g., stating poof of payment instead of proof of payment ). This careless communication demonstrates a lack of seriousness in handling my case. \n\nI have tried repeatedly to reach Citi by phone and email, but it is impossible to get connected with anyone who can provide assistance. I have not received any direct follow-up from Citi despite this issue being unresolved for more than 11 weeks. \n\nAs a result, I am stuck carrying duplicate debt, with XXXX charging me 24 % XXXX interest on a balance that Citi claims was already paid. The financial and personal strain of this unresolved error has been significant. I am also an XXXX XXXXXXXX XXXX XXXX XXXX and my financial stability is critical to both my career and my service."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4556",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10454"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39473,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "After reporting that the Home Depot credit card charge of {$XXXX} was neither mine nor authorize by me, they cancelled the card and sent a new one. Their fraud department began an investigation. They requested that I make a police report and send a copy of my driver 's License. I included in addition to the Police Report and Driver 's license, a copy of my work schedule and work Time Card showing that I was schedule to work on XX/XX/year> from XXXX to XXXX. The fraudulent charge occurred at XXXX XXXX XXXX XXXX XXXX store in The XXXX at XXXX and I work in XXXX and was at work until XXXX. I sent information they requested to the address they gave me : XXXX XXXX XXXX, XXXX XXXX XXXX XXXX XXXX XXXX. I sent this with the XXXX XXXX mail with Tracking XXXX XXXX XXXX XXXX XXXX XXXX on XX/XX/year> at XXXX XXXX XXXX and again I sent them a fax message through the fax number they gave me at XXXX XXXX XXXX XXXX on XX/XX/year> XXXX XXXX Eastern Time. \nOn XX/XX/XXXX I received a letter from them saying they have determined that the transactions were mine. they reach this conclusion without considering any of the information I sent them. Additional supporting evidence available on request including a XXXX XXXX receipt bearing some else 's name, telephone number and address and address. \nI found out on Monday XX/XX/year> from XXXX of their associate that no information was ever received from me. they reach a conclusion without considering my side of the issue and I have evidence of providing them with more than the information they requested from me."
+}

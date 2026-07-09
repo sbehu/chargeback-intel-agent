@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1852",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "161XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44252,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ongoing dispute. Credit card company instructed me to respond to their letter via mail. I did, with the correct email and case number, and a pdf signed letter of my response. This was done on XXXX XXXX, 2024. On XX/XX/2024, when I called to check on the status they said they had no record of my reply, and that they assumed the case was closed. They are using their lack of responsiveness as an excuse to close this case and not refund the charge."
+}

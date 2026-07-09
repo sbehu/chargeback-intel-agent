@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12724",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43235"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39896,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The case with city bank ( card ) been created ( XXXX ID : XXXX ) for full compensation for stay in XXXX XXXX XXXX XXXX ( services been purchased via city travel and services provided not as advertised ). \n\nAmount of claim is {$950.00}, transaction date XX/XX/year>. In dispute resolution letter from citi bank the following reason been provided \" Through our investigation, of the information and facts available, we were unable to identify or determine that a billing error occurred ''. \n\nI did not received any details on investigation performed and reply from hotel not been provided. Please assist with dispute processing."
+}

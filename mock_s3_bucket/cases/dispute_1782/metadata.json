@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1782",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "17815"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41052,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/24 I bough items from XXXX to be delivered on XX/XX/. I had 5 issues with this order and was promised a courtesy credit amounting to {$500.00}. I was approved for {$160.00} price match since the TV went down in price before this {$500.00} promise. The day before deliver everything became {$1500.00} cheaper for XXXX XXXX sale. I was going to either cancel my order or do a free return if they couldnt cancel ( I have 15 days from delivery to return and they werent delivered until the day after the sale ) and then rebuy them that day at the lower price. The manager XXXX informed me not to do this he will just 100 % guarantee me a refund of the price difference with the courtesy credits too for a total of {$2000.00} if I do not cancel. I followed his instructions and 2 days after the sale ended, the refund was denied because I was given a courtesy price adjustment on the TV ( the manager assured me it will 100 % be approved ). XXXX XXXX team is reviewing the case to see what can be done but I had filed a dispute with Citi credit card about a week ago. I sent proof of original price proof of the screenshot of the lower priced items ( same exact ones ) along with tickets numbers to XXXX that had my conversations to the manager. They now denied it saying Im responsible despite the fact that had it not been for their managers faulty info, I couldve bought it for less and returned the original order. I do have a recording of a second manager assuring me that the first manager will get me the refund."
+}

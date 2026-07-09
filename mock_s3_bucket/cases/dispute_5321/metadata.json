@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5321",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32312"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29658,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX I was checking my Macy 's America Express account online and was shocked to discover that charge had posted to my account for {$1100.00}. I had never authorized this charge, and was not even notify. I have called and file a dispute about this issue with Macy 's serval times, I've never received a respond from this company or alert from Macy 's that a merchant was attempting to charge my account this very large sum without the card being present. Because of this issue my credit score has decease tremendous and I have suffered tremendously as well. For my pain and suffering I would like to be reimbursed compensated {$1100.00}."
+}

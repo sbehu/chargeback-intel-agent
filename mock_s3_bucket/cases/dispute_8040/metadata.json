@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8040",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76092"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18115,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a Citi credit card in XXXX I used the card regularly for about a year, but then stopped using it. At the time it was paid in full. Over the next 12 years, I forgot I even had a Citi card. I had moved several times. While Ive kept the same email and phone number, I moved several times over the last 12 years. I never received a call, text or email from them. Two weeks ago I ran a credit check and saw a 60 day delinquent balance of over {$12000.00} from Citi. I called to report fraud. They took my claim. I called back to follow up and they told me they investigated and found no fraud. They were not able to tell me much else, except the last three charges made : XX/XX/XXXX, XXXX {$150.00} XXXX in XXXX XX/XX/XXXX, XXXX {$310.00} RCSS in XXXX XX/XX/XXXX, XXXX {$380.00} XXXX in XXXX Apparently they are all grocery stores in XXXX. Over {$840.00} in groceries over three days in XXXX was not enough to warrant further investigation into my fraud claim. They did give me an address on record for the account. The address they had on record was in XXXXXXXX XXXX. I have never lived in XXXX. I was not allowed any further information or details about my account since it has been closed and is in collections. \nI believe Citi Bank has been negligent in handling my legitimate fraud claim and I have received no help from them. Only a {$12000.00} bill and a delinquency on my credit report which knocked my credit score back XXXX points."
+}

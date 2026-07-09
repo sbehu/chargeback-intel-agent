@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11583",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "18901"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23196,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was fraudulently charged for XXXX subscription in XXXX on my Citi card. I do not use any of XXXX 's services. Two ( positive ) charges were made. I disputed both. Citi only reversed one ( negative charge ). I have asked them repeatedly to review and they refuse to address it. Every time I send an inquiry they take two weeks to send a letter that says they already addressed the issue. The amount still in dispute is {$84.00}."
+}

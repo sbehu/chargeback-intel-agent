@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5064",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31477,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged {$110.00} by XXXX for a subscription I had canceled during the free trial period. Despite canceling, XXXX failed to send a cancellation confirmation and later canceled my account without notifying me. I can no longer log in to my XXXX  account using my email address ( XXXX ), which means I have no access to the services I was charged for. \n\nI have made multiple attempts to contact XXXX through their support system, but they have only provided automated responses and no resolution. I also filed a dispute with my bank, Citi, but they closed the case, stating I need proof of cancellation from XXXX. However, XXXX has not responded to my inquiries or provided evidence of any activity on my account. \n\nXXXX actionscharging me for a service while denying accessconstitute unfair billing practices. I am requesting a full refund of {$110.00} for the subscription I can not use."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12952",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MS",
+    "complaint_zip": "38655"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48628,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A charge of {$2800.00} was made to my Citibank double cash card in XXXX of XXXX. The charge was to the bookstore at the University XXXX XXXX XXXX  in XXXX, XXXX XXXX I neither made nor authorized the charge to be made. When the charge showed up on my statement, I called the company and disputed it. Citibank canceled that card and issues me a new one with a different number. Citibank initially removed the charge from my account. Later, I received notification from Citibank that the merchant was claiming that the charge was valid, and it was put back on my account. I requested any proof that they had, pursuant to their \" investigation '', that the charge was valid. They said they would send it to me. After hearing nothing for a couple of weeks, I called the Citibank fraud department and they said again that they would send the information. That has probably been another ten days ago, and I have still received nothing. I attempted to contact Citibank again this morning, but I suspect that my account has been pushed to the bottom of the stack, because the computer says that I won't get a live person on the phone for at least 30 minutes."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7702",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32836"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4710,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was scrolling through social media on my phone when XXXX XXXX transactions popped up on my screen. I opened the BARCLAYS app, blocked the card, and called Barclays to explain what happened in the same minute. \nAfter that, they told me I would have to pay both charges and that 90 days after the investigation was completed, they would refund me. I was not happy with that, but since the amounts were not crazy, I paid them. \nOver the days, I stayed on top of them, calling at least XXXX or XXXX times during the investigation, which they would just tell me was pending. \nToday, after over 3 months, I called the investigation team again to know why I had not been refunded for the fraud. She told me it was not reported correctly and will take up to 90 days again. How come? How is it even possible? A credit card company does not take a fraud report seriously enough. The amount was low, but what if it were XXXX XXXX dollars? They will make me pay for that and expect me to wait 6 months for a response due to their incompetence. How was it not reported properly? I called multiple times to check. Unacceptable behavior! I no longer want to wait another 90 days for a refund because of their lack of action. And above all, I want to know if the company will take this type of complaint seriously, it is fraud, someone is stealing, and if the company is making me pay for it, it is from me and not from them that they are stealing. It is a safety concern about my finances."
+}

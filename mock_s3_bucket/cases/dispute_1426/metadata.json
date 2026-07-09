@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1426",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36000,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received defective furniture and Citibank is not allowing a charge back and is holding me fully liable for the purchase and I disputed within 60 days of purchase,"
+}

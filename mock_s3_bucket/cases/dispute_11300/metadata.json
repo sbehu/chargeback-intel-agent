@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11300",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33020"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11802,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is about a {$140.00} charge on XXXX from XXXX XXXX XXXX. \nThe airline made a Significant Schedule Change to my passenger 's itinerary. According to XXXXXXXX XXXX \" If your flight is significantly changed or cancelled by the airline, you may be eligible for a refund or to rebook. '' The original itinerary was a flight from XXXX  to XXXX  with a stop in XXXX with an estimated arrival time of XXXX on XX/XX/year>. \nThe airline made the scheduled change and the new arrival time was XXXX more than 8 hours after. This change was unacceptable to my passenger so the flight was changed\nto XX/XX/XXXX with a stop in XXXX XXXX. This change resulted in the plane ticket becoming unusable since my passenger requires a XXXX  XXXX  to transit through the XXXX airport. I had to pay for another flight on another airline.\n\nThe airline refused to change the flight again and Citi Card 's response is that \" the merchant cancellation / return policy was not followed '' even though it is the policy of the airline to refund or rebook for a significant schedule change."
+}

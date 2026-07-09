@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12380",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94506"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1051,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2026, I was charged {$480.00} for a XXXX order for two pairs of shoes. I never received the merchandise.\n\nAfter the package did not arrive, I disputed the charge with Citi. Citi issued a conditional credit while it investigated. XXXX then told Citi the order had been delivered. The documentation provided by XXXX was not sufficient to prove that I actually received the shoes. It appeared to show only that a XXXX package was marked delivered in XXXX, XXXX  and left at a front door on XX/XX/2026. It did not show the full delivery address, a signature, a delivery photo, GPS confirmation, or proof that I personally received the merchandise. It also did not clearly establish that both pairs of shoes were included in that shipment. \n\nCiti ultimately reversed the conditional credit and denied the dispute. I then asked Citi to reopen or reconsider the dispute and explained that I never received the merchandise and that the merchants documents did not prove actual delivery to me. On XX/XX/2026, Citi responded that it no longer had any recourse to obtain credit for me because the timeframe to resolve the dispute had passed, and that its investigation remained closed.\n\nMy complaint is that Citi closed the dispute without adequate proof that I received the goods, then refused to reconsider it based on timing even though I continued to contest that the merchandise was never delivered to me. I am asking Citi to reopen and fairly review the dispute, explain exactly what evidence it relied on, and correct any billing or credit reporting\nconsequences related to this transaction."
+}

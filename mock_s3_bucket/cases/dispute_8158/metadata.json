@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8158",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98029"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13380,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a round-trip ticket from XXXX to XXXX through American Express Travel for {$1500.00}. The ticket was issued as # XXXX. \nOn XX/XX/XXXX, the ticket was canceled without warning by XXXX XXXX after a chargeback initiated by American Express. XXXX XXXX informed me that the funds were refunded to my account. However, I never received this refund. \nI filed a complaint with American Express Travel on XX/XX/XXXX ( Dispute XXXX, XXXX XXXX XXXX ). Despite this, Amex Travel did not engage with XXXX XXXX until XX/XX/XXXX, after the ticket was already canceled. \nI have repeatedly contacted both American Express Travel and American Express Card Services. Each division is refusing responsibility : Amex Cards states they can not process a dispute because the merchant listed on my statement is XXXX XXXX. \nAmex Travel acknowledges the complaint and that I need to be refunded but has delayed and mishandled the process, leaving me with no refund ( waiting for XXXX XXXX ) As a consumer, I am stuck in a dispute between two related entities ( Amex Travel and XXXX XXXX ), while Amex Cards refuses to provide chargeback protections. This leaves me out of pocket for {$1500.00}, plus considerable time and inconvenience. \n\nDesired Resolution A full refund of {$1500.00} for the canceled ticket. \nAdditional compensation for time lost and mishandling ( {$2000.00} ) consistent with my demand letter already sent to American Express Travel. \nAssurance that Amex Travel will not delay or mishandle future complaints."
+}

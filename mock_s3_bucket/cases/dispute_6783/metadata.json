@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6783",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32819"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15238,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'My  BARCLAYS credit card was charged XXXX on XXXX while I was in XXXX.  As soon as I saw the charge II called Barclays to dispute that unauthorized and unrecognized charge and since it was hard to communicate with them from XXXX  I was told to call back upon my return to the USA which I did on  XXXX XXXX   I filed the dispute, Barclays did a provisional credit on my account and on XXXX they sent a letter indicating that the merchant \"had validated the transaction\" and they charged my account again.  With this letter they attached documentation from XXXX reflecting details of the transaction which it was in the name of an individual named XXXX XXXX  unknown to me and who had an account with XXXX  it also included this person\\'s phone number and XXXX account number.  I called Barclays again and inquired as to why if the documentation clearly reflected all these details and they could see it was not my account why they were not reversing that charge on my account.  To my surprise I was told to call XXXX  as they had received the money from my credit card account!!!  Although I thought this was absurd as Barclays could not prove where my authorization was for an unauthorized charge to my account and when I have never even had an account with XXXX.  At the time I told them that because I have an account with XXXX XXXX where I have autopay and some time ago they had some type of relationship with XXXX  so they have a charge for cable TV service on my credit card under the denomination of XXXX  bill payment\" and I had a charge two days earlier of my regular $XXXX monthly payment, Barclays is assuming that this is my charge as well.  \\nAt that time then I called both XXXX XXXX and XXXX  and filed a fraud complaint.\\nI had to wait for their process of the complaints and when I finally received their responses indicating that XXXX XXXX never charged my account for that amount and AT&T\\'s response was the same because I HAVE NEVER HAD ACCOUNT WITH THEM, I called Barclays again and informed them.  I was asked to send a letter to reopen the case # XXXX because it was closed.  I was also asked to get at letter from XXXX reflecting that I don\\'t have an account with them and never have had.  I had to visit a corporate store of XXXX and they confirmed this and gave me a letter which I submitted to Barclays.In fact they confirmed that a XXXX XXXX had been their customer since XXXX with an account # XXXX  and a phone number of XXXX XXXX XXXX  (just as they had informed Barclays in the initial documentation). And XXXX also indicated both verbally and in the letter that I \"contact my banking institution to reverse any unauthorized/fraudulent charge to my bank credit card account\" and that \"I am not XXXX customer and needs payment voided as it is an invalid transaction\".\\nI have submitted this letter from XXXX to Barclays and they are still not giving me the credit.  I have tried to escalate this issue and continue to wait because on my daily calls and speak with a billing dispute representative they continue to tell me that the case is closed and that I have to wait for management to call me.  PLEASE HELP ME as this is even costing me health issues from the frustration and stress.  THANK YOU KINDLY.'"
+}

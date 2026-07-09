@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6324",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75039"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29592,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A Block on the Merchant XXXX was placed XX/XX/XXXX then why is the card being charged by same merchant XXXX on XX/XX/XXXX? The American Express XXXX XXXX company is saying the BLOCK means nothing and Merchant can still keep charging. It is an unauthorized charge in amount of {$520.00}. \n\nTalked to American Express XXXX XXXX XXXX ( declined to give ), and XXXX XXXX XXXX American Express should compensate with me around {$95.00} for lost opportunity."
+}

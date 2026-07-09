@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1665",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60804"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29429,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The reason for the dispute was due to delivery of the flooring that I purchased. When the merchandise was delivered I had received a call from the 3rd party service that Home Depot uses for delivery letting me know that they were on their way and they were delivering, at the time I was on my home driving. I informed the person I was speaking with to \" Please the merchandise BY THE BACK DOOR '' so that it would be easier to bring the items in due to the kitchen being right there. When I returned home the merchandise was delivered on a palletized pallet wrapped with saran wrap \" Thrown '' on my front lawn. I went to the store after I noticed this and I informed the manager at the time that the merchandise was not delivered in the area that I asked it to be in and that there was no way for me to move all that stuff by myself to the kitchen. She stated that I would have to pay for them to go back and pick up the merchandise. This was during XXXX XXXX weekendXXXX XXXX XXXX was going to be the upcoming XXXX. She stated that there would not be anyone to pick up the merchandise until then based on what the system was stating. I let her know that I was going out to town for the weekend the next morning and that the merchandise could not stay there all weekend. I also let her know that the area that I live in a HIGH THEFT area and with kitchen flooring materials sitting in the front lawn for anyone to come and take was possible. She set the delivery for that XXXX  ( XXXX XXXX ), I received XXXX call from the XXXX party service that picks up and the guy did not speak fluent XXXX and hung up on me. That was the ONLY time that I communicated with home depot about the pick up after the fact. When I returned home later that evening there was nothing there. Since then I have been disputing the entire purchase from my credit card, however they continue to say that I am responsible for the merchandise that I do not have. I have reached out several times to the store manager due to credit services stating that they dispute needed to be resolved through the state, I spoke to the store manager ( XXXX ) ONCE and that was it. She stated that she was going to reach out to the delivey/pick up company that home depot uses via email and woul reach back out. I have since attempted to call the store several times asking for her and each time she is either not in or just left for the day or will be in tomorrow. I have also sent emails to her as well as follow ups with no response. Ive disputed with the credit bureaus with no resolution either."
+}

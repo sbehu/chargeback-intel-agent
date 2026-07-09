@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4185",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23489,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I purchased a dishwasher from XXXX XXXX, and paid for installation and take-away of old appliance. Though the dishwasher was delivered ( and sat in my dining room for months ), it was never installed nor was the old appliance taken away. Each time I scheduled the installation, a new installer arrived, giving a new and different excuse as to why he couldn't or wouldn't installed the dishwasher. Lacking any success, I hired a plumber to install it and called a junk company to remove the old machine from my property. When the bill came, I deducted these expenses from the total and filed a dispute with XXXX XXXX regarding their lack of responsibility. Meanwhile, I wrote to CitiBank to notify them that I was disputing the charges. Meanwhile, my dilemma became known to others and I found other elderly females who experienced the same thing. XXXX XXXX had found a method to sell a product, promise installation and take-away, but never complete the service. I wrote to XXXX XXXX at their corporate offices informing them that I am not the only one who has been scammed. After months of writing letters, I finally connected with the Executive VP of XXXX XXXX who paid the disputed amount and sent me a letter of apology. Citibank gladly accepted the amount that was in dispute, but refuses to to dismiss their late fees and interest charges. Over the last 6 months, Citibank has continuously charged late fees ( each month the amount rises ) plus interest ; in addition they have notified the Credit Bureaus of the defunct amount causing me to lose my perfect score. XXXX XXXX paid Citibank the disputed amount, but refuses to pay late fees and interest. Neither will I. If an amount is in dispute, it should be held dormant until a resolution is reached."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6254",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27703"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-30T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14340,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Credit card company refused to issue refund for unused travel service despite airline approval. \n\nWhat happened : I booked a flight from XXXX ( XXXX ) to XXXX to XXXX using my American Express card through the Amex Travel portal ( approx. {$1200.00} ), including Wi-Fi and baggage fees.\n\nAt the airport, I was denied boarding because my U.S. passport was expired and I didnt have a stamped XXXX XXXX for transit through XXXX XXXX even though I have XXXX citizenship and a valid XXXX approval ). This transit visa requirement was never disclosed on the Amex Travel booking portal. \n\nThe airline ( XXXX XXXX ) informed me that I was eligible for a full refund and started processing it but then stopped when they saw the booking was through Amex Travel. They instructed me to contact Amex for the refund.\n\nWhen I contacted Amex Travel, I was told I could only receive flight credit, not a refund. I reluctantly accepted flight credit under pressure, as I was told I would lose the entire amount if I was marked a no-show. Additionally, Amex did not issue Membership Rewards points for this transaction. \n\nLater, I had to rebook the exact same flight at full cost using the same Amex card because the return leg was canceled by Amex without my consent. I asked Amex to apply the original flight credit to this new booking ( same airline, same route ), but they refused. \n\nI ended up paying twice for the same ticket while losing the refund and points. \n\nWhat would be a fair resolution : A full refund to my American Express card for the original unused ticket OR Apply the flight credit to the amount I paid for the identical rebooked flight, and reinstate the missing Amex points. \n\nCompany name : American Express"
+}

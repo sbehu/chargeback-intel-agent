@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5256",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "610XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43565,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I sent a letter to your company which you claim to have not received via a CFPB complaint. In the response to my complaint, my concern ( s ) were not addressed even once. Review my original complaint and the true issue about what happened with the balance on this account and respond correctly. Next will be the Attorney General."
+}

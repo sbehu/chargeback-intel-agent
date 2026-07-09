@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10090",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "24502"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49057,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally document and escalate an issue regarding a hotel booking made through the American Express travel portal for the {$300.00} hotel credit. \n\nOn XX/XX/XXXX, I booked a hotel stay through the American Express credit card portal specifically to use my {$300.00} annual hotel credit before the end of the year. The booking was completed through the American Express website, which reasonably led me to believe that the stay qualified for the promotion. \n\nOn XX/XX/XXXX, I reviewed my online statement and noticed that the full amount of the hotel stay of {$440.00} was charged to my account and that no portion of the {$300.00} credit had been applied. I immediately contacted American Express and was informed that the hotel was not part of the promotion. I questioned why a non-qualifying hotel was available for booking through the portal without any clear indication that it did not qualify for the credit. At that time, I requested that a ticket or claim be opened regarding this issue. \n\nAfter receiving no response or follow-up, I called again on XX/XX/XXXX, and spoke with three different customer service representatives, including a supervisor. Each advised me that nothing could be done. Notably, I was also told that many other cardmembers have experienced the same issue, which strongly suggests a systemic problem with how qualifying hotels are presented on the American Express portal. \n\nIf multiple customers are encountering this same issue, the portal is misleading and not user-friendly. Customers reasonably expect that booking a hotel through the American Express site, especially when attempting to use a time-sensitive benefitwould clearly indicate whether the booking qualifies for the associated credit. The current setup creates confusion and leads customers to incur charges they believed would be offset by a promised benefit. \n\nI am requesting a formal review of this matter, including reconsideration of the {$300.00} hotel credit for this booking, and an explanation of how American Express intends to address what appears to be a widespread and misleading issue within its booking platform. \n\nThank you for your time and attention. I look forward to your response.."
+}

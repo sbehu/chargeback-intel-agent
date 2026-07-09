@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7577",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1701"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36330,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraudulent charges were made to my CITI credit card account totaling over {$5000.00} in 2024. I originally reported these fraudulent charges by phone in XXXX, XXXX  right after discovering them. While some of the charges were reversed, there remains approximately {$2000.00} that has yet to be resolved MORE THAN A YEAR LATER. I have tried to resolve this issue consistently every month - I have called numerous times and attempted to speak to supervisors to close our account and finalize this nightmare, but they refuse to resolve the issue and continue to drag on this \" investigation '' and forcing me to pay the minimum due for XXXX months. I have paid a total of {$1300.00} in minimum payments since this nightmare began in order to AT LEAST keep my credit intact. Citi XXXX XXXX has caused me to no longer trust credit cards, has caused me not only financial burdens but also mental burdens - I never know if I will wake up to a new fraudulent charge from Citi ( they refuse to close the account because it is \" under investigations '' )."
+}

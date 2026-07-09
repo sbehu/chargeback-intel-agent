@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13651",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "531XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24932,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX, XXXX  Barclays XXXX contacted me regarding unauthorized purchases on my credit card. I received first a text about a {$550.00} charge and texted that I did not authorize this purchase. I then received a phone call regarding a {$220.00} and {$180.00} asking if these charges were valid. I stated they were not authorized by me and that I had my card in my possession. Barclay 's immediately canceled that card, issued another card but added the {$220.00} and {$180.00}. Numerous times I have phone their customer service and have been told that I was not responsible for those purchases. However these charges remain on my account and after many calls I was told that I needed to send a letter to fraud claims dept. On XX/XX/year> I sent a letter explaining everything. that happened since XXXX. XXXX. XX/XX/year> I received a call from customer account who said I would receive another call from Fraud Team soo. On XX/XX/year> a letter was posted to my account explaining that they believe these charges to \" not fraudulent '' and that I am responsible. However there was no explanation as to how they arrived at their conclusion. XX/XX/year>. I sent another certified letter requesting their documentation as to how they arrived at their conclusion. I have spoken to so many people from Barclays and get a complete run around regarding this issue. I have documentation of this unbelievable experience and proof of where I was that day."
+}

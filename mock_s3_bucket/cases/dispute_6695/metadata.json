@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6695",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24606,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a desert tour in XXXX XXXX XXXX for me and my family including XXXX children. It was supposed to be an 8 hour tour of the desert with stops in the oasis and camel farm. 4 hours into the tour a driver wanted to go over a bump on the side of the road covering telecommunication cable. He misjudged the height of the bump and hung the car over it. We were stuck in this place for 4.5 hours until dusk. We were not provided any drinks which were promised in the contract nor any information about how the situation would be addressed. No one from the company ever reached out to us to make sure if we were ok or to let us know about what was being done. After 4.5 hours finally someone showed up to tow the car. The rest of the trip we were driven in the darkness and finally after 12 hours we were brought back to the hotel. The next day XXXX from the tour company contacted me with apologies and asked how they could rectify the issue. When I asked for the refund they agreed and promised that someone would reach out to me shortly. As no one reached out to me and the company including XXXX stopped responding to my enquires I contacted American Express to dispute the charge. The merchant responded to the dispute saying that the service had been delivered and it has been past the cancellation period (! ). That simple statement completely unrelated to what actually occurred was sufficient for Amex to side with the merchant. Dispute was denied and Amex didn't bother with investigating what actually happened leaving their loyal customer of 30 years hanging out to dry."
+}

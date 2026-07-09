@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11967",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36893,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Timeline : 1. XX/XX/XXXXXXXX  : I notified American Express in writing, 'Please do not process this payment, ' regarding the pending XXXX XXXX. This was within 60 days of the statement. \n2. XX/XX/XXXXXXXX  : The charge posted for {$510.00} to XXXX despite my notice. \n3. XXXX XXXX XXXX  : I contacted XXXX at XXXX. I stated : ' I did not authorize the charge. The charge was initially declined. I did not authorize XXXX to resubmit the charges. ' 4. XX/XX/XXXXXXXX  : XXXX replied that their review 'confirmed that the related transaction does not involve any fraudulent activity, ' but they failed to answer my direct question : 'Do I have an account? If so, is it under my email or phone? ' They provided no order number, shipping address, IP address, or device ID linking the purchase to me. \n5. After my initial dispute, American Express re-posted the charge to my account. I canceled the original card number and was issued replacement ending in XXXX to prevent further misuse. \nKey facts : I do not have a XXXX account associated with XXXX or my phone number. XXXX has not provided evidence to the contrary. \nI did not make, authorize, or receive any goods or services from XXXX for {$510.00}. \nI did not authorize XXXX to re-submit a previously declined charge. Re-presentment without new authorization violates card network rules. \nThis is identity theft/unauthorized use, not a billing error or merchandise dispute."
+}

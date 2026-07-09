@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1273",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "894XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30450,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, we enrolled in a XXXX membership, intending to enjoy their facilities with our family. Unfortunately, due to unforeseen circumstances, we were unable to utilize their services and proceeded to cancel the membership on XX/XX/2023. We meticulously followed XXXXXXXX XXXX online cancellation process, ensuring all family members associated with the account were included in the cancellation request. \n\nWe have concrete evidence, including a screenshot taken during the cancellation process and email confirmations from XXXX, validating our comprehensive cancellation. These documents unequivocally demonstrate that all memberships under our account were intended to be terminated, contrary to XXXXXXXX XXXX assertion that only the primary membership was canceled. \n\nRegrettably, XXXX continued to charge our account in the subsequent months, despite the lack of service utilization and our explicit cancellation. We find this to be a clear case of wrongful billing, necessitating immediate remedial action."
+}

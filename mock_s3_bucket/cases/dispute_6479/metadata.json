@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6479",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10310"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20499,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am submitting this complaint against Citibank regarding their mishandling of a billing dispute related to a canceled airline service and a subsequent charge for a replacement ticket. Despite providing substantial evidence and making multiple attempts to resolve the issue, Citibank failed to properly investigate my case and denied the dispute based on procedural errors caused by their own representatives. \n\nSummary of the Issue Date of Original Transaction : XX/XX/XXXX Merchant : XXXXXXXX XXXX Amount of Original Charge : {$500.00} Date of Flight : XX/XX/XXXX Passenger : My XXXX grandmother, XXXX XXXX, who XXXX XXXX assistance and does not speak XXXX. \n\nXXXX XXXX canceled the final leg of my grandmothers journey from XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX ), leaving her stranded at the airport without assistance. She had to rely on an XXXX-speaking couple who graciously purchased a replacement ticket for her using their own credit card. \n\nAmount of Replacement Ticket : {$490.00} ( XXXX XXXX ) Flight Details : XXXX XXXX, Flight XXXX, XXXX XXXX to XXXX XXXX XXXX XXXX XXXX on XX/XX/XXXX. \n\nI submitted a billing dispute with Citibank for both the original ticket becasue i didnt get the service that i paid for. I provided extensive supporting documentation, including : The airlines cancellation notification. \n\nThe original flight itinerary. \n\nProof of the new ticket purchase and credit card transaction details from the assisting couple. \n\nDespite this, Citibank repeatedly misclassified the case as a quality of service dispute rather than a clear instance of non-receipt of services. \n\nAdditional Concern Improper Handling of Dispute In XX/XX/XXXX, after months of unsuccessful attempts to resolve the case, I spoke with a Citibank disputes representative who candidly admitted that the case had been mishandled from the very beginning due to how the initial representative opened it. Thats on a recorded line so you can easily find that. Because of this internal error, he informed me that the dispute would not be resolved in my favor. As a symbolic gesture, he offered me a mere {$13.00} instead of the full reimbursement I was rightfully seeking. \n\nKey Issues Citibank failed to comply with its obligations under Regulation Z ( Truth in Lending Act ) and the Fair Credit Billing Act. \n\nThe dispute was improperly classified and mishandled due to Citibanks internal errors. \n\nDespite clear evidence of a canceled service and resulting financial hardship, Citibank refused to reverse the charges. \n\nMy direct appeal to Citibanks CEO, XXXX XXXX XXXX, went unanswered. \n\nThis experience has caused significant emotional distress and financial burden, particularly given my grandmothers age, language barriers, and the vulnerable situation she was placed in. \n\nI respectfully request that the CFPB investigate XXXX failure to handle this case in good faith and ensure the improper charges are reversed in accordance with consumer protection laws. \n\nThank you for your time and attention to this matter."
+}

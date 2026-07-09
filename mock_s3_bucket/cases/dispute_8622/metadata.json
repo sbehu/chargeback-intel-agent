@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8622",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77083"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6402,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A Merchant ( XXXX XXXX XXXX XXXXXXXX XXXX ) charged my American Express credit card on XX/XX/year> for the amount of {$550.00} for dents to a hotel room desk that neither my family nor I had caused. \n\nAfter my first night of two night stay, I advised the Merchant  's Front Desk Staff and Hotel Manager that my family and I did not cause the dents. \n\nAfter I checked out of the Merchant  hotel, their hotel manager fraudulently charged my credit card without my authorization. I disputed the charge with American Express. I provided copious documents with dates and times of conversations and images that shows that I was not responsible for the dents. \n\n3 rounds of disputes were raised to American Express with additional details to show that I did not cause the dents. \n\nAmerican Express requested Merchant ( Hotel Manager ) to : 1. Provide Date that damaged was first discovered. \n2. Provide Invoice for repair amount to show just cause for amount charged.\n\n3. Review documents and images that I had submitted. \n\nMerchant (\n\nHotel Manager ) did NOT provide the answers requested above. Merchant ( Hotel Manager )\nonly reshuffled their initial documentation and resubmitted to American Express. Then I was rebilled again to close out each round of the dispute. \n\nThe Merchant hotel did not provide any documentation to prove that my family or I caused the dents.\n\nGiven the proofs that i have provided versus the proofs that the Merchant hotel has provide, I raise a concern that Merchant hotel has biased assistance in the credit card dispute process.\n\nAmerican Express sided with Merchant indicating that : 1. Merchant had discovered damages after I had checked out of hotel and that Merchant did not review the damage with my family or I at any point during our stay.\n\n2. I do not have images to show that I did not cause the dents. Therefore I am at fault.\n\nThe Merchant needs to provide response to the date they discovered the dents on the room desk. That proves my family and I reviewed the dents with the hotel and noted to the hotel that we were not responsible.\n\nMerchant should also provide Invoice for the desk repairs to show true amount for repair. The amount of $ XXXX ( {$550.00} USD ) is an arbitrary amount. \n\nThis credit card charge is fraudulent and I request unbiased review."
+}

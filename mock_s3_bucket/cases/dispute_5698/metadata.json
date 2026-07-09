@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5698",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "079XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37162,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> while traveling in XXXX XXXX, XXXX i hailed a cab and at the end of the cab ride, the cabbie said i could pay for the cab ride using my credit card. He had a \" Clip device '' and he ran my credit card. I got out of the cab and discovered he had charged it for {$530.00}, a clearly fraudulent amount. I immediately opened a dispute on my Citibank app and instead of typing the dispute amount as XXXX, in my panic i entered XXXX and hit submit. I later realized my mistake and i immediately called Citibank upon my return to the United States on XX/XX/XXXX. I explained to Citibank Dispute center as to what had happened. But they said that the dispute had been resolved in my favor for {$5.00} ( this dispute has been resolved **within 1 business day of my opening it** without giving me any time at all to correct it ) and there was nothing they could do to re-open the dispute. I have tried to talk to Citibank for 3 months now and i am really frustrated that they are not able to re-open the dispute for the correct amount of XXXX. The Dispute number which is Resolved in my favor with the incorrect amount of XXXX is XXXX. On XX/XX/XXXX, in an attempt to force open the dispute, i withdrew it on the Citibank app and called into the Dispute Center again to get them to re-open it. Hence the dispute XXXX shows as XXXX. \n\nI am really frustrated by Citibank that they can not go after fraudsters and for the XXXX network to allow a fraudster to operate on its network. We need to root out these fraudsters and that step only begins with pursuing them."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5092",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95403"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3407,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The credit card company has not been sending fraud alerts for known merchant fraud charges, resulting in posted fraud charges. \nIn addition, they approved a {$490.00} charge that took me {$400.00} over my credit limit. This should not have been approved even if not approved charge."
+}

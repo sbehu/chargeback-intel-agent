@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5755",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1760"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3056,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX again requested secondary card on my account through online portal. unknown to me making transactions. once we split is when i found out it had been going on. i paid off card now they wont remove it or acknowledge that i reported it its now paid off and need to have it removed off report"
+}

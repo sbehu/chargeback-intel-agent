@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_814",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32765"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25689,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Good evening, This letter concerns the transaction on XX/XX/2023, from XXXX in the amount of {$310.00}. The reason for disputing this transaction is that the hotel room was canceled due to the unsatisfactory condition of the room. Both rooms smelled as if someone had urinated everywhere. I canceled my stay at the front desk and was informed that I would receive reimbursement within 7-10 business days. As that timeframe had elapsed, I disputed the transaction through American Express. Initially, I received a credit, but it was later revoked. I reopened the dispute, contacted XXXX, and have video recording proof that XXXX will reimburse me. However, they lied about that, and American Express closed the dispute again, stating I didnt have pictures or didnt cancel the room before checking in. \nHow can a person check the room before checking in with the hotel? This doesnt seem reasonable or possible unless there is a policy by American Express and XXXX that customers are unaware of. I reached out to XXXX again and was promised reimbursement once I provided the following information : Documents needed : For bank/credit card statements, please ensure the following details are visible : The cardholder 's name The banks logo The last 4 digits of the credit card number The merchants name The transaction date, amount, and currency I provided the required information, and XXXX claimed they couldnt reimburse me because they never received any form of payment from me.\n\nIf I can be of any assistance with this issue please let me know. This is around my fourth time doing this dispute and would like to receive my refund as I was promised."
+}

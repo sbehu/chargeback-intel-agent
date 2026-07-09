@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_50",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27713"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I purchased a washer and dryer from Home Deport with a CitiBank credit card I signed up for in order to get a discount. \n\nAfter multiple attempts, Home Depot was unable to deliver the correct dryer. I have receipts where I was credited for the dryer, each time they could not deliver it to my residence. \n\nRecently, I tried to reach the Home Depot Credit Card website because I kept getting phone mail messages about a late payment while I was at work. I was unable to create a password and I finally was able to wait on the phone for a customer service person, when I received one of the phone calls ( day off. ) The person on the other end kept asking me for personal information to verify an account, but would not tell me which account. Finally, after I explained I was not going to give out personal information over the phone from a phone call I received without knowing the details of the account, the person on the other end let me know it was Citibank for Home Depot. \n\nWhen I finally received a statement in the mail ( XX/XX/ ), the balance on the account was incorrect. The balance included what appeared to be a charge for the returned dryer. \n\nWhen I contacted Citibank card services, they indicated that even though I had electronic receipts detailing the credits for the dryers, they did not want them. They could not help me. It was my responsibility to go to the Home Depot and get the account balance straightened out. \n\nWhen I asked for an explanation as to why the electronic receipts did not reflect on my account, when the credits were clearly made on my credit card account. They could not explain and eventually just hung up on me. \n\nI am just now receiving a statement and aside from the phone calls, I did not receive any additional correspondence regarding the bill. I was under the impression I would not have to start making payments until they resolved the issue with the dryer. However, in addition, I have what appears to be a late charge on my account. \n\nI am concerned because this type of thing is hard to navigate for XXXX  people. Having these types of policies, where credits made electronically on an account do not register is unfair at the least. I had to navigate long wait times, multiple phone transfers, rude customer service personnel and eventually being ignored and hung up on. There is a segment of our society that would not be able to work through that and would probably end up paying the unfair charges."
+}

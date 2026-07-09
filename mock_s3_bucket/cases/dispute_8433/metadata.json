@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8433",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "754XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18980,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I received a notification on my phone of XXXX charges that I did not make. XXXX were for a XXXX XXXX XXXX XXXX XXXX, and the current one that has not been removed from my account for a reservation at the XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX I contacted Citibank to dispute the charge and request ( numerous times ) that the amount be removed from my account. I have not been to XXXX  I do not know how to ski. I requested a fraud alert be placed on my card. They cancelled that card, issued me a new card. The charge persisted on my account {$360.00}. I called them again with my next statement the charge appeared on again. I was asked why I didn't report fraud. I did!! I received a new card. She reported it again. In XXXX, I received a letter stating the dispute investigation was finalized and the charge WAS mine and if I disagreed with the decision, sign and fax back to reopen. With this they also sent the paperwork from XXXX XXXX XXXX XXXX. Clearly not mine!!!!! Not my name in the documents, along with another person I don't know ; not my birthdate, not my phone number, not my email address. I pointed this out. I faxed it back to them XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX after again persistently receiving statements with late notices and phone calls, I contacted them again. They said they never received the documents faxed in XXXX. I refaxed them. During all of these months, I received no less than XXXX phone calls/week requesting payment of my overdue account. I repeatedly told them it was fraud, to remove it from my credit. I refaxed the documents sent in XXXX, she said to call back XXXX days later, I did ( spoke with someone different ) and was told that they had received it and also the paperwork faxed in XXXX was received in XXXX. I was told I had to wait 90 days for resolution. I had enough of the harrassing phone calls after explaining the same thing over and over and over for months. I contacted XXXX XXXX XXXX XXXX, spoke with the XXXX XXXXXXXX who looked at it and said my credit card was never presented, it was a clear case of fraud and she requested a three-way phone call between herself, myself and the bank. The bank said they could do it, then said they couldn't do it. She contacted them and told them to reverse the charges back to XXXX XXXX and she would accept them. To date, My credit score has dropped over XXXX pts from Excellent credit to Good. This is unacceptable. They refuse to remove the charges from my account. Now, if I don't pay that balance ( which has accrued interest and finance charges ) by XX/XX/year>, they will close my account. The last woman I talked to on XX/XX/year> said it didn't matter what XXXX XXXX said, sent or did or what I wanted, it wouldn't be looked at until XX/XX/year>. I've heard nothing since except a letter this past week stating they will close my account XX/XX/XXXX if I do not pay the balance. \nToo many phone calls to document."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7316",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34113"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21570,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Credit card dispute resolved unfairly unauthorized charge upheld after merchant failed to respond.\n\nDescription : American Express XX/XX/year>, approved a {$20000.00} credit line for me to purchase a vehicle. Based on this, I went to XXXX XXXX and paid a {$2000.00} deposit. Shortly after, American Express froze my account for over 48 hours, then requested more documents, and finally reduced my credit limit to {$4400.00} without notice. This caused the transaction to fall through and I lost the {$2000.00} deposit.\n\nI filed a dispute, and American Express told me that if the merchant didnt respond by XX/XX/XXXX, the case would be resolved in my favor. The merchant didnt respond by that date. However, after the deadline, the {$2000.00} charge was reapplied to my account, without clear justification or explanation.\n\nI have contacted them multiple times with no satisfactory resolution. This has caused serious financial harm and violates the terms they initially communicated. I have also submitted a formal appeal letter and still received no response."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6706",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "35801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX Amex debited our account for {$5300.00} XXXX- Amex returned the money per our request. \n\nXXXX Amex debited the money again. XXXX XXXX  has confirmed that it cleared, and Amex has been an absolute nightmare to work with and resolve this. \n\nAs of today, XXXX, It still does not reflect on our account."
+}

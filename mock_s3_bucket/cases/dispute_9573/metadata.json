@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9573",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "79936"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9485,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a credit card charge with Citi in XX/XX/year> because the merchant charged me twice for the same item. The total purchase amount was XXXX XXXX XXXX, and the merchant processed the same transaction twice. \n\nAt the time of purchase, the merchant informed me that my Citi credit card was declining. I have a screenshot showing the charge pending on the Citi card ; however, on the merchants side the transaction continued to show as declined. Because of this, I completed the purchase using another XXXX card ending in # XXXX, for which I also have a receipt. \n\nApproximately three days later, I discovered that the Citi card had successfully processed and posted, resulting in a duplicate charge for the same item. I submitted receipts clearly showing that the merchant was paid twice for a single purchase and explained this during multiple calls with Citi. \n\nDue to currency exchange conversion, the duplicate charges posted as {$130.00} on the XXXX card ending in # XXXX and {$130.00} on the Citi card ending in # XXXX. The small difference in cents is the result of exchange rate fluctuations at the time of processing and does not represent separate purchases. \n\nAfter months of delays, repeated reclassification of the dispute, and inconsistent handling by multiple agents, Citi sent me a letter stating that they determined I am responsible for the charge. The letter does not explain why clear evidence of a duplicate charge was disregarded, nor does it address the receipt documentation I submitted. \n\nThroughout this process, each agent has stated that my dispute was placed into a different category, and the category has been changed multiple times. I have spoken with several supervisors, all of whom stated they understood and agreed with my dispute, yet no resolution has been reached. My most recent conversation was with XXXX ( Reference ID # XXXX ). \n\nI believe Citi failed to conduct a reasonable investigation and issued a determination that directly contradicts the evidence provided. Under the Fair Credit Billing Act, duplicate charges are billing errors, and card issuers are required to properly investigate disputes before holding a consumer responsible."
+}

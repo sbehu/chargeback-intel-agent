@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5313",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11226"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16919,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Please see below letter to Citi Customer Service - Subject : Fraudulent Charge Dispute Citi XXXX  Card Account Ending in XXXX THE FRAUDULENT CHARGE STILL HAS NOT BEEN REVERSED. I AM REQUESTING REIMBURSEMENT IMMEDIATELY!!!! \n\nCertified letter sent to Citi below Dear Citi Customer Service, I am writing to formally dispute a fraudulent charge on my Citi Prestige card account ending in XXXX. I noticed this unauthorized charge on my statement dated XX/XX/XXXX and want to ensure this issue is resolved promptly. \n\nFraudulent Charge Details : Merchant Name : XXXX XXXX XXXX XXXX XXXX Transaction Date : XX/XX/XXXX Charge Amount : {$1300.00} This charge was not authorized by me or any authorized users on my account. I have no prior relationship with this merchant and did not make or benefit from this transaction. I have proactively taken steps to secure my account, including reporting this matter to your fraud department on XX/XX/XXXX. \n\nDespite my efforts, the issue remains unresolved after XXXX follow-up calls. My most recent calls were on XX/XX/XXXX, and XX/XX/XXXX. During these conversations, I was informed that while the charge is noted as disputed, representatives are unable to process the dispute because the transaction was associated with a previous card number. \n\nThis explanation is both confusing and frustrating, as I had expected Citi to provide a resolution regardless of the card 's status, given the fraudulent nature of the charge. Under the Fair Credit Billing Act ( FCBA ), I request that Citi : XXXX. Investigate and reverse the fraudulent charge. XXXX. Confirm in writing that my liability is limited to {$50.00} or waived entirely, as required by law. If further information is needed, please do not hesitate to contact me at ( XXXX ) XXXX or XXXX. Thank you for your immediate attention to this matter. I look forward to resolving this promptly. \n\nSincerely, XXXX XXXX"
+}

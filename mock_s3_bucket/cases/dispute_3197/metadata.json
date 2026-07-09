@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3197",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "949XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26862,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Customer Service Department American Express XXXX XXXX XXXX XXXX XXXX, TX XXXX Subject : Formal Complaint Regarding Denied Claims and Unauthorized Charges Dear Sir/Madam, I am writing to formally lodge a complaint regarding two claims that were denied and subsequently debited back to my account. The original claims were filed in XXXX for several charges that occurred from XXXX XXXX. I explained during the filing process that I have never used XXXX XXXX  before. Additionally, there were multiple charges filed in different claims against XXXX and several other booking sites. \n\nMembership Number : XXXX Amex Reference Number : XXXX Amount : {$5600.00} Membership Number : XXXX Amex Reference Number : XXXX Amount : {$7800.00} A representative from American Express contacted me , stating they wanted to discuss the situation to protect \" my interests and the interests of the business. '' During this conversation, I explained that the only possible scenario I could think of was that my card was left in my condo when it was rented out on XXXX. It is possible that a guest used my card information along with my XXXX which contains my email and other personal information. \n\nDespite my explanation, the representative did not consider my account and simply informed me that the charges would be reversed and rebilled. This has resulted in the following communication from American Express : \" Dear XXXX XXXX, We are writing to you because you recently contacted us about a charge ( s ) on your account. According to our records, you provided your account number to a Merchant. By doing so, you are giving them permission to charge your account. Based on this information, we will not be able to handle this as a fraud dispute. Since we previously issued credit, we have removed this credit in the amount of {$5600.00} from your account. This adjustment will appear on an upcoming statement. If you wish to pursue this matter further, you should contact the Merchant directly. '' Due to this decision, my account is now almost {$10000.00} negative. This situation is both distressing and unacceptable. I reiterate that I have never authorized these charges, nor have I used the services in question. I am requesting an immediate reversal of these charges back to my account. \n\nIf this matter is not resolved promptly and satisfactorily, I will have no choice but to pursue legal action to protect my rights and recover the disputed amounts. \n\nI trust that American Express values its customers and will act promptly to rectify this issue. Please contact me at your earliest convenience to confirm the reversal of these charges. \n\nThank you for your attention to this urgent matter."
+}

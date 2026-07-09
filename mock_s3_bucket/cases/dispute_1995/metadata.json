@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1995",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55426"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42688,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Don't know where to begin. I have been charged random amounts from XXXX, since XX/XX/XXXX. I filed a dispute in XX/XX/XXXX and stopped using the card. Amounts ranged from {$9.00}, {$18.00}, {$7.00}, {$160.00}, I was sent a new card and did not activate it. I also received correspondence from the Citi Bank of suspicious possible fraudulent activity. I sent {$300.00} in XX/XX/XXXX to prevent finance charges. Nonetheless, I recently been receiving calls that the account is past due and haven't received a statement in months and no correspondence on the status of the disputed amounts. I have spent approximately two hours trying to resolve. Phone calls resulted in : \" you need to speak with Security Operations '', you need to speak with \" Fraud Department '', you need to speak with \" Customer Service '', extremely muffled connection, difficultly understanding the person ( possible overseas connection ). The experience has been unbelievable. I ended up paying finance charges just to close the account/s."
+}

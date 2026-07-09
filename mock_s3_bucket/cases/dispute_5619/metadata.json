@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5619",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "496XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6042,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I made a payment to Citbank for my CitiXXXX credit card. \nThe payment was {$300.00}. The balance on my card was then {$920.00}. \nTwo additional ( seemingly arbitrary ) payments then posted to my checking account. \nOne transaction was in the amount of {$150.00}, the next was in the amount of {$760.00}. \nI did not authorize these transactions. I received a transaction verification for the {$300.00} payment, but not for the unauthorized transactions. The total of these two transactions was {$920.00}, so now I have a credit on my credit card= my balance is- {$300.00} There is no offer of resolution from Citi for this issue. Their solution is to reverse the transactions within 7-10 business days. \nThe entirety of their resolution is unacceptable. They are not operating within the parameters of the financial agreement."
+}

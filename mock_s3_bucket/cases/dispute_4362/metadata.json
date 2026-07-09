@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4362",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85212"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35523,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX while I was at XXXX XXXX someone stole several of my credit cards that were in my vehicle parked in the parking lot. My husband got a notice from a different bank to verify a charge to which he denied. We assumed that was the only incident and went on with our day. We were about and hour from the beach in heavy traffic when I discovered my wallet was placed differently in my purse. I started looking and discovered several cards were missing including the one to Barclays Bank. I talked with them and they put the credit back and after sixty days determined it was fraud and I wasnt responsible. They closed the account ending XXXX and opened a new card ending in XXXX. I used the card a few times and on or about XX/XX/XXXXXXXX  I went to make a payment and discovered the charges were back. As I looked through the account I saw a letter saying they determined that since I had used the card it wasnt stolen so the charges were mine to pay. I called them and tried to explain that the charges were made on the replacement card not the stolen one. They said it would take 30 days to determine. I paid the amount that I had charged on the replacement card so it wouldnt go late. I called at 30 days and they said it was still there. I need to get the charges removed as I have never even been in the high end stores where the charges were used. Please help."
+}

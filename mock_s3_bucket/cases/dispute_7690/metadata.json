@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7690",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11357"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22713,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have had an XXXX XXXX XXXX XXXX XXXX through XXXX for more than XXXX  years. It was my very first credit card, and I have never had a problem. I always pay my statements on time. In fact I paid my account off, almost in full, this past spring. \n\nFrom approximately XXXX XXXX XXXX fraudulent charges were somehow made with my account, totaling more than {$2500.00}. The charges are all made in the XXXX, XXXX XXXX  area. I am a resident of XXXX XXXX and was home during this time period. I have never set foot in any of these establishments. XXXX never notified me that there was suspicious activity on my card. I saw the problem when I was checking my account online. \n\nWhen I first called XXXX the evening of XXXX, XX/XX/XXXX, I was assured there would be an investigation into my case and not to worry about the charges. I was told to destroy the old card and was sent a new one. \n\nAt the end of XXXX I received a note in the mail that attempts had been made to reach me for more information and because I hadn't replied the case had been closed. However, no attempts were made to reach me for more information, either by phone or email. \n\nI called back on XXXX, XX/XX/XXXX, and was assured that my case would be reopened. \n\nYesterday, XX/XX/XXXX, I received a letter in the mail from XXXX saying again that my case had been dismissed. XXXX says that an XXXX chip was used to make all of the fraudulent charges and because an XXXX chip can not be duplicated and the card was in my possession, the charges are not criminal. \n\nI don't know anything about XXXX chips. What I do know is that I was not in XXXX  on the dates of these charges. I have never shopped at or dined at any of the establishments in question. \n\nIn fact, there is a XX/XX/2025 that I did legitimately make in XXXX XXXX XXXX {$140.00} for tickets to a show at the XXXX XXXX on XXXX XXXX. How could I make this charge at the theater box office and then the same day make XXXX purchases in XXXX at XXXX, XXXX, and XXXX XXXX. \n\nI called XXXX back yesterday evening after reading this final letter. I've been told that my case is reopened, but I lack confidence that I will be happy with the result. I am upset and very scared that I will be held responsible for these charges that I did not make."
+}

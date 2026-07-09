@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6595",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33928"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39370,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I returned an item I purchased on XXXX. The UPS tracking shows the return was delivered to the merchant on XX/XX/year>, signed by XXXX in the office. On XX/XX/year>, XXXX issued a refund confirmation to me in the amount of the purchase, which was {$360.00}. After not receiving the refund to my credit card, and not having a response from the third party merchant, I disputed the charge. I provided the proof of return information to Citi, and Citi issued a conditional credit to my account in the amount of {$360.00}. \n\nOn XX/XX/year>, Citi provided a form letter response that the merchant responded, along with an email that the \" charge was for return postage '' and my conditional credit has been reversed. I am enclosing a copy of the merchant 's response. The merchant is stating that they did not receive the return, and they are asking for proof of return. They do not mention anything about a postage charge, as there wasn't one. Citi did not even read their response, nor did they bother to read my dispute which contained proof of return. Instead, Citi just reversed the credit, and charged my credit card again for the {$360.00}. \n\nIn addition to providing you with the merchant 's response, I am also enclosing the proof of return, proof of acknowledgment of return with refund from XXXX, and proof of acknowledgement of return and refund from the merchant. I am also attaching Citi 's email stating this charge was for \" postage ''. This charge must be removed from my account. \n\nThis is an ongoing issue with Citi. They do not bother to read the information submitted to them. This should not continually happen."
+}

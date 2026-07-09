@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-67816253-US
+Shipment Date:   2025-11-17T00:00:00Z
+Delivery Date:   2025-11-20T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     802 MAPLE BLVD, CO, 805XX
+============================================================

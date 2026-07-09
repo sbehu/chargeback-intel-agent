@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4345",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3692,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or about XX/XX/year> I purchased a kitchen stove, online, from Home Depot. It was delivered to my home. That evening I discovered that the oven did not work. I contacted the next morning the Home Depot customer service number and explained the issue. I informed them that I wanted a replacement stove. I was calling less than 24 hours after the stove was delivered and Home Depot has a 48 hour return policy for defects or damage. I was told someone would return my call. I waited until the next day, no return call. I called again I was told they would send a repair person to my home to examine the stove and repair it. An appointment was made for the repair person to visit my home, no one showed up. I again contacted Home Depot and advised then that I have a non working stove and I want a new working stove delivered to my home and this non working stove removed from my home. The non working stove was never removed from my home, a new working stove was never delivered. Home Depot has refused to honor their warranty/return policy. My Son removed the non working stove and stored it in my garage waiting for Home Depot to pick it up. My Son purchased a new stove for me. I am a XXXX XXXX XXXX on a limited income. Home depot never came to pick up the stove after several months of waiting my Son donated the stove to XXXX XXXX. I filed complaint with Home Depot Credit Services, dispute was denied twice without reason, simply generic denial letters, see attached correspondence. I am now stuck paying for a defective stove that is no longer in my home, all because Home Depot refused to honor their own return policy."
+}

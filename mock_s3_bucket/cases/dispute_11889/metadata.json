@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11889",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "908XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48543,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XX/XX/XXXXXXXX TV from Best Buy on XX/XX/scrub> 2026. The box contained a completely different TV ( a XXXX XXXX ) when opened. I disputed the charge of {$270.00} under the Fair Credit Billing Act as merchandise not as described. Citibank denied my dispute, incorrectly classifying it as a manufacturer warranty issue. It is not a warranty claim. I received a different brand of product entirely. I have photographic evidence. I have sent a formal written rebuttal via certified mail but am filing this complaint as the denial was improper under the XXXX."
+}

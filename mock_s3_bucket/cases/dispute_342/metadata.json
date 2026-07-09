@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_342",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48603"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3314,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, I booked a hotel through American Express Travel, charged as `` AMEX XX/XX/XXXX '' for {$330.00}. I did approve that charge. Then, on XXXX, the same exact charge for {$330.00} for the same hotel ( billed as \" AMEX XXXXXX/XX/XXXX ). I did not approve that charge and it seems to be a duplicate charge. I noticed this issue in XXXX and called American Express to sort out the issue. American Express referred me to American Express Travel. In each case, I have been shuffled around to various agents and supervisors, none of them sure why the charge has been duplicated. \n\nBecause it is through American Express Travel, American Express classifies it as an internal charge. I can not dispute an internal charge with American Express. Hence the discussion with 20-30 agents, each directing me somewhere else. I have called four or five times in the past 6 months, often on the phone for hours. In a few cases, Ive been told that I would be personally called about the issue, and then hear nothing. One Global Complaint was created a few months ago, XXXX. In chatting with them later, Amex/Amex Travel has no record of the complaint. Today XXXX, a new complaint, XXXX was created! Amex says I have to talk to Amex Travel, and Amex Travel says I have to talk to Amex. Im not sure who to contact since I cant officially dispute the charge."
+}

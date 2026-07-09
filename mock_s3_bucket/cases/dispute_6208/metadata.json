@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6208",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32901"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25110,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraudulent charges were made on my XXXX Citi credit card on XX/XX/XXXX, and XXXX. I saw the charges pending on my account on XX/XX/XXXX when I went online to pay my bill. I immediately called Citi and told them I did not make any of these charges or the {$7500.00} payment that was put on my account. The payment eventually declined. The lady I spoke with told me that I would receive a fraud report in my email by Friday, XX/XX/XXXX. When I did not receive any email I called Citi back. I explained my entire conversation with the other lady. This woman cancelled the card and sent me to the fraud department where I filed a fraud report. A new card was issued. I never activated the new card. The fraud investigation was closed and I received a letter stating I was responsible for these charges. \n\nOn XX/XX/XXXX, the card had a payment of {$11000.00} pending. I immediately called Citi and told them that I did not make this payment and I wanted the card cancelled immediately. This is the same actions that took place on the first card that they chose to ignore when I called. I told them I did not want another card from them. I demanded that another fraud investigation be conducted. They did a fraud investigation and sent me a letter stating I was responsible for these charges. \n\nI have reported the identity theft on identitytheft.gov and made a police report. My next step is getting an attorney."
+}

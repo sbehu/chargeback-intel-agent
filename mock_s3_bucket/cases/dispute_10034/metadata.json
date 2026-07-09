@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10034",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75230"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17054,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I paid XXXX XXXX {$22000.00} deposit for a new driveway. Communication was never good. Without confirming a date I get a call on XX/XX/XXXX at XXXX am that materials, equipment and workers are on their way and will be here by XXXX am. I rush out of bed and wait. I call XXXX XXXX numerous times and keep getting different excuses of the bobcat is broken, the workers are delayed, the materials didnt get loaded. Nothing and no one shows up. During this time I read horror stories on XXXX and XXXX  of others starting out like this and getting way worse. No materials were ever delivered, no work was ever started, he provided XXXX services. I wait until XXXX and no materials, equipment or workers are here. I write XXXX XXXX and tell him for his failure to render services I am canceling. He confirms by email that everything is cancelled and doesnt know when he can get me a refund so I decided I trusted my credit card company more. The credit card company failed to protect me, their customer and decided in favor of the merchant simply because he didnt respond. Citibank failed to uphold the Fair Credit Billing Act regulation Z. This contradicts XXXX dispute standards and is fraudulent as I received no service or material at all and even the vendor was in agreement with that."
+}

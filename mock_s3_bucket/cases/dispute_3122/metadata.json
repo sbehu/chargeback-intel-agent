@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3122",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "87505"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20442,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered what I thought were authentic XXXX XXXX XXXXs from XXXX, and received counterfeit shoes. I sent Barclays everything I had, which includes the conversation I had with the seller. I faxed the information twice, and spoke to three representatives over a 2 week period. These documents include the vendor offering a XXXXXXXX XXXX refund for their XXXX XXXX \n\nThey closed my case and told me they had no evidence of fraud. I still have the messages from the vendor. Barclays is a terrible company, and this is the second time I have had to report them to get them to do their job. I would close my credit card if it wouldnt hurt my credit score."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1190",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27560"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14839,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, without my knowledge the CITI credit card was generated on XX/XX/2023 and I did not even receive the credit card. It looks like someone used the card and made purchases two in XXXX and 1 in XX/XX/2023. I came to know about this issue once the 90-day payment crossed and hit the XXXX XXXX report that I missed the payment. After going through the details I understand that the card got generated and was misused by someone. Immediately I raised a complaint with the Citi Bank security department to dispute the charges and blocked the card. The card is blocked and dispute the charges are in progress ( investigation stages )"
+}

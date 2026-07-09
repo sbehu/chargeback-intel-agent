@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4365",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33137"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26154,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The merchant, XXXX, charged by debit card without my authorization in the amount of {$2000.00}, for work he did not perform. The merchant also issued a letter specifically stating he would not finish the job and that work was still pending and incomplete. I disputed the transaction and the bank continues to respond with a generic \" the card was billed correctly '', i.e. the amount charged was correct. \n\nI was forced to hire another merchant to complete the job ( XXXX XXXX - attached )."
+}

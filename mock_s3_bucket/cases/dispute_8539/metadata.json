@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8539",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6902"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38942,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted a dispute with CitiBank regarding a transaction for a service I received that resulted in a severe physical reaction, I suffered skin burns and required hospitalization. Despite the seriousness of the situation and the documentation I provided, CitiBank did not contact me to ask any questions or gather further details while the dispute was under review. \nInstead, CitiBank closed the investigation and sided with the merchant without giving me an opportunity to explain what occurred or to present medical evidence of the harm I experienced. I feel this was handled unfairly and without proper investigation into the facts of the dispute. \nI am requesting that this matter be reopened and properly reviewed, considering the medical impact and lack of communication from CitiBank during the process."
+}

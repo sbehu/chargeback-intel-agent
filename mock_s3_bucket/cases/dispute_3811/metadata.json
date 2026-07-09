@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3811",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70460"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28872,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have made multiple contacts inside the Best Buy Store and by phone. I have made request regarding a refund that was to be issued towards my purchases. I had purchased a refrigerator from Best Buy XX/XX/XXXX for the amount of XXXX. XX/XX/XXXX the refrigerator had a issue that needed to be repaired. I had to be informed by the repair company that the warranty had authorized a replacement, it was not economial to repair. I made the request for the replacement, that cost XXXX, XXXX less than my origianl purchase. The replacement refrigerator was on back order for at least 2 months, I made the request for a XXXX replacement priced at XXXX, an additional XXXX less. A total of XXXX to be refunded to me. I went in the store to make the XXXX replacement purchase, where I was informed of the refunds. I have since received the replacement refrigerator, but not my refunds. I have been given multiple explanations in reference to the why the refund has not been received, eg. The storm in XXXX caused the delay, or the CSR will argued me that it has been issued. I am requesting this issued is reviewed and investigated. I would like to have this issue resolved. \nThe bank account used XX/XX/XXXX ended in XXXX, we no longer have this debit card, but contact has been made with the bank, and I was informed if a refund is processed to the account the card was issued to it would be refunded. The XXXX purchase was made to my Best Buy Credit Card ending in XXXX, but no refund has been issued."
+}

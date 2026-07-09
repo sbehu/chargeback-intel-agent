@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2372",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "800XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18003,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My complaint is with Citibank/Home Depot credit card services . I am currently making XXXX XXXX payments on a XXXX month promotional balance that is due to expire on XX/XX/year> in the amount of {$7800.00}. \n\nWhen you have a promotional ( deferred ) balance with Home Depot, you are allowed to allocate how payments are distributed to current, revolving and promotional purchases made. If your promotional balance is not paid before the expiration date, you will be charged interest. This is something that I continuedly tried to avoid and I tried being very cautious in staying within the term promotional balance agreement. However, in recent months, I've noticed that my past and current payments have not being properly allocated to my balances even though I selected the allocation option in my account. When I noticed that payments were not properly applied I immediately called Home Depot Credit Card Services to speak to a live agent regarding this situation. I explained to numerous customer services agents and allocation XXXX that I've been making regular payments towards all my past and current promotional balances so why am I still been charged hundreds of dollars in interest after making XXXX XXXX payments? Every single person failed to explain that all my payments were not being properly allocated on my past promotional balances and continued to ensure me that the problem was fixed. \n\n\nAfter countless calls week after week explaining this situation and trying to get a resolution, I would always get an apology ensuring that this option has been properly applied to my payments and balances and that everything is fixed on my account. However, I am still being charged interest on previous expired balances on top of what I currently owe. My last call was made on XX/XX/year> and I was told again that my payment allocation it is fixed and that there is nothing that can be done to correct the interest that I have been charged."
+}

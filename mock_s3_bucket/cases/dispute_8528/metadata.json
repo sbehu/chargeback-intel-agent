@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8528",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41188,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I made an authorized purchase for a laptop through my Best Buy credit card in the early morning hours. I urgently needed the device for a freelance project, so I arranged for it to be delivered to my workplace the following day, XX/XX/2025. \nAlthough Best Buys records indicate that the laptop was delivered and signed for, the digital signature on file is not mine, and neither I nor my workplace ever received the product. At the time of the supposed delivery, I was out of town for work in XXXXXXXX XXXX, returning later that evening. \n\nI had provided explicit instructions through an automated text thread with XXXX by XXXX for the driver to deliver the package to the host stand at my restaurant, where staff were aware it was expected. Despite these instructions, the package was marked as delivered, and the signature shown as proof appears to have been forged, likely by the third-party delivery driver. \n\nI filed an official police report with the XXXX Police Department, XXXX XXXX, on XX/XX/2025 ( Report # XXXX ) and am working directly with Detective XXXX XXXX ( XXXX ). XXXX XXXX is actively investigating the case and attempting to trace the laptops serial number to determine its actual delivery location or whether it was resold or pawned. \n\nDespite this active investigation and clear evidence that the product never reached me, Best Buy denied my chargeback request, citing proof of delivery ( POD ) as evidence. The denial letter I received explicitly claims the product was delivered and signed for, even though the signature is not mine. This response is included as supporting documentation with my submission. \n\nThis process has been extremely time-consuming and stressful, and I do not believe I should be held responsible for a balance related to an item I never received. I am requesting that Best Buy reverse the charge, cooperate fully with the ongoing police investigation, and cease collection or reporting activity related to this transaction until the matter is resolved. \n\nI will also be providing supporting documentation, including : - Screenshots of my text exchange with the Roadie driver - Best Buy order receipt ( with serial and model details ) - Falsified digital signature from Best Buy - Police report slip - Detective email correspondence - Dispute letter sent to Best Buy - First XXXX pages of Best Buys denial letter citing POD"
+}

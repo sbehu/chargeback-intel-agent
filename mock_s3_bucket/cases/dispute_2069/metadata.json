@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2069",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48154"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29247,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, a man named XXXX XXXX called me from ( XXXX ) XXXX stating that he was calling from XXXX XXXX XXXX. He said they work with the government to help XXXX  with their debts due to XXXX XXXX. At that time, the government was giving out stimulus checks, freezing loans, etc., so I believed him. He said I would have to pay an attorney fee of {$1000.00} and I thought that was fair if they were going to take care of my debt. He then said he needed to transfer me over to the XXXX XXXX XXXX. He gave me a phone number ( ( XXXX ) XXXX ) just in case we got disconnected. The person he transferred me to was XXXX XXXX and she stated that she worked for the XXXX XXXX XXXX and she took down my information. She set up an appointment Wednesday XX/XX/XXXX at XXXX XXXX  to come over or send someone over to finish up the process. I don't remember much because I forgot to take notes, but I do remember someone coming over and taking a picture of my licence and credit card. Fast forward a few weeks, my XXXX was over to help me and I asked her to pay my bills at which one of them was the Citi credit card. When she called Citi, they transferred her to customer service which was weird because we always pay by phone and never have to speak to a Rep. The Rep then asked my XXXX if she was calling about the account being frozen. My XXXX  said no, she was calling to make a payment. I didn't know the account was frozen because I don't really use that card. My XXXX  then handed me the phone because she didn't know anything about the charge or the phone call. As I was telling the Rep about the phone call, she then told me she believed I was a victim of a scam. She then instructed me to cut up that credit card, that she was going to issue me a new one and she was going to send me to the fraud department. She also told me not to pay anything until after the dispute was final. We've been going back and forth with Citi about this dispute for several months until I paid them {$1100.00} of which I know I owed and I refused to pay anymore. I was scammed and Citi is the ones who realized I was scammed and now they want to hold me responsible for negligence. At one point, one of the Citi 's Rep told me to file a police report and to send them the report with any other proof, which I did on XX/XX/XXXX and I was still denied and being held responsible. I then got a letter from XXXX XXXX XXXX about this debt, my XXXX  called them and the Rep she spoke to said she was going to mail me out a big packet, to fill it out and send them what I sent Citi. A few weeks went by and I never received the packet, so we called them back and they said Citi took the claim back. This was on XX/XX/XXXX. We called Citi back and I thought this was finally over. The next thing I know, a man came over on XX/XX/XXXX to serve me papers. I'm being sued! I can't believe this! Citi is suing me! I was a card holder for a long time. I was rarely ever late on a payment and I've never had a super high balance. This scam cost me a lot. Not only with this card, but with all my other cards as well. It's damaged my credit score to the point I can't get another credit card, loan, or finance anything."
+}

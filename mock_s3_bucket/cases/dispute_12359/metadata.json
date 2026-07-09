@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12359",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1930"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25470,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern : I am writing to formally document and escalate a serious, ongoing fraud situation involving my Macys credit card account that has remained unresolved for more than 13 days despite multiple contacts with Macys Customer Service and Macys XXXX Department. I am requesting immediate intervention from the XXXX XXXX XXXX. \n\nSummary of Fraudulent Activity On or around XX/XX/year>, I received a notice that an unauthorized payment had been made from XXXX XXXX  XXXX XXXX ( XXXX  ) checking account to my Macys credit card account. A fraudulent purchase had also been made on my Macys card. I immediately contacted Macys, and I was told that the fraud had been corrected and that the funds would be returned to my XXXX  account. I was also told not to worry. I also contacted XXXX, who confirmed they were aware of similar incidents affecting other customers and assured me the funds would be returned within a few days with no fees charged. \n\nThe funds were returned, my Macys card was replaced, and I changed both my password and login credentials. However, the fraudulent activity did not stop. In the days that followed, the same unauthorized action occurred XXXX additional times : someone accessed my Macys account despite the new credentials and initiated unauthorized payments from my BOA checking account to my Macys card. Each occurrence has resulted in a deficit of more than {$3000.00} in my XXXX checking account, rendering the account effectively unusable. \n\nFailure to Resolve by Macys I have contacted Macys Customer Service and Macys XXXX Department numerous times over the past 13 days. On each occasion, I have specifically requested that my XXXX  checking account be removed as a payment source from my Macys account. Each time, I was told that someone would call me back. As of the date of this letter, I have received no return call and no resolution. My XXXX  checking account continues to be impacted by these unauthorized transactions, causing me significant financial hardship and distress. \n\nFormal Demands I am formally demanding the following actions be taken immediately : 1. Immediate removal of my XXXX  XXXX XXXX checking account as a payment source from my Macys account. \n2. A full investigation into how my account was accessed multiple times after password and login credentials were changed.\n\n3. Written confirmation of all unauthorized transactions identified and reversed.\n\n4. A written response to this letter within 15 days, as required under applicable consumer protection regulations.\n\n5. Confirmation that my account has been fully secured and that no further unauthorized access is possible.\n\nNotice of Regulation E Rights Please be advised that these unauthorized electronic fund transfers from my bank checking account are governed by the Electronic Fund Transfer Act ( EFTA ) and Regulation E ( 12 C.F.R. Part 1005 ). I am asserting my rights under Regulation XXXX and expect full compliance, including investigation and reimbursement of all unauthorized transfers. I am also filing a complaint with the Consumer Financial Protection Bureau ( CFPB ) at consumerfinance.gov/complaint regarding this matter. \n\nI expect this matter to be treated with the urgency it deserves. Please contact me at the information listed above. I am retaining copies of this letter and all records related to this case."
+}

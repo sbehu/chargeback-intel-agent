@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9741",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "16509"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4946,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a bill for items bought at Home Depot that I did not purchase. I called the number on the bill and they said that they would investigate. I had not ever had a bill before that I can remember. I told them to cancel the account and they did. However, I received a notice that I still had to repay the bill and Citi Bank also sent me a collection notice. The items fraudulently purchased totaled over XXXX dollars and now they are sending me bills with late fees as well. Please help!"
+}

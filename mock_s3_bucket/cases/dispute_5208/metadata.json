@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5208",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "146XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2752,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed over XXXX charges totaling over {$20000.00} with XXXX on my American Express card. More than half of these disputes were denied due to the XXXX rule, despite my evidence showing misrepresentation, lack of fair gameplay, and incomplete financial records provided by the merchant. \n\nXXXX failed to prove fair gameplay or transparency in their practices. They only focused on withdrawals, omitting deposit amounts, which is misleading. I contacted the merchant directly, following their Terms of Service, but received no meaningful response. \n\nI request CFPB assistance to ensure American Express reevaluates these disputes and holds the merchant accountable for providing fair services as per consumer protection laws."
+}

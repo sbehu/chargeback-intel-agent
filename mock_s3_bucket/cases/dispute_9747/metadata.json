@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9747",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91762"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks handling of a billing dispute for a damaged shipment. The dispute was denied and closed despite clear documentation that the shipment arrived damaged ( documented by XXXX at delivery with an exception number ), the merchant closed my account and refused resolution. \n\nCitibank reversed the chargeback and advised me to contact the merchant, even though the merchant terminated the business relationship and refused to assist. Citibank did not properly consider carrier settlement evidence, email correspondence, or documentation showing abandonment by the merchant. \n\nI am requesting a full review of the dispute with all submitted evidence and a correction of the billing error."
+}

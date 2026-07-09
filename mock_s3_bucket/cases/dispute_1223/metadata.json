@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1223",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97306"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31954,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased a XXXX XXXX XXXX from XXXX XXXX using my Barclay Card ending in XXXX. I received the wig on XXXX  XX/XX/XXXX via XXXX XXXX. Upon receipt of the merchandise I instantly noticed that the merchandise I received was nothing like the pictures that were advertised. The XXXX  was supposed to be a XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. The XXXX  I received was XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. The XXXX is also not XXXX  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX '', but rather XXXX '' in length. I attempted to contact the merchant numerous times to speak to them about a refund and they refused to respond. After several attempts they went as far as to block me so that I could no longer attempt communication with them by either instant messaging or by social media. Thereby, I filed a dispute with Barclay Card in the hopes they could resolve the issue and get me my money back as I was clearly a victim of an online scam. Barclay card sent me a letter dated XX/XX/XXXX notifying me that they had received my dispute and that they would be investigating. On XX/XX/XXXX I contacted Barclay Card by telephone as I had not received an update and I had not received a provisional credit on my credit card for my dispute. I spoke to a customer service representative to transferred me to someone in the dispute department. When I spoke to the gentleman in the dispute department I requested an update on my dispute and also to provide me with an estimated time frame in which I could expect a provisional credit. I was informed that they had been unable to reach the merchant as well and that they would issue me a provisional credit. That has not happened to date ( XX/XX/XXXX ). In fact, not only have they failed to provide me with a provisional credit but they have removed my credit history with them on my credit report which has impacted my credit score negatively and caused my credit score to drop by over XXXX  points. I have been a Barclay Card customer for XXXX  years and their deletion of my credit line has injured me financially as it has reduced my credit scorXXXX. They have also failed to issue me a provisional credit or update me on the status of my dispute. I have been mislead and treated in an Unfair, Deceptive and Abusive manner and have been harmed financially as a result of their failure to act prudently and within my consumer protection rights."
+}

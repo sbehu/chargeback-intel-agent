@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4961",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92612"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29270,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi I hope this message finds you well. I am writing to bring to your attention a deeply concerning issue I have encountered with my recent ticket purchase and subsequent changes for flights operated by XXXX XXXX. I am requesting a refund and filing a formal complaint due to the significant inconvenience and distress caused to my family. I purchased two tickets for myself and my daughter, costing {$3300.00} in total on XX/XX/2023, ticket number XXXX Confirmation number : XXXX The following route : XXXX  to XXXX, XXXX to XXXX, and XXXX to XXXX Then After four months, on XX/XX/XXXX, I called XXXX XXXX to inform you that my daughter 's plans had changed, and she would no longer be traveling to XXXX. Instead, I requested to change her flight to travel directly from XXXX to XXXX, along with a change in the flight date. I was informed that this change would incur an additional charge of XXXX XXXX which I paid promptly. New ticket was issued with this ; ticket number : XXXX Reference number : XXXX However, when my daughter and husband arrived at the airport to check in for their flight on XXXX, they were informed by the agent that my daughter 's ticket had been suspended and that she no longer had a valid ticket. Given the time constraints and lack of prior notice, and according to the agent 's advice, my husband had no choice but to purchase a new ticket for my daughter, costing {$2700.00}, to ensure they could travel as planned : Ticket number : XXXX Reference number : XXXX .XXXX  agent said due to limited time purchasing a new ticket is the only option and we can refund that later, ( since it is obvious one person shouldnt pay two times for one flight ) This situation caused significant stress and distress for my daughter, who was extremely upset and cried throughout the experience. Our family 's travel plans were severely disrupted, and the entire trip was marred by this unexpected and unjustified ticket suspension. Therefore, I am urgently requesting the following actions be taken : 1. **Refund of $ XXXX : I seek a full refund of the {$2800.00} paid for the new ticket purchased on XX/XX/XXXX at XXXX due to the unjust suspension of my daughter 's original ticket. 2. I wish to lodge a formal complaint against XXXX XXXX for the undue stress and inconvenience caused by the unwarranted suspension of my daughter 's ticket and the lack of communication regarding this issue. This experience has severely impacted on our perception of your airline, and I believe it is crucial to address this matter promptly and appropriately. Attached to this email, you will find the relevant documents, including the original ticket purchase receipt, the additional charge receipt, and the receipt for the new ticket purchased at XXXX. I kindly request your prompt attention to this matter and look forward to a swift resolution. Please acknowledge receipt of this email and provide a timeline for when I can expect a response regarding the refund and the steps you will take to address our complaint. Thank you for your understanding and cooperation. \nBest regards, We bought the tickets 7 months in advance to pay a lower and more reasonable price so Please dispute the second payment ( {$2700.00} ) and refund it to my account"
+}

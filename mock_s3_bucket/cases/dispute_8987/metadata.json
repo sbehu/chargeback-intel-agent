@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8987",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92335"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41223,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, an unauthorized charge of {$990.00} was made on my Best Buy credit account ( serviced by Citibank ). I did not authorize this transaction, nor was I at the store or location where the purchase occurred. I only learned about this transaction when I logged in to my account to make my monthly payment. \n\nAt the time I discovered the charge approximately XXXX weeks later, when I logged into my account to make my monthly payment I initially believed I still had my physical credit card in my possession. I normally keep my cards in my wallet or my safe, so it was reasonable for me to assume it was there. However, after searching thoroughly, I later realized that I did not have the card and must have lost or misplaced it without noticing. I do not know when or where it went missing. \n\nThe last time I physically remember using the card was on XX/XX/XXXX at the XXXX XXXX. The last legitimate purchase I made on the account was on XX/XX/XXXX and I asked the store to do a card look up that day. Any transactions outside of those that I did not authorize should not be attributed to me simply because I initially ( and reasonably ) believed the card was still in my possession when I first filed the claim. \n\nCitibank never flagged the unauthorized transaction, never contacted me, and never alerted me despite the charge being inconsistent with my spending patterns. In contrast, XXXX XXXX and XXXX XXXX, which were also compromised during the same incident, contacted me within minutes to report the suspicious activity and immediately credited the fraudulent transactions after completing their investigations. Once I discovered the unauthorized charge on my Best Buy account, I immediately filed a fraud claim and submitted all documentation requested, including : XXXX police report confirming the fraud -A letter from my XXXX program confirming that I was in class at the exact date of the transaction -Evidence showing that XXXX other financial institutions involved in the same fraud incident identified the charges as fraudulent -All statements and supporting information Citibank asked for Despite this, Citibank has repeatedly denied XXXX claim, stating that their position has not changed. They have not provided any meaningful explanation, evidence, or justification for determining the transaction was authorized. In their most recent correspondence, they stated they will no longer respond to inquiries, even though I complied with every request and submitted extensive, time-stamped evidence that clearly disproves that I made the purchase. \n\nI am a full-time XXXX student under significant stress, including reduced work hours and financial hardship. XXXX refusal to acknowledge clear evidence and their failure to alert me of suspicious activity has placed an unnecessary burden on me. This fraudulent charge has negatively impacted my XXXX XXXX and financial standing. I believe their investigation was incomplete and did not follow the requirements outlined under Regulation Z ( XXXX XXXX XXXX ) regarding consumer liability for unauthorized credit card use. \n\nCitibank has not provided : - Evidence that I authorized the transaction - A clear explanation of what additional documentation they require - Information on how their investigation was conducted - Any rationale for denying the claim despite proof I was elsewhere - Any reason why they failed to flag or question the suspicious transaction I am requesting CFPB assistance to ensure a proper investigation is conducted in accordance with federal law and that my consumer rights are upheld."
+}

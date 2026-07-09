@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3879",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "165XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38557,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A couple of months ago I called Citibank to make a credit card payment over the phone. The agent would not accept my credit card payment. Instead, he told me there were several fraudulent transactions on my credit card account and that I would be receiving a new credit card. The company never sent the new credit cards, and they closed the accounts demanding money and trying to ruin my credit."
+}

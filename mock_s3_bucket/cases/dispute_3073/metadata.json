@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3073",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29485"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19025,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint involves RCI Barclay in that they paid on several occasions XX/XX/XXXX, XXXX {$13000.00}, XX/XX/XXXX {$1200.00} and XX/XX/XXXX {$11000.00}. Totaling {$25000.00} to Holiday pay XXXX XXXX Nevada for a merchant located in XXXX XXXX, XXXX, These transactions were dependant on the merchant purchasing our property by XXXX XXXX for {$79000.00} and marketing for {$17000.00}, totaling {$97000.00}. All was written into contract between the merchant and us. When the merchant failed to buy our property by XX/XX/XXXX, we considered all previous transactions to be fraudulent simply stated the merchant ask us to buy their property first and then he would buy our property after. When the time came they did not fulfill his end of the contract. The merchants involved are A XXXX XXXX XXXX XXXX XXXX XXXX XXXX and their affiliates, XXXX XXXX XXXX XXXX XXXX, XXXX and XXXX Pay XXXX XXXX, Nevada. As soon as we be aware of this fraud XX/XX/XXXX we reported this RCI Barclay and provided them with copies of contract and other documentations. However, the bank continue accept the word of the merchant that the transaction was legitimate. The banks also claimed that we waited too long to report the incident, But our position is that the transaction was no longer legitimate when we became aware that they had no intentions on buying our property, It is also our position that the merchant deceived us by delaying his purchase of buying our property to make the time to reporting a complaint null and void. but we believe that we reported to the bank this fraud as soon as we became aware of fraud.. I attempted for you to review our documentations in my report to you. But it stated that it was more than XXXX Now A Boutique is stating that they will not return our money because we have a balance due, We pay the contract in full by maxing out our credit cards under the assurance from XXXX  XXXX XXXX we would receive the money by XX/XX/XXXX in the amount of {$97000.00} XXXX pay off the credit card, XXXX XXXX  was able to recoup {$11000.00} for us and that is why A Boutique claims we have a balance. Now A Boutique is keeping our money in total of {$32000.00} ( this includes another credit card I used to pay off the contract. We are paying for something we don't own. Since then I had to do several balance transfers so my credit would not go bad and this has cause me a financial burden. \nThanking you you XXXX XXXX"
+}

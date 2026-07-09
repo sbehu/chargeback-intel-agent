@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5884",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11214"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46808,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was contacted by Citibank about charges, including some at an XXXX store ( XX/XX/year> ), XXXX ( XX/XX/year> ), and at XXXX XXXX ( XX/XX/year> ) all in XXXX  in the amount of {$9700.00} total. I got this information over the phone from someone named XXXX. I indicated I never made that charge or any other transaction on this account. I don't even have this account, as the only account I ever had with Citibank was closed years ago. Additionally, I'm an XXXX XXXX XXXX XXXX woman from XXXXXXXX XXXX XXXX, who has not been on a plane in over a decade. XXXX gave me a confirmation number \" XXXX '' and he said it would be resolved. Additionally, I spoke with XXXX XXXX on XX/XX/year> because Citi contacted me again about this -- and XXXX said the account was completely shut down and the matter was resolved. Since I disputed the transaction, I have not heard from them and assumed they realized and corrected the error. \n\nNow I received a letter from a law firm that Citi engaged to further harass me about a debt I dont owe. I am again disputing the entire balance owed. It is unfair that Citi can fail to property investigate a dispute and can then continue to harass XXXX XXXX for a debt they dont owe. \n\nIt looks like the card number ends in XXXX in case you need that info. \n\nXXXX have Citibank provide copies of the statements they sent and the charge slips for the transaction. They have never sent me any documentation of the transactions. I have lived at the same address for over XXXX  years. \n\nAdditionally, there is a discrepancy in the address they have on file. They listed an apartment number. I live in a house, there are no apartments, and I would never randomly put an apartment number on my house. \n\nThank you for your assistance."
+}

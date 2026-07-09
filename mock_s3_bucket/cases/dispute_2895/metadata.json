@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2895",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94538"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "For dispute XXXX I made my concession that I would accept the bill as long as the merchant sent me the certificate of the bracelet back. But XXXX said they lost it, so what did I get for all the money I paid?? \n\nThis is already suspected of defrauding consumers. It is ridiculous that Amex is still on the side of the merchants."
+}

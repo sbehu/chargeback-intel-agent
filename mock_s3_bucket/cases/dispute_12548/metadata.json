@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12548",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "448XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36329,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX I was charged for a Best Buy renewal of {$190.00} I quickly noticed that charged to my account and successfully got a refund and stated I did not want that membership and I had no knowledge of signing up for that. XXXX of XXXX rolls around and I was again charged for {$190.00} since I believed my card was paid in full I did not have automatic payments set up, XXXX comes around and I start receiving phone calls stating Im passed due on my card which was confusing because I had not used the card and to my knowledge the account balance was {$0.00}. I made phone calls to best buy to dispute this transaction and get a refund, apparently I was over the 60 day mark so a full refund was not possible they gave me a partial refund, I called Citibank explaining the issue and called about getting late fees removed they told me that couldnt unless best buy refunded the full amount, I was on the phone every week all of XXXX and XXXX I seems trying to get this issue straightened out everytime they told me they would send the request to higher up about the full refund and I never heard back, resulting in another late fees/payment because I thought it would be unfair to pay for a subscription I didnt sign up for. Eventually I just gave up and paid the amount of {$76.00} to close the account and now worry about it anymore. I then have been trying to refinance my mortgage loan for a better interest rate and my credit score had dropped an entire XXXX points because of this issue. I contacted Citi bank asking for a goodwill adjustment considering the amount owed was paid in full and I had never had a late payment on any accounts in my life. They responded by letter in the mail stating they would not dispute that late payment on my credit report but would put in that I tried to dispute it. I am going to write them again and give them a call asking for a goodwill adjustment again, but I wanted to reach out to state what my experience has been thus far. Trying to get ahold of someone at Citibank is a nightmare, Im on the phone for long periods of time and feeling like I am getting no where. I would be grateful for a goodwill adjustment like I said I have never made a late payment. Thank you for reading, I appreciate your time. \n\nSincerely, XXXX XXXX"
+}

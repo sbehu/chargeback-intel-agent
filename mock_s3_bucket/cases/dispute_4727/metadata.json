@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4727",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37620"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1056,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "date XX/XX/year> amount of XXXX for XXXX XXXX i reserved a ticket through XXXX XXXX upon my arrival to the airport i was informed that XXXX XXXX cancelled my ticket without my permission and told me to call my credit card to dispute the charges i call my credit card and dispute and they favor the merchant despite me providing information that show XXXX XXXX cancelled my flight so i shouldnt be charged XXXX XXXX the one cancelled my flight not me i request a full refund from my credit card its disappointment when my credit card after dispute favor the merchant dispute me provide evidence that XXXX XXXX is the one cancelled my flight not me i want a full refund"
+}

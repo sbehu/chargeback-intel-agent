@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11719",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95336"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37946,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, XXXX unauthorized charges of {$99.00} each were made on my credit card for XXXX purchases through XXXX within approximately XXXX minutes. During these transactions, Barclays flagged the activity as potential fraud and sent me an alert. I contacted Barclays the same day and reported that I did not recognize the charges, and my card was cancelled. \n\nThe charges were initially credited back to my account. However, the credits were later reversed after the bank determined the transactions were not fraudulent based on information indicating they came from my account. \n\nBarclays denied my claim stating that the transactions appeared legitimate because they were made from my account, with my name and card information. However, this does not address unauthorized access. In cases of account takeover, fraudulent transactions will appear to come from the legitimate account. \n\nAfter further investigation, I determined that my boyfriends email account had been compromised, and our XXXX accounts are linked. This resulted in unauthorized access to my account and use of my stored payment method without my permission. \n\nI also contacted XXXX and submitted an account recovery request. I was informed that they did not detect a compromise on my specific account. However, my boyfriends email account was compromised at the same time, and our XXXX accounts are linked. It appears that unauthorized access occurred through his account, which then allowed access to my linked account and stored payment method. This explains why the transactions appear to come from my account, even though I did not authorize them. \n\nI attempted to contact XXXX as instructed by Barclays, but I was unable to reach support by phone and their website directs unauthorized charge disputes back to the financial institution. \n\nI requested proof that I made the purchases and information showing how XXXX responded to the claim and what evidence was used to determine the transactions were authorized, but I have not received that documentation. \n\nThe transaction pattern ( multiple identical high-value purchases within minutes ), along with Barclays own fraud alert during the transactions, indicates activity consistent with account takeover and not normal authorized use. \n\nI am requesting that Barclays properly investigate these transactions as unauthorized charges due to account compromise and remove the charges and any associated interest from my account."
+}

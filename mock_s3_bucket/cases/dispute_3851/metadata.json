@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3851",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94806"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33604,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I made a purchase with Costco citi credit card for the amount of {$770.00} for Airbnb rental, I had problems checking in and I couldnt use the entire rental, filed a dispute after coming back from our trip on XX/XX/year> claiming my money back because the host didnt let me in. \nWhen I filed the dispute my credit card company told me they would give me a credit for the same amount of {$760.00} while they investigate the claim, I never received that credit, and now the investigation is done and they concluded I am responsible for the charge of {$760.00} so they reverse the credit and now because from the beginning I didnt received any credit Im paying double the amount of {$760.00}, I had contacted them several times and they just telling me the internal investigation department have to take care of that, they keep saying they send notes and email about this but no response and that that is the only way to contact them. They know I didnt received any credit they already verified but they keep telling me about that department. At this point I dont know who to contact or who to talk to. I keep track of my transactions with my credit card because I pay every month to leave it at XXXX balance and I always check my charges to match what Im paying. Please help."
+}

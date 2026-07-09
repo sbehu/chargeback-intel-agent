@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8079",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "SC",
+    "complaint_zip": "29720"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37608,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "See below a letter to the merchant I purchased the merchandise from : To Whom It May Concern, On XXXX, I purchased two freezers from XXXX XXXX XXXX One freezer arrived damaged and was returned to you, while the other was accepted with visible scratches. I was informed that a replacement unit would be shipped to me. Despite multiple follow-ups, no replacement has ever been delivered. \nI have made repeated attempts to resolve this matter directly with XXXX XXXX, including on XXXX, and XX/XX/year> and very many phone calls in between. I was assured that a replacement would be provided, yet no action has been taken. At this point, your lack of communication and failure to fulfill the agreement has left me with no choice but to take further action. \nDemand : I am formally requesting that XXXX XXXX provide, within 14 days of receipt of this letter, either : 1 The agreed-upon replacement freezer in new, undamaged condition, or 2 A full refund in the amount of {$2000.00} ( Freezer + shipping ) plus compensation for the freezer with scratches and dents.\n\nIf this matter is not resolved within the stated timeframe, I will have no choice but to pursue all available remedies, including filing complaints with the State Attorney Generals Office, the Federal Trade Commission, and the Better Business Bureau, as well as initiating a small claims court action against XXXX XXXX. \nI hope that XXXX XXXX will take this opportunity to resolve this issue promptly and avoid further escalation. \n\nalso see the letter to Citi bank asking them to review the dispute : Date : XX/XX/year> Citi XXXX XXXX XXXX Department XXXX XXXX XXXX XXXX XXXX XXXX, SD XXXX Subject : Appeal of Denied Billing Dispute Request for Reconsideration To Whom It May Concern, I am writing to formally appeal the denial of my billing dispute regarding a charge from XXXX XXXX XXXX XXXX amount of {$3500.00}, posted to my account on XX/XX/year>. \nOn XX/XX/year>, I purchased two freezers from XXXX XXXX. XXXX unit arrived damaged and was returned to the merchant. The second unit was accepted with visible scratches, with the understanding that a replacement would be sent. Over the following months, I made multiple attempts to work directly with the merchant, who repeatedly assured me that a replacement would be sent once the damaged unit was returned. Despite these assurances, the replacement was never delivered, and eventually the merchant stopped responding altogether. \nBecause I was led to believe the issue was being resolved, I delayed filing a dispute until it became clear that I had been misled and the merchant had abandoned communication. I have enclosed : Invoice from XXXX XXXX Credit card statement showing purchase Photos of the damaged unit Proof of return shipment of the defective freezer Copies of communications with the merchant promising a replacement My written demand letter to the merchant ( sent certified mail ) These documents demonstrate that I acted in good faith and that the merchant engaged in deceptive practices by promising resolution and then failing to deliver either a replacement or refund. \nI respectfully request that my dispute be reconsidered and that a chargeback be processed under the Fair Credit Billing Act and applicable Visa/Mastercard/Amex rules , on the basis of merchandise not received and merchant misrepresentation. \nPlease advise me of the next steps in this appeal. I appreciate your prompt attention to this matter."
+}

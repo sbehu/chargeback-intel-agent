@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4098",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75088"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10642,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "See the previous XXXX complaints that have been closed without resolution. Barclays has not addressed my complaints or provided evidence of my authorization for this debt. Per the CFPB, once a debt has been disputed, the debt collector must stop all collection activities until it provides you with proof that you actually owe the debt. In addition to the complaints I've filed with the CFPB, I've sent XXXX letters to Barclays Bank Delaware, Office of the President, Attn : XXXX, XXXX XXXX XXXX, XXXX, DE, XXXX, to which I have not received responses. BELOW and attached is the letter I sent XX/XX/year> detailing my request to receive proof that I owe the debt. I have only received an application with a scribbled signature that is not mine but no evidence that I authorized the charge. This is fraud. Please kindly send proof that I authorized the charge as this was charged without my permission. \n\n\" I received your letter dated XX/XX/year> from the CFPB website ( attached ). Ive highlighted statements that are false. I did not state I was to be added on to a separate account as an authorized user. I simply reported the account as fraudulent which is why the account was initially closed. And why would I request to be added as an authorized user if I supposedly signed an application for the credit card ( which I didnt )? Wouldnt the primary card holder be required to add me vs my requesting to be added as an authorized user? I truly dont understand your justification for concluding this is a valid, authorized account. I request a copy of that verbal conversation where I made the statement. \n\nRegardless of any of the above, the application you provided does not represent my authorization to open the account. In addition, I request validation of the charge to this account in the amount of {$4100.00}. I did not sign the credit card application, and I dont have a contract with the merchant. I did not authorize the purchase of property or sign a contract/agreement for this activity. As this was not authorized, I request documentation of my authorization of the charge. \n\nBecause I am disputing this debt, you should not report it to the credit reporting agencies. Inform them that the debt is disputed, and request they remove it from my credit report. Reporting information that you know to be inaccurate violates the Fair Credit Reporting Act. '' Please provide the XXXX requests ( recording and signed contract ) that provides my authorization for the purchase."
+}

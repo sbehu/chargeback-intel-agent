@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6603",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95472"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9684,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am being repeatedly charged {$60.00} per month by Citibank on a credit card that was XXXX in my XXXX  almost a year ago. The account was included in my XXXX, and I received a discharge. Despite that, Citibank has continued to charge me. \n\nI have spent hours on the phone with their customer service. At one point, I was refunded and told the account was closed. I believed it was resolved, but the charges have started again. This has happened multiple times and feels like it will never end. \n\nThese recurring charges violate the XXXX  discharge order and have caused me significant stress and time. I am requesting that Citibank immediately cease all further charges, permanently close the account, refund any post-discharge charges, and confirm this in writing."
+}

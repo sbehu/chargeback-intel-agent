@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7612",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28027"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40574,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, This complaint is against CitiBank Visa for not refunding money. The case ID # at CitiBank Visa is XXXX. \nOn XX/XX/year> I purchased a table and chairs from XXXX XXXX  located in XXXX, NC. Following the purchase I returned home and measured the area the table and chairs were to be located. I found that the space was too small to accommodate the table and chairs. I returned to the same XXXX Liquidations store located in XXXX, NC XXXX minutes following the purchase to request a refund since the items would not fit in my home. \nThe employee indicated no refunds were allowed. I asked why and he indicated it was store policy. I asked when or how this policy was enforceable since I was not told verbally nor was anything regarding this policy provided in writing to me before or following the purchase. He had no proof that this policy was communicated in writing or verbally and refused to refund my purchase made on my Citi card ending in XXXX. \n\nI requested that CitiBank Visa cancel this amount totaling {$1300.00}. CitiBabnk has refused to refund me the monies twice. I have never taken delivery of the items. I have attached a PDF file with the only documentation I have for this purchase. As you can see there is nothing regarding any return policy on the receipt. Please provide a response via email. \nThank you, XXXX XXXX"
+}

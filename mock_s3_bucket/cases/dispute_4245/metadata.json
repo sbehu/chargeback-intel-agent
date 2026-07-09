@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4245",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28146"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8462,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A drive by merchant stopped and asked if I would like some pine straw installed for {$6.00} per bale, I told them ok just keep it under XXXX bales, being I was just refreshing the front yard. They installed XXXX bales for {$160.00}, I paid with a citi costco card, they ran it on their phone and left, when the credit card statement arrived I had been charged {$2800.00}. I immediately called the company ( XXXXXXXX XXXX XXXX, no answer, filed a dispute online with citi costco, went to XXXX XXXXXXXX store to fax/email receipt, couple weeks later they denied my claim saying they did not receive my receipt, asked them if I could send again, called them a couple days later and they said they had received it and would reopen, couple weeks later, denied due to no receipt, I don't know what else to do, we are retired and live on a fixed income, {$2600.00} is a lot of money, thanks"
+}

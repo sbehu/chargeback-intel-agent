@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1366",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84043"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41168,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX your front door ran a credit card of mine for XXXX dollars and took off with the money and ran. I have not been able to get a refund. Your front door is now not answering my calls and stripe the credit card processing company is saying that the merchant has the money and they cant do anything about it and keep on telling me that I need to dispute this with american express. I have done this and American express has not done anyting to help me with this! The FBI is also now involved in this manner and so is a lawsuit against the merchant. but it has ruined my life because american express had put it on my credit report"
+}

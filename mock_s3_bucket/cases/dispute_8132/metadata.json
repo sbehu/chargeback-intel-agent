@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8132",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32836"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35160,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a credit card with Citi Bank I filed a dispute about an illegal transaction which cleared my account on XXXX from XXXX. The dispute was accepted but the charge was reversed without providing any details. XXXX  month another transaction was but then returned. XXXX, issue is on XX/XX/XXXX, XXXX was charged an Auto Pay reversal Fee when I don't have Auto Pay setup. The previous months payment in XXXX was pad from a completely different account. As a consumer I have no control over this credit. This institution is forcing fees and charges upon my account deliberately."
+}

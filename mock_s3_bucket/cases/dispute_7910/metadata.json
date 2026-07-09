@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7910",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "RI",
+    "complaint_zip": "028XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2754,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ive contacted them since XXXX XXXX  and several times after that! over this issue from the date it was delivered. Until today they refuse to handle the issue based on the price of the product althought they refuse to take responsibility about a none signature But im forced to pay for a product that I dont have. I was out of town when it was delivered it was supposed to be delivered on that Friday. This was a product that should have not been left laying anywhere. The responsibility falls on the company and the company that delivered it. The amount is XXXX it was a piece of jewelry that should have been signed for and not laying anywhere. Also the matter took away my XXXX dollars cash and my platinum status as well as not refunding me my money for the lost merchandise .. my phone is XXXX"
+}

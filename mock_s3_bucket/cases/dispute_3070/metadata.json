@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3070",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90802"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased XXXX items ( XXXX XXXX ) from XXXX, later returned XXXX of them in compliance with their return policy, and requested a refund for the XXXX returned items. \nOn XX/XX/2024, the merchant credited my account XXXX for XXXX item only ( item 's original price minus prepaid shipping cost I believe, which I don't dispute ). My email inquiry to the merchant remained unanswered, and on XX/XX/2024 I opened a dispute with the credit card company for the remaining XXXX. \nOn XX/XX/2024 the credit card company closed the dispute in favor of the merchant and notified me : \" A letter detailing your dispute resolution will typically be available in your Notices & Letters within XXXX hours ''. \nAs of XXXX, there is no letter addressing my inquiry. My additional request for clarification sent by email to XXXX on XX/XX/2024 remains unanswered."
+}

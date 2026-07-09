@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4576",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11224"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39343,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to express my disappointment and frustration regarding a recent experience I had at the XXXX Costco location : XXXX XXXX XXXX, XXXX, NY XXXX, on XX/XX/year>. \n\nI attempted to return a XXXX mixer that I purchased approximately four years ago. Unfortunately, my return was refused on the grounds that the product was too old and could not be accepted. I tried to explain that the mixer had been kept in its box for most of those years and was only used last year. \n\nAs I understand Costco 's return policy, customers are allowed to return items at any time if they are not satisfied, which is what I was hoping to do in this case. However, when I mentioned this to the manager, I was met with a very rude response. I was accused of attempting to abuse the return policy, which I found both offensive and completely unwarranted.\n\nI have been a loyal Costco member for over 15 years and spend between {$4000.00} and {$5000.00} annually at your stores. I also hold a business account with Costco. Given my long-standing relationship with Costco, I was shocked by the unprofessional and dismissive behavior I encountered at this location. \n\nI am respectfully asking for your assistance in resolving this matter. I believe the return should be accepted based on Costcos policy, and I would greatly appreciate any support or guidance you can provide to reimburse the credit card that it was used to purchase the mixer."
+}

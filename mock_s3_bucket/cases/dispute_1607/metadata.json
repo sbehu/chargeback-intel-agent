@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1607",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46580,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Bank ( Home Depot ) has done a poor job of investigating this case. I have provided them with my Drivers License number and have had to re-open this case several times. I would like to know if the Fair Credit Billing Act of 1974 can be used to dispute this subpar service from Citi Bank."
+}

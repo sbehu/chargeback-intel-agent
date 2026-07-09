@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13213",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10940"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX, I ordered a XXXX XXXX. My cc was charged the day I ordered it. After many emails from the company, XXXX, apologizing for the shipping delay, it was supposedly shipped on XX/XX/XXXX. I received it XX/XX/XXXX. After using the product ( XXXX XXXX ) i realized it hurt my neck and sent 2 emails to the company, last one was XX/XX/XXXX, asking to return it since their return window was 90 days. No response. I contacted my credit card company and wanted to dispute the XXXX charge. That was XX/XX/XXXX. Citi bank contacted them on XX/XX/XXXX. XXXX didnt respond until XX/XX/XXXX. They stated I didnt follow the instructions to return. Dispute was denied. Now the 90 day window has passed no fault of mine. I sent citi bank the info they requested and they still denied the dispute. I think Citibank had their mind made up because the paperwork they requested from me had to be received by them by XX/XX/XXXX. They sent me an email on XX/XX/XXXX stating I never complied and they again refused to do anything. Then I called credit card company again and they told me I had to call this company. I told them I tried and the number and no live voice, no option to leave a message. Citi started the dispute again but as of today, they said too much time has passed and they couldnt do anything about it."
+}

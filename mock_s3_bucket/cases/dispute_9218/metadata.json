@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9218",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28403"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17159,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received an XXXX XXXX diagnosis on XX/XX/year>. I have completed XXXX rounds of XXXX and received a clear scan in XXXX. It is my goal to do all that I can to remain XXXX free. Unfortunately, I signed up for an online XXXX freedom program by a XXXX XXXX who states that she had XXXX XXXX and could keep me XXXX free. The program is called XXXX XXXX and was to cost {$1400.00} each month for XXXX months although the program support would only last XXXX months. That should have been a red flag. My VISA card would not process the transaction but American Express did. Desperate for a miracle I signed on with her XX/XX/year>. From her presentation I thought I was getting a truly customized program for me. She also told me she had many XXXX XXXX patients and many who took a parp inhibitor that I had been prescribed. I attended a zoom type meeting with current members of her program XXXX evening prior to my actual onboarding with XXXX XXXX. I was disappointed in the meeting as it was simply members of the group talking about their individual XXXX diagnosis, etc. There was only XXXX person in the group with XXXX XXXX and she was also the one who took parp inhibitors. Most were XXXX XXXX patients. The group was not being led by an MD or dietician, etc. but a previous program member. It had no structure and was really a free for all with whomever wanted to talk. I was not able to officially onboard to the program for a customized plan until XXXX XXXX. I was then asked to record everything I ate daily. I quickly realized they were simply uslng a dietary app to calculate my needs. I already had XXXX on my phone and computer. I also realized a lot of the program was things I was already doing, good diet, some exercise, etc. I realized no one was \" customizing '' a program specifically for me, that I was not receiving coaching from formally trained coaches and I did not have the energy to keep up with submitting my food intake daily. If I did, I could have used the free app I already had. I was also dealing with my husbands health at the time and still am. I was so very disappointed all the way around. I had officially entered the program XX/XX/year>. I sent an email to withdraw XX/XX/year>. I received an email response XX/XX/year>, stating that I could postpone for XXXX months butwould receive no refund if I withdrew as this was a \" customized '' program for me. I responded that I had not received a \" customized '' program, that I had obviously made a poor choice, was too tired to fight it and was prepared to lose the initial payment of {$1400.00}. On XX/XX/year>, I received an email stating that I had been removed from the program. I was not officially a part of the program but a couple of days but they charged my credit card again XX/XX/XXXX and tried to charge it again XX/XX/XXXX. I will be XXXX on XX/XX/year>. I should have known better when I found out XXXX XXXX was neither a medical doctor nor a dietician. I believe she should not be allowed to promise XXXX freedom to those of us facing such a horrific journey. I filed a dispute with American Express. They have sided in her favor even though the information she sent them with my emails has the majority of what I wrote blacked out and only leave for the reader what they want to portray. I signed up XX/XX/year>. XXXX XXXX was not available to onboard me until XX/XX/year>. I asked to leave XX/XX/XXXX and received an email that I had been removed XX/XX/XXXX even though they billed again XX/XX/XXXX and tried to XX/XX/XXXX. I have not received a customized program and was only associated with them from XX/XX/XXXX until XX/XX/XXXX when they told me I was removed. How could I owe for something I never received? Thank you."
+}

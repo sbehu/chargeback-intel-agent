@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6112",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6657,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased bathroom tile from a company online. The tile was purchased through XXXX invoice. The tile we received was defective. I contacted the company to resolve it, but they were unwilling to resolve. I opened a claim with XXXX ; however, XXXX said they are not able to investigate and I need to file a chargeback with the credit card. On XX/XX/XXXX, I filed the chargeback with Citi, as this is the credit card used to pay the XXXX invoice. On XX/XX/XXXX, Citi informed me that they will close the case in the vendor 's favor, citing \" With the information we had, it wasn't enough to support your claim and resolve the dispute in your favor ''. I had provided ample proof of the defective tile, as well as a direct communication with XXXX ( the merchant charging my card ) saying to file the chargeback. I believe Citi did not due any due diligence or investigation and closed the case. This is against their terms and conditions that protect consumers when using their credit cards."
+}

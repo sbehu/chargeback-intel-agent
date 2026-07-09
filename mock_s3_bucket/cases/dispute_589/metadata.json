@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_589",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37323,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a Citi Bank XXXX XXXX and Credit Card. My flight for my cruise got canceled and the cruise would not issue a refund. The Citi Bank XXXX XXXX card, which I closed refunded the flight tickets. But the Citi Bank credit card is not issuing any refund. \n\nI also purchased a bedroom set from XXXX. The furniture was defective with tears, cracks and a broken dresser drawer. I wanted to return it within the window for returns, but they only offered to have someone look at it. They claim the furniture is not defective and I provided pictures to Citi Bank and they are not protecting me or my money and say I have to take these giants to court. \n\nI don't have time and this is just to much for my XXXX and XXXX. I've been taken advantage of and no one cares!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4243",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7090"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36410,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraudulent purchases were made on my credit card ( Citi ATT Universal Mastercard ) I reported them immediately to Citi and was told I would receive provisional credit for the disputed transactions and they would cancel the old credit card and issue a new card. Two days later transactions began disappearing and reappearing on my account. I was not able to get through to the fraud department or customer support because they were doing a systems upgrade ( received a panicked sounding recorded phone message after waiting on hold ). The next day I looked at my account and saw that the dispute flag was removed from the largest fraudulent charge and the provisional credit was removed from all but one of the disputed transactions. Additionally, two transactions, one fraudulent and one legitimate were duplicated. I called the fraud department again and spent 1 1/2 hours being passed from one poorly trained person to another who could not understand what the problem with the account is. I was told that the fraudulent transactions would take 1-2 billing cycles to investigate which would mean I will have {$2000.00} of fraudulent and duplicate transactions will be removed from my bank account.\n\nAfter being transferred from one poorly trained representative to another for an hour and a half, my call was disconnected and no attempt was made to call me back. These fraudulent transactions are being dealt with by Citi with no care or concern for the severity of the situation. There is no evidence anyone is even working on these disputes. This is shocking to me given that I have had this card for 34 years and have never experienced anything like this with them. Something has clearly changed with Citi 's credit card team."
+}

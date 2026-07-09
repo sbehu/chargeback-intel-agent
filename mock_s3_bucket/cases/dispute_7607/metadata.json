@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7607",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MA",
+    "complaint_zip": "020XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37678,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express dispute resolution process favors merchants over consumers by assuming accuracy of merchant 's information over consumers, resolving disputes in favor of merchants without giving consumers the opportunity to rebuff, and making the appeal process for consumers more onerous than the process provided to merchants."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11996",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MS",
+    "complaint_zip": "39047"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5374,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding American Expresss refusal to refund two charges for rental car insurance that were triggered by fraudulent activity on my account. \nI have an agreement with American Express in which I am automatically charged a {$19.00} fee for rental car insurance whenever I rent a vehicle. Recently, two fraudulent rental car charges from XXXX appeared on my American Express account. I did not authorize these rentals. American Express investigated and refunded the two fraudulent XXXX charges. \nHowever, because the XXXX charges were processed as rental car transactions, American Express automatically billed me two separate {$19.00} rental car insurance fees. These insurance fees were not authorized by me and occurred solely because of the fraudulent XXXX transactions. \nI contacted American Express and requested that the two {$19.00} insurance fees be refunded, since they were directly caused by fraudulent activity that American Express already acknowledged and reversed. Despite this, American Express refused to refund the insurance fees and stated that they were valid charges, even though the underlying transactions were fraudulent. \nI am seeking the CFPBs assistance in having American Express reverse these two insurance charges. Under the Fair Credit Billing Act, consumers are not liable for charges resulting from unauthorized or fraudulent transactions. Because these insurance fees were automatically triggered by fraudulent activity, they should be treated as unauthorized as well. \nI am requesting that American Express refund the two {$19.00} insurance charges and correct my account accordingly."
+}

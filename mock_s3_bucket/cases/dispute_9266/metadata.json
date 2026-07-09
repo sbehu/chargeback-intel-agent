@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9266",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92604"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36770,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX i purchased the bed frame. The websites return policy stated that the return window was XXXX weeks for full refund. On XX/XX/XXXX i requested refund and the vendor tried to deny a full refund. I filed a dispute XX/XX/XXXX and attached documentation showing the listed policy and time frame. It was denied XX/XX/XXXX. I called citi to find out why and the representative stated that she was unsure why it was closed with the listed policy and timeline, and to send in proof of original purchase date and she would re-open the dispute. After submitting the requested purchase date and XXXX additional calls the dispute still remains closed."
+}

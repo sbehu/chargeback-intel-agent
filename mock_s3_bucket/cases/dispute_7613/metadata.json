@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7613",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ND",
+    "complaint_zip": "58201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21166,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was scammed by an online business program called XXXX XXXX XXXX, which misrepresented its services and is operated by unqualified minors. I disputed a {$9900.00} charge related to this program with American Express twice, but both disputes were denied. The second denial cited a non-refundable clause in the agreement. I believe this contract is not valid due to the deceptive nature of the business. I also believe that key evidence I submitted including proof of misrepresentation and partial refund offers may have been overlooked by Amex during their review."
+}

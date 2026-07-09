@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9253",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "800XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20477,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a charge of {$350.00} appeared on my AMEX card from XXXX XXXX XXXXXXXX via XXXX Guest Checkout. I never received any product or confirmation. When I contacted the merchant, they claimed I never placed an order. \n\nBecause the transaction was processed through XXXX Guest Checkout, I am unable to file a dispute directly with XXXX it does not appear in my XXXX account, and I am now locked out entirely. \n\nI initiated a dispute with AMEX, but was told the process could take up to 90 days. I am filing this complaint to ensure AMEX fulfills its obligation under the Fair Credit Billing Act to protect cardholders from fraudulent and unfulfilled transactions. I request a full chargeback for the amount."
+}

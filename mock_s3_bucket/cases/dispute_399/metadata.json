@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_399",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "12180"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4228,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "During a very harsh personal situation - XXXX XXXX, I received a phone call from Citibank asking me if I used the Citibank/Home Depot card lately. I told them that I never used this card since XXXX time frame when I needed it to get new windows for my house. I also mentioned to them that I did not know that I still have credit with them, more exactly {$5000.00} credit that they assigned me. During the summer, I received a few calls and an email + online receipts from somebody from Citibank trying to push me onto recognizing the purchases. I did not recognize those purchases made online since my card was not used to make those purchases. After a provisory credit of 2 months, and they never sent me a letter to announce that the provisional credit had stopped. The Citibank/Home Depot bills started in XXXX. Since then, they are coming regularly with added monthly interest. To me this is a very clear case of cybersecurity theft and a credit cards behavior of getting their money back on the expense of customers like me. I do not understand why should I pay for bills/purchases that I never made nor that somebody authorized by me made those purchases. All the Home Depot purchases that I made this XXXX were purchases made and paid by phone, with my XXXX card. I completed a police report ( on XX/XX/2023 ) and contacted XXXX and XXXX XXXX. I plan to contact XXXX as well, I will also contact the CitiBank/Home Deport card suc as to consider an appeal."
+}

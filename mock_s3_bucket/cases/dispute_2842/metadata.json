@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2842",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "298XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30994,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened an account with American Express in XXXX, my wallet and card were stolen, and many police reports were generated. I immediately closed the card, however they are refusing after 7 years of disputing this, to remove it from my credit report. Stating that still there are XXXX XXXX  in charges. I never had the opportunity to use this card and 7 years ago reported all this as fraud, i do not have the card and all reports were filed with them and XXXX."
+}

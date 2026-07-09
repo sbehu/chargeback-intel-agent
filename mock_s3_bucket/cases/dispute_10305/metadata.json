@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10305",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15457,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased tickets from XXXX, but the reseller canceled my transaction and never refunded my money. I am now living overseas and the company, despite having all my contact information ( email, Portal access, etc ) have not tried to reach out to me and have closed my account. I emailed the President of the company but they haven't provided any status update.They claim that they provided a phone number in their response but there was no phone number provided. I have not been given any further information, and the purchase is still accumulating interest and I am still responsible for the amount. I have provided them with screenshots of the purchase and the cancelation, to no avail."
+}

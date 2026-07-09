@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13208",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93101"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36143,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a long-time American Express cardholder in California disputing approximately 16 months of unauthorized recurring charges from a merchant appearing on my statement as XXXX XXXX XXXX ( also operating as XXXX Options ) at {$130.00} per month, totaling approximately {$2200.00}. \n\nAmerican Express has already ruled in my favor on three charges under the standard dispute process : Case XXXX ( charge dated XXXX XXXX, XXXX  ) : credited Case XXXX : credited Case XXXX ( charge dated XX/XX/XXXX ) : credited XXXX additional charges are currently under review ( XXXX and XXXX ). All five fall within AmEx 's 120-day courtesy window. \n\nAmEx has declined to review eleven earlier charges totaling approximately {$1500.00}, billed between XX/XX/XXXXXXXX  and approximately XX/XX/XXXX, stating they fall outside the 120-day window. \n\nThe facts supporting the three successful credits apply identically to the eleven earlier charges : I sent a written cancellation to the merchant on XX/XX/XXXX. \nThe merchant replied on XX/XX/XXXXXXXX  acknowledging receipt and offering a free extension, which I did not accept. \nOn XX/XX/XXXX, the merchant admitted in writing : \" Your XX/XX/XXXX email was received and we responded the very next day. '' That admission confirms my cancellation was received 16 months before billing stopped. \nThe merchant 's conduct violates the federal Restore Online Shoppers ' Confidence Act ( ROSCA, 15 U.S.C. 8403 ) and the California Automatic Renewal Law ( Cal. Bus. & Prof. Code 17600-17606 ), which require express informed consent before charging. Under Regulation Z ( 12 CFR 1026.12 ), unauthorized use of a credit card is treated separately from billing errors, and American Express has discretion to address it outside standard windows. \n\nAmerican Express has already validated this dispute by crediting three charges on the same facts. The only distinction AmEx has drawn for the eleven earlier charges is the 120-day window, which is an internal policy choice, not a factual distinction about whether the charges were authorized. \n\nI attempted direct resolution with the merchant XXXX XXXX XXXX The merchant offered only a two-month refund conditioned on withdrawing the AmEx chargebacks, which I declined. My XX/XX/XXXXXXXX  deadline passed without further response. \n\nFull email thread with the merchant is attached."
+}

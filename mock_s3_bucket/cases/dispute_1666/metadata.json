@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1666",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MI",
+    "complaint_zip": "488XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19934,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 a charge of {$110.00} appeared on my credit card transaction history. It was from a travel agency in XXXX XXXX, XXXX, and I definitely did not initiate or authorize this purchase. I disputed the charge within 60 days with my credit card company. They issued a temporary credit, but they reversed it later and closed the investigation. \nThe credit card company stated the following : 'If after reviewing the merchant 's documentation you still wish to dispute this charge, please provide a new updated signed letter that specifically addresses the merchant 's response along with the complete details of your dispute. Also provide a credit slip or chargeback approval letter from the merchant, to prove they agree you are due credit for this charge. ' I tried to communicate to them that I do not know the travel agency or the person issued the flight ticket, so I am not able to provide any documentation from the merchant as they requested, and that the charge is fraudulent, but the credit card company is unresponsive."
+}

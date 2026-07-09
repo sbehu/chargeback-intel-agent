@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8294",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95828"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37603,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made an online purchase & after waiting longer than the expected delivery time, I never received my item.. I contacted Macys ; they informed me that my package was indeed lost in shipping & they would resend the item. After speaking with the representative, I awaited my item once again. Several days pass & I still havent received my purchase. I reached out to Macys in disappointment & wanted an update. According to my tracking, it said error on my end so I asked them to just please cancel my order altogether. They were apologetic & stated that the funds will be placed back on my card. I was satisfied with the outcome..\n\nSeveral months later, I receive a notification that I have a balance on my account for an item Ive never received. I reached out directly to Macys, to get clarification on what was going on, to my surprise, they had indeed charged me for a package that I was previously told was lost in shipping. I was very confused at why this is happening months later. I am a XXXX XXXX Customer & I have personal assistance as well as XXXX XXXXXXXX to assist in managing my finances and bills. It took me a while to notice the affect that this has had on my credit report aswell as the financial burden of fees that have accumulated because of this transaction. \n\nI have spoken to Macys several times and I am repeatedly told that this is resolved, but as of today it is still not resolved, I also feel discriminated against having let them know that I am a XXXX XXXX customer and I get help with looking over my statement.They indeed expressed to me that I am not allowed to do so as the person helping me is a third-party and they cant have my account information. According to the ADA, I am entitled to reasonable accommodations and assistance wherever necessary. I would just like to get this resolved. It is very unfair and unethical for me to be charged for something I didnt receive, I also have strict instructions as well as an ADA sign outside of my home to instruct how to deliver my package so there arent any issues with receiving them once they reach my address."
+}

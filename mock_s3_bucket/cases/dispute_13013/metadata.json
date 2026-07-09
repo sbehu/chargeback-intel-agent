@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13013",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90230"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33887,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I noticed an unexpected charge to my Citi Card. The charge was from XXXX XXXX, in the amount of {$140.00}, dated XX/XX/XXXX. Because I was not a current XXXX  customer ( I was previously paying XXXX  approximately $ XXXX for internet services at my mothers XXXX  XXXX XXXX but had canceled services in XX/XX/XXXX ), I disputed the charge through the Citi website . \n\nOn XX/XX/XXXX, I noticed a new charge from XXXX in the amount of {$280.00}, dated XX/XX/XXXX. I called XXXX, and they verified that my previous account was closed, and that there were no new charges on my account since I had canceled. I called Citi, and told the customer service representative that I suspected fraud, as this was now the second charge from XXXX. The Citi representative said she would file a dispute on the charge, and there would be an investigation to determine if there had been fraud. In the meantime, she said Citi would issue a new card so that further unauthorized charges could not be made. \n\nOn XX/XX/XXXX, an update was posted on my account online, indicating that Citi had heard back from XXXX regarding the XX/XX/XXXX charge. The Dispute Documentation was attached, and XXXX stated that the dispute is invalid because the cardholders payment covered a billing period during which time their services were active and without defect. However, page XXXX of the Dispute Documentation indentified the Spectrum account associated with the charge ( Account XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX ). The zip code is mine ( and not a XXXX zip code ). However, that is not my name, address, telephone number, or email. The account does not belong to me. \n\nOn XX/XX/XXXX, a letter was posted to my account online, regarding the XXXX Charge of XX/XX/XXXX. Again, it states that I was responsible for the charge. The dispute documentation was attached, which again identified the owner of the XXXX account as XXXX XXXXXXXX XXXX XXXXXXXX. \n\nBetween XX/XX/XXXX and XX/XX/XXXX, I called Citi TEN times and spoke with customer service representatives and directed their attention to the XXXX Dispute Documentation which indicated that the charges were for a XXXX  account that did not belong to me. I was told repeatedly that this appeared to be fraud, and that the billing disputes department would forward the case to be handled by the security department. I provided all information that was requested of me. Citi repeatedly said I was responsible for the charges because I had not canceled my XXXX account. I implored them repeatedly to read the results of THEIR OWN INVESTIGATION, which indicated I was not the owner of the XXXX  account associated with the charges. On XXXX notable day, XX/XX/XXXX, I was repeatedly transferred back and forth between the billing disputes department and the security department several times without resolution. \n\nOn XX/XX/XXXX, I called and was once again told that my case would be forwarded to the security department. I informed the customer service representative that this would be my last call to Citi regarding this matter, and that if it was not resolved, I would be contacting the Consumer Finance Protection Bureau. I followed up with a fax to Citi, with a summary of my communications with them, notifying them that I would contact the Consumer Finance Protection Bureau if this matter was not resolved. \n\nAs of XX/XX/XXXX, there has been no resolution to the unauthorized charges to my Citi account."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6728",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "431XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39349,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was fraudulently scammed into thinking I was working with XXXX to recover my XXXX  email that has been hijacked and to protect friends and loved ones from getting their identities compromised also. I was made to believe they were purchasing gift cards in a sequential orders to over ride false purchases by hijackers I was told not to tell the banks and credit card companies I was working with XXXX. They had control of my computer gave me account passwords to use and I was told all would be reversed at the end of securing mine and my loved ones identity so it would never happen again. I was terrified and also terminated from my job during this ordeal. I tried as soon as I figured out it was a scam to. Stop transactions and and cancel gift card orders by both credit card company and the merchant with no avail. I have disputed but was told I lost and owed XXXX. Please help. I have a police report and reported to the FTC"
+}

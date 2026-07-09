@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9228",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29745"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26408,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because my credit card issuer, Citi, has failed to properly resolve a clear and documented case of merchant fraud. \n\nOn XX/XX/year>, I was charged {$19000.00} by a seller calling itself XXXX XXXX XXXX. After payment, the merchant never shipped any goods, stopped responding, and was discovered to be using a completely fake identity. \n\nThe merchant provided : A fake business address ( XXXX XXXX XXXX XXXXXXXX XXXX XXXX, NY no such business exists there ) A XXXX  phone number not tied to any legitimate company A fabricated invoice using a non-existent company name A website ( XXXX ) not registered to any legitimate XXXX entity A XXXX page created and operated under false pretenses After taking my payment, the merchant disappeared and provided no tracking number, no shipment, and no resolution. \n\nI immediately contacted Citi to dispute the charge. However, Citi has not issued a credit and has not properly classified this as fraud despite overwhelming evidence. This is a violation of the Fair Credit Billing Act regarding : Goods not received Merchant identity misrepresentation Unauthorized or fraudulent transactions I am requesting the CFPB compel Citi to : 1. Reclassify the dispute as fraud.\n\n2. Issue a full reversal of the charge.\n\n3. Provide a written explanation of corrective action. \n\nI am attaching all evidence, including : Fake invoice Screenshots of communication Proof of cancellation Proof of no shipment Evidence that the merchant identity is fraudulent Thank you for your assistance."
+}

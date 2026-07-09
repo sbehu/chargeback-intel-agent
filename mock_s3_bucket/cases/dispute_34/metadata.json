@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_34",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30060"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38875,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order from XXXX on XX/XX/2023 for XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  for the amount of {$5600.00}. It was subsequently delivered on XX/XX/XXXX, and I reached out to the merchant, XXXX, same day via email. \nMy issue with the order was I received XXXX empty boxes from the merchant. The merchant replied back via email that the weight of the box was XXXX and other email communication attempts to resolve the issue with the merchant XXXX was nonexistent as the merchant did not answer any further emails regarding the issue of my order only arriving with empty boxes. \nI filed a dispute online with my Amex credit card, and the first resolution was that they sided with the merchant and I contacted live chat to receive documents as to why they sided with the merchant. I never received these documents. I reopened the dispute on XX/XX/2023 and submitted the empty boxes as proof of the empty boxes I received from the merchant. It was again closed in favor of the merchant. I reached out to live chat again to receive the documents provided by the merchant and this time asked them to send via mail for a physical copy since I filed police report for the order as the value is pretty considerable. As of filing of this complaint, I still have yet to receive any proof of what the merchant submitted for the bank to side with them."
+}

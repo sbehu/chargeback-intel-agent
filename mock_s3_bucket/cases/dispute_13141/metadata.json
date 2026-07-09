@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13141",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "217XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23049,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im filing this complaint because I feel like Im being held responsible for something that is clearly not my fault.\n\nI used my American Express card to purchase XXXX XXXX XXXX XXXX graphics cards from XXXX, totaling about {$7700.00}. The carrier marked the items as delivered, but I never received them. I checked immediately and the packages were not there, and I never had possession of them at any point. \n\nBecause of how expensive these items were, I filed a police report. I also contacted XXXX, but they refused to refund or replace the items and told me to go through my credit card company. \n\nI had a similar issue with a XXXX monitor that was also marked as delivered but never received. In that case, XXXX reviewed everything and gave me a refund, which makes it even more frustrating that this situation is being handled differently. \n\nWhen I filed a dispute with American Express, I provided all the information I had, including the police report and order details. Despite that, they denied my claim and are relying only on the carrier saying the items were delivered.\n\nI dont understand how I can be expected to pay for items I never received. There was no signature required, no proof the packages were actually handed to me, and nothing showing I ever had them. \n\nIm not trying to get out of a charge or return something I simply never got what I paid for.\n\nI even asked American Express to take another look at this as a goods not received situation and refund the charges from XXXX. It didnt work And what makes it worse is they no as a XXXX  personnel that barely be home that have submitted there orders there aware of why I wasnt there"
+}

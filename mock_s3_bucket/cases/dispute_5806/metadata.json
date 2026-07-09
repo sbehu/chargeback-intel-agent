@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5806",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61115"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49429,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I have a Citi Credit Card. We have had the card for XXXX  years without any issue. Just recently ( XX/XX/year> ) our Citi Credit Card was compromised. There were XXXX purchases at XXXX which totaled {$2900.00} We reported the fraud immediately ( XX/XX/year> ) and had a new card sent to us from Citi. We also filed a police report on XX/XX/year>. \n\nWe have tried to work with Citi customer service and Citi Fraud department ( answered all questions, provided police report ) since XX/XX/year> and as of today XX/XX/year> Citi is refusing to refund the fraud charges. These charges were not executed or approved by my wife and I. The Citi company website states, Citi has a Zero Liability Protection policy. \n\nWe have followed all direction given by Citi and have worked with them for a month and they are now telling us ( as of today XX/XX/year> ) there is nothing they can do and they will not reverse or refund the fraud charges."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4041",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11570"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46048,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was contacted by a company called points payment management in XX/XX/year>. They offer marketing services to timeshare owners who have extra vacation time to advertise this time to corporation. Their scheme is to charge a timeshare owner a XXXX time fee for this marketing and advertising and guarantee that they will pay up to {$1600.00} per week that is booked by a corporation who wants to use the various locations and times available that timeshare owners have access to. I was charged {$1700.00} on XX/XX/year>. The agreement was that the company would market and advertise my time to these corporations and that if there were no successful offers redeemed, they would continue to market and advertise on my behalf, and that they would eat the cost. None of the offers sent to me were able to be redeemed and in XX/XX/year> they stopped communicating entirely. They refuse to return calls and emails. I could not have known that it would turn into this. I have disputed the charge on the credit card used, issued by Barclays. They did nothing to assist, simply stating that they didnt not receive notification within XXXX statement cycles. There was no reason, within XXXX cycles, for me to dispute the charge, as the company was actively communicating and sending offers. Barclays did nothing to assist. I have filed complaints with the XXXX, FTC, and NYS Attorney General regarding the company XXXX XXXX XXXX. Please assist."
+}

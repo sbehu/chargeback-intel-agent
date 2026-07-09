@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9259",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "086XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43239,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An unidentified charge appeared on my American Express card. It started appearing in XXXX. It is not clear who it is from or what it is for. Ive called repeatedly and they keep saying they will dispute it then I get a letter in the mail saying theyre recharging me. It seems one tries to push a charge through for something I have not received. I dont even know what it is for because the number provided ( XXXX ) XXXX says can not be completed as dialed and they seem to have sent Amex a fake receipt because CC the receipt does not state what the item is and includes a fake website that does not load or exist ( XXXX ). XXXX shows the phone number area code is somewhere in XXXX, the websites domain is in XXXX and the receipt is billed in XXXX XXXX. \n\nI have not received anything in exchange do the billed amount of XXXX KR / {$190.00}. \n\nI have checked emails thoroughly, physical mail and made every effort possible to get more information from the merchant or AMEX. \n\nAdditionally all my purchases are done online. I have not left my home for the past year and a half."
+}

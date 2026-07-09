@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5016",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91750"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36475,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is the second complaint against Citibank, they have sided against us in a credit card dispute we provided more than enough CLEAR information and receipts to prove that we never received a large item we paid for. \n\nwe opened a dispute with them and they gave the merchant 45 days to respond, the merchant didn't respond but Citibank decided to rule against us in the claim according to them we didn't sign the paperwork properly ( we did ) after filing with CFPB the first time ( XXXX ) Citibank then opened the claim again, and gave the merchant ANOTHER 45 days to respond to them all the while Citibank is holding {$9000.00} hostage on my credit card and it is heavily impacting my families financial situation, what Citibank is doing is completely unjust ad our next step will be taking legal action against them"
+}

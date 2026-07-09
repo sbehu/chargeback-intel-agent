@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1462",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33437"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15929,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> purchased a gold bracelet from The XXXX XXXX in XXXX XXXX with my American Express XXXX card. The bracelet broke apart and was damaged beyond repair after wearing it XXXX times between XX/XX/XXXX and XXXX. It was purchased for {$900.00}. On XXXX, XXXX  I wrote via email to XXXX XXXX  XXXX, XXXX  of Sales and marketing to request a complete refund. I provided several pictures and described the damage in detail. The quality of the bracelet was very poor and it was not \" free from material defects '' but rather was of inferior quality. \nI got no response from the merchant. \nOn XX/XX/year> I opened a dispute with American Express to dispute the {$900.00} charge. The charge was suspended and I was told the vendor had 90 days to respond. \nThe merchant responded to AmEX noting the invoice stated \" all sales are final ''. I then reopened the dispute on XX/XX/year>. At that time I sent a detailed email stating my complaint and my understanding of XXXX and Italian law ( \" Warranty Law in Supply Contracts in XXXX '' and XXXX ( XXXX Consumer XXXX XXXX XXXX XXXX which specify that all products sold in the XXXX have XXXX implicit XXXX year warranty. I also sent XXXX pictures of the product damage. \n\nOnce again, the merchant responded the same about the \" final sale '' on the invoice. I immediately reopened the dispute because I think the merchants claim violates both Italian and XXXX XXXX and I feel that AmEx has a responsibility to back my dispute. Am Ex is currently waiting for further documentation from me."
+}

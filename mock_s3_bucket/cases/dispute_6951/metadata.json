@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6951",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77005"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20489,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Sir/Madam, I am writing to submit a further complaint regarding Barclays Bank , following Complaint ID XXXX, which I filed on XX/XX/year>. \n\nI recently received a response from XXXX at Barclays stating that the investigation may take up to two billing cycles, not exceeding 90 days. However, I was previously told by Barclays that the investigation would take 710 business days. It has now been a month, and I find it unreasonable that verifying proof of a deposited convenience check should take so long. \n\nAdditionally, I contacted Barclays in XXXX regarding a convenience check I had never received or deposited. At that time, a Barclays representative informed me that the check was fraudulent and that the bank would notify XXXX  of the incident. Since then, I have not received any meaningful updates or resolution. \n\nI am not satisfied with how Barclays has handled this issue. It appears the bank is not acting in the best interest of consumers, nor is it demonstrating a commitment to resolving legitimate concerns in a timely manner."
+}

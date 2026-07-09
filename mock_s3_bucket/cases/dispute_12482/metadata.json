@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12482",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48198"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8732,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have an open claim with Citibank for a Home Depot Consumer Credit Card. I noticed a charge on my credit card statement for {$1500.00} dated XX/XX/XXXX. I immediately called Citibank customer service and they promptly opened a claim to investigate. The latest communication I have from them is a letter dated XX/XX/XXXX assuring me that the matter was still under investigation. I have not received any communication since. On XX/XX/XXXX I noticed a charge in my primary bank account for {$54.00} from \" Home Depot. '' This charge was a \" check '' that I did not authorize or sign. When I checked my account with Citibank ( which they have not allowed me to close or restrict during the investigation ) it was noted as a \" Autopay Payment. '' I do not have an autopay plan set up, and I did not authorize an automatic payment. When I called to request additional information about what was going on, I was told that the claim was rejected and then the call was cut off. I have never been contacted about any investigation or provided with any information or documentation after making multiple phone calls and sending a physical letter to Citibank Resolve in XX/XX/XXXX requesting additional information."
+}

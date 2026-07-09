@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_997",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33063"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13068,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A payoff payment was made to my Best Buy Account as of XX/XX/2023. Best Buy is claiming this payment was returned. I have supplied Checking Statements from XXXX - XX/XX/2023, which shows the payment was withdrawn from my account and never returned. Best Buy is stating the payment was returned in XXXX, yet my checking Statement for XXXX does not reflect this. I have requested documentation from Best Buy that would support that the payment was somehow returned or not made, yet they have not been able to furnish any documentation. They have harassed me, calling me every day, even on weekends to make a payment that I have already made. Which I understand they are not permitted to do. Yet they do not want to take the time to further investigate the mistake on their end. I do not owe the balance shown on the account as it has been paid since XXXX. I need my account updated to reflect a zero balance and my credit report updated accordingly. As they have sent inaccurate and misleading information to the credit bureau"
+}

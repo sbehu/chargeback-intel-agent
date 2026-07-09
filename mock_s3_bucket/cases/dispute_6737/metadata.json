@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6737",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78413"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10598,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'I am writing to dispute the following charges on my CITI Credit Card Accounts where I have become a victim of identity theft when someone made a purchase without my authorization, I have not made any purchases and have no knowledge of them, I strongly believe the unauthorized transaction are the result of identity theft. An attachment fromXX/XX/XXXXshowing a new address for me is also fraudulent, I do not have or lived in Murfreesboro, TN  XX/XX/XXXX, thats when I became aware of the fraudulent charges. I then started the communications with CITI, XX/XX/XXXXabout the unauthorized fraudulent charge, I also included statements, credit score negative points due to inaccurate charges. After several attempts to clear this matter, it has become apparent that I am being ignored by CITI. I am not sure how to proceed to try and get the right help to clear this matter. I am hoping I have reached the correct CITI group to clear this matter.\\n\\nAccount Opened: XX/XX/XXXXcredit card number:XX/XX/XXXXn1.\\tCharge #1 of XX/XX/XXXX Charge amount was disputed and CITI closed account and mailed a 2nd different account.\\nNew CITI credit card replacement: XX/XX/XXXXn XX/XX/XXXXtCharge #2 interest charge and previously monthly payment total: XX/XX/XXXX dollars. Charge amount was disputed and CITI closed account and mailed a 3rd  different account.\\nNew CITI credit card replacemenXX/XX/XXXX\\tCharge #3 interest charge including previously monthly payment total XX/XX/XXXX\\nI have made three (3) phone call attempts to phone numberXX/XX/XXXX between March 4, 2025 thrXX/XX/XXXX to CITI to resolve the unauthorized charges with CITI to no avail. In return CITI has closed the original credit card with the credit card numbers as listed above but has kept transferring the unauthorized charges of the original credit card that was opened on XX/XX/XXXXo the new credit card accounts. CITI needs to remove all charges and credit my account showing a zero balance, I did not make any purchases whatsoever and I should not be responsible for any payments. CITI has turned in a late payment exceeding 30 days to the credit bureau and it has cost me a negative ofXX/XX/XXXX points. I have lost all faith in communicating with CITI by telephone to resolve this issue that is extremely frustrating. I need help to clear this matter.\\n\\nI am requesting that you immediately remove these charges from my account and credit my account for the total amount ofXX/XX/XXXXdollars. I also request that you investigate these unauthorized transaction and take steps to prevent future fraudulent charges to my account.\\n\\nI have attached copies of my credit card statement and other documents that support my claim.\\n\\nPlease send me written confirmation that you have removed the fraudulent charges and credited my account, and also that you have investigated the matter.\\n\\nThank you for your prompt attention to this matter.'"
+}

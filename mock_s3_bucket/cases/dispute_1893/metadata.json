@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1893",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78681"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42518,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 there were 3 separate transaction totatling to approximately {$1.00} that were fraudulent. I had never received my Best Buy card and yet someone was making transactions without my authorization. I promptly reported this to Citibank yet my claim was denied. i asked for additional documentation and a way to appeal it yet I was not given that option."
+}

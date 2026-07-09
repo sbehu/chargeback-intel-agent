@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3110",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77459"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39880,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was billed twice at a XXXX XXXX. One transaction was correct, and one transaction is incorrect. The hotel has no record of the incorrect transaction. I tried to initiate a dispute with the credit card company any they refused to honor the process."
+}

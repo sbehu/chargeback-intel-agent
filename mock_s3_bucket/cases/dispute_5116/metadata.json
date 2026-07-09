@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5116",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "453XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24234,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged for 3 separate purchases each one I disputed monthly explaining I never requested these charges. I even asked for them to be banned so I wouldnt get charged they keep happening I am receiving no protection from fraudulent charges I cant even get them to give me new credit card either even though they accepted my last two disputes about it they havent even credited me back the fraudulent money I was charged I am over {$50.00} loss now going on over {$70.00} from another recent charge I still have to dispute again due to their inaction!"
+}

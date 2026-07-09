@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2433",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "840XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12762,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My father had significant fraud on his Barclays credit card. There have been significant gift card purchases. My father never purchased gift cards, and I am surprised that the Barclays fraud group never had any fraud flags to the aberrant patterns that were present. My Father passed away on XX/XX/2024. Barclay card refused to get involved because I was not the primary on the account. I provided a POA, but that was refused because it only had XXXX witness. I submitted all of the fraud information to the office of the XXXX on XX/XX/2024. I didn't get any response from the office of the XXXX. Additional Barclay card does not return calls from the XXXX detective that has been working the case. \n\nI have never seen a credit card company refuse to help a senior and hide behind internal policies that are designed to not take accountability."
+}

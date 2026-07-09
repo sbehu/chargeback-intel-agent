@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13334",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "33147"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41623,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On my credit card, I saw a charge I did not make. I reported it to my credit card company, XXXXCiti. The charge is XXXX  XXXX XXXX XXXX texas for XXXX, date XX/XX/year>. The company XXXX  citi responded and said they took the charge off, but then they put it back on because we can't tell if there is a billing error. And there is inestigation is complete. i will see the charge again with interest."
+}

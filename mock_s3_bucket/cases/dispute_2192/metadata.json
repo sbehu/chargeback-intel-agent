@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2192",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NY",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37216,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a call on XX/XX/year> stating that I needed to call back the Citibank Loss protection and when I called them they said there was a purchase that was made and asked if I authorized it they gave me the amount I said, no I did not authorize this purchase and from then on, I was on the phone with this imposter For about an hour giving him all my information and my Social Security number today on XX/XX/XXXX I called city bank credit card. I called the number on the back of my card that was different from the number I had previously called and told them of the incident they said I did have two charges on my card, one in the amount of {$920.00} and the other {$540.00} both made on XX/XX/year> I told Citibank that I did not authorize these charges and I asked who authorized these charges and they said it was a company called XXXX XXXX  so they flagged my account for identity theft and canceled my credit card"
+}

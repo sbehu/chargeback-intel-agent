@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2606",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11234"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49726,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase on my Citibank credit card XX/XX/XXXX regarding an on going service issue I had with the retailer Sears since XXXX of XXXX. The total amount charged in XXXX was {$410.00} and was to cover the cost of parts and service for an in home repair to be made by Sears. It has now been 5 months since my purchase and 7 months since my initial agreement with Sears. I have reached out to sears numerous times to schedule appointments and they just keep cancelling and rescheduling. No one ever shows up. They are taking full advantage of the elderly and it is wrong. I finally filed a dispute with Citibank to not pay this charge as the part has still not been installed and there is no way to return the part. Citibank originally said they could not continue with my dispute because sears provided proof that the part was installed. I responded saying the only proof they showed was that the part was delivered to my house, no proof of install and no proof of a technician coming to my home. Citibank is now saying it is XXXX terms and conditions to not reverse the charge because the merchant is choosing not to return the money. Citibank then gave me a number for a different department at sears and said this is how you can contact them for return. Ive reached out to sears again and they want their part returned but will not refund the money. So I asked Citibank to refund my card should I return the part and sears not refund the money and Citibank said this dispute is closed and there is nothing they can do because of the terms and conditions XXXX has in place."
+}

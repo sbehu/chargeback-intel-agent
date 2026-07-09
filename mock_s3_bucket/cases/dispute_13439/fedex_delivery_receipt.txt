@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-39622819-US
+Shipment Date:   2026-03-09T00:00:00Z
+Delivery Date:   2026-04-09T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     3242 OAK AVE, TX, 77083
+============================================================

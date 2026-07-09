@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-18885377-US
+Shipment Date:   2026-03-02T00:00:00Z
+Delivery Date:   2026-03-19T00:00:00Z
+Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
+Destination:     1643 HERITAGE CT, PA, 15101
+============================================================

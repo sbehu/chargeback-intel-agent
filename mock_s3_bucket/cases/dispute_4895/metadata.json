@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4895",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "54952"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22736,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a digital subscription to the XXXX XXXX XXXX. \nFor the last few years it has been billed directly to my American Express credit card. And I continue to be billed by American Express for this digital subscription In XXXXXXXX XXXX XXXXXXXX, I started submitting payments to XXXX for the XXXX XXXX XXXX. I do not recall the circumstances of this. I suspect it occurred when automatic credit card billing was interrupted by a credit card change. Probably necessitated by a lost credit card. I just recently became aware that I was paying twice for the same digital subscription. I have canceled my subscription through XXXX, effective XX/XX/XXXX. \n\nSo I have submitted XXXX payments to the XXXX XXXX XXXX every month, 1 through XXXX, and 1 through American Express, every month since XXXXXXXX XXXX XXXXXXXX. \n\nWhen I became aware of this double billing, for which I bear some responsibility, I contacted the XXXX XXXX XXXX, XXXX and American Express. I explained the situation to all 3 parties, in detail. Their chatbots were of no help. Their human representatives were not helpful. I felt that I should receive at least a partial refund. I have over paid XXXX dollars a month for 30 months. At least XXXX dollars. Twice the usual amount."
+}

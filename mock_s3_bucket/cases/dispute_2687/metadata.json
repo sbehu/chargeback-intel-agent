@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2687",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89081"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10234,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase over phone from a telemarketer which claimed to be working for a travel agency. They told me they would sell me a travel package for multiple vacations for {$670.00}. I made the purchase and requested a receipt for my transaction. They never provided me with any proof of purchase and later contacted me requesting more money. \nI reached out to my bank to block my credit card number provided and submit a dispute in late XX/XX/XXXX. The charge was removed from my account at that time and later put back on the account in XX/XX/XXXX. \nI informed my bank, Barclays that the merchant was not honoring our verbal agreement nor did they provide me with any goods or services. They told me they would submit a dispute on the transaction again, and then began to refer me back and forth between their fraud dept and dispute dept. \nI was bounced back and forth between different departments regarding this transaction over the past couple of months and today was told that I will now need to submit a written and signed letter via postage to the disputes department, in order to see if they can now possibly re open my dispute on the same transaction."
+}

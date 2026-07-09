@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3526",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92880"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17049,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I made a purchase on XXXX using the credit card ending by XXXX with the amount of XXXX of XXXX XXXX XXXX XXXX The XXXX  only brought XXXX bottle of XXXX  which was equivalent to XXXX after the promotion. I did not receive the second bottle. The XXXX  asked me to reach out to XXXX for a refund, I did. XXXX denied the request. So I file a dispute with the credit card company, and they close the case and reversed the temporary credit. I had to lose XXXX dollars for nothing. The credit card company did not send me a notice in the mail regarding the dispute resolve until today I went to their dispute center and found out it was not in the favor of me the customer."
+}

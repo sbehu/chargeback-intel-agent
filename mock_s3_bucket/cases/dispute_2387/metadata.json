@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2387",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60660"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5626,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This involves about my Citi Thank You/ CitiBank Credit Card . I have been having issues with unauthorized transaction as alerted by them almost since XX/XX/XXXX. I had spoken to their Customer Service Support and Fraud Department Rep who told me not to worry as these transactions would be rectified being a long time customer. Sometime XXXX or XXXX XXXX I was unable to login into my CitiCard online account. I called Customer Service Support who informed that my account was blocked due to possible fraudulent transactions. They went over with me some transactions that I was not familiar and did not authorize. I was told by the rep not to worry as those charges will be reversed. Moreover- sometime XX/XX/XXXX while I was on vacation, I received a text alert from Citicard to verify certain purchases and transactions ( click 1 for yes or 9 for no ). I answered the no option - indicating that I did not authorize. I was alerted to call Citicard which I did but they had issues verifying my identity. So they said that they will mail me a letter for next steps. When I got home from vacation- I called them as I havent received this mail- I believe on XX/XX/XXXX. They told me that they mailed it. When they verified my personal info- it was noted that they added an unauthorized user without my permission and different address on my file for which they claimed that they corrected. Citi Credit Card said that they will send me a new Card. They went through some transactions that I was not aware and did not make. They said not to worry as it will be reversed. Again- I received 2 new cards on XX/XX/XXXX ( they should have only sent me one ). The other card bears the name of the someone That i don't know. They told me that they had a system error and disregard the cards and that they will send me a new one. I asked them about any updates for their investigation on disputed transactions. They said that investigation is ongoing. I received a new card on XX/XX/XXXX. On XXXX I received another text alert from them for possible fraudulent transactions. I called them and spoke to the Fraud dept- they went through some transactions with me that I did make. I followed up again the result of their investigation regarding disputed/ fraudulent transactions. They said that they don't send a formal report for that and that they halted the investigation as they can't get hold of me. I told the rep that I have not received a call from CitiCard pertaining to follow up investigation of fraudulent transactions. The rep told me that they will resume the investigation and that they will send me a new card. Citicard sent me 2 new cards again on XX/XX/XXXX with another user who I don't know. I called and reported it to Citicard for which the rep apologized. I requested to process the permanent closure of the credit card account as I haven't used it for almost a year. XXXX  XXXX XXXX XXXX XXXX sent me an email alert of a deliquent payment on XX/XX/XXXX with Citicard for {$11000.00}. I am curently working with the XXXX XXXX XXXX XXXX Restoration Specialist who advised to report my ongoing issues with CitiCredit Card to the Customer  Financial Protection Bureau."
+}

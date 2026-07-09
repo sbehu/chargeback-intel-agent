@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7013",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98006"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22729,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB team, In late XX/XX/XXXX, I mistakenly selected a {$20000.00} balance transfer option while opening a new Hawaiian Airlines credit card with Barclays. I attempted to cancel the transfer, but was informed that it had already been processed by XXXX and forwarded to Barclays. As such, I completed a full repayment of {$20000.00} to Barclays on XX/XX/XXXX, effectively closing the matter on my end. \n\nHowever, I recently reviewed my XX/XX/XXXX XXXX credit card statement and discovered a reversal of the {$20000.00} balance transfer. Upon contacting XXXX customer service, I was informed that this reversal was requested by Barclays. \n\nGiven that I already paid the full {$20000.00} amount to Barclays on XX/XX/XXXX, this reversal appears to be a duplicate charge resulting from a potential system error between XXXX and Barclays. I am requesting immediate investigation and correction of this matter. \n\nFor your reference, I previously submitted a complaint to the Consumer Financial Protection Bureau ( CFPB ) regarding this issue on XX/XX/XXXX. The complaint number is XXXX. \n\nPlease review this matter urgently and confirm that appropriate corrective actions will be taken to prevent any financial harm or credit impact. \n\nSincerely, XXXX"
+}

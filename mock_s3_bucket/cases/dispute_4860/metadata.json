@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4860",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85260"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5473,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On my XX/XX/XXXX sears Mastercard a charge for appered dated XX/XX/XXXX. XXXX for {$230.00}. As soon as I received the XXXX statement I filed a dispute stating I was not responsible for this charge. The charge was then credited to my account on XX/XX/XXXX, pending review of the dispute. \n\nHowever, the charge for {$230.00} reappeared on my XX/XX/XXXX statement with the date of XX/XX/XXXX. I contacted sears Mastercard customer service to inquire as to why this reappeared and was informed they sometimes put the charge back on pending final review. I was assured when the review was completed, this charge would be removed. \n\nOn XX/XX/XXXX I received a notification from sears Mastercard that this dispute dated XX/XX/XXXX had been resolved and a credit had been issued on XX/XX/XXXX. There was no mention of the reinstated charge of {$230.00} which appeared on my XXXX statement, dated XX/XX/XXXX I then contacted sears Mastercard and was told that I was correct and the second charge should be removed. However, I was told the dispute department had closed the dispute, because it had been resolved in my favor, and they could not look at or reopen the dispute. They also said I couldn't call the dispute department to discuss and said the only way to resolve was to write a letter to the dispute department and request reopening of the original dispute. That letter was sent in XXXX of XXXX. \n\nTo date, I have received no response to that letter. I have called 5 times requesting an update to the status on this dispute. When contacting customer service everyone agrees that the reinstated charge should be removed, however, no one can contact the dispute department. I was told by XXXX supervisor in XXXX, after he reviewed all the notes, that he would send a message and this would be resolved in XXXX business days. After no credit was issued, I called back and requested a supervisor again who informed me she basically could not help me. \n\nThis initially occurred in XXXX of XXXX. Mastercard agreed this dispute was valid in XXXX of XXXX. It is now almost XXXX and I have not received ANY communication from sears Mastercard on this dispute and have not received the removal of the re-applied charges on my credit card.\n\nattached letter from Mastercard validating dispute but only removing the XXXX charge, not the charge they reinstated in XXXX. \n\nmy letter to sears Mastercard dispute requesting re-opening of this dispute per the instructions of the customer service supervisor from Mastercard."
+}

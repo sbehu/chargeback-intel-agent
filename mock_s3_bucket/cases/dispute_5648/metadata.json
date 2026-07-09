@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5648",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "AL",
+    "complaint_zip": "360XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37817,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered an item of XXXX and had it delivered to my home. I wasnt there for the delivery and asked XXXX where my order was. I got the runaround from XXXX for over a month, then filed a chargeback with AMEX who had also filed in favor of XXXX. AMEX has also given me the runaround regarding this purchase. If you look at my previous complaint on CFPB, then you will see AMEXs excuse was that they couldnt view the documents listed on their system. I will upload them again as PDFs but again AMEX is making excuses and refusing to do anything regarding the purchase. They keep referring me to XXXX about the purchase."
+}

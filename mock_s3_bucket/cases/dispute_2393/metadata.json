@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2393",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "18045"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29198,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There were fraudulent charges on my credit card on XX/XX/XXXX and on XX/XX/XXXX. On XX/XX/XXXX I was working XXXX XXXX XXXX XXXX XXXX at XXXX XXXX XXXX XXXX. On XX/XX/XXXX I was in XXXX Nj XXXX visiting my Parents and had a XXXX  appointment at XXXX XXXX  ( about 1 hour 45 min away from XXXX ). \n\nI used to live at XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX PA XXXX up until late XX/XX/XXXX. I moved to XXXX XXXX XXXX XXXX PA XXXX and have been living in this address since early XX/XX/XXXX. Since then I have not visited XXXX or XXXX as I have been working in XXXX NJ during this time period. \n\nI believe the company sent a new card to my old address who used the credit card as the charges were made in XXXX area XXXX Since early XXXX I have not been in that area and those charges were not made by myself. \n\nI had received an email around XXXXXXXX XXXX  from CITI about suspicious activity on XX/XX/XXXX. It was about XXXXXXXX XXXX  on XX/XX/XXXX when I got home ( XXXX address ) from my dentist appointment 1 hour 40 min away when I noticed the email and called the fraud department at Citi. I explained that the charges could not have been made by me that Day as I was 1h and 40 min away and the previous day XX/XX/XXXX I was working from XXXX XXXX XXXX XXXX \n\nI called CITI fraud department multiple times and emailed them with proof which is attached to this email. My work schedule shows I was working XXXX XXXX XXXX XXXX XXXX in XXXX XXXX XXXXXXXX XXXX during the time charges made on XX/XX/XXXX. I have a XXXX appointment email confirmation receipt of time and place showing location in NJ about 1 hour 40 min away from XXXX on XX/XX/XXXX. \n\nI called the fraud department on XX/XX/XXXX, XX/XX/XXXX, XXXX times on XX/XX/XXXX. \nI don't have the name of person I spoke to on XX/XX/XXXX, but I spoke to XXXX on XX/XX/XXXX, XXXX the first attempt and XXXX XXXX not sure spelling ) on second attempt. I also emailed XXXX on XX/XX/XXXX with all the info including my work schedule and dentist appointment without any help. They all assured my that it would be taken care of on the phone and nothing else further needs to be done. I just received an email regarding upcoming bill of {$470.00}"
+}

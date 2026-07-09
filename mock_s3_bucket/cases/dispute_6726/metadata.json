@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6726",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16601,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is for American Express chargeback dispute XXXX. They are being XXXX to me because I am XXXX and they are not believing my evidence and are constantly postponing this chargeback. They are now reaching out to the merchant a second or third time. Despite the fact that the merchant previously lied to him and gave them the whole wrong tracking number. American Express seems to side with the lying merchant because they are XXXX to XXXX customers like me."
+}

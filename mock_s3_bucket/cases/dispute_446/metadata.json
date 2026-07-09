@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_446",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "979XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15249,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchased TV XXXX XXXX XXXX, new BestBuy card CityBank Visa. \nPaid balance, on time agreed, Received Card in mail, put in office. Never used again. \nCitiBank notified by Email of outstanding dept or {$1000.00} Only person possible to have my card number is the BestBuy XXXX in XXXX, XXXX  store. \nHave had Fraud card claims from same BestBuy against my XXXXXXXX XXXX debit card, in XXXX, year prior. \nI believe BestBuy XXXXXXXX XXXX, is using personal information to take money from customers. \nI believe the manager is the most likely suspect, may bether employee stealing information.\n\nThis is my best guess. \n\nVery Sincerely, XXXX"
+}

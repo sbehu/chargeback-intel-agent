@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2693",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21207"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40905,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Someone stole my credit information and proceeded to charge up my card to over the sum of XXXX XXXX And also used my account to set up pay it later is a monthly billing for products that you dont want to pay in total upfront. So she created several reoccurring charges on my account."
+}

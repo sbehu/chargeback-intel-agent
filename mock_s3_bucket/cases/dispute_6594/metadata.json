@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6594",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33880"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rcvd an email from Best Buy back in XX/XX/XXXX about a {$37.00} balance on my card I called immediately and told Best Buy that I had not made any purchases on my card in a year. I asked what store the purchase was made in since I reside in XXXX XXXX, XXXX  and have only used the XXXXXXXX XXXX  store. The person told me the purchase was done in XXXX  I told this individual I have never been to this state. This individual told me they had to transfer me to fraud, I was transf. to another dept other than fraud. after making my XXXX call to Best Buy since XXXX the balance due as of today is {$190.00} since they are applying late fees to a purchase I did not make. Sometime between my first and XXXX call I told the individual that my card from best buy did not have the last XXXX numbers that I had and to shut the card down. Then I rcve another email from Best Buy with this balance today. The XXXX call on XX/XX/XXXX I was able to obtain a case # XXXX from there fraud dept. they told me they had to reopen the charge but that I would continue to accrue late fees. This has affected my XXXX  Account which I notified this morning. Best Buy told me this could take up to 90 days for them to make the decision if this is my charge, all this after I told them I have never been to this state and/or made any purchases @ Best Buy since buying my XXXX XXXX last summer."
+}

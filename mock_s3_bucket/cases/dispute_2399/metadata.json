@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2399",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93036"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21966,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a product ( a lap top computer ) from Best Buy but somehow the company also enrolled me in some kind of subscription service of {$190.00}. I called the company to have this charge reverse. After 15 minutes with customer service trying to \" cancel '' the subscription, the customer service agent said their system have a problem and they are unable to cancel the charge at that moment and give me a reference #. \n\nI think this is unacceptable and believe this is just a run around by the company to not reverse the charge. I do not wish to string this out any longer and simply want the charge reverse."
+}

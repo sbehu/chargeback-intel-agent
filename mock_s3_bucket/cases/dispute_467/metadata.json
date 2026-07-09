@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_467",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "94520"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37952,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted a dispute with CITI for a credit card ending in XXXX back in XX/XX/2023. All the disputes have resolved except for a few. The disputes that have not yet been resolved are : {$560.00} XXXX on XX/XX/2023 and XXXX XXXX on XX/XX/2023. \n\nThey have provided temporary security credit but as of XX/XX/XXXX, they still have the investigation open. They let me know on XX/XX/XXXX, they have no been able to reach the merchant XXXX What is frustrating is that all other transactions from this merchant have been disputed and investigation closed as fraud except for the above XXXX. As I told CITI multiple times, through their Executive Response team, that I have not used XXXX and I have not travelled to XXXX, where this charge was made. I can prove this easily via my XXXX XXXX card, a federal program that tracks where travellers go and provides them with easy access to other countries. I have not left country ( as proven by them ) and yet these charges are still under investigation, when its clearly fraud. I was making charges in California same day as these XXXX charges in another country were made by a fraudster. Clearly, Fraud! \n\nIts been over 90 days since CITI has been working on this, well past the FEDERAL LAW WHICH STATES : \" Within 90 days of getting your complaint, the issuer must resolve the dispute. '' ( this is from : https : //consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges # exercise ). \n\nThey are in total violation of the federal consumer law that protects me from credit card fraud. I require a permanent refund/credit for the amounts above from XXXX and the investigation to be closed. I am totally unsatisfied by how slow this process has been, despite escalations and multiple complaints."
+}

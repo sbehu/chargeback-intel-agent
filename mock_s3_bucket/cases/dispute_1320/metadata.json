@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1320",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8610"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49808,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am extremely dissatisfied and disgusted at the way Macys company has handled my account. In XXXX I was victim of credit card fraud, where my Macy 's card was used to purchase multiple items from a XXXX store, and and other locations which totaled to be around almost {$400.00}. When I realized the fraud on my account, because for some reason it wasn't flagged as suspicious activity, as any other credit card company would have done. I was then instructed by Macys team it would take one to two billing cycles for the investigation to be complete and I should not make any payments to the account to avoid being overcharged any interest due to the fraudulent activity. Which I was concerned about, because I did not want to receive any late fees nor have that affect my credit rating. I was told I should not worry, for they will remove any late charges I receive. Which you can see took place on my account. Now today, when I tried to confirm that all fraudulent activity was removed from account, so that I could move forward. I notice that my credit limit decreased by {$600.00}, which is insane. Because now it looks as if, I am at the max limit of credit card. When I called and spoke with numerous people after being bounced around back and forth from rep to rep. Because I was told by one person, they didn't even see I reported a fraud case, which I knew was false information. Because I called Macy 's customer service about 10 times between XXXX and now. After being on hold for nearly 45mins. I was connected to supervisor XXXX id # XXXX Who told me he did see I reported the fraud, but its still under investigation and now its going to take another month for it to be completed. Which is not what I was told by the rep who I initially reported the fraud to. Then to add insult to injury, He told me my credit limit was decreased because of the nonpayment for over 30 days. Which is outrageous because I was instructed by Macys company not to make any additional payments until the investigation was complete. Now I'm being stuck with a negative account status and a maxed out credit card for following their company 's instruction. My card was setup on automatic payments, I have never been late on any payments since I had this card up until I became a fraud victim. So to reduce my card limit which affected my credit rate tremendously is horrible on your behalf. I Do not even wan na be a member to Macys company any longer, I am going to voice my experience on every consumer an credit card bureau outlet I can find. Because this is not fair to any customer, and I would hate to see someone else be subjected to the treatment I received. You would think as victim to credit card fraud, the company I trusted with my well being would be there to help you thru this horrific process. However, they are only adding to the distress and suffering of the situation."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8378",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70448"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43856,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged {$310.00} by XXXX XXXX XXXX XXXX. This company misrepresented its services by claiming this charge was a nonrefundable state filing fee when, in fact, my order with them was canceled and no filing was ever made with the Louisiana XXXX of XXXX. I later confirmed this in my account portal, which shows Canceled and Not Incorporated. \n\nOn XX/XX/year>, I disputed this charge with Citi. Citi opened Case # XXXX for the {$310.00} transaction and Case # XXXX for a separate {$190.00} charge by the same merchant on XX/XX/year>. Citi correctly issued me a permanent credit for the {$190.00} charge, recognizing the merchants misrepresentation. However, Citi reversed my conditional credit for the {$310.00} charge and denied the dispute. \n\nCitis denial letter, dated XX/XX/year>, states that they requested information from me on XX/XX/year> with a response deadline of XX/XX/year>. This explanation is factually impossible. The disputed transaction did not occur until XX/XX/year>, and my dispute was not filed until XX/XX/year>. It is not possible for Citi to have requested information months before the charge even existed. This indicates that Citi closed my case improperly and without a fair investigation. \n\nIn total, I received {$270.00} in partial refunds from the merchant and {$190.00} from Citis permanent credit. The remaining {$310.00} has not been refunded, despite the fact that the merchant never performed the service or remitted any payment to the state. \n\nI have been a Citi customer in good standing for years, always paying my balance in full and never making late payments. I expect Citi to handle disputes fairly under the Fair Credit Billing Act. In this case, Citi failed to investigate properly, relied on impossible dates, and left me responsible for a fraudulent charge. \n\nI am requesting that Citi reinstate the {$310.00} credit immediately."
+}

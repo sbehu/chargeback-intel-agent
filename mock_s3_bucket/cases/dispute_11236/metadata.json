@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11236",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "403XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20357,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a jump starter off of XXXX  XXXX  and it took over 2 weeks to shows delivered and i contacted XXXX  XXXX  multiple times for item showing delivered when it was missing and they agreed to a refund because i never received it and now their lying to the credit card company saying 'Goods delivered ' 'item not returned ' 'seller didnt reach out for refund ' 'customer didnt follow return/refund policy ' all of this is a lie from XXXX XXXX i did all the right stuff they told me to they even told me that the item was lost in transit even provided me a refund ticket"
+}

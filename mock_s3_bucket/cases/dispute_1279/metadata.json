@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1279",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "365XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34836,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/2023 i had paid my Home Depot/Citi store credit card off which had a {$520.00} balance. I subsequently recieved a statement reflecting the XXXX balance along with a letter from Home Depot concerning a security incident of an unauthhorized party gaining access to personal information of my account. My next billing statement had a balance of {$28000.00} due, which is fraudulent, as i have not charged anything. And these fraudulent charges are being reported to the credit bureaus reflected on my credit report."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_355",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VT",
+    "complaint_zip": "5401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19796,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX I received my credit card bill from Citibank and listed among the charges was this : XX/XX/XXXX XXXX XXXX XXXX FL {$470.00}. \n\nI did not recognize this charge and I called the above phone number and discovered it was XXXX XXXX XXXX. I had not bought tickets to XXXX and I complained to Citicards in writing. I stated I was XXXX XXXX XXXX, do not have children or grandchildren and would never buy tickets to XXXX. They said they would investigate. \n\nI just realized today ( XX/XX/XXXX ) that in my XX/XX/XXXX credit card statement, they reinstated the {$470.00} charge. Unfortunately I did not realize this. In the Account Message on the back, they said the credit was reversed \" since it was determined to be a valid charge ''. \n\nI strongly dispute this! Why did they think it was valid? Because someone signed my name on a credit card receipt? I did not purchase this, so no way is it valid! \n\nPlease let them know I am not accepting this. It is unfortunate I did not pick up on this till today, but that does not change the fact that someone robbed me of {$470.00} and Citi is complicit in this action."
+}

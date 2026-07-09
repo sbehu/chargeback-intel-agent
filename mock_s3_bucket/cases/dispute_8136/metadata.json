@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8136",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "922XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13275,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX, I purchased a diamond ring while traveling in XXXX XXXX for the negotiated price of {$10000.00} US. I presented my AMEX platinum card to complete purchase but all transaction was done in XXXX currency. When I returned back to US, my AMEX billing statement arrived and showed a charge for XXXX US Dollars. I immediately telephoned AMEX to report the fraudulent transaction as I had XXXX witnesses who were present for negotiation ( signed affidavits ). A dispute was opened immediately and over the course of the next 4 months, the dispute was opened and closed several times but no one from AMEX could produce clear documentation as to the validity of this fraudulent charge and the dispute team stopped responding to my inquiries. As per AMEX XXXX card terms and conditions, I filed a claim with AMEX Legal dept in late XX/XX/year> via registered receipt mail. requesting mediation if the legal team was unable to resolve issue. It took approximately XXXX weeks for legal team to respond to me and when I was assigned an attorney who represented AMEX, they had no familiarity with the case and advised me they would call back by late XXXX after closer review. They never called me and I contacted them via email and was given the same respsonse that they are still reviewing, This went on for another XXXX weeks when emailed again and got same response. The only information given to me was that they wanted to make sure I received no collection calls. However, the collections team reported my lack of payment for this fraudulent charge to XXXX credit reporting agencies and dropped my XXXX score by XXXX points preventing me from obtaing any credit. In fact this department offered me another credit card from AMEX with an XXXX discount off my bill and the promise to remove any detrimental reporting to credit bureaus ( usery ). I have attempted to reach out to collections department and to the legal team and I have not receivied any response nor have they set up mediation which is their responsabilty as per the terms of their card. I am now left with a damaged credit history when I previously have had XXXX scores approximating XXXX and I'm still in possession of the ring which I do not want nor can I afford at XXXX, According to receipt, the return period is 12 months and AMEX has ignored any attempt to facilitate return of this ring as per the vendor 's conditions. In fact, the vendor is continuously changing return conditions at their own will and AMEX stands idly by."
+}

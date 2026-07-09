@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5317",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "954XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9764,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We attempted to rent a property from XXXX XXXX for a family vacation and paid in full upfront. We rented the property on XX/XX/XXXX for the dates of XX/XX/XXXX to XX/XX/XXXX. The full cost of the rental was {$3100.00}. After making the payment, the merchant required that we send copies of our personal credit cards and identification to an unsecured third-party platform for identity verification. This request raised concerns about sharing our Personal Identifiable Information ( PII ) with a startup that failed to provide a privacy policy or any information on how they would securely store and protect our data. \n\nOn XX/XX/XXXX, they shared information about their check-in process. We immediately expressed our discomfort with this approach and offered alternative solutions for identity verification. However, the merchant rejected our suggestions, refused us access to the property, and would not refund our payment. At no point in the purchase process were we made aware that this questionable verification process was part of their business model, nor were we given an option to opt out. After multiple attempts to resolve the issue, the merchant stopped responding to our emails and calls, instead sending generic reminders to \" check in '' for our stay. \n\nBelow is a summary of our communication with the merchant, including key dates and exchanges : XX/XX/XXXX We called and spoke with a representative, who assured us that they would look into the matter. \n\nXXXX After not hearing back, we called twice and received an email instead. The email reiterated the same identity verification process we had already expressed discomfort with. In response, we reiterated our concerns via email, stating that we would not proceed with that process and suggesting alternative verification methods that would allow our PII to remain secure. Despite our efforts, the emails continued to follow an unresponsive toneencouraging us to upload our personal information, offering vague assurances about security, and refusing to address our concerns or compromise in any way. \n\nXXXX After receiving no resolution via email, we called the merchant twice but received no response. \n\nXXXX In an attempt to resolve the situation before escalating the issue, we called the merchant one last time before contacting our credit card company for a purchase dispute. Once again, we were unable to reach anyone. \n\nGiven the lack of communication and resolution, we initiated a chargeback with our credit card provider. When we contacted Citi regarding the disputed transaction, they did not request any supporting information from us. Furthermore, we were not provided with any explanation for their decision to side with the merchant. We were neither given the opportunity to present evidence of the merchants wrongdoing nor any visibility into the inaccurate information the merchant may have provided to justify keeping our funds."
+}

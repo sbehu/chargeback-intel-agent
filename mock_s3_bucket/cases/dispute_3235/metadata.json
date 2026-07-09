@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3235",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "013XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47536,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, while traveling in XXXX, XXXX my wallet was stolen while on the subway. When I returned to my hotel I called and reported my cards stolen and cancelled my accounts with XXXX XXXX  XXXX  and Barclays Aviator American Airlines AAdvantage. At this time the thieves had already made XXXX charges which when questioned I told the phone representative from Barclays I had not made and they said they would remove these charges and a new was card was issued. \nWhen I returned home by XX/XX/XXXX and checked by account the fraudulent charges did not appear on my statement. However later XX/XX/XXXX I was sent a letter from Barclays stating that they had conducted an investigation and the charges would be returned to by bill. Subsequently, the XXXX charges : XX/XX/XXXX XXXX XXXX XXXX for {$1700.00} and XX/XX/XXXX XXXX XXXX XXXX for {$1400.00} re-appeared on my account. \nI spoke at length with Barclays XX/XX/XXXX and was under the impression that a new investigation was being opened. I also called back again later in XXXX and was told I had to wait 30 days. \nI reported both transactions as fraud on my online account. I also sent a number of messages on my online account and received similar information. \nToday, XX/XX/XXXX, I again called and was told no new investigation had been started in XXXX, and that they would start a new one today with the # XXXX and this may take another 30 days to complete. \nAt this time I am reaching out to you for assistance, as I strongly feel that I should not have to pay these fradulent charges and am frustrated with Barclays handling of this entire matter, as well as charging my account interest on these charges. \nLook forward to hearing from you"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4005",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92614"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45986,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB Representative, I would like to file a formal complaint with CFPB against Citibank Cards, specifically in reference to my CitiCostco credit card due to duplicate transactions posted to my account, both as pending authorizations and posted transactions. \n\nI currently have XXXX posted transactions in the amount of {$810.00} that still have pending preauthorizations. I have spoken to several call representatives regarding this issue, they have informed me that \" there is nothing they can do to reverse these pending transactions and based on their merchant agreements, they allow the merchant up to XXXX  days to process the transaction which will then automatically fall off within XXXX  days. '' Additionally, there is a fraudulent pending preauthorization posted to my account on XX/XX/year> by XXXX XXXX XXXX in the amount of {$85.00} that still remains after I reported my card as stolen/requested for a replacement card. \n\nI do not believe the Citibank is protected me as their consumer and refusing to reverse fraudulent transactions made on my account, and when I say fraudulent I mean I did not authorize for these merchants to place multiple transactions on my account for the same transaction. Additionally, I do not believe the Citibank is acting in the best interest of their consumers by refusing to reverse these fraudulent transactions and holding me financially liable for multiple charges made to my account without my authorization. \n\nI am hoping that CFPB can step in to help me as the consumer to be treated fairly. Thank you kindly. \n\nAll my best, XXXX XXXX"
+}

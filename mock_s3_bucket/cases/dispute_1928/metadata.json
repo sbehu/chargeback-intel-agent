@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1928",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33138"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43181,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I charged XXXX at XXXX for a custom cat tree to be built for me. I was aware this would many months. I have a number of text messages between myself and the owner. I checked in with them on XX/XX/XXXX to see if work had started and he told me not yet, but he would try to finish for the end of the month. On XXXX XXXX he wrote and he said another project had set him behind but the tree would be worth the wait. I did not.think anything of it because he was the only person building these. In XX/XX/XXXX I asked if he had started work. He said he had started yesterday. On XXXX XXXX I asked for pictures and when I could expect delivery, because I would like it for XXXX. He answered and sent a picture of the frame. He said he could not get it out in time for XXXX, but would ship it mid XXXX. This is the first time he committed to a completion date. On XX/XX/XXXX, when I had not heard from him I told him since I did not get the tree or an update, I was going to pursue getting my money back unless he shipped the tree out immediately. For the first time I did hear immediately back from him and opened a dispute with XXXX XXXX. They first denied it for being more than XXXX  days old. When I sent them their Rule 4554 that said I had XXXX days from when I expected delivery, they denied me again claiming I expected delivery at the end of XXXX. This is not accurate because the merchant only said he would try and contacted me to tell me he was behind. The first time he committed to a delivery date was mid XXXX. I only then felt I was being cheated when he did not answer me. These cat trees are involved and take many months to build, that is why they are so expensive. I was willing to wait."
+}

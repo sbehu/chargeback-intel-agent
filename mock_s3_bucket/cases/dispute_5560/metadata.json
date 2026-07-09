@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5560",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95670"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28056,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi mistakenly added a {$9200.00} balance on my credit card and has not removed it. On XX/XX/XXXX, I made a payment to a merchant called Ingenes in the amount of {$4600.00}. On XX/XX/XXXX, I made a second payment to the merchant Ingenes in the amount of {$9200.00}. This was foXXXX XXXX XXXX. I ended up cancelling the service and filed a dispute with Citi. Over the course of three months, Citi investigated my dispute and put conditional credits on my card and then reversed them. I withdrew my dispute for both charges on XX/XX/XXXX, because the merchant refunded me. On XX/XX/XXXX, Citi reversed a second {$9200.00} amount on my card by mistake and now it shows that I owe Citi that {$9200.00}. I confirmed with the merchant that this extra charge did not come from them. I then called Citi and escalated this to a supervisor on XX/XX/XXXX, and spoke to \" XXXX '' Reference # XXXX, where I recorded the conversation. Citi admitted to the mistake and said they would remove the charge by XX/XX/XXXX. To this date, Citi has not removed the charge and now my balance is {$9500.00} because of the interest. Citi has not communicated with me or sent a letter to me that they said I would receive. My next bill is due on XX/XX/XXXX, and this needs to be removed so I don't have to make a payment on a balance I do not owe."
+}

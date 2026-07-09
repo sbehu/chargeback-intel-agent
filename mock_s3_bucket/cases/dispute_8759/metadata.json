@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8759",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85233"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37314,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was in XXXX and received a notification in my email saying that there was XXXX purchases made on my Best Buy Visa Credit Card on XXXX for a concert that same day. One purchase was {$280.00} and the other {$29.00}. As soon as I read the transaction alert I called Best Buys Customer Service to report that I didnt make the transactions. The lady on the phone cancelled my credit card and sent me a new one through mail and on the XXXX of XXXX they gave me a credit amount for both purchases. On XX/XX/XXXX they recharged the {$280.00} transaction again on the card and I didnt notice until the XXXX of XXXX. I called them back again letting them know and asking why and they said that I had to call back again on the XXXX and contact Customer Service XXXX XXXX. On the call with the Customer Service XXXX XXXX they told me that they recharged the transaction because XXXX shows proof of purchase. I explained to her that it wasnt me because I was in XXXX from XXXX XXXX and the purchase was made on XX/XX/XXXX. The lady told me she would send the proof of purchase that XXXX sent to them through the mail. On the papers of the proof of purchase it shows that only my first and last name and zip code were used but there was a different email address used for XXXX, the location of the event ( XXXX, Az ) and location of device ( XXXX, NC ) where not the same. I explained to the lady that it could not have been me since I was out of the country and the purchase was made in the U.S. and I dont have a Ticketmaster account and never had used XXXX XXXX I then contacted XXXX and they responded saying theres nothing they cant do about it since they won the dispute because the event already passed and told me now I have to take it up with Best Buys credit recovery/ The Customer Service XXXX XXXX XXXX I am contacting the CFPB to help me because I find this situation completely unfair."
+}

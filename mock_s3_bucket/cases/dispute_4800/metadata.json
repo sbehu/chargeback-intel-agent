@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4800",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90022"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9312,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To whom it may concern, XXXX has created a ( perhaps deliberately ) broken system for purchasing seat selections. They falsely converted my purchase of a seat into a bid for a seat- wherein I was on the hook for the purchase amount if the seat became available, even though at language on the transaction page described it as an instant purchase. \n\nI emailed XXXX for support on XX/XX/year>, and have included a screen capture of that. The agent advised that he couldnt cancel my bid and I explained I hadnt placed a bid, I agreed only to a purchase. He advised that the gate agent at the airport sell me the original seat I had purchased if it is available once I am at the airport. I inquired at with the gate agent and they were in fact able to sell me the seat I had originally purchased, and I was told the transaction for the unused seat would be refunded.\n\nI took screen captures of their flawed check out system for upgrading seats. I never bid on anything. As shown on page one, I selected the\nUpgrade now for {$450.00} USD button.\n\nClicking that button brought me to Page two, summarizing my purchase as an instant upgrade and NOT a bid. After providing my AMEX platinum information on Page two, I was brought to Page three, which showed that I had placed and Upgrade request and that I was Not Upgraded. \n\nI never agreed to pay {$450.00} to place a bid on upgrading, as you can see. After this happened I went through the same process by returning to Page one and scrolling down to an identical graphic dedicated to upgrades to exit row seats. I went though that, and rather than bidding, I clicked the button for Upgrade now for {$90.00}. At that point I had an active upgrade request of {$450.00} for the premium cabin that I never actually placed, and a simultaneous bid for a {$90.00} exit row seat.\n\nThey can not field two bids for different seats for one passenger and then accept both and charge me for both.\n\nI took a video screen capture of the whole check out process because it was broken, Let me know if youd like to review that. The video confirms that these screen captures are indeed in sequence, and that they falsely categorized my instant purchases as bids. \n\n\n\nBest Regards, XXXX XXXX"
+}

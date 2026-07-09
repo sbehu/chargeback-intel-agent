@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9105",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37620"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9346,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> A person named XXXX XXXX flew XXXX XXXX from XXXX to XXXX. My citibank Aadvantage MC that I haven't used in at least 2 years and kept locked up at home was somehow used to purchase upgraded seats on the flight. My card was charged XXXX. This account has had a XXXX balance so upon receipt of the bill I called citibank and reported the fraudulent charge. XX/XX/year> I received a letter with the passengers name and contact info and a letter stating that cardholder authorized transaction and booked the reservation. I then filed a police report locally ( TN ) I tried to file a police report in IL, the address of the passenger, and they refused and referred to the FBI internet crime division. I am the cardholder and I do not know the person who used my credit card."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9300",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92602"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17025,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an online order from XXXX XXXX XXXX  on XX/XX/XXXX for a total of {$920.00} ( total of XXXX dresses ), but the Citi credit card statement showed a total charge of {$1100.00}. A total charge of {$920.00} was posted on my statement on XX/XX/XXXX ( the correct total charge ), and I identified a duplicate charge of {$200.00} on XX/XX/XXXX from XXXXXXXX XXXX XXXXXXXX. I returned 7 dresses and received a refund of {$720.00} from XXXXXXXX XXXX  XXXX ( the correct refund amount ), but was not given a refund of {$200.00} for the duplicate charge. \n\nI contacted XXXX XXXX XXXXXXXX via their text message system on XX/XX/XXXX and confirmed they charged me a total of {$920.00}. They quote : \" I can assure you that you were not charged {$1100.00}... According to some bank statements they may show a double charge. I advise you to contact your bank. '' I called Citi and confirmed that I should dispute the charge on XX/XX/XXXX as the statement is showing that the charge is a duplicate. \n\nI initiated a dispute through XXXX on XX/XX/XXXX and received a notification on XX/XX/XXXX that the conditional credit of {$200.00} was reversed. I provided additional information and evidence regarding the double charge on XX/XX/XXXX to XXXX, but received a notification on XX/XX/XXXX that Citi was unable to resolve the dispute with the merchant as the merchant is not willing to issue credit to my account. I have called Citi multiple times to reopen the case or explain the situation to me. Even after sending all the requested information ( including my official Citi card statements ), I received the same notification on XXXX, XXXX, and XX/XX/XXXX stating that Citi could not resolve the dispute. \n\nThe double charge is either an error from XXXX XXXX XXXX XXXX  system or Citi Card 's system. It has been 6 months of disputing this double charge without any resolution or explanation from XXXXXXXX XXXX XXXXXXXX or Citi Cards"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_551",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33594"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21535,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I lost my card on or around XX/XX/2023. I immediately called in and reported my card as lost as with Citi Best buy I do not have an app or purchase alerts. They also do not have a friendly mobile website. I reported my card lost right away the same day I realized it was lost. The charges occured in XXXX which is not a city I live in. The charge continued to occur up to 30 or more miles from my home address. I do not travel and am not traveling to \" shop ''. I have more than enough proof i was not no where near where the charges occurred and will not pay for unauthorized charges when the credit card was lost and not in my possession."
+}

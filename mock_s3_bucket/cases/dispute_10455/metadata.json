@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10455",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "2740"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21089,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged {$600.00} by XXXX XXXX for an online purchase. \n\nThe item was delivered with clear shipping damage. The shipping box was ripped, and the product itself arrived damaged. The item was never worn or used, and all original tags were still attached. \n\nI contacted the merchant multiple times over several days and provided photographic evidence showing the damaged box, damaged item, and tags still attached. The merchant failed to respond and did not provide a return authorization or prepaid return label. \n\nBecause the merchant did not respond, I filed a billing dispute with Citi and submitted the same photographic evidence. Despite this, Citi denied the dispute, stating that insufficient proof was provided, without addressing the documentation submitted. \n\nI am requesting that Citi reopen and properly review this dispute in accordance with the Fair Credit Billing Act and provide a written explanation if the dispute continues to be denied."
+}

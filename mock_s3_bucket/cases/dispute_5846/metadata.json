@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5846",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2116"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17413,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally lodge a complaint against American Express ( Amex ) regarding their failure to honor a request to block transactions from a specific merchant, XXXX, which has resulted in an unauthorized charge on my account. \nOn XX/XX/year>, I explicitly requested that Amex block all future transactions from XXXX. I also called their customer service and was assured that my token would be reset, preventing the merchant from charging my account in the future. The representative on the call unambiguously stated that no future transactions from XXXX would be authorized or posted to my account under any circumstances. \nHowever, on XX/XX/year>, XXXX posted a charge of {$270.00} to my account, directly contradicting the assurances given by Amex. When I contacted Amex about this unauthorized transaction, they are now attempting to justify their failure by stating that recurring charges were not included in the block, despite having assured me otherwise.\n\nThis is a clear case of negligence, misrepresentation, and unfair financial practices on Amexs part. Not only did they fail to honor their commitment, but their misleading communication has now resulted in financial harm to me. I have taken all reasonable steps to prevent this charge, and the responsibility lies entirely with Amex for their failure to properly execute the block as promised."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8567",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "762XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25946,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>2025 I placed an order with XXXX for a pair of boots ( XXXX knee boots, size XXXX heel XXXX XXXX XXXX ). The total transaction amount was {$730.00}, processed through XXXX using my Barclays credit. XXXX is a XXXX party creditor that splits total purchase price in small charges to my credit card. \nWhen order was delivered, I received a different product. A pair of boots but did not match the product description nor images of item I purchased. \nI attempted to resolve this with XXXX, but they denied my request for refund citing final sale item. \nI then filed dispute with XXXX which redirect me to XXXX. \nLastly, I filed a dispute with Barclays. Barclays closed my claim after contacting only XXXX, the processor on the credit card charge, instead of XXXX, the actual seller. Barclays the denied my appeal citing my agreement with XXXX as the reason. \nAs a result, I have been charged {$730.00} for a merchandise that was not what i ordered and not as described. Barclays has refused to pursue the claim with the actual merchant XXXX, andXX/XX/XXXXhas denied responsability. I live in Texas, Under the Texas Deceptive Trade Practices Act ( Texas XXXX XXXX XXXX CXX/XX/XXXXe, XXXX XXXX ), consumers are protected against misrepresentation of goods. I purchase through Barclays in good faith, and should not be left without protection due to the involvement of a third-party payment processor."
+}

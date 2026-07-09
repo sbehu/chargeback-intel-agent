@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1373",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NE",
+    "complaint_zip": "68127"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26870,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Friday, XX/XX/2024 I called the fraud number at Citi card. I told them there were a number of fraudulent charges on my card dating back six months. I did not make these charges, most of them were from out of my home state. My card is maxed out at {$22000.00} and Citi Card said I owed them {$680.00} on XXXX XXXX. I was transferred around several times and finally got to an agent who said I would not be liable for the charges. \nToday, CitiCard sent me an email stating : Hi, XXXX. Based on the dispute you asked us to review, we've adjusted the Minimum Payment Due for this month. \nYour new Minimum Payment Due by XX/XX/2024 is {$680.00}. \nHow your new Minimum Payment Due was calculated Your new Minimum Payment Due was recalculated based on the total new balance from your most recent statement, minus the disputed amount. \nThis adjustment doesn't reflect any payments you've made since your last billing statement. \nIf you've made a payment already, you can view your updated balance anytime in the Citi Mobile App or Citi Online."
+}

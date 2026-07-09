@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7579",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20286,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I originally purchased a XXXX XXXX laptop from Best Buy in XX/XX/year> for around {$600.00} under a XXXX no-interest payment plan. I agreed to pay {$30.00} per month and have consistently made payments often {$30.00} to {$50.00} or more. \nLater, I made additional purchases : a countertop ( {$200.00} ) and another item ( ~ {$150.00} ), and continued paying on time. But without clear notice, Best Buy and Citibank increased my minimum monthly payment to around {$80.00}. This made it appear as if my {$50.00} payments were late, even when I was paying regularly. As a result, I was unfairly charged late fees and interest. \nOn top of that, I was charged for a different desktop computer that I never received. I never signed for it, and it was a mix-up caused by Best Buy. I submitted a complaint to the XXXX XXXX XXXX XXXX XXXX XXXX and after review, they acknowledged the mistake and credited my account approximately {$900.00}, which included the cost of the missing computer, interest, and late fees. \nNow, however, Best Buy/Citibank is again trying to charge me as if the issue was never resolved. I believe this is a pattern of predatory lending and deceptive billing. I request that this matter be investigated and that my account be corrected once and for all. \n________________________________________"
+}

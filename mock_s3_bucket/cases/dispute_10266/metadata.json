@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10266",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2151"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48437,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against CITI BANK XXXX XXXX XXXXXXXX XXXX XXXX NY XXXX On XX/XX/year> ; I filed the following transaction Dispute for a canceled XXXX purchase. \n\nI provided the bank with a proof that items were delivered back to the merchant. \n\nI also provided the bank with a message from the merchant confirming receipt of the merchandise. \n\nXXXX XXXX XXXXXXXX The bank, however, denied my claim stating that the merchandise still in my possession. \n\n\nTransaction Date : XX/XX/year> Dispute Date : XX/XX/year> Transaction Amount : {$1900.00} Merchant : XXXX XXXX Dispute Amount : {$1900.00} Dispute ID : XXXX I believe that this bank is biased against me and discriminating against me on the basis of perceived national origin, perceived religion, perceived race, and perceived ethnicity, Perceived religion : Individuals perceived to be part of a certain religious group are also protected from discrimination. \n\nThis is particularly relevant for XXXX XXXX individuals, who may face religiously indiscriminate racialization or XXXX  from others who mistakenly perceive them as XXXX. \n\nFederal law protects individuals from discrimination based on actual or perceived religious affiliation or ethnic characteristics. \n\n\nFederal laws likeTitle VII of the Civil Rights Act of 1964andTitle VIprotect individuals from discrimination based on actual or perceived religion, shared ancestry, and ethnic characteristics in employment and federally funded programs, prohibiting bias in hiring, treatment, and services, even covering stereotypes and cultural practices linked to these traits, not just explicit religious/ethnic identity. \n\nXXXX XXXX XXXX"
+}

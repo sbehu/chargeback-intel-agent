@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10060",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32713"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43197,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Short version : I hired The Home Depot to install new windows in my home which I purchased on the home depot credit card after months and a lot of time and labor on my part the job was mostly done. I filled a partial dispute based on all of the issues. Home Depot said if it was approved they wouldnt finish the job. Home depot then said it was approved and will no longer return my emails or calls. Then the partial refund was reversed and the credit card company is no longer responding to my comments in the dispute."
+}

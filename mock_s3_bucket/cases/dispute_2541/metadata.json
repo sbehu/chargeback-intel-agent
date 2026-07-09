@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2541",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46142"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48459,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a dispute come across my card on XX/XX/2023 for a total of XXXX at a XXXX that I did not make and I promptly reported it to the credit card company in hopes to get this issue resolved in a timely manner but that is far from what has happened. It is now XXXX  months later and nothing has been told to me about anything with this and I want to be able to have that credit back in order to pay bills. I feel as I am at a disjustice as I am being penalized for a stolen card that was properly closed and reported immediately."
+}

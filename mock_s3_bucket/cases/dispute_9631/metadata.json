@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9631",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "336XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29916,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I made an in-store purchase at XXXX XXXX  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. \n\nWhen paying, the merchant first attempted to charge my CITI Mastercard ending in XXXX via XXXX XXXX. The merchant stated that the charge did not go through, and I was not provided any receipt or confirmation for this transaction. \n\nThe merchant then requested that I use another card. I provided my XXXX credit card ending in XXXX ( also via XXXX XXXX ). The merchant successfully processed this transaction and provided a signed receipt, which I have retained and which the merchant has on file. \n\nLater, I discovered that the CITI Mastercard was charged {$1300.00}, despite the merchant indicating the initial charge did not go through. I subsequently paid this amount via my automated CITI Mastercard payment.\n\nI immediately filed a dispute with CITI Mastercard on XX/XX/year>, providing all supporting documentation, receipts, and correspondence from the merchant. The merchant admitted they had wrongfully charged both my Mastercard and XXXX for the same transaction, confirmed they do not have a signed receipt for the Mastercard charge, and offered a refund if I complied with their requests, which included signing a DocuSign form, sending a government-issued ID, and requesting a cancellation letter from Mastercard. \n\nI shared all communications with CITI, demonstrating that the merchant was at fault. Despite this, CITI continued to uphold the charge on my account. I called CITIs dispute center weekly, spoke with multiple representatives, and provided all requested documentation, but they failed to properly investigate my dispute. Their responses were often generic, pre-dated, and sent only on Saturdays, causing further delays. \n\nOn XX/XX/year>, CITI closed my dispute stating, too much has passed since this charge was first billed, and that without a valid credit slip, further attempts to resolve this dispute will need to be directed to the merchant. Despite being a XXXX cardholder with an excellent payment history, CITI did not adequately investigate the dispute nor provide any explanation or proof for closing the case. I was left without resolution or reimbursement for a charge I did not authorize. \n\nSummary of Facts : * I was charged twice for the same purchase : once on my Mastercard ( unauthorized, no receipt or signature ) and once on my XXXX ( authorized, with signed receipt ). \n* The XXXX transaction was processed correctly, with a signed receipt ; the Mastercard charge was unauthorized. \n* The small discrepancy in charges ( {$1300.00} vs. {$1300.00} ) is due to different exchange rates applied by the credit card companies. \n* The merchant admitted to charging both cards in error and offered a refund, contingent on conditions that CITI advised against complying with while the dispute was open. \n* I repeatedly provided CITI with all documentation, evidence, and correspondence but was strung along for months. \n* CITI ultimately closed the dispute without proper investigation, leaving me responsible for the unauthorized Mastercard charge.\n\nRequested Resolution : Reimbursement of {$1300.00} to my CITI Mastercard or by check for the unauthorized charge, as supported by documentation and merchant admission. \n\nIf any additional supporting information is needed, I kindly request the communication to me and I will provide further documentation needed."
+}

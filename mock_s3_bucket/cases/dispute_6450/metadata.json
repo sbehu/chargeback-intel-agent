@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6450",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding American Express dispute XXXX XXXX this company is racist to XXXX  like me she doesnt believe our evidence and constantly reopens my chargebacks. I bet theres a class action discrimination case here and I would like to be the lead plaintiff if so. I have attached proof I returned the items using the merchants ups return label and ups even marked the investigation closed with PROOF OF DELIVERY."
+}

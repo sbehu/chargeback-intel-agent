@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7902",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94566"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18157,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A prom dress was ordered online from XXXX. A late shipment was received that did not have the dress and instead had a bikini. I contacted XXXX immediately. They said its XXXX mistake and they will refund the money and I dont need to return anything because I did not receive the item. They did not refund the money so I asked my credit card company ( XXXX XXXXXXXX ) to dispute the charge. My credit card company declined the dispute because they were informed by XXXX that I did not follow the return policy. \nI contacted my credit card company again to dispute it and was declined again. \n\nI have a copy of my conversation with XXXX. They gave me in writing that they will give a refund. They did not keep their promise. \nI have evidence that I did not get the dress and yet Citibank refused to honor my dispute, even after I explained the situation to them and informed that I have evidence. \nXXXX is a fraud company and Citibank is aiding a fraud company."
+}

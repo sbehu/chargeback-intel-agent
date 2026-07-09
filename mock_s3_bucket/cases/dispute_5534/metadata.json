@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5534",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94107"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17566,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I rented a car from XXXX while vacationing in the XXXX of XXXX. We hit a curb while making a U-Turn ( no more than XXXX ) and the tire suffered a leak. We had to call a tow-truck to take it back to the rental agency near our hotel to swap out the vehicle. Upon return to the US, we were sent a bill for {$4000.00} for the services and flat tire. \n\nI have submitted documentation and attempted to escalate the issue with American Express ( which also provided XXXX XXXX XXXX ) and yet they refuse to reverse the charge. We received documentation ( in XXXX, which we don't speak ), but {$4000.00} for a flat tire is OUTRAGEOUS! That cost more than the trip itself!! \n\nWe would greatly appreciate any assistance the CFPB can provide in escalating the matter to either XXXX XXXX or American Express."
+}

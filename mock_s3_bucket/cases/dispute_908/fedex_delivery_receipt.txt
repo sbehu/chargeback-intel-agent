@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-20803069-US
+Shipment Date:   2026-03-05T00:00:00Z
+Delivery Date:   2026-03-08T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     5760 LINCOLN DR, CA, 95136
+============================================================

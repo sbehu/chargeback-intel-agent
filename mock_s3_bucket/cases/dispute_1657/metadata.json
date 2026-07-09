@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1657",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34238"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20278,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Some purchases were made for {$100.00}, {$420.00} and {$89.00} and all were returned to the Best Buy store and they issued their receipt and the credit to the Citibank Best Buy Credit Card is recorded, but said amounts have been in the state for more than 5 months. account and the bank and the store blame each other and no one has removed said amounts and they continue to bill me for them on the account statement, Correspondence and chat have been sent with support from the store and the bank and nothing that resolves and they close the disputes and without effect. \n\nThe Credit card is only for purchases at Best Buy"
+}

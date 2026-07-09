@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5378",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92835"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13549,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Late XX/XX/XXXX, I opened an investigation with Best Buy Citi Security Operations for fraudulent purchases made on my Visa store credit card. I also closed this compromised card and opened another. \n\nOn XXXX XXXX XXXX XXXX XXXX  ), unauthorized purchases were made using my store credit card. These purchases were made at the XXXX XXXX XXXX  Best Buy XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX \n\nThe following items were purchased : - XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. \n\nOn XX/XX/XXXX, the investigation determined that I was responsible for the unauthorized charges and my account was rebilled for {$320.00}. I was dumbfounded. I requested to have the investigation opened again. \n\nOn XX/XX/XXXX, the second investigation determined that I was still responsible for the unauthorized charges and my account was rebilled for {$320.00}. I never made these purchases. I am a victim of identity theft and now being forced to pay for a thief 's actions?! I requested to have the investigation opened again. I also closed my store credit card altogether. \n\nThe investigation is now opened for a third time and I am having to file a complaint with the CFPB for the first time ever. Disputes similar to this were always resolved in my favor but Citibank does not care and wants me to pay as a victim of a crime. Ridiculous. \n\nI am also filing a police report after I submit this complaint with the CFPB. \n\nBest Buy Security Operations, ( XXXX ) XXXX."
+}

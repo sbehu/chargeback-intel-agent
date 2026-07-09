@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-40413423-US
+Shipment Date:   2026-03-16T00:00:00Z
+Delivery Date:   2026-03-21T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     3144 SUNSET BLVD, VA, 230XX
+============================================================

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2211",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "296XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23344,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dispute : XX/XX/XXXX I purchased a flight through a merchant for {$2200.00}. I cancelled within XXXX hours, they agreed to refund me. Billing cycle passes, no refund, I dispute the amount with Citi bank stating the above. \n\nCiti Bank launches investigation and merchant responds saying they agree to a refund of {$1700.00}, an amount less than the dispute due to merchant 's fee. I agree to this amount, so as to not prolong the refund and Citi Bank sends first letter stating they will watch my account and work on my behalf if the refund the merchant agrees to does not populate. They remove the chargeback and wait for the merchant to refund on XX/XX/XXXX. \n\nI call dispute center XX/XX/XXXX asking about the merchants refund as it has not posted. They respond stating they can not move forward due to no evidence a refund was owed, even though the merchant put the refund email in the response. I speak to a supervisor on XX/XX/XXXX and she states that I just need to send them the same proof the merchant already sent them. I send them the same refund email XX/XX/XXXX and they reopen the dispute XX/XX/XXXX, stating they will work with the merchant and merchant bank to obtain the credit of {$1700.00}. \n\nXX/XX/XXXX they give up on trying to obtain the credit due to no response from the merchant. \n\nI call XX/XX/XXXX requesting a second chargeback on the merchant for the agreed upon refund of {$1700.00}. \n\nCiti Bank responds XX/XX/XXXX stating they are giving up on getting the credit due to no response from the merchant. \n\nIt has now been XXXX billing cycles. The merchant has not responded or provided the agreed upon refund. Citi bank has agreed they owe me a refund, but has not taken the request seriously to chargeback the agreed upon amount and deliver me the refund they claimed they would help with. This amount of money is very large, and they have not tried to rectify the situation in any way, allowing the merchant to get away with not providing the refund that Citi Bank agrees they owe me. They preemptively canceled the first chargeback with no guarantee the merchant was going to keep to their word, then have no allowed them to get away with stealing from me {$1700.00}."
+}

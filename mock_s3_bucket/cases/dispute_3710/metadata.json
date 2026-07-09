@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3710",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80233"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18550,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear XXXX XXXX and Relevant Person in Charge of Macy 's : I am writing in reference to the recent correspondence regarding my Macy 's credit card accounts. I must express my strong disagreement with the decisions and actions taken by your institution. \n\nWith regard to the alleged fraudulent transaction on the account ending in XXXX, I categorically assert that the order of {$240.00} on XX/XX/XXXX, was unauthorized and without my consent. Despite the shipment to an address associated with me, this fact alone does not substantiate my involvement or authorization of the transaction. I hereby demand a thorough and impartial reexamination of this matter by the XXXX XXXX, with full consideration of any additional information I XXXX provide to clarify the situation. \n\nFurthermore, I vehemently object to the closure of the account ending in XXXX. I have consistently met my credit obligations, making timely payments in accordance with the terms of the XXXX XXXX. Such an unwarranted closure not only causes inconvenience but also potentially damages my credit record. I insist on a comprehensive review of my account and the immediate reversal of the closure decision. \n\nIn addition, I have serious reservations about the information provided by the XXXX XXXX XXXX XXXX. I suspect that there XXXX be inaccuracies or errors in the report, which could have unjustly influenced the decisions made regarding my accounts. I demand the opportunity to scrutinize and rectify this information, ensuring the accuracy and fairness of my credit profile. \n\nI trust that you will take my concerns seriously and take prompt and appropriate action to rectify these issues. Failure to do so XXXX leave me with no choice but to seek legal remedies to protect my rights and interests. \n\nThank you for your prompt attention to this matter. \n\nSincerely, XXXX XXXX XX/XX/XXXX ]"
+}

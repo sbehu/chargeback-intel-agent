@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4572",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33781"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37197,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX, I made a purchase at GAP. The shipping bag was delivered to my home ripped open and missing numerous items from it. I immediately contacted GAP who provided no assistance and told me to open a claim with my credit card ( Barclays Banana Republic Card. ) I opened a claim and GAP sent the credit card company a blurry photo of a delivery and stated that the items were delivered. I provided proof that the bag was delivered empty and missing items ( including delivery photo proof and camera proof ) but the credit card company has refused to settle the dispute, claiming that GAP says they delivered the items. I provided proof of an open bag delivered showing how it was missing items, which is all that I can provide at this point since the items never made it into my possession. Clearly the credit card is on the side of the company and not me, the consumer, since this is a branded credit card. I have tried for months now to try and resolve it and keep being told different stories every time I speak with someone. I have called multiple times, opened countless messages through their portal, and patiently waiting for communication since XXXX. I am just looking to get my money back at this point and then never use this credit card again since all of their consumer protections are just a bunch of lies. The total for the missing items from that order was around {$210.00}."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13137",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33176"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4159,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A total of XXXX fraudulent transactions charged to my Macy 's American Express Credit Card from XX/XX/XXXX to XX/XX/XXXX. Of these charges XXXX are related to XXXX transactions averaging {$3.00} per charge. I have tried to resolve this issue by calling Macy 's Customer Service number XXXX on a monthly basis on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX. I have escalated the issue to their XXXX XXXX XXXX. Macy 's customer service has been horrific. Their automated touch system does not work. The agents you speak to do not know what they are doing. When you try to escalate the call to a supervisor a supervisor is not available. They commit to call back and I'm still waiting for the call. back. A temporary credit is not provided so the credit card continues to accumulate interest charges. On the XX/XX/XXXX statement they provided a credit for the charges in question but then recharged tbe same amounts. I seek third party help for the billing adjustment since I'm making XXXX headway in resolving the matter directly with Macy 's. This fraud should have been automatically picked up by the Macy 's Fraud Team since it involves obviously automated billing charges. However, their Fraud Team claims they need up to 3 months to resolve. This is the worst credit card Fraud Team I have ever encountered. It is now going on 5 months now with no resolution Please help."
+}

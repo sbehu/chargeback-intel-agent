@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1235",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98144"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49792,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a charge for a XXXX XXXX XXXX XXXXr purchased on XX/XX/XXXX with Barclays Credit Card. After noticing that the icemaker was not functioning properly, I contacted XXXX, XXXX and Barclays ( Barclays Case # XXXX ) to report that the product was defective. After several visits to repair the icemaker, it remains defective ( see timeline below ). \n\nI received a letter from Barclays Billing Disputes Department on XX/XX/XXXX ( letter dated XX/XX/XXXX ). Barclays informed me in that letter that the disputed transaction in the amount of {$1200.00} has been reapplied to my account, stating that the merchant has not violated the terms and conditions of the sales agreement. HOWEVER, THAT WAS NOT THE BASIS OF MY DISPUTE. \n\nAt the latest repair visit on XX/XX/XXXX, the service technician confirmed that neither the original icemaker nor the replacement icemaker was configured for my refrigerator/freezer. He told me that manufacturer practice was to exchange the appliance after 3 repair attempts but that they havent been honoring this practice because it is less expensive to keep sending him out repeatedly to repair. During that visit, the service technician ordered what he believes to be the correct icemaker for my appliance. The icemaker is on back order for several months ( audio of the entire conversation available upon your request ). \n\nPlease see the timeline of events below with documentation attached. \n\nXX/XX/XXXX : XXXX delivered the XXXX Refrigerator/Freezer. The installation technician told me that I must flush 3 gallons through the water dispenser before the water is potable. In addition, he told me to wait up to 4 days for the XXXX to start fully functioning. There was no time to see if the icemaker was working until XXXX XXXX hour return policy expired. \n\nXX/XX/XXXX : After finding that the icemaker was not working after 4 days, I contacted the manufacturer for repair. The manufacturer told me that I must contact XXXX for service. XXXX provided me with a phone number for repair. I reached out to that number to schedule a repair. \n\nXX/XX/XXXX : XXXX sent a service technician to repair Icemaker ( Work Order # XXXX ). The service technician was unable to repair the icemaker and ordered a new Icemaker to install. \n\nXX/XX/XXXX : I purchased XXXX XXXX XXXX ( Order Number XXXX ). \n\nXX/XX/XXXX : XXXX informed me that parts for repair were shipped for Work Order # XXXX. \n\nXX/XX/XXXX : XXXX sent the same service technician but he was unable to repair. \n\nXX/XX/XXXX : XXXX sent the service technician for repair ( Work Order XXXX ) but he was unable to repair. \n\nXX/XX/XXXX : I received a letter from Barclays ( dated XX/XX/XXXX ) stating that The merchant has not violated the terms and conditions of the sales agreement, reversing the temporary credit. \n\nXX/XX/XXXX : In response I sent a fax to Barclays outlining my position with the same documentation as I am providing here. \n\nXX/XX/XXXX : XXXX sent the service technician to repair. the service technician confirmed that neither the original icemaker nor the replacement icemaker was configured for my refrigerator/freezer. He told me that manufacturer practice was to exchange the appliance after XXXX repair attempts but that they havent been honoring this practice because it is less expensive to keep sending him out repeatedly to repair. During that visit, the service technician ordered what he believes to be the correct icemaker for my appliance. The icemaker is on back order for several months ( audio of the entire conversation available upon your request ). \n\nXX/XX/XXXX : In a final attempt to discuss Barclays decision, I called Barclays and spoke with a dispute department agent XXXX. She refused to identify herself and hung up after XXXX minutes of discussion and on-hold."
+}

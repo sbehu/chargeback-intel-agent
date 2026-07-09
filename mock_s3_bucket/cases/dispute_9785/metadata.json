@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9785",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10027"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17145,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I discovered that someone had gained unauthorized access to my XXXX  online account and attempted to place XXXX fraudulent orders using my credit card. The attempted purchases were not made by me and I did not authorize anyone else to use my account or card for these transactions. The charges appeared as pending orders in my XXXX  account that were later cancelled, and I immediately contacted XXXX  customer service to report the activity as fraud. \n\nAfter I reported the issue, XXXX  informed me that both orders were cancelled and that the purchases would not be processed. I was told that I should contact a consumer protection agency to file a complaint about what happened and how it was handled. I have taken steps on my own, including monitoring my account. \n\nI am submitting this complaint so there is a record that : - My XXXX  account appears to have been accessed without my authorization. \n- XXXX unauthorized purchase attempts were made using my card. \n- The merchant cancelled the orders after I reported the fraud and directed me to contact a consumer protection agency."
+}

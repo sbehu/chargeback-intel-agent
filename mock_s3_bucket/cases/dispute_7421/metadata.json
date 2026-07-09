@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7421",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "18018"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46492,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello please see the attached file it is specific in detail of our complaint against XXXX XXXX to the D O T we disputed it with Barclays credit card, and they ruled against us I can provide detailed invoices to back up our claims we were charged 2 times for the same product and wrongly charged for a service that does not work. again please see the attached documents for the complete information please contact me for any other information needed at XXXX cell Thank you XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10563",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11209"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21597,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing an incomplete refund related to a returned purchase from XXXX XXXX that was charged to my Citi credit card. \n\nThe total return amount was {$930.00}, which should have been refunded in full. However, I only received two refunds of {$310.00} each, for a total of {$620.00}. The remaining {$310.00} was never refunded to my credit card account. \n\nAfter unsuccessfully attempting to resolve this issue with the merchant ( XXXX XXXX ), I filed a dispute with Citi. In late XX/XX/XXXX, Citi issued a provisional credit of {$310.00} for the missing refund amount. \n\nHowever, in early XX/XX/XXXX, Citi reversed/removed the provisional credit without providing any evidence that the third refund of {$310.00} was ever completed or settled to my account. At no point have I received the missing {$310.00} refund, nor have I been provided with a transaction record, settlement confirmation, or refund trace number showing that the funds were returned. \n\nThis dispute concerns a refund that was promised but never received, and the amount remains outstanding. I have attached the order details from the XXXX XXXX website, the return submission confirmation, and three return shipping labels, each corresponding to a refund amount of {$310.00} ( total {$930.00} ). Tracking records show that all three packages were delivered to XXXX XXXX return facility. \n\nDespite all three return packages being received by the merchant, I only received two refunds of {$310.00} each. The third refund of {$310.00} was never credited to my Citi credit card account."
+}

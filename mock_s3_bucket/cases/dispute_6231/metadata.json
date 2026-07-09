@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6231",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "498XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8597,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/scrub> 2025, I was issued a {$400.00} XXXX XXXX XXXX XXXX XXXX through American Express as part of my XXXX status with XXXX. On XX/XX/scrub> 2025, a second {$400.00} credit was issued to my account. No notice, explanation, or correction accompanied that second credit. It remained on my account for over 60 days with no communication from American Express that it was issued in error. \n\nThen, on XX/XX/year>2025 exactly 61 days later the {$400.00} credit was reversed. I was not informed in advance. I received an email on XX/XX/XXXX, after the charge had already posted. American Express claims this was due to a technical error and that it affected XXXX accounts. \n\nI contacted American Express to dispute the debit. I was met with dismissive responses, an accusatory tone from a supervisor who implied it was my responsibility to notice the error, and ultimately a blanket refusal to reinstate the funds. I then filed a CFPB complaint. \n\nHowever, before I could respond to American Expresss reply, the CFPB portal marked the complaint closed, denying me the ability to rebut their justification. I am now resubmitting this complaint in full, including my legal rebuttal.\n\nLEGAL REBUTTAL : American Expresss reversal of the {$400.00} credit over 60 days after it was issued, with no advance notice, violates both reasonable customer expectations and key consumer protection principles.\n\nUnder the Fair Credit Billing Act ( FCBA ), 15 U.S.C. 1666b, a card issuer must inform consumers of billing errors in a timely manner and can not unilaterally adjust accounts outside the 60-day dispute window unless the consumer has been properly notified. \n\nThe reversal posted on XX/XX/year>2025, more than 60 days after the XX/XX/XXXX credit was issued. That alone raises serious compliance concerns. There was : No contemporaneous notification in XXXX that the second credit was a mistake No warning or communication prior to the reversal in XXXX No merchant dispute or consumer-initiated correction This was a company-initiated credit and later a company-initiated reversal, executed after a lengthy delay and without transparency. American Expresss response to the CFPB claims no law was violated because the credit was part of a benefit program, not a merchant transaction. But the FCBA governs more than just merchant billing disputes it also covers improper charges and adjustments made to a consumers account without timely disclosure. \n\nFinally, Amex admitted that XXXX customers were affected yet has not shown proof that any notice was provided to me before the debit occurred. Their reference to an email on XX/XX/XXXX confirms that I was informed after my account was already charged. Thats not transparency its retroactive justification."
+}

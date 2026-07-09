@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11674",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92886"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15895,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchased installation of a product from a vendor for {$1900.00} on XX/XX/XXXX. Vendor ran my card through XXXX ( was not aware they were using XXXX ) and when I saw the charge for XXXX ( XX/XX/XXXX when I received my statement ) I disputed the charge with the CC company since I do not purchase using XXXX. \n\nOn XX/XX/XXXX, Vendor called asking why I disputed and then I determined the charge was valid. \n\nXX/XX/XXXX Called Cititbank, removed dispute. Asked for proof that XXXX would be paid, they gave me an XXXX #. \nCalled XXXX to give them ARN #- they said will take 5 days to resolve and will call me back- they never called back. \n\nXX/XX/XXXX Reversed dispute shows on my statement as payment to my vendor- XXXX. \n\nCalled Citibank, wanted to dispute charge so I could pay vendor direct - Citi said can not dispute charge a second time. Will take a couple of weeks for vendor to get money. \n\nXX/XX/XXXX - Vendor called, not paid yet. Called Citi, will take XXXX for payment. \n\nXX/XX/XXXX call Citi Security Operations Team. XXXX said letter was mailed to me XX/XX/XXXX to confirm I am reversing dispute. Told him I have not received the letter can they email it to me? No, has to be mailed, will send second letter - also never received. Turns out this requires a response from me confirming I am reversing the dispute ( which I could not do since I never received either letter ) and therefore they did not process payment. \n\nXX/XX/XXXX Called Citi, XXXX discovers that a step had been skipped, vendor still not paid. Call tomorrow and will have info for you. \n\nXX/XX/XXXX Talked to XXXX at Citi, letter sent to merchant on XX/XX/XXXX, funds sent XX/XX/XXXX to merchant but no letter was sent to merchant on what payment was for. Asked to speak with manager, said one will call within XXXX hours- they never called. \n\nXX/XX/XXXX XXXX at Citi Charge has been accepted by merchant. Funds went to merchant XX/XX/XXXX, not XX/XX/XXXX. Called back, talked to XXXX, change went through on XX/XX/XXXX, Reference number XXXX was sent to merchant. Transfered to XXXX, XXXX needs to reprocess deposit. Payment was now sent XXXX, not XX/XX/XXXX or XX/XX/XXXX as previous told. \n\nI have been asking for anything that shows they have paid the charge for the merchant and they said show them my statement with the charge on it. The charge showed on my statement XX/XX/XXXX then I was told, no, it was paid XX/XX/XXXX, and then today they said no, it was paid XX/XX/XXXX. \n\nI have received lies and mis-information for over XXXX weeks and still do not have my vendor paid. They will not send me anything in writing regarding anything to do with this issue. Everytime I get new information, it counterdics other information they have given me - I can never get the true story."
+}

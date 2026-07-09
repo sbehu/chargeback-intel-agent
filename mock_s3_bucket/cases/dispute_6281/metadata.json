@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6281",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46303,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on Sunday XX/XX/scrub>, 2025 i went to XXXXXXXX XXXX XXXX to buy a patio set for {$740.00}. we verified that it was in stock and since they had free next day delivery i ordered it delivered. later they canceled the order saying it was out of stock. so i went online on Tuesday and ordered it for instore pick up it was actually two items the table and 4 chairs. they again charged me {$480.00} and {$260.00}. and sent me an email telling me my stuff would be ready for pick up. then 10 minutes later sent another email telling me that only part of the order would be ready for pick up and issued a credit for {$250.00}. I then went to the store and spoke with customer service/returns. they were able to find both the table and the chairs instock. however you had locked my card so i could not charge the {$250.00} and had to use a different CC to pay for the chairs. Today when i was reviewing my statement i realized that XXXX had not credited the {$740.00} order they canceled. \n\nI then called Citi bank at XXXXXXXX XXXX today XX/XX/XXXX 2025. there automated systems could not understand my issue and when i asked the system for a rep they put me on hold for minutes and then told me it would be 5+ minutes to speak to some one. I want to dispute this {$740.00} charge and i still have my credit card. this is a huge error that needs to be corrected asap. also citi systems should give customer the ability to schedule a call back so we don't have to waste time holding for a rep that may not be available"
+}

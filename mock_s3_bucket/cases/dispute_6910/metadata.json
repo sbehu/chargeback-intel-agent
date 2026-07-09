@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6910",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85340"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9880,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Formal Complaint Against CitiBank Mishandled Fraud Dispute and Denied Resolution Dear Consumer Financial Protection Bureau, I am filing this complaint against CitiBank for their failure to appropriately handle and resolve a clear case of fraud on my account ending in XXXX. Despite multiple attempts to resolve this matter directly with the bank, they have continually failed to assist me or properly investigate the unauthorized transaction. \n\nDetails of the Disputed Transaction : Transaction Date : XX/XX/year> Merchant : XXXX XXXX XXXX TN Amount : {$230.00} Dispute Date : XX/XX/year> Dispute ID : XXXX I reported this transaction as fraudulent, yet CitiBank misclassified it as a purchase dispute, and ultimately closed the case claiming I authorized the charge which I absolutely did not. I never made this purchase, nor did I give anyone permission to do so on my behalf. I requested that the charge be investigated as a case of fraud, but my repeated communications were ignored or dismissed. I have spoken with several CitiBank representatives, none of whom offered any meaningful resolution or explanation.\n\nI am requesting that the CFPB review this matter and assist in compelling CitiBank to : 1. Properly reclassify and investigate this dispute as fraud.\n\n2. Provide clear documentation or evidence used to deny my dispute.\n\n3. Restore the disputed funds to my account if the transaction is determined to be unauthorized as I believe it clearly is. \n\nXXXX failure to act in accordance with consumer protection standards and the Fair Credit Billing Act is deeply concerning. I respectfully request your assistance in resolving this issue and ensuring CitiBank is held accountable for their mishandling of this fraud case. \n\nSincerely, XXXX XXXX XXXX"
+}

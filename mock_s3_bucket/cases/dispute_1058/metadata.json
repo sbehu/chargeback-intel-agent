@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1058",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91604"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41978,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello Hope you are doing good On XX/XX/2023 ( 2 month ago ) I tried to do XXXX XXXX and i was searching on XXXX and found one company which it was so professional and i emailed them, they responded professionally and they provided me some services with price which i attached on this complain And request them for services and they promised me to do the XXXX job in 30 Days and after 3 weeks of contract i tried to contact them but nobody didnt respond and they didnt even answer the phone And i waited till 30 day as of they promised on contract to do the job and after 30 day tried calling them again but no Respond I opened a dispute claim and also fraud Claim with CITI BANK and sent all information including emails and Contract but they refused to pay back and still showing investigation on your behalf and no body doesnt give me any information in this bank, someone scammed on me and fraud me and they steal my money and i Cant do anything and the bank refused to pay back and also they remark my credit report what it wasnt my Fault that they scammed me and someone fraud my money and stole it Please please fallow up and investigate this issue The company name is XXXX XXXX And amounts charged and dates is : {$3700.00} XX/XX/2023 and {$9500.00} on XX/XX/2023 Dispute claim opened on XX/XX/2023 And fruad Claim opened on XX/XX/2023 Which the scammer mentioned on contract they will refund full amount if the customer didnt get any services and I didnt get anything even phone answer Also invoice screenshot has been Attached on this Claim Thank you"
+}

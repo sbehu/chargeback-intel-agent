@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2427",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27705"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15465,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, XXXX XXXX out of XXXX  XXXX, XXXX took photographs of our department and individuals pre-paid for portraits and yearbooks. I purchased a yearbook on XX/XX/XXXX in the amount of {$52.00} that was charged to my Citi Visa card. \n\nI along with several others have contacted XXXX and they continue to change the date as to when we will receive the books. I filed a dispute with my credit card company and they said they would issue me the credit, but now state that the charge is more than 6 months old and they can not help. \n\nI called XXXX once again on XX/XX/XXXX and requested a refund. I was told that they would call me back by Wednesday, XX/XX/XXXX and I still have not heard from anyone."
+}

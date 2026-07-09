@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8819",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60618"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29703,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I attempted to purchase a flight from XXXX XXXX for my wife and I for a total of {$1400.00}. Upon trying to complete the purchase their website froze and then crashed. I never received any confirmation or ticket information and so I purchased a ticket from another airline as we were stuck at the airport. Later as we were getting on our new flight I checked my credit card app and saw that I was charged for the tickets despite not receiving them. I disputed the charge as the goods were not delivered to me. \n\nSince then, I have attempted to resolve this dispute both with my bank ( Citi ) as well as XXXX XXXX. My bank was told that the ticket is non-refundable, which I understand. However, I never actually received the ticket and therefore should be eligible for a refund. My bank states that there is nothing more that they can do despite over XXXX calls and atttempts to email with their investigators. XXXX XXXX has given me conflicting information stating at XXXX point that there was a charge back and a refund was issued, but then later stating that only taxes and fees were refunded ( {$30.00} ). \n\nIt has now been over 4 months with me making consistent attempts to resolve this issue. Again, I never received any ticket information or purchase confirmation as the booking website froze and crashed. I do not have any confirmation documents to share and have now been accruing interest on this charge while my \" investigation is ongoing ''. I have filed a complaint with XXXX XXXX regarding this issue as well and am unsure of what to do next as I do not feel I should pay for goods/services not received. \n\nI have attached the response that XXXX XXXX sent to my bank as well as the receipt that they sent to me when I requested documentation."
+}

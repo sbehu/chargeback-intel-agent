@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3996",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98023"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45928,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Re \" XXXX Transaction : XX/XX/year> : XXXX XXXX XXXX XXXX XXXX  - {$3000.00} XX/XX/year> : XXXX XXXX XXXX XXXX XXXX {$350.00} XX/XX/year> : XXXX XXXX XXXX XXXX XXXX XXXX XXXX - {$38.00} I found out about the above fraud transaction and reported to American Express back in early XXXX, XXXX. In stead of taking any action against it, American Express decided to terminate the business relationship with me, denied the fraud claim without a specific evidence and closed my account. I tried to reopen the claim on XX/XX/year> and it was automatically closed the same day without further investigation or giving me a chance to submit more evidence. This is against the consumer right of the US government laws. \n\nBy this complaint, I respectfully request American Express to fulfill the duty of protecting customer from fraud transactions and approve the claim. I also would like to submit additional documents for evidence that the transactions are really fraud transactions. \n\nI contacted all the merchant and got XXXX responses from XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. Both of them confirm that the charges are fraud but as the fraud claim is already asserted, they advised me to submit the information to the bank to get the money back. XXXX XXXX XXXX confirmed there is no student associated with the payment and the payment has no relation to me as a card holder. \n\nXXXX XXXX XXXX XXXX also confirmed that on that day, the card was input by the card number and not the actual card by a group of players named XXXX XXXX from XXXX. I live in XXXX which is far away from XXXX. \n\nThe suspect name is XXXX XXXX. \n\nPlease see the attached file for the email from the merchant for the fraud confirmation."
+}

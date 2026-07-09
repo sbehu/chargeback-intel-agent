@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11332",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34744"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32169,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding an unresolved credit card dispute with Citibank that has been ongoing since XX/XX/XXXX. \n\nOn XX/XX/XXXX, I reported a charge on my Citibank credit card as fraud because I did not recognize the transaction. After reporting it, I later discovered the charge had been made by my mother without my knowledge. The item was returned to the merchant and a refund was issued. \n\nHowever, the refund was sent to the original card number, which Citibank had already closed due to the fraud report. I provided Citibank with proof of the refund when they requested documentation, but the case has still not been resolved as of XX/XX/XXXX. \n\nDespite this charge being under investigation and proof of refund already submitted, Citibank continues to include the amount in my balance. The transaction was also placed on a Flex Plan, which has caused my minimum monthly payment to increase to approximately {$260.00}. \n\nI have contacted Citibank multiple times for updates but have experienced poor communication, lack of clear instructions for submitting documentation, and delays in resolving the issue. I have already submitted proof of the refund, yet I have not received confirmation that it has been applied to my account. \n\nMy concerns are : Citibank has not resolved the dispute within a reasonable timeframe. \nThe refunded charge is still impacting my balance. \nMy minimum payment increased due to the Flex Plan tied to this disputed transaction. \nCustomer service has been unable or unwilling to provide meaningful updates. \n\nI am requesting that Citibank : Apply the merchant refund to my account immediately. \n\nRemove the associated Flex Plan and adjust my balance accordingly. \n\nCorrect any payment obligations created by this unresolved dispute. \n\nProvide clear documentation confirming the case resolution. \n\nI would also like confirmation that this issue will not negatively affect my credit history."
+}

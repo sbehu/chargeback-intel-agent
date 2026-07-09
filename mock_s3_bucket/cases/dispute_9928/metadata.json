@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9928",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93619"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45104,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have Citibank credit card. I received text message twice at same time on XX/XX/year> about suspicious transaction attempt from Citibank on my registered mobile number stating \" we Declined {$500.00} at XXXX * XXXX on XXXX your card may be restricted until we hear from you. '' I was asked to verify the transaction. I checked my account and found XXXX transaction {$1000.00} at XXXX XXXX and {$52.00} at XXXX from authorized user card named on my wife XXXX XXXX. I called Citibank fraud department immediately and reported about it. Citibank cancelled the card and opened an investigation. After about XXXX weeks Citibank declined fraud claim and stating that I XXXX used this card at these stores and it might have been cloned. I mentioned that neither me nor the authorized user ever used these cards at these stores. Most importantly, authorized user, my spouse XXXX XXXX, on which fraud transaction happened never ever used card physically to any merchant. Also even myself as primary cardholder used the card physically more than XXXX months back at different merchant. I requested the Citibank to verify this information in their system. Also if I didn't authorize the suspicious transaction activities then why was it approved. But Citibank didn't provide any definitive response for it."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2506",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77479"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25287,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "1 ) On XX/XX/year> I ordered a quantity of 5 giant skeleton decorations from XXXX in the amount of {$390.00}. Here is a link to the product and website. \nXXXX XXXX XXXXXXXX 2 ) I did not receive the merchandise, so after several weeks of waiting I reached out to merchant to inquire about the status of my order and shipment.\n\n3 ) I was informed that the items were delivered so I asked for tracking information since I did not receive the items. Based on the tracking information provided by the merchant, XXXX customer service, the items were delivered to an address in New York and not in XXXX XXXX, Texas. \n\n4 ) I asked that replacements be sent, but they told me now they are out of stock so I requested refund and was told a refund would be issued. \n\n5 ) After not receiving the refund and after the merchant stopped responded to my email inquiries about the refund, I disputed the charge with American Express. \n\n6 ) The merchant provided information to American Express including a new tracking number showing that item was delivered on XX/XX/year> to an address in XXXX XXXX, Texas but the delivery address did not get more detailed than just the City and State and did not indicate a street address. XXXX XXXX is a very large city and is part of the Greater XXXX area so a tracking number that just indicates the XXXX and State is meaningless and not helpful. Also, the merchant that submitted the documentation was not Geekfone.com but another company called BookishBunnyPillow.com and they submitted an invoice that showed different products than the skeletons. It was all very strange.\n\n7 ) When I looked up this tracking number, the status on USPS showed that a label was created and nothing was shipped yet.\n\n8 ) I submitted this information to American Express but the credit card company still sided with the merchant.\n\n9 ) I called USPS and they informed me I could purchase additional historical archived information that was more detailed on that tracking number and so I did that. This was an additional charge of {$9.00} to receive this archived information.\n\n10 ) Archived information showed that indeed some type of package was delivered to an address in XXXX XXXX, but that address was not my address, it was another address in XXXX XXXX, Texas. \n\n11 ) I submitted this to American Express to review the dispute again, but they again sided with the merchant stating that they can only rely on the information provided by the merchant and try to come to an amicable resolution and could not give me a refund. They said it was not their place to determine if the charge was valid or not since the merchant sent them documentation even though the documentation showed that the products were not delivered to my address.\n\n12 ) I decided to XXXX XXXX and XXXX and found dozens of negative reviews from consumers expressing that this website was a fraud and they received either no products after purchase or deceptively marketed products and not what they expected. \n\n13 ) I called American Express to complain about this issue as they state that they offer 100 % fraud protection and this is indeed fraud in my mind. They said they could not refund me, but could offer me {$500.00} in credit if I agreed to stay an American Express customer for another year. I told them after 17 years as an American Express customer I no longer wanted to do business with them and was declining the offer but would keep my account open until XXXX when my {$690.00} per year membership expired and I was able to use all of my membership points that had been accrued. Last year I spent an estimated {$250000.00} on this credit card so was very taken aback by the way they handled this. Or rather their lack of handling the situation and not siding with their customer."
+}

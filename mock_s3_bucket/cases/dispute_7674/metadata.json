@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7674",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44012"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44716,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Last week, I spoke to a member of Macy 's and requested that my entire {$1000.00} is refunded. I was told that it would be ; however, there is only a {$600.00} plus credit on the account. \n\nI was told that it would be corrected the next day ; however, the correction has not taken place as of date."
+}

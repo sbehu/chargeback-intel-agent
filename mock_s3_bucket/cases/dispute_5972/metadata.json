@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5972",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28786"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38164,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Citi Bank Failed to Provide Provisional Credit During Fraud Investigation ( Dispute ID : XXXX ) To Whom It May Concern : I am filing this complaint to report Citi Banks failure to comply with federal consumer protection laws in relation to a dispute I filed regarding unauthorized charges on my account due to identity theft. \n\nOn XX/XX/year>, I reported fraudulent activity to Citi Bank and filed a formal dispute under Dispute ID : XXXX. My card had been lost or stolen, and multiple unauthorized transactions were made without my knowledge or consent. I promptly followed Citis procedures, including submitting required documentation and communicating with their fraud investigation team.\n\nDespite this, Citi Bank has failed to issue a provisional credit to my account while the investigation remains open. This delay is placing a significant financial burden on me as a consumer and appears to violate federal law.\n\nSpecifically : For credit card transactions, the Fair Credit Billing Act ( 15 U.S. Code 1666 ) requires that creditors acknowledge a dispute within 30 days and resolve it within two billing cycles ( not exceeding 90 days ). During that time, the creditor must not attempt to collect the disputed amount or report it negatively to credit bureaus.\n\nIf the disputed transactions involved my debit card, then Citis failure to issue provisional credit is a violation of the Electronic Fund Transfer Act ( 15 U.S. Code 1693g ) and Regulation E ( 12 CFR 1005.11 ). These regulations require banks to complete their investigation within 10 business days or issue a provisional credit if more time is needed. That has not occurred.\n\nI have contacted Citi Bank multiple times for an update or resolution, but to date, no provisional credit has been issued and the matter remains unresolved. This is unacceptable, especially for a victim of identity theft who is trying to restore financial stability.\n\nI am requesting the CFPB to investigate Citi Banks handling of this dispute and ensure that they issue the appropriate provisional credit and follow all required federal guidelines to protect consumers.\n\nThank you for your attention to this matter."
+}

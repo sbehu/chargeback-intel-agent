@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9357",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "326XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9963,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank Handling of Billing Dispute Merchant : XXXX XXXX XXXX, XXXX, FL Amount disputed : {$6900.00} Citibank Account Type : Credit card Charge date : XX/XX/2025 Installation date : XX/XX/2025 Dispute filed : XX/XX/2025 Complaint Narrative I am requesting the Consumer Financial Protection Bureau to review Citibanks improper and untimely handling of my billing dispute under the Fair Credit Billing Act ( XXXX ) and Regulation Z. \nOn XX/XX/2025, I was charged {$6900.00} by XXXX XXXX XXXX ( XXXX, FL ) for replacement windows. The windows were installed on XX/XX/2025. Shortly after installation, I discovered that the windows delivered and installed did not match the products specified in my written contract, constituting a clear breach of contract by the merchant. \nOn XX/XX/2025, I opened a dispute with Citibank. On XX/XX/2025, Citibank informed me that the merchant claimed to have installed the product per the contract, but Citibank provided no written documentation from the merchant supporting this claim, nor did they provide any substantive review of my evidence. \nOn XX/XX/2025, Citibank reopened the dispute and requested additional documentationwhich I promptly provided on XX/XX/2025, and again on XX/XX/2025 in response to their emails. Despite receiving everything requested, Citibank failed to address the contradictory information I supplied, including written evidence showing that the merchants delivered product was not the product contracted for. \nOn XX/XX/2025, Citibank suddenly informed me that they could no longer assist because too much time had passed since the charge was made. This reason contradicts the fact that I filed my dispute timely and that Citibank continued corresponding, reopening the case, and requesting more information well within the regulatory dispute window. Citibanks own delays and lack of proper investigation should not be used as a basis to deny my rights under XXXX. \nOn XX/XX/2025, I sent a written request to Citibank for a formal reinvestigation under the Fair Credit Billing Act, citing regulatory requirements. As of today, Citibank has not acknowledged or responded to this request. \nI believe Citibank has : - Failed to conduct a reasonable investigation as required by FCBA/Regulation Z - Failed to provide documentation supporting the merchants claim - Failed to issue timely and compliant written determinations - Improperly denied the dispute by citing time limitations caused by their own delays - Ignored my written request for a reinvestigation"
+}

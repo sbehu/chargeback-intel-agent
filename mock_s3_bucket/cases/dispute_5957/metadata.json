@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5957",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90505"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39857,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "BEST BUY CASE ID : XXXX Fax : XXXX CITI XXXX  Name : XXXX XXXX XXXX BestBuy Credit card No. ending in XXXX Subject : Disputed amount {$760.00} for the date XXXX Sequence of events : XXXX Placed an order XXXX for XXXX XXXX XXXX XXXX XXXX XXXX for store pick up location XXXX XXXX XXXX XXXX Transaction amount : {$760.00} XXXX Cancelled the order XXXX as the price was reduced. {$760.00} credited back to account. ( There is no price match for XXXX XXXX XXXX ) XXXX Placed new order XXXX for the same XXXX XXXX XXXX. Transaction amount : {$700.00} XXXX Picked up open box laptop from XXXX CA location. Order No. XXXX XXXX 3 days after picking up the order ending in XXXX, I noticed the charge of {$760.00} on my account. So now I have XXXX charges {$700.00} and {$760.00}. I only bought 1 laptop. \n\nThis XXXX charge is not showing on my Best Buy account neither the customer service was able to pull it out I even fax all this information to My Bestbuy Visa credit card but they sided with the vendor showing their ill intent. \n\nBEST BUY CASE ID : XXXX Fax : XXXX CITI XXXX Name : XXXX XXXX XXXX BestBuy Credit card No. ending in XXXX Subject : Disputed amount {$760.00} dated XXXXXX/XX/year>"
+}

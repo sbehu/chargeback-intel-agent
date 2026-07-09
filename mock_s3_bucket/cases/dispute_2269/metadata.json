@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2269",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11361"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19483,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Order XXXX XX/XX/XXXX XXXX {$970.00} Dispute XX/XX/XXXX no tracking number XXXX vendor provided XXXX showing product in XXXX XXXXXXXX cancelled XXXX however Vendor had called back product to XXXX XXXX info attached. \nXXXX in the interim accepted dispute and took payment back from vendor XXXX claims money returned to my orginal form of payment they provided a transmittal number XXXX Based on vendor acceptance of dispute on XX/XX/XXXX Citi bank refuses to talk to me since I withdraw complaint even though I've sent them documents from XXXX and has never refunded my {$970.00} The bank also double billed me per the statement end XX/XX/XXXX And have never shown this credited"
+}

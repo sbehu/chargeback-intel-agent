@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1714",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14848,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> : I called Citi XXXX  regarding a charge that was made on my credit card. The company who charged me was XXXX XXXX and it was for {$10000.00}. \n\nI explained to XXXX that this charge was completed under duress. I was forced to complete the purchase and sign the contract out of fear for my safety as well as the safety of my daughters. I was in XXXX and was held in an office for over two hours, separated from my daughters and told that if I did not complete the transaction, then I would spend the rest of my vacation in a court room explaining to a judge why I had committed fraud. It was all lies and power plays, but the fact was that I was in another country forced to remain in an office until I complied. \n\nAn investigation was opened. \n\nXX/XX/year> : I received an email from XXXX stating that I was responsible for the charge and that the investigation was closed. \n\nI called XXXX and asked how/why they had come to this conclusion and I was told that it was because I had not provided enough documentation to prove that I had tried to cancel the purchase within the time allowed on the contract. \n\nI explained that I had not tried to cancel it. My reason for the dispute was that I was forced to complete a transaction under duress. My dispute has been reopened by Citi XXXX. \n\nSince then, I have submitted a formal request via email to XXXX XXXX to cancel my contract and return my money. They have not responded. \n\nI called Interval to see if XXXX XXXX had actually submitted my paperwork to be a member. I was told that there is no record in my name, my married name, or with my phone number. I asked for a written statement and was told to email them for that request. I emailed them and have not received a response. \n\nAll of this is documented in the timeline I am attaching. \n\nXXXX XXXX needs to be addressed for their fraudulent tactics and Citi XXXX needs to do more to support their customers during a dispute. \n\nThe card still has my married name, not my current legal name."
+}

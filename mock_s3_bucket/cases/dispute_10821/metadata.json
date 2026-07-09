@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10821",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7896,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank , N.A . for failing to conduct a \" reasonable investigation '' of a billing dispute ( Case ID : XXXX ) as mandated by the Fair Credit Billing Act ( FCBA ). \nOn XX/XX/XXXX, I returned a rental vehicle to XXXX ( XXXX, XXXX ) at XXXX XXXX  to the short-term parking lot, per their instructions ( XXXX email attached ). The merchant charged me a {$3500.00} \" full excess '' for damage they claim was found at XXXX XXXX, over three hours after I surrendered custody. I provided Citibank with irrefutable proof ( flight records, email stating where to return car ) showing I was inside a secure terminal and physically unable to have caused the damage during that window. \nFurthermore, I provided Citibank with evidence of fraudulent invoicing and bad faith documentation by the merchant : The merchant provided three conflicting financial demands for the same claim : XXXX, Pg XXXX ( XXXX ), XXXX, Pg XXXX ( XXXX ), and XXXX pg XXXX ( a non-itemized demand for \" XXXX '' ). \n\nThe car was not repaired for 6 weeks, and only a tire was repaired. \n\nDespite this, the merchant charged the full {$3500.00} ( excess ), with no evidence of repair. \nThe merchant failed to provide a valid VAT invoice, a legal requirement for repair charges in XXXX, they also failed to show time-stamped photos with the Damage Evaluation Tool , per their policy, for the scratches/ scuffs. The merchant has 2 separate claims for the same incident. \nCitibank ignored these 10 documented material discrepancies ( attached Formal dispute summary ) and closed the dispute based solely on the merchant 's reports. I am requesting that the CFPB compel Citibank to reopen this investigation and address why they are permitting a merchant to charge over 10x their own documented repair estimate in violation of XXXX Merchant Rules ."
+}

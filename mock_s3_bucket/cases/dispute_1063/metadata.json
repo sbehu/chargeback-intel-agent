@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1063",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "606XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40354,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, XXXX charged my American Express account and eventually shipped me an empty box, lying to Amex in the dispute process that they wouldve delivered a XXXX XXXX computer. I am still in possession of the sealed box as evidence, but Amex is unwilling to look at the clear evidence Im providing as a part of the dispute. Now Im being charged for something I have never received and Amex is not helping."
+}

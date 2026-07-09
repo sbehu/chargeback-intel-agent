@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4758",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22407"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26497,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Previous ticket : XXXX I am being charged again by the wire fraudsters. this is scary. \nI never activated the card I received I was charged on XX/XX/year> for XXXX and another charge appeared on XX/XX/XXXX for XXXX both charges were listed as paying interest to XXXX XXXXXXXX All charges to XXXX XXXX are fraudulent and amout to wire fraud. The other is XXXX I have nothing to do with these organizations. \nThe website for XXXX XXXX home page does not exist. \nTHIS IS WIRE FRAUD AND A FELONY. \nI NEED CITI SIMPLICITY CARD TO LOOK INTO THIS THE CARD ISN'T EVEN ACTIVATED AND THEY ARE STILL STEALING FROM ME!!"
+}

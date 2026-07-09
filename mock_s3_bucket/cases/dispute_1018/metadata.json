@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1018",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25021,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/23 I applied for a Macy 's credit card to take advantage of a store sale. I paid the entire amount of the purchase using another credit card. \n\nXXXX Citi Bank purchased the account. \n\nOn XX/XX/23 I received a letter from Citi Bank claiming that my account was past due. \n\nI called my local Macy 's and was able to determine that I owed {$64.00} of which {$30.00} was past due. \n\nThese charges were not authorized by me. \n\nI spoke with the XXXX XXXX and was told, over the phone, that due to the dispute my account now had a XXXX balance. I was not allowed to close my account."
+}

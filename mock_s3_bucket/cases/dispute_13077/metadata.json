@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13077",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94087"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40516,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : American Express Product : Credit Card Issue Type : Billing dispute / Fraud not properly handled Complaint : I am filing this complaint regarding how Amex handled a fraudulent transaction linked to purchase made in XXXX XXXX. This case involves social engineering fraud during delivery not a standard merchant dispute. \n\nWe ordered XXXX from XXXX and it was open box delivery, however, on the day of delivery my mom got a message ( attached ) saying \" no open box delivery '' from XXXX and the delivery agent refused to open the box and told my mom it is not a open box delivery and tricked her to share OTP without opening the box. Later the technician agent came and opened the box only to find the TV was a used XXXX model completely broken. \n\nThis is a known SCAM pattern where OTP is obtained through deception before customer has opportunity to confirm receipt of goods. I reported this to AMEX as fraud. However, my claim was denied and treated as standard dispute that OTP was shared. This is incorrect and does not reflect the nature of incident. This situation has caused financial loss as well as mental distress and I expect a fair and thorough fraud investigation consistent with consumer protection standards. \n\nAttached is the TV we got after opening box, amex dispute email, XXXX message saying no open box delivery, and XXXX invoice details ( XXXX XXXX is my husband ) Dispute submitted date : XX/XX/XXXX Dispute decision date : XX/XX/XXXX XXXX ordered date : XX/XX/XXXX Amount involved : {$560.00} + {$14.00} ( transaction fees )"
+}

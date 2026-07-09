@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9179",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "773XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5546,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged by XXXX at XXXX XXXX XXXXXXXX a total of {$960.00} - {$800.00} for a home appraisal and the remainder for a credit check and fees. This was after the home appraisal fee was paid in our closing costs, and no credit check charge was authorized. An authorization was given for an employment check, which was not preformed. I filed a dispute with Citi bank, as these were incorrect charges, and tried to contact the vendor. The vendor refused to take back the charges, even though the appraisal had been paid at closing. I sent Citi bank proof of this payment on XX/XX/XXXX. Citi bank never reviewed the paperwork, and closed the dispute in favor of the vendor. Citi bank did not take my paperwork into consideration until re-charging me, without my knowledge or notice, and only then when I called in for more information on XX/XX/XXXX did Citi bank acknowledge receipt of my email and send it to the investigating team. Citi bank reached out to me initially for information and requested the paperwork on XX/XX/XXXX. They then reached out to me a second time, where they again asked many of the same questions. I asked the representative multiple times if the email paperwork I sent in had been received or was being investigated, with no concrete response. And then the dispute was closed without acknowgement of my evidence."
+}

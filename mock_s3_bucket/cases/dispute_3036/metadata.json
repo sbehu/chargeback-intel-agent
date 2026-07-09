@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3036",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92571"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25833,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express XXXX XXXX XXXX XXXX  CA XXXX XXXX XXXX XXXX XXXX XXXX NY XXXX XXXX XXXX ) XXXX RE : Acct XXXX Complaint I called the business on XX/XX/year> to let them know I need them to refund my credit balance of {$12.00} sitting on this paid off account. I spoke to a man named XXXX who refused to mail my refund to my home address of record in the form of a check. I told them that I was going to file a Formal Complaint if they are refusing to refund money that I don't owe. I filed my complaint with the Better Business Bureau where there were several other complaints filed on this business ; Better Business Bureau Customer Complaints ; XXXX complaints closed in the last XXXX  years XXXX complaints closed int he last XXXX  months"
+}

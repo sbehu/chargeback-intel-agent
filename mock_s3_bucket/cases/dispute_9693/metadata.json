@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9693",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94568"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18894,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked airline tickets through a third-party travel agency ( XXXX ) using my American Express card . When I later contacted the merchant to change my travel dates, I was told I would only need to pay the fare difference. The merchant provided an exchange quote showing {$200.00} as a fare difference, with no disclosure that this amount was a non-refundable processing fee. \n\nAfter the airline canceled the flight and issued a full refund, the merchant withheld {$200.00}, later claiming it was a non-refundable processing fee. American Express sided with the merchant based on generic booking terms from the original purchase, even though there is no evidence that this fee was disclosed or agreed to at the time of the date-change request. \n\nI relied on the merchants representation that the {$200.00} was a fare difference. The fee was mischaracterized only after the fact. I believe this constitutes a deceptive billing practice, and I am requesting that American Express reverse the {$200.00} charge or issue a goodwill credit."
+}

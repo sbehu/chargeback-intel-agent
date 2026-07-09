@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4722",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NY",
+    "complaint_zip": "11214"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23058,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX : I receive a statement to my old address on XXXX XXXX XXXX XXXX NY XXXX. It says that I am paying the minimum amount for a statement balance over {$3000.00} for an account that I closed and paid in full before closing. I call the bank and request for statements that might include actual transactions or charges to the account that are not just interests that I need to pay to the bank. The bank send me statements from XXXX XXXX. \nXX/XX/XXXX : I call the bank to provide statements prior to XX/XX/XXXX. They can not provide statements prior to that, and I am unable to check if any of the charges are fraudulent. I want to know what I am paying for. The statements from XX/XX/XXXX onwards are only interest charges."
+}

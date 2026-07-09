@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1393",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60654"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36141,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "- XX/XX/XXXX I made a purchase on my Gap Card through paypal in the amount of {$120.00} - XX/XX/XXXX a refund was processed for the total amount ( {$120.00} ) from XXXX through XXXX. \n- XX/XX/XXXX - I called Gap Mastercard to ask why I am still not seeing the refund reflected on my account. I was told that at some point during the time of the purchase and the time of the refund my Gap Mastercard acocunt was transferred from XXXXXXXX XXXX  to Barclays and these transactions will take 30 days to reflect on the account since it was refunded to my XXXX account number. \n- XX/XX/XXXX -I called b/c the amount was still not reflected on my account and was told it takes 90 days NOT 30 day. \n- XX/XX/XXXX - I called and was told they have no idea where the money is. \" call XXXXXXXX XXXX  '' and see if they can help. I called XXXX and was told they are not the account holder. I called XXXX and was told the refund was processed ( I have proof of this ) and called Barclays again. They said they will open an \" investigation '' and a supervisor will call me back within XXXX hours. \nXX/XX/XXXX - I called Barclays ( the phone number on the back of my card ). There is no record of an investigation, only records of my previous calls and I should try to call Gap Customer Service ( the store!! ). They do have record of the original transaction but not of the refund, \" sorry! '' They said no supervisor available but will call me back."
+}

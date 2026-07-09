@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6176",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11687,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is an extension of the previous complaint - XXXX, filed on XX/XX/year>. \n\nA personnel was assigned from the Office of the President, by Barclays to resolve this case. I had spoken to this personnel ( XXXX XXXX XXXX and provided him with all the background details. \n\nOn XXXX XXXX, Barclays got back to me that the investigation was complete, BUT they were unable to resolve the issue in my favor. I spoke to XXXX XXXX and he confirmed that Barclays was unable to identify the details of the merchant in XXXX to whom this payment was made, but still did not consider this a fraudulent transaction. This is very surprising that the credit card company is unable to even identify the beneficiary of a transaction."
+}

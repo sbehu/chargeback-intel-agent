@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6499",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23111"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22254,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX a purchase was made to XXXX in the amount of {$920.00}. I did not make this purchase and nobody else had access to my credit card. \n\nI disputed the charge and they refunded the charge during the very short investigation and then put the charge back. Barclays credit card said the information they received indicated I made the purchase. \n\nI then called XXXX to let them know I did not make that purchase. They said they would investigate. Never heard back from them. \n\nI called Barclays again yesterday to follow up and they said XXXX confirms the purchase was made by me. \n\nI believe someone hacked into my XXXX account and made the purchase under my name with the card I had previously used in XXXX of XXXX."
+}

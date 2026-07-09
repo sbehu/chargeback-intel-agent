@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10971",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77082"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45229,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I discovered unauthorized transactions on my Macys American Express card and immediately reported the fraud to the company. I was informed that the charges would be removed and that I did not need to make payment while the investigation was ongoing. \n\nIn XX/XX/XXXX, I noticed a balance remained on my account. When I called, I was told that a prior representative had failed to code all transactions as fraudulent. I was again told not to worry and that the issue was being corrected. \n\nBecause I am in the process of purchasing a home and was concerned about protecting my XXXX XXXX, I paid the outstanding balance before the due date to avoid any potential negative reporting. \n\nAfter payment, a fraud specialist contacted me and confirmed that the investigation was resolved in my favor and that all transactions were fraudulent. I was told the amount I paid would be credited back to my account. \n\nHowever, the promised credit has not been applied. A small balance ( {$3.00} ) later appeared on my account despite no new purchases. I have called multiple times since XXXX and have requested written confirmation that the fraudulent charges were removed and that no negative reporting has occurred. I have not received written confirmation and have been unable to speak with a supervisor despite repeated requests. \n\nThis ongoing mishandling of a confirmed fraud dispute has caused significant stress, particularly because I am in the process of obtaining a mortgage. I am concerned about improper balance reporting and potential harm to my credit profile. \n\nI am requesting that the company : Apply the full credit owed to me. \n\nRemove any interest or residual charges related to fraudulent transactions. \n\nConfirm in writing that no negative credit reporting has occurred. \n\nProvide written confirmation that the account reflects a zero balance related to this dispute."
+}

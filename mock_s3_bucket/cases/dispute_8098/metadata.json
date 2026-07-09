@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8098",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "71112"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35915,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Starting in XX/XX/XXXX, I noticed a charge on my account that I did not make. I called Barclay Card and notified them on XX/XX/XXXX. They lady on the phone assured me that they would look at it and get back with me, They didn't. I called again on XX/XX/XXXX. The lady said \" Yes '' we have a problem but it should be solved in 2-3 days. At this time I got locked out of the website and could no longer access it. On XX/XX/XXXX. I was able to access the website for a few minutes and at that time their where about {$8000.00} in fraud charges. I closed the account. I have never been able to get back on the site and they won't give me an answer why, except to say your account is flagged. It was recommended that I file a police report, I did on XX/XX/XXXX. I met with the Detective XXXX of the XXXX XXXX Police Dept. XXXX. He subpoena the records and we went through them on XX/XX/XXXX. easily identified the fraud charges. I sent the police report in to the legal dept of Barclay Card. XXXX. I got an automated response telling that they would contact me, The next day I got an email from Barclay saying a response is in the website, that I can't get in. I called again today and was told we had to wait on \" Legal '' My credit score has dropped XXXX points in the past 2-3 months. I can't even get in the website to make a payment. \n\nPlease help. \nXXXX XXXX"
+}

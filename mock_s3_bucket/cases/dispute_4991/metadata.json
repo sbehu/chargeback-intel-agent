@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4991",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7181,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is based on Federal Regulation Z compliance. \n\nI gave a resort hotel my credit card to \" hold '' as a security deposit. Nothing was supposed to be charged. After attending various seminars sponsored by the resort, I was given a certificate for a credit toward the hotel cost. Upon presenting the certificate at check out, the hotel charged {$2.00} after application of the resort credits. I signed for the {$2.00} and left. \n\nWhen I received the bill, the hotel charged {$1000.00} but I did not authorize the charge. I did not sign for the charge. I filed a chargeback with the credit card company, AMEX. The credit card company did not communicate with me about the chargeback, but closed the matter. The hotel did not produce a signed receipt or any other evidence demonstrating I had authorized any charge except {$2.00}."
+}

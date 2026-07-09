@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1074",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48182"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32595,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "While traveling in XXXX we were approached by representatives of XXXX XXXX. My husband won the grand prize of either an XXXX, a cruise, a trip at one of 7 hotels here, or {$1000.00} gift card ( that must be used there ) We attended their presentation and we purchased a license agreement on XX/XX/XXXX at the company 's offices in XXXX. We were told this would allow us to purchase vacation packages at discounted prices. After further research, we determined this was not the case and that there were many complaints due to many fraudulent claims. Much of the information provided during the sales talk was unsupported, false or fraudulent. The phone numbers provided for the corporate offices located in the states were fraudulent. We exercised our right to cancel our contract within the three day time frame according to our contract by personally dropping off a cancellation letter to the companys offices on XX/XX/25. We asked the gentleman who had given the presentation if we needed anything else and he said no. The next day on XX/XX/XXXX, XXXX left a message on my voicemail stating he had received our letter and wanted to discuss. We were traveling and not able to return his call. He left another message the following day saying he was having trouble crediting our card. ( I still have the audio calls. ) This was because by that point I had canceled my card. After our dispute with American Express was denied, we were told to contact the merchant. I did this on XX/XX/XXXX. I was told by XXXX that we had already been credited by American Express and that he could not help us. At this time, he acknowledged he had our cancellation letter in our file. After I explained to him that this was not the case, and that American Express had told me to contact them, he had me talk to XXXX, who said that because we had filed a dispute, we were already credited, and they were not able to refund our money. I tried to explain that this was not the case and that we were still waiting on our refund. This company forces you to cancel their contract in person but does not give you a receipt and then refuses to refund your money. American Express is refusing my dispute based on no proof of cancellation. I have sent all the following information to prove cancellation. How is American Express not helping me get my money back. How else can I prove it? How is XXXX allowing this company to defraud American tourists. \n\n1. I have a voice mail recording from XXXX stating that he had received and was calling about my cancellation letter. I have sent a transcript of that message in the past and have the audio proof. \n2. I have submitted photos to show that I did indeed deliver the cancellation letter in person to the sales office.\n\n3. I have sent a copy of the cancellation letter that was delivered to them.\n\n4. I have also included the name of the authorized agent for the vendor which is the same individual who left me the message.\n\n5. The agent has verbally acknowledged the cancellation letter in our file. \n6. We have had no access to the account since XXXX. \n7. I have asked the vendor to send a receipt of my cancellation letter and they have not. They keep saying I need to get my money from American Express. \n\n\nPer their own acknowledgement of receipt, we are entitled to receive our money back. The merchant is not saying they don't have my cancellation letter, they are saying they can not give me my money back that it has to come from American Express. If the company refuses to give a refund, then American Express should protect their customers. The company has been unresponsive and uncooperative. American Express keeps responding with the same denial letter stating previous contact with merchant."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10262",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97202"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47424,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased a pair of XXXX XXXX  on XXXX for {$86.00}. The sellers listing showed the jeans with no defects and did not mention any missing components. When the item arrived, the jeans were missing the original XXXX branded leather waistband patch, which is a permanent factory-stitched feature of all XXXX denim XXXX This patch is not a removable accessory ; its absence materially changes authenticity, resale value, and condition. \n\nI opened a dispute with American Express and submitted photographic evidence showing the missing patch and a copy of the listing, which does not disclose the removal. This is a textbook Significantly Not As Described ( SNAD ) case because the item delivered materially differed from the item advertised. \n\nXXXX refused to authorize a return based solely on their internal policy window, not based on whether the item actually matched the description. American Express then denied the dispute twice, relying only on the merchants policy and not addressing the SNAD evidence. \n\nThe merchants evidence package contained no photographic rebuttal and did not dispute that the patch was missing ; it consisted only of policy text. American Express did not evaluate the defect, did not address the photos I provided, and did not explain how their determination complies with Regulation Zs requirement for a reasonable investigation.\n\nI am asking for help because American Express incorrectly denied a valid billing-error claim by relying on merchant policy instead of the condition of the goods delivered."
+}

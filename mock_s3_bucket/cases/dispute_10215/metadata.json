@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10215",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "RI",
+    "complaint_zip": "2860"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27177,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I have noticed some fraudulent on my XXXX XXXX XXXX so I proceeded to call the Citi.XXXX to replace the card and shut off the digital wallet. after this was done and digital card wallet was shut off, the new card was sent to the hackers again as we did not do anything. the mishap on Citibank has resulted in XXXX of fraudelint charges that occurred in XXXX ( XXXX ), the charges occured from XX/XX/XXXX till XX/XX/XXXX without any notices from the bank even though they were quite large. I did call the bank and disputed all charges under the fair Credit Billing Act, They have been XXXX  me around since then caliming they had called me and sent me letters, I have never received anything."
+}

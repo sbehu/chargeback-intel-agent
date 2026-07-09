@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13153",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75219"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14526,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding an unresolved dispute with Citibank involving an unauthorized charge. \n\nThe charge in question was from XXXX XXXX on XX/XX/year>, in the amount of {$500.00}. I did not authorize this charge, as I had already canceled the service prior to that date and provided written confirmation of my cancellation to Citibank. Despite this, the merchant charged my card. While the merchant later issued a partial credit of {$68.00}, the remaining charge is still unauthorized.\n\nI have been attempting to resolve this issue for over six months. During this time, I have provided documentation, including proof of cancellation, yet the dispute remains unresolved. I was also explicitly advised by a Citibank representative not to pay the disputed amount. As a result of following this guidance, I incurred {$160.00} and {$150.00} in interest charges.\n\nAdditionally, the handling of this matter has negatively impacted my account. Due to the disputed charge, my grace period was lost, and I am now being charged ongoing interest even though I have been paying my full balance each month.\n\nThroughout this process, I have received inconsistent and conflicting information from different representatives. None of the guidance provided aligned from one interaction to the next. I escalated the matter to a manager, who disconnected the call before the issue was addressed. I am requesting that recordings of all calls related to this dispute be reviewed.\n\nI have made payments in good faith to avoid further financial harm, but these payments should not be interpreted as acceptance of the charge.\n\nI am requesting that the unauthorized charge be fully reversed, that all related interest charges be credited back to my account, and that the handling of this dispute be formally reviewed."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7080",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "183XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I booked a vacation package with XXXX over the phone. I was clearly told by their representative that I could cancel the entire package ( hotel and flight ) within XXXX hours without penalty. Due to an urgent immigration concern, I attempted to canceled the package on XX/XX/year>, approximately XXXX hours later. \n\nSensing from the Priceline representative that there might be an issue with honoring the cancellation, I immediately called Barclaysthe issuer of my credit cardto warn them that the upcoming charge from Priceline was unauthorized. At that time, the charge had not yet posted to my account. I specifically requested that the transaction be flagged and that my account be closed to prevent further unauthorized activity. \n\nDespite this proactive and timely effort, Barclays allowed the charge to post. I later filed a formal dispute, but they only temporarily and partially refunded the amount. I have since received conflicting responses from Priceline about the hotel portion being non-refundablecontrary to the terms I was promised. \n\nI previously filed a complaint with the CFPB, but it was closed with a conclusion that I had not provided enough proof. I am now re-filing this complaint because : I was never given a chance to explain that the cancellation was made by phone, so I never received a written confirmation. \n\nI acted in good faith to cancel and dispute the charge before it was posted. \n\nI closed my account specifically to protect myself, and yet the charge was still processed. \n\nBarclays failed to protect me as a consumer. I am asking CFPB to reopen or reconsider this case, and to hold Barclays accountable for not blocking an unauthorized transaction, despite timely notice. I also request a full and permanent refund of the charge and confirmation that my rights under the Fair Credit Billing Act were honored."
+}

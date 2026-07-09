@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8095",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78216"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7287,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "am disputing a fraudulent XXXX charge that was made using my stolen Best Buy credit card. \n\nThe charge was for an item I did not order, did not authorize, and did not receive. The order used an email address that is not mine and has never been associated with me. The transaction occurred in the middle of multiple other charges that Best Buy already acknowledged were fraudulent -- I had first called about the charges when I saw them online and then later did the additional paperwork Best Buy required. \n\nDespite these facts, Best Buy denied my this part of my fraud claim and marked the dispute as closed, without providing : Proof of delivery ( no signature, no tracking, no confirmation ) Any documentation linking the XXXX address or device ID used to me Any valid explanation for ignoring the unauthorized email used Because the marked it closed, I mailed a formal, certified letter on XX/XX/year>, demanding a reinvestigation and requesting this documentation. As of today, Best Buy has not responded to the contents of that letter or provided a legally sufficient explanation under the Fair Credit Billing Act ( 15 U.S.C. 1666 ).\n\nI am requesting that this charge be reclassified as fraudulent and removed from my account, and that Best Buy be held accountable for mishandling the dispute."
+}

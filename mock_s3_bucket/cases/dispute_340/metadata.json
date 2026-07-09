@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_340",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60622"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33342,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im writing with regard to a Citi fraud investigation related to a series of fraudulent charges to my Citi Premier card occurring on XX/XX/XXXX. The charges were attributed to a merchant unknown to us ( XX/XX/XXXXXXXX XXXX in the amounts of {$880.00}, {$3400.00}, and {$6000.00}. \n\nWhen contacted by the Citi fraud department on XX/XX/XXXX through their early fraud warning system, I was asked whether our card was in our possession. I explained to the caller from Citi that we did have at least one card in our possession, but that this was our previous Citi Thank You Card, not the new upgraded Citi Premier cards wed recently requested. \n\nIn fact, the new Citi Premier cards hadn't arrived through the mail in a timely fashion, leading us to now believe that they may have been intercepted and used for the fraudulent charges. \n\nI have filed a police report with the XXXX Police Department and can provide you with the report number if needed. \n\nYet, according to a letter we received from Citi dated XX/XX/XXXX, Citi has closed the investigation of these charges and is holding us responsible, citing that we had the cards in our possession. I have called twice in the interim to again explain that the cards in our possession at the time of the fraudulent charges were our previous Citi Thank You cards and not the Premier cards that were yet to be received through XXXX mail. \n\nNote that Citi did determine that two charges taking place on XX/XX/XXXX were indeed fraudulent, and is not holding us accountable -- making it puzzling that they did not determine the fraudulent charges on XX/XX/XXXX as related. \n\nPertinent to Citi 's investigation, we also received a bill from XXXX for a fraudulent charge which appeared related to one of the disputed charges ( we are not XXXX customers ). XXXX quickly investigated, verifying that the charge was indeed fraudulent, and has notified the credit bureaus on our behalf. We have provided this information to Citi. We have also provided the XXXX Police Department police report. \n\nPlease let us know if you need any further information from us to assist in asking Citi to reopen the investigation and reconsider their decision. \n\nThank you!"
+}

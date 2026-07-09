@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10915",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "280XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36326,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'Citi AADVANTAGE Platinum select card ending XXXX XXXX XXXX XXXX XXXX XXXX XXXX\\nBooked \"XXXX XXXX XXXX\" cabin arriving XXXX XXXX XXXX departing XXXX XXXX XXXX    Requested a cabin within a few miles of XXXX XXXX XXXX and that roads to the cabin not be in high elevation area and easy to reach.\\nWe arrived in 4 wheel drive vehicles.  XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX\\nArrived XXXX XXXX XXXX   to the cabin.  The roads to drive to the cabin had no snow or ice and were driveable. Once reached the entrance to the cabin found the parking spaces completely covered in snow and ice.  The steps into the cabin were each covered with about 5\" of snow and ice\\nThe cabin was \"inaccessible, unsafe, and we were unable to occupy\".  We called immediately to XXXX XXXX XXXX XXXX   We informed of the situation.  We were told they would try to get sand or dry ice delivered to covering the parking spaces so we could at least park in the parking area.  NOTHING WAS DONE...NO SAND OR DRY ICE delivered.     A 22 year old in our party found a shovel.  He shoveled the parking space for at least one vehicle but found a sheet of ice which was unsafe.   WE HAD 4 WHEEL DRIVE VEHICLES.  We could not access the cabin...totally unsafe...totally inaccessible.  We asked for a refund as we could not occupy the cabin and with the impending darkness informed the realty company that we could not access or occupy the cabin due to safety.  \\nWe drove about 5 to 10 minutes to the nearest hotel and booked 3 rooms for the two nights.  A large unexpected expense.\\n\\nFollowing our departure from the area of the cabin, we called twice and also sent a letter asking for a refund.  No response other than to say we were required to have 4 wheel drive vehicles.  We had 4 wheel drive vehicles.!!!!\\n\\nWe then called the credit card company and disputed the charge due to our inability to access the cabin due to safety and inability to occupy.  Our dispute was  reviewed and denied without notifying us of a reason for the denial..\\n\\nWe are asking CFPB to review the matter and to escalate the matter with Citi AAdvantage and ask Citi to Credit our card in the total amount of XXXX"
+}

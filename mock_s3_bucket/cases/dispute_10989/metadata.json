@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10989",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30331"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21086,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX Card XXXX I am filing this complaint against American Express National Bank regarding their improper handling of a billing dispute under the Fair Credit Billing Act ( FCBA ). \n\nThe disputed transaction is : Merchant : XXXX XXXX XXXX Amount : {$8500.00} Transaction date : XX/XX/XXXX Reference number : XXXX Account ending : XXXX I reported this charge to American Express because I did not receive the goods or services associated with this transaction. \n\nAmerican Express initially issued a temporary credit while they investigated. However, in their letter dated XX/XX/XXXX, they stated that they contacted the merchant and determined that I am responsible for the charge. They then rebilled the full amount to my account. \n\nAmerican Express did not provide any valid documentary evidence proving that I received any goods or services. They did not provide : Proof of delivery Signature confirmation Shipping records Contract or authorization Any verifiable evidence supporting the merchants claim Instead, their decision appears to rely solely on the merchants explanation.\n\nI formally disputed this charge within the required time limits and also sent a written Notice of Claim requesting the evidence and a proper investigation. \n\nAmerican Express has failed to conduct a reasonable investigation and failed to provide sufficient evidence as required under the Fair Credit Billing Act.\n\nI am requesting that American Express : Provide all documentary evidence they relied on to deny my dispute Conduct a proper investigation Remove this charge permanently from my account This charge is invalid, and I am requesting regulatory assistance to resolve this matter. \n\nXXXX XXXX"
+}

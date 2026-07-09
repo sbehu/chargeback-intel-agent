@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6954",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77573"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7484,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I saw charges of {$200.00} and {$370.00} on my XXXX Citi credit card that I consider fraudulent since services were not rendered as promised when I tentatively approved them. I sent letters to Citi dispute these charges detailing my reasons on XX/XX/year>, XX/XX/year> and XX/XX/year>. I called several times and was lucky enough after a while to get pass the artificial stupidity system and reach a human being who asked me a security question I never gave Citi an answer to! Instead of asking me the other 3 questions I had set up when I applied, the person insisted I told her \" What was my preferred snack ''. Laughable! My credit card has since been blocked preventing me from accessing my account. I proceeded to destroy this card and mailed the pieces back to citi along with a copy of my last letter with \" Cancel this card '' hand written on it. I have not received any last statement from them and I am concerned that whey will now charge me their outrageous fees. \nThe courtesy of a reply to my letters and at least a last statement mailed to me so that I can pay the balance would be appreciated."
+}

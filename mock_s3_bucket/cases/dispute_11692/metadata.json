@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11692",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27529"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31469,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Citi 's repeated denial of my billing dispute ( Case XXXX ) for a charge of {$790.00} from XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX. Citi 's denial letter dated XX/XX/year> appears to rely primarily on the merchant 's refusal to issue a credit rather than evaluating the substance of my dispute. I have followed up multiple times on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/year> with no meaningful response or reconsideration. \n\nMy dispute has two distinct grounds : 1. Forged / Unrecognized Signature on Merchant Documentation The merchant submitted paperwork to Citi that either does not contain my signature, or contains a signature I do not recognize as mine and that was never presented to me at the time of purchase. This documentation was not shown to me during the transaction and appears to have been fabricated or altered after the fact. I explicitly notified Citi of this in writing and offered to provide a signature sample for handwriting comparison. Citi did not pursue this. \n\n2. Material Misrepresentation and Deceptive Sales Practices The purchase was made in a high-pressure, tourist-facing retail environment. The merchant made verbal representations about the quality and authenticity of XXXX XXXX  that were material to my decision to purchase. The documentation provided contains no verifiable information about fiber composition, authenticity standards, or quality certification. Comparable XXXX products are widely available online for {$3000.00}. I was charged {$790.00}. \n\nCiti has not engaged with either of these arguments. Under the Fair Credit Billing Act and Visa dispute rules, authorization of a charge does not override material misrepresentation, nor does it validate documentation that the cardholder did not sign or agree to. The merchant 's refusal to issue a refund is not a valid basis to close a dispute Citi has an independent obligation to investigate under the FCBA. \n\nI am requesting that the CFPB require Citi to conduct a proper review of both the signature authenticity issue and the misrepresentation claim, and reverse this charge."
+}

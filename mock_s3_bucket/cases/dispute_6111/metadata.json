@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6111",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32738"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33098,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding American Express and their refusal to allow me to file a valid dispute for a transaction where the merchant clearly promised a refund in writing and failed to follow through. \n\nI contacted American Express to dispute the transaction, provided them with written communication from the merchant explicitly agreeing to issue a refund, and yet I was denied access to the dispute process. At no point was I given a formal investigation or a fair opportunity to exercise my rights under the Fair Credit Billing Act. \n\nI have documentation showing : The merchant acknowledged receipt of my cancellation before the product shipped. \n\nThe merchant promised a refund contingent on return, which I initiated. \n\nThe merchant failed to process the refund after the return was complete. \n\nDespite this, American Express chose to block my dispute from even being processed. They essentially acted as a gatekeeper for the merchant, rather than as a neutral party, leaving me financially liable for a product I canceled and returned according to the merchants own terms. \n\nThis sets a dangerous precedent. Its not just a failure in customer service its a denial of the basic protections afforded to consumers when a merchant fails to deliver on their promises. \n\nI am requesting that the CFPB open a formal complaint against American Express for their refusal to investigate or allow me to dispute the charge, and compel them to comply with dispute handling procedures as required by federal law. \n\nI am happy to provide documentation of the merchants promises and timeline of events if needed."
+}

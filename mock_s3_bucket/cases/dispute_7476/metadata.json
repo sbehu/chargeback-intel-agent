@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7476",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "92173"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40533,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express refused to honor clear evidence that the hospital forged my signature and charged more than was agreed upon. I provided copied to you and them clearly shoeing that what I said was true. I also provided medical proof that the hospital did not perform the XXXX and take care of the issue. According to this from the FTC, Sometimes a company may bill you twice for the same thing or bill you for something you either returned or never got. Federal law ( the Fair Credit Billing Act, or FCBA ) sets out a dispute process to help you get those mistakes fixed on credit cards and revolving charge accounts ( like open-end credit accounts ).\n\nUnauthorized charges. Federal law limits your responsibility for unauthorized charges to {$50.00}.\n\nTherefore, since they were both, unauthorized charges, I agreed to pay {$4000.00}. They charged me closer to {$7.00} by forging my signature and they did not remove the XXXX, so I was billed for something I never got. As a result my responsibility is only {$50.00} I am attaching proof from the XXXX Scripts that the XXXX  is still there. Also pictures from the XXXX."
+}

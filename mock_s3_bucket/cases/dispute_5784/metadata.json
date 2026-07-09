@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5784",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11427"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20547,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ive had fraudulent charges from XXXX XXXX And XXXX XXXX closed my pro account claiming that there was fraud without any explanation and were not responding emails and calls asking about it since I had many perks and discounts on my account. \nSo I turned to American Express requesting to report fraudulent charges in the amount of XXXX $ After 5 months the responded saying that XXXX XXXX had my credit card information so the charges it therefore it is not valid claim I dont know who else to turn to but I definitely not going to seat quite and see how those XXXX companies do whatever they want and defraud customers."
+}

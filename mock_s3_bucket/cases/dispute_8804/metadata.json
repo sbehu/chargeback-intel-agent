@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8804",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11417"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44916,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a Citi custom cash card. I was notified of strange charges, I logged in and saw transactions in Texas that were not mine, I live in NY and work for the City of NY so my location is logged, I have not been to Texas, my card is in a safe in my room! I called bank told of situation on XX/XX/year> instructed to put block on card and issue new, while they investigated.Charges were in texas on XX/XX/year>, XXXX charges XXXX and XXXX .Card was supposed to be blocked and I am still waiting on a new one! I received a letter today on XX/XX/year> from Citibank stating my dispute is now closed the cards XXXX chip was used at a chip reader and i verified the card was in my possession at time of transactions so I am responsible for charges!! Help me to understand something here how can charges that were physically made in texas at a chip reader be mines if it is in a safe in XXXX NY at the same time?? Don't they know thieves XXXX XXXX cards? Wouldn't common sense be in play here for an out of state transaction for someone who is in NY and not Texas?? Questions need to be asked what kind of investigation took place here if any at all? And to top it off I see a transaction for XXXX on XX/XX/year>? card is supposed to be Locked? A new card issued with new account numbers on XX/XX/year> make it make sense ... This is a Serious Breach of Citibank Security!! Also trying to dispute on their website an error message keeps popping up so conveniently so unprofessional.I called their customer service, they cut me off, told I have to call someone else next week dispute closed.So unprofessional especially when i was telling agent that charges were still going thru.Thank you for any help in the matter."
+}

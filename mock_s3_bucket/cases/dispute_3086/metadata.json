@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3086",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48532"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26264,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made an online purchase of {$220.00} for several items in XXXX. I returned them to the store prior to the due date XX/XX/XXXX of my credit card and within a few weeks of purchase. My previous balance was XXXX. I was told Macy 's sells for other vendors on their site and they call it market place in fine print on line with no other details. I should owe XXXX dollars but the clerk said because it is their market place, they ( Macy 's ) would have to mail it back and it could take up to 3 weeks for my credit ( s ) in full. I inquired about my account with a due date in a few days. Basically, I have to pay the Macy 's bill which I do not owe a penny because I returned the {$220.00} in full prior to my due date and within the time limit of XXXX interest. I was told once all of this takes place I would have to call Macy 's, and keep checking back, to have a customer service agent take care of fees. I was forced to pay Macy 's a minimum payment of {$29.00}, I have {$5.00} in interest and a balance of {$38.00} because it's not all mailed back. I am held hostage to a payment I do not owe, my credit tarnished if I do not pay and subject to the mail being on time, and interest fees and then finally calling again to get my refund which could take forever. If Macy 's has an agreement with a Vendor it is between them and not me. I feel Macy 's extorted money from me needlessly and should have provided me with the return credit as do all other stores. I have asked customer service to resolve, sent a message in chat and called with XXXX progress. This is a formal complaint. They have no business hanging my good name and credit over me because Macy 's is a \" wan na be '' XXXX. There is no reason for me to waste my time going through the aggravation of getting fees removed when I owe absolutely no money. Bad Business. Bad Practice. Please assist in resolving this extortion policy"
+}

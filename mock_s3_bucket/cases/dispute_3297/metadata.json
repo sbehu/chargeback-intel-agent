@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3297",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77088"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12039,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This letter is being written after much dissatisfaction and frustration with Sears/Citi Credit Card XXXX On XX/XX/XXXX, Sears/Citi was notified about accumulated fraudulent charges on my Credit Card account XXXX in XXXX. After looking at my account records, it showed that Sears/Citi Credit Card XXXX XXXX someone other than myself who was the primary account holder to change the personal information on my account as well as request multiple line of credit increase. After almost XXXX months of trying have all of these fraudulent charges disputed, Sears/Citi Credit Card has only caused a strain on mine and my familys emotional and mental well-being. Month after month, I have contacted the fraud department who assured me that they are investigating the matter, however I have never received an update when I call within XXXX days. With that said, CitiBank has been calling me for payment at all weird hours and times no matter how much I have explained the situation to them. This shows how incompetent and unconcerned this company - Sears/Citi Credit Card has been with my situation and my personal information. I am also now getting reports from the credit Bureau that due to reports that I have not been paying this bill, my XXXX XXXX has dropped from XXXX to XXXX which is beyond unacceptable since all of this is Sears/Citi XXXX XXXX Because of that, I have filed a consumer Complaint with the XXXX Attorney General XXXX against Sears/Citi Credit Card XXXX \n\nThis all started in XX/XX/year> when I logged in to make a payment on my credit card. I saw that there were multiple charges that I did not recognized from XX/XX/year> to present. I contacted Sear/Citi Credit Card who XXXX me that they did mail out a new card which I never received. A complaint was filed with the apartment complex and also a police report filed. After investigating, it was concluded that someone had been tampering with the mailbox at the apartment complex. XXXX after month, I have made multiple efforts to reporting and disputing these charges. I would be told call back in XXXX  days for the XXXX investigating Department to give me a report on the case. Sears/Citi Bank XXXX kept harassing me and calling me multiple times a week for payment. These calls would be at all different hours which cause -- - to my health and that of my family. Over and over I kept calling for updates on the fraudulent charges but would always end back up at square one. XXXX time, I had a representative tell me they are not able to see previous calls or the history of the case. \n\nI am writing to Sears/Citi Credit card to once again request an investigation into these fraudulent charges. Also, let the credit bureaus know that I am not responsible for these charges so my XXXX XXXX can be reinstated. Attached are the police report filed after the thief was arrested with my card and other people financial information as well as all documents received from Sears/Citi . I would like to have this settle before I move forward with legal claims against Sears/Citi credit card for allowing someone to put their name, email and phone number on my account without doing a XXXX verification or contacting me first. Sears/Citi Credit card XXXX constantly harassing me for payment of $ XXXX which I am NOT responsible for and Sears/Citi credit reporting XXXX XXXX XXXX XXXX credit bureau which has affected XXXX XXXX XXXX standing which has hindered my opportunity of achieving milestones that my proper XXXX XXXX would have allowed me too by now. \n\nI am looking forward to hearing from someone in regards to this case and settling out this dispute."
+}

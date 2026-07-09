@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1528",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6082"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35084,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There are two charges from XXXX in the amount of {$620.00}. One hit my account on XX/XX/23 and the other on XX/XX/23. I have no idea what these charges are for. I have never ordered anything from this vendor. \n\nI have called the company at least three times trying to resolve the matter. They insist the charges are valid despite my statements that neither of these charges were made by me. \n\nAs a result, I am over my credit limit and being charged late fees."
+}

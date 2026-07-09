@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4443",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30189"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23942,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I over paid in error XXXX payments of {$8000.00}. XXXX on XX/XX/XXXX and not knowing that I had already sent it I sent the same payment on XX/XX/XXXX. I am trying to get the second over payment in my account back. they have been telling me it is pending for XXXX  days now. Today they tell me they will process it today and it will take another XXXX to XXXX business days to get back to me. I told them tXXXX XXXX XXXX  it to me. I will have them deduct the XXXX  XXXX cost from my refund. They refused to do anything. I believe they think I am a nuisance and are trying to make sure I have to wait over a month to get my money. How long of an investigation does it take to see that there were XXXX payments made and only XXXX was XXXX Now I am carrying a large XXXX XXXXredit balance. They do not want to accommodate me the customer service is non existent.They will not take it to a supervisor or someone that maybe able to see I need my over payment.I should not have to wait a month for an overpayment."
+}

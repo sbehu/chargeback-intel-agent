@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9629",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30328"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29036,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank determined a fraudulent credit card charge as valid and closed investigation in XX/XX/XXXX. I was notified through hardcopy letter dated XX/XX/XXXX. In the investigation, the merchant provided purchaser email that uses my name, but is NOT my email address ; I have never created or used that email address. Purchaser provided my actual home address, but the product ( 3 tickets, total transaction {$340.00} ) were delivered via email. The tickets were bought from XXXX XXXX  App and processed by XXXX XXXX XXXXXXXX MA, but I have never bought anything from XXXX. I didn't get any notifications during or after the purchase on XX/XX/XXXX, and only found out and filed a dispute 3 days later when I looked at my credit card transactions on XX/XX/XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_52",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ME",
+    "complaint_zip": "4210"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36157,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Have had this credit card for approximately 30 years and the service was fine until last XXXX od 2022. Since that time I have had several fraudulent charges and trying to resolve is nearly impossible. I am XXXX XXXX XXXX with XXXX XXXX XXXX and the customer service system that Citi uses is horrendous, As a retired AT & T manager I did some investigation and Citi uses XXXX  with VOIP for its customer service system and its quality of transmission is extremely poor. Trying to settle the problems is nearly impossible and even after sending several emails and letters there is still outstanding problems. \nSince XX/XX/2022 I have had more than a half dozen fraudulent charges, new cards issued and nothing significant has been done to solve the customer complaints. Their customer service is terrible and some charged have taken over 6 months to resolve. New cards only create significant problems for the customer to inform all the various companies the cards are used for. \nThe need is two fold, an improved customer service and why so many fraudulent charges? I have been a good customer all these years and am being treated poorly. I expect better."
+}

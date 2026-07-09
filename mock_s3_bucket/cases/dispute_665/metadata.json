@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_665",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10583"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1026,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX charge {$140.00} Amex acct XXXX XXXX Case # Amex XXXX I received a credit of {$98.00} for the above purchase of airline ticket I submitted 2 NOT FIT TO FLY certificates from doctor and hospital indicating medical reasons as to no travelling XX/XX/XXXX - mid XXXX due to ongoing XXXX XXXX  at hospital XXXX XXXXXXXX reimbursed me FULL $ refund under # XXXX booking XXXX XXXX XXXX This was one way going on XX/XX/XXXX I had a return ticket bought on American Express XXXX XX/XX/XXXX XXXX XXXX XXXXXXXX for {$140.00} Why was I given partial refund of {$98.00} and not {$140.00} I wish to dispute the remaining {$47.00} charge and want a refund of this amount I do not know why inconsistency and as a travel platform they should be my advocate with airline for full refund"
+}

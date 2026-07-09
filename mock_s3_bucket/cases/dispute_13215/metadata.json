@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13215",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61821"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42769,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX Bought ( 2 ) Tickets to XXXX in XXXX, NY for XX/XX/XXXX Show - Paid {$4400.00} for ( 2 ) Tickets XX/XX/XXXX Listed Same ( 2 ) Tickets back on XXXX - Was not able to attach tickets to listing - Attempted to cancel and believed listing was cancelled XX/XX/XXXX Day of Show - Received Email from XXXX that ( 2 ) Tickets had been sold - Total sales proceeds were {$5300.00} - I Reached out to XXXX, explained I believed sale had been cancelled- I was informed by XXXX sale was not cancelled and I had to deliver or face fees or penalties which they could not tell me amount - I received repeated emails and calls from XXXX to deliver- I contacted original seller, XXXX XXXX, to attempt to transfer tickets and I was told by XXXX XXXX  the tickets were not further transferable. \n- EMPHASIS ADDED : XXXX sold me tickets that were not further transferable and then sold same tickets. Also, I did not believe sale listing was live due to previous efforts to cancel. \n- I informed buyer I could not transfer tickets. \n\nXX/XX/XXXX - I was charged by XXXX {$600.00} for non-delivery of tickets. This charge was not disclosed to me and learned about it from credit card statement. \n\nSubsequently disputed {$600.00} charge from XXXX which Citi denied due to support. Support basically says they charged me with no further support for why that amount. \nCiti changed card number XX/XX/XXXX - I was charged {$5300.00} by XXXX in relation to same as XX/XX/XXXX. \nI was not contacted by XXXX in any way I learned about the charge in late XXXX by reviewing my credit card statement. \nCiti allowed charge on new card number despite reason for changing was this vendor XX/XX/XXXX - Contacted XXXX. They could not find the charge on my account and said it was being elevated. \n\nXX/XX/XXXX - Contacted XXXX and spoke with XXXX ( a supervisor ) at length. The conversation was not productive. He told me they could charge me whatever they determined. He could not provide support for the charge and told me no one in XXXX could waive the charge. I asked to speak to his superior. He said he would request a call. I have not been contacted. \n\nXX/XX/XXXX - Contacted Citi with further dispute request. \n\nXX/XX/XXXX - Citi denied my dispute and held me responsible for additional charges despite them being on a changed card number from original dispute with this vendor. \n\nSummary - I paid {$4400.00} for ( 2 ) tickets to XXXX to XXXX through XXXX XXXX as seller. I listed the tickets with total sales proceeds of {$5300.00}, of which over {$4000.00} was supposed to come back to me. I was not able to further transfer tickets, which XXXX should have known as the broker that sold me the tickets. I actively tried to find listing to cancel, but could not find it and believed it was cancelled. Day of show, tickets sold and I had no way of delivering. I tried again with calls to XXXX and XXXX XXXX, with XXXX XXXX informing me they never were further transferable. \n\nXXXX has now charged me {$4400.00} + {$600.00} ( XX/XX/XXXX ) + {$5300.00} ( XX/XX/XXXX ) = {$10000.00}. XXXX has not provided me any benefit for the {$5900.00} of subsequent charges. Further, if the sale would have happened, XXXX would be required to provide me over {$4000.00} from the proceeds. They are charging me for what would have been my money! Citi saw this as all my responsibility despite my original dispute."
+}

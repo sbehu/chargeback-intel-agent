@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-87050754-US
+Shipment Date:   2026-02-23T00:00:00Z
+Delivery Date:   2026-03-19T00:00:00Z
+Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
+Destination:     1632 PINE BLVD, FL, 342XX
+============================================================

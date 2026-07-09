@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_615",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32955"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20549,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am complaining how my citi credit card handled my dispute. They didn't handle my request professionally, mislead me with wrong information, and helped a scammy third party website commting a fraud. \n\nXXXX XX/XX/XXXX : XXXX XXXX  XXXX advertised a very cheap price of {$1600.00} on XXXX XXXX XXXX : I booked the ticket based on the price they advertised from XXXX : They used the XXXX number and constantly blowed my phone off ( I have supportive screenshot ) : content of calling : Firstly, they claim the {$1600.00} doesn't exist. I had to pay {$400.00} more to get the ticket. -- -- Why do you sell me a ticket that doesn't exist??? \nSecondly, after I said I didn't have extra money, they said wait! You only have to pay {$200.00}! \nThirdly, I said \" I don't have a dime for more. If you can't sell the ticket for the price you advertised for, I will just chancel the ticket. '' Fourthly They said : We will just do {$1600.00}. I said great! \nXXXX pm : They called me and later on sent me an email ( around XXXX ), asking for my ID and citi credit card. That's huge red flag right there that eventually lead to making the decision of not going with this company. No company would ever ask me to email my ID and credit card over to them. God knows how they are going to do with my top 1 sensitive personal information. I said : There's no way I'm gon na send this information to you. You are a fraud company, I want to cancel my ticket now. They answered : No you can't canceled it! I said every company has a 24 hr cancellation policy. You haven't issue the ticket to me yet, why can't you cancel it? They answered : Oh just wait for the ticket to be issued! I said no I just want to cancel! They responded : Just wait for the ticket to be issued! They totally ignored my cancellation request and insist me to wait for the ticket to be issued. \nXXXX I called Citi and reported fraud. You can see my screenshot that there was the XXXX number. I also attached the dispute email that happened on XXXX. Citi said don't worry, you will get your money back. Just have to wait for the pending purchase to post first. \nXX/XX/XXXX XXXX am XXXX just issued the ticket the next day!!! They ignored my request and issued the ticket the next day!!! ( please see attachment ) For the most part of XXXX, I have been constantly calling Citi to make sure my case is handled as soon as possible, because I need the credit back to buy another ticket. \n3 weeks to a month later : Citi made a decision : \" Good news! You have been issued a security deposit credit! '' I didn't know what a security deposit was, so I called citi, the representative on the phone said : '' Ma'am, the problem was resolved, decision is final! '' 5 days later : I made sure the credit was not changed or reversed, then I bought another ticket to XXXX. \n\nXXXX I noticed the credit was reversed. XXXX If you said the decision wasn't final, I would have waited to buy another ticket. I don't have money to pay for XXXX tickets. \n\nP.S : Something Very Important : About the ticket I bought from XXXX, I called XXXX XXXX to verify this ticket, the airline told me I'm not able to use this ticket, because I'm a XXXXXXXX XXXX, my trip from XXXX back to XXXX through XXXX will be denied by this airline. \n\nThis has been a very frustrating experience. I was so disappointed that Citibank reversed the credit while the representative said it was final earlier. I never used this ticket, instead I bought another one from trusted website and used that one instead. Now I am facing two plane ticket charges. \n\nPlease help. I am better reached by email."
+}

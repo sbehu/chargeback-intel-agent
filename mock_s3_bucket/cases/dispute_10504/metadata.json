@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10504",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "65775"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5654,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased tickets to the musical XXXX at XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX using my Citibank credit card through XXXX. At the time of purchase, the venue itself had not yet begun selling tickets, making it impossible for me to know the official ticket prices or to compare pricing through authorized channels. The XXXX website presentation, venue imagery, and search placement strongly implied that the site was an authorized or official ticket seller. It did not clearly disclose upfront that it was a third-party resale marketplace charging extreme markups. \nThe true inflated total price, including fees, was not made clear until late in the checkout process. The pricing presentation made the tickets appear reasonably priced when they were, in fact, grossly inflated compared to official ticketing channels. \nAfter completing the purchase, I independently contacted the venue and confirmed that tickets purchased directly through the official box office were available at a much lower, clearly disclosed price. The venues own website warns consumers that it does not authorize or guarantee tickets purchased through third-party resale sites and can not assist with tickets purchased elsewhere. \nI promptly disputed the charge with Citibank, citing deceptive pricing, misleading presentation, and lack of clear disclosure. I provided extensive documentation, including screenshots, timelines, and evidence of the venues ticketing policy. Despite this, Citibank denied the dispute and issued a bill stating that I owe the full amount. \nCitibank did not provide a meaningful explanation of how my evidence was evaluated or how deceptive merchant practices were considered. The dispute process was prolonged, opaque, and required repeated submissions without substantive response. \nXXXX has multiple documented consumer complaints, including XXXX filings, describing the same conduct : misleading presentation, failure to clearly disclose resale status, extreme price inflation, and boilerplate responses without remediation. This demonstrates a pattern of deceptive practices. \nI do not want the tickets. I am seeking rescission of a transaction induced by deceptive practices, not delivery of goods. Citibanks denial forces the consumer to absorb financial harm caused by a known deceptive merchant practice rather than providing the protections expected under fair credit billing standards."
+}

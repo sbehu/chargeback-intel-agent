@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11540",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40707,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a patio furniture set for {$270.00} from XXXX using my American Express card. The item arrived damaged. Due to weather conditions, the damage was not fully discovered until assembly was attempted. \n\nOn XX/XX/XXXX, I contacted XXXX customer service. A supervisor formally approved a return for a full refund and scheduled a carrier pickup for the damaged item. I relied on this merchant-authorized resolution as a final settlement of the issue. \n\nOn XX/XX/XXXX, XXXX abruptly cancelled the scheduled pickup and rescinded the refund approval, claiming the item was now outside their standard return windowdespite having already granted an exception and authorizing the return the previous day. \n\nI contacted American Express to dispute the charge based on \" Merchant failure to honor a confirmed resolution '' and \" Goods not as described/damaged. '' American Express refused to open an investigation or a dispute, citing that the transaction was older than 60 days. \n\nI am filing this complaint because the merchant 's reversal of their own approval occurred after the standard XXXX dispute window had closed. By providing a false approval and then rescinding it, the merchant effectively trapped me with a damaged product and no recourse. American Express has refused to provide a manual review or a \" Good Faith '' exception despite documented evidence of the merchant 's rescinded agreement. \n\nDesired Resolution : A full statement credit for the purchase price of {$270.00}"
+}

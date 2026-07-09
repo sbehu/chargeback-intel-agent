@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13015",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60643"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36416,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a longtime Citi customer with an excellent credit history. I filed a dispute for a XXXX charge involving a part that was never delivered and service not provided. I submitted clear evidence showing : The proofofdelivery photo XXXX provided is not my home XXXX own messages contradict their delivery claim The purchase order and invoice numbers XXXX submitted do not match my receipt Despite this documentation, Citis dispute team closed my case without addressing any of these discrepancies.\n\nI escalated the issue and was told by Citis executive office that my case would be reviewed. However, I later received a written letter stating the investigation was closed and would not be reviewed again. This directly contradicts what I was told at the executive level.\n\nI was scheduled to receive an executive callback regarding this issue, but the call never occurred. When I followed up, I was told no one was available to speak with me.\n\nCiti has not reviewed the evidence I submitted, has provided contradictory information, and has not followed through on the executivelevel commitments they made. As a longtime customer with a strong credit history, I am requesting that Citi properly review the evidence and reverse the charge based on the documented contradictions."
+}

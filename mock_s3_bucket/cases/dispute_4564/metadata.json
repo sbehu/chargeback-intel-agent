@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4564",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33023"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14901,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Sir/Madam, I am writing to file a formal complaint regarding an ongoing issue with a fraudulent transaction on my Macy 's account {$49.00} if I'mnot mistaken, which has been unresolved since 2017. Despite my efforts to dispute this issue, Macy 's has failed to correct it on my credit report, and the matter persists, and kow the amount is {$340.00}. \n\nTo clarify, the issue is not that my account was flagged as fraud ; rather, there was a fraudulent transaction made on my Macy 's account that I did not authorize. I have made multiple attempts to resolve this, including contacting Macy 's customer service, filing disputes, and providing evidence that the transaction was fraudulent. However, Macys has refused to remove the negative entry from my credit report, despite the fact that the status of limitations for such transactions has passed. \n\nI believe Macys is in violation of the Fair Credit Reporting Act ( FCRA ), as they have failed to appropriately address this fraudulent transaction and remove it from my credit history. It is now affecting my credit score and ability to secure credit, and Macys has provided no reasonable justification for why this remains unresolved.\n\nI request that the CFPB investigate this matter and take appropriate action to ensure that Macy 's rectifies this situation. Specifically, I ask that Macy 's be instructed to remove the fraudulent transaction from my credit reports and update their records to reflect that the account. I'm having difficulty getting my life together because of this matter."
+}

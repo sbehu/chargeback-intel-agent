@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1735",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11217"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17623,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, XXXX fraudulent charges for {$160.00} appeared on my statement. I contacted American Express that day and they issued a replacement card and initiated a refund for the XXXX charges. That same day, the merchant, XXXX, also issued a refund for the fraudulent charges. \n\nOn XX/XX/XXXX, I was notified by the merchant that my account was suspended because of the chargeback and because they had already issued me a refund. I contacted American Express that day via support chat with an agent named \" XXXX '' to request they reverse the chargeback of {$160.00} and cancel my fraud case. They confirmed they would and that the merchant would be contacted and the reversal would appear on my statement no later than 5 days later. \n\nOn XX/XX/XXXX, the reversal still had not appeared on my statement. I contacted American Express via chat to confirm my original request was processed. They refused to answer the question and asked me if I could like to initiate the request again. \n\nI then called their support line shortly after on XX/XX/XXXX and spoke to an agent to ask if my original request was processed. She said it had not and she had no notes of my original request. I asked her to submit the request and she informed me it would be reflected in 5 days. I informed her this was unacceptable and that this needs to be escalated to a supervisor as it would have been more than 10 days since my original request. She agreed and informed me I would receive a confirmation and the reversal would appear on my statement by the end of day XX/XX/XXXX. \n\n3 days later, on XX/XX/XXXX, I received a letter confirming my request was received. The reversal is still not showing on my account, and therefore, I am still locked out of my account with the merchant because of American Express ' refusal to honor my original request and then refusal to initiate my second request in a timely manner."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8295",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VI",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7564,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Large number of transactions are fraudulent due to theft of card. \n\nCreditor has refused to investigate, and no longer provides access to do so. \n\nForced to enter a payment plan."
+}

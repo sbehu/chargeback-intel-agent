@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5535",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "DE",
+    "complaint_zip": "19711"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9797,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/26, ordered XXXX XXXX from bestbuy. Stolen from XXXX. Best buy refused to refund, XXXX admitted fault, Bestbuy still refused to refund. Citi sided with merchant despite a lot of evidence. \nI contacted with best buy communicated with XXXX communicated with best buy again best buy refused to do anything did a chargeback citi sided with best buy reopened the dispute again, with overwhelming evidence citi sided with best buy again."
+}

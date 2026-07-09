@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10004",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "191XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32432,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased XXXX vintage jewelry items from XXXX  XXXX  for {$620.00} using my Citibank credit card. XXXX necklace was represented verbally and in writing as platinum, including the product tag and handwritten invoice. After the purchase, I confirmed the item is only silver-tone, which constituted a material misrepresentation affecting my decision to buy. \n\nI attempted to return the items and obtain a refund. The merchant refused, stating a no-refund policy that was not visible or disclosed at the time of purchase. On XX/XX/XXXX, I contacted the merchant in writing to request a return and refund due to misrepresentation. On XX/XX/XXXX, I returned to the store in person with all XXXX unused items and again requested a refund, which was refused. The merchant offered only store credit, which I declined. \n\nI filed a dispute with Citibank based on misrepresentation of merchandise and provided supporting documentation multiple times. Citibank initially denied the dispute, citing insufficient documentation. After I submitted a CFPB complaint, Citibank issued a conditional credit and stated it would review the dispute. \n\nOn XX/XX/XXXX, Citibank reversed the conditional credit and denied the dispute, stating that the merchants return policy was not followed. This response mischaracterizes the dispute and does not address the misrepresentation or explain how Citibank investigated the substance of the billing error. \n\nI am filing this complaint because Citibank failed to properly investigate the dispute and relied solely on the merchants stated return policy, despite evidence of misrepresentation and my good-faith attempts to resolve the matter directly with the merchant."
+}

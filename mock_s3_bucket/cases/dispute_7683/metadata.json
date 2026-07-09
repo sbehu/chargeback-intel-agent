@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7683",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33180"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, an amount of {$6100.00} was withdrawn from my XXXX XXXX XXXX account without my authorization. The transaction appears on my account as : \" Legal Order, XXXX XXXX '' I have not received any prior notice, explanation, or documentation from XXXX  XXXX XXXX regarding this withdrawal. I did not authorize this transaction, and I am not aware of any valid legal order related to my account. \nOn XX/XX/year>, I contacted XXXX  XXXX XXXX customer service and asked for details about this transaction. However, they were unable to provide a clear explanation or supporting documents showing the legal authority for this withdrawal. I just found it was order from my previous Credit card American Express, which was closed a year ago without option to manage small payments. All customer service the American Express Credit card was terrible and they did not offer any agreement for me, just closed the card with huge payment. \nContacted American Express by phone on XX/XX/year>. - Requested written proof or a copy of the alleged legal order. - No documentation has been provided to date."
+}

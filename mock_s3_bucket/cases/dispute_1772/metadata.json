@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1772",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27526"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37914,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased sports memorabilia from an ad on XXXX. After filling out all information I was charged. After I was charged I received no email, text, or confirmation from the merchant. I never received the merchandise. I filed a dispute with the credit card company. They resolved the dispute without issuing a refund. It looks like the fraudulent merchant did ship something via USPS and provided tracking number to Citi but whatever it was they shipped either did not make it here or they shipped something other than what was ordered to make it look like they fulfilled the order. The merchant did not confirm what they shipped or any other information. How am I, as the consumer, supposed to do anything here when the merchant provided no information of any kind after charging me and is now covering their tracks with a fake order?"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7486",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "45044"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2877,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been in touch with Best Buy and talked with a supervisor. The supervisor said that there is no promise that the decision will be overturned and that I may just have to take this as a {$150.00} mistake and that Best Buy will wash their hands of it.\n\nI have tried to explain this to the Fraud department and to customer service, but it is getting confusing and people do not understand what information to include. I was contacted in XXXX by text message that a delivery could not be completed by XXXX. At the time, I was expecting a diploma for graduating college so I fell for the same. I put my information in the, what appeared to be XXXX website, but it was not XXXX and I looked it up online and there have been people that have been appearing to have a legitimate website, but it is not. They received my name, address, email, and Best Buy Credit Card information. \n\n\nI then received an email a couple days later that there was a charge made on XX/XX/year> for the amount of {$150.00} at XXXX XXXX for XXXX XXXX. These dining bundles were purchased online, not by me. The person who bought these put my name and email address in as the purchaser, but they put in their phone number, which ends in XXXX. My phone number does not end in XXXX. These purchases were not made by me. I have never been to XXXX XXXX. I live in Ohio, XXXX XXXX is in Pennsylvania. \n\nI have never been to XXXX XXXX. I did not make these purchases. These are fraudulent charges. I do not understand how Best Buy can be getting it so wrong."
+}

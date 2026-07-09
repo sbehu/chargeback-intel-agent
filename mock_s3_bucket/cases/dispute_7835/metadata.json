@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7835",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60443"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20620,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I would like to file a complaint on Citi regarding their XXXX XXXX Credit Card. I filed a complaint ( dispute ) with Citi regarding a fraudulent charge on XX/XX/year>. Citi reached out to the merchant on XX/XX/year>, and the merchant responded on XX/XX/year>. Citi then closed the investigation and considered the merchants response as facts without offering me a chance for rebuttal or providing me with the evidence from the merchant. My major concern is that this merchant is a complete scam and fraud and misrepresented themselves to be XXXX XXXX XXXX XXXX, when they were not. I am a senior citizen, and it is not easy for me to recognize scam practices. My entire basis of this complaint was because I called a company thinking they were XXXX, asked them if they were XXXX, and they responded yes. I proceeded to make a car rental reservation and only provided my credit card information because I was told this was XXXX. Once I received the email confirmation and forwarded to my daughter, she realized it looked like a scam. She noticed typos and the senders email address did not say XXXX. At this point I proceeded to report to my credit card company ( Citi ) and file a dispute. My daughter called the real XXXX company, and they confirmed with us both on the phone there was not a reservation in my name. They also confirmed the confirmation number I was given by this imposter company was not a real XXXX confirmation number. At this point my daughter reserved me a car rental with the real XXXX company. \nI provided Citi with the email confirmation from the scam company and my receipt from the real XXXX company. Unfortunately, Citi closed the investigation and found me liable for this charge. I have called multiple times to speak with a manager and after being transferred to 6 or 7 people, no one is willing to help. Citi also never gave me the opportunity to dispute their decision. There should be a better way of handling a billing or fraud case when a company misrepresents themselves and poses as another company."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8597",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19116"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31666,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Regarding the Home Depot card, purchased in 2015. Last four digits is all I know, ( XXXX have opened other cards from them since. Don't they close the previous card before issuing a new card? I received notice I owed money, and I called the bank numerous times and was told I didn't owe any money, and a card number with the last four digits ( XXXX ) they did not have in their system. I informed them of this problem with the credit card. I later found out I'd was obtained in 2015. It was on the system under my name, than removed and than re-entered. I questioned how they could allow charges on a card that was dormant for years. I thought I finally had this resolved, but they allow more charges on this card.? Now they let someone transfer money twice to this card from another card. I did none of this. What card did they transfer from? I informed them I was a victim of fraud and ID theft. The name on the card isnt my name, and it's not spelled correctly. I closed that card because someone from a different state had put a charge on it back then. I can provide phone numbers I have called over the last three years. \nI also have copies of the documentation. I explained this several times. When the banks, both Citibank directly and Home Depot credit division, both said I didnt owe any money, I assumed this was a fraudulent communication. Also, it came up as not found ( copy uploaded ). I believe the original complaints got resolved, then suddenly there were new, more recent charges. A new letter came out. I could not open the letter and didn't see until late, because I was told at this point all my cards were closed. I believe there was a class action suit in New York against Citibank, but I can not find any more information about this suit. Also, it is known that there are many complaints about their fraudulent charges not being resolved per policy. They allow the fraud."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8561",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "365XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5598,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "What happened : On XX/XX/year>, a {$6000.00} unauthorized charge appeared on my Citi Mastercard account ( ending in XXXX ). I immediately contacted Citibank, spoke with a representative, and even participated in a three-way call between Citibank and XXXX XXXX  , where I was told the issue was settled and would not go through.\n\nDespite that, the {$6000.00} charge was processed, and the funds were withdrawn from my XXXX account. In the following days, I contacted Citibank again and was told the charge had been officially canceled yet nearly a month later, the funds are still missing and unusable.\n\nCiti has told me twice that the charge was resolved when it was not. This has caused major financial hardship, including missed bill payments, a decline in my credit score, and significant time lost trying to correct the issue.\n\nWhat Ive done so far : Spoke with Citibank multiple times by phone.\n\nParticipated in a verified 3-way call with XXXX XXXX and Citi. \nWas told twice the charge had been canceled/settled.\n\nFiled a formal written dispute under the Fair Credit Billing Act via certified mail on XX/XX/year>. \n\n\n\nWhat I am requesting : Immediate investigation and correction of the unauthorized {$6000.00} charge.\n\nRestoration of the funds to my account.\n\nWritten confirmation of the investigation outcome.\n\nCorrection of any negative credit reporting caused by this mishandling.\n\nReasonable compensation for the financial and emotional impact caused by Citibanks delay and repeated misinformation.\n\nImpact : Because of Citibanks mishandling, my funds have been tied up for over a month, my credit score has dropped, and I have been unable to pay bills. This situation has caused serious financial strain and stress.\n\nRequested resolution : I want Citibank to immediately return the {$6000.00} to my account, fix any resulting credit damage, and provide written documentation confirming resolution. I am also requesting reimbursement for damages caused by the loss of use of my funds and the mishandled communication."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8024",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96706"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28297,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Category : Credit card/ Fraud/ Billing dispute Who is your complaint against? \nBarclays Bank Delaware ( issuer of XXXX XXXX XXXX XXXX XXXX ) What happened? \nI reported unauthorized charges on my Barclays credit card ( Acct ending in XXXX ). Barclays initially opened a fraud claim but later closed the investigation, stating that the transactions were not fraudulent. I strongly dispute their findings. \n\nDespite my repeated communication, Barclays has maintained that I am liable for these charges. This has left me responsible for paying an amount I did not authorize and did not benefit from. Their letters dated XX/XX/year> ( attached ) confirm they are refusing to remove the charges and intend to report the balance to the credit bureaus. \n\nI believe Barclays has failed to comply with the Fair Credit Billing Act ( FCBA ) and Fair Credit Reporting Act ( FCRA ) by : Not properly investigating my fraud claim, Incorrectly holding me liable for unauthorized charges, and Reporting inaccurate information to the credit bureaus. \n\nWhat do you want the company to do to resolve your issue? \n\nRemove the fraudulent charges from my account. \n\nStop reporting these charges as valid to the credit bureaus. \n\nCorrect my account balance and credit reporting immediately. \n\nProvide confirmation of the correction. \n\nSupporting Documentation : Barclays letter dated XXXX requesting follow-up ( XXXX ). \n\nBarclays letter dated XXXX denying fraud claim ( XXXX ). \n\nDesired Outcome : I want Barclays to reverse the unauthorized charges, stop reporting incorrect information to credit bureaus, and bring my account back to good standing."
+}

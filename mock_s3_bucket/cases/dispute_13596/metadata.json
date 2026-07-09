@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13596",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MA",
+    "complaint_zip": "017XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21579,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have sent all of the following information and documented proof to CitiBank and yet they still won't refund my money. \n\nHere is the full account of what happened : I placed an order for a branded XXXX tent canopy from XXXX XXXXXXXX XXXX XXXX XXXX XXXX based in XXXX, CA on XX/XX/year>. I expressed hesitancy in my very first email since it looks like this product was a relatively new addition to their current line of products. \n\nI sent them pictures to use for the canopy on XX/XX/year>. \n\nXXXX, on XX/XX/year> sent over a very low-quality mock-up preview ( low resolution, very blurry ) to which I responded on XX/XX/year> that I didn't approve of the mock-up as the quality was blurry and had errors. \n\nI followed up again on XX/XX/year> as I had not heard anything from the company. \n\nXXXX responded on XX/XX/year> to apologize for the delay and sent better quality images but still with errors. \n\nOn XX/XX/year> I responded saying there were still the same errors from the first version that I would like fixed. \n\nFollowed up on XX/XX/year> asking what is going on with my order. NO response. \n\nFollowed up again on XX/XX/year> to ask what is going on. NO response. \n\nThe company waited out the clock and has not responded to me via email, texts, voicemails ( they won't respond to my voicemails or even pick up the phone when my number calls ), nor via any of their social media accounts. \n\nI disputed the charge with my CitiBank credit card, a new card that I received after XXXX XXXX account holders were all transferred over to CitiBank. \n\nI attached the same proofs that clearly show no one is responding to me, nor is there any record of an order being shipped, tracking, etc. \n\nCitibank without any supporting cause decided that I was responsible for the charge. \n\nI called back expressing how unfair and incorrect this decision was as there should be no logical reason why the company that scammed me isn't at fault. \n\nThe first CitiBank customer service representative told me they would reopen the dispute. I waited over XXXX business days but there was still no sign of the dispute being reopened. \n\nI called back today on XX/XX/year> to find out they never reopened the dispute and they told me I would need to send a letter at this point to their headquarters because the dispute started before they mailed me my new CitiBank card ( instead of the XXXX XXXX  ). \n\nPLEASE let a human look at my supporting documents and you can see I'm clearly being scammed by this company who won't even respond or acknowledge what they've done. I would love to hear what they have to say about this."
+}

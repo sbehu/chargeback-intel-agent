@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1883",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "152XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20202,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, {$3800.00} in fraudulent purchases were charged to my Home Depot account # XXXX, without my knowledge. When I saw the fraudulent charges on my account, I immediately notified Home Depot. Home Depot initially agreed to remove the charges and gave me a new account number ending in XXXX, then, on XX/XX/XXXX, Home Depot sent me a letter stating that I did not sufficiently identify the fraudulent transactions. The letter said that Home Depot had conducted an investigation and that the information I provided was not sufficient to resolve the dispute. Home Depot did not explain what their investigation method was, or what they found in their investigation to support their claim that these charges were not fraudulent.\n\nHome Depot has added the fraudulent charges back to my account. I have filed another identity theft report with identitytheft.gov. I am writing another letter to Home Depot. However, Home Depot insists that I must pay for the fraudulent charges that Home Depot added to my new account # XXXX, that were fraudulently charged against my # XXXX on XX/XX/XXXX. I believe that the fraudulent purchases were made by someone within the Home Depot organization, and that Home Depot has deliberately transferred these fraudulent charges repeatedly back to my account despite my repeated disputes of the fraudulent charges. I am sending another letter to Home Depot, and I have again disputed these charges. Home Depot refuses to remove the charges from my account. Home Depot is engaging in fraud and theft."
+}

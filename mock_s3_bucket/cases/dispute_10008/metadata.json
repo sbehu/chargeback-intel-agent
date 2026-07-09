@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10008",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "2472"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44150,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against American Express regarding its refusal to properly investigate an unauthorized credit card charge. On XX/XX/year>, I authorized a single transaction in the amount of {$960.00} at the merchant XXXX  XXXX. I did not authorize, recognize, or consent to an additional charge of {$3400.00} that appeared later. Authorization for one transaction does not constitute authorization for a subsequent or additional transaction. Despite clear evidence of an unauthorized additional charge, American Express denied my dispute and stated that because I handed my card to the merchant for the authorized {$960.00} transaction, I consented to all subsequent charges. American Express further stated it would only rule in my favor if the merchant provided a letter agreeing to reimburse me, improperly shifting the burden of proof to the consumer."
+}

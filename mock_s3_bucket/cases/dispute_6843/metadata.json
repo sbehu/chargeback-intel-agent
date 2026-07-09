@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6843",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23464"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30093,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'XXXX XXXX we have XXXX  unresolved dispute claims. XXXX  claim filed XXXX  due to hotel billing our account after the reservation was cancelled in a timely manner. Initially our dispute was honored and confirmed via a letter from XXXX  and then XXXX  reversed their decision and reapplied the hotel charge XXXX to the acct. Even though we  provided proof that the reservation was cancelled in a timely manner, yet XXXX  honored the false response from XXXX XXXX XXXX  in XXXX NC. because XXXX  stated we did arrived and checked into the hotel. We asked for proof we checked into the XXXX XXXX XXXXXXXX as we were in the XXXX Room because my husband had a XXXX  on the night the hotel indicated we checked in. Our request for proof was denied as XXXX  stated it was too late to re-open the dispute. We are currently  making minimum payments on this outstanding amount with the plan to close the acct once the disputed balance is paid in full.. XXXX  complaint dated XXXX & still in limbo. Fraudulent charges for XXXX XXXX XXXX appeared on our acct on XXXX. We disputed the charges with XXXX  and filed a police report. XXXX  once again sent a letter stating they agreed  with our  dispute claim and the charges are being removed. Two days after receiving the letter confirming removal of these charges, a visit to the account  online revealed XXXX had once again reapplied the fraudulent charges to the account without notifying us. We called again to discuss these fraudulent charges and was told we allowed a relative to use our card and they gave us the name of the party and her phone number. We do not know the person who resides in XXXX  we live in XXXX, the purchases were made in XXXX,who used the card and we gave a verbal statement  denying we do not know this person who charged the purchases to our account.  The XXXX  clerk indicated she would reopen the fraud claim and that we will still be responsible for the payments of same until this  matter is resolved. This is absolutely ridiculous  and it appears to XXXX does not protect the credit of their clients and continues to align itself without accurate cause or justification with the vendor during the fraud claims resolution process. I have documentation to support our dispute claims in both of these circumstances and desire to be refunded in both cases, so we can close the account as we no longer desire to be a client of  XXXX.\\XXXX XXXX XXXX XXXX XXXX"
+}

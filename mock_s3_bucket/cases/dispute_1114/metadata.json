@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1114",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7672,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/ I received a Macy 's Statement of Account indicating that I had a balance of XXXX. I have not used this card. While I was told that nothing more was due I am troubled by the charges."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11159",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28547"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4975,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Barclays for failing to properly investigate a credit card billing dispute involving two separate breaches of contract by XXXX XXXX XXXX and a violation of federal refund regulations ( 14 CFR 260.6 ). I purchased a single ticket itinerary ( Confirmation number : XXXX ) with a total cost of {$270.00} from XXXX on XX/XX/XXXX, for travel on XX/XX/XXXX. On the day of travel, the itinerary suffered two independent failures by the carrier : 1. Significant Delay : The first flight of the itinerary from XXXX XXXX to XXXX ( XXXX ) was delayed by 3.5 hours. Per DOT 14 CFR 260.6, any domestic delay of 3+ hours is a \" Significant Delay '' that entitles the passenger to a full cash refund. \n2. Carrier Cancellation : Separately, the second flight of the itinerary from XXXX to XXXX ( XXXX ) was cancelled by XXXX. \nThese were two distinct breaches of the carriage contract. Because of these failures, the entire trip became a \" Trip in Vain '' the passenger was stranded at an intermediate point with no viable way to reach the destination. I was forced to purchase a new, emergency ticket on XXXX XXXX to complete the travel. ( However the purpose of travel had been defeated, as he did not reach his destination until 10 hours after he was originally supposed to land, causing him to miss a time sensitive event ) Despite receiving a 16-page evidence packet ( Faxed XX/XX/XXXX ) proving these failures, Barclays has closed my dispute ( Case # XXXX / XXXX ) twice. They are siding with XXXX deceptive claim that a 50 % partial refund for the first leg is acceptable. Legally, a flight that results in a stranded passenger due to a 3.5-hour delay and a subsequent cancellation has XXXX value and mandates a 100 % refund. By refusing to recognize a Significant Delay as defined by the DOT, Barclays has failed to conduct a 'reasonable investigation ' as required under the Fair Credit Billing Act ( FCBA ). I have paid the {$130.00} balance under protest to close my account and am seeking a full refund."
+}

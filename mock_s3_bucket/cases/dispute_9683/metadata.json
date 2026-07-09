@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9683",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23061"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18217,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CONSUMER FINANCIAL PROTECTION BUREAU COMPLAINT Unauthorized Credit Card Charges/ Improper Fraud Denial Consumer Name : XXXX XXXX XXXX XXXX : XXXX XXXX XXXXXXXX XXXX XXXXXXXX XXXX VA XXXX Phone : XXXX Email : XXXX Financial Institution : Citibank , N.A . \nProduct : Credit Card Card : AAdvantage XXXX World XXXX Mastercard ( account ending XXXX XXXX XXXX XXXX XXXX ) Amount in Dispute : Approximately {$22000.00} Dates of Disputed Activity : XX/XX/year> SUMMARY OF COMPLAINT I am submitting this complaint regarding Citibank 's refusal to credit unauthorized gambling-related charges totaling approximately {$22000.00}, which Citibank denied on the sole basis that the activity allegedly \" came from my phone. '' I did not authorize, intend, or approve any of the disputed transactions. Citibank 's denial improperly equates device attribution with authorization, contrary to consumer protectionsunder federal law. \nWHAT HAPPENED Unauthorized activity began on XX/XX/XXXX and continued through XX/XX/XXXX, following a clear account-takeover pattern including small test charges, escalation in amount and frequency, and transactions occurring at late-night hours and random times throughout the day. \nAlthough the merchant is a XXXX  application I have used in the past, prior use does not constitute authorization. I did not knowingly place these wagers. \nOn XX/XX/XXXX at approximately XXXX PM, I locked my card and reported the fraud to Citibank. Despite this, additional charges posted on XX/XX/XXXX. \nCitibank later issued a replacement card, yet additional unauthorized charges appeared tothe same merchant, demonstrating a failure to block the merchant or remove the account from automatic updater or tokenized access systems. \nCITIBANK 'S IMPROPER DENIAL Citibank denied my dispute solely because the activity allegedly originated from my phone. Device identification, IP address association, or valid credentials do not establish cardholder authorization or intent. Charges occurred after fraud was reported and after a replacement card was issued without my providing the new card number. \nACTIONS I TOOK Upon discovering the unauthorized activity, I : Locked the credit card immediately Reported the fraud to Citibank Changed phone and account passwords Removed the card from XXXX XXXX Re-disputed subsequent unauthorized charges I have always paid my account balance in full every month since opening this account. \nREQUEST FOR RELIEF I respectfully request that the Consumer Financial Protection Bureau require Citibank to : 1. Reopen and properly reinvestigate the disputed charges 2. Credit and remove all unauthorized charges 3. Provide transparency regarding evidence relied upon in denial 4. Ensure no adverse credit reporting occurs related to these disputed charges This complaint is submitted in good faith. I did not authorize these transactions and acted promptly upon discovering the issue. \nXXXX XXXX"
+}

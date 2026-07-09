@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6164",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43880,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a long time, platinum level customer of XXXX since XXXX. On XX/XX/XXXX, I decided to take advantage of their Valentines Day sales to purchase 5 items : a set of pans, 2 pair of gold earrings, a gold bracelet, and a gold chain. These items were shipped in 3 different packages. The first package artived on XX/XX/XXXX. The box was delivered crushed with a hole and nothing inside except for the packing slip. There was no signature required for the delivery, even though this package was supposed to have the bracelet and necklace. When I arrived at home and saw the box, I immediately took photos and contacted XXXX to let them know that the two items were missing. I was led to believe that they were going to file a dispute and either take care of it and ship me replacements or give me a credit back of {$2300.00}, which is the total for those two items. On XX/XX/XXXX, I received the two earrings, again no signature required on the delivery but this time the items were in an undamaged box. On XX/XX/XXXX, I received the pans. Why would Macys not be more careful and diligent by requiring signature upon delivery to protect themselves and their customers when expensive items are involved? \n\nI received a letter from XXXX in XXXX telling me that I was responsible for the diputed items/amount. Again, I called them and filed a second dispute. I submitted my photos and explained the fact that the box was delivered crushed with no merchandise inside because it had a hole on the side. A few months later, they sent me a letter declining my dispute. \n\nI did this a third time, but they told me they were no longer accepting my disputes. I went ahead with payment for the items I received, but refused to pay for the items I never got. I also wrote a letter to Citibank who provides this service to XXXX but never received a response, even though I also have a Citi credit card. It has now been over a year. They are charging me interest for those two undelivered items, and impacting my credit score which was as high as XXXX before this. \n\nI spoke to the collections agent from Citibank who transferred me back to XXXX. Their customer service department is outsourced and no one knew how to help me because I am not a standard use case. I asked ro speak to someone in the US but was told that is not possible. So, they have opened a dispute case again. I have a feeling I will receive the same result. \n\nIt is a real disappointment and quite frankly shameful to not be able to get this resolved after having a XXXX account for 30 years and never once having missed a payment or had any issues whatsoever. They have closed my account, which is fine with me because I will never shop there again. I am more than willing to sacrifice my credit score because they are committing fraud trying to extort me and threaten me to pay for merchandise I never received. I am sure {$2300.00} means nothing to them, but it does to me. I hope others can benefit from my story."
+}

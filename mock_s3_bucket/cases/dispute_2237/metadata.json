@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2237",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "17050"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46327,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a fraud dispute with my XXXX  XXXX from a purchase in XXXX with XXXX XXXX and XXXX in Florida. \n\nThey honored the fraud on the XXXX purchase and refunded that money, but the XXXX XXXX they did not. They are both fraud they are both on the same day and they are both from Florida."
+}

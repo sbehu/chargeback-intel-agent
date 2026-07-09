@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1741",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92106"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36129,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered lights with a XXXX XXXX XXXX from XXXX. \nI never received the product I ordered. \nI did receive a product I did not order and offered to ship it back at their expense. \nXXXX said they would ship the product I ordered again, after I contacted them. \nI never received what I ordered. \nI then filed a dispute with the merchant. \nThey said they would ship the product if I closed the dispute. \nI closed the dispute and never received the product. \nI sent the dispute to my credit card company. \nThe credit card company contacted the merchant and the merchant refused to refund."
+}

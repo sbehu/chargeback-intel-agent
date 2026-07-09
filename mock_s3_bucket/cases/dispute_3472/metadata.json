@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3472",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21221"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42405,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX XXXX, American Express authorized a payment to XXXX XXXX XXXX for a substantial amount of {$2400.00} over my {$1000.00} credit limit. Budget Rental Car did not provide me or my authorize user with a bill of charges. Once I filed the dispute with American Express, thats when I was able to see a bill. XXXX provided generic documents to American Express that did not have signatures from any parties for the rental. American Express is requesting receipts from me or my authorize user in order to resolve the over-the-limit transaction. I have informed American Express that I do not possess any documents because XXXX did not provide any. I have informed American Express that the company declined an over-the-limit transaction for about {$300.00} in XXXX or XX/XX/year>. I have informed American Express that me and my authorize user never opted-in to approve over-the-limit transactions and that the company is in violation of 12 CFB 1026.56 ( b ). American Express arbitrarily authorized an over-the-limit transaction for {$2400.00} over my credit limit but did not authorize an over-the-limit transaction for {$300.00} over my credit limit."
+}

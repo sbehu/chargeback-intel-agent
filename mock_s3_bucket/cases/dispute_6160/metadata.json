@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6160",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "59714"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22136,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is all proven by screen shots however, American Express is really going down hill quick. There needs to be legal action. So XXXX XXXX a well known computer internet programmer for sites wanted a retainer of {$200.00} to get started on the XXXX, I didn't know how to use XXXX XXXX  so I just went for the down falling American Express. He claimed back that XXXX would have to wait XXXX days to recieve the funds so I taught myself to use XXXX XXXX. I Called XXXX. and the guy said it would be 3-5 days because it was an expedited process through them and XXXX XXXX, and to add on XXXX. it stated {$200.00} being refunded on my telephone app and computer. We're on 5 days now and I talked to someone and now XXXX. is saying it'll take 10-14 days to get your refund back but the best thing about it all was that the refund disappeared.... on their end and my end.THE REFUND IS GONE OUT OF THE SYSTEM, I was checking periodically, the second guy I was messaging I \" said something to the fact that once our annual contract is over, it's over..... I'm throwing a party because dealing with you guys has been absurd. I check an hour later and nobody knows where the refund has gone. So this is twice I'm criminally getting ripped off again and nobody knows nothing, Nobody is doing anything about it. However being and doing what I did in the military you keep all evidence. I still have the screen shots of XXXX XXXX  and XXXX."
+}

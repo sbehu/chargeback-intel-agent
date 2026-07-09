@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5726",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "130XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38499,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Please refer to previous claim # XXXX for entire complaint from the beginning. On Thursday XX/XX/year> I called Citibank and tried to negotiate a settlement and explain the root cause of the issue and she refused to negotiate with me. I asked that all late fees and added interest be dropped as the initial cause of the problem was the lack of billing. Last XXXX in the middle of a fraudulent charge investigation they failed to send me not only a statement but an itemized statement. That was a red flag to me as it would be for anyone after all the fraudulent charges that had recently occurred. The statement I received the month after only showed a dollar amount owed without being able to identify the charges. I had spoken to the call center multiple times trying to identify the charges and request an itemized statement which they never sent. At XXXX point the call center rep and I had identified my charges and I made a payment and the agreed to close the account. The call center apparently was unable to understand our conversation. The root cause of this matter has been their lack of billing and lack of communication between the call center, the XXXX XXXX department and other representatives. No one has any idea what had been going on based on all the phone conversations I've had with them."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10902",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22407"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2381,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used my American Express credit card to pay a total of {$4000.00} for XXXX XXXX XXXX parts ordered from a supplier on XXXX. The payments were made as follows : {$660.00} on XX/XX/year> {$840.00} on XX/XX/year> {$1200.00} on XX/XX/year> {$1200.00} on XX/XX/year> In my request for quotation, I required that the parts have 100 % defect-free black powder coating with no blemishes of any kind. The supplier sent a sample in XX/XX/year>, but the surface treatment was terrible, and the powder coating was flaking and peeling, and the part looked to be painted. I immediately told the supplier that the sample was unacceptable and that it would need to be sandblasted and refinished. \nThe supplier then gave me a written promise that if the production parts had the same surface problem, they would remake the entire order for free and cover the shipping costs. I have attached that screenshot. I proceeded with the full order only because of this explicit written promise. \nDuring production, the supplier sent me videos and photos of the parts. In response to one of those videos, I commented that the parts looked good and that I looked forward to seeing them in person. Those comments were made remotely based only on the photos and videos the supplier had sent. They were not a final acceptance of the finished product, as I had not yet received or physically inspected the actual parts. \nThe parts arrived on XX/XX/year>. Every single piece had flaking and peeling powder coating on the corners and edges because no proper surface preparation was done. The defects were only clear after I physically unboxed and handled the parts. I contacted the supplier the same day through XXXX chat and told them the parts had the same issues as the sample. \nOn XX/XX/year>, I asked for the promised full free remake. The supplier refused to provide a full remake and offered only a partial solution. I opened a formal dispute with XXXX XXXX XXXX the same day. XXXX said they would respond within three business days, but gave no answer for more than nine days. XXXX only responded after I filed with American Express. \nI then filed disputes with American Express. American Express has closed all of the disputes and rebilled the charges to my account. They determined that my earlier comments on the suppliers production photos and videos ( looks good and look forward to seeing them in person ) mean I accepted the parts. However, those comments were made before I had the finished items in hand and before I could see or test the coating 's adhesion. American Express is also requiring proof that I returned the parts to XXXX, which was never part of the suppliers promise. I submitted the suppliers written guarantee, photos, and videos of the defects, but American Express has not resolved the issue fairly.\n\nI am requesting full credits for all four disputed charges."
+}

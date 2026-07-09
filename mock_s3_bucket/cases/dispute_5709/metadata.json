@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5709",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94303"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22304,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked roundtrip flights for myself and my family through American Express XXXX ( Booking Confirmation # : XXXX ), totaling {$6300.00}. The itinerary was from XXXX XXXX ( SFO ) to XXXX ( XXXX ), departing XX/XX/XXXX, and returning XX/XX/XXXX. \n\nUnfortunately, due to my childs visa rejection, we were unable to travel. Prior to the flights departure, I contacted American Express Travel customer support to inquire about cancellation and refund options. I was explicitly told that since visa rejection is considered a valid reason for cancellation, I was eligible for a full refund, provided the cancellation was done more than four hours before departure. \n\nRelying on this guidance, I canceled our tickets well within the required time window. \n\nSince then, American Express has failed to process my refund. It has now been almost XXXX months, during which I have contacted Amex Travel and Customer Service XXXX times, if not more. Each time, Ive had to repeat the entire situation to a new agent. Despite assurances that they were following up and would provide an update in 1-2 business days, I have yet to receive a proactive response or resolution.\n\nI have been repeatedly told that they are waiting for a response from the airline. However, it was American Express that communicated the refund terms and initiated the cancellation. They continue to withhold my funds without justification or timely resolution.\n\nHarm Suffered : - Financial Loss : {$6300.00} has been withheld for nearly four months.\n\n- Loss of Potential Interest : I have lost potential interest I could have earned on these funds.\n\n- Emotional Distress : This situation has caused significant and unnecessary stress for me and my family. \n- Time Wasted : I have spent considerable time repeatedly contacting American Express, explaining the issue, and following up without resolution."
+}

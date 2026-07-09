@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8798",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92840"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14812,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I had an alert of a charge for {$400.00} e-card come to my email. I immediately called Barclays. This was apparently done on internet. I changed all my cards, passwords and contacted all my financial agencies. Barclays sent new cards as well as all my other credit cards. The scammers tried many other charges and the same one moments later ALL were stopped except the first one. It showed as a temporary charge but then was posted to my account 4 days later. Every-time I call Barclays I get a different story. On XX/XX/year> I was told that it should not have been processed as a dispute but as a Fraud I had no way of knowing any of this and at this point had made over 20 phone calls ( I have logs showing the calls ) each time I would have to explain what happened, I had a case # XXXX. NO one at this point ever told me they had processed it incorrectly. On XX/XX/year> was the first I learned it needed to be processed differently as fraud case, so I made copies of all my supporting documents and sent it certified mail with receipt to the address the address they gave me. On XX/XX/year> I spoke to XXXX in Fraud dept. He told me they had been sent to wrong place and opened a Fraud claim # XXXX and I would not need to send any more documents at this time and would not need to pay the {$400.00} at this time but they would be in contact if they needed anything thing else. Today I called and spoke to XXXX in Fraud dept. He informed me I do need to pay it and that they can NOT process a fraud claim as it was submitted as a dispute. \nEVERY TIME a I get a different story. I am XXXX yrs old. I have no way of knowing how they do things But they state they have {$0.00} customer charge for fraud and I have a message confirming that is from my information correct. \nWhen I asked if I could speak to a supervisor today they hung up on me. \nThank You for any help XXXX XXXX"
+}

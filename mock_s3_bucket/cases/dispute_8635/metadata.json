@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8635",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25047,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a hotel booking via XXXX XXXX at \" XXXX XXXX XXXX '' in XXXX XXXX XXXX ( see attached receipt ). I was not able to go to the hotel that weekend due to a family emergency. I checked the fine print on the reservation, however, and it says that the hotel charges XXXX night 's stay plus fees for no-shows. This is the exact language : \" Cancellations or changes made after XXXX ( property local time ) on XX/XX/year> or no-shows are subject to a property fee equal to the first night 's rate plus taxes and fees ''. \n\nThere is no requirement here that a no-show call them or follow some other cancellation process. Still, I was charged for both nights, despite the clear policy in the fine print of my reservation. I called the hotel twice, and emailed them twice, and was told on the phone that a XXXX would take care of it ( refund half my money back ) but they never did. I disputed the transaction with my Citibank Shop Your Way XXXX, and they declined my dispute saying that I hadn't followed the cancellation policy. I appealed, saying I was a no-show, and that no-shows obviously don't cancel, they just don't show up. Citibank again declined to refund half of my money back, on the same grounds : that I didn't follow the hotel 's cancelation process. This is their precise wording, and the only explanation they seem willing to provide : \" The merchant 's cancellation/return policy was not followed '' It's frustrating because they don't seem to actually be reading the dispute carefully, or looking at the fine print on the hotel reservation. There is obviously no cancellation policy for a no show."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2121",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6854"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24801,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX and called the company right away and the purchases were not authorized by me. Another month goes by and the credit card company sent me another letter of saying I am, responsible for the amount and its gon na be reinstated on my credit card statement. I called them again and they told me they can try to get the money back from the criminal and if they dont, I have to pay it last time I spoke to the credit card company was XX/XX/year>. They said they cant do nothing for me which led me to contact you guys. I have proof to back up what happened to me forms of text messages as well as photos. I went back to the street where I was XXXX and saw the guy and was able to take a pic from far. I saw a local policeman and stopped him and asked him for help since I was scared to approach the guy he went to look for him based on the photo I provided, but could not find him. I did not file a police report at the time that I was talking to the cops. I had a XXXX with me and was not able to drive to the police station.My credit card is a Barclays card which I pay XXXXXXXX XXXX  XXXXyear."
+}

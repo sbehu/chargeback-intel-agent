@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9711",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9985,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Reference Number : XXXX Product : Credit card Issue : Billing dispute / Chargeback Company : Citibank , N.A . \n\n\n\nComplaint description I am submitting this complaint regarding Citibanks mishandling of my credit card dispute for a XXXX purchase that I never received. \n\nI disputed this charge under Merchandise / Item Not Received. I never received the item, therefore no return was ever made or possible. \n\nHowever, Citibank incorrectly classified my dispute as return not received, and requested proof of a returned item. Because the merchandise was never delivered, I could not provide return documentation. \n\nDue to this misclassification, Citibank relied on irrelevant merchant claims and denied my chargeback after the response deadline, stating they were out of timeframe. This error prevented my dispute from being properly reviewed under credit card protections for merchandise not received. \n\nThe merchant has not provided valid proof of delivery to me, including no signature confirmation. I contacted the merchant, but they refused to issue a refund or replacement. \n\nI am requesting that Citibank correct the dispute category to Item Not Received, conduct a supervisor-level review, and issue the appropriate credit in accordance with credit card billing dispute regulations. \n\nCitibanks failure to correctly process my dispute has caused financial harm and unnecessary frustration."
+}

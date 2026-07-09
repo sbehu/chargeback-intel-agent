@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1534",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "91605"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17532,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have ordered a watch with cartier. i was supposed to receive by XXXX on XX/XX/XXXX The company send me a item which i didn't receive i have asked American express credit card company to help me dispute this item with XXXX and they have lagged since XXXX. i got a copy from XXXX on XX/XX/XXXX after contacting them as well multiple times. they have send me something finally saying that the shipping company ( XXXX was supposed to check my DRIVER LICENSE and than have me sign before delivering the item. But they have not checked my id nor they did have me sign but shows delivered and shows delivered from XXXX and now XXXX does not want to credit me back my money since i have not received my item nor does XXXX nor does American express company which i though they were supposed to help me and protect me. American express company did not protect me as their client or tried to help me. I have a proof from XXXX saying an email saying they were supposed to check id and have me sign but all XXXX has is saying delivered to residence XXXX XXXX California. That does not prove anything. Please investigate this matter thoroughly and please help me come up with an outcome that would help me as well. Since i gave the case to American express for 2 months thinking they are filing a police report and they are opening a claim with XXXX they have not done anything to help me resolve this case. I recently on XX/XX/XXXX opened a XXXX case which this is the number XXXX XXXX XXXX for XXXX. And today as of XX/XX/XXXX i spoke to American express rep and they notified me i should file a police report as well. Which i have filled and this is the incident number as well. XXXX this is the police report as well. I don't know how to prove that i didn't receive any items from them and all the merchants are passing me on to the other. I called AMEX CREDIT CARD company they told me i should follow up with XXXX and XXXX company because they have closed my case without assisting me thoroughly or doing their due diligence, I am very disappointed that American express is not helping me fight this case,."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8240",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "78023"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33255,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/year> I called Citi credit card customer service to see why the Citi app would not accept my credit card and Cvv information to obtain information on my account -- I needed statements because I was paying off my balance. The representative informed me that the cvv code on my card did not match what they have on their end and would have to send me a new card ( this is card ending in XXXX .. She stated she would send a new card to correct this issue. Long story short live goes on and I paid my account off with them and honestly did not think of checking if I had received the replacement card. \n\nThen on XX/XX/XXXX I received a text from Citi card asking if I had made a charge to XXXX. Then received a call from their fraud dept -- at this time I am in XXXX XXXX  and I returned call to see if this was a legit call from Citi card. After confirming that I am legit XXXX XXXX they ask me if I made charges to XXXX, XXXX XXXX and XXXX XXXX on XX/XX/year> I told the rep that I did not make these charges and questioning me if I lent my card out or did I loose it. I informed him No I would not lend by card out and informed him that the card ending in XXXX was in my possession,, He questioned me again to ask if I was sure-by this point I am boiling and asking him what is going to be done about these charges that I did not make at these stores. He states with my permission he can close this card and send a replacement. I responded Ok. He then stated that he has to create a claim to the fraud department and they will get back to me via email or letter and can take up to a billing cycle or longer to investigate the case. I am upset to know that it would take this long to investigate fraud charges. \nI kept calling them and every time I call they ask me same questions to confirm if I made the charges. I respond NO I did not make these charges and ask me again if I had the card in my possession,,, I am getting no where. I have asked to speak to supervisor and they refuse to allow my to speak to any supervisor. To inform them that there is a possibility of a card that was going to be re-issued in XXXX that I never received. They refused. I called again and a representative asked me if I had received a card on XX/XX/XXXX -- I said no because I had not. The fraud department at Citi card have been very difficult to communicate with -- there are language barriers with their representatives. Not allowing me to speak to someone that can understand me is frustrating and not willing to let me speak to a representative. I called asking to give me information on the card that was used to make purchases such as last four digits and they refuse. I just recently received a new card ending in XXXX. All this makes no sense and they are making me responsible to pay the XXXX by XX/XX/year>. I have to pay this because I take my credit very seriously and if I do not t pay this I will be delinquent on my account and reported to the credit bureau. I have been treated very unfairly with this credit company and accused of making charges that I did not make. I will send you my statements and also show the date the card ending in XXXX was dated -- the charges on statement are fraudulent charges and what is crazy I would never charge on credit card XXXX for a coke. I am reporting this because I am a victim and need direction on how to report this company and getting my funds back. \nRegards, XXXX XXXX XXXX apologies for writing on statements letter sending-note taking during conversation with XXXX"
+}

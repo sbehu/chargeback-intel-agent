@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_536",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77057"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 911,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I did not authorize charges in the account. I reported as fraudulent charges to Citibank. \ncard # XXXX card # XXXX Restore my credit rating. \n\nof note : I had my wallet stolen at work with my cash, Driver 's license, SS card, several credit cards, photo ID and other personal information."
+}

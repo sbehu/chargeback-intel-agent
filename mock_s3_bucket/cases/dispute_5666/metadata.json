@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5666",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18879,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "As of the morning of XX/XX/year>, around XXXX XXXX my personal cell phone was hacked through XXXX. After that, I lost access to all my email accounts. \nImmediately, I started receiving multiple text messages and emails notifying me that someone was attempting to gain access to my emails, bank accounts, and other sites. I also received multiple messages saying that someone was trying to send money out through my accounts and charges on my credit cards."
+}

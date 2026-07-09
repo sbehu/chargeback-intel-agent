@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6095",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11230"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25746,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I prepaid for a lodging in full with a different banks credit card. Upon checkout the lodge demanded full payment AGAIN saying the first payment didnt go through. The second payment was made using a Citi card. I checked and the first payment DID indeed go through so I cancelled ther second payment with Citi. Its a duplicate payment and Citi refuses to refund me despite me showing proof I already paid the first bill in full and did not owe any money to the lodge. Citi must refund me"
+}

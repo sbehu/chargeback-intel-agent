@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6401",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83709"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32300,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Today i logged into my amex account and all my accounts were closed for filing valid purchase disputes as is my right under the fcra. Each of the disputes had associated proof and were won except in the rare occation that the company the dispute was against reconsidered and provided a refund on their own. This violates my rights as a consumer."
+}

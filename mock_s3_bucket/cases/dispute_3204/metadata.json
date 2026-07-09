@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3204",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92592"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21013,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged 3 times for a service from XXXX that I did not order and reported this to the credit card company ( Barclays ). They ultimately sent a form letter that they contacted the merchant who validated the transaction. This form letter also misrepresented that on XX/XX/XXXX and XX/XX/year> they attempted to contact me and did not receive a response. That is untrue, no attempt to contact me was made, not by phone, not by fax, not by email and not by letter. \n\nI spoke to the number they provided in their letters. Six times they requested the last 4 of my social security. It was an obvious attempt to avoid responsibility."
+}

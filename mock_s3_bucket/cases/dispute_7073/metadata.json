@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7073",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93552"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43545,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went to the Sears store in XXXX, Ca on XX/XX/year>XXXX  to purchase some appliances I went with my daughter and son in law. After picking out the appliances the service rep ( XXXX ) who was new charged my card for the amount of {$2400.00}, after he charged my card when I asked him to verify my address he had put some random address in XXXX XXXX, I live in XXXX, Ca. Immediately we go the manager who said she tried to void the charge but since they have a new system it did not let them. The manager had called the credit card and they were told on the spot because it was on speaker phone that I had to submit the receipt because they no longer do voids, but to send the receipt and it will be refunded with in 24-48 hours. On XX/XX/year> my daughter made copies of the receipt and sent it to the credit card companies dispute processs online. We called 3 times since then, last week on XX/XX/year> I asked to speak to a supervisor. I was supposedly transferred to one who stated that they had to give time to the store to respond but if they do not respond then the credit would be returned on XX/XX/year>. It is now XX/XX/year> and nothing has been returned. I am out of that money and NO merchandise, I want this returned because I am charged for interest AND its reported to the credit bureau. This company are nothing but thieves, I am an XXXX XXXX XXXX woman with a XXXX XXXX and XXXX XXXX XXXX. My daughter will have to file a lawsuit on my behalf if I have a XXXX XXXX because of the stress this is causing me."
+}

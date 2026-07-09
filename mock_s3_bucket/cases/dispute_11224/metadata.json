@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11224",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33426"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40083,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing charges and account handling by Citibank from several years ago. I no longer have the account number, but Citibank should be able to locate the account using my name, address at the time, and other identifying information. \n\nSeveral years ago, Citibank reported a balance and/or delinquency that I believe was in correct. I attempted to resolve the issue directly with Citibank, but was unable to get clear documentation. The account was eventually closed, and I no longer have access to statements, account numbers, or online records. \n\nAll this information remains on my credit report and lowers it considerably. I am requesting that Citibank review the account, verify the the accuracy of all information they reported, and provide documentation supporting the charges and status. \n\nI am requesting that Citibank : Locate the account using my personal information. \nProvide documentation showing the charges, balance, and reason for any negative reporting. \n\nProvide all information pertaining to the charges that were made. The product purchased, what company, and where it was shipped. \n\nCorrect or remove any inaccurate information from my credit reports. \n\nProvide a written explanation of their findings."
+}

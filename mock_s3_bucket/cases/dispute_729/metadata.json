@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_729",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30032"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48435,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is referring to dispute XXXX Dealing with a merchant that is refusing to accept a return claiming it is there system and that they submitted a ticket to get it fixed. They say this every time, for a month. And then it was closed because to quote what AMEX sent me exactly : In response to our inquiry merchant has provided us with detailed explanation of the charge that this is a XXXX XXXX XXXX sale wherecustomer has inspected the merchandise and carried it along with him on same day and also card was chipped at time of sale. Theyfurther states Order number will not be created for cash & carry sale, customer has to provide return receipt or contact store for thesame. \n\nPaying with a chip? Ordering with cash? What in the world is this. Where does it say we refuse to fix our system and accept return or that we are lying and just trying to weasel our way out of honoring our return policy?"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11871",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "401XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7798,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Originally this {$62.00} and some change for gas from XXXX showed up my city strata, formally city thank you card and I told them it wasnt valid and they removed it but then it popped up later on my city thank you card that I dont even use in public and have it for years. They give me a stupid receipt that is not a real receipt. Its fraudulent receipt and when they took that charge off, they put more fraudulent charges on my account to replace it. Theyve got fraudulent XXXX and XXXX cards and come to find out I paid over XXXX as well for a balance transfer to XXXX XXXX and they didnt do the balance transfer. I paid for it and I paid Citibank for nothing and what they really did was rearrange all my purchases. historically and raid my bank account them. and others. Thats their idea of a balance transfer as you pay for everything you buy three times. And then they just keep the money. From what Im observing on my statement at different credit card companies, including Citibank is that all my refunds are being taken from me and then they were put in a savings account and then I had to pay for everything over again plus the balance transfer and anything that I returned I had to pay for in addition to made up purchases that were purely fraudulent. So I only do I pay for the things that are refunded, I pay for fraudulent charges, and I pay for the same purchases. I made over and over again. This is predatory lending and Im being taken advantage of because Im XXXX and Ive been targeted for that reason because they thought I wouldnt notice and I didnt for a while but I finally woke up and smelled the coffee. Im definitely at target and theyre definitely gaining financially of me and I am suffering for it. The point of a balance transfer is to take over the balance, not make you pay for old purchases purchases you didnt ever make and pay for the amount to cover what you were trying to replace instead of double or triple. this is not how a normal balance transfer works. Typically within normal balance transfer that 0 % but you have the fee you pay the fee and it takes over the balance. Theres no rating of peoples bank account rearranging all their purchases putting them on different credit cards taken away the refund and making them pay over again for everything they bought and anything they returned plus new purchases plus the bank. Thats a lot and not terms I agreed to and he definitely didnt fulfill your into the bargain because I received no balance transfer payoff of anything from Citibank and associated with this large transaction. What I got is way more debt because of Citibank and the other financial institutions that worked with them to do this to me."
+}

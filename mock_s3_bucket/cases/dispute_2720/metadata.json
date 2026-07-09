@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2720",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX there were XXXX unauthorized charges made using my card. They were for significant amounts totaling over {$3000.00}. I did NOT receive a fraud alert from Barclays and can prove this as the voice mail I received from them was on XXXX XXXX days after the charges were made and one day after they processed it. The charges were clearly NOT mine as they are for someone's rent and cable in XXXX where I do not live. They are also companies I have never paid before. If they would have had proper controls in place and stopped these charges as they are not typical charges for me. \n\nI was called on the XXXX about some new charges in another state but when they called they never asked about these charges in Maryland. So I discussed them all saying none of them were my charges. I didn't feel confident after that conversation so I then went in to my account and both disputed the charges and filed a complaint about the fact that the fraudulent charges had been put through and the fraud alerts that I have placed on my account had not been followed. I was upset because these charges were making my account show over the limit. I expressed my concern for that improperly being reported to the credit bureaus. And that is exactly what happened. Neither my written dispute or complaint has resulted in anyone providing me an updated or even acknowledging they received the information. I know they have a certain amount of time to respond as they can do an investigation. But I was assured by the rep when I called that this would all be removed when I receive my next statement. Statement was received but the charges still remain. \n\nI am a good customer with this company and this is clearly a mishap in their fraud system. These charges should have been caught and someone should have contacted me when I requested that they do. There error should not cost me over {$3000.00}. The fraud alert should have stopped the charges from going through."
+}

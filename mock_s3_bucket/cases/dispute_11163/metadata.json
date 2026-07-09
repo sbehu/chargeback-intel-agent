@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11163",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "488XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8796,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted my credit card ( AMEX ) which I have been a customer for over 15 years regarding a dispute of products not received from a merchant while we were on vacation in Puerto Rico on XX/XX/26. One receipt is for {$4100.00} and second receipt for {$330.00} When we returned home and didn't received the product within a reasonable time period, I submitted a dispute with AMEX. They initially credited our account and said the issue was handled. Then I got correspondence from AMEX saying the charge was valid because the merchant said I walked out of their store with product in hand ( also finally received correspondence from merchant saying ALL customers walk out with product in hand ). AMEX has closed the dispute and don't seem to be willing to read through the documents I have submitted. ( Even AMEX 's own fraud people are shocked when I describe what we experienced, with the high pressure sales tactic and alcohol they kept trying to pour for us and the proof showing the many other people that have experienced this same issue with XXXX XXXX XXXX Which is not possible as we traveled to Puerto Rico by plan and have proof with XXXX XXXX that we only hand checked luggage and their product would not have met the XXXX liquid rule restrictions. Regardless of my proof of XXXX receipts and other proof online that AMEX told me to get and submit to show that this company XXXX is a scam, AMEX will not remove the charge from my account. In my almost 50 years of life, I have never experienced anything like this EVER! I work for our XXXX XXXX XXXX XXXX XXXX and am boggled myself that we fell for this scam. I have never experienced a high sales pressure tactics before and with them inundating you with alcohol to lower your senses to approve such a purchase. After the merchant company finally responded to my inquiry, now that say that it was delivered and showed a picture of my porch. I work from home, for the State of Michigan and there was no product delivered. I was checking several times a day. I even had my XXXX test picked up without issue, there was still no product or package as they claim. Their sales guy said we were getting over {$30000.00} worth of product ( that should have been our first glue this was a scam ) and yet there is no signature required at delivery? I have order plenty of things over the years that have required a signature for much less than what they are saying these products are worth, so it makes no sense to me. By XXXX  XXXX and their sales tactics, many others have described the same thing we experienced with the high pressure sales tactics, alcohol, etc and then never receiving product, or they did in fact walk out with product but then it didn't work and customer service wouldn't respond even though the claimed lifetime warranty. \n\nI am embarrassed to even be filing this complaint with your company as I like to think I am an intelligent person, working for state government, that we could have even fallen prey to this type of scam. I should have known better being out of the continental United States, but apparently am naive that people would morally and ethically do something like this."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9682",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "12020"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10283,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a letter dated XX/XX/2025 from XXXX XXXX bank advising me that they had decreased my credit line on an existing Mastercard credit card that I have with them. The letter noted that the decrease was due to too many missed minimum payments on credit cards in recent history, and too many missed minimum payments on revolving accounts in recent history. The letter also stated that XXXX XXXX 's decision for the credit line decrease was based in whole or in part on information obtained from XXXX and suggested that I contact them which I immediately did. XXXX  mailed me a copy of my credit report dated XX/XX/year> which I received on XX/XX/year>. The report showed that my credit score was reduced from ( XXXX ) to ( XXXX XXXX ). Upon reviewing the Report, I found that a Citicard XXXX XXXX AAdvantage credit card that I have and rarely use has an outstanding balance of {$47000.00} resulting from charges that I did not make. I tried to access my online account and found that my credentials were no longer valid. I then contacted Citcard and was told that it appears that someone in XX/XX/year> hacked my account changing my username, password, email, telephone number, address and payment to paperless. All charges were made in XXXX."
+}

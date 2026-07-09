@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5168",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92115"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14500,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Back in 2017 I was a part of a case which involved stolen identities of XXXX different people. I kept disputing with American Express, and each time was denied, even though I supplied them with all the evidence from district attorney in the state of California. \nPlease help Thank you in advance XXXX XXXX"
+}

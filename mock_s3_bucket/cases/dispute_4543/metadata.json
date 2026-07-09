@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4543",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75088"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17874,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "See the previous complaints regarding this same request. I have also sent this request via letter to the address provided in the company 's previous response. My request remains the same. Ive requested validation of this debt ( XXXX times now ), i.e. my authorization/approval ( signature ) of the purchase of this timeshare. XXXX provided a credit card application which is not my signature, cardmember agreements, billing statements, and terms and conditions. None of which represents a validation of the charge to this account in the amount of {$4100.00}. Proper validation would be an agreement or contract with my signature authorizing and agreeing to terms of the timeshare purchase. You stated in the response there was an e-signature but failed to provide evidence of those documents. E-signature software does produce documents/agreements/contracts which would be critical to the purchase of property. Having my name, address, and email address does not make it Acknowledgement and Consent. My information was used without my consent and that makes it fraud. Thats the real crime... .someone used my information without my authorization/approval. \n\nBecause I am disputing this debt, you should not report it to the credit reporting agencies. Reporting it would be an inaccurate representation of the truth. Inform them that the debt is disputed, and request they remove it from my credit report. Reporting information that you know to be inaccurate violates the Fair Credit Reporting Act."
+}

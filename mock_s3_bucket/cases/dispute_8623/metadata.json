@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8623",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80249"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20937,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Citi Credit Card Failure to Properly Investigate and Process Chargeback Dispute What happened : I am filing this complaint against Citi Cards regarding their failure to properly investigate and process a chargeback dispute I submitted for a fraudulent transaction. \nOn XX/XX/year>, a charge of {$1800.00} was made to my XXXX XXXX XXXX XXXX XXXX by a merchant listed as XXXX XXXX, XXXXXXXX XXXX I did not receive any services from this merchant, and I have substantial documentationincluding an email from the merchant promising a refund and a detailed call log showing over XXXX attempts to resolve the issue directly with them. \nDespite this, Citi sent me a letter dated XX/XX/year>, stating they could not assist with the chargeback. I later spoke with a Citi representative who confirmed that the Dispute Team had not contacted the merchant or their acquiring bank, nor had they received any documentation from the merchant to justify denying the refund. \nThis lack of action contradicts the standard chargeback process, which requires the issuing bank to forward the dispute to the card network and the merchants bank, allowing the merchant to respond with evidence. Citi appears to have failed to follow this process, effectively denying me the protections afforded under the Fair Credit Billing Act ( FCBA ). \nWhat I want : I am requesting that the CFPB investigate Citis handling of this dispute and require them to : - Provide documentation of any communication with the merchant or their bank. \n- Reopen and properly process the chargeback in accordance with FCBA guidelines.\n\n- Ensure that Citi upholds its responsibility to protect consumers from fraudulent charges. \nI have attached supporting documentation, including the merchants refund email and my call log. \nThank you for your attention to this matter. \nSincerely, XXXX XXXX XXXX"
+}

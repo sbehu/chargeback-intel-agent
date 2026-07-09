@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6874",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "RI",
+    "complaint_zip": "028XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19382,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Many purchases from XXXX were made on my Citi credit card. Citi Bank determined the charges are my responsibility because my child made them. My child is XXXX XXXX XXXX and is not an authorized user on any credit card. These charges were NOT authorized by me and as such I should only be responsible for up to {$50.00} per the FCBA. I am not disputing the XXXX XXXX charges. Citi contacted me to request additional documentation and Citi was going to supply me with the documentation proving the charges from XXXX but they have done neither. I am attaching the documentation that I submitted to CITI, again."
+}

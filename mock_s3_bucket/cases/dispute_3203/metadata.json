@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3203",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78731"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6241,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card company did same balance transfer twice which I never intended nor asked for. So, they charged me the transfer fee twice ( {$200.00} each ). Here are the details. \nXX/XX/XXXX : I applied for a Barclays JetBlue credit online with the intention of a one-time balance transfer of {$4000.00} from my existing XXXX credit card to this new card. I was asked about the details of the balance transfer which I provided promptly. I was told the transfer fee would be {$200.00} which I agreed to. \nXX/XX/XXXX : I acquired the new card online with a credit limit of {$6000.00}. I was asked again about the balance transfer which I provided. \nXX/XX/XXXX : I see two transactions of the same amount {$4000.00} posted in my account. There were two transfer fees of {$200.00} as well. I am stunned. \nXX/XX/XXXX : I called the JetBlue card care, they said they can't cancel it now and I should contact the XXXX credit card department. The XXXX department informs me that they are yet to receive any payment. \nXX/XX/XXXX : I saw both the payments posted in the XXXX account. I called them and they informed me that they can not cancel the payment. \nXX/XX/XXXX : I called the JetBlue department again. They said 1 ) they can't cancel the duplicate transaction, 2 ) they can't even raise a dispute, and 3 ) they can't initiate an inspection only put a note. When I asked them to file a complaint and give me case number, they initially refused. Then, I said I need that for my future steps. They provide me with one but said it is not a dispute complaint nor there is any guarantee that the matter will be resolved. \nI believe the Barclays JetBlue company was not transparent ( or did not provide me indications ) that I am putting in request for duplicate transactions. This is a clear misconduct from their part."
+}

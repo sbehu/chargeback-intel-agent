@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4910",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63021"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11971,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX - made prepaid XXXX car rental reservation for {$1100.00} ( XXXX ) XX/XX/XXXX - picked up rental car XX/XX/XXXX - dropped off rental car; was charged XXXX XXXX when vehicle was dropped off; paid full amount XX/XX/XXXX - called XXXX after reviewing the charges and not being able to reconcile with original rental amount ; also inquired about the cost of repairs. XXXX was not able to provide documentation supporting the difference between the prepaid amount and what was charged when the vehicle was turned in. Also was not able to provide actual repaid costs ( estimate was charged ). \nXX/XX/XXXX - opened dispute with Barclaycard for overcharge both on the rental and repair XXXX/XXXX/XXXX - Barclays requested additional documentation to support claim ; did not provide any electronic means so packet was sent by mail. \nXX/XX/XXXX - called Barclays to get status of dispute at which time they said it was closed because we did not have sufficient documentation ; at no time did Barclays get additional info from merchant ( either not request or not received ; did not attempt chargeback ) XX/XX/XXXX - receive notification in mail that Barclays was closing dispute"
+}

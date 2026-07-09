@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6225",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "453XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37813,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Bank Sears Mastercard statement arrived containing a XX/XX/XXXX XXXX for {$320.00} from Wayfair and a XX/XX/XXXX bill for {$210.00} from XXXX. I phoned the fraud number and they sent a replacement credit card. I wrote a letter to them stating I did not purchase anything from those companies on those dates and I with held payment for both. Citi Bank reviewed the charges and removed the XXXX bill. They sent their investigation material to me on the XXXX bill and said they would revert the charge to me. Their investigation material shows that the order was placed from a location in New York ( XXXX XXXX ). Their investigation shows the delivery of the material was made to New York ( XXXX statement ). They are saying I placed the order because my email address was used. I know my email address was used for the XXXX bill because I received multiple emails from XXXX about \" my purchase ''. I deleted those emails because I thought it was a scam. I had ordered nothing from XXXX. I also ordered nothing from Wayfair. The scammer used both my email and my credit card. How can I get Citi Bank Sears Mastercard to remove the Wayfair bill? They sent me a letter threatening to report me to Credit Reporting Agencies if I do not pay this bogus bill."
+}

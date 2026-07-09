@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9890",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11377"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18114,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My online XXXX  account was hacked on XX/XX/25. The hacker used my account to make a purchase with my credit card on file ( Barclays JetBlue ) and picked up the item in person and XXXX dispensed the item because they dont check ID for online pick up orders. I immediately received notification from my card about suspicious activity and the hacker was prevented from making an additional purchase. I called Barclays immediately to report the compromise and they initially canceled the charges made by the hacker. Then a few weeks later they say the charge was legitimate because I had shopped at the vendor before ( umm its XXXX, who hasnt ) and the item was picked up in store ( by the hacker who wasnt asked to show ID at pick up ). Now they are refusing to remove this charge from my account and also refuse to provide me with any hard evidence that I made this purchase and showed up in person to pick it up ( impossible as I was not physically in the vicinity of the store that day and I requested they get security footage for proof but they refused )."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2875",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75093"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47062,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I booked a flight from XXXX XXXX to XXXX with XXXX XXXX using the confirmation code NKROKF ( flight confirmation code attached ). I paid the {$150.00} carry-on pet fee using my Citi AA XXXX XXXX XXXX I arrived at the XXXX XXXX however, the ground crew refused to let me board the flight with my cat, citing an issue that was not clearly explained to me. Despite being unable to board, I was still charged the {$150.00} pet fee. \n\nI agreed to rebook my flight for the following day, XX/XX/XXXX, and successfully traveled to XXXX. However, I was charged an additional {$150.00} for the carry-on pet fee on this date as well. ( XXXX charge statement are attached ) Upon realizing I had been charged twice for the same service, I contacted XXXX XXXX to request a refund for the charge on XX/XX/XXXX. The ground crew had assured me that the money would be refunded to my account, but this did not happen ( response from AA attached ). I also filed a dispute with Citi XXXX  XXXX, after XXXX month investigation, they identified me as the responsible party for the charge and did not resolve my dispute. \n\nI have made multiple attempts to resolve this issue with both XXXX XXXX and Citi Bank, but neither has provided a satisfactory resolution. XXXX XXXX has not refunded the duplicate charge, and Citi Bank has not supported my dispute."
+}

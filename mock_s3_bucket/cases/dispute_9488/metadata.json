@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9488",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "92345"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39282,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed the order XX/XX/XXXX and was waiting for it for about a month. It was an order with the amount of XXXX. It was delivered on XX/XX/XXXX. I immediately emailed the Store about the condition of the item not being what I ordered and the company agreed that it was not what I ordered as well. The package was thrown on my front lawn and not delivered to the front door. The item did not come as expected, it was missing parts of the order as well as it did not come in the color, size, or description online. The second jacket did not have the embroidery that was shown. The item was incomplete and did not look like the item I purchased. I emailed the clothing store and asked for a refund. They only offered 20 % compensation and then offered 40 % and then 60 %. I asked to fully return it but the store did not respond to my email. They would only respond to during the dispute, once the dispute was closed they stopped responding to me. I needed the shipping label so that I could return the item. The item is unworn, unused, with tags on. Overall the item did not come as expected and I tried refunding the item because the item is defective. It is unusable and not at all what I ordered. I requested a full refund from the store so that I can purchase my item elsewhere. I called the credit card company CitiBank and filed a dispute on XX/XX/XXXX for the incorrect item. On XX/XX/XXXX they sent me a letter that said it was resolved. They did not provide me any information, updates, or details as to why my dispute was denied. I called the company on XX/XX/XXXX and asked to reopen the dispute and on the morning of XX/XX/XXXX I received this digital letter stating that the window had closed despite me having the ongoing dispute from months back. I am disappointed in the way the company handled the dispute. I had sent them multiple photos and evidence of the store admitting to their mistake. The clothing store stopped responding to me so I can not get a response from them and the credit card company refuses to help me. I feel I am all out of options but I am trying this as a one last attempt to get my money back from a purchase. It is not a small amount of money or else I would not care but it is a big amount for me. I have a family and financially times are very difficult. I appreciate any and all help I can get. Thank you in advanced for your help."
+}

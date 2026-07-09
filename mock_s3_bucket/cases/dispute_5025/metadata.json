@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5025",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80015"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1199,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have XXXX Barclays cards. Both were hacked. I got a call from a woman that represented herself as an employee from the Fraud Department at Barclays. She has charged over {$20000.00} on my cards. When I call to get help from the Fraud Unit, I am told they will not help me unless I send them a copy of my Social Security Card front and back, my Driver 's license front and back and entire bank statement with balances etc. I am not willing to send them that information as I do not trust this was not an inside job. They will not allow me to access my account online and will not help me over the phone. They are trashing my credit which I do not appreciate. I have notified all 3 credit reporting agencies and am disputing all charges as I have not used these cards in 4 months. I was advised to file a report with you by the credit reporting agencies."
+}

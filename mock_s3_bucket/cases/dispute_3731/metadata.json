@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3731",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98498"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27767,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I overpaid My XXXX payment of {$1500.00}. I checked to see if the payment showed it was in progress and it didnt show it was paid by auto pay so I paid it again. I called the next morning to have the second payment canceled and was told I would have to wait XX/XX/10 business days before they could send it back. That was XX/XX/XXXX th. I called again aprox 7 days later again was told it would be XX/XX/10 days. Again I called on the XXXX of XXXX and at first was told it would be another XX/XX/10 days. I asked why when I was told that on the XXXX of XXXX and again when I called back. She then told me it was sent out on the XXXX. I asked to speak to a supervisor, after waiting for almost XXXX minutes she came on the line and said no one had asked for a refund. So in the meantime they took out XXXX more payments so now the overpayment has a balance of XXXX.?? Nothing should have been due until XX/XX/XXXX. Again I asked for a supervisor and asked why they are deducting payments that isnt due and when was I getting my overpayment back. You probably guessed it. Another XX/XX/10 days."
+}

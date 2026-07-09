@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3269",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30152"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48756,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX, my American Express XXXX American Express XXXX XXXX XXXX XXXX XXXX, TX XXXX ) credit card information was stolen and multiple online purchases were made to my card amounting to over {$6000.00} ( {$2600.00}, {$1800.00}, and XXXX on XX/XX/XXXX ). These were fraudulent online charges to XXXX XXXX XXXX ( XXXX XXXX XXXX. In XXXX of XXXX, after an initial dispute was rejected due to AMEX claiming that the items were delivered ( XXXX XXXX ) and signed for by me at my home. I never received these items nor did I sign them. Following the initial dispute, a new investigation was opened in light of more details about the fraudulent charges and has been ongoing since then and there has been no document provided to me detailing the findings of the new investigation. These charges were obviously fraudulent and I have no idea what the investigation outcome is nor any of the details related to the investigation. \n\nAMEX XXXX # XXXX"
+}

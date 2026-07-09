@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11841",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33133"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36070,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because my card issuer has failed to fully resolve fraudulent charges on my account despite multiple phone calls. \n\nBetween XX/XX/XXXX and XX/XX/year>, a merchant called XXXX XXXXXXXX XXXX  made XXXX unauthorized charges on my card totaling {$1300.00}. I did not authorize any of these transactions. The charges were repetitive, mostly {$19.00} each, sometimes multiple per day, which is a clear pattern of fraud. \n\nAfter I reported the fraud, the charges continued for weeks. The issuer did not block the merchant or take any action to prevent the fraud from recurring while I was actively disputing it. \n\nOn XX/XX/year>, the issuer processed a partial refund of XXXX credits at {$19.00} each, totaling {$670.00}. This only covered roughly half the fraudulent transactions. XXXX charges totaling {$630.00} remain unrefunded, including XXXX charge of {$9.00} and XXXX of {$29.00} that were not addressed at all. \n\nI have called multiple times to resolve this and each time I am met with customer service representatives who are unhelpful and difficult to communicate with, they barely speak English. Nobody seems willing or able to fix the problem. \n\nI am requesting a full refund of the remaining {$630.00} in fraudulent charges and any interest charged related to my account. The issuer has already acknowledged the fraud by issuing partial refunds but has not resolved the matter in full."
+}

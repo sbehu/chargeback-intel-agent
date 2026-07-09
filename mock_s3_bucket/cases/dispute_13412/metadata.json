@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13412",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "33193"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11044,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a XXXX filing this complaint against Citibank regarding a {$1400.00} charge ( Merchant : XXXX  XXXX ). This process was handled entirely via telephone with bank staff, whose persistent human and technical errors have denied my consumer rights. \nKey Points of Negligence : 1. Incorrect Categorization : I initially filed this as a \" cancellation, '' but I formally requested staff to change it to \" Merchandise Not Received '' ( as documented in my attached letters from XX/XX/XXXX and XX/XX/XXXX ). The bank 's staff failed to update the category, leading them to demand an impossible \" credit slip '' instead of proof of delivery from the merchant. \n2. Internal Duplication : Bank staff opened two duplicate disputes for the same charge ( Case IDs : XXXX and XXXX ). On XX/XX/XXXX, the bank admitted in writing this was an error. This duplication caused a technical conflict that blocked my case and made the dispute disappear from my online portal. \n3. Misleading Guidance : I was repeatedly told by staff to \" call back in 7 days, '' which I did religiously. These delays, caused by the banks own staff and their duplicate filings, are now being used against me to claim the \" timeframe has passed. '' 4. Automated Failure : Because of the duplicate cases opened by staff, the system automatically closed the investigation as a \" loss '' rather than resolving the technical error. \nI have acted in good faith, provided chronological proof, and repeatedly tried to correct the bank 's errors. I request a senior executive review of the attached letters and the permanent reversal of this charge."
+}

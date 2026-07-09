@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10761",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "270XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6492,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Re : XXXX Booking reference ( PNR ) : XXXX I am writing to request a partial refund in the amount of {$260.00} for ticket # XXXX, which I booked on XX/XX/year>. I booked this ticket for {$1300.00}, including a {$260.00} seat fee. Due to technical difficulties and a language barrier with a XXXX agent, I cancelled this ticket and immediately rebooked on the same outgoing flight ( under ticket # XXXX ) for {$2600.00}, again paying a {$260.00} seat fee. \nSince this resulted in a duplicate seat fee, I received a partial refund of {$1100.00} for ticket # XXXX, which excluded the {$260.00} seat fee. This was acceptable to me because I was still traveling, just under a different ticket number therefore the seat fee was applicable. On XX/XX/year> : I was informed by a XXXX representative that my reservation ( ticket # XXXX ) had been cancelled. This cancellation was not authorized or requested by me. I was told the cancellation may have been triggered by the seat fee dispute. I was advised by the agent to contact my credit card company to initiate a chargeback, which I did. The credit card company would not assist me stating that it was beyond the dispute period. However, I finally got a refund for {$2300.00} on XX/XX/year>. \n\nHowever, since XXXX cancelled my reservation ( ticket # XXXX ), I am entitled to a refund of the {$260.00} seat fee paid under ticket # XXXX, as the cancellation prevented me from traveling and the seat fee could not be used. Please note that I would have disputed this earlier if it hadnt taken 11 months to get the other refund. Since I now have received it, I am now disputing the {$260.00} seat fee which could not be used due to XXXX error and cancellation."
+}

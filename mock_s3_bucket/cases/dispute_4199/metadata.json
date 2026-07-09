@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4199",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21234"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42860,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a one-time subscription from XXXX online design elements on XX/XX/year> at a cost of XXXX {$110.00}. That was to facilitate an online design business I was attempting to commence with XXXX. That business did not pick up and the need to maintain a subscription with XXXX products would not have been necessary for me. Nonetheless, my subscription to XXXX was a one-time event. I did not subscribe for annual renewals to a product. I was thus very unpleasantly shocked to discover new charges to my Barclay Mastercard, long after I had ceased to use XXXX products. \nWhat XXXX did was to retain my card particulars and to charge a renewal fee for a subscription that I did not request. \n\nWhen I saw the new charge on my card, I tried to log onto the site hoping to file a complaint or ask for a refund, but to no avail. The site does not provide such info, and I was left to request Barclays to cancel the transaction. The bank removed the transaction but reinstated it a few days afterwards, stating that XXXX had provided evidence that I had made a new subscription. That claim is false and misleading and nothing has been provided to authenticate it. My last use of the XXXX product was around XX/XX/year>. \n\nI have made multiple telephone calls and sent faxes to Barclay Card, but every time I am taken round in futile circles. It is my understanding that the bank makes money from purchases on my account, not on cancelled transactions. I infer therefore, thats the reason for their reluctance to cancel the fraudulent charge. At XXXX point, a Barclay card agent gave me a number to call XXXX, XXXX. Ive tried it multiple times, but it goes to an unmanned answering machine. The XXXX website has no customer care number or email address by which I could communicate with them, only an address registered in XXXX. \n\nI am reaching out to you to help me have the fraudulent charge and interest associated with it reversed from my Barclaycard account.\n\nThank you in advance for your assistance"
+}

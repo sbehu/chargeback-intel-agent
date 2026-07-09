@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4732",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "RI",
+    "complaint_zip": "028XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24800,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was Notified by Home Depot on XXXX 2024 of fraud {$1100.00} by text message and email. I Contacted by the number provided and reported fraud. Issued new card. Card was not lost or stolen. I have not used it since early 2024. Charges are now {$1400.00} plus {$29.00} late fee. Contacted Home Depot fraud department with no resolution. Have now written to Home Depot as well. Statement says charges were to Home Depot warehouse. I contacted the state attorney generals office and was referred to this agency. \n\nOn XX/XX/XXXX I went to the Home Depot in XXXX RI and used my XXXX card for a {$9.00} purchase of leaf bags. I put my phone number in for my Home Depot Veterans discount which seems to have triggered the fraud.. I am a XXXX XXXX XXXX."
+}

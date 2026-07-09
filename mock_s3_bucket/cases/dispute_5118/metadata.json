@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5118",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94538"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7883,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "For dispute XXXX Please provide the evidence that the package was signed and signed by XXXX. \n\nIf the courier company hasnt provided proof of delivery or if theres an issue ( like a package marked as delivered but not actually signed for ), I have the right to challenge the charge and ask for clarification before paying the bill. \n\nGenerally, the courier company should provide valid proof of delivery ( such as a signed receipt or electronic signature ). If they can not provide such evidence, In that cases, Amex can not force me to pay the bill if Amex can not prove the delivery was completed properly."
+}

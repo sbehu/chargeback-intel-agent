@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13313",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "859XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17012,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I ordered XXXX bags of dog food and XXXX count packs of XXXX XXXX XXXX  from an online company called ( XXXX  ). After placing said order, I printed out the receipt and waited for conformation email with tracking #. I did not receive any conformation or tracking # and there was no way to contact merchant or cancel the order by phone or website. On XX/XX/year>, about XXXX hours after placing the order I contacted my credit card company, ( Citi bank ) and requested a stop payment sighting the above-mentioned concerns and my strong feelings of a scam being perpetrated. The XXXX  company opened a dispute # XXXX, I am not sure how long after I received an email from my XXXX company stating that I was in possession of said order and that the dispute was resolved that I owed the charges. I responded immediately informing Citi rep that I had not received anything and requested tracking # of order so I could trace order where abouts. The Citi rep would not give me the tracking # stating some kind of privacy concerns, I explained that this was my tracking # for my order, to no avail. finally, after multiple phone calls a Citi rep gave me said tracking # XXXX, this was on XXXXXXXX  more than a month from the order date. After tracking the order, I found that it had been addressed to a mailbox at XXXX XXXX XXXX store, and had been picked up by the box holder, who denies receiving package. On XXXXXXXX  my XXXX XXXX sent me another email asking for documentation, so on XXXXXXXX  I faxed a copy of the tracking information as reported by U.S.P.S and a copy of the merchants/ my receipt clearly showing the delivery address as my home address and a letter explaining everything. Now today XXXXXXXX  my XXXX XXXX  company sends me an email stating that due to a conflict where I had tried to cancel the order and now, I have brought the fact that said order was mis labeled and delivered to an address other than the shipping address on my receipt, that this somehow constitutes a legal transaction of which I am obligated to pay."
+}

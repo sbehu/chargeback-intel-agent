@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_305",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60609"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14987,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Order two of the same gaming systems and I only received one. They said someone sign for it and nobody with that name lives in my home so I never received it and they said I still had to pay for it. The cost was XXXX Im not paying for something I never received. Called them several times sent them a police report not seems to help. The company name is Best Buy."
+}

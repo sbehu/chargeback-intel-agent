@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_581",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "482XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23468,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a downpayment on a XXXX XXXX for {$100.00}. The downpayment was described as being fully refundable. I have requested a refund on numerous occasions and have never heard a response ; it seems as though the company is possibly going out of business, so this makes sense why they wouldn't want to refund my money. \n\nAmex refuses to refund this charge for me, saying it's too far in the past for them to do anything about. \n\nThis is unacceptable."
+}

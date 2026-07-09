@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5418",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "981XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19386,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing as the merchant involved in the above-referenced dispute to formally request a secondary review of the decision regarding the disputed amount of {$15000.00}, with the card number ending in XXXX ; I respectfully submit the following points for reconsideration : Duplicate Payment Evidence : The cardholder paid {$15000.00} on two separate occasions, resulting in a total payment of {$30000.00}. This clearly indicates that the transaction in dispute is duplicative and confusing. Ongoing Review of the Card : The dispute involving the American Express credit card ending in XXXX is still under review. This ongoing review supports my assertion that the case has not been fully and fairly resolved involving the American Express credit card ending in XXXX ; the dispute was created total of nine ( 9 ) days but already decided in the cardholders favor. Transaction Verification : All three disputed transactions have been verified through our enhanced XXXX processes. Moreover, each transaction successfully passed the XXXX authentication, thereby confirming their validity."
+}

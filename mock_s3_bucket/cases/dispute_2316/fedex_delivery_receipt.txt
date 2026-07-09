@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-94214702-US
+Shipment Date:   2026-03-03T00:00:00Z
+Delivery Date:   2026-03-09T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     6297 HERITAGE AVE, CA, 95125
+============================================================

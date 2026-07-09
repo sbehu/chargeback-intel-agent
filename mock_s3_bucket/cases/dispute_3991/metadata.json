@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3991",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61820"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34347,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX, I discovered I was paying twice for my XXXX XXXX ( {$72.00} ) and XXXX XXXX ( {$13.00} ) once with My authorized Visa card and once with American Express, which was not on the account. \n\nI talked w/ several AmEx reps, supervisors and the fraud division and told them the bad charges started in XX/XX/XXXX and I demanded a refund. They only offered 60 days, amended to 120 days for XXXX, XXXX, XXXX, XXXX, XXXX. \n\nNo refund on 11 months from XX/XX/XXXX to XX/XX/XXXX ( {$920.00} ). \n\nI asked for XXXX XXXX  number, got two wrong ones and finally tweeted at XXXX XXXX, They sent me to a help site that didn't work. AmEx would not assist in the communication with XXXX about this unauthorized account charge."
+}

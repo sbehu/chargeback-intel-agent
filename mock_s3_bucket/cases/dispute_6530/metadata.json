@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6530",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76108"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17868,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was notified by Citi by email on XX/XX/year> that there was a fraud alert for suspicious activity. The charges were XXXX XX/XX/year> {$520.00}, XXXX XXXXXX/XX/year> {$130.00}, XXXX XXXX XXXXXX/XX/year> {$4.00}, XXXX XXXX XXXXXX/XX/year> {$63.00}, XXXX XXXX XX/XX/year> {$150.00}, XXXX XXXX XXXXXX/XX/year> {$190.00}, XXXX XXXX XX/XX/year> {$650.00}, XXXX XXXX XX/XX/year> {$190.00}, XXXX XX/XX/year> {$330.00}, XXXX XX/XX/year> {$45.00}, XXXX XXXX XXXX XXXX XXXXXX/XX/year> {$12.00}. The email I received takes you to the app and I marked the charges as fraud. The charges were still pending. Then it prompted me to have a replacement card issued. I did not authorize these charges. I did not allow anyone to use my credit card. I have not done business or transactions at these locations. I do not know what the XXXX XXXX XXXX XXXX is, I don't know if its a court, DMV, tax accessor, parking? But it appears that that is the first charge and the rest were made the following day. Was my card skimmed? The charges were pending and after I reported them fraud, Citi still allowed the charges to go through. What is the purpose of reporting them fraud? The charges have been placed back on my account and I am being told I am responsible. This is inaccurate. I did not make these charges and your fraud detection and investigation needs to be implemented and enforced to protect the consumer. I will not be held responsible and I will continue to pursue my rights as a consumer. This is a clear violation of UDAAP."
+}

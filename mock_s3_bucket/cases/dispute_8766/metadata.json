@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8766",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33713"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8896,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This filing concerns issuer non-compliance with 12 CFR 1026.13 ( Reg Z ) in resolving a construction-related billing dispute previously logged as CFPB Case # XXXX. The issuer ( Citi ) sent XXXX provisional-credit notices ( XX/XX/XXXX and XX/XX/XXXX ), but did not issue a written final determination under 1026.13 ( e ) or 1026.13 ( f ) within the two-cycle/90-day cap. On XX/XX/XXXX, Citis Executive Response letter cited a merchant credit ( XX/XX/XXXX ) and redirected me to Home Depot. That does not satisfy Reg Z. In addition, there has been no clear confirmation of 1026.13 ( d ) protections ( e.g., final refund, stand-down from collection, no adverse credit reporting, no liens or similar impairments on the disputed amount while pending ). \n\nRequired by Reg Z and still missing : A written final under 1026.13 ( e ) ( error found/corrected ) or 1026.13 ( f ) ( no error ) that clearly states the determination ; 1026.13 ( d ) confirmation ( no adverse reporting/collection on the disputed amount while pending ) ; Purge of all interest/fees tied to the disputed amount ; and, if asserting no error under ( f ), a written explanation and, upon request, documentary evidence. \n\nContext ( prior case closure ) : CFPB marked the prior case Closed based on a {$13000.00} merchant credit. Those were provisional credits, expressly subject to further investigation and reversal ; they were not a final refund and not a compliant issuer 1026.13 ( e ) / ( f ) determination.\n\nWhat Im requesting now : Please require the issuer to post a compliant 1026.13 ( e ) / ( f ) final now, confirm 1026.13 ( d ) protections ( including stand-down from any collection activity, no adverse credit reporting, and no liens/impairments ), and purge related interest/fees. If asserting no error, require the 1026.13 ( f ) explanation and documentary evidence. \n\nSupervisory referral ( parallel ; do not delay the issuer final ) : Please open/refer a supervisory review regarding national-scale program-control failures ( prima-facie illegal deposit over-collection, senior-safeguard failures, etc. ), to proceed in parallel without delaying the issuers Reg Z final on this complaint. See previous CFPB Case # XXXX for full details."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5347",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "86301"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24371,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Account was opened fraudulently for a Navyist Rewards Card through Barclays and charged over {$1000.00}. I was a victim of fraud and did not open the account. The fraud investigations department is still holding me accountable for these charges with accruing interest."
+}

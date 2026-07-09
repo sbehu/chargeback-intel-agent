@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8126",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46151"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37327,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Starting XX/XX/XXXX, the following charges began appearing on my card. I use autopay, and only noticed the charges this month. \n\nXX/XX/XXXX XXXXFreeTime * XXXX XXXX WA This charge is tied to an application on an XXXX tablet. \nI do not own an XXXX tablet. \nThere is no recurring charge attached to my XXXX account. \n\nThe card provider has a secure messaging app for speaking to them in writing about issues. I wrote to them on XX/XX/XXXX and XX/XX/XXXX. In the first message, I requested to start the process of disputing the charges, and I asked them to block the merchant / charges in the meantime. Without access to the offending XXXX account, I have no way to stop those charges. \n\nThe amount is relatively small, somewhere around {$9.00} per month. I expected this to be a fairly simple process. \n\nThey are refusing to engage with me in writing, directing me to call them. I've expressed that I am unable to call them, and repeated the issue, and offered the option to instead simply cancel my card. \n\nThey responded with the same copy/paste message. In the meantime, they allowed the charge to occur AGAIN on XX/XX/XXXX, demonstrating that they aren't taking any action. \n\nI've attempted to go through the automated dispute process, and I am directed to report my card lost/stolen. When I then try to go through that process, I receive a website error. \n\nScreenshots in attached PDF."
+}

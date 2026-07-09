@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7229",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94578"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23662,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I placed an online order with Home Depot using my Home Depot store credit card ( Order # XXXX ), totaling {$1200.00}. The order included several XXXX power tools and accessories. According to the Home Depot app, the items were marked as Delivered on XX/XX/XXXX and XX/XX/year>, to my address at XXXX XXXX XXXX, XXXX, CA XXXX. \n\nHowever, I never received any of the packages. I was not home during the time of delivery, and I did not authorize the packages to be left unattended or without a signature. There were no doorbell notifications, no delivery confirmation photos, and no packages when I returned home. \n\nI contacted Home Depot customer service but received no resolution. I then filed a billing dispute with Citi, the issuer of the Home Depot credit card. Citi later denied my dispute, stating that the merchant did not respond. \n\nI have submitted all relevant documents and screenshots showing the delivery status and order details through the Home Depot app, and I have made multiple attempts to resolve this in good faith. \n\nI am requesting a full refund of {$1200.00} because I never received the merchandise, and I have taken reasonable steps to resolve this matter with both Home Depot and the credit card company."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6635",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WY",
+    "complaint_zip": "82009"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6580,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Someone stole my barclays credit card number and bought three flights on XXXX XXXX. I noticed when I received an email about the flight. The confirmation code on XXXX  was XXXX. The traveler name listed was XXXX XXXX. I called barclays to dispute and stop the card. I called XXXX XXXX and canceled the flight. The charged amount was {$930.00}"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_398",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ME",
+    "complaint_zip": "040XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30272,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I first learned of this problem when I received my monthly Sunoco card statement dated XX/XX/. It showed two transactions for unleaded gas on XX/XX/2023. The first transaction was In the amount of {$49.00} for XXXX gallons of unleaded gasoline, and the second transaction was In the amount of {$83.00} for XXXX gallons of unleaded gasoline. Both transactions were at the same merchant and location, XXXX XXXXXXXX, XXXX XXXX XXXX. in XXXX, Maine. I requested information from XXXX. XXXX, the merchant operating the Sunoco pumps. Using video, the merchant was able to confirm that my wifes Sunoco card information was used twice on the same day and at the same pump, in successive transactions ( with successive invoice numbers ), even though my wife withdrew her card from the pump after her transaction. In addition, the gallonage pumped in the second transaction was in excess of 1 1/2 times the maximum capacity of our car. I then contacted Sunoco customer service, using the phone number on my Sunoco card. The representative called up the two transactions and immediately agreed that the second transaction was fraudulent. The representative therefore canceled my wifes card, initiated a dispute, and issued a credit in the amount of the fraudulent transaction. Subsequently, however, I received a letter from Sunoco Security Operations denying my claim, also denying that I had identified any transaction, and claiming that there was not enough information to resolve the dispute in my favor. I am therefore appealing to CFPB out of a conviction that, either there has been some mixup on Sunocos part, or Sunoco is intentionally obstructing a legitimate claim. I would appreciate it if CFPB would intervene with Sunoco Security Operations to resolve the dispute, which is clear-cut and in our favor. Even the merchant ( XXXX XXXX ) agrees with this."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6551",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "IA",
+    "complaint_zip": "528XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX XXXX smartphone in late 2024 using my American Express card. After roughly six months of normal use, the phone 's core hardware feature XXXX  charging stopped working. I contacted XXXX immediately and informed them that I rely on this phone as a mission-critical device in my role as a security engineer. This is how I receive urgent on-call alerts ; without it, I can not perform my job. \n\nI offered multiple good faith resolutions, including : A cross-shipped replacement device Paying the difference for a higher-tier model with wireless charging All were denied. Instead, XXXX insisted I send the device in for inspection without a replacement, knowingly leaving me without any phone for an indefinite period. I informed them I could not accept that resolution due to the nature of my work. They refused to make reasonable accommodations. \n\nThis violates federal warranty law, specifically the Magnuson-Moss Warranty Act, which requires that warranties be honored without placing unreasonable burdens on the consumer. Pointing to restrictive \" terms of sale '' while refusing to accommodate valid warranty claims is exactly the type of practice the law was designed to prevent. \n\nAfter exhausting communication with XXXX, I initiated a charge dispute with American Express. They denied it on the grounds that it was more than 60 days since the original transaction, despite me notifying them promptly once it became clear the merchant would not honor the warranty. \n\nThis is a misapplication of the Fair Credit Billing Act ( FCBA ), which was intended to protect consumers in cases of defective goods or merchant nonperformance not to shield merchants from liability simply because a defect appeared outside the 60-day window. The timeline reflects a warranty defect, not buyers remorse, and I acted in good faith throughout. \n\nI am requesting the CFPB investigate this situation and require Amex to reopen the dispute or justify, in detail, why they believe this denial aligns with consumer protections under FCBA."
+}

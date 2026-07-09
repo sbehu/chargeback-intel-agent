@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2330",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19061"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5678,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I went to XXXX. I stopped at a store and purchased a bag and XXXX t shirts. I was charged {$950.00} and change in American dollars instead of XXXX XXXX. It should have been about {$50.00} or less in XXXX. I called CITI right away and clicked \" no '' for the email verification. They told me to wait until the charge posts and disputed. I did that. I received a denial letter about XXXX weeks later. I wrote a statement in writing explaining what happened. My appeal was reopened, and I was denied again weeks later. They reopened it and never communicated with me. I called multiple times and was denied again. I called again and someone told me they filed the dispute incorrectly. It should be filed as an incorrect amount not as a fraud charge. They filed for the dispute for {$900.00}. I was denied again due to the \" time frame that had passed ''. The time frame that had passed is because CITI did not do their diligence and investigate properly. They investigated as a fraud charge despite all of my attempts to explain. I was denied again weeks later due to the time frame again. I called again and it was reopened. I was now denied unless I provide a receipt, which they have known since XXXX that I was never given. The store in XXXX never provided me with a receipt. \n\nCiti bank has failed me on multiple attempts although I wrote statements and repeatedly explained the situation. They will not take fault for the {$900.00} inaccurate charge and expect me to pay it plus interest for their negligence and wrongdoing. Citi bank should be responsible for the credit if they are unable to resolve with the merchant due to the time frame they had let pass. I constantly called, wrote statements, communicated, and tried to dispute ( which I rightfully do not owe this amount ) since it happened! My next step is an attorney!"
+}

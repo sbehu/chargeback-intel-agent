@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10510",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23229"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9450,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Bank has failed to provide statement credit for a transaction that gave me food poisoning at \" XXXX XXXX ''"
+}

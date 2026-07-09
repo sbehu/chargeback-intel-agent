@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5832",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10036"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4461,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citibank Business Account credit card was fraudulently used for ATM withdrawals and debit charges from XX/XX/XXXX to XX/XX/XXXX, despite my refusal of any authorized use to anyone and my dispute of the suspicious activity detected, in response to phone calls I received from Citibank representatives on XX/XX/XXXX and XXXX, XXXX. \nI was reassured that the account would be blocked and investigated. \nCitibank blocked the account on XX/XX/XXXX and XX/XX/XXXX, and on XX/XX/XXXX due to \" suspicious activity ''. \nI do not know why the blocks were removed or how the account was reinstated. \nOr how ATM withdrawals are possible without my physical card which was in my possession and I was overseas in XXXX, XXXX during that time. \nMy account was depleted ( {$520000.00} ) XXXX XXXX XXXX, XXXX ( balance {$1.00} ). \nA fraudulent check deposited on XX/XX/XXXX from XXXX Treasury made out to me was not detected by Citibank and returned until XX/XX/XXXX. \nCitibank allowed charges to continue until XX/XX/XXXX despite block placed on XX/XX/XXXX and rejecting the check, overdrawing my account {$2100.00}. \nDespite my dispute and appeal of Citibank 's decision to reject my claim for refund, I have not received a logical or satisfactory response or explanation of their failure to protect my account. \nCitibank 's response : \" The activity appears to be consistent with your normal banking activities '' is absolutely false and unacceptable. It is a business account, not used for merchant debits in XXXX, NY, XXXX, XXXX XXXX XXXX, cash ATM Withdrawals. \nObviously the history of account was not taken into consideration, nor investigated. \nI have never been or used my card at any of the locations and venues listed on the statements. \nNobody knows my pin or security answers. \n\nCASE ID XXXX XXXXXXXX XXXX XXXX Citibank XXXX XXXX XXXX XXXX, XXXX XXXX TX XXXX"
+}

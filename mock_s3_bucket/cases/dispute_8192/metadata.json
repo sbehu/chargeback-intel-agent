@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8192",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "208XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4598,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Nature of Complaint I am filing this complaint regarding American Express 's systematic rejection of credit card disputes without proper consideration of individual circumstances, specifically when disputes are filed after the XXXX period due to the cardholder following American Express 's own recommended dispute resolution process. \nDetailed Description of the Problem Background I went to a jeweler for work on engagement rings. I was not satisfied with the results and came to an agreement with the merchant. Merchant agreed to financially cover work to complete the work they could not. Upon completion of the work by another jeweler, I sent the XXXX jeweler receipts of work done and images of the final product ; however, merchant ignored calls, texts, and certified mail. \nSince the option of a resolution with the merchant was no longer viable, I reached out to American Express to open a dispute. American Expresss automated process rejected my dispute without any consideration because my claim was older than XXXX  days from the time of the charge. \nAmerican Express 's Contradictory Guidance Throughout their dispute process documentation and customer service interactions, American Express explicitly recommends that cardholders : XXXX. First attempt to resolve issues directly with the merchant XXXX. Contact the merchant to request a refund or resolution XXXX. Only file a formal dispute if merchant resolution efforts fail The Problem Despite following this recommended approach, when I subsequently filed a dispute with American Express after my merchant resolution efforts failed, the dispute was automatically rejected solely because it exceeded the XXXXday filing deadline. This rejection occurred without any consideration of : The fact that I was following American Express 's own recommended process The time spent in good faith attempting merchant resolution as advised The special circumstances that led to the delay The merits of the underlying dispute Specific Issues with American Express 's Policy XXXX. Contradictory Instructions : American Express advises customers to try merchant resolution first, then penalizes them for following this advice by strictly applying the XXXX rule without exceptions. \nXXXX. Automatic Rejections : Disputes appear to be rejected automatically by system parameters rather than being reviewed by qualified personnel who can consider special circumstances. \nXXXX. Lack of Discretion : No mechanism exists for considering legitimate reasons why a dispute might be filed after 60 days, even when the delay results from following the company 's own guidance. \nXXXX. Unfair Practice : This policy effectively traps consumers who act in good faith by following American Express 's recommended dispute resolution process. \nImpact on Consumer This policy has resulted in : Financial harm due to inability to dispute the charge Loss of consumer protections that should be available under federal law Frustration and wasted time following American Express 's own guidance A feeling of being misled by conflicting company policies"
+}

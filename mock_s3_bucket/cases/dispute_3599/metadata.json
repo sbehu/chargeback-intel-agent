@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3599",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "627XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37908,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, my husband and I were vacationing in XXXX XXXX XXXX XXXX XXXX XXXX \nWe booked a day tour with XXXXXXXX XXXX XXXX XXXX XXXX on the nearby XXXX XXXX XXXXXXXX and XXXX XXXX. We traveled by ferry to the XXXX XXXX XXXX XXXX XXXX XXXXXXXX was supposed to meet us in a XXXX to tour several sites on the XXXXXXXX XXXX  XXXX was over XXXX minutes late picking us up... we didn't realize until we left in his XXXX that the entire island was flooded and the majority of the roads, beaches and sites we were told we would be visiting were flooded and closed due to heavy rains. \nXXXX insisted on driving us around for several hours through flooded roads and across a flooded causeway. The caves were closed by the local governments due to flooding. We didn't get to see any of the sites that were promised. \nWe requested a reduction in his price due to the lack of sites we were able to experience. He refused and insisted we pay if we wanted a ride back to the ferry! \nHe THEN TOOK US TO A LOCAL FILLING STATION, XXXX XXXX XXXX XXXX XXXX who provided us with NO SERVICES and insisted we pay {$510.00} with our credit card on their merchant machine. After we paid, he returned us to the ferry over XXXX hours before our excursion was suppose to conclude. \nWhen we returned to the resort I complained to the concierge who suggested I dispute the charge when we returned to the XXXX. \nI have disputed this twice with Barclays who is the bank for my Wyndham Rewards Credit Card Company. They have refused to credit me because the transaction was a face to face transaction, but what choice did we have? We were in a foreign country on a deserted island and needed to get back to the ferry so we could be transported back to the island where our resort was located. He basically extorted money from us. \nI've attached all receipts and documentation showing we had email confirmation with XXXX XXXX XXXX XXXX XXXX, but the receipt for {$510.00} is with XXXX XXXX XXXX XXXXXXXX XXXX. I've also included all documentation with Barclays regarding my request to dispute this charge and credit my account, along with their denial letters. \nMy XXXX XXXX with Barclays is : XXXX. I have faxed my information to them twice now. Once on XX/XX/year> and again today, XX/XX/year>. \nI sincerely appreciate your assistance with this complaint and I look forward to hearing from you. \nSincerely, XXXX XXXX XXXX"
+}

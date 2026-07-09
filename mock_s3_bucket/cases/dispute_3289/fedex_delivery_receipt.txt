@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-91418453-US
+Shipment Date:   2025-11-17T00:00:00Z
+Delivery Date:   2025-11-21T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     6027 SUNSET CT, NJ, 8054
+============================================================

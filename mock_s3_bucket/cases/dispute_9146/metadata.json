@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9146",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85338"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19050,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased 4 tickets to the XXXX XXXX on XX/XX/XXXX ( 2 for Wednesday = XX/XX/XXXX & 2 for Thursday = XX/XX/XXXX ) on my Citibank Credit Card. Come XX/XX/XXXX, \" inclement weather '' was expected on XX/XX/XXXX ( Thursday ) to which the XXXX XXXX XXXX made the decision to give all Thursday ticket-holders ( XX/XX/XXXX ) COMPLIMENTARY TICKETS for the Wednesday date ( XX/XX/XXXX ). In addition, those Thursday tickets would REMAIN VALID for the Thursday date ( XX/XX/XXXX ). This would mean a Thursday ticket holder would have access to the grounds on Wednesday IN ADDITION to Thursday for the price of one. I was a Thursday ticket holder and are ENTITLED to this. I'm trying to dispute the Wednesday charges ( XX/XX/XXXX ) while paying for the Thursday tickets. I have tried to DISPUTE THE WEDNESDAY CHARGES multiple times with Citibank. The first time I called, they told me it was \" too late '' to place a billing dispute and that I would need to \" send a letter to their billing disputes team '' to which I did ( XXXX-see attached ). After several weeks, they claim they submitted the billing dispute to the merchant, however, I recently received an email saying my claim was DENIED and I AM RESPONSIBLE FOR THE CHARGES because...\n\n\" We were not contacted in a timely manner and are unable to assist. '' I did EXACTLY what Citibank advised me to do, have proof I am entitled to the COMPLIMENTARY WEDNESDAY tickets with my Thursday ticket purchase and feel as though this billing dispute is 110 % valid. Citibank telling me \" we were not contacted in a timely matter '' IS NOT A RESOLUTION. My time is valuable. I am furious they are not assisting and giving me misinformation, telling me to send a billing dispute and then not attempting to resolve my dispute. I want PHYSICAL PROOF from the merchant this isn't a valid dispute. Citibank 's resolution ISN'T EVEN POSSIBLE based on the XXXX XXXX XXXX having to make a decision AT THE TIME OF THE TOURNAMENT ( XX/XX/XXXX ). Of course I couldn't submit a dispute within 90 days, the tournament wasn't happening until 10 months after the ticket purchase and those decisions can't be made until the week of the tournament. Citibank is basically avoiding my dispute with a bogus excuse. If someone in their disputes department thought about this logically and ACTUALLY READ THE COMPLAINT, they'd understand a billing dispute couldn't be placed within 90 days in this scenario. \n\nPlease see the attached billing dispute to Citibank and the email from XXXX explaining the situation regarding the COMPLIMENTARY WEDNESDAY TICKETS AND THE VALIDITY OF THURSDAY TICKETS as such, NOT \" in lieu of ''. There is no reason I should be paying for Wednesday tickets when the decision was made to give Thursday ticket-holders access to Wednesday as well."
+}

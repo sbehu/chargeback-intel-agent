@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_41",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97070"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33432,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi closed my dispute twice and both for reasons for which I already provided the required documents. Citi claimed I failed to provide documents supporting my disputed transaction when in fact I sent all documents twice. Citi then claimed I failed to communicate with merchant to resolve the issue when in fact I did try to resolve the issue with merchant prior to the dispute ; I also sent citi screenshot of emails between me and the merchant showing that merchant refused to communicate with me over emails and wanted me to call. The merchant did not want to respond by writing even after I asked to have any communication in writing. The disputed transaction is in the amount of {$910.00} with XXXX ( the merchant ). The merchant used deceptive and misleading advertisements on their website when advertising a hotel room I booked and paid for through their website which violates consumer rights to receive truthful information about a product or service."
+}

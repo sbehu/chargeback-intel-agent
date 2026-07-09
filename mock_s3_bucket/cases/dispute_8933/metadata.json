@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8933",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11211"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31712,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "What happened : I am filing a new complaint because Citibank improperly handled my prior dispute about an {$81.00} XXXX XXXX baggage charge from XX/XX/year>. The dispute was closed without a fair investigation and was misclassified as unauthorized, even though my original claim clearly stated that this was an overcharge for luggage that should have been included in my ticket. \n\nMy ticket was purchased through XXXX ( a XXXX  XXXXr ) and included one carry-on bag at no extra cost. On my return flight operated by XXXX XXXX from XXXX to the XXXX, the XXXX XXXX gate agent refused to let me board unless I paid an {$81.00} baggage fee for my carry-on. This charge contradicts the ticket conditions and the treatment I received on the outbound XXXX segment, where I was not charged. \n\nI provided Citi with evidence including the XXXX e-ticket, the XXXX XXXX receipt, and correspondence showing the inconsistency. Citi nevertheless closed the case, saying my statements conflicted and that the merchants documentation proved the charge was valid. That documentation simply confirms the transaction occurred it does not justify it under the contract of carriage. \n\nWhat I want : Citi should reopen the dispute under the correct Regulation Z category ( service not rendered as agreed / billing error under 12 CFR 1026.13 ). I request confirmation that Citi reviewed all documentation and complied with federal dispute-resolution requirements. I also ask that XXXX XXXX be contacted to refund the improper fee or that Citi issue a credit. \n\nAttachments : XXXX e-ticket and baggage allowance XXXX XXXX charge receipt Citi closure letter and CFPB response"
+}

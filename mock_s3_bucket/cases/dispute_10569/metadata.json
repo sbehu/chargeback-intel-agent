@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10569",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9676,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Beginning in XX/XX/XXXX, I filed approximately XXXX billing disputes with American Express related to charges from a single merchant ( a mobile game developer ). The disputes were filed properly and in good faith after issues arose regarding the service provided. \n\nAmerican Express initially credited some disputes, including several smaller transactions and several larger transactions ( for example, a {$490.00} charge that was credited as a result of our investigation ). However, a substantial number of disputestotaling approximately {$58000.00} $ XXXXwere denied. \n\nAfter the disputes were initiated, the merchant removed or materially restricted my access to the service, preventing meaningful use of the digital goods unless the disputed amounts were repaid. I have not had access to the product since XX/XX/XXXX. \n\nIn XX/XX/XXXX, I submitted updated escalation materials to American Express documenting this loss of access as new material information and requested supervisory or manual review. Despite this, many disputes were denied again using generic language such as after reviewing the information provided, the charge is valid, without addressing the loss of access or explaining how the new evidence was evaluated. \n\nOn XX/XX/XXXX, while disputes were still pending and under review, American Express sent a message stating that it was monitoring the frequency of my disputes and warning that continued dispute activity could result in permanent account cancellation if American Express determined that disputes were not being exercised in good faith. \n\nIdentical disputes involving the same merchant, timeframe, dispute reason ( goods not as described ), and documentation were treated inconsistentlysome were reviewed and credited, while many others were denied without explanation. \n\nI made extensive efforts to resolve this directly with American Express, including multiple dispute submissions, reopenings, escalations, and submission of additional documentation. Despite these efforts, many disputes were denied again without meaningful explanation or acknowledgment of the new information. \n\nI am requesting that American Express conduct a proper manual review of the remaining denied disputes, explain how the evidence was evaluated, correct any procedural or categorization errors, and issue appropriate credits where services were not rendered or access was improperly restricted."
+}

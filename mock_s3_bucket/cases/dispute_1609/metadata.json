@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1609",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "10458"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35853,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/, I applied for a Gap MasterCard at the store located at XXXX XXXXXXXX XXXX XXXX NY XXXX. I used the card to purchase a XXXX XXXX XXXX XXXX which cost {$79.00}. However, with the credit card, I saved 20 %. I returned the dress on XXXX because I changed my mind. The cashier at the register accepted the dress back and issued me a Return Card with a value of {$79.00} which I never used. After the return, I received a Gap Good Rewards MasterCard Statement for the period XX/XX/ to XX/XX/ with a balance due of {$57.00}. The payment due date was XX/XX/. I do not understand what I am being billed for. I returned the item, never used the Return Card, and never used the Gap Good Rewards MasterCard. Since then, I have been receiving monthly statements for fees charged and interests. To date, the balance due is {$260.00}. I refuse to pay for an item that I returned. I do not understand the original balance on the credit card statement of {$57.00}, and how it has accrued interests over time. I do not want this credit card. I want the balance removed from the account, and I want the account closed. I have not used the card. I returned the dress at the same store where I purchased it. My balance should be {$0.00}. I believe Ive been scammed."
+}

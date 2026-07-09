@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2287",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "917XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33588,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase with BestBuy in the amount of {$860.00} on XX/XX/year>. My item was to be delivered on XX/XX/year> via XXXX. My item was delivered to the incorrect address and a delivery photo was provided via XXXX XXXX XXXX XXXX showing that it was delivered to the incorrect address. In the delivery photo the residence and front door is not that of my home, and in the delivery photo there is no address and or Unit number shown. I contacted XXXX on XX/XX/year> and was advised to contact BestBuy regarding my issue. I reached out to BestBuy customer service via the chat feature on BestBuy.com and spoke with a customer service representative named XXXX XXXX. I explained the issue to XXXX XXXX and also provided a photo. XXXX XXXX then advised me that I would be issued a refund and would receive a conformation email with XXXX Hours. I received an email from BestBuy on XX/XX/year>, instead stating that there would be no refund issued to me. I then disputed the charge with BestBuy/Citi Bank in which I was told a letter with a resolution would be sent out to me within XXXX  days of the day I submitted the dispute. I never received a letter and called BestBuy Customer service on XX/XX/year>, in which I was informed that my dispute was closed and that I would not be issued a refund. I was informed by the representative that the resolution was not in my favor and that the item was delivered to the correct address."
+}

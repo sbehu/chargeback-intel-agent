@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_309",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21075"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41003,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, my wallet was stolen by a pickpocket in XXXX, XXXX, while I was traveling on official business. In the wallet was my Government XXXX XXXX, issued by Citi. This is the card which I am to use when making purchases when on official travel. \n\nThe thief ran up {$1700.00} in unauthorized purchases in the time ( roughly 1 hour ) between when he/she stole my wallet and when Citi deactivated the card due to suspected fraudulent activity. \n\nCiti has claimed that I am responsible for these charges because the thief used my PIN in making the purchases. They have cited a portion of the card agreement which states, essentially, that if I give my card and PIN to someone, then I am responsible for anything that they then do with the card. However, this is not what happened. Both the card and PIN were stolen. As for how the thief knew the PIN, I can only assume that he/she either surreptitiously watched me enter it, or obtained it using a keyboard overlay. \n\nI was immediately in touch with Citi upon receiving a text message from them reporting the suspected fraud. Receiving this text message is what confirmed for me that my wallet and card were stolen, and not simply misplaced. During this initial call, I arranged with Citi for a new card to be expedited to me, and also confirmed that all transactions beyond a certain one ( the last purchase I made before my wallet was stolen ) should be flagged as fraudulent. \n\nAfter a couple of weeks, I checked my online account and noticed that the fraudulent charges were still on my statement, and that my balance owed included those fraudulent charges. I called Citi a second time to get an explanation of this. I was told that the fraudulent charges would take \" 1-2 billing cycles '' to be removed. But in the process of that call, the agent I spoke with once again went through the transactions with me, saying that she was flagging them as fraudulent so that they would be \" investigated. '' This was confusing to me, as it indicated that the first person I spoke hadn't done so, and that perhaps Citi had done nothing at all about the issue to that point. She also asked me, interrogation style, why I didn't file a police report, and how the thief had learned my PIN. \n\nI later received a letter from Citi, dated XX/XX/2023, in which they rejected my dispute, citing the cardholder agreement as I mentioned above. The letter contained an itemized list of transactions which I had reportedly disputed, but it wasn't even the full list of fraudulent transactions. So over 2 phone calls in which I went over the fraudulent charges with Citi representatives, they still didn't even manage to have the full list. \n\nIn the midst of all this, I decided to ask my employer ( XXXX XXXX XXXX XXXXXXXX ) to get involved, going through the Government XXXX XXXX department for my agency. They are reportedly in the process of disputing the charges with Citi, and as far as I know these communications are ongoing. However, in the portions of these conversations that I've been privy to, every Citi representative they talk to has the facts of the case wrong, and says something inconsistent with what I was told on my own 2 calls with them. It makes me wonder whether anyone at Citi really knows what is even going on, let alone are they taking the matter seriously and doing any sort of legitimate investigation."
+}

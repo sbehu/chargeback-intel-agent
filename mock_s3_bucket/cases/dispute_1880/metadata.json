@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1880",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "17011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18419,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had several fraudulent charges on my Citi card during week of XXXX XXXX. Citi took care of all but XXXX of them and have been investigating the largest amount for 6 months all the while telling me not to pay since it is fraud ( this was told to me by several employees over XXXX different phone calls ). Since then, nothing has been resolved even though several supervisors claimed they escalated the issue and I would soon hear from them. All the while I've been receiving collection calls, texts, and emails ( 7 days a week and all hours ) regarding a past due account, not to mention hundreds of dollars in fees and interest! My credit score went from mid XXXX to below XXXX. As a retired banker I take this very personally as it affects my sleep and health."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1927",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "284XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41002,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an item online. When the product did not arrive I tried to reach out to the company. The company is not legit. here is their website and phone number XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX \n\nI opened a dispute with American Express and they came back that the charge is valid. I do not know what research they did but they did not provide me with any info or communication about the dispute and there is nothing in my online account. I suspect AE was not able to recoup funds from this bogus company so they determined the changes are valid. \n\nI was required to reopen the dispute with AE but they would not let me open the dispute for same reason. I also suspect this is a oversees operation where bogus website are opened to sell merchandise at a steep discount then never deliver. \n\nAmerican Express need to honor this dispute as valid and credit my account for the {$120.00}. I also request CFPB look into AE fraud dispute practices and see what info they were provided and how it is communicated to customers. They lack proper controls and oversite to effectively manage this process."
+}

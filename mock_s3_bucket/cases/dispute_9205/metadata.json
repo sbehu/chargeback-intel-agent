@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9205",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19446"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32854,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "AMEX XXXX AMOUNT WAS $ XXXX NEVER RECEIVED THE SERVICE BUT THEY CHARGED ME ALSO I WANT TO DISPUTE AND REMOVED FROM MY ACCOUNT AS SOON AS POSSIBLE.ITS FRAUD CHARGES"
+}

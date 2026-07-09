@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_862",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WV",
+    "complaint_zip": "26505"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45547,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order for an item that was to be delivered in 10-20 days. This was a standard item ( a XXXXXXXX XXXX desk organizer ) that was billed at a price about half of other companies. I was immediately charged {$25.00} on a XXXX account which I had charged to my American Express account charge was made on XX/XX/2023. When myAmex statement arrived showing the charge I disputed it ( on XXXX ) as I never received any confirmation from the purported \" seller '' nor have I have of of this date received the item I ordered. American Express closed the dispute on the bizarre basis that charge was justified with no explanation provided. I have demanded the charge be reopened as of even date. \n\nAny preliminary investigation would have determined that the immediate transfer of an Amex charge to XXXX which I never authorizes, the failure of seller to ever confirm the order and the failure to deliver merchandise after near 2 months is transparently fraudulent. I am entitled to a credit for {$25.00} and a recognition by Amex of its failure to comply with applicable law."
+}

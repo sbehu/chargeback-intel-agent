@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9119",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11219"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24935,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a new complaint because Citi did not properly investigate my dispute and their response to my prior CFPB complaint was factually incorrect and ignored the evidence I submitted. \n\nI disputed a {$300.00} transaction from XXXX for defective merchandise, requesting a {$68.00} credit. The items arrived with visible defects. I contacted the merchant multiple times requesting an exchange or return, but the merchant refused to respond and never provided a return address or return instructions. \n\nI submitted to Citi : Photos of defects Screenshots of all messages I sent Proof the merchant refused communication Proof the sellers return policy promises exchanges for defective items Despite this, Citi denied the dispute because the merchandise is still in your possession. This is impossible to comply with because the merchant refused to provide a return method. Citis denial shows they did not review the evidence. \n\nCiti also mishandled the process by : Opening multiple case IDs for the same dispute Changing the dispute amount without my authorization Closing/reopening cases with no explanation Failing to acknowledge documents I sent Misapplying denial codes Sending me the merchants response, which still did not include a return address In their response to CFPB, Citi again asked for proof of return, even though I showed the merchant would not provide return instructions. This demonstrates they did not conduct a reasonable investigation as required under Regulation XX/XX/XXXX. \n\nI am requesting : Reopen the dispute Review my evidence Acknowledge the merchant refused communication Remove the item in your possession denial Issue the {$68.00} permanent credit I can not resolve this with Citi because the dispute department and XXXX response unit repeatedly ignored the facts. Prior CFPB complaint ID : XXXX."
+}

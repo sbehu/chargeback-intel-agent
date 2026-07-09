@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7354",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94086"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12313,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Title : Delay in American Express fraud investigation after reporting unauthorized card and charges AMEX case number : XXXX Complaint Body : I would like to file a complaint regarding American Express and the delay in resolving a fraud case I reported on XX/XX/year>. \n\nOn that date, I notified Amex that an additional card had been used under my account without my knowledge or authorization. I didn't receive, activate, or use the card ( I didn't remember I opened this additional card, but they said I applied the additional card with primary card, I also checked delivery email, it exist delivery information, but I never received that additional card, please ask AMEX to provide the activation details, like which device, when and how the theft activate that ). Shortly after, several large transactions were made using that additional card, none of which were authorized by me. \n\nI also received an alert from American Express regarding a {$2800.00} transaction made on XX/XX/year> at XXXX XXXX using the card ending in XXXX. I never authorized this transaction. As soon as I saw the alert, I called American Express on XX/XX/year> and reported it as fraudulent. Despite my prompt action, the transaction still appears to be posted to my account. \n\nSince all the unauthorized transactions occurred in XXXX XXXX, I believe someone who stole or intercepted my additional card used it there without my knowledge or consent. \n\nAmex acknowledged my report and opened a case. While they declined the claim regarding the application of the additional card, they did open an investigation into the charges, including : XXXX XXXX XX/XX/XXXX {$71.00} XXXX  XX/XX/XXXX {$220.00} XXXX XXXX XX/XX/XXXX {$2800.00} XXXX XXXX XXXX XX/XX/XXXX {$370.00}, {$440.00}, {$440.00} However, as of today ( XXXX XXXX  ), the case remains unresolved. I have not received clear communication on the status or outcome even I called the customer service over XXXX times. Additionally, Amex has not provided any evidence ( such as activation records or proof of receipt ) to support their conclusion on the application being valid. \n\nI understand that fraud investigations can take time, but considering I reported this issue nearly XXXX months ago, I am concerned about the prolonged timeline and the lack of transparency. \n\nIn particular, the hotel charges at XXXX XXXX XXXX are deeply concerning I was not physically present at the hotel on those dates, and I do not understand how someone was able to check in and verify identity using a card that was supposedly tied to my account. I have not received any explanation or evidence from Amex on how these transactions were authenticated. \n\nI would appreciate CFPBs help to ensure : 1. The investigation is completed in a timely manner 2. I receive confirmation that I wont be held liable for unauthorized charges 3. Amex provides clarity on what led to their earlier decision The Amex case ID is XXXX. Thank you for your time and support."
+}

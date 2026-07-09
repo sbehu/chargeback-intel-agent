@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5211",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90042"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40303,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I purchased plane seats through XXXX. I tried paying for my selected seats through XXXX, which amounted in {$410.00}. After purchasing my plane tickets and paying for my seat selections through XXXX, I received a notification in my email confirmation stating, \" Sorry, there was a problem completing your seat assignment. Your seats are currently unassigned, and any related charges will be refunded. Should you still require seats, they may be requested directly with the airline. '' I then proceeded to pay for my selected seats through the direct airline itself, XXXX XXXX. When I checked my Citibank credit card transaction, I noticed that I was still charged the {$410.00} for the seats through XXXX. I checked again the following days to see if the transaction will be refunded, but it never did. I filed a dispute through Citibank on XX/XX/year>. On XX/XX/year>, Citibank sent me a notice stating that I was responsible. I provided Citibank with my email confirmation from XXXX, which clearly states the refund amount due of {$410.00}. I also contacted XXXX directly on XX/XX/year>. XXXX emailed me back stating, \" Regarding your paid seat request which amounting XXXXXXXX XXXX has been rejected.Therefore, the authorization charges should be released based on your bank 's internal process. We also recommend for you to communicate with your bank to determine their internal posting standard process. '' My payment summary of my purchase from XXXX states that I was supposed to be refunded the {$410.00} for the seats."
+}

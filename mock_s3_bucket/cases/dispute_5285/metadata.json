@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5285",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48092"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19339,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "i opened dispute for a damage item that i received they asked me to return the item now i have returned the damage item back their not closing the case in my favor and issuing me the refund"
+}

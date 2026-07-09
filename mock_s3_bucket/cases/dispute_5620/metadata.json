@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5620",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55124"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35567,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I need to address an issue regarding a fully paid, closed AMEX account being assessed a balance of {$470.00} THREE YEARS AFTER the account was fully paid and closed. \n\nOn XX/XX/XXXX I received an email that a fully paid and closed American Express XXXX XXXX account ending in [ XXXX ] had a new balance of {$470.00} although I had no access or use of the card since XX/XX/XXXX. I paid the full balance of {$3000.00} on this account on XX/XX/XXXX, and I did not receive any communication or statements related to this account since then. The confirmation number for the final payment is XXXX. I contacted American Express ( AMEX ) regarding this issue and they claimed that although the card was closed on XX/XX/XXXX, a charge was made in XX/XX/XXXX. \n\nTo provide some background : XXXX. In XXXX, I experienced financial challenges during the pandemic due to my child requiring additional care outside of our budgeted childcare. In spite of these challenges I ensured the balance on the American Express XXXX XXXX ending in XXXX was paid in full by withdrawing from my military Thrift Savings Plan retirement savings. \n2. I was informed by American Express that the card was canceled on XX/XX/XXXX ( sooner than agreed ) even though I requested time to make payment with retirement savings from my Thrift Savings Plan. I was informed that reinstatement of the card was not an option. \n\n3. Since paying off the balance on XX/XX/XXXX, I have not had access to utilize the account due to the card being closed by AMEX on XX/XX/XXXX. Although I have three other credit cards with American Express, I also did not receive any information, updates, statements, or correspondence regarding the account ending in XXXX until XX/XX/XXXX. This correspondence was via email. \n\n4. I have been unable to access the account in any way until contacting American Express repeatedly in XX/XX/XXXX for answers regarding a new balance of {$470.00} on the closed card ending in XXXX. \n\n5. On XX/XX/XXXX, I submitted a letter in writing to AMEX requesting this be corrected and to provide the following information : Investigate and provide a detailed account history from XX/XX/XXXX to the present. \nExplain how this {$470.00} balance was assessed on a closed and fully paid account. \nConfirm whether this balance has been reported to the credit bureaus and provide steps for correction if applicable. \n\n6. Enclosed with the letter, I included copies of the following : Proof of payment made in XX/XX/XXXX to settle the balance on this account. \nThe emailed statement from XX/XX/XXXX showing the disputed balance. \n\n7. AMEX responded to my letter with a statement history displaying a charge to a XXXX hotel in XX/XX/XXXX, a charge I disputed with their representatives over the phone. \n\n8. AMEX failed to provide explanation for how the balance was assessed on a fully paid and closed account 9. AMEX failed to correct the unauthorized Chicago hotel charge made on my fully paid and closed account.\n\n10. AMEX failed to correct the charges in late fees assessed to the card.\n\n11. AMEX failed to communicate with the cardholder regarding the closed account having a new charge until over a year after the charge occurred.\n\n12. AMEX failed to confirm whether the balance had been reported to credit bureaus and provide steps for correction. I learned that the balance was reported to credit bureaus."
+}

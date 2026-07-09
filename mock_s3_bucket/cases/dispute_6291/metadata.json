@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6291",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40694,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is in regards to my complaint # XXXX against Barclays. The complaint was closed without a resolution. \nBarclays never credited my account the {$66.00},- which were refunded from their partner XXXX and states that they are unable to find XXXX XXXX. \nXXXX provided documentation that they actually refunded the {$66.00}, - The document is showing the XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8084",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60091"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9213,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I received a fraud alert from Barclays Bank on my XXXX XXXX XXXXXXXX card for charges made in XXXX. The same day I received a letter from Barclays confirming a change of address- which I did not make. I called Barclays, we reviewed the charges, all of which were fraudulent and they closed the card and took off the charges. Important to note - the number of the card was not the number of my card. I never applied for this card, never received it, and never made these charges. One month later, I received notification that the charges were put back on my card because the card had a chip and it was in my presence. Again- this is a card with a different number that I never applied for or received. I called and explained and Barclays fraud said they would investigate. I just received two letters dated XX/XX/XXXX that the charges were valid because I had the card in my presence and they were sending my name to credit reporting agencies if I did not pay. I have letters noting cards with XXXX different numbers - Neither of which I applied for, received or used. Barclays refuses to investigate this."
+}

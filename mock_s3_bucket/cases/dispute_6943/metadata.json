@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6943",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "151XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38406,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was the victim of fraud - the kind of fraud known as flimflam, which refers to taking money through trickery or deceit. My initial dispute complaint was filed with a live Amex agent, who obviously either did not understand the nature of the fraud, or chose to ignore it and submitted it as nothing more than \" transaction amount is incorrect. '' The issue here is more than that, and in fact the documentation that the merchant submitted to Amex shows the accuracy of what I am saying. My original dispute filing is Amex XXXX # XXXX, it has been denied, and I am filing a re-dispute citing the merchants ' own documentation as supporting my claim. This occurred in XXXX on XX/XX/year>. I was in a shop and selected several items. The shopkeeper quoted me a price of a little more than XXXX shekels, which at the time I estimated to be about {$300.00}. He showed me a handwritten bill for that amount. I had that much cash in shekels, and said I would pay it in cash. He said he did not want cash, he wanted only credit card. I told him I had American Express, then he took me next door to what I believe was a currency exchange. He approached a man behind a glass or plexiglass screen, in a very narrow space where he was more directly in front of the glass than I was. My credit card & passport were handed to the man behind the partition, who made copies and printed out a receipt. The receipt was slid under the glass onto a narrow counter where the first man held it while I signed it. His hand was on the receipt the whole time, and the way the space was it would not have been possible to sign it if someone wasn't holding it. He said he would put a copy of the receipt in the bag with the merchandise. When I got back to where I was staying there was no receipt. I was leaving that night and there was no chance to get back to the shop. I did not actually know the amount that had been charged to the card until I was able to access my account online.That amount was a total of {$3200.00} - which included a foreign transaction fee of {$77.00}. This is XXXX times what I had been told the cost would be! The third page of the material the merchant submitted to Amex is a handwritten sales slip with the reference number XXXX. I believe that was the bill of sale I was shown in the shop. Look at the amount that is written at the bottom. The clear amount is XXXX - then there's some kind of scribbled pen mark on the line between whole amount and decimals, but the clear amount on that receipt is XXXX, and that's what I was told the cost was. I believe the reason the merchant wanted only a credit card, not cash, was so that he could engineer some kind of increase in the amount billed. I do not think these people singled me out for special treatment- if they did this to me they are doing it to other tourists as well. The refusal to take cash should have been a signal to me that they were looking to set up some kind of fraud. XXXX other points : XXXX ) my line of credit on the Amex card is {$4000.00} - I never would have charged {$3100.00} of that in XXXX transaction ; XXXX ) the items I purchased could not have in any way totaled that amount."
+}

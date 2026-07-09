@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3463",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "238XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44124,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Sears Mastercard by Citibank. \n\nXX/XX/year> : {$79.00} charge from XXXX annual account. I disputed the transaction for the second year in a row and the credit card company requested backup. As I do not have an account with XXXX I could provide no backup. As a result, the credit card company charged me for the transaction even though I told them via phone and on the computer that I don't even have an account with XXXX nor their parent company, XXXX."
+}

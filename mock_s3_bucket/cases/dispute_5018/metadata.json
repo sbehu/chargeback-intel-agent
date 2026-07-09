@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5018",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "354XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35639,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I started receiving billing statements from American Express on a card I never received, I called on XX/XX/XXXX to cancel since I had no idea where the card ended up. I live in a rural area in Alabama and sometimes receive other peoples mail and figured my mailing had ended up in someone elses mailbox or lost. I had extended conversations on XXXX & XXXX with American Express thinking each time we had it resolved to only get another billing statement the next month. They told me I had 30 days to cancel the card and I clearly explained that I was unaware the card application had been approved since I never received the card and was told that it was my responsibility to get the card not theirs.I called back on XXXX XXXX and spoke with XXXX different American Express representatives and clearly explained the situation, I didnt receive the card or any benefit from the card and to clear this charge. Kept receiving billing statements and called American Express again on XXXX XXXX and spoke with American Express representative and AGAIN explained the circumstances and situation and was told they would look into again and for me to call back in XXXX weeks. This has been going on since XXXX with a Company I have had a card in good standing with since XXXX, they have not sent any responses and have told me to call back to check on any resolution. I am a XXXX XXXX XXXX man who takes any bill very seriously and take pride in paying for services rendered, in this case no service or benefit was ever rendered. I applied for this card back XXXX XXXX and NEVER received it, only called because I started receiving billing. Really disappointed in a company that I have been doing business with since XXXX in how unprofessional they have been and are trying to force a bill on me that I didnt receive a card or benefit from!"
+}

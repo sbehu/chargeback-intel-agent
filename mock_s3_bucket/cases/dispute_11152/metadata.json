@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11152",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11385"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reported multiple unauthorized transactions on my Best Buy Visa credit card. The fraudulent charges began around XX/XX/XXXX, and continued through early XX/XX/XXXX. \n\nThe total amount of unauthorized charges is over {$3500.00} and includes multiple transactions across different merchants, including a {$2600.00} charge from XXXX XXXX. \n\nI immediately notified the bank once I became aware of the fraudulent activity and filed a despite for the unauthorized transactions. \n\nThe bank denied my fraudulent claim and held me responsible for the charges. However, the documentation they provided during their investigation only addressed two small transactions and failed to investigate the majority of the fraudulent charges on my account. \n\nThe documentation they provided does not prove that I authorize the transactions. One example shows that the purchase confirmation was sent to an email address that does not belong to me, and there is no signature or proof that I personally authorized or received the goods. \n\nAdditionally, the pattern of transactions is consistent with stolen credit card activity. Majority of them were made in different towns and not even nearby my house. The charges began with small transactions and escalated to larger purchases. \n\nI did not authorize any of these transactions and was not in my possession of the card at the time. I believe the bank failed to conduct a reasonable investigation before denying my fraud claim."
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-43271401-US
+Shipment Date:   2026-03-12T00:00:00Z
+Delivery Date:   2026-03-18T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     8998 HILLSIDE DR, TX, 78613
+============================================================

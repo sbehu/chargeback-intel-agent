@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6724",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33036,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Acct ending XXXX XXXX - XXXX. This is a dispute I opened due to some mountaineering boots needing to be returned within their return period. American Express took too long to process the dispute and then they claimed it was over 60 days so they wouldn't pursue it. This is not acceptable."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6229",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NC",
+    "complaint_zip": "28532"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46774,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a dining set through Macys.com using my Macys credit card. This purchase was made on XX/XX/year>. I returned this item to Macys and UPS sent me verification of the return being delivered. I have contacted Macys four separate times now to get my refund. They said it was sold by a third party via Macys.com and they see they did receive the return and do not know why they have not refunded the amount ( {$1200.00} ). This keeps happening everytime I call I am told they will escalate the claim and Macys will refund my account directly and it does not happen."
+}

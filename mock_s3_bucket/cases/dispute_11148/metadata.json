@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11148",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10128"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46019,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Overview : I am reporting Citibank , N.A . for a violation of Regulation Z ( 12 CFR 1026.13 ) regarding the failure to properly credit merchant-issued refunds. Despite providing merchant-verified bank logs and authorization codes, Citibank has reached a technical impasse and closed my dispute. \n\nChronology : XXXX XXXX XXXX  : Two charges were made at XXXX XXXX totaling {$6200.00} USD. \n\nXX/XX/2026 : XXXX acknowledged a billing error and processed two credits totaling XXXX XXXX. \n\nThe Error : Due to the XXXX XXXX strengthening, the refund value is approximately {$6500.00} USD. \n\nCiti 's Failure : Because the refund amount ( ~ {$6500.00} ) is higher than the original charges ( ~ {$6200.00} ), Citibanks automated systems failed to \" match '' the transactions. \n\nEvidence Provided : I provided Citi with the merchants bank movement logs and specific Authorization Codes : XXXX and XXXX. \n\nCurrent Status : I have an open Internal Ethics Case ( # XXXX ). I visited a retail branch on XX/XX/XXXX, where management refused to assist with this credit card compliance failure. Citibank is demanding payment of the disputed {$6200.00} by XX/XX/2026, while refusing to issue the mandatory provisional credit or conduct a manual research adjustment of the provided Authorization Codes.\n\nRequested Resolution : Immediate manual location of the funds via the XXXX network using codes XXXX and XXXX. \n\nReinstatement of provisional credit to prevent interest and late fees."
+}

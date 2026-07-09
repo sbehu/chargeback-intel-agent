@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7856",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28262"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6707,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue Summary : CitiBank canceled my legitimate XXXX XXXX purchase without my consent, flagged it as fraud, and refuses to verify my account using reasonable methods. I have already lost money on this trip and risk losing more. \n\nTimeline & Details : I had planned to attend XXXX XXXX for XXXX XXXX Weekend for a friends birthday. I put {$330.00} down towards the XXXX and provided an additional {$260.00} towards excursions from my personal account. \n\nOn XX/XX/XXXXXXXX  I made an XXXX XXXX purchase for {$850.00} using a new Citi XXXX  card, which advertised a {$200.00} credit and XXXX points by XX/XX/XXXX. Citi gave me a temporary card expiring XX/XX/XXXX and I added it to my mobile app. I had the permanent card sent to my permanent address, but my mother accidentally threw it away thinking it was junk mail. \n\nOn XX/XX/XXXX, I found out the card had been discarded. On XX/XX/XXXX, I called Citi and explained : my card was thrown away and I needed a new one. I had also already paid {$250.00} from my personal account toward the Citi card balance. \n\nCiti said they needed to verify my account through a text message, but my phone line is under my mothers name. They told me the only way to verify would be for me to get a brand-new phone and number. I told them I could provide Social Security and banking information, but they refused. \n\nI confirmed on the phone that I made the flight purchase and payment. Citi still flagged my card as stolen/fraudulent and opened a claim on my account. \n\nThe only email I received from Citi was misleading. It stated that we have received your claim and treated my purchase as if I reported it as fraud, which I did not. I confirmed to Citi multiple times that this was my purchase. Their communication misrepresented my intent, canceled my card, and created unnecessary barriers to my account. The only true notice I got was a text message saying XXXX. \n\nWhen I called XXXX XXXX, they told me I was still in good standing and had not been canceled yet. But Citis reversal puts me at risk of cancellation.\n\nI asked Citi to check their recordings to confirm I made the purchase, but they refused to work with me. They told me I would just have to wait for a letter in the mail before they could help."
+}

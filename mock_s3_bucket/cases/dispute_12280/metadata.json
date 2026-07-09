@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12280",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11780,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a painting from XXXX for {$440.00}. The item was advertised explicitly as a \" 100 % hand-painted ONE-OF-A-KIND ORIGINAL painting - not a print, or recreation artwork. '' What I received was a printed reproduction with surface paint applied - a product the art market classifies as a hand-embellished print, not an original painting. The merchant 's own follow-up emails confirmed the item was printed first and then painted over, directly contradicting the listing. Furthermore, shipping records reveal the item was shipped from XXXX, XXXX - inconsistent with the representation of a hand-crafted original painting and indicative of mass production. \nUpon receiving the item, I contacted the merchant on XX/XX/XXXX requesting cancellation and a full refund. The merchant did not respond substantively. Having received no resolution from the merchant, I filed a dispute with Citibank on XX/XX/XXXX. \nFollowing the dispute filing, the merchant responded and agreed in writing on XX/XX/XXXX and XX/XX/XXXX to accept the return and issue a full refund \" as soon as the package is delivered. '' I returned the item per the merchant 's instructions using their prepaid label. USPS confirmed delivery to the merchant on XX/XX/XXXX. No refund was ever issued. \nOn XX/XX/XXXX, Citibank closed the investigation and reversed my conditional credit. Their letter states : \" The merchandise is still in your possession. '' This statement is demonstrably false. The merchant received the returned item on XX/XX/XXXX - 28 days before Citibank issued that determination. The merchant made a false representation to Citibank to defeat the chargeback. Citibank accepted that representation without reviewing the USPS return evidence I had submitted.\n\nI have since obtained the merchant 's evidence package submitted to Citibank. It consists solely of proof of original delivery of the item to me. The merchant submitted no evidence whatsoever addressing the subsequent return. My USPS return tracking confirmation - showing delivery back to the merchant on XX/XX/XXXX - directly and completely counters the merchant 's only argument. Citibank closed the investigation without reconciling these two pieces of evidence.\n\nThe result : the merchant holds both the returned painting and the {$440.00} simultaneously. This is not a disputed outcome- it is unjust enrichment enabled by Citibank accepting the merchant 's incomplete evidence over documented cardholder evidence.\n\nI submitted the complete email chain, USPS tracking confirmation, and original product listing to Citibank on XX/XX/XXXX and again on XX/XX/XXXX. The dispute was closed three days after my second submission with no acknowledgment that the evidence was reviewed. Four successive denial letters dated XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX each cite different procedural reasons expired timeframes, no recourse, and finally a demand for a \" credit slip. '' A credit slip is issued by the merchant upon processing a refund. The merchant has refused to issue one. Requiring me to produce a document that can only exist if the dispute is already resolved is not an evidentiary standard- it is a denial mechanism.\n\nCitibank 's investigation was initiated, conducted, and closed on a false factual premise. Under 15 U.S.C. 1666 and Regulation Z, Citibank is required to conduct a reasonable investigation of a billing error. Closing a dispute in favor of a merchant whose only submitted evidence proves original delivery - while ignoring USPS confirmation that the item was returned 28 days prior to the determination- does not meet that standard."
+}

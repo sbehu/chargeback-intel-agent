@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6274",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85392"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10511,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a double charge from a XXXX XXXX XXXX XXXX XXXX XXXX XXXX that occurred on XX/XX/25 and XX/XX/25 for the same amount : {$880.00}. The merchant initially claimed my first payment didnt go through and requested I re-submit my card information. I did so in good faith, and I was subsequently charged twice. \n\nI contacted Citi immediately and followed instructions to dispute both charges. I submitted multiple documents including : The email from the merchant asking me to re-submit payment My Citi statement showing XXXX charges for the same amount My cancellation confirmation from XXXX showing I was eligible for a full refund Communication with XXXX confirming they only show XXXX transaction on their end Despite providing this evidence, Citi denied the dispute and has refused to refund the second charge. I am now out {$880.00} for a duplicate charge that I believe was caused by a merchant or processing error. This has been deeply frustrating and financially harmful."
+}

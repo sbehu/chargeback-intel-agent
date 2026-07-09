@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2097",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19929,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used a Citi personal credit card to purchase a new coffee machine online, from XXXX. The coffee machine that I received would not power on, so as soon as I discovered that, I filed a service request with XXXX. They sent their own service technician who confirmed that the machine is defective. I declined repair, because I didn't pay to buy a defective machine- I expected to get a brand new product that worked. My request to XXXX to replace the product was denied. So I disputed the charge with my credit card company, Citicards ( or Citibank ). Citicards has determined that I am responsible for the charge. They requested no clarification from me after I submitted the initial dispute with supporting documents for evidence, have provided no call back number or email to get in touch with them. I have no visibility into how they determined that I must be responsible, as they have provided no reasoning to back their determination. \n\nThe precise details, dates, etc of the dispute that I filed are as follows. \" On XX/XX/XXXX I purchased online from XXXX a countertop coffee machine. It was delivered on XX/XX/XXXX. On or around XX/XX/XXXX I plugged in the appliance for the first time, but it would not turn on. I submitted a warranty service claim with XXXX. On XXXX, XXXX, XXXX XXXX XXXX came, examined the machine and confirmed that it would not turn on. I refused repair, since my purchase contract was for a new appliance that works. I requested replacement on the same day, however XXXX 's employee XXXX XXXX responded on XX/XX/XXXX that the request is denied and that the appliance must be serviced. I find this unfair - I paid for a new appliance and it is normal and understood that the appliance that is sold will work as advertised. '' In addition, I also filed complaints against XXXX with the California XXXX XXXX XXXX XXXX and XXXX, because I live in California and the machine was delivered there, as well as New Jersey Division of Consumer Affairs, because XXXX XXXX is incorporated in New Jersey. The CA division has notified me that this is not the type of complaints that they handle. The NJ division has delegated the complaint to XXXX County Office of Consumer Affairs in XXXX, NJ, as they have jurisdiction."
+}

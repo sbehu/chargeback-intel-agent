@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5227",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "197XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17060,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a dispute with Citi bank on my Shop Your Way Card back in XXXX. The company is saying that the dispute was resolved, and the amount was removed. I have called multiple times about this dispute still being in my card balance. The company has not resolved the issue and the wrong amount is being reported on my credit report. The last time I called and tried to resolve the issue was XX/XX/XXXX. The company then tried to say that I brought something and that's why my balance is so high, but my statements do not reflect what they are saying. Also, when I try to pay my card there is a statement that says, \" Payment amount can not exceed the current balance. '' my current balance is currently XXXX. The company is not trying to resolve this issue. If this was a purchase that I made why will the system not let me pay it and why is the purchase not reflected on my statements."
+}

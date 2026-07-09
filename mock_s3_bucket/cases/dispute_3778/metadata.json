@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3778",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26469,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had my credit card in my wallet. I logged into my Barclays app and see pending charges from.XXXX  XXXX  on XXXX XXXX and XXXX XXXX XXXX  XXXX  a hookah store I am XXXX and never smoke for XXXX XX/XX/year> XXXX XXXX XX/XX/year> {$200.00} XXXX  XX/XX/year> XXXX XXXX  XX/XX/year> XXXX Barclays remove the charges and land an investigation. Today all money was charged to my card and I contacted the company. Barclays informed me they did an investigation and the charges found valid because a cars was used. I am very shocked because I never been to any of theses locations and never made the purchases."
+}

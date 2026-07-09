@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8055",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92117"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17397,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing an XXXX charge for a replacement scanner that I never received and did not authorize as a purchase. XXXX took my card only as a hold, not as consent to bill me. Please remove this charge immediately and issue provisional credit while you investigate pursuant to the Fair Credit Billing Act.\n\nWhat happened I originally purchased my scanner for about {$400.00} ( receipt attached ).\n\nAfter a 3-hour support call, XXXX failed to diagnose a simple feed issue I later resolved myself. \nXXXX captured my American Express card strictly as a hold to send a replacement. I cancelled once the issue was resolved. \nDespite my cancellation and XXXX confirmation that the charge would be refunded, my card was still billed ( charge ~ {$250.00} on or about XX/XX/XXXX ; statement page attached ). \nXXXX now claims the unit was delivered, but there is no delivery photo, no signature, and I did not receive any package. \nAs a result, I have now paid roughly {$700.00} in connection with a single scanner, which is unreasonable and contrary to XXXX own representations. \n\nWhy this qualifies for reversal Merchandise Not Received : No signed proof of delivery or photo ; I never took possession.\n\nMisrepresentation/Unauthorized Billing : The card was supplied as a security hold, not permission to convert to a sale. \nVendor Promised Refund : XXXX confirmed a refund would be issued ; it was not.\n\nConsumer Burden : If XXXX believes it shipped the item, the correct path is for XXXX to file a lost-package claim with the carriernot to shift the loss onto me."
+}

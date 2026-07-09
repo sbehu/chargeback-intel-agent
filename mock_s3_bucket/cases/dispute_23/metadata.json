@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_23",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39872,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I bought a XXXX laptop computer at the BestBuy XXXX XXXX XXXX, CA store for, prior to the promised 10 % immediate discount, {$460.00}. Salesperson \" XXXX '' offered 3 payment options : 1. Pay in full. 2. Finance the purchase. 3. Sign up for a BestBuy VISA credit card and get a 10 % discount on the first purchase- which was the XX/XX/2023 purchase of the aforementioned XXXX laptop computer. \n\nThough I have two other VISA credit cards, the 10 % discount was attractive and I signed up for the BestBuy VISA credit card. \" XXXX '' gave me the credit card approval document ( see page 4 of the attached documents ) and said that the 10 % discount would appear on the subsequent statement ( see page 2 of the attached documents ). \n\nAs you can see from page 2 of the attached, the 10 % ( {$46.00} ) off the aforementioned purchase did not appear, and I called BestBuy credit services and was told that \" XXXX '' was mistaken and I was to receive a {$40.00} off certificate for a FUTURE purchase, not what I was told. I DID subsequently receive an email offer of {$40.00} off a FUTURE purchase, with an expiration date. I was puzzled why I was misled. \n\nI disputed this matter, and a few days ago was told by a BestBuy credit services representative that my dispute was denied- no documented evidence that \" XXXX '' told me that I would be getting an immediate 10 % off the XX/XX/23 purchase of the XXXX laptop computer. I was therefore responsible for the {$46.00} payment."
+}

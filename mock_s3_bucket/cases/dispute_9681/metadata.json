@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9681",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90006"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13408,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank regarding a disputed transaction with XXXX ( {$810.00}, Date : XX/XX/year> ). This was a duplicate booking that I attempted to cancel immediately, and no services were rendered.Despite my contacting Citibank XXXX separate times to dispute this, the bank failed to conduct a reasonable investigation. Specifically, Citibank never requested any supporting documentation or evidence from me before closing the case XXXX. \nI have definitive physical proof ( a receipt/folio ) that I stayed at a different hotel during the period of the disputed charge. Because Citibank never asked for this evidence, they relied solely on the merchant 's refusal to honor the credit. \nI am requesting a full reversal of the {$810.00} charge, as the service was never used and Citibank has failed its duty to review my evidence under the Fair Credit Billing Act."
+}

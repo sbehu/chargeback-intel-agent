@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_633",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "701XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19284,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called American Express and XXXX XXXX XXXX after being released from a hospital to report that I was not aware of my credit card being charged this amount due to a two week stay at a XXXX hospital. First, American Express credited my card ; then they said I would have to pay the {$7000.00} which I have been doing in order for my credit not to be destroyed. I feel that I am being discriminated against by both American Express and XXXX XXXX XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11220",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11101"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25114,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, an order from XXXX was attempted to be delivered by XXXX. I never received the package. Despite this, the order was marked delivered and signed for by someone I do not know. \n\nDespite being marked delivered, XXXX tracking records show subsequent attempts on the XXXX, XXXX, and XXXX ( All of which were marked unsuccessful ). On XX/XX/XXXX, the status of the package was updated to \" Returning package to shipper '' with a valid tracking number, whose history shows a successful return to the merchant. \n\nThe status on the XXXX showing delivered and signed for by an UNRECOGNIZED party is likely an error ( or negligence ) on the courier 's ( XXXX ) part, which may explain the continued activity beyond the supposed delivery date. On XX/XX/XXXX, I placed a dispute with Citibank in hopes of getting my money back for this undelivered order. \n\nDespite this evidence, Citibank has determined that the package was delivered on XX/XX/XXXX based on the tracking alone. If this were the case ( And if they looked closer ), then how come there were multiple attempts after the XXXX? Why would XXXX mark a package as \" Out for Delivery '' multiple days in a row after its supposed successful delivery? And why would the tracking show it was returned to the sender? \n\nI am arguing that Citibank 's investigation was flawed and negligent of the fact that the package had continuous delivery attempts after the XXXX and was returned after those attempts failed. If the package has to be returned to the merchant, then I am to get a refund of the credit I used, but Citibank claims that the package was delivered and has ruled the dispute against my favor. \n\nMy purchase was never fraudulent ; I fully intended to buy the product, but since the order failed to be delivered and needed to be returned to the sender, I expect a refund."
+}

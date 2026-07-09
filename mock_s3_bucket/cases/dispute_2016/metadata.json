@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2016",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6082"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16335,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a dispute over 5 transactions from XXXX, XXXX. The five transactions were for {$91.00} each through XXXX. \n\nI tried making one, singular, purchase from a website that clearly is fraudulent as I never received the item. I authorized to make this one purchase through XXXX, but as I said I never received the item. \n\nThe website I purchased from ( XXXX ) used my information to charge my credit card four extra times, totaling 5x charges of {$91.00}. \n\nI called my Barclays Old Navy Credit card and reported the fraudulent activity as it was visible I was scammed. \n\nXXXX XXXX closed my investigation in XX/XX/XXXX and said that because I authorized one XXXX payment, this was not considered fraud and should have been entered as a dispute. \n\nI was never told or was assisted to have my issue be reported differently at the time I called in XXXX. The original assistant I spoke with took my complaint and entered it however she did, and then that investigation was denied. \n\n\nI then called back each week in XX/XX/XXXX and asked for them to properly dispute the charges the correct way and was denied the option to have my dispute opened up again because it was entered incorrectly. \n\nIt is not my fault the credit card company was unable to investigate the transactions properly. \n\nThe charges were not resolved after I have explained over and over what the situation is with the five charges. I did NOT provide and consent or authorize my card to be charged five times. I only attempted to make one purchase and I never received the item. The website used my information to obtain more money. \n\nI do not feel liable to pay all of these charges especially when not even a single item was received. I dont know how else to explain this for anyone to understand and I am out almost {$500.00}."
+}

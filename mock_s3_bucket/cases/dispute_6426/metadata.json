@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6426",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "462XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41796,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> Subject : Complaint Regarding Unresolved Credit Card Dispute with Best Buy Credit Services ( Citi ) Amount : {$1000.00} Account Ending : XXXX Dispute Case ID : XXXX To Whom It XXXX Concern, I am filing this complaint regarding an unresolved dispute with Best Buy Credit Services, operated by Citibank, for a charge of {$1000.00} made on XX/XX/year>, at the XXXX, IN Best Buy location. The transaction was for a XXXX XXXX XXXX ( XXXX + XXXX ) that I never received. \n\nSummary of Events : I placed an online order and picked it up in-store the same day. \n\nWhen I returned to the office, I immediately noticed the box was unusually light. Upon closer examination, I saw that the seal had been cleanly cut and the box showed signs of tampering. \n\nI did not open the box. I returned to the store within XXXX minutes and reported the issue directly to the store XXXX. \n\nThe XXXX reviewed the box and acknowledged the condition. I was instructed to file a dispute with the card issuer, and was assured Best Buy would not contest the claim. \n\nI also filed a police report with the XXXX XXXX Police Department to document the missing/stolen item. \n\nPolice Report # : XXXX I submitted a dispute to Citi ( Case ID : XXXX ), along with photo evidence and a detailed written statement. \n\nCiti denied the claim, citing that the receipt was signed and the card was present at the time of pickup, without addressing the evidence of tampering or the store 's acknowledgment of the issue. \n\n\nWhy XXXX XXXX This Complaint : I am seeking CFPBs assistance in reopening or escalating this claim. I acted in good faith, followed all recommended steps, reported the issue immediately, involved law enforcement, and was directly instructed by Best Buy staff to dispute the charge. \n\nXXXX response disregarded these critical facts and focused only on technicalities, failing to consider that the product was never actually in my possession. \n\nSupporting Evidence : Receipt from Best Buy Photos of the tampered box Police report Denial letter from Citi Timeline of communication I am requesting that Citi and Best Buy Credit Services be held accountable and that this dispute be resolved fairly and fully refunded. I am also willing to submit any additional documentation needed for review. \n\nThank you for your time and support. \n\nSincerely, XXXX XXXX"
+}

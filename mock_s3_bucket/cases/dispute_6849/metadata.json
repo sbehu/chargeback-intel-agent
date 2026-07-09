@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6849",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29707"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46802,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I ordered a product from XXXX XXXX using my Barclays American Airlines Card for XXXX. Several weeks in I didnt receive the product and inquired and was told they were having shipping issues. I disputed the charge with Barclays. After several weeks of not receiving the product, I emailed them to cancel the order since I had not received it. I received an email that stated they were going to mail it out again, and I reiterated I do not want the product, but they mailed it any. Two month after I ordered it the product arrived. Barclays closed my dispute siting the product arrived, even though I told them not to send it and it was two months late. However, Barclays told me to try and return it, and if they dont respond to reopen the dispute ( through fax ) and send supporting artifacts to highlight I requested the return, but I havent received a response. Once I didnt receive a response from Rare Supplements I sent the fax to reopen the case with the information requested. Now Barclays closed the dispute again stating I didnt provide the required information, even though I sent them exactly what their management team requested. Now they want me to provide them more information and I am just getting a run around. PLEASE HELP!"
+}

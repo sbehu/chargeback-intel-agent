@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9697",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24579,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a perfume in online order on XX/XX/XXXX from XXXX : XXXX and XXXX XXXX XXXX, XXXX XXXX XXXX XXXX from XXXX, I got the package delivered from XXXX on XXXX XXXX however, it was a diffferent perfume which was delivered from the seller. I contacted XXXX immediately, and they asked me to return the package in store post which they will refund the money, I went to the XXXX store next day to return the perfume I received and store agent refused to take the perfume as the perfume did not match the product I ordered. Which is exactly the reason I wanted to return the perfume in the first place. I contacted XXXX support on call again and they mentioned they have issued a refund and same will show up in 10 business day to my account and Ill receive an email too. I contacted American Express as well to make them aware about this transaction I had made and made them aware of the dispute. They also started an enquiry with XXXX. However, after 10 days I didnt receive anything from XXXX and American Express also reached out to me and mentioned they contacted XXXX but XXXX mentioned I never worked with them so American Express can not refund my disputed amount and they charged me.. I again provided all proofs of my conversation with chat support, emails with XXXX to American Express again. American Express told me that I need to return perfume to XXXX and theyll refund me the money. I went to XXXX store again and they refused to take the product again as it did not match the description! I contacted American Express and XXXX and mentioned same thing to them again. However, American Express mentioned they will not be able to help me and I should work directly with XXXX. While XXXX support keeps telling me to go to store and return the perfume I received and their store customer service keeps refusing to accept the perfume stating the description does not match with what was ordered. \n\n\nXXXX case number : XXXX Amex dispute : XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13622",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11768"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27238,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "From XX/XX/XXXX through XX/XX/XXXX, my Citibank XXXX XXXX XXXX credit card ( originally ending in XXXX, replacement ending in XXXX ) was systematically charged for unauthorized XXXX XXXX XXXX XXXX subscriptions, duplicate XXXX XXXX memberships, and XXXX XXXX purchases that have no matching legitimate orders in XXXXXXXX XXXX  official order history. The same fraud pattern appeared simultaneously on my XXXX XXXX XXXX XXXX debit card, indicating systematic account compromise rather than user error. The total fraud across both cards is approximately {$8500.00} gross / {$5500.00} net. \nDuring the entire fraud period, my husband XXXX was XXXX XXXX and I was his XXXX XXXX. He passed away on XX/XX/XXXX. I was unable to monitor my monthly statements during this extraordinarily difficult period. \nBeginning in XX/XX/XXXX, I began calling Citi 's Fraud Department to report this fraud. Over the past 5 months I have spoken to many Citi representatives across many calls without ever receiving a single returned call. At Citi 's request, I sent two years of purchase documentation showing every legitimate purchase made by my husband and myself. None of those photos correspond to the disputed XXXX XXXX XXXX charges. \nCiti has issued only approximately {$490.00} in conditional credits ( dated XX/XX/XXXX ), which represents only about 10 % of the documented fraud. Citi has not addressed the systemic XXXX XXXX XXXX and affiliate fraud. Citi has not provided me with a case number, an assigned investigator, or a timeline for full resolution. \nOn XX/XX/XXXX, I mailed a formal written dispute via certified mail with return receipt ( USPS Tracking # XXXX ) to Citi Cards Fraud Department. I subsequently emailed the same documentation along with my FTC Identity Theft Report ( Reference # XXXX, filed XX/XX/XXXX ). \nXXXX has effectively admitted this fraud : on XX/XX/XXXX, XXXX issued {$580.00} in credits for unauthorized Prime Video Channel charges, and between XXXX XXXX XXXX, XXXX silently auto-cancelled eleven separate XXXX XXXX XXXX subscriptions on my account ( XXXX, XXXX XXXX, XXXX XXXX XXXX XXXX, XXXX, XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX, XXXX XXXX, and XXXX XXXX XXXX ) . No legitimate customer cancels eleven streaming subscriptions at once.\n\nI am requesting full credit for all unauthorized XXXX charges from XX/XX/XXXX through XX/XX/XXXX, totaling approximately {$3900.00} net. I am requesting a formal XXXX chargeback against XXXX, a written explanation of which charges have been credited, and a direct contact for ongoing communication."
+}

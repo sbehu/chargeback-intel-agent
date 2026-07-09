@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5339",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "LA",
+    "complaint_zip": "70726"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9817,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I buy a phone on best buy store XXXX XXXX XXXX XXXX with case and screen protector and also an adapter i return the phone with all the items but the store only kept the phone and return back to me the other items I just mentioned but they sent it to the wrong address so the items got lost i submit a claim to XXXX about the situation and XXXX said it was delivered to XXXX XXXX XXXX and that not my address i explain all the situation to best buy customer service but they just closed the case I open saying that they sent the item back to me so I have to pay to XXXX bank i sent all the info to XXXX bank about everything the XXXX claim and also all the email the best buy sent me cause best buy lies to XXXX bank saying that I got the items but they answer me with different information I made 4 disputes with best buy and they never find a solution i told them is not my fault that you'll sent the items to the wrong address is can't pay for items I never receive."
+}

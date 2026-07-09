@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4607",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VT",
+    "complaint_zip": "056XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42477,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased goods from XXXX totaling {$520.00}, including a glass reptile tank and a ceramic heater. Initially, the items appeared functional, but upon use, they became damaged and unusable. The glass reptile tank cracked during normal use, and the ceramic heater developed damage, making both items unsafe along with the small accessories inside and of what was cheap quality which I made to XXXX clear I was uninterested in. \n\nAccording to XXXX return policy : Our return policy is simple if you are not 100 % satisfied with your purchase, you can return it to any of our XXXX or XXXX  XXXX  XXXX stores or to one of our XXXX warehouses within 60 days of purchase. \n\nHowever, due to the hazardous condition of these items, I was unable to return them in-store or by mail. I contacted XXXX for a refund, but they refused to issue one. \n\nI subsequently filed a dispute with Citibank, which was closed on XX/XX/XXXX after I missed an email requesting additional documentation due to a notification failure in their app. Despite providing the necessary details later, Citibank declined to reopen the case. \n\nXXXX ( Case # XXXX ) acknowledged my concerns but only offered replacements or store credit, which I declined as I no longer trust the quality of their products. Given the unusable condition of the items and the circumstances, I believe I am entitled to a full refund. \n\nI have made every effort to resolve this issue with both XXXX and Citibank and request further assistance to obtain the refund I am owed."
+}

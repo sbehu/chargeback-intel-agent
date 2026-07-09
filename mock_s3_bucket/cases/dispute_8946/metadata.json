@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8946",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NC",
+    "complaint_zip": "28209"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13270,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays claims that on XX/XX/year>, I made a transfer from my account into a XXXX account in the amount of {$2700.00}. I have made numerous calls to Barclays to resolve this and to get them to investigate this fraudulent charge. They have continued to send me statements for this charge adding late payment dues every time. After making numerous phone calls to Barclays, I hired an attorney to write Barclays a letter stating that it was a fraudulent charge and they needed to drop the case. Since then, I have gotten numerous phone calls from Barclays and at some point I asked them to stop calling me because it was getting to the point of being harrassnent. \nAfter my attorney wrote the letter to Barclays, they acknowledged that he was now representing me. They then started sending my bill to his law firm, and not to him specifically, and my bill and personal information was passed all around the law firm trying to figure out who it belonged to. He then sent a letter to them stating that they had broken the law by sending my personal information to the law firm and not specifically to him. \nOf XX/XX/year>, they sent another letter to me stating they had completed their investigation ( second time they opened an claim adn investigated it ) and had determined the activity was valid, because I had benefited from the purchase. Like I said before, I have never had a XXXX account. \nOn that same day, they sent me a letter with a list of consumer reporting agencies for me to contact. Not only has my credit report been compromised, I am now getting numerous phone calls from consumer reporting agencies that were AI calls I consider to be harassment. \nAs well, they have twice sent my bill to my attorneys office and again, it was circulated around the whole office. I have not tried calling Barclays in the last few months and refused to pay something that was fraudulent."
+}

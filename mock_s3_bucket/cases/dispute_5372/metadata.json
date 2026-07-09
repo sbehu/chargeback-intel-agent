@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5372",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "RI",
+    "complaint_zip": "2919"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10415,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/XXXX I contacted Home Depot after receiving my statement. Telling that there were charges on my card that I did not make the charges happened from XXXX. there were 12 purchases between this time that I did not purchase or give anyone permission to purchase. I contacted the company for a dispute and received a letter back saying that they denied my dispute no information why. So I asked them to provide the back up of the merchandise that was purchased so that I can see who purchased the merchandise. I am still waiting for that information and Ive called them several times at this point Ive been charged back with interest and all of the sales. Which I do not plan to pay for in the end I called Home Depot back and told them that I was XXXX XXXX XXXX and that I didnt care about my credit and I wasnt going to pay them. So they reopen the case but here we are in the end of XXXX and I still havent not heard anything."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8236",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7047"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37170,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called Citi on XX/XX/XXXX to open a dispute for a bus ticket that I purchased. \nUnfortunately I got someone from Citi 's overseas customer service in XXXX who had no clue what they were doing. I clearly told them that there was only one seat available on the bus and it was wet and soaked in XXXX. I highlighted this to the driver but he reused to do anything about it and I did not ride that bus. I dont know what Citi 's agents did with this information but seems like they opened a dispute under \" Service not provided '' and after a while they closed this dispute was closed stating that \" service was provided ''. When I called Citi again on XXXX, I got another useless agent in XXXX who said she will reopen the dispute and seems like this time they opened it under \" Service not described ''. Then these XXXX at Citi send me an email saying that a letter is available under the letters sections of the website. To this date, no letter is or was ever available under that section and this whole thing is broken. Finally I got this physical letter in the mail which states that this dispute was closed because the statement in this dispute is not consistent with the statement in the first dispute and mind you all these statements are from Citi 's own agents. What I told them in all my calls was very consistent. Whatever inconsistencies are there are because of unprofessionalism and incompetency of Citi 's own agents. Moreover the letter threatened that they will report me to all the consumer reporting agencies if I dont pay that amount. I called Citi again on XX/XX/XXXX this time I got same agents in US. First XXXX tells me that the dispute was closed in my favor which she later admitted was not true. Then I spoke to XXXX and XXXX who apologized and admitted that the dispute was handled correctly to begin with and that they will reopen it. I never heard back from Citi again. Today on XX/XX/XXXX I called Citi again and it was again the same XXXX XXXX XXXX The first agent XXXX in XXXX kept saying he is checking the status of the dispute and after wasting half an hour with various questions transfers me to the general number again. Second call I got hold of some supervisor XXXX in XXXX who instead of telling me the status of a dispute transfers me to technical support in XXXX. Finally on my 3rd call, I got hold of a supervisor XXXX in US who tells me this dispute was closed as well with a non sensical reason stating that I need to provide some proof that the merchant agreed to give me a credit. She couldnt explain what that means. If the merchant agreed to a credit, why would I file a dispute to begin with. She then proceeded to ask them to open the dispute again. \nMoreover, the Citi 's telephone system is, nicely put, just garbage, it makes it very difficult to get hold of an agent, it asks for lots of verification information and then the agents insist on getting all that information again. \nAs you can clearly see, Citi outsourced the customer service to the bottom of the barrel lowest bidders in XXXX and XXXX and I am sure they saved a bunch of money by doing that and padded their bonuses but is it customers like us who end up paying the real cost of this. I have been keeping track of all the calls and to this date, I have spent XXXX hours on this thing which should have been a simple open and shut dispute."
+}

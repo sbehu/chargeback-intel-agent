@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7026",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97756"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17422,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I placed Wayfair Order # XXXX with a Wayfair credit card, which included XXXX sets of barstools and rugs totaling {$1100.00}. XXXX rug ( {$310.00} ) was unavailable, bringing the charged amount to {$860.00}. XXXX set of barstools ( {$230.00} ) was never receivedinstead, I was sent a random set of dining chairs. \n\nI contacted Wayfair, submitted photo evidence, and was told the incorrect item could not be exchanged. I was instructed to dispose of the dining chairs and was informed on XX/XX/XXXX that a refund of {$230.00} would be issued. \n\nI never received this refundno mailed check, no credit, no gift card. On XX/XX/XXXX, I spent time on the phone with both Wayfair and Citi to resolve it, and was told it would be escalated. I received a letter from Citi dated XX/XX/XXXX stating a refund had been sent, but no proof was provided and no refund was ever received. \n\nI repurchased the correct barstools separately and am still being charged for the original incorrect item. I submitted a dispute and a follow-up, but have received no resolution or response since XXXX. I am now being held financially responsible for a product I did not receive and was explicitly told to discard. \n\nI am requesting that the {$230.00} charge be removed from my account and that proof of refund issuance ( date, method, transaction ID ) be provided if Citi/Wayfair still claim it was sent."
+}

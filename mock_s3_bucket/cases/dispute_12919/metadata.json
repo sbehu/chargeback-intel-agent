@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12919",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91350"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46447,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I paid {$740.00} to a jewelry merchant in XXXX XXXX, CA for a ring cleaning. The charge was made to my Citibank XXXX XXXX credit card via XXXX XXXX and posted the same day. \n\nWhen the ring was returned, the setting was completely broken and the center diamond was loose. The ring was undamaged when I dropped it off. The damage occurred while the ring was in the merchant 's possession. \n\nI documented the damage with photographs and am obtaining an independent assessment from a second jeweler. \n\nI filed a dispute with Citibank for the full {$740.00} on the grounds that the services were not rendered as agreed and that the merchant caused damage to my property while it was in their care. Citibank issued a conditional credit pending investigation. \n\nCitibank then notified me that it had completed its investigation and was unable to identify a billing error, and that the conditional credit would be reversed. At no point during the investigation did Citibank request supporting documentation from me, ask for the photographs I had, or contact me to hear my account of what happened. The investigation was closed without consideration of the evidence available. \n\nI am filing this complaint because Citibank reached a decision without reviewing the available evidence or giving me a meaningful opportunity to provide it. I am requesting that Citibank reopen the dispute, accept and review the photographic evidence and second jeweler 's assessment, and issue a full chargeback of the {$740.00} charge, along with a written explanation of the basis for any decision reached."
+}

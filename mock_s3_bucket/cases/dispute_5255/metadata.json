@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5255",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33137"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1942,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX I began to occur suspicious charges that were not authorized by a merchant who skimmed my card and began to utilize card informs on an unknown device. I have responded immediately after notifications from Barclays of unusual activity from multiple attempts to the card and they advised they were not able to block the card or put a stop payment to further transactions even though when the text message advised to respond 2 is this was not authorized. I called to confirm and their team did not follow protocols. Leading to the theft of purchases that continued and could have been stopped. They are holding me responsible for their actions they failed to protect me as a customer."
+}

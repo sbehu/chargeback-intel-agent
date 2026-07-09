@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_612",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "272XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32249,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute with Barclays Bank on XX/XX/23 for over {$10000.00} for a vacation rental issue. At the time I had spoken with the merchant, who agreed with my complaint and said they would not contest the dispute. After a month, I received letters from Barclays saying they would not send the dispute to the merchant, first because I needed to try and return the \" merchandise '' and second because services were provided. I requested multiple times to speak with a supervisor, and was told none were available. I finally filed a complaint with the XXXX XXXX XXXX which got a response from the \" Office of the President ''. After speaking with this person, Barclays finally sent the dispute to the merchant on XX/XX/23. \n\nI am in possession of the response from the merchant, dated XX/XX/23, where they asserted that they accepted the dispute and would not contest it. I have called Barclays multiple times inquiring as to why the dispute has not been finalized in my favor, given the merchant 's response. Each time, Barclays says they are still investigating, and can not give me a timeframe as to when my dispute will be finished. Multiple times, I have requested to speak with a supervisor in the dispute department, to be told there are none available and that they will call me back within XXXX hours. I have received no callbacks at all. \n\nIt is now almost 3 months since I filed the initial dispute, and 45 days since the merchant responded to Barclays accepting the dispute, and yet I still have no resolution. I have emailed and called the Office of the President, and have received no response. I have now filed a second XXXX complaint, since this seems to be the only way to get Barclays to do what they are supposed to do under the terms of the credit card agreement. They are essentially refusing to refund money that the merchant has agreed I am due. \n\nThis is absolutely awful customer service, and really has me wondering what Barclays would do if I actually needed them to advocate on my behalf, as opposed to the open and shut case that I just need them to process correctly."
+}

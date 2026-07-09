@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6236",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24971,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding American Express dispute XXXX. I ordered an item and when the box arrived only the charging cable and some stand were in the box but the XXXX XXXX  item was not. XXXX  sent photo proof to the merchant and they denied my refund. American Express reopened the chargeback and removed the expected resolution date because they dont believe me due to my race ( XXXX ) even though I sent them photo proof of the box I received did not have the item I ordered in it."
+}

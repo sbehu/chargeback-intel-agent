@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_593",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91324"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42332,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX a fraudulent charge was made on my Citibank credit card account by XXXXXXXX XXXX XXXX in the amount of {$4700.00}. \n\nPrior to the charge, I had never heard of XXXXXXXX XXXX XXXX and have not received any services made by them or had any communication with them at any time. I certainly did not make the purchase or authorize it. \n\nI reported the incident to Citibank in early XX/XX/XXXX ( they responded to me on XX/XX/XXXX. ) The money was refunded to my account. \n\nAccording to Citibank, the vendor told Citibank the charge was valid, using only an email address ( not mine ) as evidence that the charge was valid. Citibank did attempt to phone me in XXXX and I missed their phone call. They did not use any other means to contact me ( email, post, etc. ) The {$4700.00} was again charged to my Citibank credit card account, and automatically deducted from my non-Citibank debit account. \n\nI phoned in XXXX and XXXX in an attempt to recover the money. On both occasions, I was told that the vendor ( XXXXXXXX XXXX XXXX  ) had provided insufficient evidence and the claim would be reopened. On XX/XX/XXXX, a representative advised that the claim should not take more than 90 days to resolve. \n\nI phoned again on XX/XX/XXXX. I was advised that the claim was so old that the computer needed to reload the information and to phone again in at least three business days. \n\nI phoned on XX/XX/XXXX. The representative was apologetic and stated they would expedite this, but could not tell me how long it might take or when I should follow up. Citibank has not provided me with any written communication since XX/XX/XXXX, despite these numerous follow-up phone calls, all unresolved. \n\nIt has now been nearly one year since the initial charge. The amount is quite a lot of money to me, since I am a teacher, and a new parent. I would appreciate any assistance with the matter. \n\nSincerely, XXXX XXXX"
+}

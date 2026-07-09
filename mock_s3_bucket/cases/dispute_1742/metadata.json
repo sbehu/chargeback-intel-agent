@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1742",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34786"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29087,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received my billing statement in XX/XX/XXXX from Luxury Card MasterCard, issued by Barclays, that contained 4 charges that I didn't recognize. I called Barclays ' dispute department and they readily reversed the charges whilst they were investigating the fraudulent charges. Now, yesterday, I received a letter from Barclays ( attached ) that claims that they have determined that the activity was valid because the card was \" in my possession and chip card technology was used, which can not be counterfeited ''. As such, they state that they are reversing the provisional credit, which I will be required to pay. I called the Barclays dispute department again this morning and reminded them that the four ( 4 ) charges in question were made on XX/XX/XXXX in XXXX XXXX, New Jersey. Neither my wife or I have EVER been to XXXX XXXX. Also, my wife and I have not traveled to New Jersey in over 30 years. How could I have possibly made these charges? Furthermore, I told the lady at the dispute department that my wife and I were celebrating XXXX XXXX XXXX XXXX  ( XX/XX/XXXX ) at XXXX XXXX XXXX restaurant ( owned by XXXX XXXX ) in XXXX, FL. This can be confirmed and verified by the XXXX XXXX of the restaurant along with at least XXXX other couples that were present. The dispute department issued me a case number XXXX."
+}

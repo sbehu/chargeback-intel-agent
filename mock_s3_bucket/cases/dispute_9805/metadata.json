@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9805",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11355"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-30T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49885,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Credit Card ending with # XXXX XXXX XX/XX/XXXX I received a Text message to confirm charges on my citicard. The transaction was for {$1200.00} at XXXX. I responded to Citi Bank that I do not approve of the charges. Citicard declined the charges. \n\nAfter the above incident, I reviewed other charges which were posted on credit card and reported them as disputed as I didnot recognize any of those charges. \nXX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX$5.00} I also requested to stop the credit card and issue new card. \nI was hoping that Citibank will reverse the charges. Also since my credit card was not stolen, I didnot file any police complain. \nCitibank investigation team reached out to me and asked a few questions. \nAfter which I received a letter from Citibank stating they had concluded the investigation and determined there was no fraud involved. Citibank stated that the credit card chip was used for the transaction and since my card was not lost at anytime, they concluded that the charges were valid. \nI again called Citibank to express my disagreement with their conclusion and I was promized that I will not have to make payment for any charges which I have not incurred. Unfortunately, Citibank adopted same approach as XXXX time, they called me again asked a few questions and arrived at same conclusion for XXXX time. \n\nContext : This XXXX XXXX XXXX  card is generally used by me only for making travel reservations with XXXX XXXX and it helps in saving bag fees. \nThe card in question was requested by me for my daughter as I had booked air travel oXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX which I was not accompanying with her. We cancelled the ticket with XXXX XXXX as the flight to XXXX did not have enough time for connecting flight. My daughter XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX and she didnot have physical possession of the any of the cards ordered. The Card/s were delivered to my home address in XXXX NY XXXX \nWhen I had ordered credit card there was some delay in receipt of the card, I don't have exact information on dates when I ordered card etc. \nI now recollect the following : I had a credit card ending with # XXXX. I ordered a card for my daughter XXXX, there was some delay in reciving the card and / or activiating the card. Citibank did issue a card for XXXX with same credit card # as mine. Since I had not receive this card for XXXX XXXX, I XXXX have ordered another card for XXXX based on the instructions I followed on Citibank app. \nCitibank processed another card XXXX XXXX XXXXnding with XXXX ) [ Not sure about the dates ]. After ordering new card, I XXXX have received the XXXX ordered card. I was a little confused but thought Citi bank would ensure controls and I had physical possesion of card. \n\nAfter receiving XXXX conclusion, I am now reaching out to CFPB to report the matter. This is a very serious issue and CFPB needs to urgently ensure that consumers are not defrauded just because fraudsters have adopted unique methods to mis-use the cards. \n\nThe fact that there was a fraudulent transaction of {$1200.00} at XXXX XXXX was attempted and declained is proof that the subject credit card security was compromised. The burden of proof should not be on consumer but rather on credit card company. \nI have been a user of credit card for XXXX XXXX XXXXars and had never had such issues in my entire life."
+}

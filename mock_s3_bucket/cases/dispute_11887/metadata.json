@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11887",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33919"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39340,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting unauthorized fraudulent charges on my credit card accounts, specifically the account ending in XXXX, which remains unresolved. \n\nI had not used either of these credit cards for over two years. I did not perform or authorize a single transaction on either card.\n\nI received a fraud alert and immediately contacted Barclays to report that my cards were stolen and that I did not authorize any transactions. During that call, I explicitly requested the immediate closure of both credit cards.\n\nDespite my report and request, Barclays failed to close the accounts, and unauthorized transactions continued to be processed. As a result, the account ending in XXXX was used fraudulently and ultimately maxed out. \n\nI was also informed by a Barclays representative that at least one of the fraudulent transactions was conducted in person at a XXXX location in XXXX, confirming criminal use of my card. \n\nBarclays has records of my calls and should be able to verify that I reported the fraud immediately and requested account closure. However, they failed to act appropriately and allowed continued unauthorized activity. \n\nBoth credit cards were affected by fraudulent transactions. Barclays resolved the charges on one of the cards, but failed to resolve the charges on the account ending in XXXX, even after I submitted a prior dispute and complaint. \n\nBarclays is now reporting these fraudulent charges to the credit bureaus and I am receiving payment or collection-related communications for transactions that I did not make or authorize. This is negatively impacting my credit. \n\nI have an excellent credit history and have never missed a payment. It is unacceptable that I am being held responsible for fraudulent charges due to the banks failure to act after I reported the fraud. \n\nI am requesting a full investigation, immediate removal of all unauthorized charges on the account ending in XXXX, correction of any negative credit reporting, and written confirmation that I am not responsible for these fraudulent transactions."
+}

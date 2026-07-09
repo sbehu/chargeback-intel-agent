@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6676",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97478"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44031,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The issue is not with a company except the XXXX XXXX company itself -- Citi Mastercard. The problem is a fraudster calling itself XXXX which is not an actual company somehow obtained my XXXX XXXX number and has been able to put through a charge of {$19.00} every month now for close to XXXX months. Each time this charge has posted, we have disputed it, and the charge has been refunded. We have asked Citi to block this XXXX XXXX XXXX from posting charges to our account but they say the only thing that can be done is to cancel the card. We do not want to do this as we have multiple legitimate XXXX which we pay with this card, and canceling this card for a new card would not solve the general problem of phony \" XXXX  '' posting invalid charges over and over to our credit card ( XXXX ). We are asking CFPB to intervene to widen the policy and response of XXXX XXXX companies like Citi so they can block fraudsters while still allowing the consumer to maintain a valid XXXX XXXX XXXXn service."
+}

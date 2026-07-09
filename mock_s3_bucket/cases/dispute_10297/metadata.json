@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10297",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84121"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41328,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX being abused by fraudulent charges called for over a year and documented all calls. told they are investigating will be 90 days. and things are always up in the air. I gave them all the information to make this right, but they did not do their jobs instead i falls through the cracks and they find it easier to just charge an XXXX for items I obviously did not buy fraud items gift cards cosmetics and nonsense. \nThis is causing XXXX  and XXXX  and financial XXXX to me for items I have not purchased or received. I had similar problem with other creditors, and we resolved the problem quickly. This nightmare has gone on since XX/XX/year>."
+}

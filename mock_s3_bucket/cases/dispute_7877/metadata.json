@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7877",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94530"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30228,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dispute Regarding XXXX XXXX XXXX XXXX and Citi Credit Card Charge Dear Consumer Financial Protection Bureau, On XX/XX/year>, I booked a 5-night stay with XXXX XXXX XXXX XXXX for a total of {$3200.00}. After the first night, I was forced to check out due to unsanitary conditions at the property and food poisoning. \n\nI immediately contacted both XXXX XXXX XXXX XXXX and my credit card company, Citi, to notify them of the issue and to request a partial refund for the unused portion of the reservation. \n\nXXXX XXXX XXXX XXXX did not respond to my direct communication. However, in response to my formal dispute through Citi, they claimed that I had never reached out to them. This statement is false. I submitted evidence to Citi showing that I had in fact contacted XXXX XXXX through their website. Despite this, Citi closed my dispute without issuing a refund. \n\nI reached out to XXXX XXXX XXXX a second time after my dispute was closed, and enclosed the letter I had orginally emailed them, but again received no communication back. \nI then requested Citi to reopen the case and provided additional documentation, but they closed it again, citing the same reasoning. At this point, both XXXX XXXX XXXX XXXX and Citi have refused to refund the unused portion of my reservation. \n\nI am seeking assistance from the CFPB to ensure that I receive a fair resolution and refund for the services I did not receive. \n\nAttached for your review : XXXX XXXX XXXX XXXXCommunication with Citi Visa card. \n\nDocumentation of my dispute with Citi and their responses. \n\nThank you for your assistance in this matter. \n\nSincerely, XXXX XXXX ( XXXX ) XXXX XXXX XXXX"
+}

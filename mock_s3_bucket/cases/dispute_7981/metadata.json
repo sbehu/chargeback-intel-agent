@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7981",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7018"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9145,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays closed my stolen package dispute even though I provided all required information. Now theyre requiring me to send a physical mail to reopen the case, which is an unfair burden. I never received the goods and should not be held liable under the Fair Credit Billing Act and Barclays Zero Liability Policy.\n\nI purchased goods from XXXX  XXXX which was delivered by a transportation company whos known to have bad customer service and delivery service. The package was not left in a safe location or place to the side, it was just thrown on the step. A total of XXXX items were stolen amounting {$150.00}. The merchant did not help, didnt offer to investigate or even replace my items. I reached out to the delivery company XXXX and they did nothing but said the photo showed delivered. Nothing whatsoever to help. Now Barclays telling me to pay for something I didnt receive. Apparently they closed the case because I didnt respond. Why would you need to call to ask if I got the package, why would I get it and not say anything or waste my precious time. I had all the stuff for my XXXX XXXX and this process has been so inconvenient and frustrating. I didnt mail when I opened the claim so why am I being asked to go out of my way to mail something when Im already frustrated."
+}

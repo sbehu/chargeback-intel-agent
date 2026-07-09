@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4015",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "070XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32665,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX XXXX XXXX XXXXXXXX XXXX  {$610.00} XX/XX/XXXX XXXX XXXX XXXX XXXX ES - {$510.00} XX/XX/XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX - {$350.00} XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX {$350.00} I booked tkt using american express card through XXXX XXXX XXXX XXXX. I cancle the tkt within XXXX hour of booking and spoke to XXXX customer service while canceling it and they asure me that I will get 100 % back becuse I am doing within 24 hour.\n\nFor one sector I got less refund {$610.00} - {$510.00} I opend the tkt and American Express close the tkt witthout reaching out to me. \nI also comlained about that to American express and still nothing happend, Every time I open the dispute and it get close automatically."
+}

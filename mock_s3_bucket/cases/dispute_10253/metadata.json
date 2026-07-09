@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10253",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "791XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48727,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding American Expresss handling of a billing dispute in which a merchant provided written confirmation that a refund was approved, then later reversed that approval. \n\nI relied on written communications from XXXX XXXX stating that a one-time courtesy refund for a specific shipment had been approved and would be processed within a stated timeframe. After only one of two refunds posted, I contacted the merchant multiple times and was later told that management had declined the previously approved refund. \n\nI submitted all written documentation to American Express showing the refund approval and subsequent reversal. Despite this, American Express ruled in favor of the merchant. My concern is not a disagreement with merchant policy, but the reversal of a refund that was explicitly approved in writing and relied upon. \n\nI am requesting that American Express reconsider this dispute under the basis of reliance on written merchant approval, inconsistent merchant communication, and misrepresentation. I am seeking resolution consistent with the documented approval provided to me."
+}

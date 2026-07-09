@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11586",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33460"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34632,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, XX/XX/XXXX, I had an appointment with a XXXX I paid a {$30.00} deposit when I booked the appointment initially on the day of the appointment after service was provided I paid {$140.00} which was the balance of {$170.00} for the total Amount for the visit upon looking at my hair the inspiration photo that was agreed upon XXXX  discussed prior XXXX  my appointment was not provided. I reached out XXXX  the hairstylist or service provider XXXX  let them know that that is not the service that I requested XXXX  I would like a refund. They declined the refund XXXX  I reached out XXXX  the bank XXXX  made a dispute for a total of {$140.00} with reasons being I was not provided services that was agreed upon the bank declined my dispute after about XXXX days stating that the service was done face-to-face so I had opportunity XXXX  not pay without questioning my safety or what XXXX transpired. I was not asked XXXX  provide any proof. I was not giving the option XXXX  provide any proof. No XXXX  reached out XXXX  me XXXX  look on the service that I receive versus what I asked for XXXX not only was the style very inconsistent poorly done. Sizes are different but my appointment time started an hour and XXXX minutes after it was supposed XXXX  XXXX  I will attach proof. XXXX they basically told me when I called them the bank that my claim was denied because I couldve discussed with the stylist face-to-face, XXXX  I have no option XXXX  appeal that decision."
+}

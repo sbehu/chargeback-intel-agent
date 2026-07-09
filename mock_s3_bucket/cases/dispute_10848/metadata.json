@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10848",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77479"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22818,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Citibanks handling of my credit card billing dispute Transaction Information : Transaction Date : XX/XX/XXXX Amount : {$8500.00} Merchant : XXXX XXXX ( XXXX, XXXX ) What Happened : In XX/XX/XXXX, I filed a billing dispute with Citibank after discovering issues related to services received in this transaction. The nature of the services required follow-up evaluation, which resulted in delayed discovery of the issue. \n\nIn XX/XX/XXXX, Citibank requested additional documentation based on merchant 's response. I promptly provided detailed written evidence, including doctor 's notes. \n\nIn XX/XX/XXXX, Citibank closed the case stating that the merchant was not contacted in a timely manner. Citi recharged me the totoal amount of {$8500.00} XXXX submitted additional documentation explaining the delayed discovery under XXXX XXXX XXXX In XX/XX/XXXX, citibank responded that they tried to get the credit from the merchant, but the merchant would not issue the credit and they can not help Then I formally requested that Citibank escalate the dispute to XXXX network pre-arbitration review. From XX/XX/XXXX through XX/XX/XXXX, I received no update regarding my pre-arbitration request. \n\nIn XX/XX/XXXX, Citibank issued a final letter stating that the merchant refused to issue a credit and that the charge was considered valid. The letter did not address my request for XXXX pre-arbitration, did not confirm whether the case was submitted to XXXX, and did not provide an explanation for denying escalation. \n\nMy Concern : Citibank did not clearly explain : Whether my pre-arbitration request was submitted to XXXX. \nIf not submitted, the specific XXXX rule or regulatory basis for denial. \n\nThe final response appears to rely solely on the merchants refusal to issue a credit rather than demonstrating that a reasonable investigation was conducted as required under Regulation Z."
+}

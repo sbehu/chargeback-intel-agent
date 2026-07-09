@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-999568",
+  "invoice_date": "2026-02-28T00:00:00Z",
+  "amount_cents": 1299,
+  "currency": "USD",
+  "billing_address": "312 Summit Way, MD, 20601"
+}

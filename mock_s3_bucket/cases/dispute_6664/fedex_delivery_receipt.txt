@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-49122673-US
+Shipment Date:   2026-03-19T00:00:00Z
+Delivery Date:   2026-03-26T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     1914 OAK LN, GA, 30083
+============================================================

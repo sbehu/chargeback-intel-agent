@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2699",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11561"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47122,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX a fraudulent charge for {$120.00} appeared on my statement from Barclays. They were notified of this charge and said they would investigate which led to them to a false conclusion in a XX/XX/year> letter I received which stated based on information available have concluded that the transaction is not fraudulent. \n\nNot only is this wrong but Barclays let a card that was stopped early XXXX by the bank to process this transaction when it should have been denied"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10141",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "152XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14684,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "REBUTTAL TO CITI RESPONSE : FORMAL ASSERTION OF CLAIMS AND DEFENSES Case # XXXX I am formally rebutting Citis denial dated XX/XX/year>. Citibank is incorrectly attempting to adjudicate this matter under 12 CFR 1026.13 ( Billing Errors ) and internal XXXX timeframes. I am not reporting a billing error ; I am formally asserting my rights under 12 CFR 1026.12 ( c ) ( Claims and Defenses ). Under federal law, a consumers right to assert claims and defenses against a card issuer for defective or misrepresented goods is not subject to the XXXX billing error window or Mastercards XXXX rule. This right exists for up to XXXX year from the date of the first statement, provided the purchase exceeds {$50.00} and occurred in the consumer 's home state. XXXX. Fact : Material Misrepresentation & Breach of Warranty XXXX marketing ( Exhibit B ) and technical manuals ( Exhibit C ) explicitly promise \" XXXX XXXX '' ( retention of 95 % charge for XXXX  year ) and a \" XXXX backup '' capability. However, in the attached correspondence ( Exhibit A ), XXXX XXXX XXXX admits the unit has a \" normal '' idle drain of XXXX per hour. The Mathematical Proof of Fraud : A XXXX hourly drain equals XXXX per day. On a XXXX unit, the battery is depleted in XXXX days while doing nothing. The Violation : This represents a 9,000 % deviation from the XXXX standby capability advertised. This XXXX \" normal '' drain is documented in writing by the merchant but is undisclosed on their website and in their manual. XXXX. Justification for Total Recovery of {$12000.00} Citi is legally obligated to make the consumer whole. This total includes the {$2000.00} installation fee. Because the hardware is fundamentally defective and incapable of performing the \" whole-home backup '' function as marketed, the professional installation is valueless. I have relied on the merchants marketing and their recommended installers to my financial detriment. XXXX. Final Assertion I made a good-faith effort to resolve this with XXXX on XX/XX/XXXX, XXXXimmediately following the XX/XX/XXXX professional installation. The merchants refusal to honor a refund for a product that fails to meet its own basic technical specifications is the exact scenario 12 CFR 1026.12 ( c ) was enacted to prevent. I expect Citibank to comply with federal regulations and immediately reverse the charges for this defective equipment and the associated installation costs."
+}

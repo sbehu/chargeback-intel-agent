@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1689",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "121XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2768,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I had car repairs done totaling {$1000.00}. I put these charges on my Master Card credit card issued by Citi Bank. The charge posted and I paid it off that very billing cycle. I then had a duplicate pending charge of the same amount from the same vendor with the same date. I called the vendor ( a reputable, large car dealership ) and they first assured me there was no duplicate charge sent from their end, and they went as far as to contact their credit card merchant who assured them there was no duplicate charge showing in their system. I then contacted Citi Bank for the first time on XX/XX/XXXXAs a frugal consumer I keep a low credit limit ( {$1400.00} at the time. ) Citi told me to wait 20-30 days for the pending charge to disappear, and in that mean time the duplicate charge would chew up roughly 70 % of my available credit. I called back the following day as that was unacceptable. They told me to contact the vendor, which I already did, and then said it was likely MasterCard 's fault. I went to MasterCard 's website and it said something along the lines of they are not responsible for cards once issued and to contact the issuing entity. I called Citi Bank back and demanded speak to a human and then to the human 's supervisor. The supervisor said there was nothing they could do to get rid of a duplicate pending charge before it posted. I explained that it wasn't actually charged twice by the vendor and seemed to be an IT error on their end. Needing to buy groceries and knowing they constantly suggest I raise my credit ( I decline each time ) I eventually asked if they could just raise my credit temporarily by the amount they chewed up with this duplicate charge and then lower it back afterwards. The supervisor said they were \" just about to suggest I request a credit limit increase '' but if I request it go back down afterwards it would be a permanent decision. I relented, having had my card declined at the grocery store, and let them raise my credit. The charge dissappeared about 2 weeks later on or around XXXX XXXX, before the end of the billing cycle. \nI find it very strange that when my average credit card transaction is around {$20.00} that the one time I would experience this issue with was over two-thirds of my entire credit amount. Citi has been pestering me for years to raise my credit limit and I have concerns they used this \" unexplainable issue that they have no power to resolve '' to gas me into raising my credit limit. I want to file this complaint to see if in aggregate Citi is duplicating large charges to frustrate consumers into raising their credit limits."
+}

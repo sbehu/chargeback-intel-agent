@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11286",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63130"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33535,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought a lamp from XXXX XXXX XXXX on XX/XX/year>. The business closed and never provided the purchased item, but kept my money. \n\nCiti has forced me to file six disputes ( currently filing my seventh dispute today ). They always say the reason is they \" never received '' the documention. When I display I have proof ( emails and certified letters ) they suddenly DO have the documentation. Then they reopen the dispute..... Then they close the case and we resort to square one. Oftentimes the day my certified letter arrives is the same day they close my case again : reason cited \" not received ''.\n\nPlease do not trust Citi with your money, unless you intend to forfeit all protections and never perform a Chargeback. Citi does not value you or your time, only your money."
+}

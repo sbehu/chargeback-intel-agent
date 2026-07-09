@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1801",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "GA",
+    "complaint_zip": "30161"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1090,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A fraudulent charge was made on various credit cards XX/XX/22 after my wallet was stolen. A masked man was seen in video surveillance at XXXX XXXX buying around XXXX dollars of gift cards. A police report was filed and video surveillance showed this within one hour of the incident. All credit card companies were called, refunds were made by all credit card companies but Citibank for {$4100.00}. There is a police report. Citibank still will not refund my money"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6923",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55419"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26057,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I agreed to purchase a service from a company called XXXX XXXX. They charged my card for {$14000.00} on that date. \n\nIn the months after, I realized that XXXX did not provide the services that were promised, in writing, that I paid for. I have extensive documentation illustrating this and my attempts to raise these concerns to XXXX. Our contract allowed for a 6 month evaluation period, so I agreed to wait to see if XXXX could find a way to deliver what was promised, but ultimately, they did not. After 6 months, I requested a refund from XXXX and they refused. \n\nI attempted to dispute the charge with American Express, but was told I could not do so since it was over 60 days since the charge was made. I was advised to instead take legal action, which I did. Unfortunately, the business address provided on my American Express statement ( XXXX XXXX XXXX XXXX XXXX XXXX  XXXX, XXXX, XXXX  XXXX ) is not a legitimate business address capable of receiving legal service. In fact, XXXX is not even registered as a business in XXXX. As a result, the judge in my legal case ruled that I can not pursue a case against XXXX since they don't actually exist. \n\nI explained to American Express that XXXX misrepresented themselves, intentionally I believe, on my billing statement, in our contract, and in their email signatures, as a XXXX  business that doesn't actually exist. I asked American Express to address my case as a matter of misrepresentation and / or fraud, but they refused to do so, saying that since I agreed to the charge, it is not fraud. \n\nMy position is that American Express is facilitating fraudulent billing by allowing a non-existent company to process charges on their system. As a result of this misrepresentation, I have no legal recourse since the company that billed my American Express does not actually exist. \n\nAdditionally, since the judge informed me I could not proceed with my case as a result of the misrepresentation on my American Express statement, I asked American Express to tell me where they sent my {$14000.00} payment, since XXXX  must have a real bank account somewhere and that is where I could potentially take legal action. American Express refused to provide any information. \n\nGiven all of the above, I am requesting a refund from American Express and I am hoping that you can stop XXXX from continuing to misrepresent themselves on transactions."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_933",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95823"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26894,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX someone went to Home Depot and made a purchase under my name of an amount of XXXX XXXX dont know how they did this because I had my credit card on me on this day and was out of the country. I called in may to discuss this matter in attempts to open up an investigation but they really didnt listen to what I had to say. After calling within XXXX weeks they sent me a letter saying their investigation was done and that I was responsible for paying that amount to them. So I went ahead and called again and told them it was not fair for me to get charged such a large amount for something that I didnt purchase. Therefore, I asked them to please open up again the investigation, in which they then told me they did open it up. However, I continued getting calls from Home Depot and text messages saying I had a missed payment. So I called again and I even told them I had proof I was not in the country when that purchase was made under my name so they gave me a fax number and I even had to take money out of my own pocket to pay to send the proof to them. I called a XXXX later and they told me they had not received anything to go ahead an fax them again so I went again and fax it and had to yet again take money out of my own pocket to pay again. I then waited a XXXX of days and I called and checked and they said no we dont have anything from you. This is really irresponsible on Home Depots part especially because they are such a big corporation and have continued to ignore me and wrongfully charge me for a fraud payment that they allowed to happen. Throughout this process I have felt extremely ignored and have just been forced to continue wasting my own money to continue to fight for this situation to be corrected. Money that I do not have to be wasting. I have done my part and paid to fax the proof that I was not in the country at the time of this purchase multiple times. They have not done anything and are continuing to not do anything to solve this problem. Due to this situation, my credit is now even being negatively affected. I would like this situation to be resolved without it becoming a legal situation. This situation has caused me a lot of financial stress and I would not be doing this whole situation or even spending my own money if I was responsible for this. With the concrete proof that I have of not being in the country during this purchase it should not be this difficult to understand and acknowledge that it was not me."
+}

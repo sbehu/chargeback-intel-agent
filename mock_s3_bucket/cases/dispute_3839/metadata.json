@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3839",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "835XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32386,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX was for a XXXX XXXX XXXX XXXX XXXX  and it fell apart and got payment from Home Depot warrenty and mailed it and they dont have a way they are saying to settle the account that Home Depot warrenty sent me"
+}

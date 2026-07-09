@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7701",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94520"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17852,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To AMEX : Urgent Complaint Unauthorized Charges and Unauthorized Payment Deduction by American Express On XX/XX/year>, my credit card was the target of unauthorized charges. The merchant name listed was XXXX XXXX. After conducting my own investigation, I determined that this is a live-streaming platform located in XXXX XXXX XXXX I have never, under any circumstances, used any services from this company, nor do I have any connectionpersonal or professionalto anyone affiliated with it. \n\nUpon reporting this fraud to American Express, the disputed amount was initially refunded to me. However, on XX/XX/year>, I was alarmed to find that these exact same four charges had reappeared on my account statement. I immediately contacted American Express. The representative assured me that the charges would once again be placed into dispute. I acted in good faith and waited for the resolution promised to me. \n\nOn XX/XX/year>, I discovered that over {$5000.00} had been withdrawn from my debit card and applied to my American Express accountwithout any prior notification to me and without my consent. Only upon logging in to my account did I realize that American Express had unilaterally and wrongfully treated this amount as a legitimate charge, directly contradicting my previous fraud report and my explicit position that these charges were unauthorized. \n\nThis conduct is unacceptable, unconscionable, and potentially unlawful. It is a blatant violation of consumer rights and could constitute unauthorized debit activity under applicable banking and credit regulations. {$5000.00} is a significant sum, particularly in the current economic downturn. I reside in the XXXX XXXX, where mass layoffs by major corporations have already placed tremendous financial pressure on households. For American Express to demand payment for transactions I did not authorize, did not benefit from, and have explicitly disputed is indefensible. \n\nI can provide verifiable proofnearly two years of passport entry and exit recordsconfirming that I have never been to XXXX XXXX. I have never authorized any individual or entity to use my credit card in any capacity. These transactions are fraudulent, and the withdrawal of {$5000.00} from my debit card without my consent is an additional breach of trust and consumer protection laws. \n\nI demand an immediate reversal of this unauthorized payment and a full reinstatement of the disputed funds to my account. I further request a complete written explanation of how and why American Express processed these charges against me after they were already identified as fraudulent. \n\nFailure to resolve this matter promptly will compel me to pursue all available remedies, including further complaints to the CFPB, escalation to relevant state and federal regulators, and the initiation of legal action if necessary. \n\nReturn my funds immediately."
+}

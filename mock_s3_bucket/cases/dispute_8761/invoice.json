@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-456193",
+  "invoice_date": "2026-03-02T00:00:00Z",
+  "amount_cents": 5454,
+  "currency": "USD",
+  "billing_address": "8363 River Way, CA, 90068"
+}

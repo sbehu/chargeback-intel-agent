@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11109",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "705XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42585,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year> I owed XXXX XXXX XXXX XXXX XXXX which was paid on time through my bank as attached on XXXX XXXX, before XXXX bays passes I received another bill with late fees totaling XXXX which I knew I didnz owe but paid on XXXX XXXX so it wouldn't be reported while I figures this out. I have included bank statements showing all XXXX payments were made because they mailed me XXXX reimbursement checks for over payment XXXX. I'm the amt of XXXX and another in the amt of XXXX the XXXX amts I overpaid so I deposited them they are also attached. Since then Barclay has continued to harass me emailing, calling and mailing me bills every month or twice a month adding late fees saying I never paid once but proof was sent to them from my bank and they refuse to fix it even after they terminated the card. They have destroyed my credit over their mistakes. I'm attaching bank statements, letter copy of reimbursement checks ans letter from Barclay. This jas gotten out of hand even XXXX XXXX has tried to proove to them their mistake and they argue but then why would they mail be reimbursement checks in the exact amt i over payed?"
+}

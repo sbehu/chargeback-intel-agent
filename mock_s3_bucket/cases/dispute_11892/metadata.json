@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11892",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98226"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12773,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My XXXX Citi card was charged for several XXXX fees in and around XXXX XXXX from XX/XX/XXXX to XXXX. Citi notified me of a suspicious charge. I contacted Citi and they have disputed all the XXXX charges, which I did not make and as a result are fraudulent."
+}

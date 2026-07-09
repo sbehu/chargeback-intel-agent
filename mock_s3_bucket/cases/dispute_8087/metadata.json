@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8087",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94010"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23707,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "i filed a dispute with credit card company, CITI, on XX/XX/year> for a charge made on XX/XX/XXXX at planet fitness. \nThe company, planet fitness, said a contract was signed and it was ligitimate. \n\nthe credit card company which gave me a provisional credit, reversed the charge and charged me {$47.00} I feel that i am a victim of identity theft and feel that i do not have a leg to stand on. \nI believe that the credit card company sided with the merchant."
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-93788407-US
+Shipment Date:   2026-03-17T00:00:00Z
+Delivery Date:   2026-03-20T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     5254 HERITAGE BLVD, FL, 93852
+============================================================

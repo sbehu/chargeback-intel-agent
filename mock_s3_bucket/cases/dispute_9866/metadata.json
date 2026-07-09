@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9866",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MS",
+    "complaint_zip": "386XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25826,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a {$100.00} charge for a paid seat selection on a Delta flight because I did not receive the seat I purchased. I provided American Express with documentation showing both the seat purchase receipt and the final boarding record assigning me to a different seat. \n\nDespite submitting detailed dispute letters and supporting documents multiple times, American Express did not address my evidence. Instead, across XXXX responses, American Express simply repeated Deltas generalized reference to its Conditions of Carriage. I repeatedly explained that those conditions are outside the scope of this dispute, which concerns a separately purchased seat selection fee, not the base fare or general seating policy. \n\nAmerican Express did not acknowledge or respond to this distinction, nor did it address the documented fact that the seat I paid for was not provided. Their responses indicate that my dispute letters and evidence were not read or meaningfully reviewed. \n\nDelta has since agreed to accept the dispute, which further confirms that the issue was legitimate. However, American Express repeatedly denied my dispute without conducting a reasonable investigation or evaluating the evidence I submitted. \n\nI am filing this complaint because American Express failed to conduct an independent and reasonable investigation and relied on irrelevant boilerplate language instead of addressing the facts of my dispute."
+}

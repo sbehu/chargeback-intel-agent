@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9320",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53220"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26933,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I used my American Express card through XXXX XXXX  to purchase a vinyl record from XXXX ( amount {$34.00} ). The order confirmation stated : Estimated delivery : up to XXXX weeks and XXXX XXXX. \n\nThe merchant repeatedly told me throughout XXXX that the order was delayed but still would ship. I have an email from XX/XX/XXXX confirming the delay and instructing me to continue waiting. Based on the merchants ongoing assurances, I did not dispute the charge earlier. \n\nThe product has never been delivered. The merchant continues to advertise the item as Backordered XXXX weeks, demonstrating ongoing misrepresentation of availability. \n\nWhen I contacted American Express to dispute the charge for non-receipt, they refused, incorrectly citing the XXXX billing-error rule under Regulation Z. This is not a billing error ; it is a failure to deliver goods, which is covered by card network dispute rules allowing exceptions where merchants delay delivery to avoid chargebacks. \n\nA supervisor opened a dispute manually on XX/XX/XXXX, but American Express automatically closed it within minutes, without reviewing my documents or allowing me to upload proof. \n\nI am asking the CFPB to require American Express to intervene appropriately for a clear failure-to-deliver case and issue a refund."
+}

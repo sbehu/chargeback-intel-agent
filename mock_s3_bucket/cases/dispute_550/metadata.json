@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_550",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "032XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38704,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have recently had my Master Card Credit card hacked and used to make fraudulent purchases. \nI am writing this letter as recommended by the NH department of justice Consumer Protection & Antitrust Bureau ; When dealing with credit card fraud. I have reported this Citi Bank Master Card. The following is Chronological listing of events. \n\nXX/XX/23 Six day passes purchased at XXXX XXXX XXXXXXXX CA. for {$380.00} using my Master Card. \n\nXX/XX/23 XXXX XXXX charge is recorded by Citi Bank XXXX XXXX XXXX XXXXXXXX XXXX XXXX  to my card XX/XX/23 I notify Citi Bank of this fraud and a new card is issued to me and the {$380.00} charge is reversed pending Citi Banks investigation. \n\nXX/XX/23 Citi Bank sent me a notice that their investigation is complete and the {$380.00} charge is Reinstated, base on a report submitted by XXXX XXXX. The XXXX XXXX report notes that at the time of purchase, all of the security checks were met. The credit card frauds had the correct credit card #, expiration date, 3digit security code, my address, cell phone #, and email address. At some time and place in the past this information was stolen. \nThe {$380.00} charge was reinstated to my account on XXXX \n\nXX/XX/23 I contacted Citi Bank to again dispute this charge, at their customer service # XXXX XXXX XXXX XXXX. \nThey responded by stating it would take up to 90 days for their investigation. \n\nI also contacted XXXX XXXX at the Ticketing Team at phone # XXXX XXXX XXXX to dispute the charge. \nI spoke with an agent named XXXX ID # XXXX. Since that call they have sent me a written response stating that I need to work this out with Citi Bank Master Card."
+}

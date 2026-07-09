@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3748",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "816XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23893,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX I made a booking with XXXX XXXX paying the full advertised rental price, ( {$510.00} ) which their Terms of Service require to be fully itemized and shown on the booking page. A short time later, the host demanded hundreds of dollars extra in an offline communication in violation of the same Terms of Service. I immediately cancelled the reservation, and notified American Express of the fraudulent charge on my card. I made repeated attempts to solve the matter with XXXX, but they claim they are able to keep all of my money regardless of any fraud committed by them. I received no goods or services from XXXX. I have made numerous complaints to American Express who reversed my requested chargeback when XXXX sent them a non-responsive and misleading AI generated document purporting to show I agreed to be defrauded. \nSince then I have made endless and numerous fruitless attempts to raise the problem with American Express. I have gone so far as to write XXXX XXXX, the CEO. He said he would have the matter investigated and get back to me. This has not happened and I have received no report or update. American Express as a bank claims to have a XXXX customer liability for fraud."
+}

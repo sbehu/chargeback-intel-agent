@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6028",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60647"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19496,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went to XXXX XXXX on XX/XX/year>. \nIn the airport is a small XXXX store. \n\nI bought a few things like XXXX XXXX XXXX etc. \n\nThe cashier did not speak great English. \nShe showed me the price on the calculator at XXXX pesos, around $ XXXX USD. It was a bit much but I bought anyways. She had a card scanner on like a phone tablet. She scanned my card then asked for a signature. \nThe signature page was like a blank line on the tablet and didnt show itemized prices or the final price. \n\nThey did not have receipts to print off. \n\nI let and got a notice on my phone that they charged me {$7500.00} pesos not {$750.00} pesos. \n\nI went back to the store minutes later. The cashiers manager said no refunds but I can pick out items to make up the difference for the extra $ XXXX USD I was charged. I said no and again asked for a receipt. He said they can not print them. \nI immediately called American Express to notify them. \n\nThey said they would investigate. Weeks later I get a letter in the mail saying I lost the appeal and the vendor submitted a receipt. \nIt was a receipt with the price of XXXX pesos ( not itemized ) and my signature below. My signature was clearly photoshopped from the tablet I signed, Im guessing they have signatures saved. I never signed that receipt with that price. \n\nIts blatant fraud on the vendors part. I requested Amex ask for video footage which would show the incident. They said they would not do that as the video would suffice. \n\nI would like assistance challenging this. If someone can just photoshop your signature onto a receipt then we have no defense against this. \n\n\nPlease reach out for additional information. \n\nThank you"
+}

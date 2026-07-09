@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13246",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30345,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made several purchases from XXXX  within the last month. I make my payments as soon as the amount is posted on my account as always without any issues ( since my last complaint ) ; however, the last purchase I made was for XXXX I had a credit for XXXX which I used as a result the amount owed was XXXX. Wayfair Citibank charged me XXXX and an additional amount is pending for XXXX I called XXXX, they informed me that should not be because the only charge I have is XXXX I called Wayfair Citibank, on XX/XX/year>, the woman I spoke with was unable to understand me ; as a result, became frustrated and rude so I hung up thinking the amount would drop off by the next day.but it did not. The pending amount of XXXX has been on my account since XX/XX/XXXX. I decided not to pay until the pending amount dropped off but it never did. I called again on XX/XX/year>. I spoke with a young whom informed me that she knew exactly what happen. She actually asked me before I told her if I used a credit for XXXX and it's the same amount of XXXX that became XXXX. I said yes and asked her how she knew. She stated she had been working there for 25 years, etc. She even placed me on hold and called Wayfair and they verified everything. She promised to take care of it. I asked to speak with her manager and informed her that she extremely pleasant and took care of an issue that no one else could handled. It was not handled. I called again on XX/XX/year> and spoke with a supevisor who didn't help. The pending amount is still there."
+}

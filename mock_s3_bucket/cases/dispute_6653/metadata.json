@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6653",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32712"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21004,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The charges made on this account were not made or authorized by me. I have disputed these charges before, and I will continue to dispute these charges until they are removed from this account and my credit file. I have over one dozen card accounts all of which I pay on time or before time. In review of my credit report, you will find that the average age of the accounts is 8 years and that I have a 100 % payment history of on time or before time. The only exceptions to this fact are those accounts wherein I dispute certain unknown or unauthorized charges."
+}

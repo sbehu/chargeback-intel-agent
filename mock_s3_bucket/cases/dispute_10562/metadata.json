@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10562",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1852"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24916,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding unresolved fraudulent charges on my Barclays JetBlue Credit Card, despite confirmed fraud and explicit instructions from the merchant ( XXXX XXXX ) to pursue a chargeback. \n\nOn XX/XX/XXXX, two unauthorized transactions were charged to my Barclays JetBlue Credit Card : {$600.00} XXXX XXXX {$600.00} XXXX XXXX XXXX Confirmation # : XXXX On or about XX/XX/XXXX, my XXXX XXXX Bank account was hacked without my knowledge or authorization. I promptly reported the fraud to XXXX XXXX. JetBlue confirmed the unauthorized access, suspended my account, and blocked all access. \nA fraud case was opened by JetBlue ( Case # XXXX on XX/XX/XXXX ). \n\nOn XX/XX/XXXX, a XXXX  customer service representative instructed me to file a dispute with Barclays Credit Card for services not rendered. I complied and filed the dispute as directed by the merchant. Barclays resolved the dispute unfavorably, and no funds were returned. \n\nOn XX/XX/XXXX, another XXXX customer service agent explicitly instructed me to attempt to get a refund from Barclays Jetblue Credit card by filing a \" chargeback '' with Barclays, confirming that XXXX would not return the funds directly. ( I have documentation/screenshots of this instruction. ) Despite : confirmed unauthorized account access, a documented fraud case opened by XXXX, and repeated instructions from the merchant to pursue a chargeback, Barclays has refused to reverse the fraudulent charges, leaving me financially responsible for funds stolen due to fraud. \n\nI have made continuous good-faith efforts to resolve this matter with both XXXX and Barclays since XX/XX/XXXX, with no resolution. I am requesting assistance from the Attorney Generals Office to ensure that consumer fraud protections are properly applied and that these unauthorized charges are reversed. \n\n\n\nThe following documents are included in support of this complaint : -Original transaction receipts for the disputed XXXX charges XXXX XXXX Bank account history, including records identifying the individuals who utilized the stolen travel credits -Copies of written correspondence sent to both XXXX XXXX and Barclays Bank requesting a fair resolution"
+}

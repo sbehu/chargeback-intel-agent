@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3603",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92020"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25042,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "FRONTIER/ BARCLAY Charged me for annual fees that I immediately disputed. They agreed to refund the money and not charge a new annual fee because I no longer wanted to use their card or services. They opened and closed a dispute and credit case and only refunded XXXX of XXXX charges that they said the would. They owe me {$190.00}. \n\nWhen I call they give me a huge run around. They open and close case XXXX, without any written notification or additional information. \n\nHere are the entire transactions for the year, all disputed and unresolved, and all with Frontier/ Barclay . \n\nAccount Balance as of XX/XX/year> : {$0.00} Transaction Date Description Category Amount XX/XX/year> Payment Received CREDIT  XXXX XX/XX/year> ANNUAL FEE DEBIT XXXX XX/XX/year> FRONTIER CREDIT XXXX XX/XX/year> Payment Received CREDIT XXXX XXXX XX/XX/year> FRONTIER DEBIT XXXX XXXX XX/XX/year> FRONTIER DEBIT XXXX"
+}

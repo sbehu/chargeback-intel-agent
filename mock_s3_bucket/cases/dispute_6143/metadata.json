@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6143",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32832"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32043,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, Bestbuy Citi Card The XXXX charges appearing on my XXXX statement for the credit card ending in XXXX not made by me or by anyone else with my authorization. \n\nThe XXXX fraudulent charges are XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  {$200.00} I previously informed your representatives during my initial phone call that I was and have been physically located in XXXX on the dates of these fraudulent charges. I am attaching statements from my other credit cards which clearly show legitimate transactions made by me in XXXX around the same time. It would have been physically impossible for me to have made these purchases in XXXX XXXX XXXX XXXX XXXX XXXX within such a short timeframe. \n\nI request that you please re-open your investigation."
+}

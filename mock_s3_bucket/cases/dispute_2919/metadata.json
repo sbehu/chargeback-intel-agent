@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2919",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "125XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26006,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Double charged by XXXX XXXX on my Amex card {$130.00} dated XX/XX/year> for flight res XXXX XXXX in where I paid for the bags in advance and then they double charged me again for the bags. This double charge needs to be refunded in full {$130.00} and XXXX XXXX has committed a fraud by untruthfully responding to American Express who has refused to protect my consumer rights. This violation is potentially criminal in nature and against consumer protection laws. \n\nIf I do not receive the full {$130.00} refunded I will continue to pursue complaints with other agencies such as the XXXX, XXXX  Attorney General, and XXXX in addition to local courts. \n\nI have witnesses that support my claims, even thought I should not need them because XXXX XXXX can see from their baggage manifest that I paid for the bags included with my tickets and they charged me for XXXX extra bags I did not have and then the manifest shows only XXXX bags were loaded, therefore I was charged for XXXX bags with my tickets and then charged for another XXXX bags equaling XXXX bags even though only XXXX bags were loaded into the aircraft. Clearly this is is a double charge and I am entitled to a full refund of the {$130.00}."
+}

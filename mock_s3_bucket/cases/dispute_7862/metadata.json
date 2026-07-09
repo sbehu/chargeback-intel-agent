@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7862",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7871"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18736,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Re : XXXX XXXX using Amex card ending in XXXX reference # : XXXX business name : XXXX XXXX XXXX Amount of dispute : XXXX Facts : I made a reservation on XX/XX/year> at XXXX XXXX XXXX XXXX XXXX and was told by the person answering the phone that are at the hotel and that I'm making the reservation with the hotel. They said they were \" Reservation Desk. '' I never received any itinerary or reservation number from them because as it turns out the person I spoke to was working for a scam outfit overseas that set up a website mirroring XXXX XXXX XXXXXXXX XXXXXXXX XXXX website. So, potential guests calling think they are making reservations with the hotel. This scam company sends the reservation to XXXX to legitmize the reservation. After finding this out, I called the hotel directly and the manager told the Amex agent in a conference call that they have been scammed and that they are cancelling the reservation ( way ahead of the cancellation date required. ) Amex refused to handle the call as a scam, but a routine merchant dispute. So, I lost because there was not cancellation number to provide."
+}

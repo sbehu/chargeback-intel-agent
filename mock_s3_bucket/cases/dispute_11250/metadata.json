@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11250",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94404"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34298,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Barclays improperly closed my billing dispute involving a charge for goods that were never delivered or accepted, in violation of the Fair Credit Billing Act ( 15 U.S.C. 1666 ). \nThis dispute concerns a charge from XXXX XXXX XXXX XXXX, XXXX in the amount of {$4300.00} for nonconforming goods that I rejected at the time of attempted delivery. Despite clear documentation that the goods were not delivered or accepted, Barclays concluded that there was nothing further they can do. This response is incorrect under federal law. \nOn XX/XX/year>, I placed an order with XXXX for mattresses and related items. \nOn XX/XX/year>, I canceled part of the order and received a partial credit. \nOn XX/XX/year>, the delivery contractor arrived with goods that were the wrong size and did not conform to the contract. \nI rejected the delivery at the door and did not accept possession of any of the nonconforming items. \nXXXX did not provide replacement goods and has refused to issue a refund for the remaining balance of {$4300.00}. \nBecause the goods were rejected and never accepted, they were never delivered under federal and state law. \nI timely notified Barclays of this billing error and provided written documentation showing : Nonconforming goods Rejection at delivery No acceptance of merchandise Continued merchant refusal to refund Despite this, Barclays closed the dispute, stating there was nothing further they could do. Barclays appears to have treated this issue as a return dispute rather than a nondelivery billing error, which is a misapplication of the Fair Credit Billing Act.\n\nUnder the FCBA, billing errors explicitly include charges for : Goods not delivered Goods not delivered as agreed A merchants assertion of attempted delivery does not constitute delivery when the consumer rightfully rejects nonconforming goods. \nThe goods were never delivered or accepted I had the right to reject nonconforming goods Retaining payment under these circumstances is unlawful Barclays failed to properly investigate and resolve a qualifying FCBA billing error Barclays refusal to correct this billing error violates their obligations under the FCBA and deprives me of federally protected consumer rights.\n\nI respectfully request that the CFPB require Barclays to : I am attaching copies of my written correspondence with both the merchant and Barclays in support of this complaint. \nThank you."
+}

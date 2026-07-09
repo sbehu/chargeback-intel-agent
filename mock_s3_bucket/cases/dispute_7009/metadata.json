@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7009",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "351XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28923,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays mishandled hotel dispute, refused to reopen after errors. \n\nWhat happened : On XX/XX/year>, I was wrongly charged {$400.00} by a hotel for a smoking fee. I did not smoke in the room. The charge was based solely on an automated smoke report that triggered around XXXXXXXX XXXX. and continued past XXXXXXXX XXXX., while I was asleep. I had showered and gone to bed earlier. No hotel staff ever entered the room or verified the alert. \n\nWhen I asked the front desk manager ( the only person Ive been allowed to speak to ), why no one came to the room, he said they do not have to physically verify it and only rely on the smoke report. Thats unreasonable, especially since smoke sensors can be triggered by non-smoking causes like steam or aerosol. \n\nI disputed the charge with Barclays, and they mishandled the process from the start : They misfiled the dispute as an altered amount instead of an unauthorized transaction. \n\nThey denied it in a letter dated XXXX XXXX XXXX, but I was out of town for work and did not receive the letter until XX/XX/XXXX. \n\nI called immediately and was told the dispute would be reopened correctly. \n\nIn XXXX, I found out it was never reopened. I called again and asked for a manager. \n\nA manager called once, on XX/XX/XXXX at XXXX XXXX, left a hard-to-hear voicemail with no direct callback number. \n\nWhen I called back, I had to start over. I was eventually told to send a written letter and assured it was not too late. \n\nI sent the letter via certified mail. \n\nThen on XX/XX/XXXX, I received a new letter ( dated XX/XX/XXXX ) again denying the dispute and now claiming its too late, despite all previous reassurances and delays being Barclays fault. \n\nThis latest letter also again listed the charge incorrectly as {$390.00} instead of the correct {$400.00}, despite my previous corrections. \n\n\nThe hotel has refused to let me speak to anyone other than the front desk manager, who told me flatly : > It goes no further than me. Whats done is done. \nIve left multiple voicemails for the general and assistant managers none have responded. \n\nNow Barclays is threatening to report this charge to the credit bureaus if I dont pay it even though it remains disputed and theyre the ones who mishandled the process repeatedly over XXXX months. \n\n\nI have been traveling for 26 years for business and have stayed in thousands of hotel rooms during that time. I have never smoked, never vaped, and have never once been accused of doing so or charged a smoking fee until now."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1611",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92886"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16426,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I had unrecognized transaction on my card for {$200.00} done in XXXX. On XX/XX/2023, when I discovered that, I submitted a dispute claim and notified my credit card company ( Costco Citi credit card with Citibank ) of the issue that this is not authorized transaction and asked them to reverse and refund me the money. Then, I haven't received any communications from my credit card company after this, so I kept calling them many times to resolve it, but the credit card personnel were very unprofessional and incompetent. After few months, I received a letter from credit card company stated that they closed my dispute, so I called them again wondering why they closed it and they said that it was a mistake, and we will reopen it. Then, after few months, I was told that this dispute is transferred to the fraud dispute department that when I called, they told me that they don't have any claims for me. Every time I call the credit card company asking them for updates, letters and/or full names of people I talk to, they refuse to help me. Till now, I don't have any information about my claim, nor the money was refunded to my account.My case number is XXXX"
+}

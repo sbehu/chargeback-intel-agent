@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1225",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "143XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21497,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX i went to purchase goods at the store and was declined payment 3x. I checked my bank to discover - {$1300.00}. I called the bank as i saw a charge from home depot for {$1000.00} and then a 2nd charge of {$1500.00} which put me under. \n\nI checked my home depot account and found that no purchases were made online or in store. \n\nI returned home and called the bank ( XXXX XXXX to report fraud ( case XXXX )XXXX XXXX stated my card was fine, as home depot used my bank account and routing number to take payment. I am still awaiting funds to be returned to my bank account I contacted home depot to explain and they opened a case ( XXXX ) and they too were puzzled by the fact someone was able to use the check account/routing number to process payment. it later dawned on me to check the home depot consumer credit card account that is linked within my home depot app. \n\ni used my Home Depot consumer CC in store, made purchases on XXXX XXXX XXXX, then paid the balance end of XXXX. Sometime in XXXX, somebody accessed my home depot account, which links my consumer credit card. the criminal changed the address to a XXXX XXXX  address, submitted for a new card, made purchases and returns across TX and MD, got a new card and repeat to present day. \n\nThrough XXXXXXXX XXXX XXXX there are new cards issued ( i still have the original ) and Citi ( issuing bank ) allowed my address and email to be changed frequently and sent new cards to XXXX and other states allowing the criminals to continue to commit the fraud. \n\nIt remained undetected, as they would charge in a store and refund in another, some of these happened on the same day across 2 different states. These are all detailed within my attachment. \n\nXX/XX/XXXX, a charge of {$2800.00} was made in XXXXXXXX XXXX and then they called in a payment of {$1000.00} on XX/XX/XXXX followed by a phone payment on XX/XX/XXXX for {$1500.00} as my bank account is my payment method for my card. The XXXX put me in overdraft, negative balance My XXXX statement shows an address of XXXX XXXX XXXX XXXX XXXX XXXX XXXX when i logged into the cc account, the address was listed as XXXX XXXX XXXX XXXX XXXX XXXX XXXX \n\nIn XXXX, they changed my card to XXXX, followed by XXXX, and they called Citi to issue a new card on XX/XX/XXXX where the last XXXX getting ready to ship XXXX. Citi gave case XXXX, but i was instructed to call citi fraud, which i was unable to do due to the dept having select hours I have not received my funds from XXXX, Home depot can't see the transactions, and Citi is absolutely ridiculous for not catching several purchases, refunds, card changes, address changes and email changes on the account. Somebody needs to be held accountable and hopefully there is enough of a trail to prosecute"
+}

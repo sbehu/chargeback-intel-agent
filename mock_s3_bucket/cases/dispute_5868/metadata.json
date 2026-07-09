@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5868",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NJ",
+    "complaint_zip": "077XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2494,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My son signed up for a free trial offered by XXXX XXXX then unsubscribed before the initial payment became due. But when subsequent credit card statements billed the amount of {$190.00}, I opened a dispute with Barclays. They sent XXXX letters in reply dated XX/XX/year> and XX/XX/year> in which they promised to do their best to represent me, explained additional information XXXX be required, and warned about rebilling my account should XXXX validate the transaction. Included were enclosures purporting to do just that. In response, I mailed them screenshots taken from the merchant 's app confirming that the subscription was cancelled and explaining no other proof of cancellation was available despite my efforts. Nonetheless, Barclays claims they are \" unable to further pursue this matter. '' Accrued interest, fees, and the erroneous charges are have become due. They warn disputed amounts, if not paid, will remain a discrepancy on my credit report."
+}

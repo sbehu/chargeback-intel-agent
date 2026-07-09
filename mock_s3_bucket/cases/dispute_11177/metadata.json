@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11177",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1318,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In late XXXX, I noticed my credit card bill was extremely high. I checked my statement and found many transactions that were not mine. Someone had made major purchases at XXXX in XXXX XXXX XXXX, which I have never shopped at in the last 25 years, and spent over {$800.00} there. They also made purchases at XXXX and a few other places on their fraudulent shopping spree. When I found these charges, I immediately called and notified Barclays Bank, and they canceled my card and sent me a new one. Later, in XXXX sometime, they determined that these were my charges, even though they are not mine, not authorized, and not made by anyone known to me. They determined that since a chip was used, they would be considered my charges. I need help resolving this matter. I should not be responsible for someone stealing my credit card details/information and going shopping with that. It is a criminal activity and they should check the cameras."
+}

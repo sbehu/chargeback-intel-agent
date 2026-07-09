@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2294",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "853XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35091,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase on XX/XX/XXXX, with an estimated delivery date of XX/XX/XXXX. I received an email on the expected delivery date, explaining that an update on the delivery status was pending due to a delay from XXXX. no revised estimated date of delivery was provided. Instead, I was vaguely told that such delays generally take XXXX extra days. I was never sent any follow up email giving me the date my delivery was expected to be delivered. On XX/XX/XXXX I received an email saying the delivery was completed however there was no package outside. I contacted Home Depot and learned The package was just left outside my home unattended, no one bothered ringing my doorbell or knocking on my to alert me there was a package left outside my home. Home Depot advised me to dispute the charges with the credit card company. XX/XX/XXXX I filed a police report along with a dispute with the credit card I used to make my purchase. On XX/XX/XXXX I received a letter from Home Depot credit card services saying that Im responsible for the charges because they show the package was delivered and if I disagree with the determination I had to provide a signed and dated explanation of my position and supporting documentation to the address listed in the letter prior to XX/XX/XXXX. The letter was dated XX/XX/XXXX and it was stamped by the post office XX/XX/XXXX and arrived in my mailbox on XX/XX/XXXX and in order for me to disagree with their dermination they had to receive my response prior to XX/XX/XXXX before the dispute was closed. This is absurd they made it impossible for me to disagree before the dispute was closed. This is bad business and is completely unfair to me as a consumer. Im requesting a full refund of my money for this purchase"
+}

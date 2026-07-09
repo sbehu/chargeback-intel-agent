@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1634",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29715"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18616,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, We are appealing to the Consumer Financial Protection Bureau for assistance with a billing dispute concerning three charges made with our Citibank credit card. \n\nOn XX/XX/XXXX, we filed one dispute against XXXX XXXX XXXX XXXX ( \" XXXX '' ) pertaining to \" services not as expected. '' This singular dispute is related to a home renovation project and there were XXXX separate charges of {$1200.00} ( XXXX ), {$500.00} and {$20000.00} ( XXXX ) XXXX While the dispute involves the exact same circumstances, we understand that Citibank ( \" The Bank '' ) elected to break the charges into two separate disputes because XXXX of the charges were incurred at the end of XX/XX/XXXX and the third was incurred at the beginning of XX/XX/XXXX, just days apart. Notably, The Bank resolved the overlapping and associated dispute XXXX in our favor on XX/XX/XXXX. \n\nSince filing the dispute several months ago, our experience with The Bank 's billing dispute department has been extremely disappointing. We have included with this appeal all of our correspondence with The Bank in chronological order. This correspondence contains numerous thorough and detailed descriptions of the underlying issue involved as well as additional information describing our experience with The Bank. As indicated through the extensive written correspondence, we have gone above and beyond to support our billing dispute for services not performed by XXXX XXXX XXXX. Despite our best efforts, The Bank is not making a good faith effort to conduct an appropriate investigation. The dispute involves a home renovation project but The Bank 's XXXX makes continued references to \" merchandise '' even when we have clarified there was no merchandise involved. We received a favorable decision on XX/XX/XXXX in connection with one of the three charges for the identical issue, which we would argue is absolutely binding on all three disputes because they pertain to the exact same services that were not performed. We received nonsensical written responses when we have provided additional information. We have spoken with no less than 10 different representatives in the dispute department, including supervisors, all of whom ask us to \" wait another 10 days '' without offering any additional information or alternative avenues for appeal. We have twice requested all documentation upon which the unfavorable decisions were made but have not been provided with any of this information to date. We understand that all calls have been recorded and we believe that a review of our telephonic communication would show The Bank 's representatives have been most unhelpful and, in some cases, dismissive and rude. In the interim, based on an incomplete and inadequate \" investigation, '' the conditional credit in the amount of {$21000.00} has been reversed and is now showing on our account with interest accruing. Our attempts to escalate our concerns and have a thorough investigation conducted domestically have essentially been ignored or rejected outright. \n\nAt this point, we feel we have no other option than to appeal to a U.S. government agency for assistance in reaching the appropriate and fair resolution. \n\nThank you. \n\nXXXX and XXXX XXXX ( XXXX ) XXXX XXXX XXXX"
+}

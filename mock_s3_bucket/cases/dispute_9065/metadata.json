@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9065",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29073"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32505,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A new promotional financing of {$4000.00} was created and fully charged to my account in error after the original promotional financing for cancelled order of {$4000.00} was almost paid off with refund issued for cancelled order as shown on XXXX XXXX of XXXX, XXXX and XX/XX/year> statements."
+}

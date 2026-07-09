@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1817",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "WA",
+    "complaint_zip": "98040"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26112,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against American Express regarding their mishandling of a dispute related to a purchase made with my American Express credit card. The dispute in question pertains to a ticket purchased from XXXX XXXX in XX/XX/2023, which was misrepresented by the airline and subsequently mishandled by American Express. \n\nEvent Summary : Purchase of Business Flex Fare : In XX/XX/2023, I purchased a ticket from XXXX XXXX, represented as a \" Business Flex '' fare. XXXX prominently advertises Business Flex fares as fully refundable at the time of purchase. \n\nRefund Denial by XXXX : Despite the clear representation and the terms and conditions under which the ticket was purchased, XXXX failed to honor the refund as per their own policies. \n\nDispute Filed with American Express : In response to the denial by XXXX, I promptly filed a dispute with American Express, providing comprehensive evidence, including screenshots, demonstrating that the purchased ticket was indeed a Business Flex fare, eligible for a refund according to XXXX 's policies. \n\nDisregard by American Express : Surprisingly, American Express disregarded the information provided and, without a thorough investigation, sided with XXXX. This action is in clear violation of consumer protection regulations and undermines the purpose of dispute resolution mechanisms. \n\nI would like to bring to your attention the following specific points that highlight the potential violations of consumer credit card regulations : Misrepresentation by XXXX : XXXX misrepresented the nature of the purchased ticket, leading to false expectations on the consumer 's part. \n\nFailure to Honor Terms and Conditions : XXXX 's refusal to honor the refund for a Business Flex fare, as per their own terms and conditions, is a breach of contractual agreement. \n\nNegligent Dispute Handling by American Express : American Express failed to conduct a thorough investigation and ignored compelling evidence provided during the dispute resolution process. \n\nI kindly request that you investigate this matter thoroughly and take appropriate action against American Express for their failure to uphold consumer rights and adhere to the regulations governing credit card disputes."
+}

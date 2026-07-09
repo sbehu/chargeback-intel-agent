@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1268",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6359,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dispute of {$100.00} and {$460.00} \" cash advance fees '' made to unknown merchant XXXX on XX/XX/XXXX I disputed any charges made on XX/XX/XXXX immediately after I got a fraudulent alert message from Citi and they said they'd check into it and reversed XXXX charges on following day ( which I had not see the prior day ). They sent me a new Citi XXXX XXXX On XX/XX/XXXX I received letter from Citi that stated these charges were not fraudulent. They failed to provide any information on tracking this merchant XXXX XXXX XX/XX/XXXX I sent a detailed letter to Citi explaining all that had happened and why I disagreed with their decision. \n\nOn XX/XX/XXXX I saw an unexpected charge on my XXXX Citi XXXX and Called XXXX at XXXX Am XXXX on sudden charge of {$33.00} I saw on my Card. She said this was a cash advance fee related to the apparent cash advance payments of {$100.00} and {$460.00} made to XXXX that I had disputed. She said she would reverse the charge and that I should talk with the fraud department on the status of receipt and action on my XX/XX/XXXX letter. \n\nOn XX/XX/XXXX at XXXX PM I got connected to the XXXX Department. They said they would re-open my case. \n\nOn XX/XX/XXXX I received an email from Citi that stated they would re-open my case ( see attached ). \n\nOn XX/XX/XXXX I checked my Citi card balance and they had not revered the {$33.00} charge and had added a {$13.00} interest charge related to the XX/XX/XXXX charges. \n\nON XX/XX/XXXX I called Citi spoke with XXXX and he said yes they had re-opened the dispute but had decided the dispute was invalid so they had closed the case once again. I asked to talk to supervisor and talked with XXXX. XXXX they would further investigate but that actually originally I should have disputed the charge with the dispute department rather than fraud department. But he reopened the case with case numbers XXXX for the {$100.00} and XXXX for XXXX {$460.00} charge and offered {$100.00} valuable customer credit for my trouble. \n\nOn XX/XX/XXXX I went to my Citicard account to see if I could actually dispute the charge like I was told to do, and saw I could not dispute the charge because it was already closed out. \n\nI have no confidence that Citicard will reverse the XXXX charges so I need help resolving because I am just getting the run around."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5013",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33176"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46661,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We have been in discussion with members from your office CITIBANK CREDIT CARD for the last few months. We have been trying to get the remaining balance on cancelled hotel reservation. We have been getting the run around from your office and the office of the XXXX XXXX life vacation rentals. \nYour office has stated that the merchant XXXX XXXX life vacation rentals has denied the cancellation and we you were not put back the remaining {$910.00} all the original rental deposit.. We have been in communication with the merchant, and they tell us that they were charged back the entire amount all the reservation deposit. Please see e-mail thread attached to this e-mail. We are in enclosing the documentation regarding the cancellation of the booking and an e-mail stating that they were charged back the funds and can not refund us any funds because they are being held Citibank. \nWe are trying to get an understanding as to who is holding the funds. Are they being held by XXXX XXXX life vacation rentals or my Citibank credit card company. Kindly provide documentation as to why Citibank is not wrongfully holding the money. \nWe would like to resolve this matter amicably and continue to use the Citibank credit card.\n\nIf I do not receive a response from Citibank, I will turn this over to my attorney so that we may recover the funds. In state of Florida, we are entitled to treble damages and attorneys fees.\n\nPlease credit us the remaining charge of {$910.00}."
+}

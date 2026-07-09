@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3914",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "082XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42216,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting new information, including a letter received by Macys on XX/XX/year>XXXX  Citibank needs to notify the law firm XXXX XXXX XXXX that the Macys credit card balance was due to fraud, and I am not responsible for it"
+}

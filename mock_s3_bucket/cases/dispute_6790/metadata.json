@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6790",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "060XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39073,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was approached outside of XXXX by XXXX XXXX on I believe XX/XX/year>. I was then detained for about XXXX minutes in the cold, I have XXXX XXXX I was coherced into an agreement that THEY made, I was not allowed to read anything- their computer kept crashing. I thought I was making a XXXX donation. On XXXX, I saw my card was debited XXXX, I immediately called XXXX XXXX and spoke to a woman there, it stated the call was being recorded. I explained the situation, and told her I couldn't afford to have my XXXX card charged every few months for XXXX. I thought it would be a XXXX time donation, I even told her I would be willing to make a XXXX - time donation. She told me not to worry, she would cancel the service and credit my account. I even tried to make the XXXX time donation then, and she said wait until I receive my refund. The way she spoke didn't sit right with me. I did a little research and found many complaints about their fraudulent activities and about not canceling after the customer cancels. On XX/XX/XXXX I put in a dispute because I believed this merchant to be fraudulent. XXXX issued me a conditional credit of XXXX and when I spoke to them they said this merchant wouldn't be allowed into my account AGAIN. XXXX XXXX sent me a bill a month and a half later, stating they received XXXX. Then about that time I received a XXXX credit from them which I immediately emailed XXXX and asked why they were crediting me this, when they should be dealing with XXXX, also why it was only XXXX? XXXX then disputed the XXXX which I paid, no problem. The dispute was settled in my favor I believe in the end of XXXX. I thought it was over, I never received anything from XXXX XXXX after that, never spoke to them. However, on XX/XX/XXXX I saw another XXXX charge from them, which I immediately called XXXX and put in a new dispute. I sent them all the documents I had which were only a bill because that's all I received. On XX/XX/XXXX I saw that XXXX said I was responsible. Responsible for what, I didn't authorize them to enter my account again second and XXXX said that they wouldn't be allowed. I canceled my card after I put in the dispute, but on XX/XX/XXXX I was forced to close an account that I was in Excellent standings with for over XXXX  years. I closed my account on a XXXX balance and still had over XXXX rewards points which I tried to transfer but I'll probably NEVER receive now. This is outrageous!!"
+}

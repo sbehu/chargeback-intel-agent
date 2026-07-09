@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2451",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37215"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17707,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have disputed a {$470.00} charge from XXXX XXXX multiple times with American Express since the beginning of XX/XX/year>. I have a Platinum card, and I am supposed to receive purchase protection from American Express in exchange for an annual fee of {$690.00}. American Express seems to be intentionally avoiding their responsibility for purchase protection that is guaranteed as part of my card. \n\nI ordered an office chair from XXXX XXXX in XXXX. When the company could not fulfill the order by XXXX, XXXX XXXX agreed to issue a refund to me, which they never did, despite my multiple follow-up attempts with them. When it became clear that XXXX XXXX was not going to refund me, I disputed the original charge with American Express. \n\nDespite having multiple emails from XXXX XXXX admitting they were in the wrong and promising me a refund ( all of which I submitted to American Express ), XXXX XXXX sent fraudulent documentation to American Express claiming that the office chair was delivered to my home in XXXX, TN on XXXX XXXX XXXX XXXXXXXX XXXX provided a tracking number of XXXX in the documentation. \n\nIf you actually go to XXXX  and enter that tracking number, however, you will see that package was NOT delivered to my home in XXXX, but was recalled and delivered to XXXX XXXX facility in XXXX, OH. I have never received the chair. I have told American Express that XXXX 's documentation is fraudulent multiple times and sent screenshots of the real tracking information from XXXX. It is easily verifiable via XXXX that XXXXXXXX XXXX documentation is fraudulent, and American Express continues to ignore this information and close my dispute. American Express is not providing the purchase protection it promised me as part of my American Express Platinum card fee."
+}

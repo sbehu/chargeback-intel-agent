@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13216",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70810"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49037,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Incident happened on XX/XX/year>2025 with charge of {$370.00} on Citi credut card for a taxi. I have disputed the charge over XX/XX/XXXX times. I was incorrectly and unknowingly charged this amount."
+}

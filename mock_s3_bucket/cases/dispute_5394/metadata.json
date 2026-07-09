@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5394",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94513"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48431,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There were 2 fraudulent charges on my Home Depot Credit Card on XX/XX/year> and XX/XX/year>. I filed a dispute and Home Depot denied the claim due to \" facts and/or information reviewed as part of the investigation does not substantiate the claim of unauthorized use ''. \n\nThese purchases were made in store and I would like Home Depot to review the security footage. The purchases were for a XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX totaling {$1000.00}. I have shopped in this store and the security footage will show, without a doubt, that those purchases were not made by me. \n\nIt seems very strange that these 2 transactions do not show up in my purchase history ( all my other in store purchases show up ). Both of the transactions were handled by the same cashier. I never lost the card and have always kept it in my wallet. The card has only been used at Home Depot. \n\nTransaction details XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

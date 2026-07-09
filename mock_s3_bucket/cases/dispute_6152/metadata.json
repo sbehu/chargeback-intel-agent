@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6152",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2131"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39963,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year> I placed an order of {$100.00} for a pair of XXXX sneakers. The sneakers were delivered to the wrong address and I was never able to retrieve them. I contacted XXXX, who told me that they issued {$100.00} credit on XX/XX/year>. ( I can provide this email to you. ) I never received a credit on my Citibank account and they asked me to provide proof of what XXXX said. I did this. After much back & forth and them crediting and recharging the {$100.00} several times, they never resolved the issue. It has been over XXXX months and I recently sent them XXXX emails requesting the status. They have ignored both emails. They did not respond directly to my first email but did send a letter in my Citibank portal claiming the dispute was resolved and that I received the {$100.00} credit. I emailed them again because according to my own records I DID NOT receive the credit. I sifted through many of my statements and have no record of the refund. I told them this via email and asked that they inform me exactly of when the refund was issued but they refuse to respond."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4832",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27106"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29936,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Starting in late XXXX, someone used my Citi XXXX and made a lot of purchases. I was not alerted to these charges. When I got the statement I informed them. I tried to go through the charges on the phone that were not valid, but the agent was speaking very fast and had a strong accent. When I got a written statement, I circled all the charges that were valid and paid for them. \n\nThere was one charge for {$54.00} dollars that remained. I did not make that purchase. On the statement it did not say what it was for, but after innumerous phone calls, finally an agent told me it was for a video game. I do not play video games. I am XXXX and barely know how to use my XXXX yr old laptop and phone! \n\nCiti has had 4 months to investigate this charge, and last week they told me to pay this, plus late fees and interest and if the dispute results in my favor they will reimburse me. I already closed my account. At the time of the first call, they cancelled my card and sent me another. I stopped using Citi completely, but charges continued on my new number. I called to report it. They cancelled that card, and sent me another, which I did not activate. Even without being activated, someone was charging using my number. Those charges were thankfully rejected, because they were made every day, in the same amount to the same place. Something very wrong is going on with Citi XXXX and I want this dispute resolved and my clean. I have a near perfect credit score, now Citi is trying to tarnish charging me for something I didn't buy. I appreciate your help."
+}

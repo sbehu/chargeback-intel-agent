@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8725",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "79601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17823,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Barclays credit card information was stolen and my mailing address was changed, a secondary card was send to the fraudulent address, and over {$6000.00} of charges was charged to the account. I reported this via phone on XX/XX/year> to Barclays who cancelled the original and fraudulent cards and sent me a new card. After numerous attempts to get a status from Barclays I then mailed via registered mail a fraudulent notice to Barclays on XX/XX/year>. Since then after more phone calls they have failed to resolve the issue. Barclays has also reported to the credit bureaus that my account is 60 days past due and my credit score has dropped over XXXX points because of the delinquent reporting."
+}

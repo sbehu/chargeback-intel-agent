@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6283",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11763"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43418,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX TV from Best Buy, along with a XXXX XXXX XXXX XXXX  XXXX that was marketed as a safety net offering repair or replacement in the event of any issue. Instead, what I received was a string of rude technicians, conflicting information, and emotional exhaustion. \n\nWhen my TV developed a clear malfunction, I scheduled a service appointment. The first technician who came out was dismissive, offered no assistance, and seemed completely uninterested in helping but he did submit photos to Best Buy customer service. Based on those photos, customer service confirmed the damage was covered and told me the TV would be repaired or replaced. I was relieved briefly. \n\nThe second technician then arrived, and the situation went from bad to worse. He spoke down to me, acted like I was lying or overreacting, and completely dismissed what customer service had already approved. I felt talked over, ignored, and mistreated in my own home not once, but twice. Both technicians acted like I was a problem, rather than a customer who paid for a premium warranty expecting respect and a solution.\n\nIm still paying off this television on my Best Buy credit card, and I feel utterly scammed. I paid for a protection plan that was supposed to give me peace of mind and instead, I got gaslighted, stonewalled, and left with a broken product. This isnt just a poor experience its deceptive business and emotional manipulation disguised as service. \n\nI am demanding that Best Buy and XXXX XXXX honor the original approval provided by customer service and either repair or replace my television immediately or issue a full refund for the television and the protection plan that failed me.\n\nYou have one week from today to fully resolve this issue. If no action is taken, I will pursue all available options through regulatory and legal channels. Consumers should not be treated this way and I will not allow this to be swept under the rug."
+}

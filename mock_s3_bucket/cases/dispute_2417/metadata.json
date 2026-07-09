@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2417",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92804"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18804,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got a small game from plays station though XXXX, it was a third party vendor, I bought it in XX/XX/XXXX it was delivered XX/XX/XXXX, I returned in XXXX XXXX XXXX, CA, in customer service XX/XX/XXXX at morning and nationwide distributor got it in XX/XX/XXXX, I didn't received my money back to my card and I email to XXXX about the refund and they said the box was broken, I asked for the video camera because it was perfect when I retuned it, I stared a dispute with citi bank because it was a citi credit card in XX/XX/XXXX and they just closed it XXXX XXXX with the disputed denied, I tried to talk to XXXX again and They continued with We going to give your refund, it's been almost 2 months and I don't have anything, I don't have my money back, I don't have the game, nobody want to help me, I'm thinking about to going to the police"
+}

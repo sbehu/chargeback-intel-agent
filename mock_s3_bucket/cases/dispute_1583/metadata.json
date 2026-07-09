@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1583",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94526"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31688,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The problem started when I disputed a {$200.00} credit card charge. My initial dispute was caused by not recognizing the charge, but ultimately it turned out that the dispute basis was for merchandise not received ( a gift certificate ordered in response to the merchants XXXX XXXX promotion ). The merchant also charged the wrong amount, failing to honor the promotion it sent me, and then never sent the merchandise it claims it delivered. The merchant never provided proof of delivery, and never provided any evidence that the gift certificate was used or otherwise applied. \nUltimately Citibank would not credit me the {$200.00}, saying the merchant would not honor the chargeback. I objected to Citibank, stating the fact that the merchant will not honor the charge back is consistent with this fraudulent business practice ( not honoring the promotion and not delivering the gift certificate ). \nThereafter, when I asked the merchant about the missing gift certificate, it was sent to me. I was told it was good for any merchandise and it did not expire. \nLater, when I tried to use the gift certificate, the merchant told me that because of the charge back request, the gift certificate was voided and I was banned from ordering anything from the merchant. \nI immediately wrote to Citibank, asking for the dispute to be reopened, and reiterated the events where the merchant refused to honor the charge back, but has voided the gift certificate and banned me from any transactions, and asked that the {$200.00} credit be reinstated permanently. Citibank refused my request without any explanation ( enclosed ). \n\nIn effect, Citibank has partnered with the merchant to steal {$200.00} from me. This is not what I expect from a major national bank, and if it is not illegal, it should be."
+}

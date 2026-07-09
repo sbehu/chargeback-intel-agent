@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4752",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "87031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48046,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Wife attempted to purchase wigs for herself condition. The company did not send. We attempted several times to contact with no reply. After we filed a dispute the company created a shipping label but the items were redirected back to the merchant and never delivered. I provided the USPS shipping tracking to the Citi bank dispute center and they keep saying that they are unable to attain the funds back from merchant so Im liable. I explained that this is fraud and they are a financial institution and are to issue a charge back to the merchant and refund for goods not received. They then tried to play XXXX XXXX and say well how about you accept {$250.00} in return and forget the {$410.00} your being charged. I refused and have attempted to resolved with many calls. Even after providing proof of the return of products to the merchant the citi bank is refusing to issue the charge back and attempting to charge me for items because they said we are unable to reach the merchant. Because they do not answer the phone. That is not my issue or concern. They are a big financial institution and can hire collections agents to go knock on the business doors or levy a lean against them for money owed hit to be complicit with this fraud is unconscionable. \n\nXXXX XXXX  is the merchant and Citi Bank is the credit card company assisting in this fraud."
+}

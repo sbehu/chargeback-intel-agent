@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1135",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "17011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13320,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called Barclays to dispute a charge on my card. The rep told me that he would have to cancel the card. I told him that I did not recognize the name of the vendor and that I needed more information. He refused to give it to me and also refused to reverse the charge unless I cancelled my card. Barclays fraud detection should have picked this up. I was out of the country when the charge was made."
+}

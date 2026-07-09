@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9152",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94404"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23204,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary of the Issue : I am filing a formal complaint against Citi regarding gross mishandling of XXXX XXXX tickets booked through the Citi Travel Portal. Due to system errors on Citis Travel portal, I was unable to complete or correct my booking, despite following the instructions of Citi Travel agents. Citibank promised the travel credit upon cancellation, which has never been issued, leaving me financially harmed. Citi then improperly closed my dispute, reversing temporary credits without resolving the underlying problem. \n\nDetailed Timeline : XX/XX/year> : Attempted to book XXXX XXXX tickets via Citi Travel Portal. Multiple system errors occurred before a booking finally went through. Spent hours in dealing this simple flight booking. \n\nXX/XX/year> : Contacted Citi Travel over the phone to try to modify the flight tickets. The agent confirmed the portal could not modify the booking and need to cancel the tickets. The Citi agent confirmed that the cancellation of the flight tickets would incur about {$450.00} cancellation fee but we would receive the travel credit of the remaining balance. We asked if the travel credit would be back to the Citi travel portal account or to my XXXX XXXX account, the agent confirmed that the travel credit would go to my XXXX XXXX account for future use. After he confirmed about the travel credit, we authorized him to cancel our flight tickets. \n\nXX/XX/year> : Travel credit is invalid to use at XXXX XXXX. Called again ; agent promised to fix the issue and give me a call back within the same day. No callback was received. \n\nXX/XX/year> : Called again. Citi representative advised file dispute due to case. A dispute was filed under XXXX XXXX : XXXX. \n\nXX/XX/year> : Citi closed the investigation, reversed the temporary credit, and claimed the case was resolved even though my travel credit remain invalid and not able to use at all. \n\nXX/XX/XXXX, I called Citi Bank again regarding this issue. The representative stated that this is a Citi Travel Portal problem and that she had no authority to take any action. However, the Citi XXXX XXXX is the default OTA when booking travel with this Citi credit card, which Citi Bank issued. Despite this, Citi Bank claims no responsibility for the portals failures. The representative attempted to transfer me to a Citi Travel Portal agent. That travel agent identified himself as XXXX XXXX When I provided my account information, he hung up the phone and never called back. This incident is yet another example of the repeated failures and lack of accountability I have faced while trying to resolve this issue through Citi and the Citi Travel Portal. \n\nEvidence Supporting My Complaint : Screenshots from XXXX XXXX showing invalid credit. \nRecorded phone calls with Citi Travel agents following their instructions. \nCall logs documenting repeated attempts to resolve the issue. \nScreenshots from Citi Travel Portal showing error system Why Citis Actions Are Unacceptable : The problem was caused entirely by Citi Travel Portal system errors, not consumer error. \nCiti Travel agent confirmed there would a travel credit with XXXX XXXX, which was never valid to use. And Citi kept pushing me to contact XXXX XXXX instead of admitting this is actually Citiank 's own issue. \nCiti reversed the temporary credit without providing the service or credit promised. \nMultiple agents failed to follow up or resolve the issue, demonstrating systemic mishandling. \nClosing the dispute without resolving the underlying issue constitutes a breach of duty and failure to provide promised services. \nCitibank should have informed customers that Citi travel portal is an outsourced agency before customers enter to book the travels."
+}

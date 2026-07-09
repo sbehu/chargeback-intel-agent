@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4058",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78552"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27221,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went into a website to reserve a hotel. I clicked to the advertised hotel rate but when I entered credit card information to complete purchase the rate was different so I cancelled the transaction or so I thought. Next I thought to go back to make a second attempt at the rate I wanted and try again but the exact same thing happened. Next I see two emails for reservations. So I proceed to cancel the reservations because the website had stated to cancel by a certain date to cancel reservations without penalty so thought no problem I will cancel reservations as it was all within the hour I had tried to make reservations at the rate I wanted. So at cancellation, the website says if I cancel it will be charged. I immediatley call the credit card company to report the fraud and they assured me I was a vicitm of a scam. I have made several reservations in the past with no issues. I follow up today with the credit card company as this has been almost a week since I tried resolve the matter. \n\nI did not authorize these charges. I canceled the transaction during the process, but the credit card company explained that since I provided my information, it would show up on my account. They said it would be investigated as a scam or fraud rather than an unauthorized transaction. I clarified that I did not click to approve ; I hit cancel, believing the transaction had not gone through. After receiving an email about the transaction, I attempted to cancel through the email, but it warned that I would be charged if I did so. Consequently, I immediately called the credit card company. \n\nDuring that call on Wednesday, XX/XX/XXXX, I was assured that the issue would be resolved that same night. However, when I called back today, I was informed that it is now classified as an investigation and may take 60 to 100 days. I am concerned that the charges, which amount to nearly {$700.00}, will ultimately fall back on me despite my lack of authorization. I did not agree to these charges. Additionally, the company stated that they would cancel my current card and send a new one, but I have yet to receive it."
+}

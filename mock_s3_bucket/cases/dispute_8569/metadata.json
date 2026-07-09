@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8569",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MN",
+    "complaint_zip": "55406"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3171,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Rented a property on XXXX from XX/XX/year> to XX/XX/year>. Property found not cleaned including mice droppings and signs of mold around water damage. Host refused to cancel booking after we vacated on XX/XX/year>. XXXX stated I would be refunded for unstatyed nights. After the third call to XXXX asking for a status and XXXX saying they were working on it, I submitted a charge back via Barclays. On the XXXX call to XXXX after 4 hours I was told I was not eligible for a refund because the booking period had passed. \n\nI submitted the documents to Barclay 's who sent me a letter denying the chargeback citing the cleanliness clause and nonrefundable. The majority of the information in the documentation done by Barclay 's is inaccurate and is not what I told them. I am currently unable to speak to a supervisor as they request any documentation is faxed or mailed.\n\nHowever neither Barclay 's or XXXX have provided the policy on vermin/mice despite my repeated requests as that falls out of general cleanliness scope."
+}

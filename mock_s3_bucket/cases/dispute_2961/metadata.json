@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2961",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44128"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13008,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I had purchased an excursion package from XXXX XXXX XXXX for XX/XX/year>, in the amount of {$210.00}, that day. However, the water excursion in XXXX was cancelled due to weather restriction. I had requested for a refund, but Barclays has not refunded me for the cancelled excursion. I also inquired about a charge of {$84.00} from the merchant ( XXXX XXXX ) on the same day XX/XX/year> I had not received any proof of purchase regarding this transaction nor signature to verify the item."
+}

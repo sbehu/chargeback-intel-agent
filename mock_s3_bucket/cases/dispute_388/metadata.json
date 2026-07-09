@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_388",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33023"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25444,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In the month of XXXX, when I was going to make the payment, I noticed a charge for XXXX and I called Barclays bank and reported that I had not made that purchase. They told me that they were going to investigate which merchant it was. They delayed a month and sent me the first letter on XX/XX/XXXX saying that they contacted the merchant and it was XXXX XXXX that I had authorized that purchase. I contacted the XXXX XXXX department and that purchase was made by the website because they hacked my XXXX XXXX account and they made two Encisos but only one was approved by the bank. On XX/XX/XXXX a fraud case was opened with XXXX XXXX and they gave me case number # XXXX to give to Barclays bank. On XX/XX/XXXX I went to the police and made a report about the fraud. On XX/XX/XXXX I sent them the police report by email and Bayclays Bank opened a case again to investigate. On XX/XX/XXXX they sent me the same letter again that I have to pay the XXXX because they contacted the merchant the same people that they have told me during the months I called them again, spoke and explained to them what type of investigation they did when there is an open case with a police report and XXXX XXXX also has a fraud report. They told me the same thing, we are going to open another case and they do not resolve anything and the charge is on the card"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_685",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20689,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed a charge on my credit card for {$68.00} dated XX/XX/2023 to a company in XXXX XXXX. I've never been to XXXX and it was clear to me that this was a fraudulent charge. I opened a billing dispute with Citi on XX/XX/XXXX stating that I didn't recognize the charge or the merchant and requested a refund of the charge. According to the timeline provided by Citi, they contacted the merchant on XX/XX/XXXX and gave them 30 days to provide proof of the charge being legitimate. On XX/XX/XXXX the merchant responded with some kind of record of an electronic charge. On XX/XX/XXXX Citi notified me that they had determined the charge was legitimate and I was responsible. However, looking at the information provided by the merchant, someone named \" XXXX XXXX '' with the email address \" XXXX '' made the charge in XXXX, XXXX. That is not my name, not an email associated with me, and I've never been to XXXX and don't know anyone there. It's very clear to me that this is a fraudulent charge and I'm not sure how Citi could have determined it's \" legitimate '' when it's clearly fraud."
+}

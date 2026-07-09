@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5406",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "801XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29996,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "So during XXXX  we had booked a XXXX XXXX XXXX XXXX. We were going to save the credit for the cancelled trip but was worried if they would even still be in business. So we requested a refund. The total trip was XXXX. When the refund was processed it arrived in XXXX transactions which made it really hard to track down in the total of XXXX. We were still short of XXXX. XXXX XXXX says the amount was on The Invoice/Trace ID is XXXX and the reference number is XXXX. But no one has any record of this."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9580",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90046"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31878,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or about XX/XX/year>, I used my Citi business debit card to purchase an airline ticket through XXXX for a flight departing to XXXX XXXX. The ticket was sold to me approximately 45 minutes before the scheduled departure time.\n\nAfter the purchase, I learned that the airline requires check-in at least 90 minutes prior to departure, meaning the ticket was impossible to use at the time it was sold. There was no realistic way for me to check in or board the flight. \n\nI contacted XXXX and requested a refund or explanation, explaining that the ticket should not have been sold after the airlines check-in cutoff. XXXX refused to refund the charge and responded only by citing cancellation policy terms, without addressing the impossibility of using the ticket. \n\nI then filed a dispute with Citi, providing evidence of the booking time, the airlines check-in requirements, and XXXX  correspondence. Despite this, Citi denied my dispute three times, repeatedly classifying it as a cancellation policy issue rather than a service-not-provided / invalid sale dispute.\n\nCiti has not meaningfully reviewed the evidence or corrected the dispute category. I am requesting that Citi reopen and properly review this dispute under the correct classification and explain why a ticket sold after check-in cutoff was treated as a valid, cancellable service."
+}

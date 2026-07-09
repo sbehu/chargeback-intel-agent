@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2855",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41911,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased this airline ticket for a young traveler that needed to prove he had a return ticket back to his home country of XXXX. When the return ticket was presented to the outbound carrier, XXXX XXXX,, they denied him the ability to continue his travel to XXXX on a connection stating the airline ticket was from a company called XXXX XXXX which XXXX XXXX at XXXX airport considered an illegitimate company The demanded only passage from an XXXX country airlines would be acceptable. So the passenger was denied boarding to complete his destination and returned back to XXXX. I had purchased while in XXXX so when I tried calling XXXX, they did not list a phone number for customer service in XXXX. I attempted several times to try to cancel the ticket by website within an hour of purchase, but was unsuccessful. When I returned on XXXX XXXX I Contacted citicard.com for refund but weeks later, they stated that the investigation was complete, but never gave me an explanation as to why they ruled in the merchants favor XXXX charged {$270.00} back on my credit card for services I tried immediately to cancel. I was unsuccessful in doing so, but I made every effort to try to cancel the ticket, in a timely manner, but the XXXX system did not work favorably for me."
+}

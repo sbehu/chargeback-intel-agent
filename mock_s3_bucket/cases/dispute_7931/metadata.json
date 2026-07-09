@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7931",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "88012"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7748,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank credit card dispute made on XX/XX/2025 after CANCELING GOODS/SERVICE because the goods/services were not as described upon arrival at XXXX XXXX XXXX for {$2300.00} . After numerous back and forth correspondences between Citibank and XXXX XXXX XXXX, my credit card dispute was denied because the merchant told Citibank that they gave me a credit/refund. I received a letter from Citibank explaining this dated XX/XX/2025. I called Citibank to let them know I did not receive a credit or refund from the merchant and therefor would not be able to provide them with a \" valid credit slip '' because I did not receive one. I was told by Citibank dispute representative XXXX, that the dispute would be reopened and that they would reach out to the merchant due to the credit/refund not showing on my credit card account. I received a letter from Citibank dated XX/XX/2025 saying that the dispute would be closed \" due to the amount of time that has passed since this charge was first billed, we no longer have any recourse to obtain credit on your behalf. '' I find this unfair and unethical due to the fact that I had no control over how long it took for Citibank and the merchant to resolve this. I responded to all correspondence in a timely manner as soon as it was requested from me. When the merchant told Citibank they had credited/refunded me, Citibank did not go into my account to see if this was true. Citibank prolonged the dispute investigation process and did not follow through with the merchant to get me my credit/refund. I have kept all correspondence and can submit it upon request. \n\nAccording to our previous complaint, that was denied, Citibank states, \" This charge is for a hotel room. The merchant provided the room and deserves to be paid. '' The merchant does not deserve to be paid because we did NOT use the room. \n\nThis dispute was 1 of 2 disputes with this merchant. The merchant split the charges into 2 transactions. The first transaction ( dispute ) was credited to us but the second was not. According to Citibank, the claim was not submitted within the required timeframe BUT they were both submitted at the same time."
+}

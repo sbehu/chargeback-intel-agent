@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7271",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13411,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Unauthorized Charges Despite Card Freeze To Whom It May Concern, I have been a loyal American Express customer for over XXXX years. Recently, I placed a freeze on my card using the American Express app to prevent any further charges. Despite this, transactions are still being processed on the card. \n\nWhen a customer freezes their card or requests a card number change, it is with the clear expectation that no further charges will be authorized. Continuing to allow charges after a freeze undermines the very purpose of that feature. \n\nI am requesting a full investigation into why these charges were permitted and immediate action to ensure that no additional transactions go through. If necessary, I expect the card number to be changed and all unauthorized charges reversed."
+}

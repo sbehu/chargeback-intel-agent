@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2130",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "31904"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29218,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My house was robbed in XXXX while away for my own wedding out of the state. While on the way home we received calls informing us of uses of our credit cards that were clearly not us based on time and location. We went through all of our accounts and got new cards from XXXX and XXXX XXXX and called Citibank to inform them of the incident so it could be resolved. We only use the Citibank card for military moves because thats its only purpose then we pay it off immediately because those are the rules of using the card via the military. Recently we received notices saying we stilled owed money to the card and called to resolve the confusion. Citibank told us about the email we didnt see before and they advised us to send an email of the police report which we did immediately over 2 weeks ago. As of now they havent responded to the report, and a follow up email I send last week Friday."
+}

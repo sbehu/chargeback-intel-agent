@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1465",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22314"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5747,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I filed a dispute for XXXX XXXX XXXXXXXX XXXX for an order placed on XX/XX/year> in the amount of {$1900.00} against a merchant that can not ( a ) legally sell their product within the state of XXXX and ( b ) did not follow through with their warranty, Dispute ID : XXXX. After filing the dispute I was told : \" We're looking into your dispute and will keep you posted on our progress. Remember to hold onto all supporting documentation for 90 days from the date your dispute was opened. '' and that was the only information I was told by Citibank. I was never able to submit any documents or additional information regarding the dispute nor was I given any updates prior to being told, \" Without a valid credit slip, we are unable to intervene on your behalf with the merchant or their bank. If you are unable to provide this, you will need to seek other means to obtain credit. '' They never requested any information and they made no attempt to investigate this dispute, especially when it's a XXXX, an ONLINE MERCHANT for which I have a receipt from the order."
+}

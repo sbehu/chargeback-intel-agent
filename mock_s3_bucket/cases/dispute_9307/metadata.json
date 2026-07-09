@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9307",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29337,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear American Express, I am writing as a long-standing American Express cardmember to respectfully request that my dispute for the XXXX  XXXX XXXX charge in the amount of {$41000.00} be reconsidered and reclassified under the appropriate American Express category for goods/merchandise not received. In prior correspondence, the transaction was characterized as an investment and denied on the basis that such use of the card is prohibited. That classification does not accurately reflect what I actually purchased with my American Express card, nor what was documented in the written agreements with the merchant. This was a payment for tangible grocery inventory that I was promised a portion of, and no part of those physical goods has ever been delivered to me."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6671",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13459,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX charged me for an \" upgrade '' when i never received or agreed to an \" upgrade '' when presented with the invoice the dates of my arrival and departure are wrong when i clearly left the state and have proof that i was no longer there for the night of XX/XX/XXXX as my flight back home to XXXX was on the XXXX. They basically stole {$3800.00} from me. I have opened XXXX disputes with American express given them all the supporting documentation only for them to deny it everytime."
+}

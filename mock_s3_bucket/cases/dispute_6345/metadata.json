@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6345",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33062"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28015,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I made a high-value purchase ( {$36000.00} ) at a live auction hosted by XXXX XXXX XXXX  ( XXXX ), where I was misled into buying several pieces of jewelry and artwork based on false and materially inaccurate representations. The auctioneer claimed the jewelry was XXXX gold ( it was actually XXXX ), that a gemstone was watermelon tourmaline ( it was not ), that the artwork was original hand-drawn sketches by XXXX and XXXX ( they were later confirmed to be mass-produced prints ), and the diamonds were described as XXXX quality but are found to be XXXX. These representations were all made verbally and visually ( including showing comparable items on the auctioneers phone ) in a high-pressure sales setting. \n\nAfter discovering the misrepresentations, I submitted a dispute to American Express in good faith with substantial documentation. \n\nAmerican Express denied the dispute and appeal, incorrectly citing an all sales final policy and failing to properly review or consider the material misrepresentation of the goods, a core protection under their cardmember agreement. The items delivered were not what was promised. Amexs dispute resolution team appears to have treated this as a change-of-mind return rather than a case of fraud and misrepresentation. They did not request clarification, nor did they address the discrepancies in the evidence I submitted. \n\nI am requesting the CFPB to review this matter and help ensure Amex appropriately honors its consumer protection responsibilities by reconsidering the dispute based on the actual merits and documented misrepresentation, not blanket policies that do not apply to fraudulent sales."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4315",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94533"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2743,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a JetBlue Card plus from Barclays Bank. A feature of the card is the ability to transfer card balances to the Jet Blue card from another credit card. Upon applying for the credit card, I transferred a portion of my XXXX XXXX card  and XXXX XXXX card. \nJet Blue stated that my account was pending at the time of application, so during that time I actually paid down the XXXX credit card. JetBlue added $ XXXX to my XXXX account which caused a positive balance over $ XXXX. In the mean time the Jet Blue credit card is listed on my credit report as 97 % over the balance. I personally contacted both XXXX and JetBlue to reverse the credit to the XXXX account, this took several weeks to accomplish over the phone. XX/XX/XXXX, I received a letter stating the XXXX balance was transfered. I checked the online account for the Jet Blue account and both credit card balances are on the card. The credit from the XXXX has not been applied. In fact, my credit score went down because the jet blue credit card has been reflecting a 97 % usage rate. The improvement of my credit is why I applied for the Jet Blue credit card. Jet blue is reporting erroneous information based on issues they have caused."
+}

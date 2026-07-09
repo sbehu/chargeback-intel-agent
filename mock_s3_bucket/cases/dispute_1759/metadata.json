@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1759",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60423"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39759,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX - Home Depot credit card statement received with three charges, two of which were fraudulent/unauthorized. Immediately contacted Home Depot fraud hotline to report unauthorized charges. Representative XXXX took report and cancelled card. \nXX/XX/XXXX - received confirmation letter from Home Depot acknowledging receipt of fraud claim and instituting investigation. \nXX/XX/XXXX- received another letter from Home Depot again confirming investigation proceeding and indicating they would contact for additional information. \nXXXX early XX/XX/XXXX - multiple phone calls made to Home Depot security operations regarding status of claim. Advised investigation pending and no request for further information from us. \nXX/XX/XXXX - received letter from Home Depot advising \" facts and/or information reviewed does not substantiate the claim of unauthorized use of account and determined that we are responsible for the charges in question ''. Upon receipt of letter contacted security operations at XXXX requesting specific basis of denial and what further facts they are requesting from us. None requested but advised their records show a credit card was not used in questioned transactions. Representative indicated the investigation would be reopened. \n\nXX/XX/XXXX - Letter received from Citi-Home Depot indicating account is past due. \nXX/XX/XXXX - received EXACT SAME form letter from Home Depot as received on XX/XX/XXXX denying claim. \nXX/XX/XXXX - filed Identity Theft report with Federal Trade Commission ( report # XXXX ). Contacted XXXX at Home Depot Security Operations to advise of filing with FTC and received address and fax number for Home Depot fraud research department. Advised investigation again reopened. \nXX/XX/XXXX - sent fax to Home Depot Security Department XXXX with copy of FTC identity theft report. \nXX/XX/XXXX - mailed letter to Home Depot fraud research department ( as per attachment ) denying charges in question were made by us and demanding our file. \nXX/XX/XXXX - received letter from Home Depot confirming investigation again reopened. \nXX/XX/XXXX - letter received from Citi-Home Depot indicating account past due and threat information may be reported to credit bureaus. \nXX/XX/XXXX - letter from Citi-Home Depot requesting payment. \nXX/XX/XXXX - letter from Citi-Home Depot again requesting payment. \nXX/XX/XXXX - form letter received from Home Depot same as previous letters stating investigation does not substantiate our claim and we are responsible for charges and investigation complete. File never received as requested and no additional information requested of us. \nNumerous calls requesting payment ; relate to rep our denial."
+}

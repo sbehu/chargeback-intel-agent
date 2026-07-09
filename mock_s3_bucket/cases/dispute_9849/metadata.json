@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9849",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85255"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17769,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased several apparel items from a XXXX company called XXXX XXXX. They advertise all over social media. The items arrived and multiple items were damaged or poor quality on arrival, one was too small for the size ordered, and several other items were very poor quality. I immediately and multiple times reached out to XXXX XXXX to initiate a return. I have these documented emails. They ( XXXX XXXX ) emailed me back but instead of replying to me on the same email I sent, they sent a new message each time and sent it to the WRONG email, so obviously, I never received it. Then, it appeared to me that they never responded, I filed a dispute with American Express. American Express reversed the charge while they investigated, but they just took the word from the company XXXX XXXX that they did everything they were supposed to do, put the charge back on my account, and closed my dispute. I reopened my dispute and appealed to them again, saying that the items were not what was advertised, were defective, wrong sizing, and poor quality, and explained to AMEX that XXXX XXXX never contacted me because they used the wrong email. AMEX again closed my dispute and put the charge back on my account. I have no recourse here for something so simple..... I reached out to XXXX XXXX XXXX do a return, they never contacted me to complete it ( because they emailed me at the wrong address in return ) and I'm stuck with goods that don't fit/work and AMEX won't do what they should here, which is to say that this is not proper behavior on the part of the merchant. I am attaching my correspondence with AMEX on this issue, which sufficiently explains the problems. Thank you for your help."
+}

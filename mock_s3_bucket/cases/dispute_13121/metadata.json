@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13121",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27410"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15990,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Formal Complaint Regarding Violation of the Fair Credit Billing Act ( FCBA ) - Billing Error ( Unapplied Credit for Returned Merchandise ) Citi Case ID XXXX Background : I am filing this complaint against Citi for its failure to resolve a clear billing error under the Fair Credit Billing Act ( FCBA ), 15 U.S.C. 1666. On XX/XX/year>, I returned merchandise to the merchant. \n\nDocumentary Evidence of Return : Proof of Delivery : XXXX Tracking XXXX confirms the merchant received the returned goods on XX/XX/XXXX. \n\nMerchant Admission : In a recorded chat on XX/XX/year>, the merchant representative ( XXXX XXXX XXXX explicitly confirmed receipt of the goods and stated, We processed the refund to your XXXX on XX/XX/XXXX. \n\nNature of the Dispute : Despite this overwhelming evidence, Citi has closed the dispute in the merchants favor based on a demonstrably false claim that the merchandise is still in my possession. This is factually impossible as I have provided the bank with the XXXX Proof of Delivery and the merchant 's own confirmation of receipt. \n\nRegulatory Violation : Under the FCBA, a creditor must conduct a reasonable investigation into a billing error. Citi has failed to meet this standard by ignoring the physical proof of return and the merchants own admission of a processed refund. The merchant has failed to execute the transaction they confirmed, resulting in a missing credit on my statement."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1793",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "979XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39271,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "After resolution of fraud with 'citibank XXXX card in XXXX, further fraud charges were made in XXXX Apparently XXXX, XXXX and XXXX Of XXXX. I received an e-mail XX/XX/XXXX of XXXX notifying me of this matter, I am remitting this further fraud and have closed 'best buy ' citibank XXXX XXXX XXXX XXXX XXXX XX/XX/XXXX to prevent further fraud."
+}

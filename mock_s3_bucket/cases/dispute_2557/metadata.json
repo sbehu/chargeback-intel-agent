@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2557",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VT",
+    "complaint_zip": "5452"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43096,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Problem began XX/XX/XXXX with an XXXX XXXX purchase that I canceled a few days later. By phone on XX/XX/XXXX I cancelled it. The receipt never arrived via email til the XXXX XXXX, The first charge declined. My card was locked. So I unlocked card and it processed. Amount for ( XXXX ). After charge / & cancellation they credited it back. However on XX/XX/XXXX XXXX XXXX store for some reason beyond my control and after I got a new card number charged my card again twice. For the amount of XXXX ). So then the Barclay company keeps saying that I owe this money and that I was credited this amount to my card. I never received this amount of credit. This was the stores mistake and the amount was credited back to Barclay. This all happened in XX/XX/XXXX. Then I made some purchases on my card in the amount of XXXX XXXX But then mailed in payments from checking account XXXX in the amount of XXXX $ so the balance should have been around XXXX with interest not added in yet. Plus I had some credits prior to earlier months before this had happened.Then finally when I received my XX/XX/XXXX Statement it showed that after the adjustment amounts of that ( XXXX ) that XXXX XXXX has reapplied it again to a card with a new changed card number and it went thru again. Now they are refusing to remove it and have been verbally harassing me for months causing me whom is XXXX emotional stress, XXXX  issues, distractions, causing me more XXXX, XXXX  after I already suffer from this particular XXXX and I have had to reach out to legal aide local lawyers as I feel I have a defamation law suit. I would like this amount removed from my card and at this point would like a call for hardship to end all this manipulation on me and I have been told to report this to the police also I the town of XXXX XXXX Where the store resides. Apparently someone in that local company that works their is committing a felony using me as the victim. This is also going to affect my Credit Report!!! Because this keeps happening to me,,? I need help to find out whos behind this?? Can you help? Please as this had gone no where for way to long and needs to be resolved immediately!!! I will attach this statement for you to see the reapplied amount. Thank you! XXXX XXXX XXXX XXXX. ( Also this XXXX XXXX company has a very bad reviews publicly on their websites review that states ( many customers have paid for merchandise and never even received their furniture after paying!! ) This company in this town needs to be shut down and investigated as they are fraudulently ripping off their local customers to get by which is so sad because it has become one of the top 5 states as being the most expensive to live here and most are doing all they can to get by. So for me being XXXX this is so disturbing at XXXX XXXX XXXX to have to go thru this, Barclay should be looking out for us not arguing with us against us. The customer service representatives are horrible and are not knowledgeable enough to answer the calls. Even the dispute representatives have been extremely rude to me to provoke me enough to be verbally angry at them. However I have apologized many times, for any of my anger to try to resolve this knowing you never get the same person. Please help.Thank you being as honest as I can. previous card number which was the original was XXXX Barclay credit card in my name XXXX XXXX XXXX thank you,"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4200",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "086XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25978,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a disputed account that was resolved in my favor. However, it seems the closed the account, reopened the account, resolved the dispute in my favor, but there are still trail charges ( fees/late charges/interest/etc. ) that is still lingering against a fully disputed and resolved amount that keeps resurrecting the account.\n\nThe told me this would be resolved, but their resolutions are not keeping pace with the speed of the fees being charged against fees and the departments are not pausing the charges. \n\nThe accounts are all closed and are all resolved disputes in my favor, but their fees are triggering news fees against an initial dollar amount of XXXX. Only really financial transactions are from the company triggered automated fees. \n\nIt is feedback loop that won't stop. \n\nThis has been going on since late XXXX."
+}

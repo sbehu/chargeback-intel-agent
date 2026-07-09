@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_687",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77057"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44193,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Around XX/XX/2023, I called Citibank # regarding fraudulent charges that I did not authorize and to close my account. I called again XX/XX/2023 and was passed from one person to another. I asked them to report to the credit agencies and to correct it as it is affecting my credit score and my credit. \nI called Citibank # XXXX, then was asked to XXXX The amount was {$4200.00}. Credit card : XXXX fraudulent charges. \nAnother credit card : XXXX also fraudulent charges- not sure of the amount. \n\nI am so scared to use Citicard again and have not until these issues are resolved."
+}

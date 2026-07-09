@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7288",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23545,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Macy 's card, I opened this card on around XXXX of XXXX I purchased for items my credit limit was {$300.00} dollars, so I asked them how much money did they receive from me they told me over {$800.00} so I asked what am I paying for .I made 1 purchase in XXXX for XXXX and was making my payments they couldn't explain why I have still have an outstanding bill"
+}

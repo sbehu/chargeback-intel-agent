@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_707",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98116"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16515,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To whom it may concern.. \n\nMy complaint is both with American Express and a merchant called XXXX. \n\nSituation : On XX/XX/XXXX I booked a flight on a website called eDreams with XXXX airlines. The flight was scheduled to take off on XX/XX/XXXX from XXXX to XXXX. On XX/XX/XXXX, my XXXX  and I showed up at the proper airport to board our flight and the airlines said they had no record of our tickets and the confirmation that XXXX sent us was not in their system. The airlines checked the records with our names/passports and said there is no record of any flight. \n\nI reached out to XXXX for a refund stating the issue and XXXX said that it was a valid charge since they sent a confirmation email. When we asked them to give us a record of the ticket, they could not produce it and requested us to ask for a refund from the airline. We've reached out to the airline and they don't have any record of our ticket so they aren't able to provide a refund for a ticket that was never issued. \n\nI disputed this charge with American Express 3 times with no resolution. The first denial came when they said XXXX provided a confirmation of the purchase. I re-disputed the charge and American Express agreed that they would cancel the charge if they could find a copy of the ticket. They just responded to deny the dispute with the reasoning that they had found a copy of the ticket. However, the copy of the ticket was for a flight that I purchased directly with the airlines on XX/XX/XXXX. \n\nAmerican Express nor XXXX can provide a copy of the ticket and I have proof from the airlines that there is no record of my ticket. Yet, both American Express and XXXX state that this is a vaild charge."
+}

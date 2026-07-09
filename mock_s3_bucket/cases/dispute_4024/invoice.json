@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-666207",
+  "invoice_date": "2026-03-02T00:00:00Z",
+  "amount_cents": 45345,
+  "currency": "USD",
+  "billing_address": "8356 Maple Way, GA, 30189"
+}

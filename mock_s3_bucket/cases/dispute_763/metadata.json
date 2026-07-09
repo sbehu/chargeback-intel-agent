@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_763",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23606"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42412,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX I looked at my Macy 's statement and seen there was an additional interest charge for a 12-month promotional credit program that expired. The interest charge was {$520.00} for a purchase that was made for {$1600.00} on XX/XX/XXXX for a loveseat that was delivered and sent back because it was damaged. Macys took of the interest charge but not the charged amount. The loveseat was delivered but sent back and my account was not credited. Macy did remove the additional interest but didn't remove the charge for {$1600.00} from my account. I paid the entire balance of {$1600.00}. I've been trying since XXXX of XXXX to get this charge removed and I am not getting anywhere. Macys keep closing the case. I feel at this time there is nothing I can do about it unless I just don't pay my bill. Also, Macys is not allocating the paid monthly payments to the promotional balances evenly. This is causing us consumers to get hit with an extremely higher interest rate. They charge you the interest on the original balance and not what is the current balance. Macy changed the account number. The original account ended in XXXX. Now the account is XXXX. \n\nMacys is continuing to give me the run around. I have been trying to get this removed from my account for over six months."
+}

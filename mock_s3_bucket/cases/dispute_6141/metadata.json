@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6141",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75013"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5944,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX my XXXX received a text saying she owed {$8.00} for a toll in Illinois. She lives in IL and figured it was legit, so she clicked through the link and attempted to pay the {$8.00} with a Citibank XXXX XXXX card. I happened to be on the phone with her right after it happened and immediately recognized it as fraud. I immediately froze the card, but not before they scammers stole the card information and used it to make unauthorized charges in somewhere in XXXX. Citi is saying \" they dont cover scams ''. The card information was stolen via deception and used to make totally unauthorized charges in XXXX."
+}

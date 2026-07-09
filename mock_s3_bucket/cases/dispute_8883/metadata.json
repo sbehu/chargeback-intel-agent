@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8883",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92804"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43096,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed three related billing disputes with American Express for unauthorized or duplicate charges placed by XXXX XXXX XXXX, Attorney at Law on XX/XX/XXXX ( {$9900.00} ), XX/XX/XXXX ( {$10000.00} ), and XX/XX/XXXX ( {$10000.00} ). AMEX initially credited the charges but later reversed all three after the merchant resubmitted the same packet of documents.\n\nThe merchants packet contained : ( 1 ) old retainer agreements from 2022 that never mention AMEX billing ; ( 2 ) a sworn declaration falsely claiming I owed a {$30000.00} balance and made no other payments ; ( 3 ) two conflicting invoices ( {$41000.00} vs {$30000.00} ) created months after the charges; and ( 4 ) Veritext vendor bills addressed to the merchants law office, not to me. None of these show that I authorized these transactions.\n\nAMEXs denials repeat the merchants claim that no refunds were ever promised, even though AMEX already has two written refund confirmations from the merchant dated XX/XX/XXXX and XX/XX/XXXX. I also provided proof of more than {$160000.00} in prior payments that fully covered his services. AMEX never explained how it determined the merchants inconsistent paperwork outweighed my documented evidence or refund emails.\n\nThis violates Regulation Z ( 12 C.F.R. 1026.13 ( h ) ), which requires a reasonable, good-faith reinvestigation of billing disputes. I am requesting that the CFPB direct AMEX to reopen this matter, conduct a senior-level reinvestigation, and explain in writing how it verified the merchants submissions against the contradictory evidence already in AMEXs possession."
+}

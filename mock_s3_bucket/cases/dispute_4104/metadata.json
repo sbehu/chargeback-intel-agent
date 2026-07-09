@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4104",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "65616"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28152,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX and XXXX I called to inform American Express that the charge on my card was fraudulent for {$1000.00} maxing the card out. The charge was not done by me and done without my permission. Upon letting them know that they refused to take any action until the charge posts to the account."
+}

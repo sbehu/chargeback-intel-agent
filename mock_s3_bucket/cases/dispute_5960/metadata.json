@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5960",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60647"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37729,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Monday, XX/XX/XXXX, I was approached by two people outside of a local grocery store. They had clipboards and badges and said they were raising money for a family tragedy. After listening to their story, I agreed to make a contribution of {$20.00}. I offered cash but was told they could only \" legally '' accept credit cards. They asked me for my card to process the contribution and handed me a clipboard to fill out my name, contribution amount and email address, and was told I would receive an email receipt following the interaction. They handed me my card back and told me they were moving on to their next location. I walked into the store, checking my email for my receipt. When I didn't receive one immediately, I was suspicious and checked my Citi account and saw the pending {$5000.00} charge from a vendor I didn't recognize. I used the Citi app to immediately report fraud, closed the card and had a new card issued, and went outside to see if I could confront the solicitors but they had already left. When I got back to my car, I called Citi to make a verbal report of the fraudulent transaction and see if the transaction could be flagged as suspicions or even cancelled, or if there was anything else I could do to keep it from being processed ( as it should have never been approved given my historical Citi account activity ). I was told it was not possible to cancel the transaction and that I had to wait for it to be posted to my account before any additional investigation could begin. That same day, I submitted a police report to the XXXXXXXX XXXX XXXX ( attached ) to ensure the local authorities were aware of the scam. I have also provided a detailed schedule of my Citi interactions below in which I attempted to resolve this issue ( which should all be available to track in the Citi systems ). \nXX/XX/XXXX, XXXX : fraud incident occurred outside XXXX XXXX XX/XX/XXXX, XXXX : reported fraud thru Citi app XXXX disputed the charge immediately and cancelled the card XX/XX/XXXX, XXXX : called Citi customer service XXXX XXXX ), reported the fraud and was told I had to wait for it to hit my account before investigating the claim XX/XX/XXXX : submitted incident report online to XXXX, received approved case number XXXX XX/XX/XXXX, XXXX : called Citi customer service XXXX XXXX XXXX, asked to be transferred to fraud team, spoke to someone briefly who told me the same thing as previous call, I asked for a supervisor, got disconnected after waiting XX/XX/XXXXXXXX XXXX  : called Citi customer service ( XXXX XXXX XXXX asked to be transferred to a supervisor in the fraud department, spoke to someone who asked me some additional questions about the charge, reiterated nothing could be done until the charge processed, and took note of the police report XX/XX/XXXX : Fraud claim noted as resolved and reimbursement denied XX/XX/XXXX, XXXX : called Citi Security Operations ( XXXX XXXX to ask why claim was denied, that I disagree with the decision and asked if I could escalate. Explained the situation again and was told the case was being reopened for further investigation XX/XX/XXXX, XXXX : called Citi Security Operations ( XXXX ) to follow up on the previous week that the investigation would be reopened. Talked with XXXX. Had to explain the situation again. Transferred from fraud dispute to billing disputes. Opened new billing dispute and told an investigator will be assigned and that I will receive at conditional credit of the full amount pending resolution of the dispute. I was told I would hear from someone in 7-10 business days XXXX XXXX  Received an email notification from Citi with a request for additional information regarding the dispute"
+}

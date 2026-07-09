@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7885",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "282XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3024,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi XXXX XXXX XXXX XXXX card statement shows four charges from a merchant, but both the merchant and I have confirmed there were only three items purchased and there should only be three charges. Citi refused to refund the fourth charge. They said as courtesy theyd refund 40 %. Ive been a customer for almost a decade and have paid my bill in full every time."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_257",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "50131"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33643,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a hotel room through XXXX XXXX XXXX on XX/XX/2023, order # XXXX. XXXX XXXX XXXX advertised on their website best rate guarantee policy. I arrived at the hotel and the room was actually less than what XXXX XXXX XXXX charged at {$170.00}. I made a claim on the best rate guarantee on XX/XX/2023. In the morning of XX/XX/2023 the hotel room was infested with ants and bugs. I let the front desk know of the issue and they said they would let the bug guy know. XXXX XXXX XXXX posts on their website the procedure you have to follow to make a claim on the best rate guarantee. It lists an email address that you have to write to with the details. I did. At the end of that email is another email address you have to email and I did. Then there was another email to write to and that box does not respond and no one answers that email box. So I moved on to disputing the charge with Barclays XXXX, which asked for more information which I supplied by certified mail twice. Barclays card attempted to confuse the issue by disputing a different charge of {$170.00} which I did not dispute, that charge is paid. I asked for a refund based upon the published best rate guarantee by XXXX XXXX XXXX of which XXXX XXXX XXXX has dishonored their own published policy. I have spent XXXX hours preparing documents, printing emails, researching, mailing and making phone calls times {$400.00} an hour is {$1400.00} plus certified mails costs of {$9.00} and {$10.00} on the refund on XXXX XXXX XXXX order # XXXX of {$170.00}."
+}

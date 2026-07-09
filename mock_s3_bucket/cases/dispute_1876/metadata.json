@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1876",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "773XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46225,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dealing with Home Depot 's credit card customer service through Citibank has been nothing short of a nightmare. They lowered the credit line and the card was lost and used fraudulently. Now I am over my credit line and this is causing my XXXX XXXX to take a negative hit and affecting my everyday life. I want this account closed immediately and I want Home Depot Credit services to never contact me again. Only communication in writing. Close this account immediately and I will be getting legal involved to get this removed from my credit reports"
+}

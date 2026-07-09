@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1452",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55109"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21973,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was sold a ticket for an event that advertised goods and services at specific locations. On the day of the event, I went to the check in locations and they were closed. I went to the other location advertised on the ticket sale, and the staff there told me the event did not exist. I also collected an email from that business that verified the seller had asked them to partner and hold and event, but that the business turned them down. The seller sold tickets with this company listed as a cohost when the event was never approved. \nI reported this to my credit card company, Barclays, on XX/XX/XXXX. I sent Barclays a copy of the ticket page that had this vendor special on the ticket sale, a copy of the businesses email stating they never agreed to hold the event, pictures of the closed locations I could not access, and several other customer complaints that their tickets weren't honored and that businesses said they did not have an event. Despite the fact I did not receive the services I paid for, Barclays says the scammer sold non-refundable tickets. They said that even though the businesses were closed and/or verified they did not agree to hold an event- that I have no recourse because the ticket was nonrefundable. In addition, the Barclays employees have lied to me on several occasion by telling me my case was open... when it was not. I spoke with Barclays dispute team on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX ; each time I was told by a Barclays representative that they could see this evidence, that it was \" strong evidence, '' that my case had been reopened, and that the delay in a resolution was due to the fact that the Dispute team was busy. When I called on XX/XX/XXXX I was told the case had never been reopened, but that all the documentation was still available. I was not provided a sufficient response as to why I was misinformed for the past several months. When I asked for information about submitting a complaint to investigate the Barclays employees, they told me Barclays does not have a legal department or HR department. When I asked for proof my complaint was filed, they told me they were not allowed to send it to me. Barclays is not using reasonable time or judgement to address my dispute, and they are withholding information from me that I've requested."
+}

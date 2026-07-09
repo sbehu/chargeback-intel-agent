@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3921",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98038"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35664,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, XX/XX/XXXX. I was billed for a service I had used in the past, but not that year. It was XXXX parental security software. XXXX billed anyway. I asked American Express to block the charge and the vendor in XXXX. I asked American Express to block future charges from XXXX. However, in XX/XX/XXXX, a new charge was on my American Express card and American Express said they have no record of a block. If you have a charge, your options are to leave American Express or request or new card with a new number requiring you to update all of your bill pays from that card. American Express does not provide good options nor does it protect you from former vendors."
+}

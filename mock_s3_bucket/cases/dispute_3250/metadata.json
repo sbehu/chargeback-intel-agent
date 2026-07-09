@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3250",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "780XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13100,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I PAYED OFF MY LAST BILL. But they say that they got bill late. I mailed it on time. Now whether mail is slow or accidents in mail is not my fault. So they charged me for late fees & keep sending bill for late fees. I did call accounting & tryed to resolved. Forgot day & time but did talk to a gentleman to resolve. I told him close my account. They have it recorded. I want to stop th from harrassing me for a Card i finished paying off. Appreciate your help. \nXXXX XXXX XXXX"
+}

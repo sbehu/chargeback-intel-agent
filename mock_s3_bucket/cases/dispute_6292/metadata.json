@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6292",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "78633"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7883,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I attempted to purchase airline tickets from XXXX  XXXX using my Citi credit card. The booking failed twice during the payment process, and no tickets were issued. However, both failed attempts resulted in pending charges over {$14000.00} each on my Citi card. These authorizations have now been pending for XXXX full days, tying up nearly {$30000.00} of my available credit. \n\nI contacted Alaska XXXX, and they confirmed that the transactions were never completed and no charges were captured on their end. Because of this, they are unable to assist they can not reverse a charge they never received. \n\nI contacted Citi multiple times and requested they release or expire the authorizations. Citi refused and told me the pending charges could remain for up to 30 days, even though the merchant has not captured them. This is unacceptable given the high dollar amount and the fact that no goods or services were rendered. \n\nI am asking the CFPB to help get Citi to : Release the pending holds, or Escalate the issue to a team that can intervene, and Acknowledge that these transactions should not be tying up my available credit for XXXX  days due to a merchant error. \n\nThank you."
+}

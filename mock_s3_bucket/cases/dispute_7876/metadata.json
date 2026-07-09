@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7876",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39198,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX I retired and applied for my social security benefits. In XXXX, I received a letter from Medicare for my Medicare XXXX XXXX  premiums for XXXX XXXX XXXX for {$180.00} per month. The total was {$740.00}. I paid it using my Barclays credit card. A few weeks later I received a benefits letter from Social Security stating that the XXXX premiums will be deducted from my monthly benefits. My monthly income from social security is $ XXXX {$180.00} for my premiums = {$2600.00}. I called Medicare, they said I need to wait until XX/XX/XXXX to refund my upfront payment of {$740.00}. They said go through your credit card to dispute the charge. XX/XX/XXXX I filed a dispute with Barclays. I sent 2 sets of evidence which they claim they never received. They closed the dispute. I sent additional evidence which they rejected, a letter from social security stating that the premiums will be deducted and I also sent screenshots of my account showing the deduction. They continue to reject it. I asked what specifically do you want. They are vague. Today I spoke to them for an hour. The woman said she agreed with me but she doesnt make the decision, its a person in the back office that will need to talk to me. However, because I sent info that they didnt receive and then they rejected it without any opportunity to respond, my case has been closed. She said she will ask someone to call me back in 24-48 hours. My experience with calling them constantly asking for a callback has been 5-7 days. I asked what was Medicares response? She had no info on that because they didnt ask them! They have not resolved this in good faith. I have been ignored and the complaint has not been done fairly. I call them a couple times a week and its always the same response, I dont have access to your documents, a manager will call you in 24-48 hours which actually is 5-7 days. I need that money. Im living on a fraction of my wages since retiring. I can not wait until XX/XX/XXXX for the refund. I have been double paying. They have NEVER given me any information on what documents I can provide to resolve this case in my favor. They just keep closing it without explanation. I am paying this by other means as stated in the dispute, {$180.00} a month deducted from my monthly social security check."
+}

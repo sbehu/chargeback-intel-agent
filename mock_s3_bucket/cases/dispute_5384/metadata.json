@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5384",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33579"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11250,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Below are the details of a purchase I made using my American Express card in XX/XX/year> for compounded medication sold by a telehealth company called SlimDownRx. The pharmacy they used to fill the order is called XXXX XXXX, based in XXXX XXXX, FL. \n\nThis medication was compounded illegally, as per the Dept of Health in the state of FL. The pharmacy does not have a sterile compounding license, only a pharmacy license. Therefore the medication they sold me is counterfeit and can not be used, again per the state of Florida. American Express has failed to protect my rights as a consumer. I filed a dispute and a second dispute. Despite submitting numerous documents showing that I was sold goods that were not as described, American Express sided with SlimDownRx, the merchant, citing their terms of service as the reason why I can not receive a refund for my fraudulent medication. Below are the details of what American Express received : Merchant : XXXX Amount : {$810.00} Date : XX/XX/year> Dispute Ref # : XXXX Dear American Express , Thank you so much for your help reclaiming {$810.00} from XXXX for goods and services that are not as described by XXXX. The Florida Department of Health has advised me to make my bank aware of the below facts involving this claim : Overview : This chargeback concerns fraudulent sale of counterfeit or illegal merchandise. \nThe disputed charges are for prescription medication dispensed by a compounding pharmacy that I recently learned did not have a sterile compounding license to prepare this type of medication I learned this because they are now subject to Florida Department of Health disciplinary proceedings for this conduct.\n\nSince the Department of Health complaint became public, the compounding pharmacy and the doctor who prescribed me the medication have claimed that they acquired the medication from a third party that did have a sterile compounding license, but they have refused to give me any information about the identify of that alleged third party. \nThey have given names of third parties to other patients, but when contacted, those third parties have denied having prepared the medication. \nThey have stated that XXXX XXXX provided central filled medication as a third party ; XXXX XXXX has refuted this claim ( see attached document ), stating that they only filled an order of XXXX vials of medication in the month of XXXX, which was after I received my order. \nThe product was illegally manufactured and illegally shipped to me. I purchased it based on the doctors misrepresentations about its sources. \n\nXXXX XXXX has since relinquished its license and is no longer compounding medication due to the ongoing invenstigation. \n\nPlease see the attached documentation outlining the Dept of Health 's recommendation not to use this medication, as well as other supporting documents. \n\nThank you, XXXX XXXX"
+}

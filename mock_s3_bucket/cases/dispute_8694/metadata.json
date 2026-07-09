@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8694",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KS",
+    "complaint_zip": "67846"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10818,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025 I made a purchase at XXXX XXXX for {$290.00}. The item proved to be defective so I immediately returned it. XXXX XXXX said they refunded the purchase price. I waited several days and the credit did not show up but the purchase cleared. I then filed a dispute with CitiBank for that purchase. Several day later the XXXX XXXX credit showed up so I withdrew my dispute. Since I withdrew my dispute Citibank is now telling me that all monies for this transaction with XXXX XXXX are being sent back to XXXX XXXX. During this process Citibank has made multiple adjustments to this XXXX XXXX transaction and I can not keep track. I have attempted to contact Citibank but they have converted to a non-human system that half the time information has to be repeated multiple times. If you are lucky to get a live person the accent makes it impossible to understand. All I want is a detailed account of all transactions on my Citibank Credit Card since XX/XX/2025. Including credits and chargebaks."
+}

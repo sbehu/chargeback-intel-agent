@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5834",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94553"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2322,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card with Barclays XXXX XXXX was stolen in XXXX and multiple transactions were made. I did not notice the card was stolen because I had no notifications of it being used like other credit card companies do. I noticed that I had a payment due on the card in XXXX on XX/XX/year>, which was strange because I hadnt used the card over 5 months. When I saw the statements I called them to let them know there was fraud on the card. They said they would open an investigation XX/XX/XXXX. Now in XX/XX/XXXX I am still disputing the charges. I have asked to send them documentation of my own transactions so it can show I was in my own city and they said they cant use that information. My credit score has now been affected, showing I have a high balance on my cards, Im getting charged high interest charges. Im making payments on the card that are over {$180.00} dollars and its not going towards the amount that I have used for my own personal transactions but to the fraud charges."
+}

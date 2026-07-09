@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6995",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37379"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28945,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I visited the XXXX XXXX XXXX on XX/XX/25 to kill some time prior to our flight home that evening. We arrived at the XXXX XXXX a little after XXXXXXXX XXXX  and purchased 2 tickets for a XXXX XXXX XXXX XXXX XXXX entry time. The total for the 2 tickets was {$94.00} and we were given an entry time of XXXX XXXX after the tickets were paid for. While waiting on our entry time, we noticed the line to access the elevator to go up to the observation level had grown significantly and was actually outside of the building. We started to get concerned with the time we had left and asked a staff member how long it was currently taking from your entry time to getting to the elevator and was quoted with an estimate of at least an hour. We knew at that point that we were not going to to have enough time to wait for the elevator and experience the attraction and be at the airport in time for our flight home. We visited the XXXX XXXX and spoke to a very friendly staff member who advised that they couldn't sell us an earlier entry time ; however, they could offer a full refund given the long wait time and our circumstance. We graciously accepted the refund and the staff member scanned our tickets, asked for the credit card we used for the transaction, and provided us with a receipt showing the ticket transaction was voided and a refund was issued ( this has been attached below ). The staff member indicated it could take up to 3 business days for the refund to show on my credit card account.\n\nUpon paying my credit card bill this month, I noticed that the credit was never applied to my account, so I submitted a dispute for the transaction to Citi. I gave them a copy of the receipt that was given to us by the XXXX XXXX. A few days later, they asked for additional information for the dispute. I completed their form and provided a detailed explanation as to what happened and why a refund was offered. Given the XXXX XXXX only provided the receipt to us, I again submitted this and highlighted the portion of the receipt that clearly noted the transaction was voided and refunded. A few days later, Citi denied my dispute noting sufficient evidence was not provided to support it and indicated I should contact the merchant for further assistance. \n\nI emailed the XXXX XXXX XXXX XXXX XXXX XXXX on XX/XX/25 and received an automated response indicating they would review and respond to my inquiry within a day. At this time, I have not heard back from that. Additionally, I have called the XXXX XXXX XXXX number provided on the website at least 5 times now and there is no option to speak directly to someone there, just an option to leave a message. The recording also ironically states the quickest way to contact them and receive a response is by sending an email. There have been reports of similar issues with refunds posted on review sites such as XXXX and XXXX XXXXXXXX, so it is clear that my situation is not an isolated incident and the XXXX XXXX has an issue with customer service and keeping its word."
+}

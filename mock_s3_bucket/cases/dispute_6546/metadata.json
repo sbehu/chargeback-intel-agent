@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6546",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "023XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8686,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b\"On XXXX XXXX XXXX I received my monthly statement from Citi business Visa card and saw a charge for XXXX XXXX XXXX  made on XXXX XXXX XXXX.  The charge said XXXX XXXX  payment XXXX XXXX XXXX. I do have my cell phone with XXXX XXXX XXXX XXXX and spoke to customer service and asked them about the charges on my credit card.  She informed me that they keep record of any purchases on all XXXX  accounts and there was nothing on my account that showed I had purchased or paid for anything in that amount to XXXX.  She informed me to call my credit card company and dispute the charges and change my credit card because someone had used it without my authorization.  I then called Citi visa and explained to customer service what happened.  The woman filed a dispute on my behalf and cancelled my credit card.  They temporarily reversed the charges and said they would need additional information.  I was sent a request for the additional information which I promptly returned to VISA explaining what happened.  A few weeks later I was sent a letter stating they had completed their investigation and couldn't rule in my favor because they did not have enough information.  I then called and spoke to numerous people who continued to pass me off and finally had someone say that they would review it and get back to me within 10 days.  A few hours later I received the same exact letter stating they did not have enough information to rule in my favor.  I called XXXX again and was told the same thing as the first time I called. There were no purchases on my account for XXXX and that my account did not even have a credit card number on file as my bill is paid through my checking account.  I did, however, purchase a phone from XXXX on XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  and used my credit card to pay for the phone. XXXX XXXXold me to ask Visa what additional information they would need from XXXX to back up that the item purchased was done without my permission and not on my account.  I called Visa back and was informed that the dispute was closed and there was nothing they could do about it.  They said I was an existing customer of XXXX  and therefore they couldn't say I didn't make the purchase because I had a relationship with XXXX I asked if they could trace where the purchase was made from and they told me they couldn't.  Visa told me they could not reopen the dispute, and their decisions was final.  I am frustrated and don't know where else to turn. I have XXXX backing up what I am saying, and Visa has basically stated because I have an existing relationship with XXXX I have to pay for this purchase. It is a large amount to be responsible for when it is something I did not purchase or authorize anyone else to. Thank you\""
+}

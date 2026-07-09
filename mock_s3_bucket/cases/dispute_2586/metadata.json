@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2586",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "014XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16760,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I visited XXXX to have blood drawn. The tests were covered under my health insurance. The woman at the front desk told me that she would need to take a credit card for anything that the insurance did not cover. ( The insurance covers it all ) She then accidentally charged my card XXXX rather than keeping it for their records. She then told me that she was refunding my card. I noticed this charge had not been refunded as stated on XXXX. I contacted XXXX who wanted my credit card statements. I told them I was uncomfortable with that. I instead contacted Barclays who holds the Jet Blue card improperly charged. There was a communication barrier but I explained that the charge was in error, and that my insurance had paid... I even uploaded them the insurance companies statment. Now i find out with nobody contacting me or anything that they closed my dispute. This should be a simple issue. I did not authorize a charge, and the woman at XXXX did not properly refund the card. Instead, I am many hours into this now awaiting a callback from a manager at Barclays that could come sometime in the next days"
+}

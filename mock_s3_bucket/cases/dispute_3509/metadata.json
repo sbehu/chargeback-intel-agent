@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3509",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80227"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37169,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We have spent several months talking with Barclay 's. Telling them we did not authorize the purchase of award miles and instructed them to close the account. We called them every month we received the statement and were told it was under investigation. They have never revealed their results and have now turned the bill over to XXXX XXXX XXXX. We are contacting The collection agency. \n\nBarclays customer service is in our opinion the worst. I probably should have filed a complaint sooner but this they are unwilling to deal with openly and appear to want to pile on interest and penalties. \n\nWe did not make the purchase and have not benefited from it.. I don't understand why anyone would purchase miles."
+}

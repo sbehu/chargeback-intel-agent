@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4812",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11442,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB Team, I hope this message finds you well. I am writing to formally dispute a charge on my Citibank credit card related to a recent car rental experience that was unsatisfactory and has not been adequately addressed by the financial institution. ( Citibank ) I rented a car in XXXX, XXXX, for a month. Unfortunately, after about a week, the rental vehicle began to malfunction. I reached out to the rental company, but they refused to resolve the issue by providing a replacement vehicle. They have to bring the car to me where I was, they denied doing that. Despite numerous calls and discussions, there was no progress. I was instructed to drive several hours to the nearest airport to obtain a replacement, which I found unsafe and unreasonable. Nearest airport was a 2-3 hr drive. \n\nAs a result, I had to manage the problematic vehicle for nearly 25 days. When it was time for me to return home, I drove the car to the nearest airport, which took an exhausting 5-6 hours instead of 2-3. During this drive, the car frequently overheated and did not shift properly. I finally received a replacement vehicle only at the end of the rental period.\n\nI contacted Citibank dispute department to dispute partly for the amount of the rental and seek a fair resolution, preferably a partial refund, as the service provided by the rental company was significantly lacking. However, several months later, I was informed that Citibank had attempted to resolve the dispute but without success. It appears that they were disputing the entire rental amount of {$2300.00}, which I specifically instructed them not to do. My intention was to have their arbitration department negotiate with the rental company regarding the service deficiencies and lover the amount.\n\nFurthermore, Citibank offered me a {$250.00} credit, which I viewed as a dismissive attempt to close the matter without addressing the core issue. I believe it is crucial for Citibank to take responsibility for this situation and negotiate appropriately rather than dispute the full amount, negotiate the amount as make sense especially since the merchant did not deliver as promised.\n\nI am requesting your assistance in resolving this matter fairly. Thank you for your attention to this issue. \n\nThank you"
+}

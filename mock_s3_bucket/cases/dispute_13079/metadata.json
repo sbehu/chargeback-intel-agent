@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13079",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31026,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute because I never received the merchandise on XX/XX/2026. CitBank changed correspondence from mail to online because I never received the outcome. I called on XX/XX/2026 after receiving an email telling me my payment was late. XXXX told me they closed the dispute because I didnt respond. When making the dispute I told the agent I never received the merchandise. My Best Buy bill never been late, I pay the bill in full before the next month. Citibank is sending credit reports inaccurate rating. To prevent issues I pick up my order from the store to make sure I receive it, they told me they mailed it and I never received the merchandise. On XX/XX/2026 I went to XXXX and they gave me a picture of my porch with no merchandise on it, again I didnt receive the item and didnt sign for the XXXX. This is really troubling because I didnt receive the items."
+}

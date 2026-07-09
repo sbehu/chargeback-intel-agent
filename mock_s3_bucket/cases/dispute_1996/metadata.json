@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1996",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "186XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44069,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XX/XX/year>, my husband and I were victims of identify theft. \n\nWe experienced delivery packages worth thousands of dollars arriving at our front door from XXXX, which we absolutely refused to accept and were immediately reloaded onto the truck XXXX. XXXX corrected the purchases, merchandise was accounted for and all was well. \n\nHowever, a package arrived from Macys. It wasn't ordered by us. Once again we had the carrier open the package. It was a pair of women 's boot worth {$380.00} charged to my account. I refused the package and the postal employee returned it to Macys. \n\nIn XXXX we notified XXXX, XXXX, and XXXX of our situation, We contacted XXXX on three occasions after receiving their letters informing us if this isn't paid they will report us to the three consumer agencies, which are all aware of our XXXX situation. \n\n\n.."
+}

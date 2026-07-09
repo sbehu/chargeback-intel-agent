@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6098",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "OR",
+    "complaint_zip": "971XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34502,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a XXXX American Express XXXX XXXX card where the \" fine print '' terms of the card are purchase protection, 120 day window from LAST transaction, not the first. American express is refusing to dispute the charge in spite of me getting enormous evidence on this service was wrong, inadequate and caused damage to my vehicle. \n\nI had talked to American Express about a previous dispute and ran into similar issues but it was said that for a service, such as vehicle mechanical repair, the terms of 120 days from LAST interaction with the merchant and also where PROOF of damage has occurred. \n\nAmerican Express is refusing to dispute the charge and won't even look at the clear cut damaging evidence. I also had to get PROOF, per their own instructions, and this required me to go to a different mechanic and obtain photos, details and also repairs. \n\nAmerican Express XXXX on their own INSTRUCTIONS for disputes and then insults further the small business owner with condescending platitudes of faux pas empathy. \n\nAmerican Express small business purchase protection is a scam, a bait and switch to lull small business owners believing they are protecting and can be further victimized later by American Express. On the phone with supervisors, they would change the terms and procedures from the original print and previous instructions! Bait and Switch tactics. \n\nFurther I discovered that in spite of being an LLC with an XXXX, American Express is using my personal social security number for this card including credit reporting. That makes this a \" business '' card useless and mute. They also present \" offers '' and if you click on them their website claims you are applying for their product, which of course further damages your credit due to trying to apply for too many credit cards. \n\nFor documents it is by phone and on American Express website including the 120 day window, requiring the business to obtain proof before submitting dispute and contact the business before filing dispute. I did all of this and then they reneged on their own terms and instructions."
+}

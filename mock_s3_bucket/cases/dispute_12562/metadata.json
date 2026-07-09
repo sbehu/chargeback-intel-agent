@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12562",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "640XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46542,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I notified Barclays credit card company that I will be out of country in XXXX from XX/XX/XXXX through XX/XX/XXXX, I also notified our bank. I did make a {$100.00} charge on XX/XX/XXXX but ultimately I was charged {$820.00} on XX/XX/XXXX. I only have a {$2000.00} credit limit on this credit card and there was only less than {$200.00} available. While I was in XXXX from XX/XX/XXXX through XX/XX/XXXX there was multiple charges with varying amounts from $ XXXX, $ XXXX, $ XXXX, & this {$820.00}, and these and other charges were showing up on same day but they were in the pending and they eventually dropped of as declined because I had less then {$200.00} available. The one charge of {$820.00} was approved by credit card company. I disputed this charge on XX/XX/XXXX through my cell phone online because I only had wifi, no cell phone coverage. I was given message that card is canceled and new credit card being mailed. After returning to XXXX on XX/XX/XXXX I called Barclays credit card and they did not have a dispute yet my credit card was canceled and another one being shipped. I attempted to file a complaint through Barclays concerning allowing an {$820.00} credit card charge get approved when that was {$500.00} over my credit limit and I was in XXXX and I informed Barclays on XX/XX/XXXX that I'm out of country. For years I can't make a charge over {$500.00} without calling them first as they get declined. Barclays refuses to investigate why this happened and refers everything to the dispute when it is the credit card company that approved the {$500.00} over credit limit charge while we are in another country. I am dealing with the dispute too and I filed an FTC complaint and a Missouri Attorney General complaint concerning that dispute. For days false charges were be charged to my credit card and were properly getting declined, a clear pattern of charges while I was knowingly out of country."
+}

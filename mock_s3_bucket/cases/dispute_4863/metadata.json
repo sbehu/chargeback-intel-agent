@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4863",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21701"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48437,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I closed an account with Citibank Visa on XX/XX/year> and paid the balance due. The credit card company failed close the account on their end on XX/XX/XXXX, which they verified on a phone call on approximately XX/XX/year>. As a result, some recurring charges went through. These charges were supposed to be cancelled with the provider but did not go through. I then began getting collection calls from Citibank for an account that I believed was closed. I called Citibank customer service on or about XX/XX/year> to figure out what was going on. I was told that they had in their paperwork that the account was supposed to be closed on XX/XX/year>, but they failed to do so. I was informed that they were able to waive all late fees but not the charges. I told them I didn't think I should pay for charges that they were not authorized to accept on my behalf. I escalated to three supervisors and was finally told that the issue would be fixed and I would get a call back in XXXX business days confirming it. I never got a call back. I called yesterday and spent about XXXX minutes on the phone explaining everything to multiple people only to get kicked back to the automated queue. I called today and again explained the situation to multiple people. \nOne person told me that she saw the credits on my account but that for some reason the account was still showing a balance. She asked to put me on a brief hold to figure out what was going on. A man immediately picked up who had no knowledge of my situation. I again explained everything to him. he did not understand and I asked to speak to his supervisor. I explained everything to his supervisor and she hung up on me. They have my cell phone number and I have not received a call back. I feel that the company is deliberately trying to make this as difficult as possible so that I will just give up and pay."
+}

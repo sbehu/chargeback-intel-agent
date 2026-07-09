@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5578",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "GA",
+    "complaint_zip": "30004"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3363,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Request for Reversal of Unfair Dispute Decision Dispute ID : XXXX I am reaching out regarding a American Express credit card dispute that was unfairly ruled in the customers favor despite clear evidence of order fulfillment. Below are the details of the transaction : Cardholder Name : XXXX XXXX Dispute ID : XXXX Payment ID : XXXX Credit Card : American Express XXXX XXXX XXXX Transaction Amount : {$220.00} The order was placed on XX/XX/XXXX and shipped out on XX/XX/XXXX. The delay was due to the XXXX XXXX XXXX holiday, during which operations were halted. As per XXXX tracking number XXXX, the package was delivered to a XXXX XXXX for pickup on XX/XX/XXXX, per the customers request. \n\nWe promptly notified the customer of the delivery, and he acknowledged it, agreeing to withdraw the dispute. However, before he could do so, the dispute was ruled in his favor. He later picked up the package on XX/XX/XXXX but has since failed to respond to our requests to withdraw the dispute or repayment. \n\nThis decision by American Express has resulted in an unjust financial loss, including : The loss of both merchandise and payment despite order fulfillment. \nAn additional {$15.00} dispute fee charged by our payment XXXX, XXXX."
+}

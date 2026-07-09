@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4984",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30219,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The reason for Amex rejecting my dispute is completely inaccurate. The company I paid is a fraudulent transaction, but the company provided Amex with a receipt for my payment. However, this receipt does not prove they are not fraudulent or that they did not use verbal threats to get the payment. Despite this, Amex used the receipt as the sole reason to reject my dispute. \n\nRef. XXXX"
+}

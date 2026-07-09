@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3183",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60617"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27167,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchase a ac for my rental property that has three children their and their are exposed wiring that are hazardous that can cause bodily harm in the residence. It can cause shock, fire and tripping hazard. \n\nI contacted XXXX XXXXXXXX XXXX XXXXXXXX XXXX at XXXX XXXX XXXX and he is aware of the bouch install and the contractors were very rude and left expose wiring in my property that put my insurance and tenants at risk. \n\nSome was sent out to fix the problem and I was told the XXXX XXXX do not give them tools and covering. I told them that's was a building hazard. \n\nI requested that my credit card be refunded instead I was charge and additional {$1600.00} in interest and my property was left in a unsafe with 2 adults and three children and that's not fair. Can not babysit this sitiation."
+}

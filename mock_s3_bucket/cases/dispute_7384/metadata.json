@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7384",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78626"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39520,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CC to cfpb Dear American Express Executive Office, I am writing to escalate a serious issue regarding the mishandling of my dispute case, which has caused significant financial risk and stress.\n\nSummary of the Issue : I filed a dispute after the merchant refused to provide a required free return label.\n\nBefore filing the dispute, I proposed a {$300.00} partial refund, which the merchant rejected. That offer was no longer valid when I initiated the dispute.\n\nAmerican Express closed the dispute without notifying me and refunded only {$300.00} based on an outdated agreement.\n\nI was never given an opportunity to respond. I only discovered the case was closed after noticing a rebill on my account two months later.\n\nThe merchant is now threatening to impose a 3050 % penalty if I return the product after two months of delay. This situation was caused by both the merchants delay and AmExs mishandling.\n\nToday, the case was closed again without any communication.\n\nThis violates my rights under the Fair Credit Billing Act and AmExs own obligations for dispute resolution.\n\nI have filed a formal complaint with the Consumer Financial Protection Bureau ( CFPB ) regarding this issue. The complaint reference number will be provided upon request.\n\nI am requesting the following actions within 7 business days : 1. Reopen my dispute immediately and review the case fully. \n\n\n2. Provide written confirmation that I will not be penalized due to delays caused by AmExs mishandling. \n\n\n3. Ensure future compliance with notification and response requirements.\n\nIf I do not receive a satisfactory resolution, I will pursue further action through regulatory agencies and legal channels.\n\nPlease confirm receipt of this email and provide a written response within 7 days. \n\nThank you, XXXX"
+}

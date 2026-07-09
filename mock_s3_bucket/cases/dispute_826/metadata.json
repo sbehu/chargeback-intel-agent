@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_826",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "59602"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5618,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a balance on the card -I use infrequently and last used when I went back to the US XXXX live in XXXX now ). I did forgot to pay one month but then paid entire charge put on bill the next month ( when I got reminder and remembered I had a balance ). But then after I paid in full I had a small balance. I thought it was error and didnt pay- since I had not used the card. It didnt go away so I contacted them and they said it was interest. I asked on what- that I had paid my balance in full and when I checked last it was XXXX ( prior to this charge showing up ). They wont accept calls in XXXX ( say they cant answer the phone ) and I was getting no where with the person on line. So I gave up and paid the charge ( XX/XX/2023 ). We are talking less than a XXXX XXXX  charge and I make XXXX and year and have XXXX in savings so its not a money issue. The charge makes no sense. Checked after I paid a few time and had a XXXX balance. Then this month I have got a bother charge for less than XXXX $ yet I have not used the card for purchase since XXXX. And paid that balance in full in XXXX. I refuse to waste more time online with someone who does not seem to grasp I cant get an interest charge when I have had a XXXX balance since XXXX. It makes no sense and XXXX refusing to pay this charge. I have read online this is not an uncommon problem with AE cards."
+}

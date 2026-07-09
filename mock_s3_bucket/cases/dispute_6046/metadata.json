@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6046",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91752"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40165,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "It all started with somebody calling me from Citi Bank Fraud Dept. asking if I requested a {$5000.00} + transfer on my Citi Credit Card XXXX I said No. I checked my online credit card account & found a fraud charge on my Citi Card XXXX. They proceeded in cancelling XXXX XXXX & issuing a replacement Card of which I still have not received. Then they started in all my other accounts including non Citi Bank Accounts. They Changed passwords to my Chase Freedom card, XXXX XXXX XXXX, & my Citi Bank XXXX account. \n\nHave fixed the XXXX XXXX XXXX XXXX XXXX accounts. In the attempt to correct Citi XXXX I was locked out of my Citi online that I was able to review Citi accts XXXX & XXXX. I got Citi Bank tech support to get me into my Online account to find out that XXXX had been eliminated & {$900.00} + in fraudulent charges on my XXXX account. As of now I call Citi Bank no on the back of card XXXX the say they can not do anything unless I give them a reference No & forward me to the fraud dept & then the fraud charges build up on card XXXX & the fraud dept no keeps calling. The No they use is XXXX XXXX XXXX which does not belong to anybody. they would call 10 to 15 times one after another or change the NO. they call my on today is XX/XX/XXXX & this started XX/XX/XXXX"
+}

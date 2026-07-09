@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8466",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96826"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44222,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a XXXX XXXX for {$1600.00} using my Best Buy credit card. I returned that TV on XX/XX/XXXX and exchanged it for another model, as shown in my receipt dated XX/XX/XXXX. \n\nDespite the return, the {$1600.00} charge was never reversed, and my account still reflects both the returned TV and the new purchase of {$1700.00}. This means I was overcharged for merchandise I no longer have, effectively paying for two televisions when only one was kept.\n\nCitibank and Best Buy have pointed to unrelated smaller refunds ( {$840.00}, {$380.00}, {$200.00} ), but those do not resolve the fact that the full {$1600.00} was never credited back. \n\nI am requesting that the {$1600.00} charge be reversed immediately so that I am billed only for the one TV I retained."
+}

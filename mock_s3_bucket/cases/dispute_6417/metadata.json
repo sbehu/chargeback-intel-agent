@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6417",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11722"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19708,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I requested a refund of {$100.00} from XXXX on XX/XX/XXXX and was told several times over chat that they would give me a refund. I received an email on XX/XX/XXXX confirming the refund. When I didnt receive the refund I disputed the charge with Citibank Mastercard ( CBMC ). I was told by CBMC it would take 90 days to investigate and they would contact the merchant. \n\nWhen I spoke over the phone with a rep in CBMCs dispute dept, I explained the credit card number that was used by XXXX was an expired virtual number that I also had closed at least 6 months prior. As far as XXXX concerned, Citibank allowed a fraudulent charge. I was told I had to file a dispute of the charge. \n\nIn the meantime I contacted XXXX and told them they told me they would refund my account for the full amount but still wasnt refunded. Finally I got someone at XXXX who said they would put the refund through again. However when I still didnt see a refund a couple of weeks later on my credit card, I contacted XXXX again and was told Citibank blocked the refund because of my impending dispute. XXXX told me if I dropped the dispute they could process the refund. Stupidly I trusted XXXX. After I cancelled the dispute with Citibank as instructed by XXXX, the Citibank website stated the dispute was resolved and I was responsible for the charge. \n\nSeveral days later I contacted XXXX to request they process the refund again, however they still claimed Citibank was blocking them from refunding the money. \n\nI contacted CBMC again to request that they reopen the dispute with XXXX and I emailed evidence ( the email from XXXX stating they refunded the money ) to CBMC disputes in XXXX, in addition to including Citibank on a 3 way phone call with XXXX so CBMC would have verbal proof from XXXX that they said they were being blocked by CBMC from refunding the {$100.00}. \n\nI can produce screenshots of chats with Citibank and proof of numerous phone calls with Citibank and XXXX if needed. \n\nI provided the last 4 numbers of my CBMC account number. I do not want to provide the entire number due to so much fraud and hacking going on these days"
+}

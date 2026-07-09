@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13006",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93274"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1762,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My complaint is with Citi against my strata card.In XX/XX/XXXX I was sold an insurance policy that I did not request nor could use for my car by XXXX XXXX in XXXX, CA. I was charged {$250.00}. I needed a policy that would cover my XXXX XXXX XXXX however I was sold a policy that did not cover my car. I called XXXX and spoke with a XXXX or XXXX who asked if I would like to get the right policy however I declined as it was substantially more expensive. So she canceled the policy she sold me. I asked when I would be refunded the money I had paid and she said that the insurance company XXXX XXXX would be issuing me a check. However XXXX XXXX sent me a bill instead. I disputed the charge since I was sold the wrong policy with Citi yet they said I received the service I paid for even though it is blatant that I was sold a policy that did not cover my car, hence the wrong insurance policy. I have a previous complaint against Citi where they did not even investigate the dispute and found me responsible even though it was a double charge. Now citi has once again thrown my account into over the limit in an attempt I can only assume is to accrue fees. This needs to be addressed as the discrepancies of late have been quite clear yet Citi is holding its cardholders responsible for merchant errors."
+}

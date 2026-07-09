@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9066",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92563"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25999,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because American Express refused to honor a valid billing dispute under the Fair Credit Billing Act. \n\nI paid {$8900.00} to XXXX for 6 months of advertising services for my business. The agreement clearly stated I would receive weekly meetings, ad management, and ongoing support for the full XXXX term. \n\nXXXX only performed about XXXX weeks of minimal and incomplete service. After that they stopped responding, stopped scheduling meetings, and abandoned the contract entirely. I emailed them stating that I had not heard from them and attempted to cancel because they were not providing the services promised. \n\nThis is a clear failure to deliver contracted services, and therefore qualifies for dispute protection under the Fair Credit Billing Act.\n\nDespite multiple attempts, American Express refuses to reopen my dispute. Amex declines it without calling me, without reviewing the full evidence, and without allowing me to speak with the dispute department. I am unable to reach anyone who can evaluate the case properly. \n\nI am requesting that American Express reopen my dispute and issue a chargeback because the merchant did not provide the services I paid for, breached the contract, and abandoned performance after XXXX weeks."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11233",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90250"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8984,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks handling of a billing dispute for defective merchandise. \n\nI purchased a dresser online from XXXX XXXX XX/XX/year>2025 for approximately {$330.00} using my Citibank credit card. When the dresser arrived, the drawers had visible chipped wood. The damage was present when I opened the packaging. I documented the damage with photographs. \n\nI contacted XXXX XXXX and provided photo evidence of the chipped drawers. Despite the damage, the only resolution offered by XXXX XXXX was {$50.00} in store credit, which I believe is not a reasonable remedy for a defective {$330.00} item. They did not give me an option to return the item and the item was not listed as final sale. \n\nBecause the merchant did not provide an adequate resolution, I opened a dispute with Citibank for defective merchandise. Citibank initially issued a conditional credit while investigating the claim. However, after the investigation, Citibank reversed the credit and denied the dispute. \n\nI requested that the dispute be reviewed again and the claim was reopened. Despite submitting the same evidence and explaining that the merchants offer of {$50.00} store credit did not reasonably resolve the defect, Citibank again denied the dispute and stated that the conditional credit would be reversed. \n\nThis dispute has now been opened twice, and I do not believe Citibank adequately considered the evidence I provided showing the item was defective upon arrival. \n\nIt appears Citibank relied solely on the merchants statement that compensation was offered, even though the offer was minimal and did not resolve the defect. I am requesting that Citibank conduct a fair review of the dispute and properly evaluate the photographic evidence and the inadequate resolution offered by the merchant."
+}

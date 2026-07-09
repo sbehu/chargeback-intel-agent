@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11386",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37209"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 903,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am formally disputing a charge related to a hotel reservation made through XXXX ( Booking ID : XXXX, XXXX XXXX, XXXX, XXXX ) and billed to my Citi credit card. \n\nOn XX/XX/year>, I completed a booking through XXXX. At the time of booking, the main booking page prominently displayed in large, highlighted text that the reservation was fully refundable until XX/XX/XXXX. No specific cutoff time ( e.g., XXXX XXXX  ) was clearly or conspicuously disclosed on that page. Based on this representation, I reasonably understood that canceling at any point on XX/XX/XXXX would still qualify for a full refund. \n\nOn XX/XX/XXXX, I proceeded to cancel the reservation. The system processed the cancellation immediately and did not present any warning that the free cancellation period had already expired or that I would be charged the full amount. At no point during the cancellation process was I clearly informed that I would forfeit the entire booking value. \n\nThe cancellation confirmation email showed the original charge of {$320.00}, but it did not explicitly state that this amount would not be refunded. I only learned that no refund would be issued after reaching out to customer service for clarification. \n\nHad I been properly informed either at the time of booking or during the cancellation process that canceling on XX/XX/XXXX would result in a full charge, I would not have proceeded with the cancellation. I acted in good faith based on the information presented on the booking page and the lack of any clear warning during the cancellation flow. \n\nMy credit card dispute has since been denied, and the merchant continues to rely on an interpretation of the cancellation deadline that was not clearly disclosed at the time of booking. I believe this constitutes a misleading representation and an unfair business practice under consumer protection standards."
+}

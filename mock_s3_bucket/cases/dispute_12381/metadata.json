@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12381",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "326XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25287,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was having problems with getting credit for items returned. This Home Depot CITI Bank card allows returns for a refund up to a year. On XX/XX/XXXX I spoke with a Home Depot CITI Bank agent. I gave him all my returns, amounts, dates, and receipt numbers. We went over and over the numbers. Each time him saying no. I came up with {$1000.00}, and he said \" that's it ''. I immediately submitted a payment from my XXXX XXXX XXXX checking account. He sent me and email showing the payment that is also acknowledged on the statement. I stopped auto pay and clean sed the account. Then I get a notification that I owe Home Depot CITI Bank {$200.00}. I contacted Home Depot CITI Bank and ended up asking for a supervisor. I got XXXX in Tennessee. She said the agents calculations were wrong and that I owed {$200.00}. Apparently these people can't do basic elementary school math! I have redone the math again! I may be XXXX XXXX XXXX but I know how to do math and I know a thief and liar when the number add up with the proof and truth that they apparently can't see or refuse to see! The balance {$1200.00} - {$590.00} ( returns ) = {$630.00}! The payment of {$1000.00} + {$17.00} ( credit ) = {$1000.00}! That {$1000.00} - {$630.00} ( the true balance ) = {$390.00} OVERPAYMENT! I want that {$390.00} OVERPAYMENT put back into my XXXX XXXX XXXX checking account immediately!"
+}

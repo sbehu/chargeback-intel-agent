@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3456",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "35242"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5408,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Took my son 's car into XXXX XXXX XXXX XXXX XXXX XXXX XXXX location on XX/XX/year>. It needed a new alternator. They replaced the alternator with a cheap part. We paid {$810.00} and drove away. XXXX hours later the warning light came back on. We took it back to them and they \" ran diagnostics '' and declared that we needed to take the car to XXXX to get the XXXX replaced ( electronic control module ). \n\nI took the car to XXXX XXXX that day. They put a new, better quality alternator on and charged a little over {$600.00}. It has worked perfectly since. \n\nAmerican Express, despite having all the documentation is refusing to reverse the charge, stating that XXXX XXXX XXXX says I paid for the service, which I did- i ca n't drive my car away without paying."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3774",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11654,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX - XXXX XXXX  billed me {$7000.00} for a {$70.00} charge XX/XX/XXXX - Dispute opened with CITI bank after XXXX XXXX told me they wouldn't be able to refund XX/XX/XXXX - Documentation sent for the first time XX/XX/XXXX - Incorrect resolution, they said I was responsible but never reviewed documentation or contacted XXXX XXXX  XX/XX/XXXX - dispute reopened XX/XX/XXXX - resent all documentation including original bill XX/XX/XXXX - sent new bill to CITI bank in which XXXX XXXX  claimed they had refunded the bank. I have not recieved a refund XX/XX/XXXX - CITI Bank withdrew the dispute, this was unauthorized XX/XX/XXXX - XXXX request to reopen dispute XX/XX/XXXX - XXXX request to reopen dispute XX/XX/XXXX - call in which CITI Bank confirmed I would receive documentation in 10 business days if the dispute is reopened"
+}

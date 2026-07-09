@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13169",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22150"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25677,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Regarding Citibank Dispute Handling I am writing to file a complaint about how Citibank handled my dispute for a transaction on XX/XX/year> in the amount of {$2000.00} ( XXXX  XXXX WA ). \n\nI honestly feel that my case was not properly reviewed. \n\nAs soon as I realized something was wrong with these transactions, I contacted XXXX  immediately the same day to cancel them. I did not wait or ignore the situation. I acted right away because I believed I was dealing with a scam. \n\nI also received communication indicating that the transactions were cancelled, which made me believe the issue was being handled. \n\nHowever, later on, I was told that some transactions were completed, without any clear explanation. The information I received from XXXX has been inconsistent and confusing from the beginning. \n\nWhat concerns me the most is that neither XXXX nor Citibank has provided any actual proof that the money was successfully delivered to or withdrawn by the recipient. I have repeatedly asked for this, but it has never been clearly shown. \n\nDespite all of this, Citibank denied my dispute, stating that I did not follow the merchants cancellation policy. I do not believe this is accurate, because I contacted the company immediately and followed up as best as I could. \n\nI feel that my situation was not fully considered, and that the decision relied too heavily on the merchants statements without verifying the facts. \n\nI am respectfully asking for my case to be reviewed again, and for a fair evaluation based on all the evidence, including the lack of proof that the funds were actually received. \n\nThis situation has caused me significant stress and financial loss, and I would really appreciate a proper and thorough review. \n\nSincerely, XXXX XXXX XXXX"
+}

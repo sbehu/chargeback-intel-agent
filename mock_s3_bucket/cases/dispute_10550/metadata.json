@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10550",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42782,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX Services came to my home on XX/XX/XXXX for a service appointment. And they sold me a contract for future service in the amount {$450.00}. I called them and cancelled the service agreement and they informed i will get the full refund of {$450.00}. But i also put a dispute on my card and XXXX XXXX XXXX refunded only {$210.00} on XX/XX/XXXX. But they agreed to refund the full amount i called twice including today and was informed that i was supposed to get the refund. But Citi closed this saying customer is responsible. Citi should be following up on this to get my money"
+}

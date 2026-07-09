@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5810",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11216"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3555,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX I got a text message from CitiBank XXXX me to suspicious transactions on my credit card. I checked my account online and find XXXX pending transactions made on that day. I responded to CitiBank and told them I did not make any of those purchases. Two of those transactions did not post, but XXXX of them, for {$XXXX} at XXXX XXXX, did post to my account. I have never been to that merchant. I did not use the credit card at all that day. Since then fees and penalties have accumulated. CitiBank 's automated system calls my phone daily. My credit profile has been hurt. I have called CitiBank repeatedly, and nothing has been done. No effort has been made to find out what actually happened. \nSomething unusual had happened with the credit card. In XXXX the card expired, and I did not receive a replacement. In XXXX I contacted CitiBank, and they sent me a card with the same account number as before ( even though they were informed that the replacement card never arrived ). Then in XXXX the transactions mentioned above occurred. As far as I can tell, nobody at CitiBank has taken any of this into consideration. They seem to have done nothing at all to look into the matter."
+}

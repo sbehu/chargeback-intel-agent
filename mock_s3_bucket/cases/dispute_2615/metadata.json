@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2615",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "88310"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7959,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been a Costco Member using this credit card since XXXX. \n\nIn XXXX 2024, I filed a warranty claim with Costco for a mattress purchased from them with XXXX year warranty for {$550.00} purchased in XXXX 2017. \n\nCostco, sent me a replacement AND charged my card for {$620.00} Costco notified me via email that they would refund me upon pick up of the defective item. \n\nThey have not picked it up, and they have not refunded me. \n\nMy new phone # is XXXX."
+}

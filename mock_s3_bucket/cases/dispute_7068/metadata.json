@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7068",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "381XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35617,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company contacted me about card usage. I called company and was told there were several charges made on card that I didn't make. I confirmed all of my current information and let company know that charges were being made and sent to my previous address. Company said they would cancel charges and send me a new card. when I got a new card, I couldn't activate it because another had been sent to previous incorrect address. More charges were made on that card. I spoke to several customer service agents trying to settle issue before I cancelled card. Customer service rep assured me that charges would not reflect on my credit. I sent a letter to company to ask them to remove account from my credit report after it was added to my report. Per investigation, company said account was deleted from my credit but it hasn't."
+}

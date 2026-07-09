@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3077",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20152"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11001,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary : Purchased flights on XXXX for two passengers on XX/XX/XXXX. \nCancelled the flights for both passengers on XX/XX/XXXX. \nXXXX refunded the purchase total in full to my credit card used for the purchase. \nTo date, the refunds have not posted to my credit card account. \n<br> Credit card is Shop Your Way Mastercard issued by Citibank. \n\nAfter waiting 10 business days for the refunds from XXXX to post, a credit card customer service rep advised us to open a billing dispute to launch an investigation. Separate billing dispute case IDs were opened for each passenger 's airfare. \n<br> Billing dispute Case IDs : <br> XXXX Date submitted : XX/XX/XXXX Amount : {$330.00} Status : Active<br> XXXX Date submitted : XX/XX/XXXX Amount : {$330.00} Status : Closed <br> This case was closed with no resolution - credit card issuer claimed that they did not receive additional supporting information but I did send complete documentation multiple times via online upload and fax <br> XXXX ( reopened case of XXXX ) <br> Date submitted : XX/XX/XXXX Amount : {$330.00} Status : Active <br> Currently, there have been no resolution from the credit card company. We have so far only received letters from them about the following : -2 disputes opened<br> -2 requests for supporting documentation and a form to fill out, sign, and return<br> -1 dispute resolution ( for case XXXX ) <br> -1 dispute reopened ( as case XXXX ) <br> -1 request for supporting documentation and a form to fill out, sign, and return<br> I sent the credit card company supporting documentation multiple times via upload on their website. On XX/XX/XXXX, I also faxed them this supporting documentation which are attached to this complaint."
+}

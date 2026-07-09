@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6492",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "12590"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2842,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have submitted numerous disputes about the 90 day recurring bill from XXXX  XXXX for a service I don't use. \n\nI've submitted the phones XXXX  number and kept telling them to request mobile use. I use XXXX. I lost the original XXXX card sent to me from XXXX XXXX to prove I'm not using it yet they have billed be for the past 18 months and refuse to STOP. \n\nStop holding people as your financial hostages to get out of these contracts!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11566",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60067"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47745,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Between XX/XX/XXXX, and XX/XX/XXXX, XXXX unauthorized charges totaling {$18000.00} appeared on my account from \" XXXXXXXX XXXX XXXX XXXX. '' I have XXXX affiliation with this merchant. \nI timely disputed these charges on XX/XX/XXXX. After a two-month review, Citibank denied the claim on XX/XX/XXXX, without providing evidence of how they determined the charges were valid. Since the denial, I have called the dispute department bi-weekly. While representatives have been professional, no progress has been made, and the fraudulent balance remains on my account, accruing interest and threatening my credit standing.\n\nCitibank has failed to properly investigate a clear case of identity/account fraud and has not fulfilled its obligations under the Fair Credit Billing Act to correct a blatant billing error. I am seeking a full reversal of the {$18000.00} in charges and all associated interest."
+}

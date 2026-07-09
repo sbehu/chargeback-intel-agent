@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12879",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19446"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30440,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Enterprise Car Rental in XXXX XXXXXXXX XXXX  charged my CITI XXXX {$790.00} for additional insurance. Their representative, XXXX, came to my car dealership with rental car for me to use while repairs were made on my car. While stopped at a red light on XX/XX/XXXX, a woman who was texting drove into the rear of my car. She admitted to the police it was her fault. Her insurance company, XXXX XXXX, refused to pay for this insurance on rental. I asked XXXX at least 3 times if I had to pay for anything I signed for, and he said no. This was a lie. There were several pages of text on his XXXX that he scrolled through quickly and pointed to where I had to sign my name or initials. XXXX refused my request to send the bill to the driver or her insurance company, XXXX. During the XXXX weeks my car was being repaired, I rarely drove their rental. It sat in my garage and was returned in perfect condition with full gas tank. I contacted CITI Customer Service, disputed this charge twice, starting on XXXX, and was denied without explanation. Next I submitted an appeal on XXXX, then received a form letter that they would keep me updated. Never heard from them again. I am a XXXX retired teacher who lives alone, and this is a lot of money for me. I was hospitalized and needed XXXX in XX/XX/XXXX, with a XXXX recovery, which I hope explains any delays. I have made several attempts to get an explanation from CITI, but have been unsuccessful."
+}

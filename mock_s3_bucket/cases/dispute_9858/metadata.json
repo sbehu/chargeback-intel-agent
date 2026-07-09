@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9858",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11370"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11402,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im a member since XXXX with Citi bank ( citi XXXX  credit card ). I did report a fraud of an unauthorized credit card transactions on my account made between XX/XX/XXXX and XXXX amount was {$370.00}. I was out of country XXXX and Ive the proofs that I will join with my report ( passport copy and air plain ticket ). I did report the fraud within the time frame. Exactly on XX/XX/XXXX through the chat app on my phone and I BLOCKED ALL MY CITI ACCOUNTS.The Bank started disputing the charges the same month XXXX and I received XX/XX/XXXX a statement bill with a balance of - {$6.00} stating that the unauthorized charges under investigation. On XX/XX/XXXX I received a statement bill with - {$6.00} with no details. For me I understand that the bank had resolved the fraud claim reasonably. After that, I did call the customer service and closed my account through the phone and they send me a confirmation for that. To my surprise they started calling me on XXXX to collect the money of the unauthorized charges of the amont of {$370.00}. And they told me the bank had reversed the charges after investigations and with no further explanation or letter or statement. \nI did call the fraud department On XX/XX/XXXX and they couldnt give me any explanation or information of how to appeal their decision, after the agent she transferred me to Security operations ( XXXX ), I spoke with an agent she couldnt give me any answer and she kept me on hold and after she was telling me I dont have information and we will contact you. \nI just need a fair investigation from the bank, they didnt call me to provide any proof that support my claim Ive all the documentation that proof that it wasnt me or an authorized user on my account did the XXXX transactions since we all were outside the XXXX when the fraud happened."
+}

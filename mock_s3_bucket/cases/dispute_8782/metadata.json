@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8782",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94901"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26248,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Card has not been activated, Best Buy charged a geek squad anyway without consent. \nWill not transfer me to the fraud department. Will not allow me to dispute the charge. Now charging late fees and reporting to credits agencies"
+}

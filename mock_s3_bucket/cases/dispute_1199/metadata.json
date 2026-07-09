@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1199",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "321XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4646,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX I was alerted by my XXXX XXXX credit card that fraudulent charges were being made through my XXXX account by an XXXX XXXX XXXX XXXX XXXX, Texas. I immediately called both XXXX XXXX and Citicard to close the accounts and refute the charges made. Citicard had three charges : {$24.00}, {$24.00}, and {$19.00}. XXXX XXXX had two charges of irrelevant amounts. XXXX XXXX and Citicard both immediately refunded my account for the charges made and issued me new cards. Meanwhile, I was never able to fully secure my XXXX account. I took my computer in to XXXXXXXX XXXX and even they, while working with XXXXXXXX XXXX, were not able to keep the hackers from getting back into my account. The best we could do was delete everything and never use XXXX again. A few weeks later, Citicard reversed the credit claiming that the charges were legitimate. They said because at one point in time I purchased XXXX XXXX XXXX XXXX, all the charges made from a completely different XXXX XXXX were therefor legitimate. I then submitted the police report number ( XXXX ), the screen shots, the nasty email from the hacker, as well as had the technicians from XXXX XXXX provided their documentation of this hack and fraudulent purchases. In XXXX, I saw they credited two of the charges, but left one of the {$24.00} charges on my bill as a legitimate charge. I canceled the account entirely but the agent I was speaking with promised me he could fix this and maintain me as a customer ( which I have been for almost 20 years ). Six weeks later, I'm still being billed for the {$24.00} and the only explanation is that I made an actual charge with XXXX at one point in time. The agents can see I should not be billed, but the investigation team seems to be unwilling to see the obvious : that this {$24.00} charge should be treated the same as the other two charges made at the same time from the same XXXX XXXX over a thousand miles away. Every time I call, they say they are fixing it, but it's been two and a half months and this bill is now due and I don't trust them to follow through. I no longer have my credit card number because I destroyed the cards. The original card was replaced with one ending with XXXX. I closed that account entirely and the new account the opened and transferred my remaining charge to ends with XXXX."
+}

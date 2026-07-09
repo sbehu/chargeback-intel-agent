@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9142",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "105XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39248,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX American Express denied my dispute for an unauthorized recurring charge from XXXX XXXX XXXX XXXX for the amount of {$3700.00}. The original purchase with the merchant was done entirely over the phone with a sales representative calling from the XXXX in XX/XX/XXXX. I agreed to pay for 1 year membership, that was it. I never agreed to any written Terms & Conditions, auto-renewal, recurring billing, or subscription contract. I was never provided nor did I accept the contract the merchant is now claiming governs the account. On XX/XX/XXXX such merchant charged my amex card for {$3700.00} for a subscription based service that I didn't agree to. \n\nThe merchant claims they emailed and mailed me the Terms & Conditions, but I never received any such communications. The transaction was completed by phone, and no digital contract, email, signature, or click-to-accept process was ever provided. \n\nI asked American Express to obtain proof that : I agreed to the Terms & Conditions I agreed to auto-renewal or recurring billing I was provided the Terms at enrollment I received a renewal notice before the new charge None of this proof was provided to me. \n\nAdditionally, the merchant failed to deliver a key contracted service : a guaranteed pro-bono placement included in the paid program for the period of XX/XX/XXXX to XX/XX/XXXX. This constitutes a breach of contract. \n\nI am requesting the CFPB review Amexs dispute-handling process, require Amex to obtain proper documentation from the merchant, and reconsider this charge as unauthorized recurring billing and services not provided."
+}

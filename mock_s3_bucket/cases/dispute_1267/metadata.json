@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1267",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11206"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34445,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi owes me and is wrongfully withholding {$450.00} from a transaction dispute. This dispute is still open TODAY, well after the 90 day limit to resolve disputes, and they dubiously reversed my conditional credit without ever notifying me in an attempt to get me to avoid noticing! This is extremely misleading and unethical!! \n\nOn XX/XX/XXXX, I disputed a transaction totaling {$450.00} that I am still owed. A conditional credit of the full transaction amount was issued to me. \n\nOn XX/XX/XXXX, Citi closed my dispute in the merchants favor without even asking for any evidence. I did not even have the opportunity to upload any proof or evidence pertaining to my dispute before they resolved it. \n\nOn XX/XX/XXXX ( 122 days ago ), I complained and reopened the dispute detailing all my evidence of why I am entitled to a refund. Per law, Citi needs to close the dispute within 90 days. \n\nToday, on XX/XX/XXXX, my dispute status still says that Citi is reviewing the details of the dispute well beyond the time frame. I also discovered that they quietly reversed the conditional credit even though they reopened my dispute I was never notified that the credit was reversed, and only saw it when checking my monthly statement for XXXX ( it does not even appear in the mobile app ). \n\nTheir mobile app still shows that my dispute is unresolved as of today, and it also doesnt even show the credit reversal in my digital transaction history, which is extremely misleading and it is clear they are trying to be sneaky by reversing the credit hoping that I dont notice. They also emailed me a note this morning with a flat out lie saying they sent a notice on XX/XX/XXXX of my dispute resolution which I never received, and they were not able to actually show me the note or any proof of delivery of that note I was not able to get in touch with anyone on that note even after trying to contact them, and no one from their team is able to look into it or help. DO NOT BANK WITH CITI THEY STOLE MY MONEY"
+}

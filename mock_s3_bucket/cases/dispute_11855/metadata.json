@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11855",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92506"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1212,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citis refusal to investigate a valid billing dispute due to timing, despite clear evidence of services not rendered and delayed discovery. \nI was charged a total of {$1400.00} for a travel package that included hotel accommodations and additional nights. The service was for future travel dates. As the travel date approached, I contacted the hotel directly and was informed that no reservation had ever been made under my name. \nI attempted to resolve this directly with the merchant over several months. The merchant eventually acknowledged the issue, agreed to cancel the package, and issued a partial refund of {$300.00} in XX/XX/year>, but failed to return the remaining balance of {$1100.00}. \nAfter receiving only a partial refund and no further response from the merchant, I filed a dispute with Citi. Citi refused to investigate the dispute, stating it was outside the allowed timeframe, despite the fact that : The service date was in the future The issue was only discovered later ( no reservation existed ) The merchant continued communication and issued a partial refund I acted in good faith to resolve the issue before disputing I requested escalation, and although the case was briefly reopened, Citi ultimately closed it again solely based on timing, without reviewing the merits of the case. \nI am requesting that Citi properly review this dispute under services not rendered and delayed discovery, and reconsider reimbursement of the remaining disputed amount."
+}

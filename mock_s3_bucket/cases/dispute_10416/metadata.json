@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10416",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33467"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48325,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CFPB Supplemental Update Continued Account Takeover After Filing, Loss of Access, and Failure to Provide Time-Critical Replacement Card XXXX XXXX XXXX Barclays Bank Delaware XXXX XXXX XXXX XXXX and XXXX After submitting my CFPB complaint, my account was again breached, and my card was locked. At no point did I regain access to my online account. The unauthorized party continued to have effective control, while I remained locked out. \n\nThis activity is associated with XXXX XXXX XXXX # XXXX, in addition to the previously reported XXXX XXXX # XXXX. \n\nOn Friday of last week, I contacted XXXX XXXX  customer service again to report the continued unauthorized access and to advise that I was departing the United States for an international trip on XX/XX/year>. I After submitting my CFPB complaint, my account was again breached, and my card was locked. At no point did I regain access to my online account. The unauthorized party continued to have effective control, while I remained locked out. \n\nOn Friday of last week, I contacted XXXX XXXX  customer service again to report the continued unauthorized access and to advise that I was departing the United States for an international trip on XX/XX/year>. I explained that a replacement card was urgently required due to the ongoing compromise. \n\nI placed my first call at approximately XXXX PM. I spent approximately 10 minutes completing verification, including a callback from XXXX XXXX for identity confirmation. After full verification was completed, the call was disconnected, and the representative never called back. \n\nI waited several minutes for a return call and then called back again. During the second call, I clearly advised the representative that the cutoff time to issue a same-day replacement card was XXXX PM and that it was approximately XXXX PM at the time of the call. Despite the urgency and my imminent international travel, the matter was not treated as time-sensitive. \n\nAs of Tuesday evening, no replacement card has been received. Delivery was confirmed as not received at my residence by my daughter. I have since departed the United States and now have no ability to receive the replacement card, leaving me without access to my XXXX XXXX while traveling internationally. \n\nI subsequently called again on Monday, at which time I was informed that the replacement card was never sent out on Friday, despite my repeated calls and the stated urgency. \n\nThis sequence of events demonstrates : Continued account compromise after regulatory notice Failure to restore account access Failure to issue a replacement card despite clear notice of an imminent international trip Failure to meet a known, time-critical cutoff for same-day card issuance Inability or refusal to provide a viable solution once international travel was disclosed Ongoing disruption, risk, and loss of use of a premium financial product These events further compound the financial harm, loss of use, and service failures previously reported."
+}

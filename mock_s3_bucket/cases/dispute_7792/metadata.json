@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7792",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30305"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35201,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank , N.A . regarding their denial of my chargeback request for counterfeit goods purchased through XXXX using my Citi XXXX card. \n\nTransaction Details : Date : XX/XX/year> Amount : {$130.00} Merchant : XXXX ( Transaction ID XXXX XXXX XXXXXXXX ) Account : Citi XXXX XXXX in XXXX Background : I purchased XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX sensors advertised on XXXX as XXXX XXXX parts. The listing specifically represented the items as authentic, using XXXX branding and packaging. \n\nUpon installation, my vehicles check engine light returned immediately. I brought the vehicle to XXXX, a XXXX service center in XXXX. XXXX is XXXX of the only independent shops in the state with access to XXXX  proprietary diagnostic software, and their certified technicians have factory-level training. Their diagnostic report explicitly states the XXXX  sensors are counterfeit and caused the diagnostic failures ( invoice attached, with portions regarding counterfeit nature of sensors highlighted ). \n\nDispute with Citi : I submitted a dispute with Citi, including : XXXX XXXX XXXXXXXX listing showing the items as XXXX XXXX parts. \n\nXXXX  The invoice from XXXX diagnosing the parts as counterfeit. \n\nXXXX  Confirmation that I still possess the counterfeit items and can provide them for inspection. \n\nDespite this, Citi denied my claim on XX/XX/year> ( denial letter attached ), stating the information wasnt enough to support [ my ] claim. \n\nWhy This Is Improper : Counterfeit Goods = Fraudulent Misrepresentation. Visas chargeback rules explicitly protect cardholders when counterfeit goods are sold under the representation of being genuine. This is not a quality issue it is fraud. \n\nValid Proof Provided. The XXXX invoice is equivalent to an authorized dealers determination, given their XXXX diagnostic capability. Citis position that this evidence was insufficient is unreasonable.\n\nFailure to Protect Consumer. Citis refusal effectively leaves me paying for counterfeit goods in direct violation of Visas protections and consumer rights. \n\nI am attaching the following documents : XXXX ) XXXX listing ( showing XXXX representation ). \n\nXXXX ) XXXX invoice identifying the sensors as counterfeit.\n\n3 ) Citis denial letter."
+}

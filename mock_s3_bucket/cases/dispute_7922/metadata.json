@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7922",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80021"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17281,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ive been dealing with this dispute for months. I have XXXX charges on my account that are identical and both for all inclusive vacation packages. I have provided proof to American Express that the services offered and paid for were not rendered. Ive called multiple times explaining this and asking the dispute be opened as services not received. I have tried working with XXXX Vacations, but they provided false information to American Express and XXXX me XX/XX/year> the value of what I paid in rewards points which is absurd and just means Id have to pay them for money when they robbed me. American Express did not do their federal responsibility to fully investigate the issue. I know this h cause they accepted falsified information from sandals, did jot review the offerings on their website, etc. I paid for an all inclusive vacation package. They did not provide what I paid for including XXXX services as detailed in my numerous communications, referred me to their gift shop multiple times for simple items, did not have restaurants available that should have been, etc. I paid $ XXXX for something that I never and will never receive. I cant XXXX how this is legally my responsibility merely because American Express doesnt want to fulfill their duties and just continues to repeat the same illogical and outdated information. American Express and XXXX XXXX are together taking advantage of and swindling a XXXX woman based on a pile of lies. XXXX an impeccable customer of American Express and have been for XXXX  years. This is the second time Ive had to fight to not have Amex help someone rob me. Not only that but then American Express lied, here to CFPB by saying that they were crediting the amount and closing this complaint. Immediately after closure they changed their minds, rebuked all of it and old me too bad because XXXX Vacations at least offered a measly sum of reward points."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2714",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95472"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13268,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted a claim to Citi Cards, disputing a charge because I never received a good I ordered and paid for using a Citi Credit Card. The vendor has not responded to my inquiries, and their website has disappeared, which is why a submitted a dispute claim to Citi Cards. \nCiti Cards investigated my claim and formed the opinion that the failure to receive the good was \" customer responsibility. '' However, the order status on the XXXX online purchasing platform shows that the good ( which was ordered on XX/XX/2024 ) still has not shipped, meaning I can not be responsible for the failure to deliver the good. Citi Card 's \" Dispute Letter '' seems to confirm that Citi did not actually have communications with the vendor, and therefore did not properly investigate my dispute claim. An attached document titled \" Seller/Buyer Notes '' is supposed to provide the vendor 's response to Citi Card 's inquiry, but it is left blank."
+}

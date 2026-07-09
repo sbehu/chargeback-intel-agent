@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8744",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7902,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX activated my XXXX XXXX Credit Card by telephone. Used the card for XXXX and XXXX XXXX order. On XX/XX/XXXX XXXX XXXX agent called me to tell me there were many suspicious activity on my card. I told agent to cancel the card and I told them that I didnt make a purchase to XXXX XXXX, Waldgreens all in Florida XXXX \nXXXX told me also someone tried to change my password on my account. XXXX told me to fax a letter to them with my ID. I went to A store to fax my photo ID. After the receive that fax they needed me to file a police report. Filed a police report on XX/XX/XXXX. I went to my local police dept and filed a report. I faxed the case number to XXXX XXXX. Every time I spoke to a different agent. Had to spend hours repeating my story. On XX/XX/XXXX filed a report to the FTC. \nFaxed a second time with police claim number to XXXX XXXX XXXX. \nFriday received a email stating they dont believe the other purchases were fraudulent."
+}

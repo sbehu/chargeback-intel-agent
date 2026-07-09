@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1033",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80915"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17193,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used my Barclays issued Priceline credit card to made a reservation for a one week stay at a XXXX XXXX XXXX in XXXX, SC. from XX/XX/2022 to XX/XX/2022. \n\nWe arrived at the hotel but the night clerk wouldn't even let me speak to her to show her I had a reservation she just pointed to the NO VACANCIES sign hanging above the office window. So we left and found vacancy at another hotel and stayed there for that week. \nI tried to notified Priceline about what happened but they apparently didn't get my message. Barclays wrongly alleges I owe them {$400.00} for the week of XX/XX/2022 to XX/XX/2022, I don't owe them nothing because I never stayed at XXXX XXXX XXXX, I had spoken to several customer service representatives, account managers but I was getting no where, so after I lodged my first complaint with CFPB an executive assistant to the president at Barclays responded to my complaint letting me know they were looking into my complaint, so I emailed her an invoice sent to me by XXXX XXXX XXXX showing they charged my card for one night, a cancellation fee of {$54.00} as proof that the {$400.00} plus late fees and interests the are trying to make me pay are bogus charges. This person told me she had forwarded the XXXX XXXX XXXX invoice to the financial office at Barclays but as today nothing has been done to right this wrong."
+}

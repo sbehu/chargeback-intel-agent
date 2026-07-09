@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8922",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22866,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted American Express about a charge for XXXX on XX/XX/year> with XXXX. XXXX had promised me a full refund after XXXX billing cycles which would have been XXXX or XX/XX/year>. I have a voicemail recording from XXXX confirming this. I didn't discover the missing refund until a week ago. I contacted XXXX and ended up spending several hours on the phone getting disconnected. \n\nI then contacted AMEX asking them to open a dispute. This dispute was closed within XXXX hours because the disputed amount is past XXXX  days. I reopened the dispute and it was closed within XXXX minutes on a Sunday night. I am not able to talk to any person in that department - the regular AMEX agents claim that they are unable to do anything on their system once a dispute is closed. \n\nThe dispute was clearly adjudicated by an algorithm and not a real person. The response letter claimed that the charge is older than XXXX  days. However, the AMEX agent told me that AMEX does consider older claims especially if the merchand promised a refund because that itself can take XXXX billing cycles. \n\nAmex did not consider the circumstances of my dispute- the fact that I had disputed the amount with XXXX immediately and that a refund could have arrived as late as XXXX ( which is XXXX months ago ). I believe that my case should be looked at by a human and not just an algorithm."
+}

@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-987083",
+  "invoice_date": "2026-03-01T00:00:00Z",
+  "amount_cents": 26502,
+  "currency": "USD",
+  "billing_address": "3284 Lincoln Ln, NAN, XXXXX"
+}

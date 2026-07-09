@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6525",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98466"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27468,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally escalate a serious and ongoing issue with my Citi credit card account, which has not only caused me significant stress and inconvenience but also raises serious concerns about the adequacy of Citis fraud protection and customer support systems. \n\nBeginning in early XXXX, I paid off all outstanding balances on my Citi credit card and began the month of XXXX with a XXXX balance. However, since that time, my account has been repeatedly targeted by fraudulent charges, primarily originating from an online gaming company based in XXXX. These charges have appeared on a weekly or bi-weekly basis. \n\nEach time I received notice of these charges, I promptly disputed them. Citis standard procedure was to cancel the compromised account, issue a new card and account number, and initiate a dispute resolution process. Despite these measures, new fraudulent charges would appear even before the replacement card arrivedsuggesting a persistent breach that Citi has not effectively addressed. \n\nThis cycle repeated itself at least five times over a six-week period. After multiple attempts to resolve the issue through the prescribed channels, it became evident that continuing to follow the same process was ineffective. Disturbingly, I also discovered that the same parties initiating the fraudulent charges were simultaneously making payments on the account, which adds another layer of concern about how such activity is being monitored and allowed to continue. \n\nOut of frustration and an effort to prevent further unauthorized use, I stopped requesting new cards. Interestingly, the fraudulent activity slowed once the compromised accounts were flagged and left inactive. However, despite these obvious red flags, there has been no proactive outreach from Citi to address the root cause of the breach or ensure my account is secure. \n\nOn XX/XX/year>, I submitted a formal letter to the general correspondence address listed on the Citi Website, outlining the full details of this issue. As of the date of this letter, I have not received any acknowledgment, response, or resolution regarding that specific correspondence. \n\nCiti is unable to provide satisfactory resolution and assurance that my account is protected, for this reason I am escalating this matter further to relevant consumer protection authorities. \n\nThe past six months have severely damaged my confidence in Citis ability to protect its customers from fraud. I am taking these steps not only to resolve my own situation, but to ensure that others do not suffer similarly due to systemic failures in security and customer support. \n\nI have attached the XX/XX/XXXX Letter and a XXXX file of the XXXX Year to Date Charges associated with my account."
+}

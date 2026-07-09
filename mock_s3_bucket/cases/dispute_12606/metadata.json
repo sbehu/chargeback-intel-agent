@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12606",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75078"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8528,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding repeated fraudulent activity and improper fraud investigation handling by Citi on my credit card account.\n\nOver approximately the past 3 months, I have experienced nine fraudulent charges totaling several XXXX dollars. Despite repeated fraud, Citi has continued issuing replacement card numbers tied to the same account rather than fully closing and replacing the compromised account.\n\nCiti has already held me responsible for one fraudulent charge after reversing a provisional credit. The written explanation provided by Citi stated only that the merchant provided documentation confirming you authorized this transaction.\n\nHowever, the same documentation Citi provided includes evidence that strongly contradicts that conclusion, including an IP address originating from the XXXX for the transaction and merchandise shipped to California, while I reside in Texas. This transaction was not authorized by me.\n\nI am also currently disputing an additional {$1000.00} charge. Citis own investigation materials show a different purchaser name, email address, phone number, shipping address, and geographic location that do not belong to me. Despite this evidence, Citi is requiring me to provide additional proof that the charge is unauthorized.\n\nI spent more than 40 minutes on the phone with three different Citi representatives requesting stronger security measures and a full account replacement due to the repeated fraud pattern. Citi refused to fully close and reopen the account and instead stated they would continue issuing replacement cards and disable recurring charges.\n\nGiven nine fraudulent charges within approximately 3 months, Citis refusal to fully secure the account, and its apparent reliance on merchant assertions despite contradictory evidence, I no longer have confidence in Citis fraud investigation process or account security measures.\n\nRequested Resolution : Reopening and reconsideration of the fraudulent charge Citi held me responsible for Determination that the current {$1000.00} charge is unauthorized based on Citis own evidence For all open fraudulent charges to be credited and then closed without reversals Protection from liability for unauthorized charges Full closure of the compromised account and issuance of a truly new account, not replacement cards on the same account Written explanation of Citis fraud investigation standards when merchant claims conflict with contradictory evidence such as foreign IP addresses and out-of-state shipping. How are they protecting my account?\n\nI have pages and pages of information that proves these charges are fraudulent, mostly from Citi itself. I'm happy to send it. \n\nThank you, XXXX XXXX"
+}

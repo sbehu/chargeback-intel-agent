@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1829",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "40511"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16344,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was contacted by text from my credit card provider, CITI requesting authorization for a transaction in the amount of {$400.00} at XXXX 's home improvement. I immediately responded with no and I was asked to call and confirmed and next steps were to immediately close my account and issue new cards. I received a phone call the next day while I was in a work meeting requesting additional information. I returned the call later that day, but after waiting on hold for nearly XXXX hour i was told that the system was down. On XX/XX/XXXX, I noticed that the transaction dispute ended and no credit was issued. I called and was told someone from the fraud department contacted me on XX/XX/XXXX. I provided the same information again. I was told that the transaction was pushed through by the merchant despite my notification. I was told that the transaction would be placed back in dispute status and I would receive a message regarding the outcome. I logged on today, XXXX to learn that the dispute had been cleared again with no credit. I called again and was told that the transaction had already been approved at the time that they contacted me and steps taken to reduce the risk of fraud did not mean I was entitled to the transaction credit. I have no doubt that CITI we'll continue to invent excuses and explanations as to why my transaction should not be credited in the current dispute."
+}

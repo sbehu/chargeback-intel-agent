@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10081",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6484"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39208,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I signed up for a free trial with XXXX XXXX  and used the service once on the first day of the trial. I did not use the service after that day. \n\nAfter the trial, I was charged {$49.00} per month on a recurring basis for a service I did not use and to which I did not provide informed consent for ongoing billing. \n\nThe charges appeared under multiple merchant descriptors, including XXXX XXXX  XXXX, XXXX XXXX, and XXXX, which materially delayed my ability to identify the charges as one recurring subscription. \n\nI contacted the merchant directly. The merchant acknowledged the trial but asserted that billing continued based on terms disclosed during signup. Partial refunds were issued, but not all post-trial charges have been reimbursed, despite the same lack of usage and lack of informed consent applying equally to those charges. \n\nI also disputed the charges with my credit card issuer. Some credits were issued, and others remain under review or were denied based on timing, rather than on the underlying deceptive billing practices."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_994",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77406"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48363,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX  - fraudulent transaction of {$690.00} XX/XX/XXXX  - received monthly billing statement, alerted Home Depot of the fraudulent transaction XX/XX/XXXX  - Home Depot acknowledges claim A few months pass. Home Depot initially reverses the charges, but in XXXX deems us liable for the transaction. \n\nXXXX and XX/XX/- we discover that a new credit card had been mailed to us, activated and used without our permission ( we still had the old credit card in our possession ). We send evidence via a police report and USPS claim of mail theft, including of the new credit card from XX/XX/XXXX. Pending response from Home Depot. \n\nThey are holding us liable for the initial fraudulent transaction of {$690.00} and three months of late fees at this point."
+}

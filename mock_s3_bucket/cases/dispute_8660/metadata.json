@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8660",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "362XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34199,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My card balance kept going up, even though I was not making any purchases. I was paying {$500.00} every month to American Express and my balance was increasing. I called them to tell them that I had been a victim of fraud and that my personal bank account had been compromised and that I believed that someone had gotten my American Express card information too and had made unauthorized charges. I requested statements from them for several months and never got them. I was unable to log in to their online portal to view my account, and never got help unlocking my account. After about 5 months of making {$500.00} payments every month and my account balance was still not going down, I requested that my card be closed due to unfair interest and penalties. My account credit limit was {$10000.00} but yet they had my balance due of {$11000.00}. I told them repeatedly that I believe fraud occurred on my account and asked for help disputing the transactions. I also asked that they open an investigation into the fraudulent charges, which they never did. Now they have served me with court documents trying to get a judgment for {$11000.00} and have also charged my account off on my credit reports. What can I do to dispute the validity of this debt and request an investigation into fraudulent charges on this account?"
+}

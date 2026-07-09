@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11264",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78573"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32015,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding a credit card dispute that was closed by Citibank without addressing the underlying issue. \n\nThe transaction is from XXXX for {$85.00} on XX/XX/XXXX. \n\nThe merchant confirmed that a refund is owed but failed to successfully process the credit. On XX/XX/XXXX ( Reference # XXXX ), XXXX confirmed the refund would be processed. The credit never appeared on my account. \n\nI contacted the merchant again on XX/XX/XXXX ( Reference # XXXX ). They acknowledged that the earlier refund attempt failed to transmit and stated that the refund had been resubmitted. \n\nDespite these confirmations, no refund has been posted to my Citibank account. \n\nI filed a dispute with Citibank under the credit not processed dispute category. However, Citibank closed the dispute stating my response was received after their XX/XX/XXXX deadline and therefore they would not continue the investigation. \n\nThe merchant has admitted that the refund is owed, yet the charge remains on my account. \n\nI am requesting that Citibank reopen the dispute or allow the dispute to be refiled so the matter can be properly investigated and the refund credited."
+}

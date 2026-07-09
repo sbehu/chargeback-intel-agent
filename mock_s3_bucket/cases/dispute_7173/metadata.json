@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7173",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93705"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10507,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I started a dispute with Citi for a transaction dated XX/XX/year>XXXX  for the amount of {$2500.00} from XXXX XXXX XXXX XXXX XXXX XXXX. where I was double charged. they claimed the charge did not go through and they tried charging a couple of times where Citi blocked my card and I had to call them to unlock, so I really though the charge did not go through ( I didn't know until the next day when I saw the charge pending in my app ). I tried to make the payment using my XXXX XXXX credit card and the transaction was declined too. so the merchant tried a lower amount which was {$1300.00} and I had to pay the balance in cash. So I started the dispute with Citi, The first time, Citi rejected my case because I didn't provide a XXXX  XXXX XXXX  statement showing the charge ( monthly statement was not issued yet ), as soon the monthly statement was issued, I provided a copy of it to Citi. after sometime, my case was rejected again for not providing a prove that I tried to communicate with the merchant. I sent them prove that I tried but the email in their social media and XXXX is not correct, and when trying the phone number listed, they answered me once and responded that the transaction never went through and that it was declined, and I was told that a manager will contact me to confirm that, which never happend. when I called after that many times, no one answers. and then I found out the business closed after short time of me being there. It looks to me they conducted many fraudulent transactions before they closed. so at the end, I receive a rejection from Citi that they can't help me because the merchant is not responding and their bank refused to refund the amount disputed. Citi claims that they protect card holder against fraud charges, but when it happens, they are not willing to help. if this case is not resolved, I will have to seek legal action against Citi to recover my loss."
+}

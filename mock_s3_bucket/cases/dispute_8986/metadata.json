@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8986",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48060"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25290,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I ordered a XXXX XXXX from Best Buy for {$520.00} ( Order # XXXX ), using my My Best Buy credit card. The order was placed for in-store pickup at the XXXX XXXX XXXX MI location under my name. \n\nOn XX/XX/year>, I received a notification that the item was ready for pickup, followed shortly by another notification stating it had been picked up by an unknown individual, XXXX XXXX, at the Best Buy store in XXXX, NY. An additional charge of {$14.00} for a tax difference was also added without my authorization. \n\nI immediately contacted Best Buy, who directed me to Citi Bank ( the credit card issuer ). Citi Bank advised me to wait until the charge cleared and to file a police report. I filed a report with my local police department ( Report # XXXX ). Once the charge posted, Citi Bank opened a dispute ; only the {$14.00} tax difference was refunded. On XX/XX/year>, I was notified that the main dispute was denied. \n\nI provided further documentation as requested, but the dispute was again denied. Citi Bank then stated the issue was on Best Buys end and provided a Corporate Care number ( XXXX ). \n\nI contacted Best Buy Corporate Care on XX/XX/year> and was told the issue would be escalated to their back office ( Case # XXXX ). After no response, I called again on XX/XX/year> and was given a new case number ( XXXX ) due to incorrect dates previously entered. I was told we would 100 % get the refund and that I would receive an email within 24 hours. No email was ever sent. \n\nWhen I called again on XX/XX/year>, I was told there was nothing further they could do. \n\nI am filing this complaint because neither Best Buy nor Citi Bank will take responsibility for the fraudulent pickup and unauthorized charges, despite documented evidence and a police report. \n\nCiti Bank determined the charge was valid, but the murchant, Best Buy, completed the order to a fraudulent pick up location after my Best Buy.com account was hacked. The merchant refuses to issue a refund."
+}

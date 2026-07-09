@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11535",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "226XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29435,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Attempted resolutions to date : At Store level Best Buy Manager XXXX XXXX XX/XX/XXXX Sent letter and supporting documentation ( Including Copies of my credit report from the 3 reporting agencies ) to Best Buy Billing Disputes & Citi Bank Biling Disputes on XX/XX/XXXX Return receipt Requested. \nThey in turn sent me a formal dispute form which I returned on XX/XX/XXXX. \nMany phone contacts made with both Citi Cards and Best Buy, to outsourced phone banks in other countries to no avail.\n\nBoth entities refuse to use my correct mailing address, which creates a lag time in mail being rerouted, and they have been notified multiple times. \nThey started to impact my credit. \nFTC XX/XX/XXXX # XXXX Virginia States Attorney General XX/XX/XXXX # XXXX XXXX XXXX  XX/XX/XXXX # XXXX ( XXXX XXXX ) I severed all contact with Best Buy and Citi Bank after a horrible purchase experience in XX/XX/XXXX. They screwed up my download of data onto a new computer I purchased from them, and I had to contract with another vendor to resolve matter. \nI started getting bills for alleged renewal of software services in XX/XX/XXXX, and I started disputing the charges. In XX/XX/XXXX I started getting credits back on this alleged account I no longer had, for charges not authorized by me. At this time the balance went down from approximately {$320.00} to an alleged {$37.00}. On XX/XX/XXXX, they started chasing me for the {$37.00} stating this charge was not canceled during the trial period or before the subscription renewed! \nThey keep double dunning me from both Best Buy & Citi bank, with missed payment fees that are larger than the {$37.00} they have been pursuing me for and have impacted my otherwise impeccable credit. They set the precedence by refunding all the other bogus fees, but now the meter is running. The current balance is now up to {$150.00} as of this month 's bill, due date today.\n\nThis is harassment is its finest form, and per the FDCPA Guidelines, I view this as blatant fraud. \nMy complaint to the VA. AGO is not even assigned yet as of XX/XX/XXXX, and I am told they are running 100 days behind in their back log. Please assist. Thank you."
+}

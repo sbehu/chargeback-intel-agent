@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7365",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11233"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32891,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX while logged into my XXXX  account I browsed a receipt from a previous purchase from 2 years earlier and thought nothing more of it, nothing was not added to my basket, However I later discovered the next day or 2 the merchant XXXX used that browse action to re-charge my credit card for a second time for {$72.00} for a previous purchase made 2 years earlier. When I asked for a refund they said they escalated but never got back to me after that .. After I disputed the charges with Citibank N.A . They then provided irrefutable proof the software was delivered and used from 2 years back. however they can not provide any proof the software was re-registered for a 2nd time when they erroneously made the second charge to me Citi XXXX XXXX. \n\nOn the same day after I browsed this older order, I placed a new order for \" XXXX XXXX XXXX XXXX XXXX XXXX  for XXXX '' for the amount of {$36.00}. However the XXXX website would not allow me to redeem and download the software. I engage their support team for assistance but the e-mail instructions they provided was not helpful and did not resolve the specific issue of me not being able to download the software. I also asked for a refund of the previous erroneous {$72.00} charge they sent me a note they have escalated but I never heard back. and since the order for {$36.00} was not working I also asked for that to be refunded. As stated above the merchant provided proof the original purchase for {$72.00} from 2 years ago was redeemed they could not provide proof for the second charge was downloaded from XXXX or registered by myself ; neither did XXXX or Citibank N.A. provide any proof of the {$36.00} purchase was delivered or registered to me. Citibank N.A. and XXXX have colluded and with racketeering intent to defraud hard working consumers of their hard earned cash. This is very unfair and something needs to be done. \nCitibank N.A. denied my disputes and sided with the merchant even though in my opinion they did not provided evidence I re-registered any software charged a second time for {$72.00} or able to download and register same XXXX office software purchase for {$36.00}. Neither Citibank N.A cared to investigate or ask Why would customer even purchase the same software twice within minutes? even though said customer was pointing out of concerns of technical issues with purchase and inability to download and register software purchase."
+}

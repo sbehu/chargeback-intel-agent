@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7139",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "WA",
+    "complaint_zip": "99207"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had trouble with a purchase from XXXX, where they would not accept a return for a defective tire I purchased. Because of this I had to go buy a new tire and am out the cost of a new tire and have a broken on that I cant use. \n\nI started a dispute with Citi, and they reached out to the retailer and waited for their response. They received a response a week ago. They told me today that they read the response and that I am responsible for these charges 100 %. They never sent me the response, and they never gave me a chance to defend myself ; they just side with the retailer 100 %. \n\nI feel I have a good case for this dispute and need a chance to defend myself. \n\nThe retailer is etrailer.com and was purchased with a Citi XXXX credit card on XX/XX/year>. {$300.00} order number XXXX Contacted XXXX  on XX/XX/XXXX and told them they sent me a bad tire, and they said sorry, too bad you need to contact the manufacturer, we can't do anything. \n\nThe requested dispute was sent on XX/XX/XXXX, and they contacted XXXX on XX/XX/XXXX. \n\nXXXX responded on XX/XX/XXXX, and on XX/XX/XXXX, Citi said I had to pay, with no way for me to answer or come back with details to defend myself and no notes of what XXXX said. \n\nXXXX ID with Citi XXXX"
+}

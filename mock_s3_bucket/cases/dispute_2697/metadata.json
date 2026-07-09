@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2697",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "UT",
+    "complaint_zip": "84601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27576,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I hope this will be the final CFPB report I need to file, and that AMEX will demonstrate mutual understanding before I pursue further legal action. As a consumer, I have the right to have my complaint handled seriously by AMEX. We have reached this point because AMEX has been responding to my complaints with automated messages each month without investigating the new information I have provided. \n\nRegarding dispute XXXX, I am seeking clarification on why this dispute was not resolved in my favor. I have obtained diagnostic reports from three separate mechanics from different companies, all indicating that the car was not repaired as claimed. The engine was not changed as stated. Furthermore, the merchant informed me that AMEX never contacted them after XX/XX/2023, despite my submission of new information in XXXX, XXXX, XXXX, XXXX, and through multiple CFPB reports. The text that the merchants provided even further proves my point. \n\n\nFor dispute XXXX, I accept the resolution. \n\nFor dispute XXXX the merchant ALLOWED me to return after 30 days. I was out of the country in XX/XX/XXXX when the refund was filed so they gave me the return label at XX/XX/XXXX saying that I would just need to return within that month. The email that the merchant made an exception was provided in the email I sent to Amex. \n\nI did not receive {$2400.00} more than what was billed. \nFor dispute XXXX I paid XXXX downpayment and XXXX towards the loan XXXX total and got back a total of XXXX. I was missing XXXX. I did not treceive XXXX additional. Please make this right. \n\nPlease call me to make this right. Thanks"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7593",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NY",
+    "complaint_zip": "111XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 678,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "RE : dispute in the amount of {$920.00}, item was returned to merchant store as per their instructions because the item was not the item i ordered, the response to AMEX from the merchant is fraud, the merchant did not inform \" final sale '' as they allege, the merchant did not email me any paperwork as they allege"
+}

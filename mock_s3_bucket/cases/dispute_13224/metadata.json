@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13224",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92886"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13559,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX lines mistakenly booked airline trips for me. I cancelled the bookings with XXXX immediately. Unfortunately, instead of cancelling the trips, XXXX double booked me for duplicate trips and charged my credit card. When I became aware of the problem, XXXX corrected the problem by cancelling both sets of trips and notified American Express. I have contacted both companies many times to resolve the problem. XXXX has credited me for the charges to American Express. I have sent American Express several documents from XXXX showing that the airline trips were a mistake and they have credited me for them. And they have sent me invoices showing that my balance due for the cruise is XXXX dollars. American Express refuses to accept those documents to end my dispute. It could take another 90 days to resolve. I owe American Express XXXX dollars. They show that I owe them in excess of {$7100.00}. They tell me to be patient with them."
+}

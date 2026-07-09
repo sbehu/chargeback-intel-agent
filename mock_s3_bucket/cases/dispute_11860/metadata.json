@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11860",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95127"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19909,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a charge of {$2800.00} was posted to my Best Buy credit card for credit funding consulting and house renovation services provided by XXXX XXXX XXXX, processed through their merchant processor XXXXXXXX XXXX services were ever delivered. \nThe XXXX  of XXXX XXXX XXXX, XXXX XXXX, sent me a written email on XX/XX/year> confirming that no services would be rendered, that I was fully entitled to a refund, and that he would not appeal any chargeback. In a second email on XX/XX/year>, he confirmed that XXXX  falsely notified banks that services were delivered without his authorization, which he stated may constitute a violation of the Electronic Fund Transfer Act ( EFTA ) and the FTC Act. \nI filed a chargeback with Best Buy credit card services for {$2800.00}. The dispute was denied despite having written confirmation from the merchant that no services were rendered. XXXX made false representations to Best Buy claiming services were delivered, causing my dispute to be wrongfully rejected. \nI am requesting the CFPB investigate this matter and assist in recovering the {$2800.00} that was wrongfully charged and remains unrefunded."
+}

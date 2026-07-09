@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6534",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28590"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22129,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order for this item on XX/XX/XXXX, for a XXXX XXXX XXXX XXXX. It arrived with discoloration within the coins holder and I reached out to the merchant about it for a return attempt. The merchant sympathizes with me first but unfortunately, the merchant claims that the item I received was in good condition, even though it wasnt. I attempted to file a dispute with my card issuer, and they sided with the merchant, citing customer abuse and item was in good condition. I attempted to reopen the dispute, but to my dismay, the card issuer denied it."
+}

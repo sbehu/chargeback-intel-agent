@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1587",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10036"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8891,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reported a fraudulent transaction in the amount of {$540.00} that occurred on XX/XX/XXXXXXXX  with my Barclays View credit card to Barclay 's fraud department as I did not recognize the transaction. They provided a provisional credit and investigated the transaction, which ultimately resulted in them charging me back for the amount and interest from a letter dated XX/XX/XXXX, stating their reasoning as the transaction being valid as the \" chip card technology was used and the card was in my possession ''. I called them back to confirm that again this transaction never occurred and if they truly think it's valid to provide my signature or more documentation. Again, simply because the chip technology was used, does not mean I approved/authorized the transaction since various merchants ( i.e. restaurants ) handle the card when you make a purchase and could make a fraudulent transaction with it. As of XX/XX/XXXX, they have not decided to reverse the transaction."
+}

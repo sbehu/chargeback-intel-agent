@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6853",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20147"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 640,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted the merchant but was told it was delivered correctly, as in to the right address. \nI live in an apartment complex and in the new building ( we have XXXX ). It shows that it was delivered on memorial weekend and someone did receive it and signed for it as XXXX. I have no idea who that is nor have I given any authorisation. The driver should have called me down via the intercom for that delivery ( direct signature was required ) I contacted management of the building and they confirmed again that no XXXX  delivery was delivered for me and they had provided a full audit of the mailroom and building to try and find it but couldnt locate it. \nI also received contradictory messages from XXXX that day. They text me that they werent able to deliver and said the delivery was delayed. They stated to try again next business day. But less than an hour later they show its delivered. This makes no sense. The driver probably just saw someone open the door and just left it with someone. Or he went to the wrong building for delivery. In any case our building manager is very clear, they havent received anything for me. This is gross negligence and very irresponsible. \nPlease help me resolve this issue and get a fair resolution. \nThank you"
+}

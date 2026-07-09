@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_356",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8822"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31464,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened the disputes for wrong merchandise received on XX/XX/XXXX for XXXX $ from XXXX XXXX XXXX  XXXX XXXX. The merchant wouldnt come to get his products ( XXXX rolls of artificial turf ) and wouldnt issue a refund. \nNot only the Citi bank dragged the case into the XXXX, it sounds like they didnt read any of the proofs and docs i submitted to them. All they went with is the merchants response denying the charge. Case closed, investigation complete on XX/XX/XXXX! Unbelievable! They refuse to reopen the case and deny my appeal and I know I have a right to do that! \nCiti bank is the worst bank I ever dealt with, wish these charges were made with XXXX."
+}

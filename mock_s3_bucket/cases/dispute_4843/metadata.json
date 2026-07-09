@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4843",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "703XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3604,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express and myself has been having issues with not disputing charges that I did not make purchases for. Since XXXX to XXXX I have been waiting to resolve this matter. I took out XXXX dollars from my account. The money was extra. It had not been applied to transactions. Because I immediately called them my bill was paid and they sent me my money back. XXXX XXXX had to stop my card because of there miss use of my funds as well. So they put the {$340.00} back into my account and now I have a bill. I did not make these charges they dont exist on my account. Please help me better explain to American Express that I need those charges and now late fees dropped."
+}

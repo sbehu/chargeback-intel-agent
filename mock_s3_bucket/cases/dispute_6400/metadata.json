@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6400",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20850"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6433,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased the stove at Best Buy location in XXXX, MD. Employees loaded on to my truck without any packaging, protective plastic or securing appliance. By the time I arrived home, the glass front was shattered. Multiple attempts at resolution via phone, in-person at another store and written complaint to address 1 ) dispute and 2 ) damages. No reply since mailed XXXX. I purchased and installed a replacement glass front and provided these receipts along with photos with my written complaint. I would like this {$140.00} either credit to my account or refund via check."
+}

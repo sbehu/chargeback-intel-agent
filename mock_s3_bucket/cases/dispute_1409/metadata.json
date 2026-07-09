@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1409",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85022"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13728,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX I was charged {$360.00} from XXXX, which was unauthorized. I never have used XXXX. I contacted Citibank and they reversed the charge and said they would initiate a fraud investigation. \nXX/XX/XXXX they added the charge back onto my account and never informed me. I did not receive a XXXX statement. \nXX/XX/XXXX I then received a payment past due notice by email although I had never received XXXX of XXXX statements. Apparently they had me set up paperless which I did not request. I havent used this card for many months and so did not realize that statements were missing. \nXX/XX/XXXX I called and spoke to XXXX and she said that the XXXX had no proof of delivery and that someone with a different email ordered it on my card. She said they would remove it back from my account. \nXX/XX/XXXX It was not removed and interest and late fees were charged on XX/XX/XXXX. \nXX/XX/XXXX I called again, spoke to XXXX. He said it was being investigated and should be corrected shortly. \nXX/XX/XXXX I received an email stating that my account is past due 25 days. I know that if the account goes 30 days, it will be reported as a negative on the credit bureaus. I have a XXXX XXXX  and I do not want their incompetence to reduce my XXXX."
+}

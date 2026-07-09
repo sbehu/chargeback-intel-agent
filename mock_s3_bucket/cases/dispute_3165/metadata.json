@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3165",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30080"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9793,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received an email from the company, stating that I owed a balance. I called the company and informed them that I did not make the purchase. I never had the new card activated. I explained that to them and informed them the purchases were not made by me and I have no idea how the purchases were made when I had the card in my possession. They opened an investigation and about a month later, I received a new bill with the charges put back on the account and was told I was held responsible and if I did not pay, they would report it on my credit report. No other information was provided by them. The card had a charge to XXXX XXXX for {$44.00}, on XX/XX/2023, a charge for XXXX {$110.00} on XX/XX/2023, XXXX for {$110.00} on XX/XX/2023 and a charge to XXXX XXXX XXXX XXXX for {$100.00} on XX/XX/2023."
+}

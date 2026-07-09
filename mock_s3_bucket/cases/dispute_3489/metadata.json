@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3489",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77498"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43936,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, there was a fraudulent charge that happened in XXXX, XXXX for {$630.00}. I have then reported this charge as fraud. On XX/XX/year>, Barclays did an investigation and concluded that I was responsible for the charge. The cartel in XXXX took my card and said it wasn't working. Even though the charge went through. This wasn't a charge that I was approved of. They took my card without permission and approved the charge. This same vendor known as \" XXXX '' also did a fraudulent charge on XXXX card XXXX The only difference is that XXXX gave me my credit back because they recognized it. The same vendor tried to charge me {$8000.00} on my XXXX card. Barclays has acknowledge this was an unrecognizable charge because I never used my credit card on the trip until that transaction. This is a charge that I never approved of. There wasn't any signature to validate this charge. I also couldn't reach out to the vendor because they are the cartel. Please help me resolve this issue, this is clearly a fraudulent charge that I never approved of."
+}

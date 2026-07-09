@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5653",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "2760"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 882,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On our about XX/XX/XXXX I noticed my Best Buy credit card was being used by someone in XXXX. While paying my bill I noticed a large online purchase that I was not aware of for {$3000.00}. I contacted Best Buy directly on or about XXXX of XXXX. During that time several more purchases were made online not by me and returned in XXXX XXXX Best Buy opened a fraud case and issued a new card. The day after I received the new card I again noticed several online purchases made by someone other than me. Best Buy again issued a new card and credited my account. \n\nThe following is a summary of fraudulent purchases made : XX/XX/XXXX - Online purchase of XXXX -Returned item in XXXX XXXX on XX/XX/XXXX for XXXX XX/XX/XXXX - Online purchase for XXXX XX/XX/XXXX - Online purchase for XXXX XX/XX/XXXX - A return in XXXX XXXX for XXXX XX/XX/XXXX - Online purchase for XXXX XX/XX/XXXX - Online purchase for XXXX XX/XX/XXXX - Online purchase for XXXX XX/XX/XXXX - Online purchase for XXXX XX/XX/XXXX - Online purchase for XXXX After filing a dispute I was credited back {$130.00}. The letter stated I did not have sufficient evidence. I have not made a purchase from Best Buy since XX/XX/XXXX. I have received no items from online purchases, and I know no one in XXXXXXXX XXXX \n\n\nOn Wednesday I received a fraud alert from Best Buy asking if I was aware of a {$2100.00} purchase in XXXX I told them no and they again issued a new card. They were able to stop the transaction from going through. My goal is to clear the fraudulent debt, pay off the amount I owe and then cancel the card since I've had so many issues in the past few months with little help. I have file a police report with my local police department."
+}

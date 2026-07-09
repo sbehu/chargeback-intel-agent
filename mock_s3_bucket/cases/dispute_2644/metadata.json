@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2644",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "198XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32100,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase for a sneaker shoe on XXXX XXXX the post claimed the shoes were delivered but I have not received them. I contacted Macys within the time frame of the delivery and to date I have not been offered a credit. XXXX representative said the credit would be applied back in XX/XX/2024 to date that hasnt happened. The amount of {$86.00} remains and Macys telling me that I should file a police report. In addition, I have made several payments and still my balance remains unchanged."
+}

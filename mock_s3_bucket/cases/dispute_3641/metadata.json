@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3641",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91789"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42347,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchase was made from XXXX XXXX and not used at all. In other words, I purchased what works as a gift card and never used it within the first 72 hours and returned it at or immediately before the end of the 72 hour period. Industry standard is five day threshold, not three, and such five days allows use irrespective of request for refund. Issue was resolved with vendor but vendor didn't seem to have processed a refund after the first billing period so complaint was filed with bank. Bank unresponsive as to the complaint. Doesn't acknowledge receipt of the letter regarding the issue."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2354",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "922XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14642,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint againts Citigroup Inc. ( Citibank N.A ). I applied to a XXXX Citi Bank credit card for a balance transfer. I transfered an amount of {$2700.00} from a XXXX XXXX XXXX account ending on XXXX. After noticing that my XXXX account balance didn't go down to {$0.00}. I contacted XXXX on XX/XX/XXXX and they adviced me there was no request for any balance transfer. I called Citibank on XX/XX/XXXX right after XXXX. They told me the transaction had been completed. I told them my other balance never went down to zero. After speaking to multiple representatives. They told me that the card I tried to transfer doesn't match to the card they wired money to. Multiple representatives told me they transfer money to a card ending on XXXX, when my credit card ends on XXXX. My transaction initiated on XX/XX/XXXX and was completed on XX/XX/XXXX but my balance appear online after XX/XX/XXXX. They simply said \" Yes it might take some time '' which is outrageous since my request started on XXXX and was supposed to be completed mid XXXX, they basically made me aware of my balance after XXXX. They told me the money they transfer money to also belongs to another XXXX XXXX XXXX account. I've been contacting this agency multiple times on XX/XX/XXXX, XXXX, and XXXX. On XX/XX/XXXX I had a representative by the name of XXXX who hung up on me after asking the status of my balance transfer dispute. Then I called again and made contact with XXXX who told me the investigation might take over 30 days. It was confirmed on previous multiple calls that the transfer was a representative error but they still haven't resolved my inquiry nor reinbursed my account back to zero balance. I also have prove about the representatives mentioning it was an error on their behalf. I talked to XXXX again on XX/XX/XXXX and he confirmed once again the transfer was made in error due to their representative. As a resolution, I want them to make my balance zero and reinburse my money for any payments I've made so far, so I can process the correct balance transfer."
+}

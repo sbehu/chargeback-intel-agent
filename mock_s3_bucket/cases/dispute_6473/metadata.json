@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6473",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16743,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding American Express dispute XXXX. I am sick and tired of this company treating XXXX customers like me as second clsss XXXX  and discriminate against me by constantly reopening my disputes. I have provided all the proof to American Express the damaged items were returned yet they open my chargeback again because they dont believe my evidence because I am XXXX. This is despicable. I am very close to closing my card entirely with them because this treatment is unacceptable."
+}

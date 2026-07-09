@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5451",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "604XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1459,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have previously submitted this complaint. My credit card was used over the XXXX of XXXX holiday in XXXX for {$1200.00}. I was not in XXXX at anytime over the XXXX nor did I give my card to anyone to use. \n\nThe company removed the charge for {$290.00} on XX/XX/XXXX to the same service provider, XXXX. XXXX is well know on the internet for having fraud issues on the XXXX XXXX XXXX website. I"
+}

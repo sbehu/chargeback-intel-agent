@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10910",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "549XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35216,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I calculated at XXXX years interest free I would need to make {$75.00} a month payments. I have XXXX  months interest free I believe my balance should be at {$750.00} because there was no interest for XXXX years. {$75.00} a month for XXXX  months so the balance should be around {$750.00} for a washer and dryer. The Home Depot Citi Bank credit card is only good at XXXX XXXX. I just bought a washer and dryer."
+}

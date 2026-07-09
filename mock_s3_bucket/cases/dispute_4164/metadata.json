@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4164",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "74133"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8738,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "this is a follow up to previous complaint i raised ( XXXX ) back in XX/XX/2024. Back in XX/XX/2024, i used my citi custom cash card that i used to purchase skin care items from XXXX, but until today XX/XX/2024, not only i still have not received the items from the merchants, but my citi dispute still says \" We're Making Progress on Your Case. '' Be real, what progress have you made after 9 months? Its been 6 months after the dispute reopened which was on XX/XX/2024, what progress have you made? what \" investigation '' have been done? Your own policy in the website says it will be resolved within 90 days, if the merchant doesnt response, then you will close the dispute, yet the dispute is still \" in progress. '' Clean proof of a company that doesnt follow their own policy, CFPB has a clear ground to levy a fine to Citi , it should teach company to follow their own policy and not rewards merchants that doesnt give the items after payment!"
+}

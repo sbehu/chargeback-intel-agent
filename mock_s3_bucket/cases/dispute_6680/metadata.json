@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6680",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27516"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was defrauded of {$10000.00} on XXXX XXXX XXXX. My credit card company, Barclays, reviewed the case and refused to remove the charges. I have tried repeatedly and failed to get a sufficient explanation. They are demanding I show receipts for purchases I did not make."
+}

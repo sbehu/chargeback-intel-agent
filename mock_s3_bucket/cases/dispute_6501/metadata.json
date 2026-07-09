@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6501",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60625"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27831,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>XXXX  I agreed to pay a {$10.00} donation to a cause that seemed legitimate. When the transaction was complete I received a fraud alert ( text ) from Citi for the amount of {$5000.00}. I responded that it was fraudulent. I also received a phone call from Citi and confirmed I did not approve the charge. They said not to worry and would be sending new card. \n\nCiti has since decided the charge legitimate as the card was in possession at the time of the transaction. After 2 attempts to rectify with Citi, their response has been to send me a standard form letter stating they have completed their investigation. They won't define what was investigated.\n\nAccording to them I owe {$5000.00}"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7056",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11373"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23255,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I need to dispute a charge of {$460.00} on XX/XX/XXXX for I never requested for the services I was charged for and I already requested the merchant to give me the refund with a email evidence attached from XX/XX/XXXX. The merchant was greedy and evil minded. Instead of giving me a refund for I didnt receive nor request for any services from this merchant since then, I got another big charge of {$1700.00} without my authorization. I informed Citi Bank right away to help me resolve the dispute, and I even talked to a supervisor called XXXX from Citi Bank on XX/XX/XXXX regarding this dispute. I followed the instructions from the Citi Bank representative over the phone and mailed a letter to XXXX. XXXX XXXX, XXXX XXXX, SD XXXX for them to resolve the dispute for me. I already disputed this charge since early XXXX this year in XXXX within XXXX  months since this charge happened, but Citi bank kept delaying the process and requested me to send out another letter to dispute the same charge again. The instructions of Citi Bank representative were misleading. I followed everything I was told to request for disputing this charge, but Citi Bank failed to help me and they violated my consumer rights for not helping me to get this dispute resolved. I never received nor requested any kind of services from this merchant who charged me {$460.00} on XX/XX/XXXX and {$1700.00} on XX/XX/XXXX. I never signed any contracts with them nor authorized them to continuously charge me for services that I never received nor requested for. This was a XXXX. How can I get charged for so much for nothing?! Citi bank must help me resolve this dispute and give me back {$460.00} and {$1700.00} to my Citi XXXX XXXX XXXX ending with XXXX ( old card ending with XXXX ). Citi Bank can not use the time period as an excuse to dismiss my request for disputing the charge. Because it was Citi Bank who delayed the process for helping me to resolve these disputes. I first requested to resolve this disputes in early XXXX since XX/XX/XXXX. Now already over XXXX  months and almost XXXX  months, they still have not resolved my disputes."
+}

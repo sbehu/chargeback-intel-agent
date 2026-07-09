@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_180",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90280"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36820,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I sent a letter via US mail on or about XX/XX/2023 to the following mailing address : American Express Customer Service XXXX XXXX XXXX XXXX XXXX, TX XXXX This was a request to open a dispute for a transaction with XXXX made XXXX XX/XX/2023 in the amount of {$560.00} I submitted this dispute within 30 days of the transaction. As of today, I have not received any correspondence regarding this dispute. I request that the full amount be credited back to my account and that all the interest charges accumulated over the time be credited as well."
+}

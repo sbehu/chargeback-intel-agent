@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11669",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3062"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44086,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered creams, boxes of catheters, and thermostats to XXXX XXXX using my American Express and XXXX Credit card. This was supposed to be sent out as XXXX orders that were already generated from XXXX as fulfilled by merchant ( FBM ) fulfillment. Needless to say, XXXX people complained they received mini toothpastes as opposed to the ordered item. XXXX XXXX was also supposed to send out a much larger order to XXXX which I later switched to my house. I had to encourage XXXX multiple times to send the larger XXXX order out even though it was paid XX/XX/XXXX. \nNeedless to say, I was never able to get an assurance this shipment was sent out, and XXXX attempted to lie there was nothing wrong with the shipments, even though I received a returned mini toothpaste. \nWith the mounting returns and refunds I had to honor through XXXX, it became clear that XXXX scammed me, which is why I first requested a refund from XXXX ( which was promised to me except for {$650.00} of the {$11000.00} I paid them ) and then they were saying that it would take another XXXX days to get the refund which is why I initiated a dispute to American Express and XXXX credit card. Plus, continuing to do business with them given their fraud of swapping much mini toothpastes for much higher value ordered products showed intentional fraud and was also compromising my XXXX account. \nOut of the XXXX charges I made ( XXXX through XXXX and XXXX through American Express ) to pay for XXXX 's offering, American Express since has came back and denied the {$4900.00} dispute due there being a no refund policy within the terms and conditions that the payment processor XXXX had. \nI never have recalled there being a no refund policy, and the documentation contained within the dispute denial shows that I actually agreed to a Privacy Policy as per the included screenshot but the screenshot did not show that I agreed to a terms and conditions or a refund policy. I also saw the terms and conditions on the live XXXX website when attempting to pay a payment link that I created had a no refund policy but also excluded fraud, which it is of clear understanding American Express and XXXX that XXXX committed fraud. \n\nIn addition, I also found out that XXXX does not allow XXXX payor to pay a XXXX recipient which is further evidence that, given XXXX portrayed themselves to be operating from TX, they could only be out of the XXXX given the payment went through. This shows that XXXX is operating outside of the XXXX, given the payment would not be successful. This also shows that XXXX very likely violated XXXX rules."
+}

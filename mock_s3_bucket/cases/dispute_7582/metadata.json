@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7582",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92335"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48463,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An unauthorized purchase was made with stolen information of {$990.00} on XX/XX/XXXX. I have called the bank on multiple occasions and the issues has not been resolved. The bank states I am responsible for the charge even though I did not make the purchase and I don't have the purchased device in my possession. Either my credit card was stolen or my information was duplicated even though that bank states that is impossible, it is possible, it has happened with my bank card in the past. Around the time of this incident, my car was broken into but I did not notice anything of value missing at that time. I reported the fraudulent transaction as soon as I learned about it which was XX/XX/XXXX. At the time of this purchase I did not have available balance to make a purchase that big but the bank still authorized it, not sure why. At that time my card balance was about XXXXXXXX XXXX  and I only have a total available credit of XXXXXXXX XXXX  which means I probably only had about XXXXXXXX XXXX  of available credit at the time. Not once did I get a call from the bank asking if I was making this suspicious purchase. I have called the bank, submitted the police report and yet nothing has been resolved. My ATM card was also used that same day, XXXX XXXX took care of the problem the same day."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5294",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "87124"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7656,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX- I consulted XXXX for vaccination services and I was told that they offer them. Created my account with XXXX and entered my information including my insurance information. I scheduled an appointment for my first vaccine shot and called the XXXX call center to check if they can confirm if my insurer will cover the cost of the preventative service. Call center agent confirmed that it will be covered since it is preventative. Proceeded with the appointment with the XXXX XXXX  who administered the first dose of the vaccine. Before the vaccine was administered, I inquired again ( with the XXXX XXXX in person ) if theres any co-pay, the nurse practitioner said no because preventative treatment are usually covered with XXXX. The same thing happened with the XXXX succeeding doses, confirmed with call center agents and nurse practitioners who administered the medications. \n\nXX/XX/XXXX- received an email from XXXX containing a notice that my credit card on file was charged for the vaccination service received XX/XX/XXXX. Called XXXX about it to ask why and was informed that my insurer ( XXXX XXXX XXXX ) refused to cover the service. I then called XXXX and was told that the XXXX XXXX XXXX gave me false information about coverage, so it will not be covered. Called XXXX call center again to ask for help, and was told that the company is not liable for whatever false information XXXX XXXX had provided, and should have checked the coverage myself ( although the XXXX website says their staff will check insurance process for patients as part of their service ). \n\nAttempted to dispute the charges through CitiBank, which handles the credit card that XXXX has charged. Using their mobile app, I accidentally put in XX/XX/XXXX instead of XX/XX/XXXX as the correct date of service on my dispute request. Being new to the XXXX and it being my first time to dispute a charge, I did not realize that withdrawing the dispute means taking the financial institutions ( CITIBANK ) right for the dispute. I mistakenly withdrew the dispute for the intention of just correcting the date ( which happened only few seconds after dispute submission ). Called citibank for the honest mistake and asked for assistance for correction and dispute resubmission but was told by their supervisor that they have no power to do anything about it anymore. \n\nResearched online and discovered that CFPB might be able to help. I work as a healthcare practitioner as well and was told by co-workers that they have heard others experienced the same issue with XXXX too. Hopefully this report not only can help me with my dispute, but also stop the company from taking advantage of people through unethical misinformation which burdens people who deserve better and honest healthcare services."
+}

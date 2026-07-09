@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3344",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "601XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17864,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been contacting Citi Bank ( Costco Visa Card ) for nearly 6 months to resolve this issue. \n\nWhile driving in my home state on XX/XX/year> ( XXXX ) I noticed some alerts come to my phone showing that purchases were made for XXXX XXXX  and XXXX XXXX XXXX in XXXX, CA ( I have never been there and know absolutely no one there ) for a total of {$1000.00}. I immediately called the fraud department and they cancelled my card ( I was driving in Illinois at the time of these charges and can prove it ) as they noticed the person was still making additional transactions with that Merchant. They did a temp credit and asked me to sign some documents stating that I was challenging the merchant for these charges and was told to send them to XXXX. I did so. Fast forward to the \" Deadline '' date given to submit those documents and I was told my case was closed and they reversed all my credits. I immediately called in and was told I had never submitted the documents. That the email I had sent them too was incorrect. Well, it turns out their instructions were wrong ( I have copies ), so the agent forwarded the documents I sent to the correct department and essentially told me I probably would not get refunded. I fought back and sent another email stating I was formally disputing the closure of my cases. \n\nThey had only given me back a total of about {$100.00} ( still owe me $ XXXX ), To make this worse the fraudsters used my name with a middle initial of XXXX XXXX '' and I do not even have a middle name so that is also legally not even me... This alone should have been a blaring red flag. \n\nThey did not ask for any more information and I kept calling being told there was no update. THIS IS MONTHS. I have submitted a police report and filed with the FTC. This information was also provided to them. I finally got a hold of someone who said I should submit my ID and a photo of myself as the merchant sent pictures of the individuals who used my information. I did so immediately, but they initially never asked me for this even though they had the images from the Merchant all this time. \n\nThe last rep I spoke to said I do not look like the individuals the merchant sent, but that the case is still under investigation. This is WILD and the case is still not resolved. These fraud charges happened in early XXXX and it is now end of XXXX. \n\nIf you are submitting fraud information be sure you send it to XXXX they have the wrong instructions on their info sheets and this is how they get you. That in itself should have had them immediately reverse the charges and give me my money back. I feel as though I have been mislead and tricked to losing out my money due to Citi banks poor instructions and incredibly slow investigation processes. This is causing me financial hardship. \n\nThese cases are still open and while I just called today, they still had zero updates. Citi has my signature, documents, ID, photo of me, etc. and everything is still pending. Not to mention their investigation team took 2 months and didn't even make a single note on my case till I called AGAIN."
+}

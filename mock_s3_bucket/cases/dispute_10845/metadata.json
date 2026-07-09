@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10845",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34983"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26818,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased an international airline ticket from XXXX XXXX for travel from XXXX to XXXX. The charge of approximately {$640.00} was placed on my Citi XXXX XXXX XXXX credit card. \n\nDue to a significant snowstorm impacting travel conditions, I contacted XXXX XXXX on XX/XX/year> to request cancellation and to inquire about available weather waivers or refund eligibility. The representative informed me that no refund or credit would be issued and did not provide a clear explanation of the applicable fare rules or any review of potential policy exceptions. \n\nI attempted to resolve this matter directly with the airline but was not provided meaningful assistance or escalation. I believe the merchant has not properly evaluated refund eligibility under its published policies or applicable consumer protections. \n\nI am requesting that the credit card issuer review this dispute and determine whether the charge should be reversed if the merchant is unwilling to provide appropriate relief. \n\nConfirmation : XXXX - XXXX XXXX XX/XX/XXXXXXXX XXXX XXXX"
+}

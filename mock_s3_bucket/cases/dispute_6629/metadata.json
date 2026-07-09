@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6629",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89081"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21528,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a scam dispute in XX/XX/2020 a job found on XXXX  I provided them email pictures the instructions they sent for this work at home job XXXX. I was scammed out of they made me responsible. XXXX XXXX  offering work from home XXXX hour they contact you interview you fill out an application then they call tell you that you have the job and then ask you to get software the software they have you look for from a list they send ends up not being in store and its at that time they see buy they gift cards so they can do the software purchase. 5 years later I see that this has now been seen as a loan scam at the time I filed I was left holding iit with citi bank XXXX. I believe I should get my money back"
+}

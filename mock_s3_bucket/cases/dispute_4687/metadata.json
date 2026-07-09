@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4687",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "194XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17763,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XX/XX/year>, I got an email alert from XXXX. It was an spending alert in the amount of {$3300.00}. \nSince I didn't make this purchase I immediately called the home depot customer service which transferred me to citi card services. They disabled my cards and issued new cards. Also, they created a dispute for the above transaction and transferred it to their fraud/security team. \nOn XXXX XX/XX/year>, I got an email from home depot about due bill amount of {$3300.00}. \nSo I immediately called home depot credit card services. The customer representative told me that their security team has left a document on XXXX XXXX in my online home depot credit card account. \nThe document states that the home depot credit card security team ha\ns rejected the fraudulent/unauthorized charged claim. And I am responsible for those charges.\n\nI am requesting you to please looking into this matter and provide help as this transaction was made by someone else in some other state. I did my due diligence of reporting the fraud immediately."
+}

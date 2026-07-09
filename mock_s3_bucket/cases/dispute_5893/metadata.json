@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5893",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32164"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47292,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My spouse and I were coerced into signing a timeshare contract on XX/XX/year>, by XXXX. \n\nOn XX/XX/XXXX, a rep told us that if we submitted our cancellation letter that morning, it would be honored. We did so. \n\nXXXX then reversed course, refusing the cancellation and attempting to hold us to the contract terms. \n\nThis is a misrepresentation that caused financial harm. We want this on record and resolved."
+}

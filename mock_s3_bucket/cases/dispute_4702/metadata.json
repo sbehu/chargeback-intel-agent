@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4702",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92037"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3487,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I purchased XXXX XXXX XXXXXXXX XXXX using Amex Travel and credit card for the first time, so we could recline. This was prepaid a month before we departed. Our return flight on was cancelled XXXX hours before boarding. We were unable to get XXXX XXXX seats on our return which was delayed until the following day, also booked by Amex Travel. We were put into XXXX XXXX for XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Dates and reservations attached."
+}

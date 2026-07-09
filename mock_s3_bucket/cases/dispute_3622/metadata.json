@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3622",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94587"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7818,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Date of Transaction : XX/XX/year>2024 Amount request for Balance Transfer : {$13000.00} Balance Transfer Fees : {$520.00} I did a balance transfer on XX/XX/XXXX to this Debit card account ending in XXXX. \nAlthough Barclays reported that the current amount of {$13000.00} has been transferred to the account I did not receive any funds up until now. I've called customer service to get an update but I was told that it may take a while to post on my XXXX XXXX account. I waited for so long that the status was already showing processed from Barclays and wanting me to pay the XXXX XXXX that is due on XX/XX/XXXX, added to my monthly statement without receiving the funds on my XXXX XXXX account. \n\nThe options from the application are Credit or Loan account but I ended up putting my Debit card number ( Which in fact should go to the bank account number if money were transferred ) which they should have stopped and canceled the transaction but then proceeded with the requested action. I asked if this could be reverted but since the transaction had been posted they couldn't help but investigate."
+}

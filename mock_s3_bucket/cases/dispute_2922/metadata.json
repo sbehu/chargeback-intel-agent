@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2922",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6108"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34770,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, I requested a new card but never received it. Subsequently, I noticed unauthorized charges on my account. I called and reported the fraudulent activity, explaining that I had not received the card in the mail. After an investigation, the charges were denied. \n\nDespite continuing to seek a resolution, I was informed that I needed to submit a police report. I had already done this and provided the case number, but months passed, and the fraud claim was still denied. I asked why, pointing out that I could not have made the purchases without having the card in my possession. I was again instructed to send the police report, which I did. However, even after two more months, the fraud claim was still denied. \n\nI refuse to pay for charges I did not authorize. I am seeking assistance with this matter. \n\nBest regards,"
+}

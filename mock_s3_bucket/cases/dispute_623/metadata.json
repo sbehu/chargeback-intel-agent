@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_623",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28269"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3908,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I started receiving calls from BARCLAYS BANK around XX/XX/2023. They will call me several times a day. When I would answer the calls they would hang up. I finally decided to call back and ask why they calling my cell phone and she stated she could not give me any information. This was on XX/XX/XXXX of 2023. I advised her XX/XX/XXXX of 2023 if she can not give me any information to do not call my cell phone any longer and put my phone number on the do not call list. They continued to call my phone time after time after I requested Do not Call. I do have several screenshots and a phone record. I finally answered one of the calls again, and again they hung up. So I called back And asked them who are they looking for? She took my phone number and stated my full name. I advised her that I am the person that you're looking for. I advised her again that I requested that they do not call me XX/XX/XXXX of 2023. However I have been getting calls ever since then. We went over the account, and she advised me that the account was past due because of check return. I advised her that the rebate was not applied in time and when I paid the payment, it told me I had a XXXX balance. She went to explain about the rebate and what the rebate covered. I advised her I would touch bases with my bank in reference to the payment returning. However, the rebate was the issue. A few days later I begin to get calls again from BARCLAYS BANK. Again when I would answer, they would hang up. I called back I believe XX/XX/XXXX and asked them why they still calling me when I asked to be put on the do not call list and Do not Call my cell phone phone. The young lady profusely, apologize and stated she would put my number as Do not Call."
+}

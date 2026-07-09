@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8602",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "011XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7588,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CASE # XXXX Reference Number From Barclay 's Bank I am writing to report and request investigation into a series of unauthorized credit card charges made between XXXX and XX/XX/year>. \nThese fraudulent transactions were made to a company in XXXX named XXXX, which operates a public train line. A total of XXXX separate charges were processed in small amounts, collectively totaling {$2600.00}. I did not authorize any of these charges. \nIt appears that my credit card information was stolen and linked to an electronic wallet, enabling these transactions to occur. Because of the nature of the wallet, the charges can not be directly traced back to me. \nDespite my repeated efforts to dispute these transactions, Barclays Bank has denied my claims and continues to consider the charges legitimate. I have retained complete records, including account statements, correspondence with the bank, and proof of my physical location during the times the charges were madedemonstrating that I could not have been responsible. \nI am prepared to provide case numbers, supporting documentation, and any additional information necessary to assist with your review and resolution of this matter. \nThank you for your attention to this issue and for helping to ensure consumer financial protections are upheld. Barclay 's bank never flagged my card for suspicious activity, never contacted me, and has not resolved this obvious fraudulent case. \n\n\nI have attached as many files as permissible, however I do have all the emails that I have sent. \n\nTo the office of the XXXX Thank you for returning my call. Attached you will find documentation outlining the fraudulent charges in question. I have clearly indicated which transactions are legitimate and where I was at the time of the disputed charges. \n\nDespite this evidence, my claim has been denied twice. I want to emphasize that I have never been to XXXX, do not know anyone there, and have never authorized anyone to use my credit card. From what I understand, my card information was compromised and used through a digital wallet. I am unsure why these transactions were not flagged as potential fraud. \n\nThis situation has caused me serious concern regarding the safety of using this card in the future. I was advised to contact your office after requesting that my case be reopened. Unfortunately, I have repeatedly been told the issue would be resolved, only to receive further denials. One customer service representative even remarked that they had never seen this many unauthorized charges before. \n\nI have spent countless hours and made more than a dozen phone calls, yet the matter remains unresolved. Now, I am being told I am responsible for these fraudulent charges, and the most recent letter warned that failure to pay could negatively affect my credit rating. \n\nI am more than willing to provide any additional information or documentation you may need to help resolve this issue. \n\nYour attention and assistance in reviewing and reopening this case has been greatly appreciated."
+}

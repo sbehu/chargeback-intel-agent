@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2125",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7052"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19006,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a transaction on XXXX for a service using my credit card. After payment, the merchant refused and broke the terms of the agreement. I asked for a refund and the merchant refused. \n\nI contacted XXXX and my creditcard company to file a dispute immediately. XXXX upon hearing that i made a dispute with my credit card company stopped resolution and stated that they would only expediate the case if i canceled my dispute with my credit card company. A blatant form of blackmail from XXXX"
+}

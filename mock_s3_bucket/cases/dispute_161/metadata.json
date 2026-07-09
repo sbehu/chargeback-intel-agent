@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_161",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "333XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15610,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, my scheduled monthly payment date, I scheduled a one time only online payment for the balance of my credit card debt ; the actual balance for purchases at that time was XXXX dollars ; my one time only online payment was scheduled for that amount. \nI had previously established a XXXX dollar auto pay to be paid on the same day, this is an auto pay that I had established months ago and for many months, I have been paying my balance with that auto pay amount. \n\nMistakenly I did not \" uncheck '' the monthly auto pay of XXXX dollars for the pay date of XX/XX/2023, consequently, Citi requested both the XXXX XXXX time only payment and the XXXX auto pay from my bank. The XXXX was paid but the XXXX auto pay was returned as insufficient funds. \n\nDue to a policy at Citi Bank, Citi created a debit balance for the XXXX dollar returned funds and today they insist that I must pay the XXXX \" outstanding balance ''. I have discussed this issue with Citi Bank Customer service on three occasions, explaining my position that the XXXX dollar \" debit '' is not supported by any purchases and that the balance of my account was paid in full with the {$9000.00} one time only scheduled payment. The XXXX dollar balance is nothing more than an accounting place holder and does not represent any funds spent nor does it represent any funds due. Citi charged their XXXX dollar returned funds fee three times and I paid those fees. \n\nAfter the several conversions with customer service representatives and their managers, I've been told that the balance stands and must be paid. Customer service reps nor their managers bothered to look at my account balances- they simply maintain that a returned payment represents a debit and that I am responsible for paying that debit. ( and the returned fund fee ) Citibank Credit cards create debit balances from mistaken attempts to pay off my credit card balance equal to the attempted or mistaken payment regardless if the mistaken payment attempt is represented by any purchases or previous balance. \n\nAfter a month of arguing about the unfounded balance they closed my account and are demanding the XXXX dollar fake balance be paid. \n\nI am seeking to have the XXXX fake balance be recognized for what it is, an accounting place holder and be credited from my account balance. \n\nI'm sorry I can not provide account summaries that support my. are, once Citi closed my account they denied access to my my previous account statements. The only statement that I have access to is XXXX 's statement which shows {$6600.00} worth of purchases and the XXXX returned payment fee. I paid the {$6600.00} balance and as mentioned above I am seeking to resolve the XXXX dollar fee."
+}

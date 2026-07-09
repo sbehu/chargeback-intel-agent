@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4075",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61822"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4950,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "From XXXX I had a hotel stay booked in XXXX at XXXX XXXX XXXX XXXX XXXX through Citi XXXX XXXX XXXX On day of check in I was told at the XXXX that my reservation had been canceled and I would have to call who I booked through. I called citi consumer service and finally got transferred to who supposedly could rectify the issue. Citi told me every is good you should be able to check in. That was not the case. I get Citi to call the hotel and talk to them. Still nothing is solved. I am then told that I would have to rebook and get a refund for the original reservation. So I use another card and book my stay for a higher price. I check the next week the charge for {$560.00} is still on there. I contact customer service and they said it will take a week or two but I would get refunded. It has now been 54 days. This is with countless emails and phone calls. Emails said for over a month that they are not able to get ahold of the hotel. They told me I could try and get ahold of the hotel. I called and got ahold of them no problem. I have sent dozens of emails to citi and spent hours on the phone trying to get this resolved with no luck. I have since closed my checking and savings accounts with citi because their is no chance I want to deal with their horrible customer service ever again. Even closing those accounts was a nightmare requiring numerous phone calls and being transferred to different departments. Any time I tried to transfer money I would have to call and get my account unlocked. I could never in good faith recommend Citi as a financial institution to even my worst of enemies."
+}

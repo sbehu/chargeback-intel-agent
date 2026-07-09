@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5181",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "434XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39169,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have had a credit card with Barclays for almost 10 years. Recently my identity was stolen, and while my credit card company flags suspicious activity for purchases when I actually need something, they didn't flag when my credentials were changed and a XXXX XXXX account was added to my account. Then {$500.00} per day was stolen from my rewards until I got an alert from XXXX. I tried to log in to my account and had to reset my password to get in. I saw that there were XXXX transactions, XXXX each day, debiting {$500.00} from rewards and called Barclays and told them I did not add the account and take the money. The guy said it happens all the time from these \" banks ''. I told him to lock my account, delete the XXXX XXXX account and cancel my cards. He said he did, and I got a fraud claim number. \nI thought it was taken care of until the next morning when I tried to log in to my account and the password had been changed again by someone else even though my account was supposed to be locked. I called immediately and talked to a lady. I explained everything to her, she told me my account had not been locked, and another {$500.00} was stolen. The lady did another fraud claim number, and told me my account was locked, but could not be closed while I waited for fraud to resolve it. I was out of town for a few days and returned to a new card in the mail from XXXX. I immediately tried to log in to my credit card account at Barclays and my password had been changed again. I immediately called Barclays again and was told I made the changes on the XXXX to the account online, and each day since that day {$500.00} was transferred to this money laundering XXXX  bank that you don't even have to prove who you are. \nI was never offered 2fa to protect my account, I talked to the company 3 times trying to stop this. I was told each time, including today, that my account was locked. Today I was told this happens many times a day. I requested all the logs from my calls and account activity and was told I had to have a lawyer request it. I have spent far too much time trying to protect myself from not only the thieves, but my account. Barclays does not care. \nHow in today 's world can our government allow companies to knowingly facilitate identity theft and money laundering? Maybe it's a DEI thing. In my time with the card, I have never added any accounts except the original XXXX to directly pay my bill. I charge a lot for my business, so I make payments almost weekly due to the low credit on my card. I have never transferred reward points, only used them as statement credit, which when I called on the XXXX was down to about XXXX points. I told the lady that day that I wanted what was left as a statement credit. Yep those are gone now, stolen after my account was supposed to be locked. Today I was told I would not be able to recover the missing money if I closed my account, but I could not in good conscience allow it to remain open so more things could be done to my name or credit because of their complete negligence. \nEach time talking to customer support I was told this happens all the time. I want my money returned to me and my credit completely restored."
+}

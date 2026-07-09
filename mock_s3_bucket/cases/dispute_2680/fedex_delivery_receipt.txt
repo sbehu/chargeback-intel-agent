@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-74832123-US
+Shipment Date:   2026-02-20T00:00:00Z
+Delivery Date:   2026-03-07T00:00:00Z
+Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
+Destination:     7457 LINCOLN LN, ND, 58104
+============================================================

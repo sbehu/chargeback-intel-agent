@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8206",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2135"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44264,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rented an RV from XXXX in XXXX XXXX XXXX ( XXXX XXXX XXXX Booking # XXXX ), paid with my Citi XXXX XXXX XXXX XXXX. The vehicle was defective and unsafe : by the second day, the tire pressure dropped to XXXX XXXX XXXX ( and even lower overnight ), requiring at least 12 refills per day in XXXX XXXX XXXX, where there was no cell signal and very limited access to air service. This created ongoing safety risks, forced repeated detours, disrupted our itinerary, and caused significant stress and illness. \n\nAt pickup, XXXX staff instructed me to use specific phone numbers in the rental documents for support. On XX/XX/XXXX, when the tire problem first appeared, I called both numbers but no one answered. XXXX later claimed these were not their hotline, which is their internal failure, not mine. My drivers license was also withheld at pickup and not returned until drop-off, forcing me to drive without legal ID for 10 days causing extreme stress and potential legal risk. \n\nOn XX/XX/XXXX, after the trip and once I was recovering from stress-related illness, I filed a claim with XXXX ( case # XXXX ) and submitted photos and details. Their responses were dismissive, minimized the safety risks, and completely neglected their duty to provide a safe vehicle to customers. They offered only XXXX or a XXXX voucher as final compensation for a rental that cost over {$2000.00}. Their intimidating XX/XX/XXXX email further shows refusal to take responsibility or provide fair compensation. \n\nI submitted a billing dispute with Citi and requested a 75 % refund, reflecting the severe impact on what should have been a worry-free family trip and the inadequate service received. Citi is currently reviewing, but I seek CFPB oversight to ensure fair treatment given XXXX refusal to resolve the matter reasonably and their intimidating conduct in writing."
+}

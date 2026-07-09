@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4049",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48042"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33023,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>2024 I made a dispute with American Express for a transaction from XXXX XXXX, 2024 with XXXX XXXXXXXX XXXX XXXX. This dispute was a second attempt after the initial dispute was closed. The disputed amount was XXXX. ( a portion of the original amount ). American Express should have communicated information during the XXXX period of time. Each time i called to follow up they indicated that XXXX XXXX XXXX  XXXX had not reached out and I had to wait the XXXX period for them to close the case officially. I made multiple phone calls to the dispute team requesting any follow-up information to which they indicated that their \" back office dispute team '' is still working on it. Still, I indicated that XXXX XXXX XXXX XXXXXXXX have not responded to their inquiry. At no point did anyone mention an insurance claim, however today i recived notice that my dispute was closed and an insurance claim was deined. I did not make an insurance claim, i was not trying to make an insurance claim. My dispute was in regard to XXXX XXXX and the lack of evidence and response to their claim of damages. XXXXXXXX XXXX XXXX XXXX  has not responded to me in over 1 year. They claim over XXXX $ in damages. With no evidence or communication regarding the matter. American Express asked for a detailed estimate from a repair shop to which they did not receive. I"
+}

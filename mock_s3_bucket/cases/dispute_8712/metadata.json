@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8712",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "190XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42146,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint follows CFPB XXXX # XXXX and XXXX XXXX XX/XX/XXXX response ( Ref. XXXX ). \n\nIn that letter, Amex contradicted its own prior statement from XX/XX/XXXX ( Ref. XXXX ). The first letter claimed my disputes could not be completed due to the age of the charges and cited the XXXX billing-error rule ( 15 U.S.C. 1666 ). The later letter then claimed the same disputes were resolved in favor of the merchant. Both statements can not be true. \n\nThe charges in question total {$24000.00} across my Amex Gold Card ( ending XXXX ) and XXXX XXXX XXXX Card ( ending XXXX ) : {$490.00} on XX/XX/XXXX {$14000.00} on XX/XX/XXXX {$10000.00} on XX/XX/XXXX Merchant : TXXXX  / Elevated Coaching and Mentorship ( XXXX XXXXXXXX XXXX XXXX. \n\nThese payments were induced by fraudulent and deceptive claims for a done-for-you business program that never delivered the promised services. This merchant is now the subject of an active civil lawsuit in XXXX XXXXXXXX XXXX XXXX XXXX District Court, Case No. XXXX ) and multiple FTC complaints. \n\nI asked Amex to : Reopen the dispute under 15 U.S.C. 1666i ( Claims and Defenses Rule ) and the FTC Holder Rule ( 16 C.F.R. 433 ), which have no XXXX limitation ; Provide its compliance policy and procedure for handling such claims ; and Refund the {$24000.00} by check or direct deposit ( since both accounts are paid in full ). \n\nAmex refused to provide this information and continued to rely on the XXXX billing-error provision, which applies only to clerical errors not merchant fraud or misrepresentation. \n\nI incurred additional interest and minimum-payment charges while resolving these balances, including using a self-directed IRA to pay off XXXX XXXX XXXX XXXX XXXX. \n\nRequested Action : Require Amex to provide its written compliance policy for XXXX and the FTC Holder Rule. \nEscalate this matter to CFPB Enforcement / Supervision for pattern-and-practice review. \nRequire Amex to refund the {$24000.00} plus related interest and fees arising from this fraudulent transaction. \n\nAttached are Amex communications, billing screenshots, and prior CFPB filings establishing a repeated refusal to process a fraud/misrepresentation claim under 15 U.S.C. 1666i and 16 C.F.R. 433. \nThe files show Amex citing only the XXXX billing-error rule ( 1666 ), then contradicting itself by later claiming the same disputes were resolved in favor of the merchant. \nThese materials demonstrate systemic misrepresentation and non-compliance with federal consumer protection laws."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7903",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76205"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26653,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a formal complaint to the Consumer Financial Protection Bureau regarding my experience with Barclay credit card services. I initiated two disputes simultaneouslyone for {$2500.00} and another for $ XXXX with the same merchant, XXXX XXXX XXXX XXXX XXXX and for the same reason. Provisional credits were initially issued for both amounts. \nThe dispute began on XX/XX/year>, when I filed a claim and received a provisional {$6000.00} credit against the merchant. Subsequently, I received written notification that the investigation had concluded in my favor and that the credit would remain. However, on XX/XX/XXXX, I discovered on my billing statement that the {$6000.00} credit had been reversed and returned to the merchant. \nFor the past three months, I have repeatedly contacted Barclays in an attempt to resolve this issue and have provided evidence confirming that no services were rendered as promised. Despite calling at least five times to speak with a manager or supervisor, I have not received any callbacks. I am now being informed that no further action can be taken because the allotted time has expired, although I have maintained consistent communication throughout this period. Additionally, I was told by one representative that recovering the funds from the merchant would be very difficult, implying that my appeal was denied on that basisa decision I believe is unjust. \nI requested an additional review of the matter, which was denied. I submitted further evidence demonstrating that we had canceled services prior to the dispute being filed ; however, my card was subsequently charged. While I was permitted to retain {$2500.00}, the merchant was refunded {$6000.00} based on a contract that was not applicable, as multiple communications had been sent regarding service cancellation. In recent attempts to reach their office, I have found them unresponsive. \nThroughout this process, I have consistently communicated that no charges were authorized, requested refunds, and confirmed the cessation of services prior to the XX/XX/XXXX dispute filing. Despite this, unauthorized charges continued, prompting me to file disputes on three separate occasions. The merchant also filed a motion to withdraw representation on XX/XX/XXXX, and I reiterated my position on XX/XX/XXXX. The original dispute was filed on XX/XX/XXXX, and a provisional credit was issued on XX/XX/XXXX. On XX/XX/XXXX, I stated that I did not wish to continue working with the merchant, and instructed that my card not be charged. On XX/XX/XXXX, further communication emphasized that we did not want any ongoing reputation or relationship. On XX/XX/XXXX, I received correspondence from XXXX indicating no further action would be taken and the matter was closed. Nevertheless, the amount was reapplied even though the case had been previously closed. \nMy research into this company and its reviews suggests this issue is not uncommon. It appears I am disadvantaged by their handling of this case, particularly since recovering funds from the merchant presents significant difficulties given that the reversal should not have occurred. I have made numerous efforts to resolve matters with them, but their staff has been discourteous and difficult to contact. \nMy sole request is a refund for services that were never delivered as promised. Both disputes were with the same company for the same exact reason I do not see how its lawful that they can credit me for both and then take one back because its going to be hard for them to get it back from the merchant. Or say that time has passed since I kept constant communication with them"
+}

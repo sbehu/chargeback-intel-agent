@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2049",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47014,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought 3 XXXX passes from XXXX XXXX on XX/XX/2023. A few hours later I called XXXX XXXX, they never connected me so I used a XXXX online chat and cancelled all three passes. They were {$490.00} each. \nThen I got a bill from Citibank on my credit card for one pass, {$490.00}. I first tried to contact XXXX but they had closed their telephone number and their online chat was down. Later I found out they had closed that and required all communication to go through XXXX. Next I called Citibank and asked to dispute the charge. They took all my information. At this point I did not know which pass did not get cancelled. I had received no emails from XXXX unless they went to junk. Citibank told me everything was fine and I should here back from them. About a month later I called again explained everything again and checked to make sure all the information I gave them was in the notes in the computer system. \nSome weeks later I received a form email telling me I was required to pay for the one pass. I called again and this time was told that I should have reported everything in writing the first two times and it was really too late to appeal. NO ONE EVER TOLD ME TO SEND IT WRITING BEFORE THIS. i got on XXXX contacted XXXX and they told me which pass was not cancelled and which were. The pass not cancelled was form my wife who is XXXX and XXXX. She never travels alone. I pointed this out in a response to consequent letter from Citibank. Oh and that letter required a response several days BEFORE I ever received the letter. I sent them additional information but again received a form letter telling me I had to pay for the pass. My main complaint is that I was never told I HAD to put the information in writing until it was too late and that Master Card needed that information in writing to make a decision."
+}

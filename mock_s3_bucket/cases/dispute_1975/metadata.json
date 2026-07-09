@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1975",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "150XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43307,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought gift card from XXXX XXXX XXXX XXXX  gift card using my American Express Card. The card was never activated. Receipt from XXXXXXXX XXXX that \" proves '' it was activated does not show card being activated. Amex and Merchant refuse to engage, stating the case is now closed. Item was never useable, XXXXXXXX XXXX  is committing fraud. I am out {$250.00}."
+}

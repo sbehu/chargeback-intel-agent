@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2488",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "604XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24016,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Had Citibank credit card for a few months and was only using it for gas and groceries. On Friday, XX/XX/XXXX I was checking my account and noticed a {$99.00} charge to XXXX XXXX XXXX, a store I never shop at. I immediately called Citibank and they canceled my card and said I would not be responsible for the charges. They sent me a replacement card and gave me a temporary conditional credit during the \" investigation. '' Instead of submitting it as a fraud dispute they submitted it as a cancellation of goods or services. \nAfter almostXX/XX/XXXX months of countless phone calls and promises, they reversed the conditional credit and said I am responsible for the {$99.00}. They said it will affect my credit score if I don't pay."
+}

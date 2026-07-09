@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9810",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "WA",
+    "complaint_zip": "98103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37353,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a credit card with Barclays Bank US. I reported a series of fraudulent charges that were made in XXXX and XXXX which totaled to be {$700.00}. According to Barclays these charges were made \" in-person '' with a chip card used, therefore they are claiming they are legitimate. These charges were all made in XXXX XXXX, Florida - under the merchant name \" XXXX  '', \" XXXX  '', and \" XXXX XXXX '' for miscellaneous amounts. According to Barclays investigation these were made in Florida. None of the authorized users on my credit card account was ever in Florida over these dates. We also do not have any type of bitcoin account. There are numerous reports on the internet of fraudluent charges and scams with this company- we have no idea what these charges are for. Barclays is repeatedly claiming these charges are legitimate based on the fact that the transactions were made in person. I have requested that Barclays complete a deeper investigation to find out what exactly this merchant sells ( as I don't recognize it ) and what items were specifically purchased and have requested copies of receipts. Barclays is dismissing my concerns and telling me I owe the amount. I am disputing their investigation as not going deep enough with facts to support their conclusions that we made these charges. I have also filed a police report with XXXX XXXX but the police would not proceed with the case as they have redirected us back to the credit card company. I have spent hours on the phone with Barclays trying to get clarity and keep getting sent to off shore call centers in XXXX who do not understand or try to resolve this issue. I did not make these purchases and Barclays does not share any information with me yet expects me to pay for unauthorized charges. Barclays has done a substandard investigation using off shore employees in XXXX. \n\nThe original fraud case number with Barclays was XXXX. They have re-opened the case, per my request, as I am pushing them to follow up on the points I made above. They have re-opened the case under case number XXXX. I have spent hours of my time trying to resolve this with Barclays and it is has not reached resolution. They do not give their customers the benefit of the doubt and their fraud investigation findings are insufficient and there is no consumer recourse to dispute their findings - we are simply expected to accept their conclusions without any details."
+}

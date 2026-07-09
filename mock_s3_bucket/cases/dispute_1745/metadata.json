@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1745",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024 I tried to make a purchase on a merchant website with my citi Costco credit card, I made the purchase on the website and my card got charged XXXX mins later I received an email saying my order could not be processed and it got cancelled, the email says I will receive my ful refund since they cancelled my order, however after waiting several days I never received my refund, so I reached out to my credit card provider Costco Anywhere Visa Card by Citi I requested them to file a dispute to see why I havent received my refund since the company cancelled my order & said my refund was issued. After sever days of the dispute being open Costco Anywhere Visa Card by Citi keep asking me for documents which I promptly keep providing that clearly shows the merchant is the one who canceled my order & never delivered anything to me. Yet Costco Anywhere Visa Card by Citi went ahead and close this dispute based on false documents provided by the merchant, the merchant told Costco Anywhere Visa Card by Citi that Im the one who requested to cancel the order & they dont accept cancellation which is completely false information. This cancellation was done by the merchant which all my evidence provided clearly shows that the merchant canceled my order and should provide me my full refund!"
+}

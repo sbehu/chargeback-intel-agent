@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3934",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "65807"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2841,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I signed up for an XXXX XXXXXXXX XXXX Citi card. From the first month of me having the card I noticed a charge that I did not purchase. I disputed it but it continued and was an reoccurring charge each month from an online company I do not recognize or have ever purchased from. I have disputed it every month because it continues to reoccur and I have no way of contacting the company that was charging my credit card. Multiple times Citi customer service stated they would resolve the issue and it continued. In XXXX Citi customer service rep recommended cancelling my card and sending a new card so the charges wouldn't continue. A new card was issued to me but the charges continued. Again I never authorized or purchased a membership/fee in the amount of {$24.00} ( I believe this is the correct amount ). Also, I have no idea how the charges continued with a new card number issued. I was told I had to go in on my app and dispute every charge as they occurred because they were unable to stop them or block where the charges were coming from. Finally, after disputing the charges YET again, I paid my balance in full and cancelled my card and closed the account. Now, I'm receiving emails stating I've missed payments and that I'm overdue. My account is locked and I can not get into my account online or on my phone through the app. This has caused me so much unnecessary stress. I need help. They are not listening and with fraudulent charges on a credit card with no evidence of purchasing anything and unable to find said company online I should not have to go through this. I never would've signed up for this card if it wasn't for the flight rewards but now I severely regret it because they are not helping me and continuing to charge this card I no longer have. I'm unable to upload statements at this time because I'm unable to login to the account."
+}

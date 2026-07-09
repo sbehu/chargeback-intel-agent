@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3505",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83814"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38768,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX. Made hotel reservations XX/XX/year> through XXXX XXXX ( XXXX XXXX XXXX XXXX ) for a stay on XX/XX/year> for {$310.00} XXXX. XXXX plans - cancelled reservation through XXXX XXXX ( XXXX XXXX XXXX XXXX ) on XX/XX/year>. \nXXXX. Did not see credit on credit card account in timely manner - contested charge through Citibank ( credit card company ) XXXX. Citibank gave condition credit of {$310.00} on XX/XX/year> while researched XXXX. Citibank statement shows conditional credit of {$310.00} on XX/XX/year> XXXX. Citibank statement show reversal of conditional credit on XX/XX/year>. XXXX charged {$310.00}. \nXXXX. XXXX XXXX sent email confirmation of reservation cancellation on XX/XX/year>. \nXXXX. Citibank sent letter dated XX/XX/year> stating their investigation showed valid charge with instructions to send documents to dispute. \nXXXX. Faxed reservation cancellation confirmation to Citibank on XX/XX/year>. \nXXXX. XXXX from Citibank dated XX/XX/year> stating they are working on dispute. \nXXXX. Reverse of hotel accommodations on XX/XX/year>. XXXX charged {$310.00} XXXX. XXXX from Citibank stating they have made attempts to work with XXXX XXXX with no resolution. Will recharge credit card. \nXXXX. Called XXXX XXXX on XX/XX/year> and XX/XX/year>- they stated since charge was disputed they never received any money from Citibank. \nXXXX. Called Citibank on XX/XX/year>- they stated they were unable to get funds back from XXXX XXXX and we would need to follow up with XXXX XXXX ourselves. \nXXXX. We are out {$310.00} for a hotel reservation on XX/XX/year> that has been cancelled. I verified with the hotel directly that our reservation was cancelled and they do not receive the money until their customers check in. \nXXXX. We are attaching copies of all documents."
+}

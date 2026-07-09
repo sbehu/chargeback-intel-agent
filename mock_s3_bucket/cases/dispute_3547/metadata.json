@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3547",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95662"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49553,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX was made XXXX expected to receive the items XXXX I received XXXX out of XXXX items. I contacted XXXX XXXX to see where the missing items were. They looked into it for about an hour. They decided to refund me but due to the amount they needed to get it approved. Keep in mind I never asked for a refund i was simply inquiring about where the other items were. They got approval but when they attempted to refund me some third party company called The XXXX XXXX said it was denied. I contacted them and they sent me a simple report that says denied with no explanation as to why it was denied. It makes no sense since I didnt even request a refund it was HD decision to refund. I then ask HD if they could resend the missing items and due to there being no more stock available they couldnt do that. I contacted the retail equation again and they said they would send a response to HD on XX/XX/XXXX. I had not heard anything so XX/XX/XXXX i contacted XXXX again and they told me to open a dispute because they still couldn't refund me. HD denied the dispute so i reopened the dispute round XX/XX/XXXX and they said they would look into it and sent a response i needed to contact them again so i did around XX/XX/XXXX and they said they didnt need anything from me but they are having the shipping company investigate. I have not heard anything since then. I also decided to just return the order instore due to the whole issue with the dispute but i was again told i am unable to be refunded for anything due to The Retail Equation."
+}

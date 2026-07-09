@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1750",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29588"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48649,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I intended to purchase appliances at Best Buy after all appliance 's were purchased they could not be delivered until XX/XX/XXXX we could not so Best Buy Associate in store assured me all transactions were deleted. In XX/XX/XXXX I received a bill stating payment was past due I to dispute charges I didnt make and copy of charge and didnt receive any copies was told they would investigate I did not have to pay until completion. I didnt receive answer and continued being billed and reported to Credit Bureau XXXX On XX/XX/XXXX finally was told Best Buy Associate didnt remove and I am responsible to pay for their mistake. Best Buy allegedly is charging for what they are calling a Membership and a Gift Card I didnt purchase."
+}

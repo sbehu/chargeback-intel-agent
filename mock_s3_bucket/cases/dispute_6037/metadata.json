@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6037",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CO",
+    "complaint_zip": "80138"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4458,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "have been dealing with XXXX rewards world elite XXXX for at least the past XXXX months about fraudulent charges on my account. They have issued multiple new credit cards after closing the account. Even with the new cards issued there have been fraudulent activity somehow. They have usually given me credit on these activates but during the last activity on XX/XX/XXXX while the new card was being shipped again another fraudulent charge was made while the card was not in my possession but still being shipped. I called as usual and filed a complaint on their security hotline and was told again we will give you a temporary credit while we investigate the charge. Well after multiple calls to their investigate XXXX and being told they would investigate they continue to say it is a valid charge because i have a previous history of buying items from this company. I called the company ( XXXX ) and they verified that it is not valid. The company says they are not able to talk to the credit card company and also the credit card company says they will not and can not call the company. After at least a month of back and forth now they are saying in a letter they have tried multiple times to call me ( a lie ) and they are going to send this info to the credit bureaus if i do not pay the Amount on the card. I have had this card for at least XXXX plus years and never had as many issues as of late. I am at a loss of how to fix this problem and don't want my credit to be caused to be damaged by this company. The last credit card I have from them i froze the account for now ( several weeks to at least a month ) until this issue is solved. I was going to close account, but this also will affect my credit in a negative way. Please help me solve this issue with this company once and for all."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11429",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "721XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45299,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This correspondence serves as my formal Claim Notice under the arbitration provision of the American Express Cardmember Agreement. It memorializes the full scope of my claims, the factual and regulatory basis for those claims, and the specific relief demanded. I am providing this notice to the Bureau so it is clear that, absent a satisfactory resolution within the required time period, I intend to file a formal Demand for Arbitration with the XXXX XXXX XXXX XXXX XXXX ) against American Express National Bank. For the avoidance of doubt, this Claim Notice is part of a larger evidentiary packet already provided to the CFPB and OCC, including a supervisory appeal, a formal document demand and preservation notice, and supporting account records ( such as the internal XXXX XXXX XXXXXXXX XXXX XXXX entries ) that I will rely on in any subsequent arbitration proceeding. A hard-copy version of this Claim Notice, together with the full evidentiary packet, is being mailed to American Express via XXXX XXXX Mail ."
+}

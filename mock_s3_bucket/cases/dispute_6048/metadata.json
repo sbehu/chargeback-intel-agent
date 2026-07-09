@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6048",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95403"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8332,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed I had XXXX fraudulent charges in XXXX when I was looking through my statements and of course, I spoke with the merchant directly and didn't come to a proper resolution for these charges so I contacted the fraud team at Citibank immediately after. I spoke with them and explained how I had made legitimate purchases with the merchant in the past but recently stopped and was getting charged XXXX times over the course of the month for {$300.00} each. It wasn't a subscription service either since it was like a one-time thing with the merchant. I waited and waited until Citibank said that I was responsible for these charges? I did not authorize nor permit the merchant to use my card for these charges, but they still were able to charge my card without my consent and get away with it. The explanation I got from the fraud team was that \" because you dealt with them in the past, we can not reimburse you for these charges. '' I don't understand how because I have made legitimate purchases from them in the past, that means they can just charge my card unauthorized and be able to take my money for free. I tried calling the fraud department at Citibank again to reopen my case and investigate further but I kept getting bounced back and forth between agents and unable to do anything at all. It doesn't make sense to me how a merchant is able to take over {$3000.00} from me fraudulently and Citibank won't do anything about it. If anything, this would be an extremely poor look on the bank as a whole if they aren't able to protect their consumers in this kind of event and give me an appropriate resolution."
+}

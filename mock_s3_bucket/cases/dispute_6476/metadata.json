@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6476",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92802"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34100,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My name is XXXX XXXX XXXX, aka XXXX XXXX. I have a credit card account with Macy 's American Express, and I am a platinum member, which means I make many purchases throughout the year and earn some perks. \n\nOf the many purchases I made, there were two specific purchases which I disputed which have not been resolved. I will detail the two purchases below : The first is a dispute for {$80.00} ; purchase made on XXXX XXXX, 2025, totaled {$130.00}. \nThe second dispute for {$100.00}, purchase made on XX/XX/scrub>, 2025, totaled {$110.00}. \n\nWhat I purchased was very expensive makeup by a designer called XXXX XXXX, who make overpriced lipsticks, which come undone, and you end up with a lipstick cap but no lipstick! I told this to Macy 's when I disputed these charges, and their response was, return the lipstick! And refused to credit my account. \n\nFirst of all, there is NO lipstick! I do not know if they deliberately do not read disputes or fail to understand them. When the lipsticks came apart, all I was left with was the decorative caps. And further, I confirmed with the staff at my local Macy 's store in XXXX XXXX, California, that even IF I had been able to salvage the lipstick, they do NOT accept used lipsticks for return."
+}

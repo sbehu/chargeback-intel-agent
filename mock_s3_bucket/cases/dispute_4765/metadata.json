@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4765",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90262"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9301,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint addresses an unresolved dispute regarding an unauthorized charge on my American Express account ending in XXXX. In XX/XX/XXXX, an unauthorized charge appeared on this account, which was not visible in my online account management nor linked to any physical card in my possession. I did not receive any account statements by mail during this time, making me unaware of the charge until XX/XX/XXXX, when I received a past-due payment notice. Despite filing a dispute with American Express in XXXX under Reference Number XXXX, I have not received a resolution. \n\nAttempts to follow up in XXXX and XX/XX/XXXX resulted in the reopening of the dispute under Reference Number XXXX, but no further updates have been provided. Additionally, XXXX XXXX contacted me in XX/XX/XXXX regarding the account, to which I responded with evidence of the ongoing dispute, yet no resolution followed. I have also been unable to access the account or dispute status through XXXX XXXX online portal. \n\nThis situation has led to the balance ballooning to {$820.00} due to late fees and interest on the unauthorized charge. It has significantly impacted my credit score and caused considerable stress. I request immediate resolution of the dispute, removal of all late fees and interest, and corrections to my credit report."
+}

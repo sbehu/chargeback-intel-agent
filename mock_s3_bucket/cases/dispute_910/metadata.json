@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_910",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "187XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39782,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called on XX/XX/XXXX to pay off 60 month purchase plan and was told I needed {$250.00} to do so. I asked that if I paid this would it pay off the 60 month purchase plan and in XXXX weeks on my normal payment date the adjustment would be made and my normal monthly payment of {$110.00} for my 84 month purchase plan would be the amount coming out with autopay. I was assured this was correct and proceeded to pay the {$250.00}. Now XX/XX/XXXX came and the payment of {$230.00} came out of my account and when I called to see why I was told that the woman who took the call never fixed the autopay to reflect that change. I asked that they refund the difference back to me as that was now an overpayment by their mistake that I did not authorize.i was informed that they would not do that and they would file a dispute and I would get the money back within 15 days.That alone should be illegal use of funds that I didnt even authorize to be taken.so now almost XXXX weeks later I got a refund of {$230.00} which was only supposed to be {$120.00} that was over charged. I was also never told what was going on with this. They then took the balance and put it back on the 60 month plan that I had paid off on XX/XX/XXXX and charged me a late fee for the {$110.00} they were supposed to keep.now I didnt receive my title for my property that I paid off on the XXXX and they are going to charge me another month interest. I then had a message on my account that my credit limit was reduced and my account was going to be closed as of XXXX XXXX have called twice to have this fixed and have been met with nothing but complete ignorance and told that it will not be fixed and told by the management that I asked to speak with that there is nothing they will do to fix it. Then while asking for his information to forward to this agency or a lawyer I was told his name is XXXX and he wouldnt give a last name or initials and when I asked for an extension or some detail he the hung up on me. This is absolutely the most insane customer service I have ever come across. I simply tried to pay off a purchase and continue with my other plan as usual which has never had a late payment or any other issues. I do not understand how a company like this can just take unauthorized funds and do what they want with after clearly stating something different. Very fraudulent and then to vindictively reduce my credit limit to intentionally affect my credit score is absolutely unacceptable and hopefully will be handled in the correct manner. I feel as I have been taken advantage of and then discriminated against with ill intent to my credit for a mistake made by citi bank.check the transcripts for the calls on XX/XX/XXXX and XX/XX/XXXX And it will clearly show that my account has been fraudulently handled."
+}

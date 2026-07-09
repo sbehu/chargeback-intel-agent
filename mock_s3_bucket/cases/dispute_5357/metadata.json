@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5357",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "90802"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19091,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I bought a fully refundable airline ticket from XXXX XXXX for {$900.00} using my American Express card. When I attempted to cancel, their website would not process the cancellation, so I tried emailing and calling them but received no resolution. Since XXXX XXXX refused to refund me, I disputed the charge with Amex and provided my email confirmation as proof that my ticket was fully refundable. Amex initially denied my dispute using an incorrect policy about seat selection refunds, then changed their reasoning multiple times. They now claim XXXX XXXX provided a document justifying their denial but refuse to share it before making a final decision. I also requested access to my chat transcripts with Amex, but they refuse unless I obtain a legal subpoena. This lack of transparency and failure to consider clear evidence is unacceptable. I am requesting Amex process my refund or, at minimum, provide the exact fare rules tied to my specific ticket before making a decision."
+}

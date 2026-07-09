@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1825",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "902XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX and XX/XX/XXXX, my American Express credit card information was used to withdraw cash from various ATMs across the city. At least XXXX transactions were attempted and XXXX were completed. My card was used to withdraw over {$2000.00} plus cash advance fees/interest. \n\nMy card was in my possession the entire time so the card information, including PIN, were stolen ; I believe from a compromised XXXX XXXX ATM the day before the fradulent transactions took place. Since a PIN was used, AmEx doesn't recognize these withdrawals as fraud and I am now responsible for the $ XXXX that was stolen."
+}

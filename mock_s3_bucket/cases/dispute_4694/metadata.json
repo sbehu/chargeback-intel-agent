@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4694",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "90024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35450,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX I noticed ( when checking my account online ) that a {$1000.00} payment was purportedly made to my Citi Bank credit card account from a payment account that was not mine. I immediately notified Citi that I thought a fraud was in progress and that I did not make the payment. At Citi 's suggestion the credit card was canceled and replaced. Thereafter, Citi notified me that the {$1000.00} payment was not honored because of NSF and that I would be charged a {$30.00} \" returned check '' fee. Thereafter, I chatted online with a city representative who told me that I was responsible for the \" bounced payment '' ( \" bounced '' is my word not Citi 's ) I never made or authorized. The account is one I have had since XXXX. I almost always pay the bill in full. No payment was due when the fraudulent {$1000.00} payment was made."
+}

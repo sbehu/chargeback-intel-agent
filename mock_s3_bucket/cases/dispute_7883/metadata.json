@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7883",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98006"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41067,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Six unauthorized transactions totaling {$2600.00} were posted in XXXX XXXX at XXXX XXXX XXXX XXXX miles from my home while I retained possession of my card. On XX/XX/XXXX, Barclays denied my fraud claim, asserting without evidence that I authorized the charges. On XX/XX/XXXX, I submitted a formal written request for all supporting documentation, including transaction data, merchant records, IP logs, and internal investigation notes. Barclays has failed to respond for more than 30 days, in direct violation of its obligations under the Fair Credit Billing Act ( 15 U.S.C. 1666 ) and Regulation Z ( 12 C.F.R. 1026.13 ), which require timely investigation and disclosure of evidence to the consumer. \n\nThis failure has left me responsible for fraudulent charges, subject to accruing finance fees, and exposed to potential negative credit reporting. I have acted in good faith by providing timely dispute notices, affidavits, and follow-up correspondence, yet Barclays continues to withhold the records that are legally required to substantiate its denial. Their actions demonstrate a systemic disregard for consumer protections, and I request CFPB intervention to compel Barclays compliance and hold them accountable for this violation of federal law."
+}

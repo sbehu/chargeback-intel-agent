@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6441",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "WI",
+    "complaint_zip": "53711"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23256,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Through the internet site XXXX XXXX XXXXXXXX used CITI Credit Card and paid for XXXX ( XXXX ) rooms in a private property. Transaction amount is XXXX XXXX equal {$650.00} US dollars ( receipt attached, XXXX ). This was and it is the only charge with Booking. The merchant issued a credit of {$110.00}. Thus, {$650.00} minus {$110.00} equals {$530.00}. XXXX XXXX The property is located in \" XXXX XXXX '', bad neighborhood and this information was omitted from the internet description. Also it was XXXX season, there was no Heating, however, Heating was advertised in the internet. The XXXX rooms of the property presented is not the same as advertised. XXXX XXXX provided evidence of this to CITI Credit Card. The merchant failed to make sure the property was cleaned and ready for an occupant to move in. Thus, the property was yet to be cleaned. The check in didn't happen, no check in form ( XXXX ) were provided, no invoice was issued. XXXX XXXX tried to resolve these issues but the merchant decided to hang up the telephone during the conversation. The merchant chose not to answer or take any subsequent calls. XXXX XXXX had to find a place to stay and he stayed at XXXX XXXX XXXX. XXXX XXXX provided this evidence to CITI Credit Card. \nOn the back of CITI Credit Card there is an International Collect XXXX. That number didn't work. Also he tried calling CITI Customer Service XXXX didn't work too. He then asked his XXXX children to contact CITI, no help. \nXXXX XXXX paid for all the charges except the {$110.00} Credit issued by the merchant. He believes he doesn't owe CIT Credit Card for the credit of {$110.00} issued by the merchant. XXXX XXXX canceled CITI Credit Card effective XXXX, XX/XX/year>. Thank you."
+}

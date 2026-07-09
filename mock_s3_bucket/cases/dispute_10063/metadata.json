@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10063",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "132XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46704,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally dispute a fraudulent charge on my Citibank credit card account and to request immediate corrective action. \n\nOn XX/XX/XXXX, my Citibank credit card ending in XXXX was lost at a convenience store in XXXXXXXX XXXX XXXX. After realizing the card was missing, I promptly contacted Citibank to report the card as lost and to review any activity that may have occurred after that date. \n\nDuring my conversation with a Citibank representative, I was informed that a charge in the amount of {$4100.00} was made on XX/XX/XXXX, at XXXX XXXX in XXXXXXXX XXXX XXXXXXXX than a week after the card was lost and in a location I did not visit. I immediately reported this transaction as unauthorized and fraudulent and requested that the charge be disputed. I also ordered a replacement card. \n\nAdditionally, I received a Citibank fraud alert via text message regarding this transaction and responded No, explicitly indicating that I did not authorize the charge. Despite taking all appropriate and timely steps to report the loss and fraud, the charge remains on my account several days later. \n\nThis transaction is highly unusual and uncharacteristic of my spending history. I do not have a pattern of making purchases of this size, and this charge clearly falls outside my normal account activity. Given the circumstances, the timing, and my immediate response, I am extremely concerned and disappointed that this fraudulent charge has not yet been removed. \n\nI believe Citibanks handling of this matter is inconsistent with fair consumer protection practices and credit card fraud safeguards. I respectfully request that the {$4100.00} fraudulent charge from XXXX XXXX be permanently removed from my account and that I receive written confirmation of the resolution. \n\nIf this issue is not resolved promptly and fairly, I will have no choice but to escalate the matter further and reconsider my relationship with Citibank. I am hopeful, however, that Citibank and the Consumer Financial Protection Bureau will review the facts and resolve this matter in my favor."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_941",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85042"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45317,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An airline ticket was purchased using my American Express Delta Skymiles card ( confirmation code XXXX ), also the insurance box was checked to further protect if I had to cancel the flight. ( Scheduled for XX/XX/XXXX ) I canceled the airline ticket because I did not have to physically appear in court. Delta Airlines assured a refund to my credit card would happen. The credit for the {$530.00} airline ticket did not happen and I began disputing the charge when I noticed that it had not been removed from my credit card on or about XX/XX/XXXX. The charge was removed from my account and within a few weeks or less, the charge appeared again on my account. Called again to American Express to form another dispute, ( XXXX ) advised that it would be taken care of and not to worry. ( Continual process for over 4 times ) Tried to use my other American Express Card Hilton Honors, while on vacation in XXXX of XXXX for my Hilton honor points, and was told card declined, and account closed. Called American Express and was told that I disputed the charge \" to late '' and that I would have had to dispute the account within a certain \" timeframe ''. Advised the representative that I have continually been disputing this charge and was told by the representative that the charge was valid. I advised that I was told that there would be a credit issued because I canceled the flight and that credit has never happened. Contacted Delta airlines, and they stated they could not locate the flight information ( Confirmation XXXX ) despite the fact that I provided the confirmation number. Then was told if I had insurance, I would have received something for \" XXXX ''. \n\nI was charged for a flight that I canceled, never issued a credit, or even so much as a voucher to use at a later date. Now, the American Express Hilton Honors credit card that had a {$0.00} balance is closed. The American Express Delta Skymiles Credit card, as of XX/XX/XXXX has a balance of {$850.00} from all of the late fees and interest fees American Express keeps charging me for a charge that was never refunded despite the continual disputes. Now, I keep getting text messages, stating \" Your AMEX payment is due, '' \" Keep your AMEX account from going further past due and avoid further negative impact to credit score '' \" Pay {$40.00} to keep your account from becoming further delinquent. '' Now, my credit report is damaged due to American Express actions, and I have contacted and formed complaints with the credit reporting agencies. Now, I'm beginning my complaints with the CFPB."
+}

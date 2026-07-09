@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9990",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75039"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23450,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Citibanks handling of a billing-error dispute involving a charge of {$4600.00}. This complaint focuses on Citibanks unauthorized acceptance of a partial refund and the resulting misleading and inconsistent dispute records, which have caused material harm and raise concerns under Regulation Z and the Fair Credit Billing Act. \n\nUnauthorized acceptance of a partial refund Citibank accepted a partial refund from the merchant without my authorization, consent, or advance notice. I was not informed that a partial refund was being accepted on my behalf, nor was I advised that doing so would materially affect my ability to continue disputing the charge or pursue other remedies. \n\nImportantly, the merchant had previously offered me this same partial refund directly. I did not accept that offer and instead continued to dispute the full amount. My refusal is evidenced by my continued dispute of the full {$4600.00} and my ongoing communications asserting that the full amount remained contested. Despite this, Citibank later accepted the partial refund on my behalf without my permission. \n\nBy unilaterally accepting a partial refund, Citibank effectively resolved the dispute in part without my consent and interfered with my ability to continue negotiations with the merchant or pursue other regulatory or legal remedies in reliance on Citibanks dispute process.\n\nMisleading and inconsistent dispute records After accepting the partial refund, Citibank maintained misleading and inconsistent records regarding the dispute outcome. Citibanks app and multiple notices continued to state that the dispute was resolved in my favor for the full {$4600.00}, even though only a partial refund had been accepted. As of XX/XX/year>, Citibanks app still reflects a full credit and resolution in my favor, which does not match the actual transaction history. \n\nIn addition, Citibank retroactively altered the dispute amount in its records. My emails, dispute notices, and communications consistently reflected that the dispute was for the full {$4600.00}. After accepting the partial refund, Citibanks records were modified to reflect only the reduced amount, without explanation. Different dispute amounts appear across Citibanks emails, app displays, and documents submitted elsewhere. Citibank has never explained when, why, or under what authority the dispute amount was changed. \n\nThese inconsistencies prevent consumers from understanding the true status of their dispute and undermine basic transparency and record accuracy requirements. \n\nLack of explanation and failure to demonstrate a good-faith evaluation Citibank has never provided a written explanation of why it accepted only a partial refund, what evidence it relied upon, or how it evaluated the dispute. Citibank relied primarily on the merchants unsupported narrative, while I submitted documentary evidence contradicting the merchants claims. Citibank has not explained how this evidence was evaluated or why it was disregarded. \n\nWhile this complaint is not focused on relitigating the merits of the underlying charge, the absence of any explanation or documented evaluation further demonstrates that the partial resolution was implemented without a transparent, good-faith process. \n\nSupporting evidence -I have provided supporting materials showing : -The merchants prior partial refund offer and timing -My continued dispute of the full {$4600.00} -Citibank emails and notices reflecting the full dispute amount -Citibank app screenshots showing the dispute as resolved in my favor for the full amount even after the partial refund -Records demonstrating inconsistent dispute amounts and altered dispute history"
+}

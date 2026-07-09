@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5138",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MD",
+    "complaint_zip": "20785"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12112,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I closed out my Citibank diamond preferred secured credit card in XX/XX/XXXX. Later in XXXX i noticed it appeared on my credit score which is hurting me. Its has been XXXX years now i have called to dispute and investigate this issue and they still keep giving me statements and it makes no sense because why should i still be having charges if i have paid off and closed the credit card."
+}

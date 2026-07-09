@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_495",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "380XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8239,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/XXXX I made a purchase at XXXX XXXX in the amount of {$760.00} with 18months no interest if paid in full. When I realized the card company was charging interest I opened a dispute on XX/XX/2023. Subsequently, the case was closed without contacting me, allowing me opportunity to present evidence of my claim, etc. I've tried on numerous occasions to upload the receipt supporting my claim, I've tried using the chat function to figure out how to provide the receipt, today ( XX/XX/XXXX ) I called customer service. The representative refused to help resolve my issue, claiming I only have one interest promotion on my account, neglecting to understand I have the receipt for the second interest promotion. Her solution was for me to go to the store and have the manager call citi, or to mail the receipt to their po box . Both solutions requiring more effort and time on my part when we are in a digital age and could have easily emailed her the receipt to review and resolve the issue."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2522",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7410"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 743,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a very XXXX XXXX on XX/XX/2019 and I was in a XXXX for XXXX  months, during this time someone used my Home Depot credit card. I realized it when I saw HD taking {$350.00} every month, I had an automatic payment setup for all my credit cards. I made a police report requested by HD and I sent it to the Fraud XXXX. I sent a statement and description of the situation, they promised they will take care of it and that I shouldn't worry about it. Today XXXX XXXX the amount increased from almost {$4000.00} to almost {$12000.00} I spoke to at least XXXX people from HD and/or CITIBANK and every time I have to repeat the story. They reported it to the credit borough and gave my information to many collection agencies. I am desperate, I don't know what else to do. I know they have the power to do whatever they want like kipp ignoring my request and hurting my credit, but now I have the hope that someone in your department can go to the end of this problem and finalize it. \nThank you so very much in advance for your time and consideration in this matter, XXXX"
+}

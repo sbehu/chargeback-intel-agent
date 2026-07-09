@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1197",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33441"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40275,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My vacation 's last day was traveling from XXXX to XXXX. Since my original city was XXXX, I arrived in XXXX late. I went online to make a reservation for one night. I found a XXXX XXXX XXXX XXXX. for XXXXXXXX XXXX  per night. Everything was according to my plans. I paid for the hotel ; the system generated a booking number. Upon arrival at the XXXX XXXX, no reservations were under my name. I have to pay again. Later, on my credit card statement, I found a charge on my account under my email address. This is a fraud, and Barclays credit card was informed about the charge using my email address. They credit it for 30 days, and on XXXX XXXX, XXXX they put the charge back on my account. Barclay Credit Card company did not cooperate with this issue. And I need to address this issue with the appropriate authority."
+}

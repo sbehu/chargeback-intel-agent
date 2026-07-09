@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2778",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90048"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16657,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX my credit card was charged for {$3300.00} for an item that I never ordered. \nI got a refund from the Citi bank twice and now again they are telling me that I'm responsible for this purchase. \nThe bank sent me a letter as an evidence that they were communicated with me, but actually it wasn't me since email address and phone number was wrong it wasn't mine. \nUps requested a signature for delivered item and it was never signed by me.And even XXXX wrote that they didn't have account with provided email address. \nI called Citi Bank many times and no one is trying to solve this problem."
+}

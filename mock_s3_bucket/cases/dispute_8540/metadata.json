@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8540",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48386,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, while on vacation in XXXX, I signed up for XXXX XXXX XXXX vacation club. After 3 days, I tried to cancel my membership but was told I must wait until I return home to the States. After returning home, I started getting monthly bills for the maintenance fee. Initially, I paid to avoid ruining my credit while I disputed canceling my membership with Barclays Bank. This dispute lasted over XXXX years, and during that time, I ended up paying over {$2000.00}. Eventually, I got frustrated and quit paying because this dispute was not getting resolved. In XX/XX/XXXX, I received a summons to go to court."
+}

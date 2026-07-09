@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13236",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30318"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49882,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this as a follow-up complaint regarding dispute XXXX, as CitiBank has failed to resolve the issue even after my prior CFPB complaint prompted them to re-open the investigation. \n\nThis matter involves a {$6100.00} transaction for goods that were never delivered and a refund that was represented as issued but was never completed. \n\nI opened this dispute on XX/XX/year> and provided Citi with extensive documentation, including proof of purchase, written communications, and confirmation from XXXX that the refund initiated by the merchant was never completed and remained pending on the merchants side. Despite this evidence, Citi initially ruled in favor of the merchant based solely on the statement that the customer made the purchase, without requiring proof of shipment, delivery, or a completed refund. \n\nCiti only re-opened the investigation on XX/XX/year> after I filed a CFPB complaint. It has now been 94 days since the dispute was opened and 56 days since it was re-opened, yet Citi has still not resolved the matter. \n\nCiti has repeatedly failed to meet its own stated timelines. Its dispute portal indicated the issue would be resolved no later than XX/XX/year>. After missing that deadline, I was told the merchant had until XX/XX/year> to respond, which was later extended to XX/XX/year>. Citi also sent multiple emails confirming that my dispute would be reviewed by XX/XX/year>. As of XX/XX/year>, that deadline has passed with no resolution or meaningful update. \n\nThe merchant has not provided proof of shipment, delivery, or a completed refund, has ceased communication with me, and has failed to provide an XXXX  for the alleged refund. Stripe has confirmed that the refund remains incomplete and must be completed by the merchant. \n\nAdditionally, I filed a police report with the XXXX Police Department ( Report # XXXX ) regarding this transaction due to non-delivery and failure to refund. Despite this, Citi has taken no action to resolve the dispute. \n\nCiti is no longer responding to my emails ( last one sent on XX/XX/year> ) and is refusing to provide substantive updates over the phone. \n\nCitis actions, including prematurely closing the dispute, failing to properly evaluate evidence, repeatedly missing its own deadlines, and failing to act after re-opening the case in response to a CFPB complaint, raise serious concerns regarding its compliance with the Fair Credit Billing Act and its obligation to conduct a reasonable and timely investigation of billing errors."
+}

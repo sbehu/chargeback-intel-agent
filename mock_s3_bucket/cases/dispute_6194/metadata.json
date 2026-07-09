@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6194",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NY",
+    "complaint_zip": "11209"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46239,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is the second complaint ( the first was # XXXX ; SUBMITTED ON XX/XX/XXXX ). \n\nI applied for an Amex XXXX Credit Card in XXXX, but never received it. \nOn XX/XX/XXXX, I received a call from the XXXX  XXXX Police Department with information that they had arrested someone with a card with my name on it. It turned out someone had stolen my card from the mail. I checked online ; there were a lot of transactions I never did ( in XXXX and XXXX  ). \n\nSame day, XX/XX/XXXX, I called Amex, and they told me it was a pre-activated card and the XXXX additional card ( I never requested an additional one ). I asked to CANCEL all Amex cards. I reported on fraud and police involvement. They sent me my card by XXXX in the next XXXX  days, which I did not use anyway. In the previous answer, the Amex representative lied that I did not ask to cancel the stolen card. I recorded the call, and double-checked that I clearly said that it's fraudulent transactions, I do not have any second card, please cancel the cards. \n\nXX/XX/XXXX I received a paper mail from Amex, that they refused to cancel all fraudulent transactions, even though there's an active police investigation. Moreover, now I can see another transaction somewhere in XXXX. They did not terminate per my request the stolen card and refused to cancel criminal transactions. \n\nXX/XX/XXXX I called again and provided them with the phone number and name of the detective in MA. This corporation is absolutely incompetent. I do not understand how someone can use a stolen card without activation with a bank ( I didn't activate any cards by phone or online with Amex ). I recorded this call on my XXXX. Amex opened a new case XXXX. \n\nBecause of an XXXX Amex representative from XX/XX/XXXX, the stolen card was on and someone continues to use the card with a fake ID with my name. I received a new statement with car rental transactions with my name as the renter. The problem is I do not have a driving license, as well as I was overseas during these dates, and have never been in Massachusetts. \n\nXX/XX/XXXX I sent a letter to Amex ( Il XXXX ) with my identity theft report from the Federal Trade Commission ( attached ). \nXX/XX/XXXX I received mail that Amex wants to talk with me ( attached ). I called on XX/XX/XXXX to # XXXX and a representative told me that he can not see any requests for info from me ( I saved this call on my device ). \nXX/XX/XXXX I received another paper mail that Amex closed the case because \" no sufficient information '' and \" they have been unable to contact me '', which is an absolute lie. I did not receive any calls or emails. Plus, a representative from XX/XX/XXXX told me they do not need any information. The Amex fraud department, which is probably located in XXXX, XXXX, is a total fraud and absurd. \n\nI request that the CFPB be involved in this case. I saved all correspondence and the Amex is a total mess and incompetent ; more importantly, it's financially dangerous for customers."
+}

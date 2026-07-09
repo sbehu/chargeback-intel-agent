@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12275",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25483,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a charge where I followed the merchant 's return policy and have proof of delivery/compliance. Citibank denied the dispute stating I didn't follow policy, but they have failed to cite the specific policy or provide the evidence the merchant used to rebut my claim. I am requesting a manual review of my proof and a copy of the merchant 's rebuttal documentation as required by the Fair Credit Billing Act. \n\nTransaction Amount : {$350.00}. \n\nMerchant : XXXX XXXX Leadership Retreat / XXXX XXXX XXXX ( via the XXXX XXXX XXXX ). \n\nInitial Action : I formally requested a cancellation and refund on XX/XX/year>, citing unresolved safety and privacy concerns related to a XXXX. \n\nMerchant Confirmation : On XX/XX/year>, the merchants representative ( XXXX XXXX ) explicitly confirmed via email that the refund would be processed through their \" churchwide office ''. \n\nThe Issue : Despite this written confirmation from the merchant, the refund has not been received as of XX/XX/year> ( XXXX month later )."
+}

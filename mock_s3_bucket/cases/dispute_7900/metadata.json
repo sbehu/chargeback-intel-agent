@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7900",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MO",
+    "complaint_zip": "63043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11713,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Against : American Express ( Amex XXXX ) Category : Credit Card / Fair Credit Billing Act dispute Summary of Complaint : On XX/XX/year>, I was billed {$3700.00} by XXXX XXXX XXXX XXXX XXXX XXXX ( XXXX  ) for an interstate move. I also paid two deposits ( {$400.00} and {$450.00} ) on another card, but this complaint concerns the Amex charge of {$3700.00}. \n\nI disputed this charge under the Fair Credit Billing Act ( FCBA ) because XXXX failed to provide the service as agreed. I purchased the move with Full Value Protection ( FVP ), which the Bill of Lading explicitly states is not insurance but part of the contracted moving service. XXXX delivered my goods in a filthy and damaged condition ( including cigarette burns ) and refused to honor the Full Value Protection service. They offered only {$2000.00} against {$6100.00} in documented losses, despite receipts, photos, and professional repair/replacement quotes. \n\nAmex closed my dispute without reviewing my documentation, classifying it as a tort claim and stating that because XXXX delivered my goods, they had provided service. This is a misclassification. My dispute is not about negligence or insurance ; it is about services not delivered as described/misrepresentation under FCBA. \n\nWhen I called to escalate, Amex specifically told me I would need a judicial body to resolve the matter. This response is unacceptable and inconsistent with FCBA protections, which require card issuers to investigate disputes of services not delivered as agreed. Passing responsibility to a court or outside authority shifts Amexs legal obligations back onto the consumer."
+}

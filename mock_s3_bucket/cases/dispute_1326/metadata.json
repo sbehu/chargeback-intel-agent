@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1326",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ND",
+    "complaint_zip": "58102"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26448,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed on my most recent Barclays XXXX XXXX statement dated XX/XX/XXXX a charge for {$29.00} for XXXX XXXXXXXX XXXX XXXX that was not authorized. I contacted XXXX XXXXXXXX XXXX XXXX on XX/XX/XXXX and asked about the charge and I was told it was a monthly charge for unlimited car wash. I informed the girl from XXXX XXXX that I didnt sign up for a monthly car wash and she told me I signed up in XX/XX/XXXX and they had been charging me monthly for the service since then. I told her I only authorized the {$10.00} charge on XX/XX/XXXX for the car wash -I hadnt authorized anything else. She told me she would cancel the monthly subscription. I requested credit for XXXX months worth of transactions they had been charging me without authorization ( XXXX XXXX ) and she told me she could only credit me for XXXX months worth. I said that was unacceptable as I didnt authorize any transactions but the {$10.00} on XX/XX/XXXX. I then contacted Barclays billing disputes and spoke to someone regarding this and she said that since the merchant said they would credit XXXX months, she would dispute the remaining XXXX months unauthorized transactions. On Wednesday, XX/XX/XXXX, I received a letter from Barclays disputes department saying they were unable to obtain credit on my behalf because they did not receive the notification within XXXX statement cycles after the charges appeared on my monthly statement and they are past the timeframe to assist. I called Barclays disputes department that same day and spoke to a gentleman and told him the charges were fraudulently made by XXXX XXXX XXXX XXXX so asked how I would know to notify them within XXXX statement cycles? He said they are unable to assist so I requested to speak to a supervisor to which he took down my number and said I would receive a call back in XXXX hours. I never received a call back. I am contacting you in hopes that you can assist me in getting my money back for the fraudulent charges Barclays paid the merchant with my credit card. Your attention to this matter is much appreciated. \n\nSincerely, XXXX XXXX Dispute case # s for unauthorized transactions are : XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

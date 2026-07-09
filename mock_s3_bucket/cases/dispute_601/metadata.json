@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_601",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "88310"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32851,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Here is info from the website of my AmEx card statement {$53.00} Will appear on your XX/XX/XXXX statement as AMEX XXXX XXXXXXXX XXXX XXXX : XXXX XXXX - XXXX Tags Dispute In Progress In Progress Disputed Amount {$53.00} XXXX XXXX AMEX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXXXXXX ( XXXX ) XXXX Visit Business Additional Information XXXX XXXX This charge has not been refunded and was disputed, and closed without a refund by AmEx"
+}

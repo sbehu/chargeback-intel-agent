@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_915",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47731,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, XXXX, I disputed charges on my Citibank Mastercard in the total amount of {$9500.00} ( two equal charges of {$4700.00} made on XX/XX/XXXX and XX/XX/XXXX ) made to XXXX XXXX and XXXX XXXX XXXX XXXX. \n\nThe background to the charges and dispute is that in XXXX, my home was severely damaged by Hurricane Ian. Also damaged was my homes underground sewer pipe. I retained XXXX XXXX  and XXXX XXXX XXXX XXXX to repair and replace that pipe. In XXXX, XXXX, they claimed that the job was complete and charged my card for the remaining balance of {$4700.00}. When the city inspector came, he could not inspecXXXX XXXX XXXXXXXX work, because they had already buried the pipe and covered it with concrete. All permits for other repairs to my home were put on hold until the sewer pipe could pass inspection. I called XXXX XXXX four times ( on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX ) trying to get them to fix the problem they created, to no avail. To proceed with the repairs to my house, I was forced to hire another plumbing contractor to redo XXXX work. I then disputed the charges to my credit card. To date, I have still heard nothing from XXXX XXXX. \n\nAfter disputing the credit card charges, I received a letter from Citibank, dated XX/XX/XXXX, asking me to provide more information and to sign and return a form they sent. I returned the signed form and provided more information, as they requested. Following that, I was inundated by often repetitive requests from Citibank for more information and photos over the course of the next few months. I even had the city inspector back out to my home to make a list ( at Citibank 's request ) of all the deficiencies in XXXX XXXX work. He found that all of the material and work XXXX XXXX did failed to meet city codes ( after it was uncovered by a replacement contractor ) which list was provided to Citibank. \n\nAfter those months of correspondence with Citibank, I received an email from them, dated XX/XX/XXXX, asking again for more documentation. I responded to that email via another email on XX/XX/XXXX. I heard nothing more from Citibank until XX/XX/XXXX, when I responded via email on XX/XX/XXXX, to questions I had answered previously. Citibank finally responded by sending me a letter, dated XX/XX/XXXX, stating that I failed to respond to their letters, emails, and phone calls, despite my replies to each of their communications, copies of which I have attached. I retained a lawyer and informed Citibank that I had done so. Citibank requested my attorneys contact information, and I provided it to them. On XX/XX/XXXX, Citibank informed me via telephone that this dispute would be reopened. To my knowledge it has not been reopened. \n\nCitibank has still not responded to communication from either me or my attorney, except to inform me that the dispute has been closed because I failed to respond to their communications. \n\nIn XX/XX/XXXX, I applied for a credit card to replace my Citibank card and was denied credit for the first time in my life. After checking, I discovered that my credit score declined by XXXX points. No doubt this is because Citibank has chosen to report this disputed charge as a delinquency. Citibanks actions have caused me severe damage. \n\nI am providing you copies of all relevant communications between Citibank and me or my attorney as an attachment."
+}

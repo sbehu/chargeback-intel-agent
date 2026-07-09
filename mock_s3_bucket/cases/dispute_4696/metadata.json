@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4696",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "AL",
+    "complaint_zip": "360XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14467,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a call from citibank regarding a past due balance. I advised them that I had not used the card. I entered the call with the dispute resolution specialist authenticated. When I spoke with her she seemed to be telling me that the only way she could dispute the transaction is if I would give her my full social security number and other personal information as well as verify whether the purchase was made near my home. When I asked about what was purchase, where, and how much she would not give me the information. I checked my credit and there was an alert that a previously inactive card had been used in XXXX for XXXX. Since the company would not process my dispute of the transaction, I disputed it on the credit reporting website. The company continues to call trying to collect payment several times a day. When I call them I just go directly into their payment menu. I don't have the card to get the number from. Now, when I answer their call I just go directly into the automated payment menu."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3989",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "024XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7996,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Formal Complaint Regarding Unresolved {$12000.00} Refund with Citi Credit Card Dear Sir/Madam , I am submitting a formal complaint regarding an ongoing issue with my Citi AT & T More credit card account ( ending in XXXX ). On XX/XX/XXXX, a payment of {$12000.00} was made from a business checking account ( XXXX XXXX, ending in XXXX ), which resulted in a negative balance on my credit card. The payment is valid and was made by someone I know. I contacted Citi customer service to request a refund of this negative balance via check sent to my billing address. \n\nIn XXXX, I received a letter from Citi asking for a payment receipt for the {$12000.00} transaction. However, the letter did not outline any deadlines or consequences for not providing the receipt. On XX/XX/XXXX, Citi rebilled the {$12000.00} to my credit card account, which was reflected in the XXXX statement. \n\nOn XX/XX/XXXX, I faxed the required payment receipt to Citis payment department, and on XX/XX/XXXX, I received written confirmation that they had received the receipt. Then, on XX/XX/XXXX, Citi sent a letter stating that my account had been credited with {$12000.00} as shown in the XXXX statement, which is incorrect. \n\nDespite numerous calls to Citis customer service and attempts to escalate the issue, the matter remains unresolved. I am requesting your assistance in either issuing a refund of {$12000.00} or crediting the amount back to the original business checking account ending in XXXX. \n\nAttached are the relevant statements, receipts, and correspondence for your review. I would greatly appreciate your prompt resolution of this matter. \n\nSincerely,"
+}

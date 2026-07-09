@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-65682790-US
+Shipment Date:   2026-03-03T00:00:00Z
+Delivery Date:   2026-03-07T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     6528 PINE WAY, WA, 98103
+============================================================

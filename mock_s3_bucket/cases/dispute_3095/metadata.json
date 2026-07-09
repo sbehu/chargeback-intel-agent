@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3095",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91941"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29903,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I SUBMITTED MY DISPUTE for Transaction Error Date : XX/XX/XXXX, XXXX THE POLICE WHO THEN REFERRED ME TO THE CALIFORNIA STATE BAR. \nhowever, the credit card responded with, \" We now consider this matter resolved and have completed our investigation. \" due to the dispute is beyond 90 days. '' Any amount placed in dispute will still elitist along with the credit agency will be notified. \n\nIt is important to point out that, I am charged {$2000.00} and I never received any good or services. This is \" Unjust Enrichment! \"."
+}

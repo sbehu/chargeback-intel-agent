@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9475",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60615"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37493,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got an email from XXXX with a confirmation for a charge from a third party for XXXX to a card from CitiBank ending in XXXX. This card was cancelled in XX/XX/2022 for suspicious fraudulent activity. Although I do recognize the merchant, CitiBank customer service representative could not give me an explanation on how a card that was cancelled 3 years ago was processed merely stating that it was a \" glitch ''."
+}

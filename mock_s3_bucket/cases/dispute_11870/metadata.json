@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11870",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "789XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48558,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank Billing Disputes department repeatedly closed my dispute without informing me of merchant response to my dispute. \nMy dispute was somehow escalated to Citi Executive Response team to no avail, which did nothing more than the same as their Billing Disputes department. \n\nOn XX/XX/XXXXXXXX2025, XXXX placed an UNauthorized charge of {$29.00} on my Citi Double cash credit card presumably for a \" subscription ''. \nA full 4 months later ( a quarter of a year ), Citi is still denying refund of that UNauthorized charge, and merchant fails to respond to my email requests for refund. \n\nOn XX/XX/XXXXXXXX/25, I purchased an automotive VIN report from XXXX website. \nXXXX presents its website as a seller of XXXX reports, then underhandedly, deceptively, and crookedly inserts subtle hints about subscriptions. \nBut that does NOT mean that purchasers of their VIN reports have purchased a subscription. \nVinseeker terms and services state nothing about subscription only mention that they MAY charge for access to website. \n\nThere is NO mention of subscription on home page of Vinseeker.com which only states Get Your VIN Report On next Payment screen is clearly stated {$1.00} Vehicle History Report with a 1 superscript after {$1.00} Vehicle History Report. \nIn lower right hand of that same screen is Plan Details box with the same 1 superscript, which does NOT link a subscription plan CLEARLY with the Report being purchased. \nStated at \" Plan Details '' is \" After your 7 day trial, you will be billed {$29.00} plus applicable sales tax per month and your plan will be limited to running 30 reports per month ''. \n\nNowhere on Vinseeker.com is there any link for purchasing any such \" Plan ''. \n\nThis is where Vinseeker.com deceptive marketing scam comes into play. \nIf XXXX intends for Report purchasers to sign up for free trial subscription, then that should be clearly stated upfront in the following manner : {$1.00} XXXX XXXX Report * * Requires signup for 7 day free trial subscription billed at {$29.00} following trial period. \nContact support by phone or email to cancel subscription before end of trial to avoid additional charges. \n\nVinseeker.com deceptive scam can be further seen on third screen for entering payment method. \nOnly there under \" 100 % Guarantee is there stated in tiny print Your order includes our initial certified report plus our volume discount package... \nBut nowhere is that package referred to as a SUBSCRIPTION or as a \" Plan ''! \nAnd nowhere is it stated that the package is a 7 DAY FREE TRIAL THAT MUST BE CANCELLED OR ADDITIONAL CHARGE OF {$29.00} WILL INCUR! \n\nBelow that is an image box Order Summary. \nTo left of Order Summary text is {$1.00} with a red trial price tag. \nHOW MUCH MORE DECEPTIVE CAN IT GET!!!! \n\nNowhere in that box is stated anything about volume discount package much less monthly subscription or subscription \" Plan ''. \n\nBelow the box buried in other text is {$1.00} trial for 7 days, then $ XXXX/month There is nothing that links trial to Report price or \" Subscription '' or \" Plan ''. \n\nThis is a SCAM pure and simple. \nBut Citicard has repeatedly denied my dispute without providing any details, any merchant response, or reason for the denial. \nI have had the Citi Double Cash card for well over a decade, have had other Citi cards before that, and currently have a Citi Custom Cash card as well. \nBut Citi could care less about what a loyal customer I am, how I always autopay my bill in full every month, or how many thousands upon thousands of dollars of purchases I've made with my card. \n\nCiti simply settles cardholder dispute in favor of merchant, which I suspect could very well be a scam on Citi 's part to save money dealing with disputes."
+}

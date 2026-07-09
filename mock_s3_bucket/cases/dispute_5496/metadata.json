@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5496",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "GA",
+    "complaint_zip": "30101"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44131,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To whom it may concern This letter is a complaint for a charge that I received from Macys on my Macys charge account that did not belong to me. There were items that I did not order and the items were never delivered to my address. The cost totaled {$82.00}. I attempted to dispute the charge with Macys security department and the outcome was not resolved appropriately. I would like a full investigation regarding where these items were delivered to. The carrier that delivered these items should have a record. I did not order these items and these items were not delivered to my address. The items went elsewhere or possibly an error, either way this must be investigated. Macys requested that I pay for the charge or face being placed in the credit bureaus negatively and I still paid for the items, even though I never ordered them and never received them. I would like a proper and thorough investigation and I would like what I paid to be fully refunded to me. I have been a Macys customer for many years with an excellent record of payment history and I hope that this matter can be resolved accurately. \n\nBest Regards, XXXX XXXX XXXX"
+}

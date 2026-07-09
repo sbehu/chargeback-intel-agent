@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13207",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85718"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22817,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I identified several unauthorized charges on my Citi AAdvantage credit card totaling approximately {$10000.00}. Upon further investigation, I learned that an individual named XXXX XXXX, located in XXXX, Nebraska, had been added to my account without my knowledge or consent and was issued a credit card. \n\nI did not authorize the addition of this individual to my account, nor did I authorize any of the associated transactions. All of these charges are fraudulent. \n\nI promptly reported the issue to Citi and have disputed the charges multiple times between XXXX and XX/XX/year>. Despite these efforts, the matter remains unresolved, and I continue to be billed for the fraudulent charges. \n\nAdditionally, after Citi canceled several compromised cards, I was sent a replacement card in XX/XX/year> that still bore the unauthorized individuals name, indicating a serious failure in account security and resolution procedures."
+}

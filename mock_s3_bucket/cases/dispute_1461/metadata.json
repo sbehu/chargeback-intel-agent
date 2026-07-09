@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1461",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48446"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37992,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/24 Citibank withdrew {$2000.00} as a payment without authorization. On XX/XX/24 after contacting them and indicating their actions were unauthorized, they returned the money to my account. On XX/XX/24 the again withdrew {$2200.00} out of my account without authorization. They currently have not returned the money."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_318",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15212"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 760,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 i purchased an engine from XXXX XXXX owns a XXXX locating services. I gave XXXX credit card information to charge my card for {$7000.00} the {$7000.00} charge appeared on my app letting me know that the transaction was completed. XXXX informed me that the funds were not available to him on his side. I had a carrier there to pick up the engine but they would not release the engine because the funds were not available to him at that time. We agreed to cancel the original transaction by having him, reject it to make the funds immediately available back to me. I then called Barclays my credit card company on a three-way call with XXXX to make sure that when he rejected the original payment of XXXX that it came back to my credit card. Once XXXX assured me that the money was returned on XX/XX/XXXX, i then approved a {$3500.00} charge to XXXX and then I sent him {$3500.00} through cash app to complete the transaction of a purchase of a {$7000.00} engine. The XXXX {$3500.00} transactions appeared on XXXX systems and he then released the engine. A few days later, I noticed a an additional charge of {$7000.00} from XXXX XXXX locating services which is XXXX business. I called my credit card company to dispute the additional {$7000.00} charge that process went on for a few weeks, there was some confusion about what I was disputing. They refunded me {$3500.00}. I wasnt sure why I told them again that I was disputing the additional {$7000.00} charge because I sent XXXX XXXX locating services XXXX payments of XXXX which completed the purchase of a {$7000.00} engine. Barclays then took the XXXX credit back. I sent them proof of the XXXX transactions of {$3500.00}, XXXX on the credit card and the other on cash app. I was then informed that the time to dispute the transaction was outside of their terms of disputing transactions. I called back and stated that I disputed this transaction a few days after I noticed the additional charge. Barclay said that that dispute was closed because I already received a credit of {$7000.00} but that credit was because he rejected the original purchase not because of a result of a dispute. And because of all the back-and-forth now theyre telling me that its too late to dispute the same {$7000.00} additional charge that I was asking them to look into from the very beginning but now its too late to dispute. The original credit of the XXXX that I received was because the merchant and I agreed to reject that transaction because the funds were not showing to be available at that time not sure why maybe because of the time of the day had something to do with it because I think it was like XXXX. So we decided to break it up into two smaller transactions. There was no dispute there. We agreed on that with Barclay on a three-way call with the merchant because I wasnt going to authorize an additional {$3500.00} transaction until I felt comfortable with the original XXXX credit return to my cart. So buy them closing the my original dispute that was an error on their part not mines. Please help because Barclays is not playing fair."
+}

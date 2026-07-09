@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2685",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77449"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27020,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I closed my BestBuy account earlier that had a Visa credit card issues by Citibank. I closed the account by paying full amount due earlier this month with XXXX remaining balance. Despite that, I was charged {$290.00} on XX/XX/XXXX on the debit card I had on file, set for auto pay. I called the bank to dispute the charge and they opened a case on XX/XX/XXXX but since then I haven't heard anything back and my {$290.00} are stuck in this process. I need the money back to stay on track with my bills and Citibank shouldn't have charged me in the first place as I had already cleared all my dues. \n\nDISPUTE DETAILS Case ID : XXXX Dispute Type : Duplicate Payment Dispute Amount : $ XXXX Date Submitted : XXXX"
+}

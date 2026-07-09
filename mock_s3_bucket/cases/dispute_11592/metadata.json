@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11592",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "52001"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45540,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing charges totaling {$1300.00} from XXXX XXXX XXXX XXXX that were processed on my Barclays credit card. \n\nI reserved an economy ( XX/XX/XXXX) vehicle for approximately {$84.00} through the XXXX XXXX booking portal. Upon arrival, the reserved vehicle was unavailable and I was provided an electric vehicle instead. \n\nBefore accepting the vehicle, I specifically asked whether it could complete the planned XX/XX/XXXXway trip without charging and was assured the vehicle could complete the trip without charging. This representation was incorrect. \n\nWhile en route, it became clear the vehicle did not have sufficient range to reach the destination. I contacted XXXX and was instructed to leave the vehicle and proceed by other means. The vehicle was retrieved the same day, XX/XX/XXXX. \n\nThe attached invoice confirms that only XXXX miles were driven, consistent with an incomplete trip. Despite this, I was charged {$1100.00} for the rental. \n\nI was also charged {$130.00}, which was described as damage. However, the invoice shows this amount consists of administrative and rental-related fees, and no evidence of damage has been provided. \n\nThe invoice also reflects a return date of XX/XX/XXXX, despite the vehicle being abandoned and retrieved on XX/XX/XXXX, indicating continued billing after I no longer had possession of the vehicle. \n\nI disputed these charges and provided supporting documentation to Barclays. \nBarclays denied the dispute. \n\nBarclays did not explain how it reconciled this evidence with the merchants claims. \nBarclays failed to conduct a reasonable investigation and relied on the merchants assertions without addressing clear contradictions in the documentation, including the nature of the {$130.00} charge, the mileage driven, and the billing period after the vehicle was no longer in my possession."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2395",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15206"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11719,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a complaint against my recent dispute experience with American Express. I had an unexplained charge from XXXX ( please see details below ). I have tried to submit a dispute to American Express several times, but they always provide me with the same responses. Additionally, they announced that the merchant provided them with evidence, but they have never shown it to me. I have presented the evidence I have. \n\nIn the last CFPB complaint, they mentioned that they requested a detailed letter from me. I sent this file to them on XX/XX/XXXX, but they closed my dispute again on the XXXX. \n\nI am truly dissatisfied with how American Express handles investigations and maintains communication between merchants and consumers. I hope American Express can address this matter with seriousness and thoroughness. \n\n\" Dear American Express Team, I am writing to file a formal dispute regarding the charge of {$180.00} while traveling with XXXX. On XX/XX/XXXX, I held a Mint ( XXXX XXXX  ) cabin ticket from XXXX XXXX XXXXXXXX to XXXX XXXX. Upon attempting to check my luggage at XXXX XXXX, I was subjected to an hour-long ordeal by your ground staff member, XXXX, who insisted that there was an issue with my ticket. \nAfter enduring an extensive delay, XXXX informed me that I would be required to pay a baggage fee, citing that my ticket only included XXXX XXXX checked bags ( as stated on the XXXX XXXX ). Faced with the imminent boarding time, I reluctantly paid the fee to ensure I could proceed with my journey. However, upon subsequent contact with XXXX to request a refund, I was astounded to learn that the fee was categorized as an overweight charge. \nThis revelation is preposterous, as my luggage weighed only XXXX, well below even the economy class limit. Furthermore, there were no indications of excess weight on my baggage tag, nor was there any justification for such a charge. In addition to this unjustified fee, XXXX 's behavior was completely unacceptable. She resorted to threats and intimidation, implying that my financial contribution to the ticket entitled her to treat me with disrespect. \nFirstly, let 's address the blatant disregard for fact : my luggage was not overweight. There was no \" HEAVY '' tag on my luggage tag, and this fact was further validated by the absence of any excess charges on my return journey. Given these circumstances, it is unfathomable that XXXX would have the audacity to levy a {$180.00} fee purportedly for overweight baggage, especially considering it does not align with XXXX 's published fee structure for such charges. \nSecondly, and perhaps more egregiously, XXXX 's mishandling of the baggage fee highlights a fundamental misrepresentation of the services promised with a XXXX cabin ticket. The inclusion of checked baggage should have been a non-issue, yet I was coerced into paying a fee for a service that was supposedly already included in my ticket. Furthermore, the misclassification of the fee as overweight only compounds this insult, demonstrating a complete lack of understanding or adherence to the terms of XXXX 's own offerings. \nI demand an immediate refund of the charged amount and a thorough investigation into the conduct of XXXX. Her demeanor and actions do not reflect the level of service expected from XXXX, particularly towards XXXX passengers or any traveler for that matter. Her arbitrary imposition of fees and lack of clear communication are intolerable, and I reserve my right to pursue further action if necessary. \nI expect a prompt response addressing my concerns and a resolution to this matter. Your attention to this issue is greatly appreciated. ''"
+}

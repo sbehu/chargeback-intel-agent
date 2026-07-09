@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12834",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94568"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35016,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Transaction Date : XX/XX/year> Amount : {$3000.00} Merchant : XXXX  Issue : Fraudulent impersonation + fake refund confirmation Result : No refund received I am filing this complaint regarding American Expresss failure to properly handle a fraudulent scam transaction. \n\nOn XX/XX/year>, I was charged {$3000.00} by a merchant identified as XXXX. This transaction was part of what I believed to be a legitimate airline booking. However, after the charge, I was subjected to a coordinated scam involving impersonation and fraudulent misrepresentation. \n\nShortly after the transaction, I received a refund confirmation email that appeared to be from a legitimate airline. The email stated that a full refund had been initiated and would take approximately XXXX business days to process. This communication used misleading branding, a non-official email domain, and fabricated refund details to create the appearance of legitimacy. \n\nRelying on this information in good faith, I waited for the refund while actively following up with the merchant. During this period, I repeatedly contacted the merchant by phone and was consistently told that the refund was being processed. These repeated assurances were part of a deliberate effort to delay action and prevent timely escalation. \n\nI later discovered that this was a fraudulent scheme. The email sender was not affiliated with any legitimate airline, the refund confirmation was fabricated, and no refund was ever issued. The email address used for the refund confirmation is now non-functional, while the same organization continues to respond by phone and provide misleading information, further confirming the scam. \n\nThis case is not a simple billing dispute or an unauthorized transaction. It is a case of fraud through impersonation and intentional misrepresentation after the transaction, designed to deceive the cardholder and delay corrective action. \n\nDespite being provided with documentation of the fraudulent email, the impersonation, and the absence of any refund, American Express has refused to treat this case as fraud. Instead, they have incorrectly classified it as an authorized transaction and denied the claim without properly addressing the fraudulent conduct. \n\nI respectfully request that American Express reclassify this case as fraud, reopen the investigation, and apply appropriate consumer protection standards for scam transactions involving deception and misrepresentation."
+}

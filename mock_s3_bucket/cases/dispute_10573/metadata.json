@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10573",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "437XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20201,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I ordered 4 White drones ( {$120.00} ) for XXXX presents, XXXX sent them, but they also included 4 black drones ( {$160.00} that I did not order. I made XXXX aware of that issue, they emailed me a return label, and I sent the 4 Black drones back to XXXX. But XXXX would not refund my money, since I had filed a complaint with my Citi Bank Mastercard. XXXX sent a response to my compliant to Citi Bank. ( I have a copy of that response ) dated XX/XX/XXXX. In the copy of XXXX response was a XXXX XXXXracking number, I ran that tracking number, and it showed that the package of 4 black drones was received back by a XXXX warehouse XXXX XXXX XXXXacking # XXXX. I have copies of the Travel History from XX/XX/XXXX through XX/XX/XXXX when it arrived back at the XXXX XXXX. \nI also have a copy of a message sent to me by XXXX, stating since I filed a Chargeback with Citi Bank, they would not provide me a refund until I withdrew the Citi Bank complaint. XXXX acknowledge in that message that the 4 Black Drones was received back to them at their warehouse. \nI informed XXXX that if they refunded my money, it would automatically resolve my Citi Bank complaint, and the Bank would withdraw it. I was not going to withdraw the complaint. Citi bank knows all of this information but are now sending me letters telling me they are not going to credit my account for the {$160.00}. And that they don't have too. In my research I found that under \" FAIR CREDIT BILLING ACT '' ( FCBA ) under section 170 which is Federal Law, that a Credit Card Company has a legal obligation to investigate and potential credit my account, if a Merchant ( XXXX ) refuses to refund a valid return. FCBA treats a merchant 's failure to credit my account for a returned item as a \" billing error ''. I have all the messages from XXXX and Letters from Citi Bank to validate my claims in this CFPB compliant, I am willing to provide copies of all of them, once CFPB has my case assigned to someone that will do the investigation. I want my refund from XXXX or a Credit from my Citi Bank Mastercard. for the total of {$160.00} owed me. The \" Claims and Defenses '' Provision of Section 170 of the \" FCBA '' States : I have the right to assert against the Card Issuer the same legal claims or defenses I have against the merchant. Essentially, if the merchant is legally obligated to refund me, the credit card company may be responsible for reversing the charge. \nCiti Bank needs to be investigated significantly for these charges and my claims. And XXXX should be investigated also. I appreciate all the help you can give me with this total injustice by the Credit Card Company known as Citi Bank."
+}

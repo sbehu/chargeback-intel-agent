@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_242",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7430"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19948,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, we had a service charged by XXXX XXXX XXXX which was unsatisfactorily completed for two reasons : 1 ) The company stated they did complete the service but they did not allow me to check it at the moment : the service was to fix a swingset that was unsteady and swaying ; they said I needed to wait 24 hours to check to see if the swaying was corrected ; after 24 hours when I checked, the swaying had not been resolved at all. Additionally, they were supposed to fix the grout in the bathroom which they did but it cracked again within 2-3 days. 2 ) They charged an extra {$100.00} dollars for tax and supplies, and we asked for a detailed receipt of the supplies charges, and the company refused to provide this detailed list. We attempted to resolve this dispute multiple times with the XXXX  company on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX. On XX/XX/XXXX, I filed a dispute with my credit company. On XX/XX/XXXX, the CC company closed the dispute, stating that they requested more information from me which was not supplied and therefore the dispute would be closed. Looking back at my emails, they did send an email on XX/XX/XXXX with the subject \" Your dispute has been received '' but did not clearly indicate they needed more information. I called the CC company on XX/XX/XXXX and re-opened the dispute. They told me to submit a 4 page document with information that they needed. I submitted this information that same evening on XX/XX/XXXX via email to XXXX. I did not receive any confirmation of receipt. On XX/XX/XXXX and XX/XX/XXXX, I followed up via email asking for an update. On XX/XX/XXXX, I received another letter that stated that the billing dispute required more information. I clicked on the letter required, and it was the same information I had already submitted on XX/XX/XXXX. On XX/XX/XXXX, I called them and they reassured me that they did not require more information as I submitted it on XX/XX/XXXX. She assure me that they had all of the information they needed. I asked for a confirmation letter but the customer service agent said she was not able to provide a letter. She stated that they would send a confirmatory email within \" 24 or 48 hours, or 1 week at the most '' ( I have this conversation recorded ). As of this moment, I have not yet received a confirmatory letter stating they do not require more information, and I am concerned they will again close the case indicating that they have not received the required information. Of note, they also have not removed the charge from my account as promised. The {$650.00} charge remains on my account. \n\nOn XX/XX/XXXX, I received another letter from Citibank admitting that th representative on XX/XX/XXXX gave me incorrect information that further information was not needed, and that they did not follow up with me following this incorrect information, and despite their representative providing false information, they are still closing the dispute because they did not receive the form that the representative said I did not need to complete."
+}

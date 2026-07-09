@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4143",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92562"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28247,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The transaction of XXXX dollars was made on XX/XX/XXXX, and I opened a dispute with the company associated with the card, Citi, on XX/XX/XXXX. Between that time, I attempted to contact the individual who did not provide the services promised, but was blocked and the messages deleted from the message boards, so I billed a dispute. \n\nWhen submitting, I uploaded documents providing evidence of multiple individuals not receiving refunds for the services the merchant failed to provide, and details of the service where the merchant promised refunds. The company took one month to respond with a request denied on XX/XX/XXXX due to lack of sufficient documentation. I have called customer service and received not much additional information. However, there has been no updates to my dispute or additional details provided after initial review was completed when I called and asked. When discussing with other peers who have also been scammed by the merchant, they have received their refund with their information."
+}

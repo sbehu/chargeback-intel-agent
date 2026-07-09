@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4510",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "IL",
+    "complaint_zip": "60048"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27938,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, two men came to my door claiming to represent a charity asking for donations for magazine subscriptions to help poor and underprivileged children. I agreed to make a donation of {$54.00}, and used my Best Buy Citi Visa Credit Card. I was emailed a receipt for {$54.00} ( see XXXX  XXXX ). \n\nA few days later, I noticed the charge of {$2200.00} in my account which I did not authorize. The charge was the same day as the {$54.00} charge, which strangely did not appear on my statement, and I did not use this card anywhere else. Thinking this must be an accidental overcharge, I instigated a dispute online with Best Buy Credit Services ( BBCS ) where I uploaded my receipt showing {$54.00}. The receipt for {$54.00} had no contact information of the charity or merchant to first try to resolve with. \n\nOn XX/XX/XXXX, I received a letter from BBCS crediting my account and stating, We now consider this matter resolved and have completed our investigation. ( See XXXX  XXXX ). \n\nHowever, on XX/XX/XXXX, I received another letter from BBCS saying I was responsible ( XXXX  XXXX ), and the documentation provided by BBCS was a receipt from a merchant located in Texas for {$2200.00} ( XXXX  XXXX. ) This receipt is completely different from the one I was provided for {$54.00}. A quick XXXX search of the address the receipt showed the address on the receipt as an apartment building, and not a seemingly legitimate business or charity. I attempted to call and email this merchant. Most went unanswered, but I did get a one sentence replay saying \" We apologize for this '' with no indication that they are going to reverse the charge ( XXXX  XXXX. ) To date, they have not reversed the charge. \n\nI replied to BBCSs XX/XX/XXXX letter in writing via certified mail, trying to explain the situation and stating that I did not authorize this charge, and it is clear that this is a case of fraud. I made the additional step of filing a police report with my local police department. The case number is XXXX ( IL ) XXXX XXXX # XXXX. My letter was sent to BBCS on XX/XX/XXXX ( XXXX  XXXX ). \n\nBBCS replied on XX/XX/XXXXXXXX  saying I need to resolve this this the merchant, because they are unable to recover the funds ( XXXX  XXXX. ) On XX/XX/XXXX, I've sent another letter to BBCS ( XXXX  XXXX ) trying to explain that I did attempt to contact the merchant, but my call and emails are basically being ignored. I also requested again, as I did in the previous letter, that the {$2200.00} should be credited to my account as this clearly is a case of fraud and should be covered by Citi Visas fraud protection policy. This is also when I filed the complaint with the CFPB and hope you can assist me in this matter."
+}

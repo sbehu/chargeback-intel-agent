@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2946",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61108"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9214,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We ( spouse & I ) purchased washer & dryer at Best Buy approximately XX/XX/XXXX. They applied {$3000.00} to a Citibank credit card and we paid the balance with cash ( {$1200.00} ). The balance included XXXX pedestal drawers, delivery, installation, installation parts, & 1 haul away. These were top of the line XXXX front loading appliances. We understood that delivery would take place in the not too distant future. We were notified later that the washer & pedestals were not yet available but they would deliver the dryer with the washer and pedestals would come later, which we agreed to. Upon arrival and un-crating, it was obvious that dryer was damaged. They ( Best Buy ) offered to leave dryer, as it was operational and they had already removed the old dryer from the basement, until they could bring a replacement along with washer & pedestals. Next at a later date, another damaged dryer was delivered. We refused delivery. This happened yet again and we refused again. Then they delivered a damaged washer. We refused delivery yet again and canceled the entire order when prompted to do so if we desired. So they removed their dryer and we sought out a different vendor. During this time span, we paid on the Citibank card regularly, XXXX payments totalling {$400.00}, not to mention the original cash payment of {$1200.00}, which we reasonably expected to be refunded. Since the cancelation of the order, we have not been refunded the {$400.00} and have been hounded for payment of balance due of varying amounts from {$190.00} to {$1700.00} ( +/- ). Plus interest accruing! We are to a point where we have no idea who to dispute to or what to dispute when it all is so simple. Since they have refunded the {$1200.00}, cancel the balance due and refund our {$400.00}! We had already disputed the balance due as well as the {$400.00} to Citi and the man agreed that it was a simple calculation and there really should be no dispute. He said we should here from Citi within 90 days. We're not even sure who we are dealing with, Citi or Best Buy. Help! \n\nOrder numberXXXX XX/XX/XXXX XXXX"
+}

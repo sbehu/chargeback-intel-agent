@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8773",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53590"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14585,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been disputing fraudulent charges on my XXXX Citi Bank card for roughly 11 months and they can not resolve them. Customer service is impossible to deal with. It is not impacting my credit rating and other credit card providers I have."
+}

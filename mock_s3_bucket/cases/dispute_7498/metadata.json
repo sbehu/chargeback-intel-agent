@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7498",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38532,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Citibank failed to recognize 12 fraudulent transactions on my Mastercard credit card, even though they all occurred within a short period of time ( XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX  ) and with the same online merchant ( XXXX ). Of a total of 31 transactions, only 18 were recognized as fraudulent by Citibank. The amount not recognized as fraudulent amounts to {$420.00}, and my account was charged. \n\nAlthough I called to dispute these transactions, I was never given a case number. I was not informed of the resolution through adequate means : I only found out by seeing the charges on my statement and in the online banking dispute center. Furthermore, the phone service was poor : there were no XXXXspeaking representatives, background noise made communication impossible, and the assigned interpreter did not accurately translate what I or the agent said. Finally, I was also denied the names of the people who handled the case. \n\nCitibank told me that XXXX had to refund my money directly, which is not a valid remedy for unauthorized charges that clearly constitute fraud. \n\nI request that the CFPB intervene so that Citibank can review these transactions again and refund me the appropriate amount."
+}

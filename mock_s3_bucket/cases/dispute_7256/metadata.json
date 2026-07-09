@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7256",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48192"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27312,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>2025 during my honeymoon in XXXX, I went out to eat. The owner of this restaurant XXXX XXXX XXXX XXXX ) had the correct amount on receipt he showed me, then entered the wrong amount in his card reader machine ( SumUp XXXX XXXX ) table side and provided me with no receipt showing the incorrect amount. I was accidently over charged XXXX XXXX when the price was supposed to be XXXX XXXX. I contacted the merchant, he acknowledged his mistake and apologized. He issued me a refund, but the third party XXXX  company, SumUp is not refunding the money to my XXXX XXXX account. SumUp is not acknowledging the refund the merchant sent, and will not refund me the money."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4268",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84780"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14291,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was sent an email from the fraud department at citi banking XX/XX/year> at XXXX that my card had been hacked. I have been trying to contact them about it but they tell me its under investigation. After repeated attempts to call and talked to the fraud department. I walk away with no response."
+}

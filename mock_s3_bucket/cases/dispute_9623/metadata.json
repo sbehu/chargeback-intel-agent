@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9623",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "49315"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24650,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a Damage & Theft Purchase Protection claim with Citis third-party benefits administrator for an item purchased using my XXXX Anywhere XXXX card ( Claim # XXXX ). I filed the claim on XX/XX/year>. \n\nI have submitted every required document multiple times, including : The purchase receipt My credit card statement showing the transaction A signed Police Report Unavailability Statement Supporting documents in clear PDF and XXXX formats Despite this, the benefit administrator repeatedly sends form letters asking for the same documents, claiming they can not view files even though they were sent in standard formats. The claim has not moved to review and remains stuck in an automated loop for over XXXX weeks. \n\nThe remaining issue is that the administrator continues to demand a police report from XXXX XXXX. I contacted the XXXX XXXX Police Department directly, and they confirmed that they CAN NOT file a delayed theft report under any circumstances. They stated that only the officers present at the time could have generated a report, and there is no legal or procedural method to obtain XXXX after the fact. \n\nThis means it is impossible to satisfy Citis request for a police report. The jurisdiction does not allow delayed reporting, and the police confirmed this directly. Under Citis benefit terms, when a report can not be obtained from the authority, a signed Police Report Unavailability Statement is the required substitute document.\n\nI provided that statement multiple times, yet the claim administrator refuses to attach it to the required field and continues to request a document that the issuing authority explicitly stated does not exist and can not be created. \n\nThe claim is stalled entirely due to administrative errors and refusal to accept documentation allowed under their policy."
+}

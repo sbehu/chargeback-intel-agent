@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11124",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "75025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30852,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "NOTICE OF FCBA VIOLATION & ILLEGAL CONTRACT ENFORCEMENT I am filing this complaint against American Express for violations of the Fair Credit Billing Act ( FCBA ) regarding the improper rebilling of {$39000.00} and {$39000.00} charges. American Express has failed to perform a \" Reasonable Investigation '' by ignoring documented evidence of a criminal misdemeanor used to execute the contract and a sworn fraudulent interest claim filed by the merchant to inflate the debt.\n\n1. PILLAR 1 : HOME IMPROVEMENT VS. STRUCTURAL DAMAGE Under the FCBA, a consumer can not be forced to pay for \" services '' that physically damage their property.\n\nThe Promise : I contracted for \" Home Improvement '' a service intended to protect and increase the value of my home.\n\nThe Reality : The merchant delivered structural leaks and rot. Forensic moisture readings confirm 34 % structural moisture ( active rot ) in the framing.\n\nLack of City Approval & Code Violations : The project has no city approval. The work failed to meet basic building codes and safety standards, precluding any final inspection or legal sign-off by the municipality. I have proactively requested the city to wait on further processing while these severe structural failures are addressed. Because the work is unpermitted and non-compliant, it remains legally \" incomplete '' and potentially subject to city-ordered remediation or removal. \n\nManufacturer Determination : XXXX XXXX ( Claim # XXXX ) issued a formal determination concluding the failures are \" attributable to installation, '' which voids the product warranty. \n\nFailure of Consideration : There is no \" improvement '' when a contractor leaves a home with active leaks and structural decay. Amex is ignoring physical evidence of damage in favor of the merchant 's \" non-refundable '' template.\n\n2. PILLAR 2 : CRIMINAL MISDEMEANOR ( B & P 7153 ) The \" signed contract '' American Express is enforcing is a legal nullity born from a criminal act. \n\nThe Crime : The contract was executed by XXXX XXXX, who signed as the \" XXXX XXXX. '' As verified by the California XXXX, XXXX XXXX was unregistered as a Home Improvement Salesperson ( HIS ) at the time of signing. \n\nThe Law : Under California Business & Professions Code 7153, it is a criminal misdemeanor for an unregistered individual to execute these contracts.\n\nThe Impact : Under B & P 7031, a contractor is barred from recovering any compensation ( in law or equity ) for work performed under an illegally executed agreement. American Express is facilitating the collection of funds based on a documented criminal act.\n\n3. PROTECTION UNDER THE FAIR CREDIT BILLING ACT ( FCBA ) I am exercising my federal rights to dispute these charges. A bank can not \" enforce '' a contract that violates state criminal statutes and results in a net loss of property value.\n\nCONCLUSION A bank can not \" enforce '' a contract born from a criminal misdemeanor that resulted in structural leaks. I request an immediate federal audit of American Express 's refusal to protect me from this documented illegal transaction."
+}

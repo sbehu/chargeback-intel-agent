@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4790",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10009"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26302,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "While traveling in XXXX on during XXXX, a charge of {$15000.00} was made to my Amex Platinum card on XX/XX/XXXX. The charge was apparently for the purchase of XXXX gold chains ( I assume jewelry ). According to my billing statement charge was made at \" XXXX XXXX XXXX XXXX '' with the transaction details stating \" NEW VENDOR '' and nothing else. \n\nI immediately filed called and filed this as fraud. I received an email a few days later on XX/XX/XXXX saying the dispute was resolved, and that same day I was credited the full amount of {$15000.00}. \n\nLater, on XX/XX/XXXX, I received a new email that said the dispute, which had already been resolved, had been re-resolved, for lack of a better word, and closed. At that time the amount of {$15000.00} was again debited to my account. \n\nIn speaking with American Express they said that the charge was determined to be valid for the sole reason that the vendor provided a printed/phyisical receipt of the purchases. From my point of view this would be the easiest thing to fake, especially given they had months to figure out how to fake said receipt. Amex has now said that unless I come up with my own printed receipt showing something other than the receipt that they have, that they can not re-open the fraud investigation / charge dispute. \n\nAmex also provided me with a phone number for the vendor, and apparently my only course of action is to reach out to a fraudulent vendor, get them to admit they committed fraud, have them then print and send me a receipt that directly opposes their side of the story, admitting they broke the law, and also making them forfeit the {$15000.00} that they currently have. I can not imagine a world in which such a vendor, who won a dispute, would for any reason help me prove otherwise. \n\nI have no possible way to resolved this on my own as I don't speak XXXX, I can not file a police report in XXXX after leaving the country, and even if I could, would in essence be trying to convince the very person that committed fraud to help me prove they did."
+}

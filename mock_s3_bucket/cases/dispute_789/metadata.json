@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_789",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "441XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16870,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express refused to credit my account for {$800.00} for merchandise that I purchased made. I returned the merchandise. American still expects me to pay for the charges. They have accepted and explanation from the merchant, but did not accept my explanation for the purchased, claiming they have to follow the merchant 's policy. I was told that I needed to work it out with the merchant would result in a confrontation with the employees. I am XXXX XXXX XXXX ; I should not be expected to return to the store and confront an employee to receive a refund. It was clear in my explanation to American Express that I had an allergic to the products. I tried to return the products, but the store was closed from XXXX XXXX XXXX. After several attempts I was able to return the products. But the store refused to accept the products. Claiming that they do not accept returns within after 7 days. There was a heated confrontation with the employee and my husband. We place the items on the counter and exited the store. I filed a complaint, twice with the credit card company, but I was rebilled."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10402",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95667"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45482,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I stopped at XXXX # XXXX in XXXX XXXX, NV, to fill my car with gas. The charge was {$34.00}. When I got my monthly statement from CITIBANK XXXX it showed a charge of {$76.00}, an over charge of {$42.00}. I submitted a dispute to CITIBANK and provided a copy of my original receipt. Their Case # is XXXX. CITIBANK investigated and reported back that the merchant says it was a valid charge ; my dispute was denied, case closed, I have tried to call the merchant but all I get is a message saying the mail box is full ; I couldn't ever leave a message. I wrote a letter to the merchant requestng a credit or refund ; I have not received an answer. \nI have talked to CITIBANK \" Customer Service '' several times and received letters from them saying the merchant claims the charge is valid. They say there is nothing they can do. They say that if I don't pay the full amount they will report me to the three credit reporting agencies. Reluctantly I paid the full amount. \nI feel that CITIBANK owes me {$42.00} because that's who I had to send my payment to. \nI always thought using a credit card provided some safety from fraud. That is not the case with CITIBANK."
+}

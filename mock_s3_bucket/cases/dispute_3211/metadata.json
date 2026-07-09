@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3211",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37343"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17015,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX admittedly charged us improperly ( totaling {$1000.00} ) on our Barclays XXXX XXXX AAdvantage Aviator Mastercard on XX/XX/year>. I have spoken to several representatives on the XXXX XXXX XXXX XXXX line and all have said we are due compensation however they can not issue the refund and only the refund department can do that. The XXXX XXXX XXXX department is non-responsive so we tried to dispute the charge through the credit card company. When filing the initial dispute with Barclays the representative told me it is very difficult to dispute a charge with the affiliate who is branding the card. I asked for the dispute anyways. Barclays sent a letter with the case numbers ( XXXX {$620.00}, XXXX {$620.00}, XXXX {$35.00}, and XXXX {$35.00} ). The letter stated a dispute XXXX was assigned and they would reach out if they needed more information, nowhere in the letter did it provide a way for me to submit information. Seven days later I received a notification in my credit card online account that they closed the dispute due to me not providing them information. I called to ask why nobody ever contacted me and they said the only way to reopen the dispute is to fax or mail in a request to reopen the dispute. I faxed the request in with details of all the ticket numbers and amounts and they still refuse to reopen the dispute. They are clearly not disputing it because it is a co-branded card with the merchant. I have copies of all the letters received, notes from my various calls with XXXX XXXX customer service reps which have all of the reservation and ticket numbers, and finally an XXXX spreadsheet accounting for the improper charges."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4922",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36930,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was living in the XXXX from XXXX - XXXX on a work visa that expired on XX/XX/XXXX and before the visa expired I moved back to my country ( specifically in XX/XX/XXXX ). \n\nHowever, in XX/XX/XXXX someone cloned my Home Depot Credit Card and used it to charge thousands of dollars of store credit and items. \n\nThe Credit Card limit was around {$2000.00}, but Home Depot allowed the person using my Store Credit Card to purchase more than {$1000.00} above my limit. \n\nSo I quickly disputed all the charges on the credit card website in XX/XX/XXXX. I revived an email saying that they were going to look into my request. Months later I received an email saying that they had removed the disputed charges from my bill and changed my account number ( since the original account had been cloned ). \n\nHowever only some charges were actually removed from my bill, so I called them after that and tried to dispute the charges again. Again, they sent an email saying that the charges had been cancelled but they simply wouldn't remove all charges. \n\nIn the meantime, my credit score went down XXXX points and late fees were being charged. \n\nToday I tried to log in to my account, only to find out they blocked my online access where I had all the proof of my requests to disputed the charges. Now I don't have the phone records nor the messages I sent them via website, but I do have the email they sent saying that the charges had been removed and I have my XXXX that proves that I wasn't even in the country when the charges were made. \n\nCan someone please help me solve this problem? \n\nI really appreciate your help."
+}

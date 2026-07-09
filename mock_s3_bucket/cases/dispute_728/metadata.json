@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_728",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60108"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34061,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a credit card issued by American Express. I subscribed to an online streaming service based on a monthly fee using my American Express card. The service was subject to a Free Trial period. I cancelled the service within the Free Trial period. The merchant cancelled the service but charged me for a full year of the service. So, I don't have access to use the service but was still charged for the full year. I opened a dispute with American Express and provided documentation supporting my dispute. The merchant also provided a response to the dispute. American Express found in favor of the merchant ( XXXX XXXX XXXX ) and sent me a letter containing the merchants response and asked for additional information from me to re-open the dispute. \nThe problems : 1. I already included the information they requested when I opened the dispute, but I did provide the information again along with more detail.\n\n2. I read the response from the merchant and it was filled with discrepancies and fraudulent. It is easy to see this if you read through the response in detail.\n\nAmerican Express reset the dispute in their system to status of Unsubmitted and it would have been deleted from their system in XXXX hours had I not caught. I contacted American Express by phone and asked them to explain why they reset the dispute and they could not give me a reason. I then asked if they received my documentation and they said yes. So I asked to discuss some specifics of the documentation and they could not. It then became obvious to me that the lost and never read the documentation I provided and I dont believe they read the response from the merchant either. If they had, they would have seen the same fraudulent discrepancies that I did. The merchant is based in a foreign country and has numerous complaints on the BBB for doing what they did to me. \n\nI do not believe that American Express is fulfilling their fiduciary responsibility to protect their customers against fraud and theft. At least not in my case. I will attach more information to this complaint."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10258",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97202"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12972,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I purchased a pair of jeans on XXXX for {$100.00} ( transaction date : XX/XX/year> ). The sellers listing showed no flaws or repairs, but when the jeans arrived, they had a significant repaired tear on the leg. This repair was not shown or disclosed in the listing. The item was materially different from what the seller advertised. \n\nI contacted the merchant through the platform to resolve the issue. Instead of addressing the undisclosed defect, the merchant refused to accept a return and told me to resell the item, which is not an appropriate remedy for a misrepresented product. \n\nI filed a dispute with American Express and submitted clear photographic evidence showing the repaired tear. The merchants evidence provided to Amex consisted only of policy statements saying all sales are final, and did not address or refute the defect. \n\nAmerican Express denied the dispute twice, relying solely on the merchants policy and the statement that I should resell the item. At no point did Amex address the actual problem : the jeans were Significantly Not As Described ( SNAD ) due to an undisclosed repaired tear. \n\nUnder Regulation Z, a card issuer must conduct a reasonable investigation of a billing error dispute and evaluate the evidence of misrepresentation. Amex did not evaluate the defect, did not address the photos I provided, and based their decision entirely on the merchants internal return policy, which does not override federal protections when an item is not as described. \n\nI am requesting CFPB assistance because American Express did not perform a compliant investigation and did not consider the evidence of the defect."
+}

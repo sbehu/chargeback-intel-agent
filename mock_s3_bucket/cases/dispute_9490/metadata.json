@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9490",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33445"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42960,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In my initial complaint : Due to a family medical issue I was late by a few days to make a payment, I think when the account was set up they made it purposefully unclear and difficult to make payments so one might have been late but I believe they took the late fee off. I called to make the payment as I couldnt access the account online and they said they had to send a new card, I noticed there were incorrect charges and that someone must have stolen my card information. They said I couldnt make any disputes until I had the new card. I did not receive a card, I received a notice that my account was closed. I then received a letter that my email was undeliverable, the address they had listed was correct and I have been receiving emails. I am not able to access any account information, they keep hanging up and not listening to me on the phone and they are completely corrupt and abusing their power. My credit rating has been severely impacted which makes it so that I can not move nor have access to other banking opportunities. Their treatment has been not only financial abuse, but emotional and physical harm as I am prevented from moving while my dog has XXXX XXXX and I need to get her to a better location. This situation is disgusting, they are aware and laughed when I said I was making a complaint and said they have their own legal team and dont care. \n\nTheir resolution : They connected me with XXXX and she couldnt have been more unhelpful or unprofessional, she acted as though this was a personal issue between the two of us when I said that this process was not to the standards people should be treated when banking. Instead of disputing the charges that I was not allowed to dispute because of one late payment, to which she said was her discretion when accounts are closed which seems extremely prejudicial and unlawful, she wanted me to pick a high lighter color and high light the charges to be disputed and make me pay to send them to her. She might as well asked for a carrier pigeon to deliver it, it was such an archaic and frankly abusive request. They have all of the information they are just being gross and spiteful for absolutely no reason. \nI have never been treated worse by a bank, especially one that I have paid over a XXXX dollars to in interest fees which is a whole other conversation about abuse of power on low income people in a job market and economy which leaves people no choice but to use these abusive credit card providers. Its a game of monopoly gone horribly wrong. \n\nIn summary they are being completely outrageous with their request as well as actions for absolutely no reason. I had no problem with them until they wouldnt let me dispute the charges that are in absolutely no way mine and closed my account because I had a medical issue and my banking had an issue while I had vet bills in my checking account from my sick dog who was killed in XXXX."
+}

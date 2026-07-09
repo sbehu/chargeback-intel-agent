@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7797",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34786"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30566,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Against : Citibank ( Citi Cards ) Amount in Dispute : {$1900.00} Merchant : XXXX XXXX XXXX XXXX, XXXX, XXXX Date of Purchase : XX/XX/year> I purchased a XXXX XXXX XXXX ( necklace, earrings, bracelet ) from XXXX XXXX XXXX XXXX in XXXX for {$1900.00}. The items were represented as genuine gemstones. Upon review that same evening, I confirmed through comparison and inspection that the stones were molded glass and not authentic gemstones. \n\nThe following morning I returned to the store with the jewelry in its original box to request a refund. The merchant refused, providing excuses to deny responsibility. \n\nI filed a dispute with Citibank and provided documentation proving the jewelry was glass and not XXXX. Despite this, Citibank denied my claim XXXX  without meaningful explanation and reinstated the charge to my account. \n\nBy failing to honor its consumer protection obligations and siding with a fraudulent merchant, Citibank has left me responsible for a fraudulent {$1900.00} charge."
+}

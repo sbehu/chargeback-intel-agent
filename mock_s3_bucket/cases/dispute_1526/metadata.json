@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1526",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4170,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a case with you in XXXX. Citibank is indicating because a chip and pin was used for a ATM advance, I am responsible for a {$480.00} which I did not receive funds. I did attempt the ATM machine in the hotel ; however, it didn't dispense and was inoperable. The charge in question was XX/XX/XXXX, and I departed Arizona on XX/XX/XXXX. I have proof that I was in Maryland the afternoon of XX/XX/XXXX and the rest of that month. Citibank sent you a notice indicating that they would look into it, and an investigator phoned me which is when you CLOSED the case. I asked them to inquire with the ATM company to verify the machine was inoperable during my stay. Now the amount is showing due on my account once again, no one has contacted me since, and I am now opening another case in order to get this sorted out. \n\nPlease do not close my case until this is resolved."
+}

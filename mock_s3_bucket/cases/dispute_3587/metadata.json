@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3587",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90029"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21420,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "i booked 2 nights at a resort in XXXX that was listed on AMEX 's search engine under their HOTEL & RESORTS COLLECTION, which qualified me for a {$300.00} credit. AMEX refused to credit the amount because they claimed that particular property was not part of that plan EVEN THOUGH it appeared in the search engine on their travel website. they charged me late fees and took the \" outstanding '' Balance to Collections ( XXXX ). Furthermore, the Resort was underwhelming at best, with cockroaches in the rooms- i would like the {$300.00} charge removed asap along with any late fees.. thanks XXXX XXXX"
+}

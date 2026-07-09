@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3982",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34219"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15645,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Bought a bike online, was never delivered. Contacted credit card company, said it was delivered, when I asked for a tracking number they provided a fake tracking number. They want me to pay the {$900.00} bill"
+}

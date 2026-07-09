@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9899",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "401XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19995,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Home Depot allow me to do some purchases on a 0 % interest for two years on the Home Depot credit card for a big project involving house remodeling. The first purchase was flooring and paint. When I paid that day, they told me I was paying for the flooring and the paint altogether and I bought XXXX cans. paint and XXXX cans of the other. One group was XXXX one group was a XXXX XXXX. And some other things. Very hard to sort through now late. I expected it to be all in my account because my Home Depot credit card was linked and at one time it was, but when I went to review it, it was gone. I was. Relying on that to help retain my receipts and records of purchases. Then I have to struggle to get. Any kind of .information from them about these purchases and of course im still thinking theyre honest as most people would. I followed away and then go back to it a month or so ago, wondering why the heck that my bill was still so high because I could swear at one point in XXXX I only owed XXXX. Im sure thats quite true. After having to get a balance transferred to cover {$2900.00}. I started a dispute. When I noticed the flooring cost was written as XXXX and I knew that wasnt right because that flooring was not XXXX dollars a square foot. It was around XXXX and I kept in my head between what I paid and what my dad paid to have it installed pretty found somebody to do it for {$2500.00} which was awesome. I knew I spent XXXX total on that floor .. Im attaching my complaint to them so you can read it, but I discovered the money afterward, which was a better way to track the truth, even though we cant get down to the nitty-gritty on the cost of everything at the time. I found a XX/XX/XXXX statement and I only owed XXXX more dollars. They got way more from me than that. Since XXXX bill I paid {$6200.00}.. They seriously owe me some money and they ripped me off on the floor cost. I had to be at the store to have that paint mixed. I couldnt order it online and youll see what Im talking about when you review the orders and receipts they gave me. Charging me for two cans of paint and telling me they charged me for all of it. Then charge again, then refund it all and charge again. Then things were fabricated after that I think its because I switched account numbers and Im pretty sure thats when they started tracking things on, but still making them look like they were the same time.. I think what was going on is as Im paying and then on auto pay or whatever they let it creep down and then creep back up kind of thing. Anyway. I caught it before this last XXXX. They have me owing. More youre supposed to be in dispute and they havent given a provisional credit and said I was only disputing {$210.00}. I did correct that on their website. It needs to come to you because theyre not gon na take care of it. This is Home Depot and the credit card company. Not just the store. Theyre both guilty and giving me ridiculous receipts. That flooring dated for a day the woman had never even met me and not what we were working off for the estimate and then they had me swiping on the XXXX and somehow have my signature there on the XXXX. On XX/XX/XXXX. My signature appears to be a hot commodity. Im sick of it. it wont let me attach the photo of the other orders they gave me so Ill email. My credit card number at that time ended in XXXX. In XX/XX/XXXX I got a new account number. I do believe they took advantage of that time to inflate it and only show me what they wan na show me on my statements every month especially online. Theyre so little you cant even see them on your phone. You cant bring them and you cant expand them."
+}

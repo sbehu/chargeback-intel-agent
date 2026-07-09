@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4181",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "341XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a Jet Blue credit card in the mail from Barclays bank that I did not apply for XX/XX/year>. I called the bank 's phone number on the paperwork and spoke with a male representative with an XXXX  about my concerns. I told him that I did not apply for a credit card but it looked like this is what was sent in the mail. He asked me \" did you recently go on a cruise ''. I thought this was a strange question, but I had gone on a cruise with my husband in XXXX so I said \" yes. '' He told me \" oh well this was just a promotion and not a credit card ''. I wanted clarification stating \" So this is not a credit card its just a promotional thing that was sent? \". Again he stated \" yes, there is no balance on the card, it is closed and you can shred it. '' I was relieved and then I did shred the card but I did take a picture of it first because I thought it was odd. Several weeks later I saw that my credit score was dropping and I received several credit card denial letters-cards I never applied to and realized that someone was using my information to apply for cards. Luckily the other cards were denied but the Barclays Jet Blue card that I was told was not a card now showed to have a balance of {$4800.00} on it. I put a freeze on my credit with XXXX. I called Barclays and reported the card and charges were fraudulent with XXXX. XXXX told me that the card was not closed initially because of fraud but had been closed \" because you told us you had to many credit cards ''. This was a complete false statement and I never closed the card because initially I was told it was never opened and that it was a \" promotion ''. After waiting for Barclays fraud investigation they sent a letter XX/XX/year> stating that their investigation showed that the card and charges were \" not fraudulent ''. They continue to report late payments to credit bureaus and worsen my credit score. When I googled \" Jetblue Mastercard Scam '' I learned of several other people that were also scammed this same way in Spring-Summer 2024. I have also received letters from 3 different companies that my personal information was hacked in the past 10 months and identity is at risk. I have attached paperwork from various cards that were applied for fraudulently as well as the notices that my personal information was at risk."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9076",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "31721"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27073,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been the victim of mail theft and fraud and identity theft/fraud that resulted in hundreds of unauthorized/fraudulent charges to my Citi Mastercard. \n\nPursuant to both the Fair Credit Billing Act and the Citi Zero liability for fraudulent charges policy, I disputed all of the charges using the Citibank online system and some of them were done over the phone. \n\nThese charges involve dozens of merchants and encompassed hundreds of transactions. Because this information is so voluminous, I am not listing all of the information here. However, if needed, I can provide very specific information but it would take well over one hundred pages. \n\nAs part of this process, I also transmitted written correspondence that was transmitted via email and was delivered via XXXX. I can provide the tracking information which confirms delivery. \nTo be more specific, I sent separate correspondence to Citi for each and every different Merchant that outlined/itemized the unauthorized/fraudulent charges and I also submitted extensive evidence in support of my position. This evidence included sworn testimony from multiple persons, and other documentary evidence. \n\nI have gone through all of the appeals process, based on the information that was provided to me. I have also made very specific demands pursuant to both the Fair Credit Billing Act and the Citibank Zero liabilty for fraudulent charges policy. \n\nCiti has BLATANTLY failed to comply with the requirement of the Fair Credit Billing Act and the Citi Zero liability for fraudulent charges policy. To be more specific, Citi has NEVER : 1. Acknowledged any of my disputes in writing, as required by the applicable law ; 2. Has not conducted an investigation that is consistent with the terms of the FCBA and in this regard : a. Citi has NEVER sought to discuss any of the specific charges with me ; b. Citi never sought to speak with any of the witnesses that I provided sworn testimony from ; c. For many of the transactions, Citi never sought to speak with any of the merchants. This is particularly important because many of the merchants have acknowledged that the transactions were fraudulent and have waited to hear from Citi. I have advised Citi of this over a dozen times ; d. Citi did not analyze or investigate each transaction. Instead, it made a blanket decision for all transactions which encompassed dozed of merchants. This is another example of a failure to comply with the applicable statutes, policies, and regulations. \ne. Citi has never transmitted me anything to explain their decision, despite me repeatedly requesting that they do so ; f. Citi has never provided me with the facts, data, information, or evidence upon which it related to deny my disputes, despite me repeatedly requesting that they do so. \n\nI have been a Citi customer for over two ( 2 ) decades and they simply closed my account and IMMEDIATELY upon doing so, they reposted all of the charges to my account, without any notice or explanation to me. Many of the charges they reposted had been determined in my favor MONTHS before. \n\nNow, even tough these charges are in dispute, Citi is charging me for all of them and forcing me to pay all of them including the interest and this is another violation of the FCBA."
+}

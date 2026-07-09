@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10608",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "75025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14440,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding XXXX XXXX handling of a fraudulent charge on my account. \n\nOn XXXX XXXX, I did not authorize a transaction to XXXX for amount of {$3800.00}. For that matter, I have NEVER made a purchase through XXXX. \n\nOn XX/XX/year>, I received a phone call from an individual falsely claiming to be a representative of XXXX XXXX. The caller stated ther was a suspicious activity on my account and used this FALSE representation to induce me to supply a one-time PIN. I was told they needed this PIN to close my account and not authorize a purchase. \n\nThis was a bank impersonation / social-engineering scam. At no point did I anything authorize a XXXX transaction or consent to this charge. \n\nImmediately after this call, I ended the call & called XXXX XXXX to report the incident that had taken place 10 minutes prior. Despite the prompt reporting, the bank has denied my fraud claim on the basis that i provided a PIN. I escalated the matter and case as since been reopened. Case XXXX XXXX XXXX On the call to reopen case, I was told that I provided PIN. Obvious to me that my original call was either ignored or not documented correctly. \n\nProviding a one time PIN under fraudulent misrepresentation does NOT comfort your authorization in the Fair Credit Billing ACT. The transaction was the result of deception and should be classified as fraudulent.\n\nI am requesting that : 1. The {$3800.00} XXXX charge be permanently removed 2. Any related interest or fees be reversed 3. My account NOT be negatively reported to any credit bureau 4. XXXX XXXX provide a written explanation of its final determination. \n\nI am asking the CFPB to review this matter and assist in ensuring that this fraudulent charge is properly resolved. \n\nSincerely, XXXX XXXX XXXX XXXX ( last 4 digits ) : XXXX"
+}

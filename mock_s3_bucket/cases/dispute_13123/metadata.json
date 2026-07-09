@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13123",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "074XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26777,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I attempted to make a purchase on XXXX for approximately {$210.00}. The transaction appeared to fail at the time, so I made a second purchase for the same deal shortly after. \n\nLater, I discovered that both transactions were successfully charged to my American Express account, resulting in a duplicate charge. \n\nThe first purchase was never used or redeemed. This was an unintentional duplicate purchase caused by the assumption that the initial transaction had failed. \n\nI attempted to contact XXXX to resolve the issue but was unable to reach a human representative. I then filed a dispute with American Express. \n\nAmerican Express denied my dispute, stating that the merchant provided documentation. However, the documentation sent by XXXX was difficult to read and unclear. They claim to have sent vouchers from two separate accounts, but I can only see one account. Additionally, one page of the document lists an amount of {$720.00}, which does not match the actual charges. I do not understand how American Express used this documentation to deny my dispute and close the case, since it does not clearly support the claim that the charge is valid. \n\nI am requesting that the unused duplicate transaction be refunded."
+}

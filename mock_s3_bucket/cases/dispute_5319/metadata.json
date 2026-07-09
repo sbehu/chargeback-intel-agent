@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5319",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60611"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43193,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "refer to the attached, as this is widespread and involves numerous credit cards as none of the business have easy ADA options for someone who is XXXX XXXX XXXX XXXX XXXX XXXX XXXX and who also fall under protected class. Each of the business expects a person with bad health to spend countless hours with each of them and I barely have the ability to live, barely can move some days and yet when I am able to call I am verbally attacked. I no longer have a phone so as I stated many times before email is the only option and since I either have to live in my car since I was denied many loans or if my credit card does work is when I have access to wifi. it would be great if some company allowed me to live and focus on my health. you can stop sending mail as I can barely move and going to a mailbox isn't top priority my life is. thanks similar letter was mailed to social security, illinois, VA, and 3 credit bureaus"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5131",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6770"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17277,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Recent receive a call from my credit card company with an overdue balance of XXXX of an account with a balance of XXXX that I did not used or authorized. Called credit card company to report and to close the account immediately."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10348",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NE",
+    "complaint_zip": "681XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5710,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My original dispute was on was on XXXX for {$30.00} for cash back to my credit card used for the payment on XXXX. I was supposed to receive the cash back by XXXX. I reached out to merchant through XXXX to contact merchant no response from merchant. XXXX said I needed to reach out to my credit card bank to dispute. I opened dispute with bank. Bank issued a credit for {$30.00} and resolved the dispute on XXXX. When I went to use my software instance it said it was not longer valid. It was an instance valid thru XXXX. My instance was canceled and no longer valid. I reached out to the merchant and on XXXX for a refund for a refund on canceled instance. I received a response : XXXX  ( XXXX  Customer Support ) XX/XX/2026, XXXX XXXX Hi XXXX, Thank you for your message. If the refunded amount is not showing in your XXXX account, we kindly ask you to contact XXXX directly, as they will be able to provide you with detailed information regarding the status of your refund. Thank you very much for your understanding. Sincerely, XXXX XXXX XXXX Customer Support For further assistance, explore our Help Center. I reviewed mu XXXX account no refund and my credit card bank no refund. I opened a new dispute with bank for {$98.00}. the dispute was denied and was referred back to merchant."
+}

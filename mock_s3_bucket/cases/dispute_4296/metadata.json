@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4296",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75080"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45261,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX Separate fraudulent charges to XXXX XXXX XXXX made using correct phone number and shipping address, but invalid email addresses ( different, incrementing email addresses on each purchase ). The items were delivered to our house, then immediately stolen from our door upon delivery. I filed a police report and the detective suggested that this is a common scam lately, and to file a claim with the credit card company, which I've done on XX/XX/year>, providing them with the police report number. \n\nCiti responded with letters showing the transaction details and claiming that the charges were valid based on History of purchases with the vendor ( we've never purchased from this vendor ), valid IP address ( charges were made via mobile phone in our same city ), and valid phone number and address ( information available publicly or commonly leaked along with credit card info ). \n\nI then responded in writing, again providing the police report number and detective 's name, pointing out the incrementing, different email addresses, and that this was a common scam. \n\nI have received no further communications from Citi except seeing in their online portal that the credits were reversed with no fraud credit being issued. I contacted them by phone on XX/XX/year>, XX/XX/year>, XXXX, and XX/XX/year> to inquire about the status, and each time have been told that these are still being investigated with no further information being provided to me. I've requested these be escalated, to speak with a supervisor, etc. and have gotten XXXX response other than that these are being investigated. Currently in their online portal, 2 of the disputes show as resolved with no credit issued and one shows that a security credit has been issued even though the representative has told me that all XXXX are still under investigation. \n\nThese charges are absolutely fraudulent, and we've offered to provide doorbell camera footage to the police. \n\nCharge dates and amounts : XX/XX/year> - {$450.00} XX/XX/year> - {$450.00} XX/XX/year> - {$450.00} XXXX, TX Police Report Number : XXXX I have attached my 3 separate dispute responses back to Citi which contain the police report number, and my notation about the invalid, incrementing email addresses ( both of which seem to have been ignored )."
+}

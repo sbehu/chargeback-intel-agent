@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6226",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "164XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9473,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX we were charged an incorrect amount for 2 XXXX XXXX tickets, after the realization upon confirming through receipts from XXXX XXXX the amount is less {$680.00} each then the actual charge of XXXX each charged. We contacted airlines several times no resolution we then filed dispute with Citi bank all calls recorded and after attempting to electronically send the evidence which apparently Citi closed dispute because they weren't able to download it as I'm not aware how to send XXXX so spoke to supervisor XXXX she reopened the dispute we mailed with tracking paper copies of everything XX/XX/XXXX they received it, we were told during the investigation no interest would collect and they charged us interest on {$680.00}, {$13.00}. But the entire process we have received every excuse as to them closing it they couldn't get evidence XXXX time then the evidence isn't sufficient which how is a black and white receipt from the company stating amounts not the most important evidence necessary, they didn't even attempt to get money refunded and I thought dispute department are there exactly for these type of reasons. After speaking with XXXX thinking all was good then got letter saying closed due to length of time passed and hello I have been back n forth for months about this with them sent in signature pages together they uploaded 1 and closed other ticket???? Spoke to XXXX she said it was all squared away then yest XX/XX/XXXX they close it saying too much time smh and not sufficient evidence..... really plus charged Interest spoke with veish says no resolution for me wouldn't credit interest said call back in 3 hours but they will tell me the same thing when asking for her supervisor.... mind boggled at the inconvenience and inconsistency throughout this lengthy unprofessional dispute process. Plz help"
+}

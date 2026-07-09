@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8379",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91741"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30728,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am submitting this complaint because I was deceived by a fraudulent seller and my credit card company has failed to protect me as a consumer, despite clear evidence of fraud. \n\nIn XX/XX/year> and XX/XX/year>, I purchased two separate orders of XXXX XXXX XXXX XXXX XXXX XXXX from XXXX XXXX, which were advertised as authentic XXXX XXXX. In reality, both purchases turned out to be counterfeit replicas. \n\nFirst Order ( XX/XX/year> ) : After receiving the product, I immediately had it professionally tested by XXXX XXXX XXXXXXXX XXXX XXXX XXXX, XXXX XXXX XXXX The results confirmed it was not XXXX, but rather 80 % XXXX, 15 % XXXX, and 5 % other materials. ( Proof attached ). \n\nSecond Order ( XX/XX/year> ) : When the second order arrived, I recognized the issue and refused the shipment on XX/XX/year>, returning it directly to sender. ( Proof attached ). As XXXX does not provide a receipt for refused shipments, I explained this to my credit card company. \n\nDespite these facts and supporting documentation, my credit card company closed my disputes in favor of the vendor. They relied solely on the vendors false claim that I never returned the counterfeit gold and that the items remained in my possession. This is entirely untrue.\n\nI was the victim of fraudulent misrepresentation and deceptive business practices. Not only did the seller knowingly advertise and sell counterfeit goods, but my credit card company has also failed to uphold its responsibility to investigate fairly and protect me as the consumer.\n\nI am respectfully requesting the CFPBs assistance in : Ensuring that I receive a full refund for both fraudulent purchases.\n\nHolding the seller accountable for deceptive practices.\n\nReviewing the conduct of my credit card company, which neglected its duty to protect the consumer in this case.\n\nI trusted that both the seller and my credit card company would act in good faith. Instead, I was misled by the seller and left without protection by my credit card issuer.\n\nThank you for your time and attention. I am attaching proof of testing results and shipping records, and both dispute documents. I am available to provide any additional information you may need. \n\nSincerely, XXXX XXXX XXXX"
+}

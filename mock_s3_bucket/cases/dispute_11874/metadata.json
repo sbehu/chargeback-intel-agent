@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11874",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77345"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40867,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We are filing this complaint regarding a Best Buy Credit Card account serviced by Citibank , N.A . XXXX XXXX XXXX and XXXX XXXX XXXX are represented by counsel. Counsel sent a formal dispute and demand letter on XX/XX/year>, followed by a final demand. Those letters placed the company on written notice that the account was disputed, that counsel had been retained, and that all communications were to go through counsel only. Despite that notice, direct contact with the consumers continued. \n\nCounsel also demanded complete account validation and a full accounting from inception through the present, including all statements, purchases, payments, promotional terms, interest calculations, fees, credits, reversals, adjustments, and identification of every entity involved with the account, including any servicer, collector, law firm, assignee, or furnishing/reporting agent. That information has not been fully provided. \n\nThe company has continued improper direct contact after written attorney notice while failing to produce the records needed to validate the claimed balance. If the balance is valid, the company should be able to provide a complete ledger and documentary history. We are also concerned that if this account has been furnished to any consumer reporting agencies, it may not have been properly coded as disputed after written notice of dispute. \n\nWe request that the company immediately cease all direct contact with the consumers and communicate only through counsel, provide the complete account-level history from inception through the present, identify all entities involved with the account, confirm whether the account has been reported to any consumer reporting agencies and whether it has been coded as disputed, preserve all records, and explain why direct consumer contact continued after written notice of legal representation."
+}

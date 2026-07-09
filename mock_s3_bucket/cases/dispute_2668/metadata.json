@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2668",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75087"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19042,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I order - from Home Depot online - {$290.00} worth of baseboard. \n\nThe delivery charge was {$35.00} Order was canceled within a short amount of time because local store did not have what I ordered. \n\nHowever, when called - I was told it would take up to 5 DAYS for refund to show up.\n\nthat is ridiculous this is HOME DEPOT. \n\nThink how much $ in interest they make off of these types of transactions!!! \n\nMy credit card company said transaction was pending so I couldn't cancel it until there was a dispute."
+}

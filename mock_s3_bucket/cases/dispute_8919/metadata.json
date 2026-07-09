@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8919",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92606"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40809,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My friend and I dined at XXXX XXXX  XXXX in XXXX XXXX back XXXX XX/XX/year>! We had an absolute horrible service and experience with this restaurant, given the fact that we had previously visited a very similar Brazilian Steakhouse XXXX  months prior called XXXXXXXX XXXX XXXXXXXX and the service and quality of food was just as expected and described!! \n\nXXXX  of all, the manager and staff called us liars after presenting them with a coupon that they have posted on Retail Therapy app themselves, which is owned and operated by XXXX XXXX and so is the XXXX XXXX that XXXX XXXX XXXXXXXX is in, and stated that we had already redeemed the coupon when we hadn't at all! The manager was literally arguing with us at this point! We asked for \" well done '' meat and we were getting undercooked meat the whole time! This is in addition to the fact that the meats were not fresh at all and some even seemed rotted or bad, to the point that both my friend and I got food poisoning after our visit here. We also raised our concern in regards to the seating which was by the window with extreme amount of sun exposure, however not only were we not moved to a different seat, the manager also played it off as it is not a big issue and just used being \" understaff '' as an excuse to keep us there!!! My friend then tried to reach out to their executive teams and also left a review for them and no one from the XXXX XXXX  XXXX team even cared to take this into consideration or try to come up with some sort of resolution! As you can see, after a few days, they automatically just closed the case and were completely negligent to our experience!! \n\nI went ahead and disputed this matter with Citi Bank, which is the Bank I hold this Credit card with and specifically asked them to notify me in case of additional information/documentation that's needed in regards to this dispute! Not only did they not notify me, they also went ahead and resolved the dispute in favor of the merchant right after they heard back from the merchant and had not sent me any letter or reasoning since then!! I've tried calling Citi XXXX times already, which XXXX of the times I was able to speak to their disputes department and requested for this dispute to be reopened as I need to provide them the documentation needed in order to resolve this dispute in a fair manner. It's been over a week and nothing has been reopened and there has been absolutely no follow ups or letters or any form of communication from Citi Bank in this regards, in addition to the fact that I have also provided the attached documentation to their claims and disputes department via email. Each time I call them and request to speak with their disputes department, they have purposely left me on hold for over XXXX minutes, when this has never been the case with Citi previously!!"
+}

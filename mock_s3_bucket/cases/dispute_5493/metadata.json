@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5493",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60613"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10841,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have called Citi Credit Card for the past 4 months asking to deal with this fraudulant charge and a method to follow up with them. Charge was for just over {$12000.00} from company named XXXX. I did not authorize th transaction in XX/XX/XXXX. I have tried 5 times opening a case and asking for a case number and Citi tells me to use who I am speaking with 's first name and to dial their fraud number of XXXX. Today XX/XX/XXXX I was on the phone for 3 hours and asked for the case number from XXXX, XXXX XXXX XXXX, XXXX, XXXX, XXXX XXXX, and XXXX. They all informed me this case number could not be emailed or given and I would need to call back and check in with them. That feels illegal and I asked to open 3 disputes for 3 other charges with just anwser. they said they would and they only opened 1 and I recieved 1 email. This is not being handeled and they are partaking in misleading business practices. Please help me stop this madness."
+}

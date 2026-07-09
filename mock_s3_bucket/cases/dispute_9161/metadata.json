@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9161",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19131"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2784,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX of 2024 my XXXX account was compromised and XXXX transactions were made. XXXX using the primary card on my XXXX account American express business, XXXX using XXXX credit ( which was resolved without an issue ) and XXXX XXXX my XXXX XXXX XXXXXXXX debit account which I notice and got the transaction kicked back to my XXXX account where it still sits today. I've disputed the XXXX transactions with American express which has been denied over and over again for them either never getting back to me or asking me to provide more documents which I've done every time. The amount was XXXX total. The transaction was made from XXXXXXXX XXXX XXXX  and I explained to amex that I never even left the country. This has been going on for almost 2 years now and I am still paying interest on the remaining balance ( making the minimum payments ) but this has been a nightmare. The transactions was made in euros. XXXX for XXXX euros, XXXX for XXXX euros which transfer to use at XXXX the documents are the deputes that I've opened with XXXX last XXXX or XXXX when I found out about the transactions. This is the last thing that amex asked me for ( a proof that I've reported fraud to my account the dollar amount is in euros and its for the XXXX XXXX XXXX XXXX transactions that I am still fighting with amex until today."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9676",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "34741"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39204,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Against : Barclays Bank US Issue : Credit card fraud unauthorized transactions / dispute handling What happened?\n\nI am filing this complaint because Barclays Bank US is refusing to reverse clearly unauthorized credit card transactions, improperly denying my fraud claim based solely on the assertion that the card was card-present and involved an authorized user. \n\nI am the primary cardholder on the account ending in XXXX. The disputed transactions occurred on XX/XX/year>, while my authorized user, XXXX XXXX, was traveling in XXXX. \n\nOn that date, the authorized user attempted to pay XXXX taxi ride of approximately {$25.00} from the airport to his hotel. The taxi driver stated that the card was declined and repeatedly attempted charges without authorization, falsely claiming the charges were unsuccessful. The driver became aggressive, and the authorized user felt unsafe. To avoid further confrontation, he paid the taxi fare in cash and was dropped off at the hotel. \n\nImmediately upon discovering the fraudulent activity, I contacted Barclays to report the fraud. \n\nNeither I nor the authorized user authorized the following transactions, all dated XX/XX/year> : XXXX XXXX XXXX XXXX {$550.00} XXXX XXXX XXXX XXXX {$2600.00} XXXX XXXX XXXX XXXX {$2100.00} XXXX XXXX XXXX XXXX {$2600.00} There was no PIN entry, no signature, no verification, and no consent for any of these charges. The authorized user did not approve or benefit from these transactions in any way. \n\nDespite this, Barclays denied my fraud claim ( Case # XXXX ) solely because the card was considered card-present and in the possession of an authorized user. Authorized-user status and physical card presence do not constitute authorization under the Fair Credit Billing Act.\n\nBarclays has not provided any documented proof of authorization, such as a signed receipt or evidence of PIN verification, yet continues to refuse reversal of the charges.\n\nWhat resolution am I seeking?\n\nI am requesting that Barclays Bank US : 1. Comply with the Fair Credit Billing Act ( 15 U.S.C. 1666 ) 2. Conduct a full reinvestigation of the disputed transactions 3. Reverse all unauthorized charges listed above 4. Provide the results of the reinvestigation in writing"
+}

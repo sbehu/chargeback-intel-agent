@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5448",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "33707"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14819,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My American Airlines Aviator card issued by Barclay 's was charged {$2800.00} on XX/XX/XXXX. I did not make this charge. I reported the charge to the credit card company and received a new card. \nOn XX/XX/XXXX, Barclays informed me that \" documentation '' from the merchant showed the charge is legitimate and they reinstated the charge to my card. \nWhen I called Barclays on XX/XX/XXXX, they gave me the website where I supposedly placed the order and the IP address from which I supposedly place the order. \nWhen I investigated the website, I learned that it does not exist and never existed. The IP address arose from a different city from my residence or work. In addition, the products that I supposedly ordered do not exist. Of course, I never received any merchandise. \nWhen I informed Barclays about this information, they stated that I need to pay the charge. \nI did not make the order, the order is completely fraudulent, and I never received any merchandise. Barclays is violating their No Fraud guarantee and should not be permitted to make me pay for this."
+}

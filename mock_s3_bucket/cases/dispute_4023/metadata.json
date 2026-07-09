@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4023",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92506"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37514,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/scrub>XXXX XXXX XXXX XXXXXXXX processed a refund to my Citi Bank Visa Card in the amount. As of XX/XX/year> the refund has not been posted to my Citi Bank Visa Card. Citi Bank has repeatedly stated that the refund has not been received and have refused to investigate further. XXXX XXXX has stated with 100 % certainty that the refund was successfully processed on XX/XX/year> and provided transaction code XXXX as proof and to assist Citi Bank with locating the funds. As of writing Citi Bank has not shown willingness to investigate further. This is the second vendor that I have had an issue with refunding my Citi Bank Visa Card. On XX/XX/XXXXXXXX XXXX XXXX attempted to process a refund onto my Citi Bank Visa Card but could not do so and were forced to cut a check which was sent via mail."
+}

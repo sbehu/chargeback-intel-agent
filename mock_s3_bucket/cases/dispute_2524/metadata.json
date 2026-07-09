@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2524",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16597,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a chair in XX/XX/XXXX for {$1300.00} with a discount code and it was received damaged with missing parts. I contacted XX/XX/XXXX same day of receipt and asked for missing parts. I had not heard from the business for weeks and XXXX day while away an item was supposedly delivered and returned back as I had not ordered a second item nor authorized a purchase. Been in contact with XX/XX/XXXX for months who stated in thei communication that they received the item and that I was credited but I am getting the run around and have not been refunded for a returned item. Spoke to XX/XX/XXXX and the XX/XX/XXXX at XX/XX/XXXX CITI XX/XX/XXXX keeps REBILLING me with unauthorized charged for this return in an attempt to extort money and fees out of money when the retailer wrote via email and toldXX/XX/XXXXthat thye have the item and that I was refunded. I will not purchase here again. SEE ATTACHED DOCUMENTS HERE AS PROOF OF RETURN AND CREDIT BY MERCHANT!!! \n\nTo whom it may concern, This customer was sent a full replacement chair as the supplying partner was not able to send just the part that was needed. Because a full replacement was shipped, a return was expected in our system- presumably, this would have been the replacement order after the needed parts were taken, but a return of either the original or replacement chair would have been accepted. \n\nWe made several attempts to provide the customer with free, prepaid return labels, but the customer 's duplicate chair was never received. Our system identified the customer has having XXXX chairs in their possession, and a replacement charge was scheduled but never captured. \n\nA Customer Service agent completed the return in our system on XX/XX/XXXX. This generated an automated email to the customer stating the return was \" accepted, '' but it does not actually confirm any item was received, only that the return was completed in our system and that no replacement charge will occur. \n\nThe customer is in possession of XXXX chair, and has only been charged once. No other refund for this chair was promised or inferred. \n\nSincerely, XX/XX/XXXX"
+}

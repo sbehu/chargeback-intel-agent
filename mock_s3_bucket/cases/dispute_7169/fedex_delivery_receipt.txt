@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-63359057-US
+Shipment Date:   2025-10-20T00:00:00Z
+Delivery Date:   2025-10-22T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     912 SUNSET ST, OH, 45036
+============================================================

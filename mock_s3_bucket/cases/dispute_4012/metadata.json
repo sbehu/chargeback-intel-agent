@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4012",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "AZ",
+    "complaint_zip": "850XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18189,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We hired a contractor and gave a 50 % down payment of XXXX. \n\nThe work they did was so shoddy that we had to hire another contractor pay to have their work undone and corrected incurring additional costs over and above the down payment. \n\nWe filed a dispute with Citibank and they denied it even though the merchant didn't contest the dispute. \n\nIn addition to Citibank is saying they're going to charge me late fees and interest for the reversal."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6656",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48044"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27670,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an item off of XXXX, an online auction site on XX/XX/year> I purchased an XXXX  XXXX FOR XXXX. I bought it from the seller XXXX ( XXXX XXXX ) off of XXXX. I used my American Express card for the transaction. \nI received the item XXXX and the item was not as described in the listing. The item was not functional and was not in the condition as promised, defective. I contacted the seller but the seller wouldnt respond. I started a claim with XXXX and XXXX told me to send the item back. All of a sudden, the seller started communicating with me and waiting me to lie to the manufacture and try to obtain warranty. I explained to the seller that the warranty is for the original owner which is him and not me. I am the second buyer of the item and the warranty would not apply to me. That I have documented between chat message of the seller and myself. I also bought this item as new and sealed which it was not and hence the reason of me returning this item. I used the pre-paid label that was sent to me via XXXX. The seller stated he received the item but it was different than what he sent me, which is a lie and fraud. I have proof that I sent the same item he sent to me back to him. The seller is committing retail fraud and I am the victim of their deceitful intentions. I have photos of the item with the serial number being mailed back to the seller. I contacted American Express and they refused to help me with my charge back even with the amount of proof I have of the seller lying and committing retail fraud and not issue me my refund and or charge back. \nI am filing this complaint with the CPFB to some help against American Express for ignoring this blatant seller and help me recoup my funds from a retail fraud that I have become the victim of. I filed a police report with the XXXX XXXX XXXX department on XX/XX/year>. I also filed a IC3 FBI Internet crime complaint/report on XX/XX/year>."
+}

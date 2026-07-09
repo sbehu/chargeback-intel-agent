@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-59037492-US
+Shipment Date:   2026-03-07T00:00:00Z
+Delivery Date:   2026-03-09T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9220 PINE LN, FL, 33308
+============================================================

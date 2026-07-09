@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11872",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33584"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 756,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a denied credit card dispute for lodging that was unsafe and uninhabitable. \nI booked a short-term rental through XXXX  and upon arrival, the property had multiple serious issues : the front door did not lock, there were visible sanitation concerns including mold and bugs, and essential fixtures such as the toilet were broken. \nDue to these safety and health concerns, I was unable to stay in the property at all and secured alternate lodging immediately. I did not use the service I paid for. \nI disputed this charge with my credit card issuer, Citi, under services not rendered as described. I provided supporting documentation including evidence of the unsafe conditions and proof of alternate lodging. \nDespite this, Citi denied my dispute twice and held me responsible for the charge. This decision fails to account for the fact that the service was not provided in a safe or habitable condition, which prevented me from using it. This is not a cancellation issue it is a failure to provide the purchased service. \nI am requesting that Citi conduct a fair and thorough review of this claim and reverse the charge based on the merchants failure to provide a safe and habitable accommodation. \n\n\n\n\n\nI am writing to formally dispute a charge on my Citi credit card related to a reservation made through XXXX for an apartment rental. I am requesting a review of this charge under the category of services not rendered, as the accommodation was not usable and was not as advertised due to serious sanitation and safety concerns upon arrival. \n\nWhen I arrived at the property, I immediately observed several conditions that made the unit uninhabitable and unsafe. There were visible bugs inside the apartment, the bathtub contained mold, and the toilet seat was broken. Most concerning, the front door would not properly lock and the door frame appeared bent or damaged, preventing the door from securing. Because the door could not be locked, the property posed a significant safety risk, particularly as I was alone in an unfamiliar area. \n\nDue to these conditions, the property was clearly not as advertised and not in a livable condition, and I was unable to occupy or use the accommodation. I left the property immediately and did not stay overnight or use the unit in any way. \n\nI contacted the XXXX company right away to report the issues and request a refund since the accommodation was unsafe and not as represented in the listing. Prior to this request they had been responsive, however once I requested a refund they stopped responding and my calls went unanswered. I have witnesses that were with me and can attest to this and the unsafe, unlivable conditions. \n\nBecause the property could not be safely used, I canceled the reservation and had to secure alternate lodging at a hotel that same night. This additional expense occurred only because the original accommodation was unsafe and not usable. \n\nThis dispute is being submitted because the services paid for were not rendered in a safe or habitable condition and the property provided was not as advertised, and the merchant declined to provide a refund despite being notified immediately upon arrival. \n\nTo assist with the review, I will provide supporting documentation including : Screenshots of communication with the XXXX  company Call logs showing attempted contact Confirmation of the reservation cancellation Receipts from the hotel where I had to stay instead Given that the accommodation could not be used due to safety and sanitation issues and was not as advertised, I respectfully request that this charge be reviewed and credited back to my account. \n\nPlease let me know if any additional information is needed."
+}

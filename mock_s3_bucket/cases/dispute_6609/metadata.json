@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6609",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97302"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37035,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary of Events : Fraudulent Transaction : On XX/XX/XXXX, a charge of {$1900.00} was processed at a XXXX XXXX store in XXXX, XXXX on my XXXX XXXX XXXX Credit Card. I reside in XXXXXXXX XXXX and was not in XXXX  at the time. I did not authorize, initiate, or participate in this transaction. \nUnauthorized Credit Limit Increase : On XX/XX/XXXX, Citibank increased my credit limit from {$200.00} to {$2000.00} without my knowledge or consent, which directly enabled the fraudulent transaction. \nUnauthorized Payment : On XX/XX/XXXX, a payment for the full amount of {$1900.00} was applied to my account. I did not authorize this payment. When I contacted Citibank, I was informed the payment was likely made by the fraudstersa tactic often used to temporarily conceal unauthorized charges. \nSecond Fraud Attempt & Card Blocked : On XX/XX/XXXX, another fraudulent attempt was made at a XXXX XXXX in XXXX, XXXX. Citibank contacted me, and I confirmed the transaction was unauthorized and that I was in XXXX, Oregon. The transaction was declined, and my card was blocked. \nUnauthorized Credit Limit Request : On XX/XX/XXXX, I received an email indicating a declined request for a further credit limit increaseagain, not initiated by me. I was informed by Citibank that the increase was likely made by the fraudsters. I raised concerns about identity verification and account security, but received no satisfactory explanation. \nDispute and Investigation : I immediately contacted Citibank and submitted a formal dispute through the mobile app. I clearly reported both the fraudulent transaction and unauthorized payment. I also informed them that I have not used this card since XXXX. Although the payment was eventually reversed, Citibank refused to reverse the original fraudulent charge, leaving the {$1900.00} balance on my account. \nThroughout multiple conversations, I asked : What verification methods were used to determine if I was physically present for the transaction ; Whether XXXX footage or XXXX  terminal logs were reviewed ; Why a credit limit increase was processed without my consent ; Why only the payment was reversed, not the actual fraudulent charge. \nDespite my efforts, on XX/XX/XXXX, Citibank formally denied my dispute, citing : 1. That I did not report the transaction as fraudulent which is factually incorrect ; 2. That there was insufficient information to resolve the dispute despite my full cooperation ; 3. That the card was used at a chip-enabled terminal while in my possession even though I was not in XXXX  and the transaction was clearly unauthorized. \nRequest for Relief : Based on the facts above, I believe Citibanks investigation was deficient, lacking due diligence, transparency, and appropriate safeguards. I acted promptly and responsibly to report the issue and protect my account.\n\nI respectfully request the Consumer Financial Protection Bureaus assistance in this matter. Specifically, I ask that Citibank be directed to : Reverse the {$1900.00} fraudulent charge from my account ; Provide a complete and transparent explanation of their investigation process ; Confirm that my credit will not be negatively impacted as a result of this incident. \nThank you for your time and attention. Please let me know if you require any additional documentation or information to support this complaint."
+}

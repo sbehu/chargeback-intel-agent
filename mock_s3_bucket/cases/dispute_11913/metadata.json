@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11913",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33543"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7509,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Identity Theft Case ( FTC Report # XXXX ) I am reporting Citibank ( Account ending in XXXX ) for a failed fraud investigation. \nXXXX Account Takeover : Although I opened this account and used it in the past, it had been dormant for a long period after I paid off the balance. This was a clear \" Account Takeover '' fraud. \nXXXX Negligent Monitoring : Despite the account being inactive for a long time, Citibank failed to flag the sudden, high-volume transactions that began in the XXXX and XXXX moved to XXXX, XXXX. This was completely inconsistent with my historical spending patterns. \nXXXX Regulatory Violation : Upon my report, Citi attempted an unauthorized {$8000.00} withdrawal from my external XXXX account without my consent. \n4 Bad Faith Re-reporting : After credit bureaus investigated and removed this record in XX/XX/year>, Citi maliciously re-reported the {$14000.00} debt on XX/XX/year>, crashing my score from XXXX to XXXX. \nI am attached the XX/XX/XXXX letter from Citi where they ignore these facts. Their investigation is fundamentally flawed."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12240",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32836"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12197,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding an unauthorized transaction on a Citi credit card account and the inability to promptly initiate a dispute due to excessive and unreasonable customer service delays. \n\nDuring the billing period ending XX/XX/year>, a charge in the amount of * * {$8400.00} * * was posted to the account. This transaction is * * unauthorized and not recognized * * by the cardholder. \n\nUpon identifying this issue, I immediately attempted to contact Citi customer service to report the unauthorized charge and initiate a dispute. However, I was met with * * extremely long hold times exceeding 30 minutes * *, as confirmed by the automated system. I have a recording of this interaction, including the system message indicating prolonged wait times. \n\nThis delay is unacceptable given the urgency of reporting unauthorized transactions and preventing further financial harm. Under the * * Fair Credit Billing Act ( FCBA ) * *, consumers must be provided a reasonable and timely method to dispute billing errors. Citis failure to provide accessible customer service effectively * * obstructs the dispute process * * and exposes the cardholder to unnecessary risk. \n\n* * Key Issues : * * * Unauthorized transaction of {$8400.00} * Inability to promptly reach Citi to initiate a dispute * Excessive hold times preventing timely reporting * Potential violation of consumer protection obligations under FCBA * * Requested Resolution : * * 1. Immediate investigation and reversal of the unauthorized charge 2. Confirmation that the account will not be held liable for this transaction 3. Assurance that no interest or fees will accrue related to this disputed amount 4. Written confirmation of the dispute and investigation timeline 5. Review and correction of Citis customer service accessibility for fraud/dispute reporting I am prepared to provide supporting documentation, including account statements and call recordings video demonstrating the inability to access customer service in a timely manner. \n\nThis matter requires prompt attention due to the size of the transaction and the failure of Citi to provide adequate support channels."
+}

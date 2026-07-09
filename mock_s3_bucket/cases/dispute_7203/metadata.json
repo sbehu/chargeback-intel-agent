@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7203",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "IL",
+    "complaint_zip": "60619"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48798,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received an email showing my credit card payment was past due. I hadnt used my card since paying the balance in its entirety in XXXX. I filed a fraud investigation on XX/XX/XXXX. when I noticed that a lot of the transactions were credited to my account but not all on my XXXX statement I reached out XXXX additional times in which case they told me that all of the charges were still being investigated. I received calls from bill collectors stating that my bill was past due but every time I called my Best Buy card services I was told that it was still under investigation and to ignore the calls. My credit score has been greatly affected. XXXX XXXX received a letter stating that everything was resolved on XX/XX/XXXX but it did not cover all the charges I disputed but when I called Im still being told that the charges are under investigation and there is nothing further for me to do"
+}

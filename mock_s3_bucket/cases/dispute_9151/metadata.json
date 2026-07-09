@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9151",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SD",
+    "complaint_zip": "57108"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15209,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a dispute on XX/XX/2025 over a car dealership that sold me a damaged product that was messed up on arrival and they refused any refunds or exchanges after I had returned it to them because they said it didn't meet their return standards due to being damaged. \n\nAfter creating the dispute it was marked as resolved in the seller 's favor on XX/XX/2025 saying \" merchandise is still in customer 's possession '' which is NOT true. Citi bank never reached out to me before making this verdict. \n\nI called them and was told to email proof of delivery and describe the problem in detail to XXXX. I sent 2 emails on XX/XX/XXXX and XX/XX/XXXX. One of screenshots the other was printable pdf files showing proof of delivery and the seller acknowledging the item was returned but denied a refund. \n\nI called on the XXXX of XXXX to confirm Citibank received my email since I didn't get any emails back from them. The customer service representative said they received my email on the XXXX and they're investigating. \n\non XX/XX/XXXX I received notice that they were unable to get any response from me so they're closing my dispute indefinitely. I called immediately upon seeing this and was told that they never received my emails. \n\nSo in summary I got scammed out of {$170.00} from a bad seller for zero product or service for my money and then my credit card company closed my dispute for a completely invalid reason. \n\nThe customer service representatives are all overseas too which I think contributes to the terrible handling of my dispute request and the bad communication. I've been on top of this and can send proof that I returned the merchandise on short notice with no issues, but they aren't doing their job."
+}

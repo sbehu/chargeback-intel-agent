@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7930",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33914"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21904,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against American Express regarding their handling of a merchant dispute with XXXX XXXX Florida. \n\nOn XXXX XXXX XXXX, I was billed {$2200.00} for boat repair services that consisted of a simple fuel line replacement. The actual work took no more than 3040 minutes, yet the merchant charged 3.77 hours of labor and 3 hours of barge service even though the barge was never used. This was a clear case of inflated and misrepresented billing. \n\nI disputed the charge with AMEX and explained that I was willing to pay {$290.00} as the fair amount. Despite the evidence I provided ( timeline, photos, and messages ), AMEX denied my dispute and sided with the merchant solely based on the paperwork they submitted. This left me responsible for an inflated bill that does not reflect the actual service. \n\nAfterward, the merchant re-billed my card without consent for {$2000.00} ( the disputed portion plus a {$15.00} dispute fee ). When that was challenged, they attempted to add another {$15.00} dispute fee and falsely claimed I had only paid {$260.00}. AMEX ultimately reversed these subsequent charges, which confirms that the re-billings were improper. \n\nMy concern is that AMEX failed to protect me in the original dispute. By relying only on the merchants documents and disregarding my evidence, AMEX allowed an abusive merchant to retain payment for inflated and deceptive charges. \n\nI am seeking a refund of {$2000.00}, which represents the inflated and unauthorized portion of the {$2200.00} charge. I request that the CFPB review AMEXs handling of this case and ensure that consumers are not left unprotected when merchants inflate costs, fabricate services, or re-bill after disputes."
+}

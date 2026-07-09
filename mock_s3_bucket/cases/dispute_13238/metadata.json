@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13238",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98501"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21192,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "* * Company you are complaining about : * * Citibank ( Credit Card Services ) * * What happened : * * I am experiencing ongoing unauthorized recurring charges from XXXX that neither XXXX nor Citibank has been able to resolve. \n\nSince XX/XX/year>, I have been charged for XXXX XXXX XXXX, XXXX XXXX, and XXXX XXXX XXXX  ( AWS ) totaling {$420.00}. These charges are not associated with my personal XXXX account and were never authorized by me. I maintain one legitimat\ne XXXX XXXX XXXX membership billed annually under my email address. XXXX has confirmed that there are additional memberships tied to my payment method, but they have been unable or unwilling to identify the account ( s ), remove my payment information, or stop the charges.\n\nI have attempted to resolve this directly with XXXX multiple times without success.\n\nI then disputed the charges through Citibank. However : * The charges have not been fully reimbursed * Recurring charges continued even after my card number was replaced now with my other Debit card with XXXX XXXX XXXX At this point, I am stuck between XXXX, who can not or will not remove my payment method from an unknown account, and Citibank, who has not been able to stop or resolve the unauthorized charges.\n\n* * What I am requesting : * * * A full investigation into the unauthorized recurring charges * Permanent blocking of all XXXX-related merchant charges tied to these unauthorized accounts * Reimbursement of {$420.00} * Confirmation that no further charges from these unauthorized XXXX accounts will be allowed * * Additional information : * * I have confirmed that no family members or authorized users have access to my card for XXXX services . I have also attempted to locate the account ( s ) using all of my email addresses and was unable to find them.\n\nThis situation has been ongoing for an extended period and remains unresolved despite multiple attempts with both companies.\n\nI am requesting assistance in resolving this matter and preventing further unauthorized billing. I have attatched the dispute letter I sent Citi Bank,"
+}

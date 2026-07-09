@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_59",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63146"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2975,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 on my citicash card ending in XXXX I disputed a charge from an XXXX for {$190.00} from XXXX. \n\nAt the XXXX XXXX XXXX I had called an XXXX and gave them my Citi XXXX number I was not in XXXX When I went to the XXXX stand there was no XXXX which I had called and no message from an XXXX driver. \n\nWhen I received my statement there were two charges for {$190.00} from the XXXX XXXX. I talked to XXXX at Citi on XX/XX/XXXX at XXXX XXXX  He said because I was a valued customer he would remove {$180.00} When I called next morning to pay my {$710.00} Citi bill the {$180.00} had not been removed Also XXXX said he had emailed me a letter about protesting the second XXXX {$190.00} charge as I had not received the original letter sent to me. From XXXX XXXX  on XX/XX/XXXX I talked with three or four reps from XXXX and XXXX until XXXX XXXX  mostly waiting on hold.. \n\nI told them I had memorized the card ending in XXXX and wanted to keep that credit card number. Also I did not want the hassle of calling ten companies to tell them because of a disputed charge I had to give them a new autopay CC number. \n\nXXXX the US supervisor who I got to after an hour took 15 minutes and removed the second {$190.00} XXXX charge and tried to help me keep the XXXX number I memorized, I am XXXX XXXX XXXX by the way. but he would have to go through fraud and I would have to get a new card to memorize and call the ten companies i have on autopay. After waiting another XXXX XXXX i got to Fraud in XXXX and they hung up on me. \n\nI am asking for the XXXX card to be reinstated and the removal of both {$190.00} XXXX charges I have disputed I spend {$100000.00} a year on credit cards and have an XXXX to XXXX credit score so I am worth keeping as a customer and having my request heard. \n\nThank you XXXX XXXX PS I dont have these problems with XXXX"
+}

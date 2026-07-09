@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6126",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90744"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5292,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding an unresolved issue with my Citi Custom Cash Card and Citis lack of support following an unauthorized transaction.\n\nI discovered an unauthorized transaction made using the virtual account number of my Citi Custom Cash Card. I immediately deactivated the virtual account number and reported the issue to Citi. \nCard number : XXXX Virtual account number : XXXX Unauthorized transaction date : XX/XX/year> Unauthorized transaction merchant name : XXXX XXXX FL Unauthorized transaction amount : {$14.00} Citi informed me that they needed to verify my identity, but they were unable to send the SMS verification code to my phone due to a system issue on their end. As a result, my account was locked, and I was told I would need to wait for a physical letter to regain access. I am currently traveling for an extended period and will likely not be able to receive this letter in a timely manner.\n\nI called the payment platform ( XXXX XXXXXXXX ) where the unauthorized transaction occurred. They acknowledged the charge was unauthorized and agreed to issue a refund. However, since my virtual card number was deactivated, they were unable to process the refund and advised me to have my bank contact them directly.\n\nWhen I contacted Citi again, they refused to assist, stating that they still could not verify me and therefore would not provide any support or information related to the transaction or the refund process.\n\nI do not understand why Citi is unable to verify my identity or why no alternative verification options are offered. The situation is very confusing and frustrating. I have taken all reasonable steps to resolve the issue, yet I am left without access or support.\n\nThank you for your attention to this matter."
+}

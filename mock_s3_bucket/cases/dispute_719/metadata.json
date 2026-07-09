@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_719",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "015XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14911,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In late XXXX or early XX/XX/2023, I discovered that a credit line charge of {$9200.00} was placed on my Home Depot charge account ( the account is managed by Citibank for Home Depot ) on XX/XX/2023 for what appears to be plumbing supplies. I called and the personnel at the bank were courteous and gladly offered to remove the charge and run their investigation in to the apparent fraud. This morning, XX/XX/2023, I received a one page letter that says, '' The facts and/or information reviewed as part of the investigation does not substantiate the claim of unauthorized use. '' I called and was requesting that they provide me details of how this was determined ; and they would not help. They said that if I mailed or faxed them a front and back copy of my driver 's license then they could possibly open another review of my claim. I personally think that these methods are not a proper level of security, both in terms of insecure handling the transport of this highly personal data, nor had they given me any valid security conscious reason to send in more private data when they could not give me any of their findings. They offered that they had signatures on the order for the transaction. I offered to meet at a local Citibank office and then we could compare the data and if needed they then could look at my license. They would not accept. I offered to meet on an online meeting to do the same and they would not accept. I also noticed that they do not use any form of multi-factor authentication when I login to their banking web site. They mentioned that the supplies were cited as for XXXX XXXX as the job description. I found a XXXX XXXX at a nearby XXXX MA address. I would like the CFPB to make Citibank be 100 % transparent and recognize that a fraud, possibly an inside employee scheme has happened here. \n\nMost importantly, I learned that Home Depot allows their customers to access credit from a card account they do not have with themselves, called the \" Account Lookup Feature ''. This seems very risky and certainly invites fraud. The way they do this is the customer can supply a Social Security Number keyed into a key pad and the same with a drivers license belonging to the card holder and be allowed full access to purchase on that card account, such as in this case. Apparently this individual was allowed to use the account look up feature and supplied my SSN, but was incorrect on my drivers license. Why did the transaction then get approved? Also why would someone do this fraud on their own account? \n\nIt's a terrible situation to be in. Please help. Thank you so very much in advance."
+}

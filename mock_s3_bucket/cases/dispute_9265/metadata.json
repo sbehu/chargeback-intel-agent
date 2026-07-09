@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9265",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "OR",
+    "complaint_zip": "974XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24044,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CFPB XXXXomplaint Statement Barclay Credit Card Dispute Denial I am filing this complaint regarding a defective and misrepresented inflatable bounce house purchased using my Barclay credit card. Barclay denied my dispute despite substantial supporting evidence and compliance with all requested documentation. \nReason for Dispute : I ordered a brand new inflatable bounce house from XXXX XXXX XXXX XXXX. However, the item I received was used, defective, and not as described. Defects and discrepancies include : - The inflatable has another companys logo printed on it ( Evidence Photo # XXXX ). - It is covered in blue ink stains and footprints ( Evidence Photos # XXXX ). - It does not fully inflate, making it unsafe for children ( Evidence Photo # XXXX ). - The product does not match the photos provided by the seller prior to shipment ( Evidence Photos # XXXX ). \nTimeline of Events and Supporting Information : - XX/XX/2025 XX/XX/2025 : Contacted the original company repeatedly to request a refund ( Evidence Photos # XXXX ). - XX/XX/2025 : Escalated the issue to Barclay and opened a credit card dispute for defective merchandise. - XX/XX/2025 : Barclay denied the dispute without sufficient reasoning. - XX/XX/2025 : Barclay requested a supporting letter from a similar company confirming that the item was defective. I obtained and submitted this letter. - XX/XX/2025 : After being told the first letter was invalid because it lacked company logo and contact information, I submitted a new version on official company letterhead with contact details and screenshots verifying authenticity. - XX/XX/2025 : Barclay again denied the dispute. - XX/XX/2025 : I called Barclay and requested a detailed written explanation of why my dispute was denied. Instead, I received the same denial letter from XX/XX/XXXX, which contained no additional reasoning or findings. During that call, the Barclay representative told me that I needed to ship the item back to XXXX in order to receive a refund, supposedly per XXXX return agreement. I reviewed the sellers XXXX profile and confirmed that no such return policy existsthere is no return agreement listed anywhere on the sellers page. \nRequest for Resolution : I am requesting : XXXX. A full refund for the defective and misrepresented merchandise. XXXX. Reimbursement of any interest or fees accrued while this dispute remained unresolved. I followed all procedures, provided all documentation, and responded to every request from Barclay. Despite this, Barclay failed to properly investigate and provide a reasonable resolution as required under the Fair Credit Billing Act."
+}

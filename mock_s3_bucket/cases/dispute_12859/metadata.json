@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12859",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11201"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11395,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a follow-up complaint regarding Barclays Bank Delawares handling of my dispute for a {$470.00} transaction from XXXX ( posted XX/XX/year> ), which was previously reviewed under CFPB complaint. \n\nBarclays declined my dispute on the basis that the merchant claimed the returned package was empty ( allegedly supported by XXXX footage ) and further stated that the matter is now past the timeframe for assistance. I am challenging both the factual and procedural basis of this conclusion. \n\nFirst, I followed the merchants official return process and have documentation showing the package was shipped with weight consistent with the returned item. This directly contradicts the claim that an empty box was returned. Barclays has not explained how it evaluated this conflicting evidence or why merchant-provided statements were given greater weight than objective shipping records. \n\nSecond, the merchant retained the returned item within its own warehouse for approximately XXXX months before review. Any alleged discrepancy identified after such a prolonged delay raises serious concerns regarding chain of custody and internal handling. Barclays has not addressed how liability can reasonably be assigned to me after the merchant had exclusive possession of the return for an extended period. \n\nThird, Barclays is now relying on a timeframe limitation despite the fact that I initiated the dispute within approximately XXXX weeks of the transaction, and I had to undergo XXXX review cycles with them where they used extended periods of time to investigate with no evidence provided by the merchant. I request a clear explanation of what specific rule or network requirement prevents further review, and why this timing issue overrides the substantive evidence provided. \n\nOverall, Barclays has not demonstrated that it conducted a reasonable investigation as required under Regulation Z and applicable dispute resolution standards. Instead, it appears the claim was denied based on merchant assertions and procedural grounds without adequately addressing contradictory evidence or custody issues. \n\nI am requesting : A detailed explanation of how the evidence I provided ( including shipment weight and return documentation ) was evaluated. \nClarification of the specific timeframe rule cited and why it applies in this case. \nConfirmation of whether Barclays requested or reviewed the alleged XXXX footage or any independent verification beyond merchant statements. \n\nIf this matter is not resolved, I am prepared to pursue recovery through small claims court, where the burden of proof regarding the condition of the returned item and chain of custody will be formally examined. \n\nI am seeking a fair and evidence-based resolution to this matter. \n\nSincerely, XXXX XXXX"
+}

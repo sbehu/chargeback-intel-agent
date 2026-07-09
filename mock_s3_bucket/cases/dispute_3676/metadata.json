@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3676",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77449"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31116,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A fraudulent charge occurred on my credit card ending in XXXX on Thursday, XX/XX/year> at an XXXX XXXX XXXXXXXX store in XXXXXXXX XXXX  in the amount of XXXX XXXX I filed a dispute on this charge the same day. My card was subsequently closed and a new card was issued. \n\nAfter a few days, I learned the dispute was resolved without absolving me of responsibility. I called the Citi Security team to learn the reason for this outcome. I was advised that because I have the card in my possession and it is chipped, I am responsible for the charge. \n\nOn Friday, XXXX XXXX, I visited the three credit reporting agencies, XXXX, XXXX and XXXX websites and put a freeze on my credit. I also submitted a fraud report to the Federal Trade Commission. \n\nI contacted the XXXX XXXX XXXX store directly on Saturday, XXXX XXXX and spoke with XXXX XXXXXXXX XXXX XXXX but was directed to their corporate headquarters at XXXX, whom I contacted on Monday, XX/XX/year>. After speaking with XXXX ( last name unknown ) in their online charges department, I was advised that no charges online, nor in the store, have been made with my card ending in XXXX and was provided their case reference #, XXXX. I immediately contacted Citibank Security ( XXXX XXXX ) and relayed the above information to XXXX who noted my information and stated the case would be reopened. \n\nOn XXXX XXXX, I reviewed my account online to check the status and saw no change to the resolution summary previously provided. I called Citibank Security immediately and was advised that XXXX did have the case reopened but then, yet again, it was closed without a change to the original resolution. I was then advised by XXXX that I need to make my request in writing at the provided email address. I then submitted an email to XXXX detailed this info and requested the dispute to be reopened again. However, at this point, Ive lost confidence in Citibank properly investigating and clearing this fraudulent charge. \n\nIn addition, I have repeatedly requested from Citibank 's Security team to provide a receipt of the purchase but have not been given one. \n\nI did not make this charge. I did not loan my card out, or provide the number to anyone, so can only presume that previous company data breaches, a skimmer device at other stores, or other fraudulent means were taken to cause this activity. \n\nI now plan to file a police report on this matter, as well as file a complaint with the Texas State Attorney General 's office."
+}

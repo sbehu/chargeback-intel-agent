@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2057",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98007"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24793,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of 2023, I noticed XXXX fraud charges on my account. XXXX was reversed immediately, and the other still shows on my account. I have disputed the charge, and they sent me a new card. They told me that they were investigating the charge. In XXXX of 2023, the charge was removed, only to be put back on a week later. They have told me not to pay the balance as it will be removed. I have talked with multiple people with Citi, and they all said it will be removed. It is still there and now has interest and late fees attached. I called today and was again given the runaround about this and told that the department that handles this ( the XXXX Department ) is unavailable. I do not have any faith that they are going to fix this, so now I am turning to here for help. \n\nXX/XX/year> : Hotel at XXXX XXXX XXXX for XXXX XX/XX/year> : Hotel at XXXX XXXX XXXX for XXXX"
+}

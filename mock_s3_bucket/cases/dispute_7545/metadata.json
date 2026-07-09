@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7545",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33598"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21911,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute on the amount of {$400.00} against the charge made by XXXX XXXX  XXXX FL because the XXXX XXXX did not make a room made available to me at check in time, breaching their contract. \n\nThe credit card company did not appear to understand this fact. They merely provided me with a record of my card being charged by the merchant."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1835",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91405"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38888,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "After my identity was stollen and and credit card was opened in my name a charge/purchase in the amount of {$620.00} was a made without my consent. This transaction was reported as a fraudulent transaction in 8 different times by me and was never credited my Macys credit card bank. I am making all necessary minimum payments at the moment to not effect my credit report."
+}

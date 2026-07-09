@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11104",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19143"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9118,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a reoccuring charge for XXXXXXXX XXXX XXXX go to my Amex account. When I got the new charges on XX/XX/year>. I immediately cancelled both accounts but they did not come off my AMEX statement. \n\nThe next step was to open a dispute. Which I did. The dispute for XXXX was resolved and the charges were reversed. But when Amex reached out to XXXX XXXX said they told me how to close the account ( via the chat thread which AMEX sent me ) but they claim, I did not follow the steps. \n\nAmex asked me to write a letter by XX/XX/year> which I did. The letter stated \" To whom it may concern : When I first saw the charge on my Amex account in XX/XX/year>, I closed the account the next day as per the instructions in the chat message sent. The chat said that since it was within 3 days of the charge, I would receive an immediate refund. \nIn XXXX, Amex rebilled my account. I then tried to access the XXXX website to ensure the account was closed. When I tried to login with my XXXX, email and password, I received the error message attached that my account was closed. \nI do not feel like I should pay for a service, I can not use, I followed their instructions to close the account. '' Login message I received today for email XXXX and it is the same message I received on XX/XX/year> - \" Your account is cancelled. Please contact us to reactivate '' Why should I pay a 1 year subscription for a cancelled account that I have not used and cancelled 5 months and 8 days ago"
+}

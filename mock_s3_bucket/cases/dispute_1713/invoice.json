@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-456895",
+  "invoice_date": "2026-03-02T00:00:00Z",
+  "amount_cents": 21676,
+  "currency": "USD",
+  "billing_address": "1304 Lincoln St, TX, 750XX"
+}

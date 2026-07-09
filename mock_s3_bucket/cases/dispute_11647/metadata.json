@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11647",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29926"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31585,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Attempted to book flights on XXXX XXXX website with XXXX XXXX credit card. Account was showing vouchers for free seat allocation. On check out no provision to enter voucher code. Rang number on reverse of credit card, misdialed by XXXX digit unknowing got a company posing as a reservation company, person answering call told me to put flight on hold and provide them with code, credit card and voucher number. offered a up grade to XXXX XXXX, XXXX flight cost for XXXX flights {$1500.00} seat cost with no voucher {$490.00}. Upgrade charge to include seat was {$2000.00}, while on hold with company an email was sent with XXXX XXXX XXXX confirming flights, was promised upgrade would follow in email. \nNo email of upgrade received. on checking credit card account, XXXX debits XXXX for {$1500.00} to XXXX XXXX, and XXXX for {$2000.00} to reservations.com. on call to original number person hung up once asked about scam. \nBasically, the scam was to book my flight and send confirmation giving impression that I was talking to a AA representative, while debiting my card for a further {$2000.00} Citi bank whose is bank for XXXX XXXX XXXX credit card, dismiss this as a scam and refuse to cooperate saying they do not have a policy for scams."
+}

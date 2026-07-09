@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9836",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27610"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46737,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, a dispute was filed with Citi bank pertaining to a breech of contract/negligence case for XXXX with merchant XXXX XXXX in XXXX, NC. I provided all the requested documentation and case was closed without my knowledge citing I did not provide documents needed. They reopened my case on XX/XX/XXXX and asked for more documentation which I provided. I called several times to verify they received this information which they told me they had and that it would be XXXX days for the decision. Conditional credit was said to be applied but does not reflect on the online portal. I called on XX/XX/XXXX to check again as well as XX/XX/XXXX and was given XXXX update and actually told by one worker, everytime I called, the XXXX days started over so since it was XX/XX/XXXX Id have to wait again. I have provided Citi bank with all required documentation including a professional opinion and comparison quote from another merchant in which I was forced to have the work done after the initial merchant left my vehicle leaking and unsafe to drive. Substantial evidence has been given stating faulty negligence. This is my first dispute. I have been a member for over a decade and use on avg XXXX yearly on this card and have a XXXX score never missing a payment."
+}

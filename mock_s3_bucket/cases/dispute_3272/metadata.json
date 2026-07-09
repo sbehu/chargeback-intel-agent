@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3272",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30118,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I bought a lamp that was never deliver. I open a dispute immediately since that I have been month discussing the dispute with Citi bank because they resolved the issue on my behave but they continue to reverse the credit. {$1400.00} credit from XX/XX/XXXX was reversed again on XXXX. I will not pay for goods that were not delivered, especially since I have provided proof of this. I requested an audit to be sent to me a month ago, but I have yet to receive it. If Citicard affects my credit, I will escalate this matter further. This issue requires urgent attention. Despite calling every week, the audit promised by Citibank has not been sent to me. I am growing increasingly weary of this situation."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1000",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "32837"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7020,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX made a purchase of XXXX $ and never received the good or services for this transaction. I bought an XXXX and the business is still under the merchants name. There was no final agreement signed as stated on Letter of intent. Also didnt receive and merchandise as agreed upon. Disputed with AMEX for this fraudulent transaction no one is reaching out to help me. I have not received anything for my transaction from merchant"
+}

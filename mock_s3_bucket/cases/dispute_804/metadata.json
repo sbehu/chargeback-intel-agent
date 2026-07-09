@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_804",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78628"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11000,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Back in XXXX of 2022 someone stole my credit card and charged multiple items to my card. My ipad and a few other items were stolen as well. I happened to be moving and had people in and out of my house. I opened up a police report and reported the fraud to the police as well as Barclay card. Multiple times barclay card denied my fraud claim stating the card was in my possession, which it was not and another time stating I confirmed a fraud alert they sent which I advised them my XXXX was also stolen and whoever confirmed the message from my XXXX I could not control as it was stolen. When I knew of the fraud I contacted Barclays immediately and did everything on my part. I have been back and forth with them for a year now and every statement and police report I send them the investigator does not read in it entirety. Now I have collections coming after me and my credit has gone down over XXXX points because Barclay fraud investigation has not read my police report or contacted me to discuss the issues despite me contacting their fraud investigations team numerous time. I have notes from their XXXX representatives dating back to 2022 when I would call in almost weekly for an update. At this point I need this fraud removed from my credit card and the collections stopped. I need this fraud claim processed correctly so my credit score will get back to where it was also. Please advise if I need to send over police reports, statements and all of my notes as I have no problems doing so. I can be contacted at XXXX"
+}

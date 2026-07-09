@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4899",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "912XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5407,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "AMEX contacted me on or about XXXX to verify two charges of {$2800.00} and {$2800.00}. I told them no, the charges were not mine nor had I ever ordered anything from the vendor they referenced ( I later determined this vendor sells gold and silver coins ). \n\nAMEX reversed one of the charges in my XXXX statement and the second in my XXXX statement. I thought that was the end of this. \n\nThen in XXXX AMEX informed me that they determined that I gave the vendor my card number and the charges were valid. They did this without any further information from me. I have called them many times and have been repeatedly told that this decision is final and to pay the bill. I HAVE REPEATEDLY TOLD THEM THESE ARE NOT MY CHARGES, AND IF THEY ARE PLEASE PRODUCE THE INFORMATION VERIFYING THAT I ORDERED AND RECIEVED WHATEVER MERCHANDISE THEY ALLEDGE I PURCHASED. I know they can not as this was a fraud! \n\nThe charges now again appear on my bill in XX/XX/year>."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11735",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5866,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I went to get a haircut. I tried to use my debit card which was declined 3 times despite having money in that account. I was already on high alert for credit fraud because the night before in to that morning I received approximately 60 spam texts. While I blocked and reported each as spam, I was inundated. This is a common tactic while trying to keep the person distracted from fraud. The texts stopped that morning around XXXX. Apparently a payment had been made to my Citi account by someone for {$1000.00}. I did not make this payment. My account had been hacked and money was stolen in an attempt to take over my account for more fraud. \nI reported this last Thursday. The representative I spoke with identified several fraudulent attempts to use my card in places like Arizona. This account was closed and my login information was deleted to secure my account. I was told a new card would be issued and with this would come the instructions for setting up my new log in information and I would need to speak with tech support once I received the new card. \nToday XX/XX/year> I called Citi to check on the status of the investigation. It has taken me 4 hours now and I was just informed that my new card number was issued and immediately canceled due to delinquency. I make payments on this card bi weekly at least and use this card frequently. The new account couldn't have been delinquent. It was new. Citi then told me that the report was noted as a billing dispute despite the report that had been provided to them. I now have no access to my Citi account and am unable to log in to my own account to review other potentially fraudulent activity. They are now holding my account and the money that was stolen from me hostage. I was given no notice that my account would be closed. \nI had to close my debit and checking account because of this activity. I am now without a debit card for another week. I have no access to onl"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_55",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37027"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 876,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX in the attached picture, I clicked on an ad which offered free samples of sunscreen. I was charged the shipping amounts below : XX/XX/XXXX XX/XX/XXXX XXXX XXXX CA {$5.00} XX/XX/XXXX XX/XX/XXXX XXXX XXXX CA {$6.00} I made no further purchases with the seller. I left for a trip on XX/XX/XXXX to XXXX XXXX and returned XX/XX/XXXX ( which I can provide flight information for ). I returned to find two additional unauthorized purchases for large amounts on my card, one apparently made on the day I was on my flight. The fraudulent seller kept my card information. I received no product or service. \n\nXX/XX/XXXX XX/XX/XXXX XXXX XXXX CA {$120.00} XX/XX/XXXX XX/XX/XXXX XXXX XXXX CA {$110.00} It has been nearly three months and I have not received a resolution. This is the first fraudulent incident I have reported to Citibank. Despite their written guarantee of protecting credit card holders against unauthorized purchases ( which states \" Youre protected against unauthorized charges on your consumer credit card account. At Citi, you will not be responsible for unauthorized charges ( charges which were not made by you, or anyone allowed to use the account ) ), they have withdrawn the credit to my account and I have spoken to a customer service representative who stated the act of providing my credit card information for the samples on XX/XX/XXXX meant that this fell under the 'scam ' and therefore not 'fraud ' category, despite the purchases being unauthorized. \n\nAdditionally, I received a new ( different ) Citi card just five days ago and activated it. I had only made a single purchase before I found a new fraudulent charge posted today on this card : XX/XX/XXXX XXXX XXXX XXXX XXXXXXXX XXXX {$220.00} The Citibank representative told me that they had previously not provided the service that prevented ongoing charges from my old canceled card from rolling over to my new one! They suspected that a seller who had held on to my old card information now had made a new fraudulent purchase that simply rolled over, completely negating any point in canceling and obtaining a new card. This is absolutely unheard of to me and I can not imagine how an 'ongoing charge ' was established, for an 'XXXX ' no less, if the description is to be believed. They finally told me my next new card would have this service ( preventing rollovers ) and would credit this amount back to me. The admittance of this fraudulent activity and the denial of the previous one is completely contradictory. \n\nIn any case, I have never encountered a bank with such a large loophole that sets the customer up to be so easily taken advantage of, and one which so clearly does not stand behind their own guarantee."
+}

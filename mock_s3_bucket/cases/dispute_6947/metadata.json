@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6947",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39307,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company Name : American Express Account Type : Amex Gold Card ( closed ) Details : I am filing this complaint regarding a longstanding issue with American Expresss failure to enforce an authorized user spending limit, which directly led to a balance of over {$2000.00} on my account. I added my XXXX  as an authorized user and set a {$200.00} spending cap. Despite this, Amex allowed nearly {$3000.00} in charges to go through over the course of XXXX months. \n\nWhen I raised this with Amex support, the rep confirmed the limit had never been properly enforced. The supervisor offered no resolution and told me that spending limits do not apply to hotels, restaurants, or other major categoriesdespite no clear upfront disclosure. I escalated this matter as far as their XXXX office with no support. \n\nDespite Amex 's system failure, I took full responsibility and have made XXXX years of on-time payments on a balance that originally resulted from their oversight. For most of that time, I was charged 22 % interest, and now that Ive finally requested fair resolution, Amex has refused any settlement, refused to reduce the principal, and offered only an installment plan with 6 % interest over XXXX years. Thats a slap in the face for someone who acted in good faith. \n\nAt this point, Ive cancelled auto payments and am prepared to let the account enter collections because Amex has exploited my loyalty and payment history without accountability. This feels predatory, and it deserves formal oversight."
+}

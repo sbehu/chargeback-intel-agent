@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4078",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97124"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29591,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is based on previous complaint XXXX. \n\nOn XX/XX/XXXX, Amex dispute team ( XXXX ) called me and asked me whether I have documents that can prove I did not receive the package from the merchant. I told he that I already uploaded that document ( email from the XXXX agent ) at the very beginning and asked him at least to read it. He read it and the phone call only last 2 minutes. \n\nOn XX/XX/XXXX, Amex dispute team ( XXXX ) called me again and asked me exactly the same question : Do I have any documents that shows I did not receive the package. I told him again and ask him to at least read the documents I uploaded. \n\nToday ( XX/XX/XXXX ), I received a message from Amex of the update about my dispute. The result is exactly the same as previously one I received in XXXX : Here 's what to expect : We've rebilled this amount to your account, and you'll see it reflected on your next billing statement. Please note, we've removed information from the attached documentation that wasn't relevant to this dispute. \n\nThe keep saying that merchant has provided supporting documentation which includes tracking information and detailed explanation stating that the merchandise was successfully delivered on XXXX XXXX, via XXXX  at XXXX A.M with tracking # XXXX. \nHowever, I have emails from XXXX claim agent can show that I did not receive the package. Here is what the agent said : I have your claim on the above mentioned tracking number in front of me. This is a payable claim, as the signature was not the customer 's. However, prior to resolving a claim with a party other than the shipper, XXXX  requires written and signed authorization by the shipper waiving their right to pursue a claim. This is a simple letter from the Shipper stating they give the claim rights to you on this tracking number. It must be signed and on company letterhead. \n\nThis email was sent to the merchant 's customer service team email XXXX on XX/XX/XXXX. The merchant is lying about the package delivery. I have a phone recording which can prove that the merchant received the email from the XXXX claim agent. I called the merchant 's customer service on XX/XX/XXXX at XXXX. The agent can find the email from the XXXX claim agent XXXX XXXX. \n\nThe merchant knows that the package was not delivered to me and refused to provide the letter ( waiving their right to pursue a claim ) requested by the XXXX agent. \nIf the package was delivered, then the merchant does not need the right to pursue a claim with XXXX. In my view, the merchant wants to keep to right pursue a claim with XXXX  to get the compensation and also keep the money that I paid, which is a fraud."
+}

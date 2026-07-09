@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1522",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41298,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, American Express is claiming there is a charge for {$2400.00} with XXXX XXXX. For XXXX XXXX. \n\nI have spent hours with XXXX XXXX. They have no record of this. This was no flight booked or flight taken under XXXX XXXX in XXXX or XXXX of 2023. \nNo purchase under my name or XXXX number or phone number."
+}

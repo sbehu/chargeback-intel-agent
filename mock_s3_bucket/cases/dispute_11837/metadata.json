@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11837",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "503XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27873,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, a charge of {$790.00} was posted to my credit card account from a third-party travel booking service. The charge appeared to be associated with XXXX XXXX at the time of purchase ; however, XXXX XXXX later confirmed in writing that the charge was not processed by them and originated from a third-party agency. \n\nOn XX/XX/XXXX, the merchant provided written confirmation stating that a full refund of {$790.00} had been successfully processed, with an expected refund date of XX/XX/XXXX. No refund has ever been credited to my account. \n\nBarclays opened a dispute on XX/XX/XXXX and closed it on XX/XX/XXXX. \n\nOn XX/XX/XXXX, I participated in a XXXXway call with Barclays and the merchant, during which the merchant confirmed that a refund would be issued. Barclays was present on this call. \n\nI submitted a request to reopen the dispute with supporting documentation, which was mailed on XX/XX/XXXX. At Barclays suggestion, I also faxed the same documentation on XX/XX/XXXX. \n\nI was later informed that the mailed request was not received and that the fax submitted on XX/XX/XXXX was not logged as received until XX/XX/XXXX. \n\nBarclays has stated that no further action can be taken because the dispute is outside of the applicable timeframe. The matter has been evaluated based on the original transaction date rather than the confirmed refund and the fact that no refund was received. \n\nThe merchant confirmed that the refund was successfully processed, but no corresponding credit has been received or verified."
+}

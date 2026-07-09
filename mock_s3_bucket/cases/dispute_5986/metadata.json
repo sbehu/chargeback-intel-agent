@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5986",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34711"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 851,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "DISPUTE CASE ID : XXXX I filed a dispute for a {$42.00} charge from XXXX XXXX XXXX  on my XXXX ThankYou credit card ( issued by Citi ). I believe this charge should have been removed since I submitted the dispute through the correct process. \n\nHowever, the dispute was closed not in my favor with the reason given : Your response was not received in a timely manner. \n\nI strongly believe this is inaccurate. I responded on time with everything Citi requested. Throughout the process, I was not given any direct line of communication with Citis dispute team, only access to general customer service. I contacted them during the early stages and was told I would not be able to speak with anyone from the dispute department and should instead wait for a response.\n\n77 days later, I received a vague response that I believe is 100 % incorrect. I submitted everything in a timely and complete manner. When I attempted to get more information or escalate the case, I found that customer service agents had no access to the dispute documentation. I eventually spoke with a customer service supervisor named XXXX, who gave me Case ID # XXXX. However, he was not a dispute expert, had no insight into the actual case, and simply advised me to open a new dispute and resubmit everything ; essentially restarting the process from scratch."
+}

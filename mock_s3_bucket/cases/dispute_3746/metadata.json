@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3746",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33467"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1263,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> I went to auto-zone with my wife to purchase parts for an automobile. In the parking lot was a XXXX truck with a bunch of signs about XXXX XXXX steaks for {$40.00}. She wanted to see what the deal was. This company XXXX XXXX was having a meat sale in the XXXX parking lot and the salesman spoke to my wife and told her all the ribeyes were sold out and he said he had a better deal and talked her into buying a box of meat valued at {$1300.00} for {$200.00}. The company took my credit card and used a device to scan my credit card and said I would receive a text message receipt from XXXX. 15 minutes after leaving I received a text message receipt for {$470.00} and my wife wanted to go back immediately and return the meat for a refund. The salesman said if I read the bottom of the text message receipt it shows ALL SALES ARE FINAL he said he would need to speak to his manager whos not in XXXX Florida but is located in XXXX, Alabama. I gave him the box of meat back and demanded a refund for being charged {$270.00} more than the {$200.00} he said it would be. He said he would do something that would be getting him into trouble with his boss and keep the box of meat and refund me the {$470.00}. He said the refund would take 5-7 days and I would receive a receipt of the refund. I never received the refund and I contacted the company over 20 times and they never answered the phone and never returned any of my phone calls. 5 business days after not receiving a refund, I contacted Citi Credit on XX/XX/year> and opened a dispute and Citi refunded my money and opened an investigation and the company responded to them saying I didnt follow protocol for the refund. Said I needed to mail the meat back to Alabama and I couldnt return it to the salesman in the parking lot in XXXX XXXX XXXX, FL. The merchants bank refused the refund so Citi Bank Credit reversed the chargeback and charged me because the other bank wouldnt refund them. They said they understand and read over XXXX negative XXXX reviews I submitted to them with similar stories to mine. Bait and switch, overcharged prices from what was told, refused refunds and said all sales are final. The owner of the company responded to my credit company stating they do accept returns but I didnt follow there exact protocol. Many customers left reviews on XXXX stating they shipped meat boxes back to them in Alabama within a few days of the purchase and they company refused to refund them. My issue is Citi Bank for not refunding me because they stated the other bank was refusing to refund them and my other issue is with XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

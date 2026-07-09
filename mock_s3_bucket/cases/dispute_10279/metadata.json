@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10279",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28068,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute for a charge from XXXX XXXX XXXX XXXX for the amount of {$340.00} processed on XX/XX/year>. The reason for my dispute was due to an improper and misleading blood work panel that was performed for my cat pet. I was informed by the vet staff the blood panel test would provide an accurate diagnosis followed by their recommendation of treatment/medication, however that was not the case. They were unable to determine the cause of illness and due to the severity of my cat 's health condition I was forced to take him to a different veterinary ( XXXX XXXX XXXX XXXX ) that performed another blood work panel and did in fact provide a proper diagnosis, ( Multi- focal pulmonary nodules ) followed with treatment and an after care plan after tested. \nI filed a dispute with Citi Bank, which serviced the Best Buy retail card used, and they advised me to mail documents pertaining to my claim in which consisted of an improper blood panel from the disputed merchant and the testing records for the different veterinary that was able to provide transparent and correct diagnosis from the testing. After multiple follow-ups with Citi Bank customer service, they advised me to mail and wait for processing and research, however they never gave me a clear understanding of how my my dispute was being investigated. I re-mailed the documents in XXXX occasions, XXXX and XXXXXXXX XXXX XXXX. The bank has now closed my dispute and my account and I'd like them to fairly process my claim with the supporting documentation I provided. I'd like an intervention from the CFPB agency to ensure my dispute was/or being investigated per regulatory protocols. I have all documents to support my dispute and can re-submit them to Citi Bank or CFPB if needed."
+}

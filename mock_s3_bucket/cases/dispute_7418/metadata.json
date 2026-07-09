@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7418",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "91316"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40242,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to dispute a charge of {$2300.00} by the vendor XXXX XXXX XXXX  to my AAdvantage Aviator Barclays Mastercard account on XX/XX/year>. The charge transaction is in error and is currently in dispute with the vendor through my Barclays Credit Card. \nThe vendor XXXX XXXXXXXX XXXX is identified as a vacation time share broker that attempts to provide compensation for rental-resale units of unused time that I have in my full purchased possession and credit. Timeshare credits can accumulate and expire if not used within a specified timeframe. The rental resale was my initial desired objective in lieu of expiration and loss of vacation credits which is why I contacted this vendor and agreed to a contract on XX/XX/year>. \nApproximately 3 weeks after the contract purchase, I did some investigations of XXXX XXXX XXXXXXXX XXXX vendor. Online reports indicate the vendor operates as a travel club, and there are numerous complaints regarding its business practices. XXXX XXXX XXXX XXXX lists complaints about vacation clubs and timeshare companies that share similarities in their sales tactics and customer service issues with the reported experiences with the vendor XXXX XXXX XXXX XXXXXXXX. \nAfter this review, I made phone contact with the XXXX XXXX  XXXX vendor stating my desire to discontinue the contract based on the obtained information. The vendor stated that a period of max. 3 days was allowed to discontinue the contract, which was never defined to me in our initial conversations. Their customer support team relayed that the agreement could not be discontinued. Then, I contacted Barclays Mastercard credit department and initiated a credit dispute. Barclays Mastercard Credit Card opened a dispute, Reference number XXXX. The response to this correspondence established a credit refund to my account on XX/XX/year>, in the amount of {$2300.00} ( see attachment titled Credit card Statement Barclays Refund ). On XX/XX/year>, the vendor re-submitted a duplicate credit posting against the XX/XX/year>, transaction date. \nA 4-month discrepancy exists between posting and transaction dates. The re-instated transaction by the vendor was performed with NO authority or approval on my behalf. \nThis vendor provided no service nor fulfilled any terms of an approved better business company. The re-instated charge was not approved or authorized by me. I have blocked my Barclays Mastercard Aviator Account on XX/XX/year> to avoid any further transactions with stated vendor. The previous Credit account number as shown on statements ends in XXXX. The new account has been changed, with account number ending in XXXX. \nI am asking that the {$2300.00} transaction by the vendor XXXX XXXXXXXX XXXX be voided and credited back to my account. Barclays Mastercard Credit department is now stating that the merchant has not violated any conditions or performed wrong doings. I disagree ; I had no intention or desire to continue contract with vendor after the initial dispute was filed and yielded in my favor. I go to a great expense to maintain good to excellent credit history and financial responsibility with my lenders. You have my permission to validate my credit history, or I can provide you with current reports, if this would be helpful. I look forward to hearing from you and obtaining your feedback about this problem. \nList and Description of attachments regarding this complaint : 1. Vacationsnearme agreement Vendor contract email 2. Statement Original transaction XXXX with XXXX Barclays statement original transaction. \n3. CreditCardStatement Barclays Refund ( 1 ) - original Refund of disputed complaint.\n\n4. Resubmission of disputed transaction - vendor unauthorized resubmission of transaction."
+}

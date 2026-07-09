@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2564",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91326"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22678,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX at XXXX pm I received an email that there was fraud on my account. I was at the dentist, as soon as I arrived home at XXXX I called Citi and reported the fraud. As I was on the phone with Citi the 2nd transaction posted on my account.\n\nCiti has cancelled the card and issued a new one as well as started a fraud investigation. I have no knowledge of these transactions, they were not authorized by me. \n\nXX/XX/XXXX {$2500.00} XXXX pm XX/XX/XXXX {$6300.00} XXXX pm - posted to my account as I was on the phone with agent. \n\nTotal {$8800.00} XX/XX/XXXX filed police report with XXXX On XX/XX/XXXX Citi reported the balance on my credit report"
+}

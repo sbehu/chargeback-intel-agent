@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4388",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77077"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7656,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am facing severe financial hardship from fraud on my corporate credit card issued by Citi, which has directly impacted my ability to make timely mortgage payments. \n\n\n\nHere are the details : Fraud Incident : {$40000.00} in fraudulent charges were made on my Citi corporate credit card, which I reported immediately. Citi initiated an investigation with an expected XXXX resolution, later extended to XXXX  days, with no clear timeline on final reimbursement. \nFinancial Hardship : This fraudulent activity has maxed out my corporate card, forcing me to pay all my extensive, work-related travel expenses out of pocket. These costs have reached tens of thousands of dollars, leaving me with insufficient cash to cover personal obligations. \nRisk to Employment : I am required to travel extensively for work ; diverting cash to cover my mortgage would make it impossible to fulfill my job requirements. This financial strain from XXXX investigation delay is the sole cause of this missed payment. \nCredit Report Damage : This situation has damaged both my and my spouses credit scores by over XXXX points each. Given our plans to buy a new home next year, this drop in our scores will hinder our ability to secure favorable terms for a loan. \n\n\nConsidering Citis role in delaying resolution, I respectfully request that Citi should bear responsibility for the consequences of its extended investigation."
+}

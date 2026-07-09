@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_283",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2136"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47696,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, I got scammed by a XXXX XXXX through email. She was selling a XXXX dollar vehicle that I intend to buy. She told me to send XXXX dollars via XXXX XXXX gift cards and later another XXXX  for insurance. I paid a total of XXXX without getting any vehicle."
+}

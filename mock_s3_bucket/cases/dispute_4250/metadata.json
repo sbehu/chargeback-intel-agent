@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4250",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92646"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47722,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a charge to my Citibank account # XXXX from XXXX XXXX, for {$96.00} for an \" XXXX XXXX XXXX ''. I disputed this, and they provided me source information for the charge, showing not only that it was NOT me ( different name and email address ), but that the charge was initiated out of XXXX XXXX, showing an entirely different credit card number. They somehow deemed this sufficient proof of my authorization. \n\nI do not have a XXXX XXXX account. I have disputed this twice. \n\nMy problem is that they will continue to authorize this annual charge even though I have locked my account and been issued a new card, because it shows in their system as a recurring charge I have authorized. \n\nXXXX XXXX  has no record of me or of my credit card, so they don't seem to be able to cancel this annual charge."
+}

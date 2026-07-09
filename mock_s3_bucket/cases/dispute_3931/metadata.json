@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3931",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "56007"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16761,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "spanning several cards and several yers ive had to endure egregious criminal levels of neglect from American Express. \n\nI XXXX XXXX XXXX XXXX  where i XXXX XXXX XXXX XXXX XXXX XXXX \n\ni give these XXXX XXXX XXXX XXXX XXXX XXXX  so we know how to handle issue when a dispute arises if it does. \n\nRarely do i have issues but this past year during my normal research and development processes i unfortutnealy ended up in a bad situation with a XXXX  in XXXX. \n\nI placed an order for XXXX  and then another order for XXXX  and XXXX. \nBoth orders for 50 % then 50 % on delivery. \n\nThis vendor bait and switched me which i showed by providing American express photos of the sample items and disgusting unusable final product they dared to have the audacity to ship me. \n\nMy XXXX  ex [ plicitly said if i didnt approve of the final XXXX XXXX that i was entitled to a full refund. \n\nFor a year now American express has ignored my contract and kept denying my refund. \n\nIt took a year later and XXXX of the XXXX disputes have ended in my favor because i had to repeatedly tell amex to look at the contract. \n\nThis level of neglect is unacceptable and could cause real harm to people in more dire financial situations. \n\nAmerican express instead of solving the issue resorted to canceling both my personal and business cards with them. I believe as a form of retaliation for threatening to sue them. \n\nAmerican express as a company is criminally neglect with its cardholders money and does less than nothing to help them. \nI'd ratheXXXX XXXX the worlds mosXXXX XXXX XXXX than ever do business with them again and would advise any warm blooded human on this planet to run as far away from them. \n\nI had used this American Express for my finances for half a decade personally and another half a decade through a previous business. \nNO MORE! \n\nI pray to the good lord that American express will face real tangible criminal charges in court and XXXX  as a company. They are not what they used to be. \nThey have not worked hard enough to earn the trust or business of myself or anyone on this planet. \nThe employees are lazy good for nothings and XXXX employees dont have any reason to care."
+}

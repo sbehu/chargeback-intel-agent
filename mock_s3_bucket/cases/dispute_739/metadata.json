@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_739",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15409,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Please see my previous complaint from XX/XX/XXXX. AmEx responded to you on XX/XX/XXXX. They LIED to you ( again, the third time! ) that this Dispute was closed in my favor and that monetary relief was provided. As of today, XX/XX/XXXX, this Dispute is still \" In Progress '' ( open ), and the tentative resolution date is XX/XX/XXXX! Please see the attached. How many times would you accept a lie from AmEx? \nPLEASE help!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6675",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "182XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43736,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I made rented a car in the XXXX XXXX. \nCompany name XXXX XXXX XXXX \n\nOriginally, I was going to put the charge of my card, but they offered a substantial discount, if I paid in cash. They informed me they would not keep any record of my card, nor will it be charged because i'm paying in cash. At this point, they were already hand my credit card and had the information. \n\nNo charge was put on my card until I arrived back in the us where they charged my card {$2800.00}. I contacted citi bank and I reported the issue they gave me the credit then reverse the credit and charge my card yet again. Now, they are telling me because they made the mistake of filing it as fraud when it's a billing dispute, there's nothing they can do. This is fraud at its finest. I also tried contacting XXXX XXXX XXXX  and no one will respond to me."
+}

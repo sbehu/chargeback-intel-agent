@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8920",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28025"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13330,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a charge with a transaction posting date of XX/XX/year> for {$390.00} on XX/XX/year> for items purchased from XXXX XXXX. The bank requested additional information from me about the dispute on XX/XX/year> via written letter via XXXX snail mail even though they had previously communicated with me via email. I was on vacation, back to back work trips, another vacation and had an illness and did not see the letter until XX/XX/year>. I called the customer service phone number at the bank in XX/XX/year>, was informed the udispute had been closed but could be reopened give my circumstances, and was provided an email address with instructions for how to submit the requested information. On XX/XX/year> I submitted the evidence verifying reasons for the dispute to be ruled in my favor. I then received several emails and letters that were contradictory. I called the bank and was assured my documents had been received and the dispute was being investigated. This went on until XXXX, I called again, was told the dispute was closed and nothing could be done. I believe from my interactions with customer service and from the emails and letters that I received, that my dispute was not properly investigated. The communciations were sporadic, contradictory, confusing, and this whole dispute process was purposely made difficult and I was given the run around. I am insisting on my {$390.00} returned to me due to the bank 's poor customer service, negligence, and improper handling of the dispute investigation."
+}

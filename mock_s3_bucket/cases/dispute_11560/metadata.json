@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11560",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22079"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16559,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I submitted a billing dispute to Citibank regarding my Home Depot Consumer Credit Card account, disputing charges totaling {$5400.00} related to nondelivery and delivery-timing issues for a custom cabinet order. \nCitibank acknowledged receipt of the dispute in a letter dated XX/XX/XXXX, placing the disputed amount on hold and promising to complete the investigation and provide a written resolution within XX/XX/XXXX days. \nOn XX/XX/XXXX, Home Depot issued multiple conflicting communications regarding my account, all dated the same day : Notice XXXX : Acknowledges an active dispute for {$5400.00} and instructs that no payment is required. \nNotice XXXX : States the dispute was resolved based on a {$1300.00} credit, which relates to a damaged cabinet item returned and does not address the main dispute regarding nondelivery or delivery timing. \nNotice XXXX : Continues to reference dispute procedures and account review, further contradicting the claim of resolution. \nAdditionally, a {$2000.00} credit initially offered by Home Depot was later withdrawn without explanation. \nOn XX/XX/XXXX, I received a communication from Citibank/Home Depot stating that certain credits had been issued to my account and that any associated fees or interest charges had been adjusted. The communication also noted that additional information may be requested and that I would be notified once the review was complete. \nWhile these credits address portions of the account, they do not resolve the original dispute of {$5400.00} related to nondelivery and delivery-timing issues, nor do they constitute a formal written determination under the Fair Credit Billing Act ( 15 U.S.C. XXXX ) and Regulation XX/XX/XXXX ( XXXXXX/XX/XXXXXXXX ). Multiple conflicting communications issued by Home Depot on XX/XX/XXXX, remain unaddressed, further highlighting that the dispute has not been properly resolved. \nI previously submitted a complaint regarding this dispute on XX/XX/XXXX ( CFPB compliant XX/XX/XXXXXXXX, which was closed without resolution. The closure did not address Citibanks failure to issue a written determination or the conflicting communications from Home Depot, leaving the statutory XXXXday investigation period unfulfilled. I am now submitting this new complaint to ensure proper regulatory review of this matter. \nAs of today, more than XX/XX/XXXX days have elapsed since the dispute was submitted, and no compliant determination has been provided, placing Citibank in violation of its statutory obligations. \nRequested Action : Provide a formal written determination of the billing dispute, including the basis for any conclusions and all supporting documentation relied upon. \nCorrect the account if a compliant determination can not be produced. \nConfirm that no negative credit reporting has occurred or will occur related to this dispute. \nAddress the conflicting communications issued by Home Depot on XX/XX/XXXX, which do not constitute a resolution under the Fair Credit Billing Act."
+}

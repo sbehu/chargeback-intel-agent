@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3440",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60607"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36142,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I purchased some clothes from XXXX. However, I ended up returning the order because the wrong item arrived. XXXX assured me that it would be okay and I would receive a refund. Fast forward, today as I am writing this complaint, I still have not received the refund promised to me. I have tried to resolve the issue with Amex several times but have been unable to reach anyone who would be able to help and take this dispute seriously. The latest attempt has been under reference # XXXX but seems like all of these disputes are closed without Amex looking or hearing my side."
+}

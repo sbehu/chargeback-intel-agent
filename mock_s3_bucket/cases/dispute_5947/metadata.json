@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5947",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11235"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38566,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XX/XX/year> at XXXXXXXX XXXX in XXXX XXXX ( XXXX ) we took a taxi and verbally agreed to pay {$15.00} for the closest hotel which is 10 minutes ' drive. They said they don't accept cash, so we provided a credit card. They didn't give us any receipts. After returning home we discovered that charge was {$320.00}. We open a dispute with the credit card company, they did an investigation, sent us the copy of transaction with this fraudulent charge and closed the case stating we need to pay."
+}

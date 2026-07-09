@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_299",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92833"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18000,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a Barclays credit card ending in XXXX, I called Barclays and told them that there is a fraud on the account and my card was lost, They still added XXXX XXXX - {$250.00} and another charge from XXXX XXXX which is {$30.00}, In addition to that they also added {$18.00} in interest. \n\nI don't know how many times I would have to call them as they are not doing the needful. \n\nThere is no online platform where I can report this on their website, that's why I'm reporting this on CFPB."
+}

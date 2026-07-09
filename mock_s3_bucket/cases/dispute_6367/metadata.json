@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6367",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28590"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42618,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase on XX/XX/year> for an amount of XXXX. The item in question was a gold XXXX ounce XXXX XXXX XXXX XXXX The item never arrived. I bought this item from a merchant on the app Whatnot. This merchant is from XXXXXXXX XXXX XXXX The merchant stated that they have shipped the item to me promptly, and provided tracking. However, tracking showed that it was still in pre-shipment state. A week or so have passed, on the XXXX, the merchant contacted me if my item had arrived, and I told them it hasnt. The merchant then provided me tracking from my seller who was in XXXXXXXX XXXX XXXX  stating that my seller had delivered on the XXXX, using the Priority Mail delivery method to my area. The merchant did not notify me or anything about the change prior to contacting me if the item had arriver, and I still did not receive my order, the seller had given me a false tracking information with no proof of delivery. The order was supposed to be XXXX  XXXX, which I still have the tracking info for. Next, I filed a dispute around the middle of XXXX. My financial institution, which is American Express, had contacted the merchant. The merchant this time provided information that falsely accused me of abusing their refund policy. They also provided false tracking information this time, stating that my item was delivered on the XXXX of XXXX. The tracking info given was sent from XXXXXXXX XXXX, not XXXXXXXX XXXX XXXX. My bank, however, sided with the merchant stating that my supposed actions violated their policy, though the merchant had clearly provided false information. I filed a dispute again, on XX/XX/XXXX, showing that the item is still in pre-shipment state and showing the discrepancy and flaws in the merchants response. They however, did not provide me a refund but sided with the merchant again and provided me a resolution that they have sided with the merchant on XX/XX/XXXX. Now, I am still waiting for my item to arrive but it still has not. The merchant and seller have provided information that is not true and those information had mislead my bank to thinking I have the item but I do not."
+}

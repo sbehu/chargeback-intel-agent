@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13017",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33446"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4923,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a complaint regarding both a merchant transaction and the handling of my dispute by American Express. I was charged {$150.00} by XXXX XXXX XX/XX/year> for tickets that were never provided to me. The merchant sent the tickets to a third-party travel agent late at night, less than 11 hours before the scheduled XXXX XXXX entry time. I did not receive the tickets directly, did not authorize any third party to receive them on my behalf, and did not use the services. As a result, the goods/services were not received. \n\nI spent over an hour visiting multiple travel agencies attempting to locate the tickets or the merchant, without success. I ultimately had to purchase replacement tickets from another merchant the same day in order to visit the XXXX XXXX. The travel agent also attempted to contact the merchant to resolve the issue but was unsuccessful. I disputed the charge shortly thereafter, but American Express initially closed the dispute without meaningful investigation. I reopened the dispute, and in XX/XX/year>, American Express requested additional information, which I submitted within 24 hours. Despite this, the dispute was closed as though I had not responded. I did not receive notice of this closure, and the dispute did not appear in my dispute center, preventing me from tracking it. In XXXX, I discovered that I had been rebilled. Upon contacting customer service, a representative confirmed receipt of my prior submission, acknowledged the error, and reopened the case with instructions that the materials be reviewed. No further information was requested after reopening ; however, several weeks later, the dispute was again closed on the basis that I had not submitted information. \n\nI am requesting that American Express be required to reopen the dispute, review all previously submitted materials, and issue a determination based on the evidence, including the fact that the merchant did not provide the purchased services. \n\nSincerely, XXXX XXXX XXXXXXXX XXXX XXXXXXXX XXXX"
+}

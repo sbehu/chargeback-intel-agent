@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13368",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94619"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33500,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, PROBLEM : In XXXX of 2025 I got charged twice for a car rental. I was going to my aunt 's funeral. I used my Citi Thank you preferred credit card to book with points that I had earned. The car booking was XXXX. WhenI got to Texas I learned the car did not have navigation features. I upgraded because I was tasked to drive my relatives during this sad time. I was told by the rental car clerk that I would pay just a little more. I handed him my Citi XXXX Credit card but got a big charge of XXXX. So I paid TWICE. I tried calling, chatting, emailing, and disputing. None of that worked and my disputed were denied because they say I DID rent a car. I do not dispute the rental. I dispute the being charged twice. I have tried to fight this for months and I can not resolve it. Please help me."
+}

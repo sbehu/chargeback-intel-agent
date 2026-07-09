@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1321",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "442XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4186,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Amex should reconsider my dispute. You only refunded tax ( {$110.00} ) of the entire ticket. \nItem : Chaged on XXXX XXXX  by XXXX XXXX XXXX {$1400.00}. \n\nFirst, XXXX XXXX ( XXXX ) attached the file as evidence that I canceled the non-refundable ticket on XX/XX/XXXX. But the thing is that I have not cancelled the ticket. My ticket got cancelled by the XXXX. \n\nAs indicated in my statement, I initially purchased my ticket for XXXX on XXXX on XXXX XXXX, XXXX, at a cost of {$1400.00} After that, I decided to upgrade my ticket for business class on XXXX XXXX XXXX  on XXXX. \n\nThe problem was that the website on that day, XX/XX/XXXX, was very unstable and it seemed that it didn't get through my charge on the first try. Also, As you know, the ticket price is variable depending on times, so. I thought my Amex card had some technical problems, so I chose to use my XXXX XXXX card. However, I was still unsuccessful. \n\nI got confused initially, but luckily, XXXX sent me email about my upgrade on that day, a few minutes later. My AmEx card was charged {$750.00} for my upgrade. You can see my charge in my XXXX XXXX. So, I felt very satisfied. \n\nBut, unbelievably, I discovered that XXXX charged another {$660.00} to my XXXX visa card a day later. Obviously, I called the XXXX and explained about duplicated charge and asked them to cancel the duplicate charge on my XXXX XXXX card. The agent at the XXXX also wants me to contact XXXX, and XXXX has to contact XXXX because I upgraded through XXXX. I contacted XXXX and confirmed my upgrade and discussed the duplicate charge for the XXXX. I requested urgently that they cancel the duplicate upgrade and they made a commitment to do so. I called every possible agent, including XXXX, XXXX XXXX, and XXXX XXXX cards, to ensure that my upgrade status was confirmed and to cancel the duplicate charge. \n\nEverything appears to be fine until the travel date of XXXX XXXX. I departed from the airport on XX/XX/XXXX to travel to XXXX, XXXX. The agent at the front desk informed me that they were unable to locate my e-ticket. \n\nI called XXXX and they also got confused. They didn't even figure out for a while. I spent an hour talking to them. The XXXX contacted the XXXX and discovered that they had cancelled my entire ticket, not just the duplicate charge. I was very upset and disappointed. It was only 1 hour left to my departure to XXXX. The XXXX agent informed me that my upgrade charge would be cancelled and the entire ticket price would be refunded. ACTUALLY, XXXX RECOGNIZED THEIR MISTAKES AND REFUND THEIR ENTIRE FEES. \n\nI finally got the new ticket on XX/XX/XXXX on your Amex travel website since I have a credit there. I have evidence that I purchased an airline ticket on XX/XX/XXXX and traveled to XXXX on the same day since I purchased the ticket on your Amex travel site. \n\nThis is contextual evidence. If I canceled my ticket on XX/XX/XXXX, which is what XXXX XXXX suggested, why did I purchase my ticket on XX/XX/XXXX and travel on the same day? Does it make sense? Who else travels internationally by purchasing a ticket on the same day? It doesn't make sense... \n\nThe XXXX XXXX accidently or intentionally canceled my entire ticket, not only the duplicate charge. So, I don't have any responsibility to pay for the amount of {$1400.00}. Also, Amex should reconsider my dispute. You only refunded tax ( {$110.00} ) part."
+}

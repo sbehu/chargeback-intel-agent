@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_974",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28786"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42702,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX claim XXXX I stated the item was lost. My policy covers me for lost items up to {$1000.00}. This was reported within 90 days and my claim requests a technician 's evaluation of the item. The item is lost, and can not be evaluated by a technician. The representative I spoke to on XX/XX/2023 would not let me file the claim as \" lost '' stating my policy did not cover lost items. He said only theft was covered. I am not certain the item was stolen. Therefore the claim is reported lost under section i. of the \" Mysterious Disappearance '' section of my purchase protection card policy. \n\nI spoke to XXXX different representatives, and both initially stated I could not file for a lost claim. Associates are not properly trained and are giving misinformation resulting in denial of claims of card members."
+}

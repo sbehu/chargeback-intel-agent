@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-49407143-US
+Shipment Date:   2026-03-17T00:00:00Z
+Delivery Date:   2026-04-26T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     5732 GREENWOOD ST, TX, 77303
+============================================================

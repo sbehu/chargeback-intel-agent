@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-58875702-US
+Shipment Date:   2026-03-30T00:00:00Z
+Delivery Date:   2026-04-03T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     8092 CEDAR ST, WA, 98166
+============================================================

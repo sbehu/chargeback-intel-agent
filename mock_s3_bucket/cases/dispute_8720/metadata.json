@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8720",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98502"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39245,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks refusal to properly investigate and resolve a billing dispute for incomplete and non-performed services by XXXX XXXX ( XXXX XXXX XXXX XXXX ) that were charged to my credit card ending in XXXX on XX/XX/year> for XXXX \n\nSummary of the Issue : I purchased and paid in full for a complete door installation from XXXX XXXX, but after nearly XXXX months, multiple contracted services remain unfinished or were never performedincluding weatherstripping, door thresholds, professional caulking, and sealing. \n\nI immediately contacted XXXX XXXX directly to resolve these issuesproviding correspondence, photographs, invoices, and acceptance of responsibility by XXXX XXXX for outstanding work. \n\nXXXX XXXX has failed to remedy the deficiencies, to refund my purchase, or to provide a credit, despite numerous follow-ups and their acknowledgement of the incomplete work in writing. \n\nI then filed a formal dispute with Citibank on XX/XX/year>. Citibank initiated an investigation and requested documentation, which I providedincluding a detailed timeline, photos of unfinished work, and the full email thread with XXXX XXXX showing their lack of completion and response. \n\nCitibank repeatedly denied my dispute, eventually stating that a valid credit slip from the merchant or third-party verification was required to proceed, despite my dispute being for non-performance, not product return. \n\nCitibank did not incorporate statutory consumer protection rights under the Fair Credit Billing Act, did not request all reasonable forms of third-party verification ( such as an independent contractors estimate ), and refused to pursue the matter further, citing final communication. \n\nNo consideration was given to the fact that the merchant has not provided either a refund or the contracted service, and there was no opportunity for further dialogue or clarification of what documentation was required."
+}

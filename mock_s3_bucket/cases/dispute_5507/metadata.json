@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5507",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "143XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4681,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "At XXXXXXXX XXXX XXXX on Tuesday, XX/XX/XXXX, I received a phone call from XXXX regarding possible fraudulent charges to my Citibank credit card. In the past when there have been fraudulent charges, Citibank never initiated the call. The caller knew the first XXXX numbers of my credit card and asked about three different transactions, none of which I had made. I did not feel comfortable talking with the caller ( male ), so he supposedly transferred me to his supervisor, who also had a bit of an accent, The \" supervisor '' stated his name was XXXX XXXX or XXXX. \n\nI then called Citibank. The woman I spoke with confirmed that they had NOT called me and they had no record of the XXXX supposed charges. \n\nSomeone ought to track down that phone number and go after these scammers!!!"
+}

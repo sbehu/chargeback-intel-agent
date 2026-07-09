@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3417",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78254"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16411,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My identity was recently stolen, and two credit cards were opened in my name with another credit card application being denied. Among these was a Home Depot business credit card. \n\nThe Home Depot business credit card was opened in my name on XX/XX/year>, and used to make various purchases totaling {$3000.00}. I received the credit card in the mail on XX/XX/year> and immediately proceeded to freeze my credit with the three credit bureaus, as well as called the customer support line for the Home Depot credit card. They transferred me to their fraud investigations department, who said that they would be opening a case to investigate. After that, on XX/XX/year> I was sent a letter in the mail stating that they were closing my case and finding me liable for the charges due to the information provided not supporting my claim that the charges were fraudulent, despite being given the information that other cards were opened in my name. They also attempted to state that I had made payments towards the account previously, despite no records of that existing. I immediately called the fraud investigations department back, and they stated that they needed more information mailed to them for the case and that the paperwork would be scanned in and processed 14 days after receiving it. Additionally, I was able to provide them with a case number and contact information for the local sheriff 's department who was currently investigating my identity theft case. Afterwards, I left town on vacation for a few weeks and upon returning on XX/XX/year> I found that they send me yet another letter stating that the case had been closed for the same reasons on XX/XX/year>, barely 4 days after I had called them to reopen the case. The company is attempting to force me into paying for the charges that I did not make and refusing to take reasonable action in handling the case."
+}

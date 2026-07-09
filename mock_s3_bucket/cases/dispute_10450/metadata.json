@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10450",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "191XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18067,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this follow-up complaint regarding American Expresss continued improper handling of a fraud dispute initially reported in XX/XX/XXXX, and to supplement my prior CFPB complaint reference number XXXX. \n\nThis complaint concerns American Expresss failure to conduct a fair, reasonable, and consumer-protective investigation, as well as abusive, unprofessional, and potentially discriminatory conduct that culminated in a unilateral case resolution issued on XX/XX/XXXX, without further consumer engagement or substantiation. \n\nIn XX/XX/XXXX, I reported unauthorized charges originating from XXXX. A separate financial institution independently investigated the same charges and determined them to be fraudulent. Despite this corroboration, American Express handled the dispute in an adversarial and irregular manner that treated me as a suspect rather than a fraud victim. \n\nOn or about XX/XX/XXXX, I received a voicemail from American Express ( XXXX ) left by an individual identifying himself as XXXX, which disclosed the existence of a fraud investigation and referenced a claim number ( XXXX ) without confirming the identity of the recipient. Initial outreach was improperly made to my work phone number, rather than the contact number associated with my American Express account ( call originating from XXXX ). \n\nWhen I returned the call, American Express failed to perform adequate identity authentication prior to discussing sensitive account-specific fraud details. Despite this failure, the representative disclosed confidential information and proceeded to interrogate me in an accusatory and hostile manner. During this interaction, the representative expressly stated I dont believe you and indicated he would be looking for ways to deny the claim, after which he terminated the call. \n\nUpon calling back, I was told to get lost. Shortly thereafter, I received notice that American Express had issued a final resolution on XX/XX/XXXX, without requesting or accepting any additional informationdespite previously advising that further outreach would occur before a decision was made. \n\nAt no point did American Express provide me with : Any documentation supporting its conclusions Any explanation of what evidence was relied upon Any confirmation that XXXX was contacted to verify the disputed charges Instead, the decision appears to have been based on fabricated or undisclosed information, with no opportunity for rebuttal or clarification. This lack of transparency, combined with hostile verbal conduct and premature resolution, raises serious concerns regarding unfair, deceptive, or abusive acts or practices ( UDAAP ). \n\nAdditionally, the tone, disbelief, and dismissive treatment I receivedparticularly statements expressly challenging my credibility without evidenceraise concerns that the decision-making process may have been influenced by improper bias or discriminatory assumptions rather than objective facts.\n\nThe representative also instructed me to transmit confidential financial records from another bank via unsecured email, rather than through a secure submission channel. This request, when viewed alongside improper disclosures and hostile conduct, reflects a disregard for consumer data protection and confidentiality obligations. \n\nI have been an American Express cardholder for over XXXX  years and have never experienced conduct of this nature. The manner in which this matter was handled appears retaliatory, intimidating, and designed to discourage a consumer from exercising their right to report fraud in good faith."
+}

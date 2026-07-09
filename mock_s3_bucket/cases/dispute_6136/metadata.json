@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6136",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7040,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In addition to CFPB complaint ID # XXXX submitted on XX/XX/XXXX, I'm filing second complaint with same credit card. I've been in dispute with Citi XXXX XXXX since XXXX. Here are the problems and requests : 1 ) After review all statements and transactions from XXXX to present - Citi XXXX XXXX must refund me at least {$2300.00} in transactional disputes. \n2 ) No service and response to me directly in regards to disputes I had with this company. No resolutions. \n3 ) This led to unresolved disputes, uncredited credits, accumulation of fees/interests. Some understanding needed on statements with \" conditional credits for disputes '' that have a tendency to be \" reversed '', than credited again, and then removed again without explanation. \n4 ) False credit reporting for none payment. As I explained to both store and credit company once the product is accepted, returned and return receipt is provided it's out of my hands and interests to what you do with the product. However, both store and credit company must issue credit on time. If there are any problems, I need to be notified. No notification was directed to me. All I see unpaid debt to me for products that I returned, receipts provided over and over to Citi XXXX XXXX that does not proceed with credits. I will not pay for products I no longer have at home that were returned and fees and interests that your company falsely enforces as payment. I will not pay for products I never purchased and disputed. \n5 ) Credit reporting - the credit limit was reduced from {$12000.00} to {$4000.00}. That's XXXX  revolving account or someone who has no credit history. Not, for a person who always paid lifetime of all payments on time and in full amounts. I refused to pay for something that your company doesn't do protect customer rights, privacy, finances and safety. My credit score has been significantly lowered that effects me negatively. Some problems with my financial reputation that I never had in my life including investment, shopping experience and opening new credit cards. \n6 ) The account was placed into XXXX XXXX XXXX XXXX collections agency with balance of {$320.00}. Citi XXXX XXXX promises that while I'm in dispute it doesn't report to credit bureaus and collections until problem is resolved. \n7 ) The Citi XXXX XXXX account is closed. \nPlease resolve all problems immediately, your service would be greatly appreciated after XXXX or XXXX XXXX writing to your company. Waiting for that check that you owe me for accrued debt Citi XXXX XXXX."
+}

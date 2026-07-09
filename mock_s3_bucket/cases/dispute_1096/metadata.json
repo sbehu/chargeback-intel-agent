@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1096",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8016"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37389,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "For history purposes, I rented this jet ski on XX/XX/2023 for my birthday in XXXX XXXX XXXX. The jet ski that I was given was pretty scratched up ( as shown on the attached pictures ) and they didnt do a walk-around like they would in a car rental establishment to assess damages that were on the vehicle before rental, but I did not think anything of it. When I came back from the jet ski adventure an hour later, they started pointing to the scratches on the vehicle, and I said those were on the jet ski when I rented the vehicle. They then said, see these scratches are wet and were just done. I said that is stupid, the jet ski is in the water of course the scratches are wet, we argued back and forth and they told me the damages, and I said no way am I going to pay this and me and my family left and then I reported this to Citibank the moment I came back home. The gentleman I spoke to understood, that this is a common scam that happens to multiple people ( see four reviews attached just this year that show a pattern of doing this to people and link to reviews below ). I have also included a copy of the contract that I signed for your review. \n\nhttps : XXXX Further, I have attached a picture of what a brand-new jet ski would cost in Mexico which is way more than the damage they accused me of causing. After speaking to the Citibank representative, I was so sure this would be handled by Citibank as this is a commonly known scam that I thought Citibank would recognize. I am disappointed in Citibank that I should have to go to such great lengths to prove myself innocent and that I dont have any protection from people like this."
+}

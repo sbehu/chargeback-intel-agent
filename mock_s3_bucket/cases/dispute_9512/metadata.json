@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9512",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27402,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a refrigerator from XXXX XXXX on my XXXX XXXX Citi card roughly 2 years ago. It was a part of deferred interest promotion. I mailed a check for the balance- {$3900.00} in XX/XX/XXXX. Citi has no record of receiving payment. I did not notice that there was no payment recorded until XX/XX/XXXX, when I also noticed that my account balance was {$1900.00} higher. \n\nThey offer a 60- day grace period, which I missed by 2 days. \n\nI spoke to multiple people at Citi ; however, they refuse to refund the {$1900.00} in deferred interest. \n\nThey told me that I took it as far as I could with the \" escalation '' team and suggested I write to \" Office of the President ''."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7103",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30324"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37430,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged {$100.00} for services which were not rendered. I ordered a tow from XXXX XXXX XXXX on XXXX. They said they needed a card to charge for the tow. No problem. I made it very clear I would not use them if they could not give me a shop to tow. They said they could. I provide my credit card number. The tow truck driver calls a few moments later. He then reports the shop I was told to tow my truck to cant work on my vehicle. I tell him to cancel the tow and was told my card would be charged. The owner texts me days later telling me he thinks he found me a shop to tow my RV to. He thinks. i dispute the charge. I attempted to contact Citi about it. I was not able to provide a statement nor did they reach out to me regarding the matter. Some time later, the owner of the Tow company texts me harassing messages. So i receive no tow, was lied to, and harassed. Citi went a head and sided with the tow company. I did not nor have not received an explanation. I need my {$100.00} back."
+}

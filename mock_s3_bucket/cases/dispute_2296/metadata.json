@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2296",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "894XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48695,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was on vacation in XXXX and filling up a rental car at a gas station, the attendant took my card and charged for the gas and also made a fraudulent charge on my card. \nI have disputed discharge with Citibank and they refused to reverse the fraudulent charge and will give me no information as to their decision. \nI have attached a picture of the email I sent to Citibank, which further explains the situation and request for information."
+}

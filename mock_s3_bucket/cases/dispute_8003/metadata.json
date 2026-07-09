@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8003",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "026XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4780,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Made a reservation for a car rental through CITI travel abroad. After I picked up the car ( I specifically asked whether I owe anything besided what I already paid ) charges appeared on my statment for over {$600.00} and over {$300.00}. I returned the car a day later ( way before the end of the 20 day period ) Asked the company to refund my money. They refused. CITI after XXXX disputes could not obtain any proof for those charges, but said that they can not do anything and made me pay. I closed my account immediately and they kept charging me interest."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1361",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92708"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35212,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An American Express card was opened in my name. Someone fraudulently charged {$15000.00} in transactions to this card."
+}

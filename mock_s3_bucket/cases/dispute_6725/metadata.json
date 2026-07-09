@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6725",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95667"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18043,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was defrauded by a XXXX XXXX XXXX who claimed that they reset my system for me. I found out by checking the XXXX files that they did not in fact reset my system, and it had last been reset in XXXX. Citi denied my dispute even though I provided evidence of this to them."
+}

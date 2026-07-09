@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "GA",
+    "complaint_zip": "30338"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15683,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Consumer processed a mobile ( phone ) ticket transaction on XX/XX/, for an event believed to be with XXXX, but was instead through a boxoffice outlet/reseller who overcharged for the event. This reseller was XXXX  with a charge showing merchant as XXXX XXXX. Consumer saw the extraneous service charges added, so contacted XXXX customer support to try to cancel the transaction. This merchant would not allow cancellation and referred consumer back to the terms of the purchase. Representative was unhelpful with a XXXX  sounding accent. Tickets were transmitted through XXXX, but consumer did not accept tickets as he already tried to cancel and then submitted a dispute with American Express for the transaction. American Express investigated and concluded they would credit the amount. However, Amex later reversed this credit, letting the original charge stand. Consumer called Amex again on XX/XX/XXXX  to request re-opening this investigation and they advised that they should have an answer on this dispute back by XX/XX/."
+}

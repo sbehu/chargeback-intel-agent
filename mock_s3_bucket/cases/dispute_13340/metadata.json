@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13340",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "92653"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7718,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a dress form luxelivingfashions.com using my Citi Visa Card. When I received the dress it did not match the description as it was a fake item. The material and style was not the same. I contacted the seller multiple times to get help. They never responded. I contacted Citi Visa Card and explained. They sent me documentation to fill out and explain the situation and followed as instructed. They denied the dispute without explaining correctly what the reason is. They sent a letter saying they determined it is not a billing mistake and closed the dispute. My dispute was not about billing. I have called them multiple times and they have not taken any further action to address this. They repeat the letter. It seems like they are not willing to resolve the issue and giving me a run around."
+}

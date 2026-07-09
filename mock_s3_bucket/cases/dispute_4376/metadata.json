@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4376",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33470"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43207,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Macy 's American Express owes me {$860.00}. XXXX XXXX charged me in error for an order that was previously paid for. I called and made a XXXX claim but was lucky to get the issued resolved by the vendor who wrote me a check. I contacted the fraud department immediately and told them to let the charge stand. This was a charge in early XXXX of this year. \n\nThe charge remained on my account which was fine. However, in early XXXX I got an emotional call from XXXX saying American Express took the money from them. \n\nAs you can see I was charge and then credited. However, I my account was charged again ( a second time ) as you can see on my XXXX statement but the vendor never received the funds. I spoke to the fraud department and told them to just give me back the money and I would pay XXXX another way. \n\nMacy 's is refusing to give me my money back. As you can see the lengths I have gone through to resolve this matter, even contacting the XXXX XXXX  American Express. I desperate need someone to help me. I am XXXX XXXX XXXX, live paycheck to paycheck and I am losing sleep over this as the vendor is needing to be paid. I hope you can reason with Macy 's that they have made a gross error that needs to be corrected and my account needs to be credited once again. I feel there has been gross incompetence on the part of Macy 's XXXX Department."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8771",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92109"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4688,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase on XXXX for {$43.00}, scheduled for delivery on XX/XX/year>. The package was marked as delivered, but the delivery photo clearly shows it was left at the wrong location. It was not at my apartment or the designated XXXX XXXX in my building, which is where all packages are required to be delivered for security reasons. \n\nWhen I checked my buildings hub, front door, and with neighbors, the package was not there. I contacted XXXX to report the issue, but they denied responsibility, stating that there was proof of delivery. The photo does not match my apartment or building area. \n\nI then filed a dispute with Citibank for the {$43.00} charge. Citibank denied my dispute, citing that the merchant provided delivery confirmation. I provided all details showing the delivery was not made to the correct address, but the dispute was still rejected. \n\nI believe both XXXX and Citibank failed to properly investigate this issue. I lost {$43.00} and spent significant time trying to resolve it despite following all proper procedures."
+}

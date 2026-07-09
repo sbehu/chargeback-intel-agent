@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9817",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28079"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24833,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I booked a non-refundable and pre-paid hotel in XXXX, XXXX with XXXX XXXX XXXX. I received a confirmation email for the booking. When we got to the hotel ( XXXX XXXX ), the hotel did not have the reservation on file and could not provide us with the room we already paid for. I called XXXX XXXX XXXX support team while still at the hotel lobby to advise them of the reservation issue. I also emailed them. An agent from XXXX XXXX called the XXXX XXXX  while we were still waiting at the lobby and confirmed that there was no room available for us. We scrambled to find another hotel nearby. I used the Citi Cards American XXXX XXXX XXXX XXXX for the booking and used the same card to pay for a new hotel on XX/XX/year>. After back and forth with the merchant ( XXXX XXXX  ) and they refused to provide a refund, I filed a dispute for chargeback with Citi Cards on XX/XX/year>. More than 5 months later, Citi Credit refused to provide the refund despite providing supporting documentation and after multiple escalations to their Executive teams. The amount of {$340.00} is still charged to my card without resolution despite consumer protections through Fair Credit Billing Act."
+}

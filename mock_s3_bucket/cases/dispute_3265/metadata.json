@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3265",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77459"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48417,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged twice at a hotel. I only booked XXXX room. The hotel has no record of a second transaction and can not issue me any receipt. I submitted a dispute with citibank and they would not issue me a credit. I filed an initial complaint with the CFPB and after a while citi said they sent a response to me, but after calling them on the phone they confirmed that they did not send a response and the issue is still in review. There is no option to re-open a CFPB complaint, so this new one is filed."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8717",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "916XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10920,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "noticed fraudulent activity on my CC account on XX/XX/XXXX statement, called to dispute charges. Citibank promised to refund fraudulent charges on payments made with account on autopay since XX/XX/XXXX. I stopped autopay and Citibank was to issue new card. \nDiscovered I was a victim of Identity Theft and froze all Credit Bureau accounts on XX/XX/XXXX and added a victim of identity theft with Citibank. Subsequently kept requesting Citibank to NOT issue any cards to anyone and closed my Citibank account I had owned since XXXX. Citibank reported the account to my credit report as past due and has not refunded the autopayments made as promised. Citibank issued as many as 5 or 6 new cards to the \" wrong XXXX XXXX '' regardless of my alerts and numerous conversations. This compromised my perfect Credit Score and continues to be an issue for me. The fraudulent XXXX XXXX has even changed the address on my Credit History twice, because Citibank updated my address as they issued new cards. Citibank has proven to be incompetent of restoring my credibility and has significantly caused undo stress and inconvenience still unresolved."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2229",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "838XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43248,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX purchases were made by me on my credit card in XX/XX/2023. I enrolled in the deferred payment option for both purchases that the credit card was offering during the same billing period. \n\nWhen I saw my XXXX statement I noticed that the entries made by XXXX XXXX ( I believe that this is the name of the company the credit card company uses for their deferred payment plan ), the entries were incorrect and created an additional debit for each item on my account. I made numerous phone calls to customer care and no one would even look or tried to understand the difference between debits and credits or review my statement. They said that the statement was correct. After getting no where, I sent a letter with examples explaining why the entries were incorrect to Credit Card Billing Disputes, Card Services and Credit Card Payments departments. The package sent to Card Billing Disputes was certified and I received notification that it was received and signed for. During my phone conversations with them, I told them that since this seems to be an issue, I will go ahead and pay for these XXXX purchases on my XXXX statement, but they need to cancel the deferred payment plan. They said they could not cancel the deferred payment plan. Leaving me to pay for the items on my statement and then deferred payments for the next XXXX months. \n\nI have not heard back from them. I sent them a message a month ago asking for the status of my complaint, and they never responded. \n\nI deducted the XXXX original purchases from my XXXX statement. I always pay my monthly balance in full with the exception for this time. When I received my XXXX statement I noticed that they did not mark my statement paid in full as they always had in the past indicating that I still owed for my XXXX original purchases. As the months went by, I stopped using this card to bring my balance due to the original XXXX purchases. They are using the payments I have made toward recent purchases to apply to the XXXX XXXX plan. By the end of XXXX months, my account balance will end up being double the original purchase amounts. I am more than willing to pay for the XXXX original purchases as long as they delete the deferred payment plan."
+}

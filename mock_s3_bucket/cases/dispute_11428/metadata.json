@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11428",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32034"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43695,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays called me on XX/XX/2026 with a suspicious transaction in the amount of {$1800.00} at a XXXX store in XXXX, XXXX. I disputed the transaction as I did not make the purchase and the credit card was in my possession at all times. Barcalys cancelled the credit card. On XX/XX/2026 Barclays declined our dispute stating the transaction was valid as it was an in person sale. I was not notified by Barclays of this decision. \nOn XX/XX/2026 I received an email with a new monthly statement with a charge of {$1800.00} outstanding due XX/XX/2026. I called Barclays on XX/XX/2026 and re-opened the investigation into the fraud charge. But in the mean time, I am still responsible for a payment of {$1800.00} on XX/XX/2026."
+}

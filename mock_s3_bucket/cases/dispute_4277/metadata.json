@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4277",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "18360"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40045,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> - XXXX XXXX XXXXXXXX XXXX XXXX {$150.00} I made this purchase with XXXX XXXX and cancelled this flight within 24 hours. I spoke to a representative with XXXX XXXX and he assured me that I could cancel the flight online and Id receive a full refund back to the original payment method because it's been booked and cancelled within 24 hours and I cancelled it because I was promised a full refund. Turns out XXXX XXXX issued a full e-credit refund and not back to the original payment method. I tried resolving this with XXXX and they refused to take back the e-credits for a full refund. I disputed with American Express and they sided with XXXX XXXX. I don't know what else to do at this point."
+}

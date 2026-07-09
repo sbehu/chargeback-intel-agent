@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10881",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "72404"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14360,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, there was a charge for {$550.00}, made on our Best Buy XXXX card. This is provided from Citibank and can be used anywhere. We ( my wife and I ) were sent a text to confirm if it was our charge on that day, and both of us confirmed that it was not. Our new store card hadn't even been activated yet. We both got calls from the card customer service and confirmed again that the charge wasn't us and we hadn't used the card since XXXX and had only XXXX charge on the card, and it wasn't even being carried and hadn't been activated. We were told the card would be cancelled and the charge would be denied. When we got the new statement from Citibank Best Buy, the charge was on there and we were being charged interest for it. We both once again called the customer service and let them know that the charge was not ours and that we had confirmed the month before when it was being made that it was not us. Nothing was being done. They said again they would cancel the card and dispute the charge. Next month same thing... we have called and went through all of this since XXXX, every month and have also personal messaged on our online account and nothing works. It is still there and we are still getting interest charged for it and our only charge is not getting the payments credited to it. Just XXXX  XXXX, spoke to a XXXX in customer service and he agreed that he could see where we confirmed the charge wasn't ours over and over and that nothing had been done. They had never even cancelled the Best Buy card. He cancelled the card and said that he would escalate a dispute and report. Now, this month, still nothing done. XXXX from XXXX is still there and racking up interest and it is not showing a dispute has been started. I have explained this situation over and over to them. I need something done now. Last week, I received an email from Citi Executive Response Unit with a special number and extension to call. I have called for the past 3 days and am on the phone for over an hour each time. The number and extension I call doesn't answer. I speak to another rep and they either say the number will call me back at a certain time ( they don't ), put me on hold forever, transfer me around to a dozen people or hang up. No one acts like they know what I am taling about. I am so frustrated and so tired of this. I need this to be taken care of now."
+}

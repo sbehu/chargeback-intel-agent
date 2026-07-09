@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5487",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9391,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Wednesday, XXXX I purchased a pair XXXX XXXX from XXXX XXXX XXXX for my husband. We received the shoes on Saturday, XXXX. The wrong color was ordered so I contacted the company on Saturday, XXXX to let them know what happened and if we could exchange. On Sunday, XXXX I received a response from XXXX XXXX XXXX on where to return and what was needed. I promptly repackaged the shoes in the original packaging and on Monday, XXXX I went to the post office to return. On Monday, XXXX the shoes were delivered to XXXX XXXX XXXX. I sent an email on Thursday, XXXX and again on Monday, XXXX for an update. On Friday, XXXX I received an email from XXXX XXXX XXXX stating they would not be refunding my money nor will they exchange the shoes due to the condition they were in when received. XXXX XXXX XXXX accused my husband of wearing these shoes outside of the house more than once. The accusations made by XXXX XXXX XXXX were not true. My husband did no such thing. We knew they were the wrong color and the shoes were returned immediately. Its very clear from the pictures that XXXX XXXX XXXX sent that these shoes were worn for quite a few days. However, it was not my husband. He tried the shoes on in the house to make sure that they fit. He had no desire to keep as they were the wrong color. We dont appreciate being accused of something like this. On Monday, XXXX I filed a dispute with my credit card company. Unfortunately, I was unaware that I would have to burn a roll of film taking pictures of the item ( s ) I returned. On Friday, XXXX I checked my credit card account and noticed that the charge was added back to my account. I have not received any documentation from my credit card company regarding this dispute or why the charge was added back to my credit card. On Saturday, XXXX I called 2 separate times to find out why the charge was added back to my credit card. They are unable to help me due to computer issues and asked that I call them back. I feel that my credit card company did not have my best interest and did not protect me from fraudulent companies. XXXX XXXX XXXX not only has the merchandise that we returned, they also have our money. We have never in our lives been accused of something like this and been treated unfairly by our credit company. I tried to attach copies of emails between me and XXXX XXXX XXXX to no avail."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7819",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92683"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45116,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reported fraudulent charges on my credit card in XX/XX/2025. The bank sent me a letter confirming I was not responsible and that all related charges and fees would be removed. While the fraudulent transactions were taken off, they left a late fee and interest charge that resulted directly from the fraud. \n\nSince then, instead of correcting the error, the bank has lowered my credit line twice first by {$5600.00} in XX/XX/2025, and now down to just {$250.00} as of XX/XX/2025. Both times they cited delinquency, but the only reason my account appeared delinquent was because of the unresolved fraud charges they had already confirmed I was not responsible for. \n\nThis has dragged on for months with no resolution. It has been stressful, unfair, and has harmed my credit by slashing my available limit."
+}

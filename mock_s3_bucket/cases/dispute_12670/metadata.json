@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12670",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "900XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27496,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged USD {$50000.00} by a XXXX  matchmaking company after what I understood to be a preliminary membership application and consultation process, not a finalized service agreement. \n\nThe company already knew there were eligibility concerns under its own membership rules before accepting payment. Required documentation and approval steps were never completed, and I never received any actual matchmaking services. \n\nOn XX/XX/year>, I immediately requested cancellation and a full refund. Despite this, the merchant refused a proper refund and demanded excessive penalties and fees, including approximately 30 % deductions and card processing fees. \n\nI disputed the transaction with BarclaysXXXX XXXX and submitted extensive supporting evidence, including contract provisions, cancellation messages, and documentation showing incomplete contract formation and eligibility issues. \n\nHowever, throughout the dispute process I have received inconsistent information regarding timelines ( XXXX  days, XXXX  days, XXXX  days, and XXXX billing cycles ), no clear written explanation regarding provisional credit or payment obligations, and no meaningful escalation assistance despite repeated requests. \n\nI am concerned about financial harm due to the size of the disputed amount and the lack of clear customer protection while the investigation remains pending."
+}

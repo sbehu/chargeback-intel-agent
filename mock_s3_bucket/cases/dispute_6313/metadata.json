@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6313",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78574"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36060,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am been dealing with identity theft this year and have freezes on opening new accounts. however, I already had an best buy account and the theft was able to access my account and make purchases. On XX/XX/XXXX, XXXX laptops were purchased on my best buy credit card account without my knowledge. \n\nfirst purchase on XX/XX/XXXX was {$1800.00} for a XXXX - XXXX XXXX XXXX '' XXXX XXXX XXXX Laptop - XXXX XXXX XXXX XXXX - XXXX Memory XXXX XXXX XXXX XXXX XXXX - XXXX XXXX  - XXXX XXXX second purchase on XX/XX/XXXX XXXX for {$1600.00} for XXXX - XXXX XXXX XXXX XXXX XXXX Laptop - XXXX XXXX XXXX XXXX with XXXX Memory XXXX XXXX  - XXXX XXXX then the next day on XX/XX/XXXX the theft went to a different best buy store and returned the XXXX XXXX and purchased an XXXX XXXX and a gift card. then later that day they went to another best buy in XXXX XXXX, TX to return the XXXX XXXX  and purchased another XXXX and a XXXX. \n\nI did not make any of these transactions and these are fraudulent. I was directed here by Best Buy to make my dispute."
+}

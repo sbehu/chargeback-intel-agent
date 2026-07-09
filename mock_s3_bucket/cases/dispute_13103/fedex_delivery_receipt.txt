@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-42682685-US
+Shipment Date:   2026-03-09T00:00:00Z
+Delivery Date:   2026-04-12T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     8888 WASHINGTON LN, CA, 94533
+============================================================

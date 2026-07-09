@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1051",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55122"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37769,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Prepaid for a XXXX car rental thru XXXX XXXX ( XXXX XXXX XXXX XXXX with XXXX ( reservation # XXXX ). 2 days into car rental, it broke and had to be towed away. XXXX did not provide a suitable alternative and we had to rent another car from a different agency. XXXX says we need to talk with XXXX XXXX and XXXX XXXX says we need to talk with XXXX. Nobody is helping so we disputed the charge. \n\nSpoke to a Citi dispute representative at beginning of XX/XX/2023 who said we need to provide proof of when the car broke and to request a partial refund because we did have it for 2 days. I sent all requested documents and Citi denied the claim saying I now need to provide proof of for the refund I will be getting. This makes no sense because I would not have disputed this if there was any communication of a refund.\n\nIt it is clear Citi 's policies are for merchandise only. You got the merchandise or didn't get the merchandise. In my case for Citi I had the car so there is no dispute even though it was for 2 out of 8 days. They have no policies to deal with partial services and care nothing to help resolve them. Their only concern is making the vendors they pay happy. I was instructed what to, followed it, and then as a result of following their instructions was told there is no dispute with out showing proof of a refund. This is a deceptive practice instructing a customer what they need and then using it against them. In my case it was telling them I had the car for 2 days and wanting partial refund. They don't do partial refunds or advocate in anyway for services partly provided. I need either a partial refund of {$390.00} ( 5 days not used ) or the full refund of {$620.00}."
+}

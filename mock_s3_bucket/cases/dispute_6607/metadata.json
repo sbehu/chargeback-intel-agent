@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6607",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76182"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7899,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Please see multiple communications I am copying and pasting. \n\nI have now contacted Barclay 12-14 times on the XX/XX/XXXX charge of {$31.00}. <br><br>I hav XXXX XXXX XXXX XXXX XXXX I have now contacted Barclay 12-14 times on the XX/XX/XXXX charge of {$31.00}. \nI have contacted the Dispute Unit 6-7 times, Each time I am told the same thing and each time nothing happens. You guys cant seem top figure this out no matter how many times I have explained it. \nPlease credit this charge and CLOSE THIS ACCOUNT. \nI need this account XXXX XXXX and CLOSED. \nThanks XXXX XXXX XXXX XXXX XXXX XXXX Just to clarify for the 100th time.... XXXX charged me without consent on XXXX XXXX XXXX XXXX for {$31.00} AND XXXX XXXX XXXX XXXX for {$31.00} I disputed BOTH of these charges. You keep getting confused and thinking I only disputed one of these charges. \nOn XX/XX/XXXX, I was credited back only one charge for {$31.00}. \nAs I have said a million times now, I need the second charge credited back as well. \nYou still owe me another credit of {$31.00}. You just need to file a claim with the merchant. \nDoes this make sense to you? \nThanks XXXX"
+}

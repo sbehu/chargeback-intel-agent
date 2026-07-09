@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9666",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "344XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18166,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "After a review of my XXXX XXXX card issued through XXXX I noticed XXXX charges for gas that neither myself nor my authorized user are responsible for. I promptly attempted to dispute the XXXX charges online through my consumer portal but was unable to complete the request due to an unknown error on the website. I then submitted a message requesting that the XXXX charges be submitted for dispute. A response was received the following day instructing that I call. I then contacted the company by calling the phone number provided on the website XXXX and advised that I would like to cancel all credit cards associated with my account and have only XXXX reissued with new numbers - XXXX to myself and XXXX to my authorized user. I would also like to report the fraudulent charges I see on my statements- the XXXX I see is on XX/XX/XXXX in the amount {$35.00} in XXXX, TX Transaction details : XXXX XXXX XXXX TX Credit card ending in XXXX ; {$35.00} POST DATE XX/XX/XXXX TYPE purchase MERCHANT CATEGORY Vehicle Services-AUTOMATED GAS DISPENSER REFERENCE NUMBER XXXX and the XXXX : in the amount {$35.00} also in XXXX, TX XXXX XXXX XXXX XXXX XXXX TX Credit card XXXX in XXXX {$35.00} POST DATE XX/XX/XXXX TYPE purchase MERCHANT CATEGORY Vehicle Services-AUTOMATED GAS DISPENSER REFERENCE NUMBER XXXX I also stated in response to several questions that my authorized user and I both have possession of XXXX cards but I see XXXX on my portal so please just cancel and reissue XXXX. I also stated that the XXXX fraudulent charges seem to have been charged in XXXX, TX we both have never been to TX. A few days later I received a letter stating that my request to dispute the charges were denied since I stated that I have XXXX of the cards in my possession. \n\nWe all know that skimmers is a huge scam out there right now so this is very possible what happened here, considering. Also, we are in FLORIDA and could not have made the XXXX, TX charges using the cards. In denying the request, it would appear that I am being accused of lying which of course I don't take too kindly too. \n\nPlease let me know what you need from me in order to get this resolved as quickly as possible. Thank you!"
+}

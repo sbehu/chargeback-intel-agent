@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4730",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33713"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20963,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered some computer RAM from the merchant XXXX  that was sent to me, upon receiving the product and opening the contents I saw that they had sent me the incorrect speed from what I had ordered so I had gone online and initiated a return to send back the product as it was not the correct speed I ordered. I printed out the XXXX information and return label and sent it back to XXXX, a week and a half later I am told that they are refusing to return my money even after receiving the item back. I immediately went to American Express to file a dispute about this and uploaded all documentation showing that the merchant had received the return but were refusing to give me my money back. After a week or two go by I get a notice from American Express saying they are going to rebill my account and upon checking the information that they merchant sent they falsely claimed that I had sent back damaged merchandise, which was completely false because all I did was open the product box, saw that the speed was incorrect, and then immediately put the items back into the original box and ship them back to the merchant with XXXX tracking of XXXX I provided screenshots and photos of the condition of the item before I returned it back to the merchant to American Express and they initiated another dispute on my behalf. Another 2 weeks go by and I see that I received a message from American Express stating that I am being rebilled AGAIN even after sending all the proof showing that I did my part in returning the merchandise AND that the merchandise was not damaged. The merchant did not even send any new evidence to support their false claim of the merchandise being damaged, they sent the exact same information they sent the first time that I had to redispute for. They provided nothing new in their claims nor have any supporting documentation showing that such item was even damaged in the first place. I have even gone a step above and showed American Express multiple news articles online about this company doing the exact same thing to other customers AND they even falsely claimed damaged merchandise to a famous youtuber that exposed them online for the exact same thing they are doing to me now. I have provided American Express all this information and even MULTIPLE documentation and articles showing this Merchants shady business practices and they are still rebilling me, for reference the articles and XXXX videos of this happening to other people are linked below. \n\n\nhttps : XXXX https : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

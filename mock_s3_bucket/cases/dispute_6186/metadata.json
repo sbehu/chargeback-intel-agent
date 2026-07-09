@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6186",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27560"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47013,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, while visiting XXXX XXXX  XXXX, I was approached by XXXX individuals near XXXX XXXX who asked for a small donation. After requesting to input their XXXX information into my phone, they accessed my device and initiated an unauthorized XXXX Friends and Family transaction for {$2500.00}, funded by my American Express credit card. \n\nUpon discovering the fraudulent transaction almost immediately, I contacted American Express through their online support and requested them to cancel the pending transaction. The Amex representative assured me that they would monitor the transaction and handle it, and stated that I did not need to contact XXXX myself. Based on this assurance, I did not take further immediate action such as filing a police report. \n\nDespite my prompt reporting, the pending transaction was allowed to post to my account. Later, Amex rebilled me for the full amount after initially crediting it back, stating that XXXX categorized the payment as peer-to-peer and thus outside their fraud protections. \n\nI was extremely disappointed that Amex : Failed to stop a fraudulent pending transaction despite immediate notice, Relied solely on XXXX categorization without properly investigating the nature of the fraud, Did not allow me an opportunity to provide full evidence before making their final decision, Did not provide a clear or satisfactory explanation as to why this obvious scam was not treated as fraud under their policies. \n\nAs a long-standing customer who reported the fraud immediately and in good faith, I expected better protection and investigation from American Express . \n\nI am requesting a full refund of the {$2500.00} charge resulting from this unauthorized transaction."
+}

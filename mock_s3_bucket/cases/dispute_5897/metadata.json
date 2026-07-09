@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5897",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10459"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38273,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought a laptop on XX/XX/year>, online at best but, I never received the laptop, I communicate with Best Buy a lot of times, in many different ways, went to XXXX of their stores and they dont want to give me a refund, I have past through a lot of stress with this and i have been force to pay the monthly payment on the credit card from Best Buy because they dont want to give me a refund. \n\nI think the delivery man stole the package because the photo he took as proof of delivery was from inside his car from the opposite side of the street showing the building where a live from far."
+}

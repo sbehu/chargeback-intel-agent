@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7533",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "857XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26658,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or about XX/XX/year>, I charged a hotel room to my American Express card. The charge was an error. I spoke to the hotel and they understood and agreed to refund it and we are pending a response from the 3rd party but I have it in writing that the hotel is refunding me. The amount is {$470.00}. American Express knows the situation and wont dispute it on my behalf or credit the {$470.00} to my card even though I have written confirmation from the merchant."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8589",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98006"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32383,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a fraud claim in XX/XX/XXXX for XXXX unauthorized transactions totaling {$2600.00} on my Barclaycard XXXX XXXX. After initially denying the claim, Barclays eventually issued partial credits, and after CFPB intervention, further credits were applied. However, their latest response on XX/XX/XXXX, still fails to clearly match those credits to the original disputed transactionsspecifically, XXXX {$500.00} charges at XXXX # XXXX and XXXX # XXXX from XX/XX/XXXX remain unaccounted for. Barclays letter includes credits for other dates ( e.g., XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX ) that do not correspond to the original transactions. I submitted a written follow-up on XX/XX/XXXX asking for a transaction-by-transaction reconciliation and documentation supporting their credit decisions. They never provided that. I am now requesting CFPBs help to compel full transparency and traceability between the original fraud charges and the credits issued."
+}

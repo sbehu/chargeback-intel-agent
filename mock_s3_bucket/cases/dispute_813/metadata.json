@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_813",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "243XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37632,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2023 on old card - fraudulent charge card not present. I disputed. They sent me a letter saying it was removed. They cancelled that card, sent me new card I have not used AT ALL. \nOld charge reappeared - again disputed. Same amount, different vendor reappeared. 2nd letter saying they removed the charge. \nI ONLY used the Citibank Best Buy card at Beat Buy last year - all other charges are fraud. \nSo now I have two USPS mails saying the fraud amount was removed and an email that says I am late on payment. When I saw they were still using the old account on my bill, I closed the whole account and now they are sending me the same bill under the new card they issued me. And it is not showing that the card is cancelled. \nAnd now the charges are larger because they are adding late payment fees on the account. \nI am afraid to log in to Citibank now because they keep moving the charge from one account to the next, The initial fraud had to be due to a Best Buy employee as the email was sent to an email address I no longer use that used to be on an OLD Best Buy account before I changed my name. All transactions I made on that card were made in person at a Best Buy Store."
+}

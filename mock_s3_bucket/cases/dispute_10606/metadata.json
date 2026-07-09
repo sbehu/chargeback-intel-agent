@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10606",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34952"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1033,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I started the process of ordering medication through XXXX XXXX for {$190.00} but decided against it. I spoke with XXXX XXXX  and they cancelled my account and sent me an email to verify and stated in their email that they have not received any funds therefore I need to contact my credit card, Barclay. I filed several disputes and each have been denied. I have been dealing with this since XX/XX/year>."
+}

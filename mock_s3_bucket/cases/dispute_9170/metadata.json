@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9170",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2453"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44321,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed for a Trademark on my comic on XX/XX/2025 with the US Trademark office. \nImmediately after I was bombarded with companies claiming to be the USPTO and demanding I pay before someone else claims my trademark. I ignored most of these until I was contacted by what I now know is SNAPGROW Limited. They were very convincing because all of my information is public ( which I am also very unhappy about ) on the USPTO website. \n\nIf one goes onto the website, the status of my trademark shows that it's still being processed. I paid the company and when I looked at my credit card statement it listed the merchant as XXXX XXXX based out of XXXX. I immediately disputed this with the credit card company. The next day they called and harassed me about disputing the charge to the point where I blocked the number they were calling me from. Citi did an investigation and claimed I was responsible for the purchase. \nI called back and told them it was a fraudulent company pretending to be something they're not. I have charges from the actual USPTO on my card and right next to it, charges from a company based out of XXXX who also contacted me during the government shutdown. \n\nI let Citi know all of this and that I have any information they might require to back my claims. They reopened the investigation and recently closed it saying I'm once again responsible. \nThey provided me with \" proof '' on which states that XXXX XXXX is a \" XXXX XXXX XXXX providing services related to designs, websites, and emcommerce etc '' The fact that it lists itself as a marketing agency and is based out of XXXX is enough proof that this is not the USPTO and that the charge is fraudulent. Livid, I called Citi again and demanded to speak with the investigator or case worker for my dispute but they can only be contacted via email."
+}

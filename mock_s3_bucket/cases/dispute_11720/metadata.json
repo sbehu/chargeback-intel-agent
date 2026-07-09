@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11720",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "606XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48008,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In early XX/XX/year>, I booked a flight through XXXX for approximately {$250.00}. The booking contained an incorrect travel date, which I noticed immediately after completing the transaction. \n\nWithin approximately XXXX minutes of booking, I contacted XXXX  via chat and phone to request a correction or cancellation. I was initially told that no changes or refunds could be processed until the flight was confirmed. \n\nApproximately XXXX hour later, once the booking was confirmed, I contacted XXXX again. At that point, I was informed that the booking could no longer be refunded. I was offered only a partial airline credit with a significant fee deduction ( approximately XXXX euros ), which I did not accept. \n\nI was then instructed by XXXX to contact the airline directly in order to request a refund to my original form of payment. I attempted to follow these instructions, but I was unable to obtain assistance from the airline. I was routed through automated systems and could not reach a representative who could process a refund. The airline systems also indicated that bookings made through third parties must be handled through the agency. \n\nI attempted to continue working through XXXX, but I was unable to obtain further assistance. Communications were limited, and in some cases responses were sent from no-reply channels that did not allow follow-up. As a result, I was unable to access any functional process to obtain either a refund or a credit. \n\nBecause the booking could not be corrected or cancelled, I was forced to purchase a separate ticket for the correct travel date. \n\nI then filed a dispute with Citibank, explaining that the issue was reported immediately and that the service was never used. Initially, a temporary credit was issued. However, after the merchant responded, Citibank reversed the credit. \n\nI contacted Citibank again to reopen the dispute and provided additional documentation, including evidence that I attempted to resolve the issue immediately and that I purchased a replacement flight. Despite this, I received a final notice stating that no credit could be issued because the timeframe had passed. \n\nAt this point, I have received no service, no refund, and no credit from either the merchant or the airline, yet I am still being required to pay {$250.00}. \n\nI am requesting that Citibank reconsider this dispute, as this charge represents a service that was never received and for which no remedy was provided, despite my immediate and repeated attempts to resolve the issue."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1055",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80205"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23935,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A fraudulent charge for {$50.00} showed up on my card on XX/XX/. The credit card website would not allow me to report the charge as fraudulent, so I called them on XX/XX/XXXX  to report it. I spoke to two different people and told them both that I did not make the charge. They reversed it \" conditionally '' and coded it as goods not received. When the vendor provided them with information about the sale, the credit card company told me I was responsible for the charge and charged it back to my account. I sent them an email on XX/XX/XXXX  telling them that I did not make this charge, and they responded that it would be closed by XX/XX/. I sent them another email on XX/XX/2023 and then called them on XX/XX/XXXX  because there had been no updates. On XX/XX/, their fraud department told me they would close the account and issue a new card but it would take them one to two billing cycles to investigate the fraud and reverse the charge despite my reporting it over two months ago. \n\nI believe Citi bank has a pattern of denying fraud charges and intentionally making it more difficult to report, particularly with online retailers. This is based on my past experiences with this same credit card and my interactions with their customer service department."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6016",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4633,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : American Express Account Type : Personal Credit Card Dispute Reference Number : XXXX Date of Transaction : XX/XX/year> Merchant : LunaJets I am filing this complaint because American Express wrongfully rebilled a disputed charge despite the merchant ( LunaJets ) failing to provide any credible or verifiable evidence to support their claim. The charge is for a private jet roundtrip charter that never occurred. No service was rendered, yet I was charged the full amount. \n\nI submitted a detailed dispute with : A copy of the contract with LunaJets, Evidence showing I complied with all contractual obligations, A passenger declaration confirming that I did not act in any disruptive manner, And documentation proving the merchants explanation is internally inconsistent and unsupported. \n\nIn contrast, XXXX submitted only an unsigned, unnamed, and unverifiable document with no official letterhead, no names, and no accompanying proofjust a unilateral narrative. \n\nDespite this, American Express stated that they can not get between the merchant and me and decided to close the dispute in favor of the merchant, without addressing the imbalance in the quality or credibility of the evidence provided. In short, American Express refuses to consider my evidence and it is taking for granted the unsupported allegations from the merchant. \n\n\nUnder the Fair Credit Billing Act, credit card issuers like American Express are required to fairly evaluate disputes and not blindly side with the merchant, especially when the merchant has not provided evidence that meets any reasonable standard of verification.\n\nAmerican Expresss decision : Ignores the fact that the flight never occurred.\n\nAccepts unsubstantiated claims from the merchant.\n\nDismisses my verified and well-documented rebuttal, including contractual citations and witness statements.\n\nConflicts with Amexs own chargeback rules about service not rendered and evidence standards."
+}

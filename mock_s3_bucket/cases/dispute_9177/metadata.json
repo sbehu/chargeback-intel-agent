@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9177",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30228"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43678,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a credit card from Barclays XXXX member of XXXX. I contacted Barclays to report a FRAUD transaction on my credit card of an amount of {$430.00} from a merchant named : XXXX XXXX XXXX XXXX \n\nI spoked to XXXX a Barclays credit card agent who I had a very strange and unpleasant conversation. XXXX was rude, impolite, showed unprofessional service manners, and feels more dictating his owns policy than company statements. \n\nXXXX refused to open an investigation of the claim and told me to rather go to the store myself and ask the owner of the shop to refund the money. He also told me to call the police and confront the shop. \n\nSince the situation was getting unpleasant I asked him to let me talk to a XXXX which he then realized I was trying to escalate the situation. XXXX then told me that there is no XXXX I can talk to. so I simply asked him if there is anyone else I could speak to since this whole situation with him was getting nowhere. \nXXXX put me on hold left for about XXXX and then returned and told me : \" For you to speak to a XXXX he would have to now open a case to investigate the situation '' Surprised I was shocked and told him : \" That was the purpose of my call. Report a possible fraud as I did not XXXX the purchase ''. \n\nSince XXXX was rude and unpleasant to talk to I simply told him to ask for a XXXX to call me whenever possible because I would like to report rudeness and refusal without reason from Barclays to open an investigation on my claim. I also asked XXXX to close my current card and issue me a new card due to XXXX and he refused. \n\nTill today I was just able to LOCK the card and XXXX never reached out to me nor attempted to to open an investigation on my card."
+}

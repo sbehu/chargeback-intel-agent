@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_836",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38535,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against American Express and XXXX XXXX for their inadequate response and handling of a fraudulent charge on my credit card. This complaint pertains to an unauthorized transaction of {$1600.00} on my account, which occurred as a result of a security breach on XX/XX/2023. \n\nDetails of the Complaint : Unauthorized Transaction : On XX/XX/, my XXXX  account was compromised, leading to an unauthorized purchase using entirely false billing information ( XXXX XXXX XXXX, XXXX, NY XXXX XXXX ), which has never been associated with my account. Immediately after the charge the account name and email was changed and I no longer had access to my account. \n\nImmediate Action Taken : I reported the incident to XXXX at XXXX XXXX  on the same day, expecting prompt action. Despite my efforts, XXXX acknowledged the fraudulent nature of the transaction only on XX/XX/XXXX and advised me to resolve the issue with American Express. \n\nResponse from American Express : Despite providing American Express with evidence of the fraudulent transaction and the discrepancy in billing information, the charge was rebilled to my account. The billing address used for the fraudulent transaction was completely unrelated to any address historically associated with my account, raising serious concerns about the effectiveness of American Expresss fraud detection and prevention mechanisms. \n\nCurrent Status : Both XXXX  and American Express have failed to provide a satisfactory resolution, leaving me with an unjust charge and a serious breach of my personal and financial security. \n\nRequested Action : I am seeking the CFPBs assistance in investigating this matter and ensuring that : American Express reverses the fraudulent charge of {$1600.00} and improves their fraud detection systems. \nXXXX is held accountable for their delayed and inadequate response to the security breach and fraudulent transaction on their platform. \nBoth entities improve their customer service response to fraud and unauthorized transactions. \nThis situation represents a significant failure in consumer protection and fraud management, and I trust that the CFPB will take appropriate action to address these concerns. \n\nPersonal Impact : This incident has caused significant distress and inconvenience, challenging my trust in both American Expresss and XXXX ability to protect consumer interests and financial security. \n\nThank you for your attention to this serious matter. I look forward to a prompt and just resolution. \n\nSincerely, XXXX XXXX"
+}

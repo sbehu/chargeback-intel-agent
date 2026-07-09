@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13305",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21293,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Description. \nI am submitting this complaint regarding serious billing discrepancies, misapplied payments, and failure to properly account for credits in my American Express credit card account No. XXXX, issued in my name. \nBetween XXXX and XX/XX/year>, a total of XXXX  XXXX was charged in excess through my XXXX account XXXX. XXXX. These debits were executed under the premise of satisfying American Express obligations ; however, they do not reconcile with the actual charges reflected in the corresponding American Express statements. \nThis situation evidences a breakdown in account reconciliation and raises concerns regarding the accuracy and integrity of the billing and payment application process. \nThe excess amount includes, but is not limited to : A confirmed refund issued by XXXX on XX/XX/year>, in the amount of XXXX  XXXX ( credit memo available ), which was not properly applied or reflected in the account during the relevant billing cycles. \nMultiple charges lacking supporting documentation, which were neither authorized nor substantiated by corresponding transactions in the American Express statements. \nDespite the existence of this discrepancy, payments continued to be executed, resulting in a material overpayment. \nFurthermore, American Express unilaterally cancelled the credit card in XX/XX/year>. As a result, any annual fee charged should be proportionally reimbursed. \nAmerican Express has indicated that it is unable to access historical data beyond XXXX  months. However, such limitation can not override its obligation to ensure accurate accounting, proper application of credits, and resolution of documented discrepancies, particularly when supported by third-party evidence. \nXP, as the executing intermediary of the payments, has also failed to provide a clear and complete reconciliation of the debits made from my account. \nThis reflects, at minimum : Failure to properly apply merchant credits Deficient reconciliation between financial institutions Lack of transparency in payment execution Potential retention of funds without proper justification I am attaching a detailed reconciliation table evidencing the discrepancy ( USD XXXX ). Additional supporting documentation is available upon request, including account statements and the XXXX refund confirmation. \nIn light of the above, I formally request : A full reconstruction of account activity for the period XXXX 2025 Proper application and recognition of the Apple refund A detailed reconciliation explaining all payments executed through XP Immediate reimbursement of the excess amount charged ( USD XXXX ) Proportional reimbursement of the annual fee following the unilateral cancellation of the account Failure to adequately address this matter would constitute a continued denial of my rights as a consumer under applicable XXXX financial protection standards. \nI expect a prompt, complete, and substantiated response."
+}

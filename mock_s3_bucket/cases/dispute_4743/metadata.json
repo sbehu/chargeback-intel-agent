@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4743",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "33415"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5452,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against XXXX ( XXXX ) and American Express ( Amex ) regarding a failure to honor a lifetime guarantee and an unsatisfactory resolution of my payment dispute. \n\nI enrolled in XXXX treatment plan for teeth alignment, which included a lifetime guarantee. As part of the agreement, XXXX promised to provide services as needed to ensure my satisfaction. Unfortunately, after XXXX filed for bankruptcy, they are no longer able to fulfill their contractual obligations, leaving me with a service that can not be rendered. \n\nI paid for the treatment using my American Express card, assuming the charges would be protected under their consumer protection policies. However, on XX/XX/year>, when I contacted Amex to dispute the charges due to XXXX inability to provide the promised services, Amex informed me that they could only dispute the XX/XX/year> charge of {$89.00} and are unwilling to refund the total amount that XXXX charged me. They suggested that I file a complaint with XXXX in attempts to receive my refund. \n\nThis situation has left me in a position where I am paying for a service that is impossible to receive, and I am deeply dissatisfied with the lack of resolution from both parties. \n\nI am requesting that : XXXX fully refunds the payments I made under their now-untenable contract. \nAmerican Express honors its consumer protection policy and issues a full refund for the total amount charged by XXXX. \n\nI trusted both companies to uphold their promises and ensure I would not be financially penalized for circumstances beyond my control. I hope that the Consumer Financial Protection Bureau can assist me in resolving this matter fairly and promptly. \n\nThank you for your time and attention."
+}

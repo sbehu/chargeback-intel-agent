@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6766",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8861"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30328,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I mailed a check in the amount of {$9700.00}, payable to XXXX, for the account under my name ending in XXXX. The check contained the following details : Business Title on Check : Rocket Close, XXXX Escrow Account Date on Check : XX/XX/2025 Amount : {$9700.00} Routing # : XXXX Account # : XXXX Check # : XXXX After allowing sufficient time for processing, I contacted my closing company, Rocket Close, to confirm whether the check had been negotiated. They confirmed that the item was negotiated on XX/XX/2025 and provided proof of this transaction, which I am attaching to this message for your reference. \n\nI then contacted Macys Customer Service, and a case was opened : Case # XXXX. \n\nAt this time, I am respectfully requesting that Macys ( Citi Bank XXXX XXXX ) either : Credit my account ending in XXXX for the amount of {$9700.00}, or Return the funds to my closing company so they may reissue the payment. \n\nIt has now been a week since the check was received and successfully negotiated. If this matter is not resolved promptly, or if I do not receive confirmation that action is being taken on this case, I will be pursuing legal remedies. \n\n\n\nThank you for your attention to this urgent matter."
+}

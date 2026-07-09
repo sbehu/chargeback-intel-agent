@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3359",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93030"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16529,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In the year XXXX, I discovered I was a victim of identity theft with my XXXX XXXX Credit card. I was able to prove my innocence because I have access to my online account and credit card. I submitted the proper documentation to all the credit bureaus alerting them I am a victim of identity theft and all bureaus approved my case. Randomly I started receiving letters from a JetBlue Card/Barclay 's Bank saying I was past due on payments in the year XXXX. I have never heard of or opened a JetBlue Card, so I disregarded it as spam. It started receiving letters from a collection agency saying I owed over {$19000.00} in debt from JetBlue/Barclay 's Bank I decided to call Barclay 's Bank to see what was happening. It has turned out that in XXXX of XXXX ( the exact time the identity theft started of the XXXX XXXX XXXX ) there was a JetBlue credit card with my information. Someone has opened another credit card with my information. The problem is that I have no clue what are the purchases, the credit card, or online access to the account. I was completely in the dark with no way to dispute the charges. I finally received statements and all the charges have been made in XXXX. \" XXXX XXXX, XXXX XXXX, XXXX XXXX, XXXX XXXX, XXXX XXXX '' are all cities in XXXX. All the purchases are made in pesos ( XXXX currency ) and converted to US dollars with an interest rate. All transactions are either a tire shop, restaurants, pedicure & car service. The credit limit is {$10000.00} over 3 days, between XXXX XXXX the person spent {$9500.00} & XX/XX/XXXX the person spent {$410.00}, basically maxing out the credit card in 4 days. Between XXXX and XX/XX/XXXX, the person spent an extra {$13000.00}, the person tried to make payments using a Chase account but I don't have a Chase account only a Bank XXXX XXXX, before stopping in XXXX, XXXX, XXXX, and XX/XX/XXXX. ALL THESE TRANSACTIONS WERE MADE IN XXXX DURING A PANDEMIC WHEN FLYING WAS VERY RESTRECTIVE, ALL PURCHASES WERE MADE IN XXXX XXXX ( PESOS ) CONVERTED TO XXXX DOLLARS, AND NEARLY {$20000.00} WAS SPENT IN 2 MONTHS ( CREDIT LIMIT IS {$10000.00} ), AND NO SUSPICIOUS ALERTS WERE MODIFIED TO JETBLUE CREDIT CARD. I imagine because the card was being declined. This occurred at the same time the XXXX XXXX XXXX theft happened, this happened in the year XXXX during a pandemic where flying was very restrictive. I worked in construction and was considered an essential worker so I never stopped working in the year XXXX. I have attached my paystubs to JetBlue/Barclays Bank XXXX XXXX company work paystubs for XXXX and XX/XX/XXXX as proof I was not making these purchases in XXXX and working at the same time. I don't have family in XXXX or know anyone whom I will give access to. Finally, I was shocked JetBlue did not see these rapid purchases as a warning especially going over the credit limit. Thank you for reading and I hope this can be resolved soon. Please see all the attached documentation for evidence of fraud."
+}

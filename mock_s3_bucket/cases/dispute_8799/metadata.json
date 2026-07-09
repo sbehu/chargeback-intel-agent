@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8799",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MI",
+    "complaint_zip": "483XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36683,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "COMPANY : Barclays Bank/ Barclays US ISSUE TYPE : Credit Card dispute AMOUNT : {$2000.00} Case # with Barclays : XXXX SUMMARY : I am filing this complaint because Barclays wrongfully denied my credit card dispute with the merchant XXXX, did not follow proper dispute, handling procedures, and closed my dispute without contacting me despite claiming they did so. I still do not have the merchandise and followed all directions provided by Barclays. \n\nDETAILS : I purchased a XXXX dress from set XXXX. I returned it immediately per the merchants instructions when it did not fit. The merchant falsely claimed the dress was damaged and refused the return. The attempted one delivery after my return, but I followed Barclays guidance and refused delivery. Since that day, the item has been held at the carrier facility. I do not have the merchandise.\n\nBarclays told me the dispute was denied because they called me to request more information when I called them today. No call, voicemail, email, or other communication occurred. I had to call the company several times after attempting to fax to their number which never worked, and then mailed 17 pages of supportive documentation as to why I should not be charged. I learned that the investigation was complete and they were not supportive after logging in no communication was sent to me on their behalf.\n\nI immediately notified Barclays and provided a written letter of intent to continue the dispute process. I followed all instructions from Barclays, and yet they closed the case without allowing me due process.\n\nKEY FACTS : -Merchandise was properly returned to merchant EXACTLY as it was received with original tags on it after trying it on once and returning it the next day. The reason I returned it was because it was too big on me and it came in a used designer bag from a different company, which made me feel unsure about the merchandise being new and unused to begin with.\n\n-I followed Barclays instruction not to accept reshipment after describing the circumstances to them.\n\n-Barclays stated they attempted to contact me twice via phone. I have no voicemail from them and no missed calls, and I have been calling them constantly to hear the status of this dispute.\n\n-merchant refused escalation, refused to speak with me over the phone, and sent repeated canned response responses.\n\n-I still do not possess the merchandise. It is sitting in a shipping facility after refusing delivery once.\n\nAfter reading reviews online I realize I am not the only one who has been treated unfairly by XXXX there is nobody to speak to in their customer service and people should be aware this is not a trusted luxury retail site!"
+}

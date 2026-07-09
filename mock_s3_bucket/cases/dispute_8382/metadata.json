@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8382",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "365XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20644,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to provide a detailed account regarding a charge that was mistakenly applied to my Government XXXX XXXX. The charge in question was made on the XXXX of XX/XX/year> by XXXX XXXX. I do not have a location where this transaction occurred, as I have interviewed two local hotels both of which have no record of a transaction taking place at either address. The merchant advised me to submit a complaint to my card company, Citi Bank. After reporting the charge, the bank informed me that because the charge took place over 60 days ago without a report they were unable to help. \n\nThe transaction occurred in XX/XX/year>. As indicated in the above statement, I neither stayed at nor made any reservations with this establishment during that period. At that time, I was deployed under Title 10 orders and therefore could not have incurred this expense. \n\nFollowing my return, I submitted all travel vouchers associated with my deployment, and all legitimate travel expenses were settled. Upon subsequent review, I discovered this erroneous charge from XXXX and have since been working to resolve the issue. \n\nThank you for your time and assistance in reviewing this matter. Please let me know if any additional documentation or information is needed."
+}

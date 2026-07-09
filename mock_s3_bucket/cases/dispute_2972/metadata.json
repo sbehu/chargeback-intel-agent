@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2972",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33845,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Amex on XX/XX/XXXX to open a dispute about a purchase I made on XX/XX/XXXX of XXXX. I purchased a bluetooth joystick that was marketed as being compatible with XXXX devices ( XXXX devices ) and that was specifically marketed as being compatible with XXXX XXXX which was the version of XXXX I was running. \n\nAfter multiple hours of troubleshooting the device via the sellers XXXX I could never get it to work. I was asked to block a bunch of domain servers/ip addresses coming from XXXX. I was also asked to disable tons of system services including find my XXXX, location services, and so-on. I was also asked to disable wifi, cellular, and uninstall a bunch of applications. All of this was XXXX absurd, but I went along with it and still couldn't get the device to work. \n\nAmex refuses to do anything about it stating I need to jump through more hoops with the seller. Are you XXXX kidding me? Really? This is absolutely bonkers. All of this to get a bluetooth joystick ( a controller! ) to work. None of this was mentioned on the website. It was suppose to just connect and work. \n\nRef. XXXX My name is XXXX XXXX XXXX My Phone number is XXXX. The above is my reference number for a dispute Amex closed and refused to reopen or do anything about."
+}

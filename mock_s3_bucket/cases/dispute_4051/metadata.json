@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4051",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ME",
+    "complaint_zip": "043XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43364,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I placed a order for XXXX items XXXX. XXXX XXXX XXXX XXXX XXXX for {$1300.00} and XXXX. Hansgrohe sink faucet for {$100.00}. The following day I received a email that the orders were declined. I called Citi Bank to ask why me card was declined. The Citi Bank lady told me she cancelled the order and to put it through XXXX again. She assured me this wouldn't causes a duplicate order. \n\nI received a duplicate order email from XXXX for both the sink and faucet. I was told by XXXX to return the duplicate orders. I returned XXXX XXXX XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX XXXX sent me a email acknowledging they received both on XX/XX/year>. I have a cancelled check to Citi Bank that I have paid for the other XXXX XXXX XXXX XXXX XXXX and XXXX sink faucet. \n\nXXXX claims they are not being paid by Citi Bank and has stopped me from ordering until this is corrected. I have been back and fort every day with XXXX and Citi Bank trying to get this corrected to no avail. I have spoken to XXXX, XXXX XXXX, and XXXX at Citi, XXXX, XXXX, XXXX, XXXX, from operations, XXXX, XXXX, from the XXXX XXXX XXXX XXXX. Sometimes on a conference call with both the bank XXXX Citi. Everyday I given a different answer as to why this is happening and am told another XXXX business days to fix this issue. \n\nXXXX has the returned items. Citi has my money. And I'm getting the run around. I want to do business with XXXX but I can not do so until the bank XXXX XXXX straighten out their book keeping problems. I am concerned for My credit rating while this is going on. \n\n\nXXXX XXXX"
+}

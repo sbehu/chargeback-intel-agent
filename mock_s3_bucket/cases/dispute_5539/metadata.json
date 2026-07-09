@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5539",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91405"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1334,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB Representatives, I am submitting this formal complaint against Citi Bank for gross negligence, failure to properly investigate a fraudulent chargeback dispute, and engaging in unfair business practices in direct violation of consumer protection laws. Citi Bank has acted in bad faith by disregarding clear contractual evidence and unjustly facilitating financial fraud, resulting in undue financial harm to my business, XXXX XXXX XXXXXXXX XXXX \n\nBackground of the Issue On XX/XX/year>, a customer named XXXX XXXX booked and fully completed a stay at my rental property, XXXX XXXX XXXX XXXX, from XX/XX/year>, to XX/XX/year>. Prior to booking, XXXX XXXX explicitly agreed to my rental agreement, which clearly states : Dissatisfaction with amenities does not warrant a refund. \n\nAll guests acknowledge and waive liability for any personal dissatisfaction. \n\nFull payment is required for a completed stay. \n\nDespite these clear contractual terms, XXXX XXXX initiated a fraudulent chargeback through Citi Bank under the category of \" Product Unacceptable. '' She never reported any issues during her stay, and she utilized the full duration of the reservation. \n\nUpon receiving notice of the chargeback, I provided Citi Bank with substantial evidence proving the legitimacy of the transaction, including : A signed rental agreement, which explicitly disallowed refunds based on dissatisfaction. \n\nCheck-in and check-out records, proving that XXXX XXXX stayed the full duration of the reservation. \n\nNo prior complaints from XXXX XXXX, confirming she had no issues during her stay. \n\nScreenshots and documentation of pre-booking disclosures, reiterating that no refunds are provided for dissatisfaction with amenities. \n\nDespite overwhelming evidence, Citi Bank willfully ignored my documentation and wrongfully ruled in favor of XXXX XXXX, refunding her {$210.00}. This decision represents a blatant failure of their chargeback review process and directly enables consumer fraud against small business owners like myself. \n\nCiti Banks actions constitute violations under multiple consumer protection laws and banking regulations : XXXX. Violation of California Civil Code 1671 ( Enforceability of Non-Refundable Agreements ) Under California law, prepaid and non-refundable payments are enforceable unless deemed unconscionable. Citi Bank disregarded a legally binding agreement and arbitrarily reversed payment without legal grounds. \n\nXXXX. Violation of California Business and Professions Code XXXX ( Unfair Business Practices ) Citi Bank 's failure to conduct a fair and reasonable investigation constitutes an unfair business practice, as it deprived me of legally earned revenue without justification. Their negligent chargeback policies enable consumer fraud and harm legitimate businesses. \n\nXXXX. Violation of Federal Electronic Fund Transfer Act ( 15 U.S.C. 1693f ) The EFTA requires financial institutions to conduct a reasonable investigation before finalizing chargeback disputes. Citi Bank failed to conduct any meaningful review of the evidence provided, demonstrating systemic negligence in their dispute resolution process."
+}

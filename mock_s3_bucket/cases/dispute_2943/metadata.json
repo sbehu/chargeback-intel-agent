@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2943",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94545"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24682,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called earlier today on XX/XX/XXXX, about my credit card XXXX that was opened in XXXX I never recieved a card then and only noticed this account was opened when I received a bill to pay I tried to call then. I was referred by the online chat to call the customer service line. I called the customer service line and the call was picked up and told they could not help me and to call back in 1-2 hours. I told the online customer service support this and they told me that I should call back again. Ultimately, I asked to speak to someone who could better assist me and was referred back to the number that is not working. \n\nAt the end, I was defeated after having paid a previous fee that I never spent and struggled to close this account for several months."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11192",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96822"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38844,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding fraudulent charges on my credit card account. The transactions were not authorized by me, and my card has remained in my possession at all times. \n\nThe bank initially contacted me regarding suspicious activity, and I immediately confirmed that I did not make those transactions. A provisional credit was issued during the investigation. \n\nHowever, the bank later reversed the provisional credit and claimed that the transactions were valid because chip technology was used. I strongly dispute this conclusion, as I did not authorize or make these purchases. \n\nBank said : We issued a provisional credit to your account for the full disputed amount while we conducted our investigation. We have completed the investigation and determined that the activity is valid, as the card was found to be in your possession and utilized chip card technology, which is not susceptible to counterfeiting. Consequently, since these transactions are confirmed as valid, the provisional credit has been reversed, and the amount owed has been restored to your account. \n\nThe charges are inconsistent with my normal spending patterns and occurred at locations I do not typically use. \n\nI am requesting that the bank reopen the fraud investigation and restore the full disputed amount to my account."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_796",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30041"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29894,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX a fraudulent charge was made on my Citi XXXX card and I immediately notified them. There was a notification of a charge on XXXX on XXXX that I declined but there were 2 other charges that happened that I did not get an alert so could not decline. The next day I spoke to fraud department and and in the conversation I mentioned I still have the card which was a mistake on my part as I was referring another and not the one the fraud occurred that I had. I got a call from them asking me to open a police case which I did and gave that info back to them. When I followed back with them a week post that they said they have closed the case because I said I had the card. I corrected and they said they will reopen ( called twice and same answer ) but it did not and no communication from then on. Had a similar fraud happen on my XXXX XXXX  same day and they refunded. The investigator did not which was surprising and against what Citi says on protecting their customers"
+}

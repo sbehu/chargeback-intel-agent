@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9101",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "95124"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32403,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I charged XXXX round-trip tickets from XXXX to XXXX on my Amex XXXX XXXX XXXX XXXX in the amount of XXXX XXXX ( XXXX XXXX ). \n\nTravel was postponed due to my wifes XXXX. XXXX tickets were re-issued ( paid separately ) on XX/XX/XXXX. The remaining XXXX were put on hold. \n\nIn XX/XX/XXXX, after my son turned XXXX years old and travel plans became indefinite, I requested a refund from the airline. On XX/XX/XXXX, XXXX acknowledged and completed the refund processing. \n\nOn XX/XX/XXXX, XXXX issued the refund back to the original card and supplied an Acquirer Reference Number to Amex for reconciliation purposes. \n\nDespite this, the refund amount of XXXX XXXX ( comprised of XXXX XXXX + TWD XXXX + TWD XXXX ) is still not credited to my Amex account after raising a dispute with Amex After contacting Amex several times starting XX/XX/XXXX including an escalation to XXXX XXXX himself, the issue was still not resolved. However, on XX/XX/XXXX, Amex suddenly issued a XXXX USD credit under the name of XXXX. This behavior seems to be deceiving and doesn't match the actual amount they should refund."
+}

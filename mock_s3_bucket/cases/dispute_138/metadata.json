@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_138",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32224"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36574,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased a round trip airline ticket through XXXX XXXX. I was charged the correct amount for the ticket itself, which was {$11.00}. I upgraded my ticket to extra legroom both ways. This incurred a correct charge of {$160.00} for the flight to XXXX and a correct charge of {$120.00} for the return trip to XXXX. These charges should have totaled {$300.00}. \nThat same day, I was erroneously charged the {$160.00} and the {$120.00} an additional 16 times each, totaling {$4700.00} I contacted my CC company XXXX XXXX XXXX Barclays Bank ) and explained this to them. They told me I had to contact XXXX XXXX to have the charges refunded. \nI did this on XX/XX/XXXX and was refunded only {$2500.00}. I contacted them again on XX/XX/XXXX and XX/XX/XXXX. They stated they could see the charges and I would be refunded the rest. This has not happened and I am still owed {$2100.00}."
+}

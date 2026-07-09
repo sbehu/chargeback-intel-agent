@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4661",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93277"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19100,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I called a number listed as a \" US number for XXXX XXXX XXXX '' and spoke to a lady who told me her name was XXXX XXXX, that she was with the \" Consolidation Dept '' with XXXX XXXX XXXXXXXX. I was calling XXXX XXXX  to rebook a flight from XXXX XXXX to XX/XX/XXXX or XXXX. XXXX XXXX assured me she could help but the amount of the ticket would be {$9600.00}!! She explained that THE ENTIRE AMOUNT would be refunded to me within 40 days. In actuality, I was charged {$8800.00} because she gave me credit ( approximately {$1400.00} ) for the return ticket I had already purchased.\n\nWhen the 40 days elapsed I noticed that the refund did not occur and I called XXXX XXXX. She told me \" the third party companies who do the ticketing declined my refunds. '' I knew this was another lie and when I researched the company I discovered they are on a list of scammers and go by a couple of names : XXXX  and XXXX They also have several numbers, all of which have been flagged : XXXX XXXX XXXX XXXX XXXX. ( XXXXXXXX XXXX  direct line ) I have spoken to Citibank numerous times and they have rejected my claim and maintain, that, despite this company being a major scammer and charging me an exorbitant amount, I am solely responsible for the charges and interest. \n\nI am retired and on a very limited income. The amount of these charges, with interest, will be over {$10000.00} and I can not afford to repay them. The company that scammed me has been flagged by the XXXX XXXX XXXX and scamming agencies as well as many consumers, like myself, who got \" taken '' thinking we were carrying out a bonafide business transaction ; instead, we were dealing with on airline impersonator!! \n\nIn addition to sending letters to my credit card company, I have filed a complaint with the FTC and XXXX XXXX XXXX. \n\nThank you for your time. \n\nXXXX XXXX"
+}

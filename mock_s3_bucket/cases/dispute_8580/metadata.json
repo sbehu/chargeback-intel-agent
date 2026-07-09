@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8580",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "553XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46788,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I noticed a transaction on my Citi Bank credit card account for the amount of {$3600.00} from a merchant with the name of XXXX * XXXX XXXX XXXX with the location stating the transaction took place in XXXX. I disputed this immediately. On XX/XX/year> the dispute had seemingly been resolved as my credit card balance was back to a {$0.00} balance as it was before. On XXXX, I noticed the balance was now showing an amount of {$3600.00}. The transaction that caused this shows as : REVERSE XXXX * XXXX XXXX XXXX. After calling Citi 's fraud department, and being transferred all around to different departments, I finally was able to speak to a supervisor named XXXX. She reassured me that yes, this was a mistake and it looks like I have been double charged by this fraudulent merchant. She again reassured me multiple times that she will contact the merchant and get this resolved by Friday, XX/XX/year> and that I have nothing to worry about. All of these conversations are recorded. I never received a call from this supervisor XXXX so I took it upon myself to call Citi on Friday XX/XX/year>. They refused to transfer me to a supervisor upon my request stating that one will call me back in 24-48 business hours. If this fraudulent purchase never occurred, I would have a {$0.00} balance on my credit card. Yet, here we are and I now have a balance of {$3600.00} on my Citi Credit card to no fault of my own and Citi 's refusal to help. This is unacceptable and I will be escalating this until it gets resolved."
+}

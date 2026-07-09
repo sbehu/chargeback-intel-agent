@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10277",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90403"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41791,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025 Citibank notified me of a suspicious purchase attempt on a card that was otherwise dormant for more than 2 years. They properly declined that transaction. I immediately notified them this is fraudulent transaction, and they issued a replacement card, but authorized two additional charges on the same day, one in the same establishment, and both in the same vicinity. \n\nI immediately tried to place a dispute notice on both transactions, finally successful on 4th attempt with one transaction, and a month later on the XXXX. On XX/XX/XXXX, when no action or notification was received from Citibank, I delivered via tracked Priority Mail, a letter detailing my grievance. In return, Citibank imposed a late fee and interest charges on the card, and threatened with reporting delinquency on an otherwise pristine credit report. \nTimeline : 1. XX/XX/2025 : Received fraud alert from Citibank on a declined charge on card XXXX ( later replaced by card XXXX.. \n2. Same day : Confirmed with Citibank that the charge was fraudulent. \n3.Citibank later approved two additional charges : {$1300.00} ( car rental ) and {$80.00} ( gas ). \n4. The car rental was made in someone elses name, requiring a drivers licenseclear evidence of identity theft.\n\n5.Both charges were reported and disputed immediately.\n\n6.The {$1300.00} charge was only eventually marked as disputed after multiple calls ; the {$80.00} charge was never addressed despite multiple promises to do so.\n\n7. Citibank failed to properly investigate or respond to the fraud. \nXXXX. XX/XX/2025 : delivered a formal dispute letter via Priority Mail with trackingno response received as of now."
+}

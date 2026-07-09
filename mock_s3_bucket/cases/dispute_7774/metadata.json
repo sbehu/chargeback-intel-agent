@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7774",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "91331"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 593,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I lost my Home Depot credit card and someone made a few transactions and Home Depot is refusing to approve my fraud claim this is not fair I already submitted a police report I have a lot of hardship and can not for something that was not my fault."
+}

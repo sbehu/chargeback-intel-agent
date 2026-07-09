@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6966",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44106"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42805,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a charge with American Express for a hotel stay booked through XXXX. The stay was significantly substandard, and the hotel acknowledged the issue and issued a refund to XXXX directly. However, XXXX refused to pass the refund on to me, citing that the booking was \" non-refundable, '' even though the hotel overrode that by issuing a full refund. \n\nI submitted two disputes to Amex : one under product/service not as described and another under quality of goods/services not provided. Both were denied. In both disputes, I provided an email chain from the hotel explicitly stating that a refund was processed to XXXX. \n\nAmex 's response was that they must uphold the merchants refund policies. However, the refund was approved and issued by the hotel, and the merchant ( XXXX ) is retaining the refunded amount. This is a clear case of unjust enrichment and contradicts fair billing practices under the Fair Credit Billing Act. \n\nI have all documentation : The hotels email confirming the refund A timeline of my contacts with XXXX Amexs denial response stating I never contacted the merchant, which is factually incorrect Amex is refusing to process a chargeback on funds that were refunded to the merchant and never delivered to me. I am requesting the CFPBs help in ensuring that this billing error is corrected and that the refund I am rightfully owed is returned."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5823",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27410"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7130,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "ATTENTION : This is an ADDENDUM to COMPLAINT XXXX. This is XXXX XXXX!!! BELOW SENT TO Barclays XXXX XXXX Aviator Advantage Card XXXX on XX/XX/year> in re Case XXXX Credit Required XXXX- As we discussed yesterday, these XXXX documents ( attached below ) should have closed this case back in XXXX. One shows the items ordered with the salient XXXX XXXX of XXXX and the salient price of {$240.00}. The other document shows the same order number and clearly states You dont need to mail back your return. Well issue your refund. As Ive said repeatedly, the case should have been closed back then and a permanent credit issued for {$240.00} Please see that it is finally done today. Thank you. I want to state here that credit card are supposed to protect their customers from unscrupulous merchants!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11355",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "329XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37418,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I haven't done business with Barclay 's Bank in years. I previously had a Priceline card with them. I recently started receiving text messages about making a payment, but I didn't think anything of it because I haven't used their card. I noticed my XXXX score went down XXXX points because they reported me, and logged into my Barclay 's account and noticed I had a Jetblue card that I never signed up for and they charged me an annual fee of {$99.00}. I informed them of this, they said because I did not contact them within XXXX days of the annual fee being charged they refuse to waive it. I told them on XX/XX/year> that I never signed up for the card, all they did was cancel my account and still claim I owe them {$99.00}. I am not paying the {$99.00} for a card that I never signed up for as I did not sign up for it. I would not sign up for a card with an annual fee. The fact that they are damaging my credit after I already explained this to them is unsettling."
+}

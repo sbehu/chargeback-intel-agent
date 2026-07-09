@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7688",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3820"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38149,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB, I am filing a complaint against my credit card issuer, Barclays, for wrongfully denying a billing dispute in the amount of {$170.00} related to a transaction with the merchant XXXX. Despite providing clear documentation, the credit card company closed the dispute in favor of the merchant without proper consideration. Details of the billing dispute : I purchased an item from a seller on XXXX that was described as authentic. Upon receipt, I discovered the item was counterfeit and misrepresented. I immediately contacted the seller to request a return and refund. Despite multiple attempts to resolve the issue, the merchant refused to provide a return shipping label and insisted I keep the counterfeit item while promising to send a replacement, which I did not agree to. I escalated the matter to my credit card company, filing a dispute under Case ID XXXX. I explained the item was counterfeit and the seller refused to cooperate. However, my credit card company closed the dispute without refunding my money, despite clear evidence of fraud and misrepresentation."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11658",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95747"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23686,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged {$11000.00} by a merchant identified as XXXX XXXX ( processed as XXXX XXXX  Payment, a XXXX XXXX-based payment processor ). This charge resulted from a high-pressure timeshare sales presentation in XXXX in which the product was materially misrepresented. \n\nDuring a multi-hour sales presentation, I was repeatedly told that the purchase included a guaranteed resale/income program, where unused weeks would be resold by the company and I would receive guaranteed payments within approximately 12 months. These representations were emphasized multiple times and were the primary reason I agreed to the purchase. \n\nAfter the transaction, I reviewed the actual contract and discovered that it directly contradicts the sales presentation, explicitly stating that there are no guarantees of resale or income. \n\nAdditionally : The supposed resale program was not handled by the seller but by a third-party company ( XXXX  ) with no obligation to perform. \nThe guaranteed payments discussed during the sales process do not exist in the written agreement. \nNumerous other consumers report the same misrepresentation pattern. \n\nI immediately disputed the charge with American Express under the Fair Credit Billing Act, citing fraudulent misrepresentation and inducement. \n\nKey details : Transaction date : XX/XX/year> Amount : {$11000.00} Merchant : XXXX XXXX / XXXX XXXX XXXX American Express XXXX XXXX : XXXX Despite submitting extensive documentation and reopening the dispute three separate times, American Express denied my claim each time without properly addressing the core issue of fraudulent inducement. \n\nTheir responses focused only on the written contract terms, while ignoring the fact that the transaction was entered into based on false verbal representations that directly contradict the contract, which is a recognized form of fraud. \n\nFurther, recent U.S. government findings have identified this same timeshare operation ( XXXX XXXX ) as part of a XXXX fraud scheme targeting U.S. consumers XXXX reinforcing that this was not a legitimate transaction. https : XXXX American Express has failed to : Conduct a reasonable investigation into the fraud claim Consider evidence of misrepresentation and deceptive sales practices Provide the consumer protections expected under the Fair Credit Billing Act As a result, I remain financially responsible for a charge that was obtained through deceptive and fraudulent means."
+}

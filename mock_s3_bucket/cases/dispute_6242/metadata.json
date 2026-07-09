@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6242",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4437,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/scrub> 2025, I received an email from XXXX in the XXXX XXXX XXXX XXXX at Barclays claiming the merchant contacted me on XX/XX/XXXX and XX/XX/XXXX, but I have confirmed with my phone provider that no such calls occurred. Barclays has not provided any proof of these calls. I also submitted evidence via mail, including emails showing I reached out to the merchant on XX/XX/year>2025, to return the item. The merchant never responded. Despite this, Barclays still claims I didnt try to resolve the issue, which shows they did not properly review the documents I sent. The merchant does not allow return unless you cintact them and get a label from them. The merchant seems to be only be able to reach out to my bank but not me which I find to be suspicious. Furthermore, a letter dated XX/XX/scrub> 2025, was not received until XX/XX/XXXX, yet it stated I had 10 days from the letter date to respond. Another issue is that XXXX XX/XX/XXXX email had the wrong address listed, even though Barclays previously used the correct one. I believe Barclays is acting in bad faith by ignoring evidence, making false claims, and being inconsistent with communication. I am requesting a full review and resolution of this matter. Documents were previously mailed and are attached again here for reference."
+}

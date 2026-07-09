@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6177",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PR",
+    "complaint_zip": "009XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5344,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Since XX/XX/year> Ive disputed erroneous charges made by XXXX for flight made by me using its website. XXXX reimbursed several of mistaken bookings due to website fault not mine. As of this XXXX & XX/XX/year> Citi had not been able to contact XXXX. Finally XXXX sent its evidence supporting their claim which consisted of {$3400.00} & {$4900.00} for XXXX tickets. In XXXX web XXXX XXXX, I appeared as having XXXX booking XXXX & in the same, it showed XXXX tickets issued to my name, round trip, same flight, same day same hour. After several attempts to make corrections by me which were impossible and agent XXXX from XXXX reservation center in XXXX  tried to fix it and instructed me not to do any further attempts. That was on XX/XX/year>. That morning XXXX called from XXXX headquarters ( XXXX XXXX ) & she made the exchange of XXXX ticket for the other since no agent in XXXX could do bc Serious faults in its site. Ticket # XXXX for $ XXXXwas exchanged for ticket # XXXX for {$4900.00}. In both instances the proof submitted by XXXX shows the exchange & since I decided to go business & not coach, the fare changed from XXXX to XXXX. In the exchanged ticket the fare I chose was economy flex & economy confort & both fares allow for changes without extra charge. And in the first exchanged ticket no fare shows. XXXX other evidence shows the change in fare for XXXX, XXXX. Which after seeing their evidence for this amount I agreed to pay. But the XXXX was refused reimburse. Citi card decided to end the disputes & my account shows both fares. I will not accept charges for tickets that were not bought. I was never invoiced for the exchanges & the upgrade. Apparently Citi gave up & as of today I received letter from Citi informing that They had come to the conclusion that they were unable to assist me since the service for which my account was billed were provided & that I had to contact XXXX. Citi closed the investigation with this letter & Citi also informed that I would be referred to the Cosumer reporting agencies, even though my account was in good standing. Contacting XXXX is impossible. I need to have the charge for XXXX to be eliminated from my account bc it doe not proceed. I will pay the XXXX but not the other charge for XXXX. XXXX evidence supports my allegations"
+}

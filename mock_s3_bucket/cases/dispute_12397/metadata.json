@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12397",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WV",
+    "complaint_zip": "254XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28613,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a formal complaint against Barclays for prematurely closing my billing dispute ( Case ID : XXXX ) regarding a {$940.00} charge from merchant XXXX XXXX ( p. XXXX ). Barclays closed the case because I failed to respond to a XXXX merchant rebuttal notice. However, due to an incorrect billing address on file, I never received this physical letter. \n\nI possess conclusive proof of a fully completed return that customer service refuses to accept or manually review. The merchant provided a void return label ( XXXX XXXX # XXXX ) ( p. XXXX ). I attempted a return on XX/XX/year>, which was returned to me due to an address error by the merchant ( pp. XXXX, XXXX ). After sending unacknowledged emails to verify the address, I shipped the package again on XX/XX/year>, via XXXX Tracking # XXXX ( pp. XXXX, XXXX ). This return package was successfully delivered directly to the merchant 's location in XXXX, VT, on XX/XX/year> ( pp. XXXX, XXXX ). \n\nThe merchant has been in possession of the returned merchandise since XX/XX/year>, but has ignored multiple refund inquiries ( p. XXXX ). Because I successfully returned the items, Barclays ' refusal to reopen this dispute and evaluate my tracking evidence violates my consumer rights under the Fair Credit Billing Act ( FCBA ). I request that Barclays escalate this file to an executive analyst to manually process my credit."
+}

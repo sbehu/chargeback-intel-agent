@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1691",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12596,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding dispute XXXX. It had an estimated resolution date of several weeks ago, and then it changed to today XX/XX/2024 yet it still has not resolved. I even submitted emails from the merchant where they acknowledge my items were lost and I am owed a refund, and I submitted XXXX tracking which stated that merchandise was missing from the packages the merchant sent me. I am still owed my money on this transaction and the chargeback remaining pending forever is insulting to my third party impartial XXXX evidence and the merchant 's own admission. I can only think that American Express is discriminating against me because I am XXXX and XXXX is a XXXX XXXX american comapny."
+}

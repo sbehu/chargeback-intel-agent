@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-41675576-US
+Shipment Date:   2026-03-09T00:00:00Z
+Delivery Date:   2026-03-13T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     1251 PINE WAY, CA, 94043
+============================================================

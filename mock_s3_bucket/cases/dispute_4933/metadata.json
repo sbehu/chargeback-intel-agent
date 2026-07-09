@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4933",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "GA",
+    "complaint_zip": "30022"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49431,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to lodge a formal complaint against American Express concerning their handling of a dispute with an overseas merchant who has engaged in deceptive practices. I made a booking with an XXXX company that explicitly advertised a \" 100 % refund on cancellations made before the specified deadline. '' After making the payment, when I contacted the hotel directly to confirm they had no record of my booking at all. This necessitated my having to cancel through the agency 's website I attempted to cancel the booking within the allowed timeframe and provided evidence of the cancellation to American Express. Despite submitting required documentation within the deadline, the American Express investigation team closed my case twice without any explanation. After the case was closed, I contacted customer service, which acknowledged my situation but informed me that even if I reopened the case, the investigators would not reconsider their decision. Furthermore, I was told there is no higher authority within American Express to escalate the matter, leaving me without any recourse. This experience is especially disappointing considering the annual fee of {$700.00} that I pay for my American Express XXXX XXXX, which is supposed to ensure superior service and protection against such fraudulent activities. The lack of accountability and unwillingness of the investigators to review their decision or to be held accountable is alarming and unacceptable. \nI am requesting that this issue be reviewed and that appropriate actions be taken against American Express for their failure to adequately handle my dispute. I believe that American Express has not only failed in their duty to protect my consumer rights but has also shown a lack of commitment to their service promises."
+}

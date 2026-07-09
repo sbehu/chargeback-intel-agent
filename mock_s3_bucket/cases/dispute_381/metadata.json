@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_381",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "KY",
+    "complaint_zip": "40220"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22359,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I went into the local Brooks Bros. store and learned they no longer stock the mens dress shirt I have bought from them for 40 years. XXXX XXXX the store manager told me he could sell me a custom shirt and when it came in if I did not like it or it did not fit I would not have to take. That day I charged the shirt and a tie on my Citibank , N.A . Brooks Bros. credit card. I left with the necktie. \n\nXXXX from the store called me to tell me the shirt had arrived. I went by the store and XXXX helped me try it on. XXXX was not there. The shirt does not fit it is too tight in the body. I left the shirt with XXXX. I asked XXXX to credit my account and produced my Brooks Brothers credit card. XXXX said he could not do the credit, XXXX would have to do it and he would make sure the credit happened. He said he would have XXXX call me. XXXX never called me. \n\nWhen my Brooks Bros. bill came in the charge for the shirt was on it. I called and got XXXX on the phone and he said he would talk to XXXX. I asked him to have XXXX call me. XXXX said he would and assured me the credit would appear on my account. I followed up the call with an email. XXXX would not respond to me. I also sent a notice of billing errors in writing to the address the top of my account statement. \n\nCiti continued to bill me. I called Brooks Bros. Customer Service on XX/XX/XXXX and spoke to XXXX. I followed up with an email to XXXX. XXXX wrote me back and said I spoke to XXXX at the store. He agreed with what we had spoken about and XXXX will credit you for the cost of the shirt via POS at the store. They apologize for the lack of communication as well. XXXX will be back in on Saturday and will take care of the refund then. \n\nCitibank N.A. has continued to bill me and every month it adds late fees and interest. On XX/XX/XXXX Citi Retail Services wrote me about my XXXX account with a determination that the charge was authorized. Obviously that letter made no sense because XXXX is not involved in this matter. \n\nOn XX/XX/XXXX Brooks Bros. wrote and thanked me for being a valued Brooks Bros. cardholder and said in order to receive the credit I need to contact the store manager for further processing. Regrettably the store manager will not respond me. Yet Citi keeps sending me monthly statements with a new {$40.00} late fee and interest charges every month. \n\nI have continued to write Citibank N.A. monthly protesting the charges and asking them to cease and desist these unfair billings. I have copies of my monthly requests to cease and desist. \n\nIm requesting this agencys assistance to require Citibank N.A. to stop this fraudulent billing practice and mandate Citibank N.A. credit my account all charges and reflect a XXXX balance without any adverse credit agency reporting."
+}

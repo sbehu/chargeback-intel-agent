@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9556",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48423"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20619,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened up a credit card with Citi Bank. I used the card one time for a purchase of {$250.00} at my XXXX  office. I only used the card one time. Once I received the statement balance, the balance showed approx. {$430.00} in additional purchases that I did not authorize. I've disputed this with Citi Bank 3 times and they refuse to remove the charges."
+}

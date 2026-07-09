@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_477",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "816XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3352,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had to close this account. First Citibank  said they were sending me a new card after fraud and putting hold on my Credit Card number, they never did. And Second, they are still not honoring this dispute : Some company called : XXXX XXXX about {$190.00}"
+}

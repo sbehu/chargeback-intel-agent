@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12598",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90007"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28550,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding Citibanks handling of my billing dispute for an XXXX transaction in the amount of {$11000.00}. \n\nMerchant : XXXX XXXX XXXX Unique Photo Transaction date : XX/XX/XXXX Dispute date : XX/XX/XXXX Citibank dispute case ID : XXXX I disputed this transaction as returned goods after timely following the return process. \n\nI returned the package/item I received in good faith using the merchants return authorization. After the return, the merchant took conflicting positions regarding what was allegedly shipped and what was allegedly returned. I disputed the charge with Citibank and provided supporting documentation. \n\nThe documentation I provided included written communications from the merchant regarding the return and refund, confirmation related to the returned item/package, and additional supporting evidence submitted after the dispute was opened. \n\nCitibank initially issued conditional credit. The dispute was later reopened on XX/XX/XXXX. Citibank contacted the merchant and received a merchant response. I also provided additional documentation and requested that Citibank review the evidence. \n\nDespite this, Citibank denied my dispute. \n\nCitibanks written CFPB response states that they sent the charge back to the merchants bank, the merchant denied the request for credit, and Citibank therefore declined to issue credit.\n\nThis is not a reasonable investigation.\n\nCitibank did not meaningfully address the documents I submitted and did not explain why the evidence was disregarded. Instead, Citibank relied on the merchants statements and refused to provide relief.\n\nAs a cardholder, I relied on Citibank to conduct a fair billing dispute investigation under the Fair Credit Billing Act. I provided documentation supporting my dispute, yet Citibank denied the claim and left me responsible for {$11000.00}. \n\nI respectfully request that Citibank : 1. Reopen dispute case XXXX ; 2. Conduct a reasonable review of all documentation already submitted ; 3. Provide a written explanation addressing the evidence I provided and explaining why it was disregarded ; and 4. Issue billing credit of {$11000.00} if the merchant can not substantiate its position through a reasonable investigation.\n\nI am asking the CFPB to review Citibanks dispute handling and failure to reasonably investigate this billing dispute."
+}

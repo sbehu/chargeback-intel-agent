@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9971",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "GA",
+    "complaint_zip": "30033"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8154,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Citibank , N.A . : Case ID : XXXX What happened ( briefly ) : I used my Citi Visa credit card to purchase merchandise from a merchant. I did not transact with XXXX, do not have a XXXX account relationship relevant to this transaction, and did not agree to any XXXX terms. Citi Visa was the card issuer and my sole payment relationship. \nI returned the merchandise and have proof of delivery showing the merchant received the return. Despite this, the merchant has refused to issue a refund, stating that its XXXX funds are frozen and conditioning the refund on my canceling the credit card dispute. \nI filed a billing dispute with Citi and provided documentation, including proof of return and proof of merchant receipt. Citi either denied or closed the dispute and stated the review was conducted by an external third party, without addressing the evidence provided or the merchants refusal to refund. \n\nWhy this is a problem : A merchants payment processor issues ( including XXXX fund freezes ) are not the cardholders responsibility. \nThe merchants request that I cancel the dispute in order to receive a refund is improper and coercive. \nCiti failed to conduct a reasonable investigation as required under Regulation Z ( 12 CFR 1026.13 ) by not properly evaluating my evidence of return and merchant non-refund. \n\nCiti improperly relied on a third party instead of fulfilling its independent obligations as the card issuer. \n\nI was not provided with a clear, substantive written explanation addressing my documentation. \n\nWhat I want resolved : Immediate reinstatement and proper review of my billing dispute Permanent credit of the disputed amount to my account Written explanation of Citis dispute handling procedures and why my documented evidence was previously disregarded"
+}

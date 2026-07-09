@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2978",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "52302"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21595,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I went to Best Buy to purchase a dishwasher and was told by the salesperson that I could open a CitiBank credit card and save some money, so I did. After talking to my daughter, the next day XX/XX/XXXX, I decided to cancel the order and so I called Best Buy and was told the order and the credit application was cancelled. \nIn May, I received a bill from Citibank to {$59.00} annual fee. I called Citibank and was told the application was cancelled and they would removed the fee. \nThen, last Thursday, XX/XX/XXXX, I received another bill from Citibank for {$59.00} fee and {$30.00} late fee! \nI called Citibank today, with the help of my adult daughter, explained what we were told and after XXXX minutes and XXXX transfers we were transferred to a manager that told us we would have to call Best Buy to clear this up. \nI called the manager at Best Buy who said I would need to reach out to Citibank yet again as the charges are from Citibank."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4588",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27290,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX is order # Macy 's charged me the higher amount and wouldn't credit the price reduction and short shipped an item Please help"
+}

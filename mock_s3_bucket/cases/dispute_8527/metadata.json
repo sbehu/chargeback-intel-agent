@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8527",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32507"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11587,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Sir or Madam, Product : Disputed credit card charges Sub-product : Disputed credit card charges Issue : issues paying disputed credit card charges Sub issue : hardship repaying disputed credit card charges Consumer complaint narrative : I am writing to you due to fraudulent charges on a XXXX Barclays credit card. \nI am a senior citizen who has been taken advantage of. I was involved in a presentation with XXXX corporation in XX/XX/year>. \nAfter an extensive, unusually long, extremely high pressure sales process for a vacation package, I was offered a Barclays credit card to use for anything I wanted to purchase in order to offset the cost of the maintenance fees associated with the vacation package. I was told that by using this credit card as much as I could, would gather enough points every month to cover the maintenance fees for this timeshare vacation package. \nI did not realize that I was being charged over {$13000.00} on this credit card for, what I recently discovered, was a down payment for said vacation package. I obviously did NOT understand what was taking place or I would not have agreed to this! \nAfter discovering this, I certainly can not use this card for any other purchases to offset maintenance fees. \nIn good faith, I have attempted to keep up payments on this card, but it has proven to be a hardship and I can no longer make the payments. My husband and I are both retired, living on social security and are raising XXXX grandchildren. It has come down to either paying our regular bills and buying food or continuing to pay this credit card. \nI have contacted Barclays in writing and am waiting to hear back from them. \nI would like to report XXXX for Elder Abuse. They were deceitful and unethical. I am hoping that you will help to remove these charges and cancel this card as I can not keep up with the payments and really did not want another credit card! \n\nThank you for your time, consideration and understanding."
+}

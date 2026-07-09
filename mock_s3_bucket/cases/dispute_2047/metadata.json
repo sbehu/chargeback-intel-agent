@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2047",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55406"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17609,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We were scammed by a very sophisticated company disguising themselves both as XXXX and American Express. They put fraudulent charges on my American Express credit card from XXXX XXXX through XX/XX/XXXX. We notified American Express on XXXX XXXX as soon as we realized there were fraudulent charges. AMEX opened an investigation and assured us not to worry, we shouldn't be liable for the charges. My wife called about once a week after that as the charges were not removed, and they told us it was being investigated, not to worry, it would take XXXX days to complete an investigation. \n\nFinally I received an email from American Express on XX/XX/XXXX that said we are liable for the charges. I called American Express, and they said that they could not remove the charges because I had given my credit card number to the scammers."
+}

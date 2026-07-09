@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13650",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "811XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32997,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My identity was taken over by an unauthorized user on XXXX XXXX. I was in XXXX XXXX on vacation at the time. The unauthorized user done a XXXX swap on my phone and hacked my banking. Credit cards, email and. Cell phone. I froze my credit with credit bureau and notify my card companies of fraud and identity take over I filed a claim with identity theft. Barleys bank is the only company that is disputing my identity take over and will not accept the charges on my account on XX/XX/XXXX a total of XXXX in total. I did not make these charges and will not be responsible to pay for charges that I didnt make. I want them to investigate the charges and see there is no way it was me. I can prove I was out of the country by airline tickets and passport stamps. Hotel reservations. I want Barklys bank to retract these fraudulent charges"
+}

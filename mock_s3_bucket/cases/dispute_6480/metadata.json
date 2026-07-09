@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6480",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80026"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9859,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX fraudulent charges were made on my XXXX card at XXXX am XX/XX/year>. XXXX of the charges triggered CitiBank 's fraud algorithm. They texted me at XXXX am to ask me to approve ( \" XXXX '' ) or deny ( \" XXXX '' ) the charge attempt. Because I was asleep and did not see the text, Citibank chose to approve all three charges without my input. The charges were not for reasonable middle-of-the-night purchases such as payment for a XXXX vehicle to be towed or payment for an emergency room visit. The charges were for concert tickets at XXXX different venues in XXXX different cities across the XXXX. After CitiBank 's investigation, they found all three charges to be fraudulent. But now they have reversed their decision and believe XXXX of them was legitimate and are charging me for it. The information they used to make that decision comes from a chargeback appeal by XXXX XXXX in XXXX, VA. They provided computer screenshots of the ticket purchase from their software company XXXX. They claim the screenshots provide proof that I made the purchase. XXXX of the most important purchase order screenshots were substituted with \" Sample Screenshots '' rather than actual screenshots. XXXX and XXXX also failed to provide the XXXX XXXX  used in the fraudulently online purchase. They also failed to disclose that within minutes of the purchase, with no evidence that I took possession of the tickets, the tickets were transferred from an unknown email address to yet another unknown email address. The same emails were used to transfer tickets purchased at another venue ( The XXXX XXXX, XXXX, CO )."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3607",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32952"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46479,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This was for a cab fare in XXXX XXXX. I was not given a receipt. The driver told me the card declined but obviously it was charged {$240.00}. He then demanded {$100.00} U.S. cash which I had to give him to get my luggage out of his cab. It should have been a {$10.00} U.S. fare total. I do not have documents. This vendor needs to be flagged as well. They are thieves! I was leaving the country so they had an easy target. I refuse to pay this charge. It can stay on my account until I close my account. I totally dispute this charge. Please go after this vendor!"
+}

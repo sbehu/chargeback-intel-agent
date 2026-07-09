@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5757",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NC",
+    "complaint_zip": "27410"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43552,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Formal Complaint : Unresolved Credit Card Dispute - Case XXXX - Barclays XXXX XXXX Aviator Advantage Card I am writing to file a formal complaint regarding an unresolved credit card dispute with Barclays Bank, specifically concerning my XXXX XXXX Aviator Advantage card, case number XXXX. \n\nOn XXXX the XXXXXXXX XXXX, I made a purchase from merchant XXXX XXXX in the amount of {$240.00}. I subsequently returned the merchandise on XXXX the XXXX. I have the XXXX XXXX of XXXX to the merchant. \n\nDespite returning the merchandise, I have not received a credit to my credit card account. Therefore, I filed a dispute with the credit card issuer Barclays in early XXXX. \n\nSince then, Barclays has repeatedly requested the same information, specifically proof of delivery and the dates of the order and return. I have provided this information to them on XXXX separate occasions! Barclays has acknowledged receipt of this information. \n\nIn a letter dated XXXX the XXXX, Barclays stated that providing proof of delivery and the dates of the order and return would result in a ruling in my favor. I promptly resubmitted the requested information, and Barclays acknowledged receipt. However, they continue to deny my dispute without providing a valid reason. \n\nI am happy to provide any additional information you may require. \n\nI believe Barclays is acting in bad faith by repeatedly requesting information already provided and then failing to honor their stated criteria for resolving the dispute. I am seeking your assistance in compelling Barclays to properly resolve this matter by issuing a full credit to my account. \n\nThank you for your time and attention to this urgent matter. I look forward to your prompt response and assistance."
+}

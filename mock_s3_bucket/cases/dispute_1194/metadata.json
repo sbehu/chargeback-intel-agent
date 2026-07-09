@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1194",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34609"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10785,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX we placed a large order online for multiple bathroom furnishings. Included with this was a vanity that was shipped via XXXX. The vanity arrived damaged, so we refused delivery. We did not receive any documentation from XXXX about the refusal, however, this is indicated by the entry on the tracking sheet where it clearly states Refused Damaged on delivery. Per the XXXX manifest, the location is listed because this is the location of the nearest shipping hub. On a similar date, the manifest shows it was delivered but it was not delivered to us because, again, we refused delivery because the item was damaged. Upon speaking with XXXX, they stated when this occurs, it is delivered to the local store. XXXX also stated that when this happens, a new tracking number is created and the shipment signs for itself. \n\nTo further confuse matters, we re-ordered the same vanity a few weeks later. This was not damaged and we accepted shipment. This vanity is currently in our bathroom and in fine working order. \n\nIn the process of this, I spoke with XXXX XXXX Customer Service about the return. I was assured that once XXXX XXXX received the item back, we would be given a refund, but the process would take some time. The XXXX XXXX Customer Service Rep also spoke with XXXX XXXX XXXX, explained the situation, and wrote a letter so we would receive the new vanity under the same promotional rate as the damaged vanity. Ultimately, we did not receive the refund for the damaged vanity. \n\nI spoke with XXXX XXXX XXXX XXXX again in XXXX. I spoke with the call center again. The rep made updated to the comments but advised I could not speak with anyone in the disputes area directly. At that point I also reached out to the XXXX  shipping hub in XXXX and received the information explained in the first paragraph."
+}

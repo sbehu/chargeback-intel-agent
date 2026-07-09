@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12038",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6820"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3880,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding American Expresss failure to properly investigate and resolve a billing dispute. \n\nI was charged $ XXXX by XXXXXXXX XXXX  for airline tickets that were never provided. The booking agency canceled the itinerary without notifying me. I only discovered the cancellation when I attempted to check in with XXXX, and I have provided screenshots confirming that the reservation had been canceled by the booking agency. \n\nDespite submitting this documentation multiple times, American Express has refused to reverse the charge, claiming insufficient evidence, without clearly explaining why the evidence provided is inadequate. \n\nAdditionally, the merchant is now attempting to re-bill me for the same charge, further confirming that the transaction remains disputed and unresolved. \n\nAmerican Express has also failed to follow through on promised updates and has allowed this matter to remain unresolved for an extended period. \n\nFurthermore, I have now been contacted by American Express and advised that my account is past due and at risk of negative credit bureau reporting due to this disputed charge. This is improper, as the charge has been under active dispute and supported by documentation demonstrating that services were not rendered. \n\nI am requesting immediate reversal of the disputed charge and confirmation that no negative credit reporting has occurred or will occur in connection with this matter."
+}

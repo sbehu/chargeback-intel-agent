@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8442",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85142"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49822,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "THIS IS AN UNRESOLVED MATTER. \n\nI sent a written letter to Citibank several months after fraudulent activity occurred on my Thank You Preferred credit card account after attempting to resolve this matter via phone and email. Citibank abruptly closed all my accounts without notifying me and leaving me no access. Despite seeking answers with Citibank online and via phone support, no one was able to inform me of why this was occurring. I proceeded to close all my other Citibank accounts ( investments, etc. ) once I was informed by Citibank personnel that fraudulent activity had occurred in my accounts, so that no other fraud could occur. I placed over forty ( 40 ) calls to Citibank to gather further understanding and rectify my accounts, yet was only switched from department to department. In XX/XX/XXXX a manager named XXXX in XXXX, Arizona, reviewed my Quarter XXXX XXXX Thank You Preferred credit card with me for c. two ( 2 ) hours over the phone. This manager instructed me to \" do nothing '' and \" wait for my new card to arrive, '' and that \" Citibank will take care of these fraudulent charges, and all late fees and interest charges. '' Since calls are recorded, I am certain you'll be able to trace this conversation to verify the information. It is now the beginning of Quarter XXXX, XXXX yet I've still not received my new card, nor have I heard from either a Citibank manager or supervisor, but the card continues to accumulate late fees and interest charges. I have not been reimbursed for the fraudulent charges or the late fees or interest charges. If I were to bill Citibank for my time, the hours I've spent on this matter would amount to an invoice of over {$3000.00}. Additionally and importantly, my credit score has consistently been over XXXX for XXXX years, yet since this fraudulent event, my credit score continues to plummet -- having decreased over XXXX points to date. NEVER ever has this occurred to me. I had been with Citibank for well over a decade, with credit cards, savings and checking accounts, money market accounts, CDs, and Wealth Management accounts. I have referred family and friends to Citibank. To express that this has been frustrating and unnerving would be an understatement. Not only does all of this reflect poorly on Citibank and Citi 's lack of professionalism, but also it destroys my trust with an institution that I had once built a solid relationship with. I filed with the Consumer Financial Protection Bureau and the Office of the Comptroller of the Currency. I anticipate that in the next three weeks, Citibank will return my money promptly, rectify my credit scores to over XXXX with XXXX XXXX XXXX XXXX, and will send me verification in writing that I have been made whole. \nRespectfully, XXXX XXXX XXXX ( XXXX ) XXXX"
+}

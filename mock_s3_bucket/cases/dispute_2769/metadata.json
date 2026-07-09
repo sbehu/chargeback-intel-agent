@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2769",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20016"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12273,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Reported fraudulent charges on my Barclays Aviator Advantage card. Barclays credited back the charges, but one of the merchants also credited back to the card. Now Barclays is charging me for their mistake. Put a debit of {$120.00} to make up for the double credits. That {$120.00} is now showing as my monthly payment. When I told them I am not paying for their mistake, they said they will charge interest and late fees. Ive spoken to them twice over the last few days. I didnt make any charges of {$120.00} and do not owe them that money. They are crooks."
+}

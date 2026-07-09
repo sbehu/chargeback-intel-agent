@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6891",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60544"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3330,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I was pressured into signing up for a {$1000.00} program with a company called XXXX XXXX on the same day we spoke. I was told the full program cost {$5000.00}, but I was only asked to pay {$1000.00} upfront. At the time, I didnt fully understand what I was committing to, and I now realize I wasnt ready to take on that kind of investment. I didnt feel I had enough time or clarity to make an informed decision before being pushed to sign up. \n\nAfter I paid, the only access I was given was to their Discord server, but I had no idea where to find the actual training or how to get started. I messaged them asking for help, but I didnt get a clear response until the next day. During that time, I felt confused, unsupported, and panicked. \n( See attached screenshots : XXXX and XXXX ) Before the charge even posted to my account, I called American Express to ask if I could file a dispute I was told I could once the transaction posted. I then reached out to the merchant and explained directly that I wanted to step back and cancel. I emphasized that it wasnt personal, I just didnt feel ready to move forward and didnt want to waste anyones time. \n( See : XXXX ) They did not issue a refund when I asked to step back. Instead, they simply sent me their support email address without directly offering to resolve the situation. Later, they falsely claimed I had already submitted a dispute at that point which is not true. I only contacted Amex to ask about the process and had not filed anything yet. I reached out to the merchant first in good faith. \n\nAfter the charge posted and I still had not received meaningful value or clear onboarding, I filed a formal dispute with Amex. I have text message evidence of : Me asking how to access the course and being confused for hours Me expressing discomfort and clearly stating I wanted to cancel The merchant later sending threatening messages, accusing me of fraud, and referencing the remaining {$4000.00} I had not yet paid ( See : XXXX ) Although I was only charged {$1000.00}, the merchant referenced the full {$5000.00} total in their threats. After seeing the tone of their messages and feeling pressured and intimidated, I became extremely uncomfortable and asked Amex to block the merchant from charging me further. This was done only after their hostile communication and lack of support. \n\nAmex later reversed the credit in the merchants favor, but I was never allowed to submit this documentation or explain the situation. I was told the decision was final. \n\nI am requesting that American Express re-review this case now that I have the full documentation ready. I believe the original decision did not take into account all of the facts, and I acted in good faith throughout this process."
+}

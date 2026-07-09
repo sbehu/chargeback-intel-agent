@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13356",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "295XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6629,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I booked a XXXX stay at XXXX XXXX XXXX XXXX through XXXX for {$6100.00}, plus {$750.00} for breakfast. The hotel was advertised as a XXXX luxury property. \n\nUpon arrival, we experienced serious issues : a male spa attendant was assigned to wash my wife and elderly mother while undressed without consent ; the spa pool had no lifeguard ( a XXXX law violation ) ; the hot tub was dirty with bugs ; pools were unheated in XXXX ; room phones, lamps, and doors were broken ; and service was severely understaffed throughout. \n\nOn XX/XX/year>, I raised these concerns with hotel management. After waiting over XXXX hours, a XXXX told me \" we don't really have a problem '' and refused a refund, citing a non-refundable policy. I checked out that day and relocated to the XXXX at my own expense. \n\nOn XX/XX/year>, XXXX emailed me confirming : \" The property has informed us that they have already completed the refund process for XXXX nights directly with you. '' I never received this refund. \n\nI filed a dispute with Citi in XX/XX/year> ( Case ID XXXX ). Citi initially ruled against me, claiming they never received supplemental documentationbut they never sent me a request for it. I then submitted all documentation including invoices, the XXXX email confirming the hotel admitted they owed me a refund, and emails to the hotel and XXXX corporate. \n\nSince XXXX, I have called Citi multiple times. Each time I am told \" XXXX business days. '' It is now XX/XX/XXXX, XXXX XXXX  XXXX  I still have no resolution. I have submitted everything requested, the hotel admitted in writing they owe me a refund, and Citi has failed to resolve this dispute."
+}

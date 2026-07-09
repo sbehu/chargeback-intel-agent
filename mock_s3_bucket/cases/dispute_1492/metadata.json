@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1492",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91311"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19988,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a Product online, in the delivery instructions I put \" I have a gated property call me to open the gate do not leave on street. Those instructions were not followed and they left the product on a busy main street and the product was stolen. Ive filled a police report and sent it to them but they are not removing the charge from my account. It was {$1900.00} basketball court that was just left on the busy street side walk outside of my property line and gate and I was never notified that the item was delivered."
+}

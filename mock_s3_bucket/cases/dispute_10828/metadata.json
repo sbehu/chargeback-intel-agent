@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10828",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "105XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25394,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card was used fraudulently. Ive asked for any information about vendor XXXX  any information they used XXXX  find me responsible for this charge. I sent them a copy from the other bank that let the charge go through that found the charge fraudulent. Also made them aware of XXXX more cards that were tried at the same vendor at the same time for the same amount charged that the cards declined. In total all XXXX of the cards I carry daily were compromised. Ive been in contact with all XXXX banks since the date of charge. Citi is the only XXXX  who claims there is no way this card could have been copied or scanned or whatever it is that criminals do XXXX  rob credit card info. Citi bank has givin me no information on the vendor. I told them that under the fair credit act they had XXXX  give me this information XXXX  they keep sending the same responses. The cards declined was used in person so it had XXXX be me. Therefore I have been committing federal XXXX  state XXXX  by falsifying police reports and fraud accusations. I did not make these charges nor did I give anyone permission XXXX  use my card. I dont know how it happened but it happened. Citi bank sent me a fraud alert the morning of the charge. I told them I did not recognize the charge XXXX  they still let it go through XXXX  now they are leaving me with the bill"
+}

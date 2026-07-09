@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2381",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94587"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 945,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2024 Today I called Best Buy regarding unauthorized charge on my Best Buy Credit Card in the amount of {$170.00}. Representative said that only {$130.00} can be refunded to the card. I told the rep that the charge is unauthorized."
+}

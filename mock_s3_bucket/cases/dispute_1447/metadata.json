@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1447",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92078"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10687,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I received a telephone call from a representative of Best Buy XXXX, asking if I had made several large purchases, including airline tickets on XXXX and XXXX XXXX. I said \" no '' and asked that those charges be cancelled and my account closed. \n\nThe representative assured me that would happen and I did soon receive a new XXXX card in the mail. ( I never lost the original card. It was in my possession the entire time these fraudulent charges were made. ) When I checked my account a couple of weeks later, the charges were still there. I telephoned Best Buy Credit Services and sent an online letter via their website, protesting the charges and asking that they be removed. \n\nOn XX/XX/XXXX, I received a physical letter in the mail ( dated XX/XX/XXXX ), denying my request and \" proving '' that I authorized the charges. Photocopies showed someone used a fictional name that was similar to mine, along with my home address and telephone number to purchase airline tickets. Passengers named \" XXXX XXXX '' and \" XXXX XXXX '' boarded the plane. \n\nI emailed immediately, pointing to ID theft and asking that the fraudulent charges be removed. I also telephoned Best Buy Credit Services again, making the same request. \n\nI received an email response saying Best Buy considered the matter resolved. \n\nI made several more phone calls to Best Buy and to Citbank ( co-brander of the XXXX card ). One person told me to fax a letter and a photocopy of my driver 's license to Best Buy in order to reopen the case. I faxed that letter on XX/XX/XXXX. I have heard nothing since. \n\nThere is only one valid charge on my account : a {$51.00} donation to a food bank. I am happy to pay that once all the fraudulent charges are removed. \n\nBest Buy Credit Services has been extraordinarily difficult to deal with. I don't understand how someone can make so many large purchases without having the card and security code in hand."
+}

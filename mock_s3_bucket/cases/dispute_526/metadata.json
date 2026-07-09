@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_526",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97338"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38651,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank My Citi Prestige card annual fee came due. I paid the {$95.00} annual fee, but then downgraded the account to a Citi Costco card. The fee was refunded and I had a positive balance of {$95.00}. Citi was supposed to refund this via check. Instead Citi closed the account ( # XXXX ) and will not refund my positive balance on the account. I have called on multiple occasions. The last 2 times I called we XX/XX/23 & XX/XX/23. The account was closed in XXXX. Every time I reach out they say they will send me the check to refund, but the check has never arrived. I know Citi has the correct address on file, because I receive and advertisement from them almost weekly addressed to me ( typically a favorable loan agreement is the advertisement )."
+}

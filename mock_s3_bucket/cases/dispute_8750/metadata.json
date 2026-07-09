@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8750",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75039"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46181,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I filed a billing-error dispute with Citi for a {$4600.00} charge from XXXX XXXX XXXX XXXX XXXX XXXX. The original dispute was opened on XX/XX/year>, and closed on XX/XX/year>, without Citi contacting me to request any supporting evidence. Citi later admitted this was a mistake and reopened the dispute on XX/XX/year>. \n\nSince reopening, Citi has provided only limited updates stating that the merchant was contacted and has until XX/XX/year> to respond. However, my understanding is that under the Fair Credit Billing Act / Regulation Z ( 12 CFR 1026.13 ), a creditor must complete its investigation and notify the consumer within two complete billing cycles or no later than 90 days after receiving the billing-error notice. My Citi billing cycles were XXXX and XXXX, meaning two full cycles have already passed, and the 90-day window would expire around XX/XX/year>. \n\nI have repeatedly asked Citi for clarification on whether they are legally required to complete the investigation by that date and how the merchant response deadline fits within that regulation. Each time, I have been told only to wait or that 90 days is just a rough estimate. Citi will not connect me with anyone in their compliance or legal departments to confirm this. \n\nIn addition, Citi provides no paper trail for these disputes. The chat system does not allow email or transcript receipts ; agents tell customers to manually copy and paste chats. There is no email contact option, and all communication is directed to phone calls. Each time I have called to request written confirmation or official notices, Citi has refused to send any letters or documentation. Because of this, I have had to record and save conversations myself to maintain a record. \n\nI called on XX/XX/year>, seeking more information about the merchant response timeline. Citis system shows : Dispute reopened : XX/XX/year> Merchant first contacted : XX/XX/year> Merchant responded : XX/XX/year> Merchant contacted again : XX/XX/year> Despite these entries, Citi has not provided any details on what the merchant said, what evidence Citi received, or what Citi sent to the merchant. Every update Ive received simply tells me to continue waiting, with the current message extending to XX/XX/year>. \n\nI am requesting the CFPBs guidance on whether Citi is in violation of the Fair Credit Billing Act / Regulation Z timeline and whether the companys failure to provide written documentation and paper records constitutes noncompliance with FCBA communication requirements.\n\nTheir credit card agreement ways \" Within 90 days of receiving your letter, we must either correct the error or explain to you why we believe the bill is correct '' So I believe that it should not take over the 90 days."
+}

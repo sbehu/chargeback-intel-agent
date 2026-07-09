@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8989",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NM",
+    "complaint_zip": "87031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42987,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "After canceling tickets at XXXX due to a schedule change in XX/XX/year> for a full refund, I received XXXX emails for each ticket confirming this. Despite this, XXXX was delaying the refund and told me that I will get a full refund but to wait XXXX  days via chat. I waited the XXXX  days and since there was no refund forthcoming apparently, I filed XXXX disputes with American Express but recently discovered they inexplicably ruled in my favor on XXXX and not the other, despite being on the same reservation with the same full refund policy. As a result, XXXX of the charges was reapplied on the XXXX statement without any communication ( their online system doesn't work and asks me for the XXXX from a card I cancelled to prevent me from seeing messages ). I tried reopening the dispute again recently but American Express is now lying and giving me the runaround that it was already credited and says they will reopen the other ( even though I could only reopen the one that wasn't decided in my favor, which is what I did ). Why are they playing these games? I will not pay a {$700.00} annual fee for this XXXX  where they think I'm too stupid to notice. It's insulting to try to pull this XXXX with a long time customer who has premium cards. I will cancel every single card with American Express, file a complaint with my state AG and see them in court if this isn't resolved immediately. This is the worst customer service from a credit card company, especially given what I'm paying them and it's all because they decided to outsource to completely incompetent morons in another country because they hate their customers and just want them to give up in frustration. The level of dishonestly is shocking. American Express is simply trying to scam me out of nearly {$1200.00}."
+}

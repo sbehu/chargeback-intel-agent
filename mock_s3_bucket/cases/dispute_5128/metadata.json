@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5128",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77056"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18892,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am writing to file a formal complaint against American Express ( Amex ) for failing to resolve a dispute concerning a {$20000.00} charge on my account. I was scammed by a fraudulent XXXX mentorship course and have provided Amex with substantial evidence to support my case, but they have denied my refund request. \n\n*Details of the Situation : * - *Date of Transaction : * XX/XX/year> - *Merchant Name : * XXXX XXXX - XXXX XXXX Dispute : * {$20000.00} - *Nature of Dispute : * Fraudulent transaction for a supposed Airbnb mentorship course, which turned out to be a scam. \n- *Evidence Provided to Amex : * I submitted a claim with Amex and they did not even ask me for any documentation in regards to this claim. I have documentation that shows that the merchant is not responding and not providing the service that I paid for. \n\nDespite this, Amex has closed down my claim. They did not even approach me or the merchant to ask for any information or even actually investigate the claim. \n\nI initially contacted Amex in good faith, providing all requested documentation to support my claim that the transaction was fraudulent. Despite offering clear proof of the scam and the deceptive practices of the merchant, Amex informed me that they would not refund the charge. They stated that I would have to contact the merchant to request a refund. This decision seems unjust given the nature of the situation and the evidence I submitted. \n\nI am extremely disappointed by Amexs lack of action, as I believe they have not adequately investigated or reviewed my case. I trusted Amex to provide protections against fraud and I now feel that they are not holding up their end of the agreement."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2129",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24488,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had an issue with a merchant, in which the merchant misled, created false and misleading advertising, and offered written guarantees that were not being honored by the merchants. and AMEX is allowing these fraudulent activities to happen to their customers. I have provided multiple pages of documentation including their written advertised guarantees and their excuses. Each time addressing the merchant 's rebuttals and each time no one read my responses at AMEX or they would see I was addressing each rebuttal and being defrauded by the merchant."
+}

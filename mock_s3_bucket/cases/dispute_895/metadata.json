@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_895",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12278,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX, my experience with Home Depot took an unexpected turn when I received a text about an attempted charge of over {$800.00} on my card. Swiftly responding with a resounding \" No, '' I immediately contacted Home Depot to ensure the charge was halted and to cancel my card for security measures. \n\nDuring the call, I took the opportunity to inquire about any other transactions on my card. Surprisingly, they informed me of two additional smaller charges that had gone through on the same day. I promptly asserted that these were not my transactions and requested their removal. Additionally, I sought a case number and details on how I would be updated about the ongoing investigation. Initially met with resistance, I persisted until they finally provided me with a case number. \n\nDespite my efforts, my claim faced a setback as it was denied on the grounds that the purchases were allegedly made with the card chip inserted. Puzzled, I emphasized that I had maintained possession of my card and had not set foot in a Home Depot for years.\n\nTo add to the frustration, Home Depot claimed to have mailed me letters and a replacement card. Despite multiple confirmations of my mailing address, not a single letter concerning my case reached me. Now, I find myself in a perplexing situation, forced to pay for purchases I did not make, all while grappling with an exorbitant 30 % + interest rate. \n\nHow this occurred remains a mystery to me, especially considering the supposed use of the card chip. It appears that these fraudsters have evolved their techniques, leaving me both bewildered and disheartened by the unfolding events. My hope is that this unfortunate experience does not happen to anyone else and that measures are taken to prevent such incidents in the future."
+}

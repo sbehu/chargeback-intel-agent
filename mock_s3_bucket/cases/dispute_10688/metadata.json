@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10688",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11214"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10314,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding Barclays Bank Delawares handling of an unauthorized transaction dispute on my credit card account ( Barclays XXXX XXXX XXXX XXXX, account ending in XXXX ). \n\nI reported unauthorized charges and filed a fraud claim. Barclays placed the account in a fraud status starting on XX/XX/XXXX while the investigation was pending. \n\nOn XX/XX/XXXX, Barclays sent me a letter stating that their investigation was complete and that the account was valid because they determined that I benefitted from the use of the account. Barclays removed the fraud status, resumed monthly statements, and stated that the account would continue reporting to the credit bureaus as valid, with interest and charges accruing on the unpaid balance. The balance referenced in the letter is {$310.00}.\n\nBarclays has not provided me with any meaningful explanation or documentation supporting their conclusion, and their stated reasoning is vague and not evidence-based. The fact that a charge may have been delivered, processed, or otherwise completed does not prove that I authorized it. The denial appears to be based on assumptions rather than proof. \n\nI did not authorize the disputed transaction ( s ). I am requesting that Barclays : 1. Reopen and properly investigate the fraud claim.\n\n2. Provide the specific evidence used to deny my fraud claim, including but not limited to : Merchant name ( s ), transaction date/time, and method ( chip/swipe/online ) Shipping address ( if applicable ) IP address and device information ( if applicable ) Any other basis Barclays used to conclude I benefitted 3. Remove the disputed balance and reverse any interest/fees related to the unauthorized transaction ( s ).\n\n4. Confirm in writing that this matter will not be reported negatively to the credit bureaus and that no adverse credit reporting will occur due to this dispute. \n\nBarclays denial and attempt to hold me liable for unauthorized charges is unacceptable and inconsistent with fair credit card dispute practices. I am requesting CFPB assistance to ensure Barclays conducts a legitimate review and provides proper resolution."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11813",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98445"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40340,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX I placed two orders on an online \" comic book shop '', come to find out the shop doesnt exist and is just a scam. after reaching out several times over the course of a month, i finally decided to dispute charge after no response from the merchant. Almost a month later to have the disputes declined, then to be told my only option is to reach out to the merchant who has already been unresponsive. Now I am out {$400.00} and will be closing this card account as soon as possible. Would not recommend best buy Citi visa credit card to anyone"
+}

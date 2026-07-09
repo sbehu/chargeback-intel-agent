@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10858",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "73069"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33416,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I paid {$690.00} to a merchant called XXXX for two all-inclusive vacation packages. The merchant advertised access to specific all-inclusive resorts, including XXXXXXXX XXXX . \n\nHowever, after payment, the merchant refused to provide any of the resorts that were advertised at the time of sale. They imposed restrictions that were never disclosed before payment, including stating that I was ineligible for the advertised resorts and that the only option available to me was a different hotel that was never mentioned during the sale. \n\nIn addition, the merchant requires me to wait one full year before I am even allowed to request a reservation at the substitute hotel. No booking, no stay, and no usable service has been provided at all. I paid for two all-inclusive vacations, and the merchant is only offering a single substitute hotel option after a 12-month delay. \n\nI filed a dispute with my credit card issuer ( Barclays XXXX XXXX Mastercard ). Barclays denied the dispute based on the merchants statement that they were offering a hotel, but this is misleading. Offering one substitute hotel after a one-year wait does not fulfill a purchase of two all-inclusive vacations that were advertised at the time I paid. No service has been delivered to me. \n\nI submitted a reconsideration request to Barclays, but the dispute remains closed. I am requesting CFPB assistance in having the credit card issuer reopen and properly review the dispute as non-delivery of services, since I have not received any of what I paid for."
+}

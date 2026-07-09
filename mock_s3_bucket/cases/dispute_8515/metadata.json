@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8515",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10461"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15400,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have had a XXXX XXXX XXXX XXXX  ( and other XXXX XXXX accounts ) for years and have been paying off balances every month with automatic payments of {$500.00} or more. I recently noticed fraudulent charges from XXXX 2025 on my account and contacted the company on I believe XX/XX/year> after checking my balance after the automatic payment went through. I noticed my account balance was going up so I checked transaction history. I usually just check balance. I contacted them and disputed XXXX transactions totaling {$1700.00}. They placed a conditional credit on the account at that time. Today, XX/XX/year>, I checked again and noticed the charges were again charged back to my account. When I called they claimed their investigation only consisted of checking my log in history and since I logged into my account ( probably just checking my balance ) during the time the charges were made that I am now responsible. They even had some of the wrong charges disputed. When I tried to explain it was only XXXX and XXXX charges that werent me, she just dismissed me. That is ridiculous. I pay by bills and for what I charge but do not want to pay for fraudulent charges. When I asked if they checked the cameras on the registers for the date and time of the fraudulent charges they said it was my responsibility to file a police report and have the police pull the camera footage. XXXX has much bigger things to deal with and will not waste that kind of resources on my {$1700.00} issue. XXXX XXXX could pull that footage easily and prove that it wasnt me making those charges but they refuse. I dont know what else to do. I have impeccable credit and always pay my bills but do not want to be responsible for charges I did not make. I hope you can help me resolve this issue."
+}

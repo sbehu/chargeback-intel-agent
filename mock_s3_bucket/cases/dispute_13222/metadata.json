@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13222",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "373XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35099,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Between XXXX XXXX XXXX, XXXX and XXXX XXXX XXXX, XXXX, charges in the following amounts were charged to my American Express Card ending in XXXX : {$500.00}, {$500.00}, {$500.00}, {$5000.00} and {$30000.00}. At XXXX on XXXX XXXX, XXXX, We became aware of the charges and promptly contacted American Express to report the fraud. Before XXXX on XXXX XXXX, we made 5 additional calls to confirm the fraud was reported. ( attached call log ) It was determined that my email had been compromised and charges approved through unauthorized access to my email and or my computer as well as my XXXX account. These charges were not made by me, my agent or with my consent. I did not receive funds, goods or profit as a result of these charges. These charges are the result of unauthorzied access to one or more accounts by unknown persons orindividuals. XXXX Police have opened an investigation. \nAmex ruled on XX/XX/XXXX that I was resposible for the charges. They stated they had proof that I received the goods. I asked Amex for this infortmation so that I may refute it, but they woudl not share this information. I can not refute the claim of the merchant and or the credit card company without knowing this information."
+}

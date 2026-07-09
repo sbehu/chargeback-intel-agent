@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2538",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "92407"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25483,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card was used for over {$1600.00} in charges from multiple stores that Ive never even been too in my life. I told the credit card company that last I used my card was at a XXXX XXXX XXXX  and then from there for multiple days there were charges at many places that Ive never been too. I believe my credit card was copied because I still have the physical card in my possession. I filed the dispute and after about XXXX weeks of their investigation they told me it was my fault since I still have the credit card in my possession. I tried to talk to someone higher than the dispute customer service but they wont let me. One told me they would reopen my case. Another said that there is nothing I could do. The third time I called they said I could email Citi and ask for my case to be reopened ( which I did and did not hear back )."
+}

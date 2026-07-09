@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4462",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "207XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43741,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used my card to charge {$90.00} in XXXX XXXX. My normally normal monthly charges are less than {$10000.00}. Someone hijacked the card and ran it up to {$84000.00} in less than two weeks. There were no fraud warnings from the card company, and they only learned of it when I placed the call to them even though there were dozens of identical transaction amounts of {$900.00} each. They are doing an investigation with XXXX as the charges were XXXX XXXX, but have not provided provisional credit. My credit score has been knocked down by XXXX points because of this high balsnce, Im getting collection emails from the card company and Im also getting marketing calls from the credit department of the card company during the investigation to encourage me to use the card more. Ive called several times for an update on the investigation, but they have no information and just keep telling me it will take a long time."
+}

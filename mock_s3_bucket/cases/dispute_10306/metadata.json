@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10306",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "027XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13106,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint against American Express, not the merchant. \nI used my American Express Gold Card to pay {$2200.00} on XX/XX/XXXX for a portion of a long-term dental treatment with a clinic in XXXX, XXXX. The overall treatment began in XXXX and exceeded {$30000.00} in total cost. This charge was not for a single, completed service, but for a continuing stage of an ongoing medical treatment expected to extend well beyond the date of payment. \nI used my American Express card for this stage because the treatment was ongoing and I needed cardholder protection if services were not provided as agreed. \nAfter the charge, complications developed, the treatment failed, and the clinic refused to provide corrective care. Communication was ultimately blocked, and treatment was abandoned. These failures occurred after the XX/XX/XXXX charge. \nI disputed the charge with American Express and submitted documentation showing that the services related to this charge were not provided as agreed. American Express declined the dispute based solely on a standard 60-day timeframe tied to the transaction date. \nAmerican Express did not reasonably consider that this dispute involved a long-term, outcome-based medical service, that the failure became apparent only after the charge, or that a consumer can not reasonably dispute medical treatment before it is completed or before complications arise. \nI escalated the matter multiple times and submitted additional documentation after being instructed to do so. I sent the contract, receipts, communications, and evidence of merchant abandonment to multiple American Express departments, including executive and compliance offices, by certified mail, in an effort to ensure the dispute was properly reviewed. Despite this, American Express declined the dispute without a substantive investigation or a clear explanation of how timing rules were applied to an ongoing service. \nI am not asking American Express to determine medical malpractice. I am requesting CFPB assistance because American Express failed to properly investigate a billing dispute involving services not provided as agreed and misapplied timing rules in a way that denied cardholder protections for a long-term medical treatment."
+}

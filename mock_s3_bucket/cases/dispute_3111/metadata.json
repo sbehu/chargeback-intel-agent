@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3111",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "731XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46468,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We started to see more charges from Advertising on our card that we did not authorize. We even had XXXX state they couldn't bill our card yet we kept getting charged for XXXX charges. We requested the card be removed but it took a long time to get it removed and XXXX kept allowing these charges when I called and asked to stop allowing them."
+}

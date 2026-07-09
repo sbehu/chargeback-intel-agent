@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-247611",
+  "invoice_date": "2026-02-14T00:00:00Z",
+  "amount_cents": 5678,
+  "currency": "USD",
+  "billing_address": "7561 Hillside Way, PA, 19061"
+}

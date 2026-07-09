@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8707",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20097,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays Bank Delaware closed my dispute and reapplied {$1100.00} without reasonable investigation ( FCBA 1666 ).\n\nCore failures : Conflicting letters : XX/XX/XXXX rebill applied. XX/XX/XXXX ( to CFPB ) awaiting merchant response up to XX/XX/XXXX. Impossible. \nIllegible merchant evidence : XXXX XXXX sent smeared, unsigned XXXX XXXX XXXX XXXX XXXX XXXX XXXX No sales agreement, no cancellation policy yet Barclays claims I violated them. \nXXXX case numbers in 2 months : XXXX XXXX XXXX XXXX. No record in online account. \nClosed during active XXXX  XXXX  ( confirmed XX/XX/XXXX : still being investigated ). \nMy XXXX evidence ( Certified Mail XXXX, XX/XX/XXXX ) ignored. \nXXXX CFPB ID XXXX closed prematurely. This is new fraud."
+}

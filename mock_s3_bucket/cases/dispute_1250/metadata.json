@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1250",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21600,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express has to be breaking the law at this point or be in violation of the FDCPA or FCRA. \n\nThey are continuing to report an account on my credit reports that I informed them multiple times was opened fraudulently in my name. Not just are they reporting it, but they continue to update it despite there being no activity since 2018 apparently. \n\nIve reached out to them multiple times to resolve this by making them whole and paying the balance on the account in exchange for them removing the account from my name, since IT IS NOT MY ACCOUNT! \n\nTheir call centers are impossible to talk to. Their employees follow scripts and are unable to think outside of the box or come up with a solution. \n\nIve been on hold hours before only to be transferred, being told this department cant help and then transferred to the another department who also cant help, only to end up with the department I started with originally. On multiple occasions calls would just drop during the transfer process or I would be hung up despite remaining courteous at all times and just looking to resolve this situation."
+}

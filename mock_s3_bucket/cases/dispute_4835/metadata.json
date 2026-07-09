@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4835",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "13905"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48183,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Regarding the transaction from the Merchant : XXXX XXXX XXXX XXXX the Amount : {$1500.00}, I attest that neither I nor anyone authorized by me has signed for or received the package. I have searched in and around my house for the item. I still to this day have not retrieved the package. I have contacted roommates and neighbors near my home. They also said they had not received the specific item. I have communicated with the merchant through email/webchat for 2 days : XX/XX/year> and XX/XX/year>. I have communicated with a customer service agent from XXXX XXXX in regards to not receiving the item. They said they delivered the item, but have not provided photo proof of the delivery. I have documentation of the communication between me and the merchant regarding potentially receiving the refund for the missing merchandise. The merchant has not provided the refund. I disputed the transaction above because I did not receive the item. The item was supposed to be used as a XXXX Gift for a relative. Because of this situation, I didnt have the item to give as a XXXX gift. I filed a dispute with citibank for '' item not received ''. Unfortunately, citibank did not side in my favor and debited me for the transaction of {$1500.00}. I would like to continue this dispute. I would like for the Consumer Financial Protection Bureau to help me in my situation with citibank. I hope that Citibank maintains assistance in my situation by re-crediting me for the misdelivered merchandise from XXXX XXXX."
+}

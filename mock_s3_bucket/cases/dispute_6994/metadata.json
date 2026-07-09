@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6994",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5729,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a dispute case with Citi Mastercard on XX/XX/year> regarding a charge from a Merchant for goods not received, followed their protocol, completed documentation of proof that goods were never received and was told that they would run a full investigation and that they would be in contact with me once the Merchant responded to the claim prior to making a final decision of the dispute. ( This is all on audio recording with Citi, because I specifically asked to be recorded at the beginning of every call with them ). Citi did not follow their protocol as indicated and in turn reviewed the Merchant 's manipulated documentation that he provided, in which I have evidence that the documents were manipulated, and automatically charged my credit card for the goods even though I have several documents showing proof that goods were never received. I have made serveral attempts to speak with thier dispute resolution department about this case, which is all on audio records, but each time I contact them, I am told by the First Line Representative that they have no way of connecting me to that department and they can only send them an email to \" request '' that they look into this issue further and then I am told it is up to the department whether they want to decide to hear further details of this case."
+}

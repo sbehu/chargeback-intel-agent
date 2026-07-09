@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5044",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48085"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15473,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX at XXXX XXXX  I was sent a text from Citi 's fraud department that {$81.00} was attempted to be charged from XXXX. I responded to the text at XXXX AM stating I did not recognize the charge. The account was closed that day and a new card was issued. After further investigation, XXXX separate charges from XXXX were charged for the same amount {$81.00} XXXX for a total of {$240.00}. Citi then issued me a credit for those XXXX charges. \n\nIn early XX/XX/XXXX Citi then stated that there was no evidence of fraud and the credits were reversed. I then called the fraud department and again we verified that neither my my nor myself made that charge. We were both sleeping at the time of the charge. The department stated that they used the correct billing address, which is a moot point as XXXX issues virtual tickets. After further discussion with them they stated a XXXX XXXX was used to make the purchase ; in our household we have XXXX XXXX and XXXX  and no XXXX  computers. Finally the e-mail address that the tickets were sent to were unrecognized by us. \n\nCiti then did further investigation and then today XX/XX/XXXX they state that the dispute is resolved and the credit is reversed, even though their fraud department is the one that alerted me to the fraud, I reported the fraud, closed my card, and got a new card."
+}

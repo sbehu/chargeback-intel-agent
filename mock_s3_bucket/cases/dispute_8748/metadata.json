@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8748",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20743"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11102,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ordered merchandise on XX/XX/XXXX with the understanding I would receive it within XXXX days. I contacted the credit card company to have the charges reversed after XXXX days and the bill I received in late XXXX showed that the bill was reversed. However, the Citi Bank Credit paid them again. On XX/XX/XXXX I received a package and my wife was on vacation with her mom and I had someone helping me with the house. They signed for a package from XXXX and when I opened it and realized what it was I sent the package back That Day. After trying to get this settled For Months I canceled the card, even after they increased my credit limit without My Request, and I can not get anywhere with them even after sending them a copy of the Postal Receipt showing I did not have the merchandise."
+}

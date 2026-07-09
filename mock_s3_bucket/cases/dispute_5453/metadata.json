@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5453",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60016"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1498,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Last time when I checked my credit report, I have found XXXX fraudulent inquiry on my credit report. This is a fraudulent inquiry. I have never authorized it and I have never submit it. \nHere are all the details of this inquiry : CBNA XXXX XXXXXX/XX/year> and it shows me only on XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3391",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95630"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5004,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX and XXXX of XXXX purchases were made on my Macys store card. I returned a few of the items by XXXX XX/XX/XXXX at my local Macys ( XXXX XXXX ) and was refunded for the items returned to the store. My XXXX statement shows the returned items and a final XXXX balance. \nNo balance in XXXX and them without any purchase made the XXXX statement had a balance of {$300.00}. \nAfter several calls to Macy 's customer service, with no answer to where the charges came from, a Dispute was filled on XX/XX/XXXX. \nI was told to not make any payments while we are in the process of disputing the XXXX statement and that a resolution will take one to two statement cycles. \nOn XXXX XXXX I called Macys again and after speaking to a investigator who told me she could see that for no reason shown the items that were returned to Macys in XXXX where charged back again to the card. She transferred me to another customer service to process the credit. \nI followed up again on XXXX XXXX since I could not see any credits on my Macys card and noticed that the dispute was not resolved as well as I have been charged late fees and past due charges. \nI also received a letter from Citibank who is representing Macys store card letting me know that they will be sending my account to a collection agency if not pain in full. \n\nMy credit score has also been lowered XXXX points due to this dispute. \n\nI was also told by the Macy 's customer service that they have had issues like mine before that a card has been charged for items that have been returned to thier main store."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12570",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NC",
+    "complaint_zip": "270XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order ( # XXXX ) with XXXX on XX/XX/year>. Ive ordered # XXXX hair bundles from them before, and the XXXX was lighter than what I received this time. The XXXX pack was also much darker than expected, nearly XXXX, even though Ive purchased it locally before and it was lighter. \n\nAdditionally, the packaging had a strong tobacco odor, which was very off-putting. Overall, I was disappointed with the order and contacted them regarding a return. \n\nI contacted XXXX XXXX times in an attempt to return the unused and unopened hair product. As shown in the attached email correspondence, I first contacted them on XX/XX/year>, the same day I received the shipment. I did not receive a response. \n\nOn XX/XX/year>, I contacted them again through both their website and email. I received a reply stating that they would follow up, but no additional response was ever provided. \n\nI disputed the charge with my credit card company, Citi. Their response states that I need to work directly with the merchant to resolve the issue. However, I have already contacted the merchant three times in an attempt to do so. Citi has refused to work with me further because I am still in possession of the item. I am willing to return the product, however, without the authorization number and return address, I have no way to do so. \n\nXXXX requires a Return Merchandise Authorization ( RMA ) before accepting returns. As shown in the ( attached ) screenshot, their policy specifically states that returns will not be accepted unless prior authorization has been issued. \n\nBecause I made every reasonable effort to resolve this matter directly with the merchant and was unable to do so due to their lack of response, I respectfully request that Citi accept this as a valid dispute and issue a full refund."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4074",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89012"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48447,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, My Citibank Macys Credit Card was charged {$230.00} by XXXX XXXX. Upon seeing this charge appear, I filed a dispute. After crediting my account for the disputed funds, the dispute was overturned on XXXX, with the CC provider claiming that this was a merchant that charges my account regularly. When I attempted to access my statements, there were no statements available for viewing. I did not authorize any such payment and I do not want to pay for a transaction I did not authorize."
+}

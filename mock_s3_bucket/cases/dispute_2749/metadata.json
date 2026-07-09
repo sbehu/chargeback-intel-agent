@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2749",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "371XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40985,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Date of Transaction : XXXX Charge XXXX My source is the XXXX of XXXX 's # XXXX sent to me on XXXX XXXX  Transaction # XXXX Card # XXXX Approval # XXXX Reference # XXXX The XXXX 's XXXX sent this information to me via a text from XXXX I have an image of the \" Ticket Copy '' via text on my phone. \n\n*I do not remember his name. \n\nBarclays stopped a second attempt to use the cards XXXX miles away. \n\nI was notified by Barclays & locked my 4 accounts/cards I have with Barclays.\n\nI was under the impression that the charge would be removed by the Customer Service person. \n\nThe charge was removed, but was reinstated this month."
+}

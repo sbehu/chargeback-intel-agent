@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4653",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75104"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31277,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, XXXX XXXX notified me of fraud and some items were returned. It is customary for a card to b suspended once fraud is detected.They allowed charges over {$700.00} for the same XXXX date and they told me in writing that since a chip was used it could not be fraud. The truth is crooks can and did capture my card information from a chip using a technique called shimming. I have tried several times to speak with them but they lie is is really a sad situation."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7896",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "92672"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41833,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I made a one-time {$1.00} purchase on XXXX to download a PDF version of a passport form. The document provided was not the correct one, but since the charge was small, I did not dispute it. \n\nWithout clear disclosure or my consent, the merchant enrolled me in a recurring {$49.00} monthly subscription. The subscription terms were not stated clearly at the time of purchase, and I did not knowingly authorize ongoing charges. This constitutes an unauthorized recurring charge and is a violation of my rights under the Fair Credit Billing Act ( FCBA ). \n\nI have been charged {$49.00} on XX/XX/year>, and again on XX/XX/year>. I contacted the merchant by phone and email on XX/XX/year>, requesting a refund, but they refused and only canceled my account. \n\nI then contacted my card issuer, American Express, to dispute the charges. The representative stated that they would file the dispute but also said there was a 99.99 % chance it wont be investigated. This response fails to meet their legal obligations under the FCBA, which requires creditors to investigate billing errors and unauthorized charges.\n\nI am requesting that the CFPB require American Express to : Properly investigate these charges & reverse the unauthorized billing.\n\nI have attached screenshots of the disputed transactions for review. \n\nI am also an XXXX XXXX servicemember and request that this complaint be reviewed by the CFPB XXXX XXXX XXXX XXXX."
+}

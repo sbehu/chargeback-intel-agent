@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1831",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33143"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10173,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There is a charge on my AMEX account. AMEX has confirmed that the merchant can not identify my name, email, or billing address. I have repeatedly asked AMEX to remove this charge and AMEX is refusing to reverse a charge on my credit card for which I have received NO services/goods from the so-called merchant. When I called AMEX to dispute the charge, AMEX asked me discriminatory questions about my background. This has nothing to do with the improper charge on my AMEX account. AMEX should not discriminate against minorities."
+}

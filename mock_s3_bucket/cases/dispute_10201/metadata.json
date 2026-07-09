@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10201",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85040"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7014,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX owed me {$65.00} to my Citi card for failure to set up an account and port my phone number. I originally filed a dispute with Citi. Citi wasn't resolving the investigation because XXXXXXXX XXXX bank was not responding because I was told they are just a processing center and therefore would not respond. XXXX reps suggested that I wirhdraw the dispute with Citi so they could refund me. So, I did that. But, then XXXX later stated they could not refund me because Citi put their chargeback money into a holding account which they can not access. Then I tried to reopen the dispute with Citi and was told they can not reopen it. So, as of now, Citi has my {$65.00} owed to me by XXXX and XXXX XXXX  {$65.00} in chargeback money. The disputes department is refusing to refund me and XXXX. I need and want my money back. I am tired of this situation. I have filed complaints with the XXXX, FCC, AZ Office of Inspector General and been in touch with XXXX and sending emails to Citi disputes department with no resolution to date. This has been going on for months now. I need Citi to give me my money or Citi to give XXXX their chargeback money currently in a holding account the Citi rep said so XXXX can refund me. I'm beginning to hate Citi too like I do XXXX. It's making me want to payoff my bill and close my accounts with Citi with Best Buy and Citi XXXX XXXX XXXX. I'm over both XXXX and Citi."
+}

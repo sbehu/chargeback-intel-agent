@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4512",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93291"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36338,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I requested a custom video using an item that purchased for the content creator. The video was to be 5 minutes long. The creator said the item would cost {$50.00}, and the video for 5 minutes {$150.00}. I sent the payment in the form of a tip after confirming the above. A couple weeks later, creator posts the video, but is only less than 15 seconds. I asked about our agreement and creator said she needed more money before another longer video could be made. I mentioned this violated our agreement, but she continued to ask for more money. I have attached screenshots of our conversation with the payment amounts and the agreed upon details.\n\nI attempted to chargeback with my credit card company. They opened an investigation, but ultmately denied my request."
+}

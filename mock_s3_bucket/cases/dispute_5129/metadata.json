@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5129",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92704"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13545,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was traveling internationally, and had made a purchase with a store using the Citi Costco Anywhere card managed by Citi ( herein referred to as \" bank '' ). The bank fumbled the transactions with the merchant and duplicated my charge. I started a dispute with the transactions and was basically told they could not do anything. Even though all the agents were polite, it was like talking to a black box that goes nowhere.\n\nToday ( XXXX XXXX XXXX ) I have received a notice of their dispute resolution saying that I was at fault. There are no explanation, and it seem they did not do anything that they claim they will help during the investigation ( more detail below ). \n\nI will avoid using this credit card for anything beyond XXXX purchases from now on since this hassle clearly outweighs any benefits to be gained from the card ( which are already covered from my other card ). I will avoid dealing with Citibank for everything and anything in the future, including opening new accounts and services.\n\nXXXX XXXX XXXX : I used my card for the first time at the store, and the bank flagged this transaction for potential fraud after I have previously called to notify them of my international travel. I called their fraud department to authenticate the purchase and explain that I would like to make the transaction with the store. I had repeatedly made a verbal request to the agent to please handle the transactions with care, because I do not want to be duplicate charged. I was told that I will not be duplicate charged and to go ahead with using my card for a second time, since the first transaction has been declined by the bank. \n\nXX/XX/scrub>XXXX XXXX XXXX : Both transactions got posted on my account. I have called the bank contact number and was transferred XXXX times before reaching the right department ( annoying since Citi has a convoluted structure and their directory inaccurate, or incompetent employee ). I was told that they will look into the matter, but there is nothing that they can do to help with my situation. I had reminded them of the numerous repeated requests during my first interaction with the fraud department on XX/XX/XXXX. They claimed that they will reach out to the merchant and the merchant bank on my behalf, and encouraged me to reach out to the merchant for a resolution directly. \n\nToday, XXXX XXXX XXXX  : I got a notice from Citi dispute center that the had resolved the dispute against my favor, but there are no explanation of their investigation. It appears that they have not really contacted the merchant and the merchant bank as they have claimed, and have not really taken any steps to resolve this issue. From a consumer protection standpoint this is unacceptable, especially for a mistake that the bank made."
+}

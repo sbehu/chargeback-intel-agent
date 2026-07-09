@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4706",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "75006"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2861,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a Costco customer with City Visa card Which I used to purchase XXXX  bars of gold bars which Costco offered to executive card holds and I placed an order for XXXX bars but Citibank declined to pay as my credit limit is only XXXX. So I requested them to increase my credit limit to XXXX which they declined and I was told to wait 6 months. In the meantime the lady who was helping me at Costco suggested to use another card and she agreed to accept my XXXX card, All on a sudden the price of gold dropped and my request to adjust the price was declined by Costco. The reason I am writing this complaint is why Citibank declined to increase my credit when I have an excellent credit with no debt and an asset valuing over XXXX XXXX. The person I talked to is XXXX at Citibank who declined to give his last name and I lost a lot of time and an opportunity to invest in gold. I want you to take appropriate action so that another well respected person does not have to go through similar fate. Thank you and have nice holidays. XXXX XXXX"
+}

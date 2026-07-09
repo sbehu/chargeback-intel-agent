@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1287",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32369,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My closed Citibank XXXX XXXX was paid off prior to my booked flight. The day of my cruise my flight got canceled. I asked that my money be refunded to my original form of payment. They stated they couldn't do it and sent me several checks for the XXXX flights. Now they are saying I owe them over {$400.00} and they're destroying my credit. I disputed this and they denied my claim. \n\nPlease help!"
+}

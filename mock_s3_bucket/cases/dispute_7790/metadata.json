@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7790",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63108"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46976,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I paid for a room in XXXX XXXX XXXX in XXXX XXXX, KS through XXXX Upon arrival, the hotel did not find or honor the booking despite proof being shown and made me pay for the room a second time ( {$500.00} ). This is fraudulent and theft. I then disputed the charge through my credit card at Citi Bank, and they refused to resolve it despite me calling numerous times and providing extensive documentation that they asked for. This is complete theft and negligence by two massive corporations."
+}

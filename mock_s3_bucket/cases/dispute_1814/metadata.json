@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1814",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "232XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46899,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/2023 I received a call from Barclays indicating suspicious activity in my credit card account ending XXXX. I confirmed I did not make the transaction and agreed to have a new credit card issued. Barclays issued a new credit card ending XXXX and a provisional credit to my account for the disputed amount of {$71.00} while the activity was investigated. \n\nIn XX/XX/2023, the disputed amount of {$71.00} was placed back to my account. I contacted Barclays who indicated that the investigation was concluded and I will receive a letter. No information regarding the investigation was provided bythe customer service representative. \n\nBarclays letter dated XX/XX/2023 reads as follows : We have completed our investigation and have determined the activity is valid based on documentation provided by the merchant. As these transactions are valid the provisional credit has been reversed and the amount owned has been placed back on your account. \n\nUnfortunately, Barclays failed to include copies of the documents provided by the merchant, therefore I do not have any evidence of this investigation. I do have a name, address, purchased item, or phone number of this merchant or whoever committed fraudulent activity. \n\nI have been sending numerous letters to Barclays requesting copies of the documents XXXX provided. As of this date, I havent receive the requested information from Barclays. Just the same response. \n\nI look forward to your reply and a resolution to have Barclays remove the fraudulent credit card charges from my credit card."
+}

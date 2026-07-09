@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1799",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6457"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6448,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I received a notification that my credit card was used to make a purchase that I did not make. I immediately within an hour notified the credit card company ( Barclays ) of the fraudulent transaction. They cancelled the card number and issued me a new card. On XX/XX/XXXX I received a letter from Barclays saying the merchant disputed the claim. Barclays applied the transaction to my new card. I called Barclays and they said they opened the investigation on XX/XX/XXXX ( 33 days after I reported the fraud ). I called the merchant and they acknowledged the use of my card was fraudulent and they did not properly vet the use of my card. Barclays still refuses to remove the fraudulent charge from my account. I have made several phone attempts with Barclays but they refuse to do anything to resolve the issue. I also filed a police report with the XXXX CT police for the identity theft and fraudulent charge. The police report number is XXXX"
+}

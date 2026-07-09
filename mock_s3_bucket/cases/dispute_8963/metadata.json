@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8963",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15101"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11373,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/25 I noticed a charge from XXXX XXXX for {$150.00}. \nI did not make this charge. I am not a XXXX XXXX customer. \nI reported the unauthorized charge right away on XX/XX/25 within 2 minutes of the charge notification. \nOn XX/XX/25 I received a notification from the Citi mobile app to call Citi Bank right away to discuss suspicious activity my account. \nI called them on XX/XX/25 at XXXX and they told me my credit card had been compromised and added to several mobile wallets that I was unfamiliar with. They told me they would cancel the card and ship a new one. During this call they asked if I had attempted to make purchases with XXXX XXXX and another wireless carrier, both of which I had not. They confirmed these were fraudulent charges and I would not be responsible. \nI received the new credit card 12 days later. I activated the new card and have not used it since. \nOn XX/XX/25 I received an update on the Citi mobile app stating that the case was closed and that I was found responsible for the {$150.00} XXXX XXXX charge. \nI called Citi Bank at XXXX on XX/XX/25 and they told me that the agent I spoke to on the phone on XX/XX/25 had incorrectly filed my case as a \" chargeback '' rather than a fraud case, and once a chargeback case had been \" resolved '' on their end, there was nothing else they could do. They said they would try to send an email to their fraud department to re-open my case, but that it was \" up to them '' and I would still be responsible for the {$150.00} if they decided not to re open the case."
+}

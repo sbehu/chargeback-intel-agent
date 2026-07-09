@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4457",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "50266"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31304,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a XXXX order on XX/XX/XXXX for {$31.00}. The driver got lost and quit mid-order never delivering the order. This was confirmed by calling the XXXX contact number for XXXX deliveries  of XXXX. Multiple reps confirmed the order was cancelled and a refund issued on XX/XX/XXXX. The XXXX  rep gave me a confirmation/transaction number of XXXX. To this date ( XX/XX/XXXX ) XXXX Citi Visa ( XXXX XXXX XXXX ) has not credited my account for the refund back on XX/XX/XXXX. \n\nI submitted a dispute with XXXX Citi on XX/XX/XXXX describing what had happened, providing a full description, transaction numbers and contact numbers to confirm a refund was issued to my account which was still not showing up on my XXXX citi card. The case ID for this dispute is XXXX. After a month, I received a letter stating that since it had taken so long, my case would now be reviewed every 2 weeks until it is resolved. One week later I get another notice stating that my dispute had been closed without resolution. I called back into XXXX Citi customer service to see why this happened and why no one finished the case. The rep stated that he would escalate the issue to the supervisory team. Instead, on XX/XX/XXXX, the rep opened a brand new dispute case with case number XXXX. \n\nWhen opening the new case, the representative input incorrect information, made up a contact date, insinuated that I tried to contact the seller and was unsuccessful and I was then notified that I needed to provide all information from the original case and start all over again ; the original case was never escalated to a supervisory team, instead customer service opened a brand new case and told me to start all over again. \n\nYesterday I received notification both cases had been closed, neither with resolution. I disputed this on the website and asked that they look into my case because all information they need is within the cases they just closed again. In response I was sent a form letter stating to upload all documentation and information to the website which was already done in the original case. This company is charging me {$80.00} plus dollars per month in interest and can not figure out that 1 ) I already provided all the information and they closed the case without resolution and 2 ) its a small {$31.00} charge for a refund that was already issued yet never credited toward my account that they're wasting everyone 's time with."
+}

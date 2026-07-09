@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6664",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30083"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38142,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Follow-Up to CFPB Complaint XXXX XXXXXXXX I previously filed a complaint about a defective XXXX XXXX '' XXXX  XXXX monitor. I submitted proof that I attempted to return the monitor and that XXXX refused to authorize a return, offering repair only. American Express closed the dispute on the grounds that no return occurred, ignoring the fact that I was never given the opportunity to return the product. \n\nI submitted a screenshot of XXXX written refusal, along with a timeline and evidence of a failed repair. AMEX closed the dispute without addressing these facts. The monitor is still defective and under warranty. I am not trying to keep both the item and the refund I simply have no authorized way to return it. \n\nI am requesting that this chargeback be reconsidered and that AMEX be required to properly review the documentation and reverse the charge based on the manufacturers failure to honor warranty obligations."
+}

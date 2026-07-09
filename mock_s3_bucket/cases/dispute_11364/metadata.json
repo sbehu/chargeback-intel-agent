@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11364",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32824"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41041,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding how Citi handled a credit card dispute for a purchase in which I never received the merchandise. \n\nOn XX/XX/year>, I purchased a dining table from XXXX XXXX for {$1600.00} using my Citi credit card. Shortly after placing the order, I canceled it. Despite the cancellation, the company refused to honor it. I ultimately never received the dining table, and the company subsequently filed for bankruptcy, leaving me without the furniture I paid for. \n\nBecause I did not receive the goods, I filed a dispute with Citi. During the dispute process, Citi initially issued a conditional credit while they reviewed the case. However, I later learned that Citi had sent the payment to XXXX XXXX in error even though the order had been canceled and no merchandise was delivered. \n\nApproximately XXXX weeks after providing the conditional credit, Citi completed their review and determined that I am responsible for the charge. I do not understand this decision because no goods or services were ever received. \n\nI am requesting that Citi properly investigate this matter and permanently remove the {$1600.00} charge from my account, since the transaction did not result in the delivery of any merchandise and the order had been canceled."
+}

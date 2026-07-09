@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9214",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "325XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32401,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello. American Express has charged me multiple {$29.00} 3 times Returned Payment Fees that I believe were applied incorrectly. I contacted customer service several times to dispute these fees, but I have not received any resolution. I was told a supervisor/leader would assist me, but I have been kept on hold for long periods without help. \n\nDuring my latest attempt, the estimated wait time started at 18 minutes, then increased to 36 minutes, and never went below 36 minutes. The representative told me they were transferring me to a leader, but no one ever came on the line, and the time continued to reset. And the time turns 43 minutes. Since they do not help me, why I have to pay XXXX $ 3 times for nothing? \n\nI can not get clear information or assistance regarding these fees, and I have not received any explanation for why the payments were marked as returned. I am requesting a full review and a reversal of all {$29.00} ( this payment happened 3 times in my amex card ) returned payment fees that were charged to my account, as well as an explanation of why the payments were rejected. \n\nI attempted to resolve this directly with American Express, but their customer service and supervisor support have not provided any help. Also they are trying to close the chat bot because I am inactive but I am still waiting and nobody helps me."
+}

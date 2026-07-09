@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13434",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "216XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7136,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Mobile repair business took {$400.00} from my Barclays bank MasterCard ( GM rewards MasterCard ) supposedly to buy the new parts for a mobile car repair job to be done at my home. He then refused to provide proof of purchase, receipts, invoices, nor would ever ship me or physically deliver the parts he supposedly purchased. I received nothing for the {$400.00}. Disputed charge as fraudulent with Barclay Bank. They investigated but decided incorrectly that it was a valid charge based on false statement from repair business saying I have all the parts. And completely illegible nearly black photo of supposed part. I want to reopen this decision Barclay Bank made to charge back the {$400.00} to me again. It's an incorrect unfair decision. Want this disputed, appealed, credited off my card. I've filed FBI fraud report and am filing fraud report crime with local law enforcement now."
+}

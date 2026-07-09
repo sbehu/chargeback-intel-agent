@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7221",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "329XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32787,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX at XXXX I received a call and a text from American Express XXXX Department XXXX that there was a suspected fraud attempt for {$4300.00} from XXXX XXXX XXXX XXXX XXXX. I immediately advised that I did not authorize this company for any charges, I have never been a customer of this company and no one has authorization to use my card for any reason. Amex issued a new card an assured this charge would be removed from my account within XXXX days. today XX/XX/XXXX I contacted Amex as the charge is still remaining on my account ; they advised that the XXXX complaint was rejected and the charges were found to be valid. This is in no way possible - as i indicated I did not authorize any charges for this company. Additionally i did not even get a notification from Amex that they made a decsion on my investigation. This is outrageous that i have a XXXX charge on my account that i did not make. It is apparent that I have been a victim of fraud as evidenced by AMEX own notification on the date the charge was attempted as it was out of character for my spending habits."
+}

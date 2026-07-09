@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2771",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "333XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37036,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I WANT TO REPORT THIS FRAUDULENT ACCTIVITY FROM CITI EMPLOYEES WHERE THEY PURPOSELY DELAY, CLOSED A VALID FRAUDULENT ACTIVITY CASE OR DISPUTED TRANSACTIONS WITHOUT EVEN CONSULTING FACTS WITH THE CUSTOME, THIS PRACTICE FROM CITI EMPLOYEES HAS HAPPENED SEVERAL TIMES. ITS BEING REPORTED TO CFPB, AND WILL BE REPORTED TO OTHER GOVERNMENT AGENCIES. \nI submitted a dispute with citi They requested info on the transaction I provided the info. \nWaited several weeks and their response was they closing the dispute cause they see two much smaller credits from the same merchant on my account, which they have nothing to do with the transaccin being disputed. Then I have to waste several hours and days tryin to fix a simple issue."
+}

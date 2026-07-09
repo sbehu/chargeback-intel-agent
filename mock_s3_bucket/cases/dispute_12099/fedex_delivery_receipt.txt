@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-54000838-US
+Shipment Date:   2026-03-16T00:00:00Z
+Delivery Date:   2026-03-19T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9135 RIVER BLVD, MI, 48203
+============================================================

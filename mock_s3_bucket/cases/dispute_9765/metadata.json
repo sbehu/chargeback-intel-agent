@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9765",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "105XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39998,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I enrolled in XXXX XXXX  to XXXX XXXX after being contacted directly by a business development representative from XXXX in the XXXX. The enrollment and payment were completed entirely over the phone. At no point during that phone call was I informed that I was signing up for an automatically renewing annual subscription, nor was I told that the membership would auto-renew unless canceled. I was also not informed that the fees were non-refundable or subject to specific cancellation notice periods. \n\nI was never directed to a website to review or accept Terms & Conditions, never asked to electronically accept any agreement, and never provided a copy of any written contract at the time of enrollment. I do not have any email record showing that Terms & Conditions were sent to me when I signed up. \n\nIn XXXX, my credit card was charged approximately {$4000.00} for a renewal that I did not knowingly authorize. After noticing the charge, I contacted XXXX to dispute it. XXXX claimed that I had agreed to an annual subscription and auto-renewal based on their internal Terms & Conditions, which they say I accepted at sign-up. They also stated that they did not receive a cancellation request prior to renewal. \n\nI disputed the charge with American Express on the basis of unauthorized recurring billing and services not provided. I explained to Amex that : The original transaction was completed over the phone I never agreed to an auto-renewing subscription I never saw or accepted the Terms & Conditions Connectd is relying on I never received a renewal notice prior to the charge A key part of the service a guaranteed pro-bono placement was never delivered, constituting a breach of the programs advertised services American Express denied my dispute, stating that the merchant claimed I accepted the Terms & Conditions and that no cancellation request was received prior to renewal. When I reopened the dispute and asked Amex to obtain proof that I agreed to the Terms & Conditions, Amex informed me that I would need to provide proof that I attempted to cancel the membership. \n\nThis request is unreasonable because I never knowingly agreed to an auto-renewing subscription in the first place. Requiring proof of cancellation presumes the existence of valid consent to recurring billing, which is the very issue in dispute. I repeatedly asked American Express to request from the merchant : Proof that I affirmatively accepted the Terms & Conditions ( e.g., click-wrap acceptance, timestamp, IP address, or signed agreement ) Proof that I consented to auto-renewal and recurring billing Proof that a renewal notice was sent prior to the charge Proof that the promised pro-bono placement was delivered American Express did not require the merchant to provide this proof and instead denied the dispute based solely on the merchants statement. \n\nI am filing this complaint because American Express failed to properly investigate an unauthorized recurring charge, relied on unsupported claims from the merchant, and placed the burden on me to prove cancellation of a subscription I never knowingly agreed to. \n\nI am requesting that the CFPB review American Expresss handling of this dispute and require a proper investigation consistent with consumer protection and fair billing standards. \n\nMy dispute has been denied twice because I requested that American Express obtain and review proof from the merchant that I agreed to the Terms & Conditions, including proof of acceptance of auto-renewal, proof the Terms were provided at enrollment, proof of any renewal notice sent prior to billing, and proof that the guaranteed pro-bono placement was delivered. American Express instead required me to provide proof that I attempted to cancel a subscription I never knowingly agreed to."
+}

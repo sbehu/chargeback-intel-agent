@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_538",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32720"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11620,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "They wont close account ..had to tell them card is damage they issue new card never got and someone is everyday using my account they let keep going letting it happen I live in Florida charging is going on from XXXX. I can not pay after telling it is not me..over XXXX XXXX now.."
+}

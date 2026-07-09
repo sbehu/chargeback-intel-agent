@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12825",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91748"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28472,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is the full timeline of events that occurred for a pair of shoes I bought from a XXXX company called XXXX. \n\nXX/XX/2026 : I purchased a pair of shoes that cost {$100.00} XX/XX/2026 : I did not receive any notice of a shipping email or confirmation. So I sent them an email, this is when they told me my original shoes were out of stock so I chose a different shoe to receive. They told me it will send within the end of the week. \n\nXX/XX/2026 : I receive a notice that they have shipped my shoes and gave me a USPS tracking number, however the package details show up as invalid and that they have no information on it. \n\nXX/XX/2026 : The shipping package number still comes up as invalid so I request a refund, within the 30 day policy so I can get my money back. \n\nXX/XX/2026 : They say that it was XXXX XXXX  and that they were closed and they now shipped. This was the last that I heard from them they stopped replying to me after this. \n\nAround this time is when I decided to dispute my charge with Citibank. \n\nXX/XX/2026 : Citi determines that I received my package because XXXX sent them a picture of the shoes I was supposed to get still in their factory. \n\nXX/XX/2026 : I have an email showing that XXXX acknowledges that I didn't receive my shoes yet because it got caught my US customs. They did not notify me when my original shoe was out of stock until I messaged them, and now they did not notify me that my shoe was seized by customs until I messaged them. They ask if I want another shoe or if I want a refund. I said I want a refund and they have told me to be patient and have stopped responding. \n\nI have email evidence for all of this and I don't know why Citi refused to acknowledge my {$100.00} dispute. I have attached all relevant screenshots below, showing that the package is still showing as invalid as of today XX/XX/2026, I have tried numerous times to have my package refunded for the full total amount, and that they have never notified me of changes to my shipping and original product until I message them first. Why would they not notify me of my shoe being out of stock until I message them 10 days later checking on my shipping status when I got a confirmation showing that my original shoe was confirmed? This company and bank has caused me so much frustration and headaches. I hope that you all are able to help me with this, thank you. I also chose credit card because it was most applicable to my issue, but I used a debit card not my credit card for this transaction."
+}

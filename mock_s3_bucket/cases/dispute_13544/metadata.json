@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13544",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43204"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20064,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card company keeps denying my claim for a dispute on my card. I placed an order but never received the item. I sent an email to the shipping company and they confirmed they didnt deliver the item and they returned it to XXXX XXXX. Best Buy wont issue me a refund because the shipping company marked it as delivered despite saying they didnt deliver it. Now I submitted the email as proof the item didnt get delivered and they keep denying the dispute"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4398",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20878"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19247,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used my American Express card to book reservation on XXXX on their website. I booked XXXX reservation for stay at XXXX XXXX and XXXX XXXX. \n\nReservations were pre-paid with specific rate. \n\nAfter stay, I got surprise bill with more than XXXX the original charge. I reached out to American Express, provided the original reservation and asked for refund. \n\nAmerican Express provided some documents from the merchant that is not readable and some invoices that I have not seen before and have not authorized. \n\nThey closed the disutes in favor of the merchant."
+}

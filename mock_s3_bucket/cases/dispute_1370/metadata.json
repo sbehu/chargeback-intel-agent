@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1370",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "740XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39676,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/23 - This is the first date I disputed a charge of {$10000.00} to Merchant named XXXX XXXX. I sent Amex copies of the Demand Letter sent to XXXX XXXX, copy of Secretary of XXXX filing in Massachusetts reflecting XXXX XXXX entity dissolving from the State of Massachusetts and XXXX XXXX used Massachusetts provisional venue in their contract after they dissolved their company entity from Massachusetts. I also informed Amex that the services were not as described or received as Merchant advertised. XXXX XXXX sent Amex copies of a contract that was signed for another service purchased and was paid for by other means, not by Amex. Merchant sent in screenshots reflecting that I utilized their digital services but these screenshots were for a different service, not the service that was being disputed. I reopened the dispute several times with Amex after this date and Amex continues to this day to use the evidence the merchant sent to justify the charge being disputed. The dates of the contract and the screenshots are dated prior to the charge date listed on my statement. \n\nI was forced to hire an Attorney regarding the matter with XXXX XXXX and my Attorney has several other clients who have signed with her regarding XXXX XXXX 's deceptive trade practices. Amex has refunded other clients who purchased XXXX XXXX services for the exact same service and amount. This was sent to Amex and I requested Amex to change the dispute reason to : services that were not received and not as described. Amex has refused to reopen the dispute due to the merchant sending in invalid proof to justify the charge, which is a deceptive act. Due to Amex siding with the Merchant instead of their customer, I now have to sue Amex for picking and choosing who they decided to refund in regards to this Merchant and their services. I have documentation that reflects Amex refunding other consumers in regards to the Merchant known as XXXX XXXX, who are being represented by the same Attorney as myself, and Amex refuses to allow this evidence on my behalf. They disregarded my evidence and re-billed this service on my card. \n\nAmex keeps stating that their investigation reveals that I signed a contract that states no refunds for a service called XXXX XXXX XXXX, which is dated XX/XX/23 and was paid for by a XXXX lender named XXXX. The $ XXXX charge on XX/XX/23 was for a service called XXXX XXXX XXXX, which was falsely advertised and the services that were suppose to be received were not received and not as described. XXXX XXXX only sent a copy of a Stripe receipt for the XXXX  XXXX charge and the receipt indicates that it was not given to the consumer. XXXX XXXX sent in a copy of the earlier contract for another service. Amex is not protecting their customer and is refusing to refund me based on Merchant documentation that does not apply."
+}

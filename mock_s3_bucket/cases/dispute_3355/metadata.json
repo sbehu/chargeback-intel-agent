@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3355",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14207"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28473,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Consumer Financial Protection Bureau Original Case XXXX XXXXXXXX XX/XX/XXXX This case was closed but the problem is not resolved. I could not respond until I received more information from XXXX. \n\nI do not owe Citi XXXX {$110.00} as XXXX refunded the $ XXXX Citi XXXX XXXX XX/XX/XXXX. I have explained this to Citi XXXX every month since XX/XX/XXXX and they keep wanting me to pay what has been already been refunded to Citi XXXX. \n\nI am attaching the e-mail from XXXX Dated XX/XX/XXXX explaining again what was done in XX/XX/XXXX. Citi Cards response from XX/XX/XXXX is irrelevant. The money was already refunded to them. \n\nXXXX XXXX"
+}

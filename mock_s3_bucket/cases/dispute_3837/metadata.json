@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3837",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13028,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called best buy credit card issued by citi to have payments made go towards a promotional balance that is set to expire XX/XX/scrub>XX/XX/2024. This request was made after my past promotional balances were paid off. The person I spoke to at their allocation department removed half of what is owed to that XX/XX/XXXX promotional balance and placed it on my account as a main balance causing me to get charged interest fees, which is not what I requested. I have called countless times to get their mistake fixed and i keep getting told that it will be resolved and nothing has been done. I have been dealing with this issue since XXXX of 2024. In total I have spoke to about 7 people who all have said that my account will be fixed. I continue to get charged interest for an incorrect balance. My deferred interest is also the same amount as it was before half the balance was moved over to my main balance. I have complained to citi ( Best Buy ) about these issues and nothing is being done. I am not sure what to do"
+}

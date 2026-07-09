@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4531",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "805XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45846,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A charge of {$1200.00} was made to my Costco CitiCard on XX/XX/year> for a transaction with XXXX XXXX. \n\nI have never used this card for any charge whatsoever, including this charge. \nI submitted a complaint to CitiBank. They provide me with a phone number to contact XXXX XXXX. The number is no longer in service. I can not locate another means to contact XXXX ( either phone or e-mail ). \n\nCitiBank has determined that I have provided insufficient information to resolve my complaint, and the charge will remain open and accrue interest.. \n\nSince I did not make the alleged transaction and can not contact XXXX, I have no way to clear this charge from my account. \nI have requested a new card with a different account number from Citi."
+}

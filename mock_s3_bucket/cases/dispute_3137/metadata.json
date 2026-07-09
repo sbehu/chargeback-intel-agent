@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3137",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37013"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46040,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Macys in regards to order XXXX. When the packages were delivered they were left in front of the recipient door and were subsequently not there when they arrived home. \n\n\nMacys said they do not require signatures nor do they file claims with the shipper. Making me to have to pay for items that were not received and I feel they are not protecting me in this situation as a consumer"
+}

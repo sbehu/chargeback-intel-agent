@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6585",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6363,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I had to cancel my Citi card because of fraudulent charges to XXXX and XXXX. I was issued a new card and have AGAIN been hit with similar charges. I have spent over an hour just on this particular case this time to understand why CitiBank is unable to secure my card appropriately so as to not have to continue to contact the company. \n\nMoreover, the call center is terrible. You can not understand very well nor hear very well what the person is saying. I had to ask no less than 3 times to speak with a supervisor to escalate the situation. \n\nApparently, when I have cancelled the card because of prior fraud, Citi FAILED to ensure that the virtual number was changed. Therefore, my card became the subject of fraud multiple times yet again. This resulted in more time spent by me to cross check and then spend an hour of my day to remedy the matter. \n\nIt should be noted that I maintain an exceptional credit score. \n\nCiti 's failure to protect my account is unacceptable as was their customer service until I was finally able to get someone locally who was listening to me instead of reading a script."
+}

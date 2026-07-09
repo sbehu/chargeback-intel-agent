@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1532",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3216,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I went on a XXXX cruise in XX/XX/scrub>XXXX  2023 and she bought jewelry in the amount of {$3500.00} from XXXX XXXX on board the ship XXXX XXXX. We were offered and took advantage of a promotion on the XXXX XXXX credit card where we were offered 12 months same as cash. When we returned from our trip we received our first invoice which showed an amount of {$5000.00} showing an overcharge of {$1500.00}. This was appealed immediately but rejected ( I am still in the process of appealing this overcharge. ) The overcharge was not authorized, and we have no idea where it came from. I have attached the jewelry invoice from XXXX jewelers along with the first bank statement showing an overcharge. I have called and discussed with both XXXX and XXXX at least seven times with no resolution. I have confirmed the amount that was charged from the vendor, XXXX, who confirmed that the proper amount of {$3500.00} was charged. \n\nI have attached a marked-up invoice of all credits and charges on the cruise. You will notice the charge of {$3500.00} from XXXX XXXX, but no other charges that are {$1500.00}- which we did not approve in the first place. \n\nI am very frustrated with this situation as this has been going on for over six months and has not been resolved. I have been given the run around on this with no solutions and hope you can help."
+}

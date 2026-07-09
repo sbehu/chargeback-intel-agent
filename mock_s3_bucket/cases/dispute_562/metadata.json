@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_562",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75032"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42607,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 the company XXXX XXXX ( attorneys at law ) issued several refunds to me from previous payments I had made. The amounts : {$150.00}, {$75.00}, & {$220.00} all showed up on my statement for XX/XX/2023. However the largest amount of {$1300.00} did not. \nI contacted the law firm and was told that the {$1300.00} had been refunded to my card ending in XXXX XXXXXXXX. This was the account I had when the XXXX XXXX was with XXXX XXXX \nI contacted Barclays customer service on XX/XX/2023 to ask about the remaining amount of {$1300.00}. I spoke with XXXX who informed me that since it the refund was issued to my old XXXX XXXX account that I needed to contact them because they \" still had my account information ''. \nI contacted XXXX Bank and let them know about the refund. I spoke with XXXX ( male ) who informed me that all of the account information had passed to Barclays and they did not have access to it anymore. He told me to contact Barclays and to file a dispute because the funds would have automatically transferred over within 30 days. \nI called Barclays back and spoke with XXXX ( female ) that I had spoken with XXXX XXXX and they did not have access to my old account and that I needed to file a dispute. She placed me on hold and asked the receiving department, then informed me that I needed to call XXXX XXXX back and ask for a supervisor because they did have access to my old account. The person they spoke to in receiving said they had access to old accounts that had been transferred. I was told that after I spoke with them ( not before ) I could call them back to file a dispute. \nI called XXXX XXXX back on XX/XX/2023 and was able to speak to the same XXXX who transferred me to his supervisor XXXX. She informed me that they definitely did not have any access to my old account and that I needed to file a dispute. All of the account information was deleted. \nSo I called Barclays back and requested the Dispute department ( from call options ). I spoke with XXXX who gave me the fax # and information they needed. \nAttached you will see the letter the mailed me confirming their receipt of the information, and their letter saying they could not resolve it because it had been more than 2 billing cycles. \nI see no point in yelling at them. The law firm should not have been able to issue the refund to a closed account. If it is able to, then the bank should have been able to successfully transfer the {$1300.00} over to my new account ending in XXXX at Barclays without me having to babysit them. I was not informed of the refund to my credit card ( no one else has ever done this, especially after so long ). I found it accidentally when I went to pay my bill more than a month after the transfer. At that point I was travelling with my family during the summer. Once I returned home I had XXXX kids to get ready for school. \nThe money transferred to Barclays Bank. They would not let me even speak with their dispute department, and gave inaccurate information to me multiple times about addressing this with XXXX XXXX. The only way there is a limit of 2 billing cycles is if they make one up. They have the money and unless they do not know how to do simple accounting, they can find it and give me the refund they were paid for. \nI have attached proof of the refund from the law firm showing successful. I have also attached my credit card statement showing the other successful refunds, and the fax cover that I sent them with this exact information."
+}

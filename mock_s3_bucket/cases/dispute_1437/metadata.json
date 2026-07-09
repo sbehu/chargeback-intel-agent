@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1437",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1757"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18469,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been trying to resolve a matter with Citibank Visa, since XX/XX/XXXX. A refund yo XXXX XXXX XXXX XXXX in the amount of {$980.00}, from Citibank was due in XXXX of XXXX. I was told by Citibank that it was done. XXXX XXXX has not received as of today, XX/XX/XXXX. I had to pay the refund in XXXX of XXXX to XXXX XXXX  I needed to renew my license and couldnt with an outstanding balance. Citibank has given me numerous transaction numbers and XXXX numbers to provide to XXXX XXXX to prove they refunded the money. They have all proved to be bogus numbers. I have spent countless hours on the phone with Citibank in the last 7 months. I have spoke with the recovery team supervisors many times, only told it was being reviewed to find out why XXXX XXXX hasnt received the refund. I have been promised phone calls with updates. No one ever calls. The last supervisor I spoke to on XX/XX/XXXX, told me I would receive an update on XX/XX/XXXX and XX/XX/XXXX. at the latest. I had to call today because no one called me back. She told me she was unexpectedly out of the office. She was sending another email to XXXX, the supervisor team member handling my case. When asked when I would receive an update, she told me XXXX was out of the office and didnt know when she would return. \nCitibank isnt disputing a refund is due. They are saying it was sent and they dont know why XXXX XXXX  hasnt received it. They will not let me speak to review team or give me an email to contact XXXX, investigating my claim. \nSo 7 months later, I am still out {$980.00}. I am a good customer of Citibank. Always pay my bill and have excellent credit. I appreciate any help you can provide."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1100",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22258,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A credit card was open in my name and a flight was purchased. I immediately got notification and canceled the flight and opened up a fraud investigation. The fraud unit said that I was liable for the cost of the flight which I did not take. They never contacted me. They never provided me with any details about the purchase of flight time what time I canceled the card. They did not complete an investigation and continue to charge me."
+}

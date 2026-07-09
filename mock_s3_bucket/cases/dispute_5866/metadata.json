@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5866",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95336"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42350,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a charge on my Citicard that was not approved therefore was fraud. Th back and I have been trying to resolve this since XXXX. At XXXX point credit card closed case without resolution and claimed I am responsible for XXXX amounts XXXX was over $ XXXXXXXX and the other was over {$600.00}."
+}

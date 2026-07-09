@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8279",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "077XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3923,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally dispute a charge of {$220.00} that appeared on my Citibank credit card on XX/XX/year>, from XXXX XXXX XXXXXXXX XXXX XXXX XXXX \nNeither I nor any member of my family was on this cruise. XXXX XXXX provided documentation showing the name and photo of the individual who made the charge. This person is not me, nor is he affiliated with my family in any way. \n\nI have contacted Citibank and disputed this charge on multiple occasions. Despite the clear evidence provided, Citibank continues to claim the charge is valid. This is deeply concerning, as the documentation clearly identifies someone else as the individual responsible for the transaction. \n\nAdditionally, I filed a claim directly with XXXX XXXX over a XXXX  ago. Since then, they have not responded to any of my follow-up emails, making it extremely difficult to resolve this issue. \n\nI am requesting a thorough investigation and resolution of this matter. I am prepared to provide all supporting documentation, including the charge details and the backup provided by XXXX XXXX. \n\nThank you for your attention to this matter. \n\nXXXX XXXX"
+}

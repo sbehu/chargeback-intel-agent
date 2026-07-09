@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5169",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "371XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13683,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is on a Best Buy Citi credit card. On XX/XX/year>, my card was charged for XXXX transactions fraudulently. There were XXXX charges of XXXX. I called immediately to report this as fraud. They said they would close it and report it as well as send a new card. They sent a new card out but when I called back XXXX weeks later to tell them the charges were still there, they said no one had reported it. They said to wait 60-90 days. Fast forward to XX/XX/year>, I got a letter in the mail saying they completed the investigation and were removing the charges from my account. I waited an additional week before calling back. The charges were still there so they said they would put in a dispute and that it would be another 45 days. I have called on 4-5 separate occasions. I keep getting calls from them to make my payment. I had a near perfect credit score before this and now it has been tanked. My wife and I are in the process of building a house as well as needing a new vehicle. I cant do either until this is resolved. I am absolutely XXXX because I have done everything right and cant get a person on the line that seems to be from XXXX. They keep putting it off. I just called again today and they said I have to call another number again tomorrow. Please lord XXXX help me. Thank you."
+}

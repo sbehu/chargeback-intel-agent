@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5612",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "370XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47971,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a hotel for a funeral last XX/XX/year> at the XXXX XXXX XXXX XXXX XXXX XXXX XXXX  XXXX Texas. I booked through i guess was a third party. The amount was for XXXX and i used my citibank double cash credit card to make the purchase. I then realized it was cheaper to book through the actual hotels website so i called the third party to cancel. They told me they would send a letter to the hotel and as long as the hotel signs and approves the refund i would receive my money back. I then booked directly with the hotel. Upon checking in we discovered poop all over our floor and blood stained on our sheets. They didn't have another room to provide to us or staff to clean the room, or extra bedsheets. So we ended up requesting a refund directly from the hotel as we could not stay there it was uninhabitable. The hotel gave us a full refund. Weeks later i still noticed i was charged from the third party so i contacted the actual hotel and they stated they sent the refund letter to the third party. I called citibank to dispute the charge. I sent them the documentation of the room confirmation, the photos of the uninhabitable room and explained what had happened.. It has now almost been a year and they are still saying the third party refuses to refund us. I called the third party and they said because i filed a dispute they refuse to refund me even though we didnt stay at the hotel, they were provided all the pictures and the hotel signed the refund letter. I do not know what to do but i want my {$560.00} back. I am completely enraged that my own credit card company doesn't have my back! I am the consumer! \n\nThe third party phone number is XXXX and my confirmation # is XXXX"
+}

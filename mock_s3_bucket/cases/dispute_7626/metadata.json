@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7626",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95757"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22609,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is in regards credit card transactions dispute with Citibank for the same merchant, but in separate charges. \n\nCase Number : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX On page XXXX XXXX of merchant responds which is the based for the denial of claims, is that merchant provided a proof of delivery, which is false and technically impossible, since the product purchases are not tangible items Merchant and its third party affiliate attempted to use a fake proof of delivery to support the products are delivered by their third party vendors, but in fact these are not physical delivery and no delivery person or carrier were ever assigned, nor any proof of delivery can be made. Hence the proof of delivery is false and. \n\nHowever, investigation from Citibank is not aware no physical deliveries were made and no tracking or shipment information were provided."
+}

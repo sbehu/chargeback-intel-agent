@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6781",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92127"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20270,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is in regards to the previous complaint I submitted against XXXX XXXX Citi Credit Card and XXXX XXXX. There was a fraudulent charge from XXXX XXXX XXXX in the amount of {$1200.00}, a person named XXXX XXXX XXXX booked and occupied a room in XXXX XXXX XXXX last XXXX XXXX and made a fraudulent, unauthorized charge. This person in not known to me and definitely not an authorized user of my credit card, I only known about this from Citi 's investigation .I have disputed this with Citi and XXXX , Citi initially said that I was responsible for the charge because XXXX said that all sales are final despite this being a fraudulent charge, Citi reversed the charge when I submitted a complaint to this agency, Consumer Financial Bureau last XXXX XXXX but now Citi sent an email dated XXXX XXXX that they are trying to resolve the dispute but XXXX is adamant in not to give credit and they are going to report me to the 3 credit reporting bureau if I do not pay the minimum balance. Citi supposedly has XXXX liability for fraudulent claims but in this case, which is clearly a fraudulent case they are not protecting me as their credit card holder of good standing."
+}

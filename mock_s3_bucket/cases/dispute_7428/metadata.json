@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7428",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30215"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47885,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX I made an online purchase for XXXX. I started the having second thoughts about it, and as I was looking up the product, I got a fraud alert from the credit card company. I automatically called them and ask them to stop the payment. This was less than XXXX to XXXX minutes after I had made the purchase. They replied that they could not stop the payment because it had already been made. I told them that they had just sent me a fraud alert and that I couldn't believe they had paid it in that short of time. We argued back and forth, till I finally asked to speak to a supervisor. When they finally transferred me XXXX to XXXX minutes later to a supervisor, we argued back and forth about the transaction. I finally told them to just cancel that credit card completely. It was the first time I had ever used it, and I didn't want it anymore. They tried to tell me they would issue me a new card with a new number, but I just told them no I wanted no part of it. Now I've gotten a bill not only for the original payment but for an additional {$10.00} late fee. I have told them I will not pay this."
+}

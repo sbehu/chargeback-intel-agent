@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2656",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "346XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17633,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We filed a dispute against a XXXX on our Citi Bank XXXX on XXXX XXXX 2024 in the amount of {$5300.00} Citi XXXX in its dispute process that it will be like a tennis match back and forth and will give us an opportunity to rebuttal what the other party submits. None of this happened we are still yet to be presented with the contractors statements from the dispute. \n\nCiti sided with the XXXX and we submitted documents from professionals backing up our claims to why we disputed the charges so we can only assume they never really looked at the incident and all the information in the dispute. \n\nbelow is a short synopsis of what happened We hired a XXXX to Fix our XXXX and used Citi bank XXXX as our form of payment ( to protect us from a situation like this ). The XXXX did everything wrong as far as the work goes and we supplied Citi with plenty of documentation on the situation from outside professionals and contractors. Citi XXXX with The XXXX because we didn't let them continue/finish the work which would have cause further damage and we couldn't return the permanently installed fiberglass not our fault they did it wrong & that we had to spend many thousands of dollars to remove and repair. \n\nWe will supply images and documentation we submitted to this complaint as well as pictures in XXXX of the professionals document Citi Refused to look at."
+}

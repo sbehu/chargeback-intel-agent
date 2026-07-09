@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_866",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33615"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6079,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On my Best Buy CITI credit card ending in XXXX I have a fraud charge from XX/XX/XXXX that I can not get resolved. \nOn XX/XX/XXXX I was charged {$860.00} from XXXX XXXX  XXXX, this is a fraud charge and I notified CITI. \nOn my XX/XX/XXXX statement the charged appeared and an adjustment of {$860.00} appeared. \nOn my XX/XX/XXXX statement {$860.00} appeared as XX/XX/XXXX and {$860.00} appeared as XX/XX/XXXX. \nOn my XX/XX/XXXX statement an adjustment appeared for {$860.00}. \nOn my XXXX - XXXX statements only interests appears on the {$860.00} I have contracted CITI about every month about this. Everyone that I have talked to agrees that the {$860.00} was not credited back to my account and every time I talk to them they say they need 30 days to resolve it. \n\nToday XX/XX/XXXX I spoke to XXXX in the fraud department and she agrees that the {$860.00} was not credited back to my account and she opened up another investigation and wants 30 - 40 days to resolve the issue. I told her this has been going on since XX/XX/XXXX and that time period is unacceptable. \n\nI am hoping that you can help with this matter."
+}

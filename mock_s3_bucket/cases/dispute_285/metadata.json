@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_285",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "185XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25852,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed a charge of {$62.00} on my Citi card that I did not authorized and had already late fees. I called Citibank bank in XXXX when I noticed and Citi Bank gave me credit back and removed the late fees too. On XXXX XXXX, 2023 I got an alert from XXXX that my credit card with Citibank was already late and had late fees. I called CitiBank and asked about it but they said the merchant had proof that the purchase was legit. I request Citi Bank to send me the proof from the merchant. In the documents the merchant sent, they have a different email that the one Citibank has for my file, the merchant gave email XXXX, the purchase was done in XXXX XXXX on XX/XX/2023, I have my records from my job that I was at work on that date in PA, USA. \nI already explained to Citibank that it was not me and that I am also a victim of fraud and XXXX in monitory my credit because back in XX/XX/2023, XXXX, XXXX had a security incident that resulted in the unauthorized disclosure of my personal informantion"
+}

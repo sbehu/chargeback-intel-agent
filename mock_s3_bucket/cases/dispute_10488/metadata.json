@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10488",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85233"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36716,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Product : Credit Card Company : Citibank AmountXXXX I am disputing a {$930.00} credit card charge for a XXXX XXXX purchase. The merchant never shipped the merchandise and provided no proof of delivery. \n\nThe merchant also confirmed in writing via email that a refund would be issued. No refund was ever processed. \n\nDespite non-delivery and the merchant 's written admission that a refund was owed, Citi allowed the charge to stand. Citi did so without providing proof of delivery or proof of a refund from the merchant. \n\nMarket volatility or XXXX XXXX clauses are irrelevant to this dispute, as this is a non-delivery and credit-not-processed case. \n\nI am requesting that Citi reverse the charge or provide a written explanation demonstrating compliance with the Fair Credit Billing Act and applicable XXXX dispute rules."
+}

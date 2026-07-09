@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7909",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "AZ",
+    "complaint_zip": "85381"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17864,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally request your direct assistance in resolving multiple unauthorized charges that have been made on my American Express account. Despite my previous attempts to resolve this matter through Amex customer service and fraud departments, the charges remain, and I have not received an adequate resolution. The only charge that was authorized which I explained to Amex customer service department occurred on XX/XX/XXXX for the amount of {$300.00}. The rest of the charges were unauthorized and were made by my previous partner without my knowledge, presence and consent. Per the Fair Credit Billing Act, cardholders are not responsible for unauthorized use of their card if it can be demonstrated that no permission was given for the disputed transactions. Also, under the American Express Fraud Protection Guarantee, I am not responsible for unauthorized charges made by individuals without my permission, and I believe I have been misrepresented and wrongfully charged.The disputed transactions occurred between XX/XX/XXXX through XX/XX/XXXX and totaled {$5000.00}. \n\nI did not authorize these transactions, nor did I receive or benefit from any goods or services related to these charges. Despite my good-faith efforts and providing supporting evidence the Fraud Department and the American Express XXXX XXXX has denied my claim and placed responsibility on me without adequate explanation. I am disappointed with the response I have received thus far, especially considering American Expresss long-standing reputation for prioritizing cardholder protection and exceptional customer service. According to Federal law, specifically Regulation Z of the Truth in Lending Act ( TILA ) any action to enforce cardholder liability must be supported by proof that the charges were either authorized, or that the conditions of liability for unauthorized use have been met. Per 15 U.S.C. 1602 ( o ), unauthorized use is defined as use by a person without actual, implied, or apparent authority and from which the cardholder receives no benefit.\n\nI have been a loyal/ responsible American Express customer since XXXX and value our relationship. American Express are the ones who should have been in my corner as a customer and in the conversations we had thus far I have been done an injustice. Looking at my history, I have never been late on a payment or have disputed any charges on my account. However, I am deeply concerned about how this issue has been handled to date. \n\nAs stated above, I revoked access to my card immediately after the initial authorized purchase. Therefore, any further use by the individual lacked any form of authority. I have received no benefit from these charges, and they qualify as unauthorized under Federal law."
+}

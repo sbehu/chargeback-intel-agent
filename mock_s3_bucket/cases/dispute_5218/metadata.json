@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5218",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "038XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16322,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX, Citi contacted me about suspicious activity on my card. There were 9 or 10 charges, totalling over {$3300.00}, on a card that I may use twice a year.I disputed all of them by phone and followed up with a letter on XX/XX/XXXX, listing the charges and stating they were fraudulent. Citi canceled my card, removed the charges until they could investigate and issued a new card.The end of XXXX, they sent me a letter indicating their investigation showed that {$250.00} was legitimate and I was billed for it. On XX/XX/XXXX, I sent them a letter disagreeing with their decision.As I told them, I am going to be XXXX this year, widowed, don't travel and this charge represented a hotel stay in Florida, I live in NH. Further, it is not logical that I would jeopardize a near perfect lifetime XXXX XXXX for {$250.00}. I don't believe Citi did anything other than check with the charging company who showed they had my name and address. The phone number from which the charge was made, is not my phone number, made from an \" I '' phone which I have never owned, from an IP address that is not mine. A bill was sent out to me showing a balance of {$250.00}. I have so far not received any response to my last letter to them."
+}

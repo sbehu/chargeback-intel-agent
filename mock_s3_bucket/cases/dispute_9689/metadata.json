@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9689",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "2151"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10875,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My name is XXXX but it's spelled XXXX XXXX. Date of birth XX/XX/year> social security number XXXX XXXX I have a JetBlue credit card Barclays I will give you the account information as soon as I'm able to log in. I don't remember the password. I wrote it down and it's not what I wrote down. I was supposed to go to XXXX XX/XX/XXXX from XXXX  XXXX stop over in Massachusetts where I live and then straight flight to XXXX somehow or another. The ticket got canceled and they took the money. They keep saying they return the money JetBlue but Barclays the money still out of the account. JetBlue gave me a receipt. It's still not good enough for Barclays and I'm getting nowhere with either of them. Jet blue is giving me the runaround they keep telling me a hundred different stories and Barclays is also giving me a hard time. I try to dispute the charges. I got them the receipt and it's still no good. They've discontinued the claim. They said I have to give them a letter and a new receipt of the dates. I can not get this receipt for the love of XXXX. For some odd reason I'm getting nowhere and I've been trying for 2 months. It is {$6100.00}. 24 jet blue took I can't get nowhere. Please help me"
+}

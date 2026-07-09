@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4744",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AP",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35939,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX of XXXX  I went to school using my XXXX card as it's mandatory for XXXX XXXX XXXX. While I was in school, XXXX charges were on my account ; XXXX for flights and XXXX for agent fees. After the military paid the card off this year, I was informed by citi bank there was still a balance to which they started adding on late fees and have since terminated my ability to use the card due to these XXXX charges that I've since disputed XXXX of this year and has still and yet to be resolved. The representative went as far to imply the military itself had put these charges on my card and that I needed to take it up with them as she's seen this happen before. She also said she can only discuss this further with the XXXX. I called back in after locating the XXXX which was time wasted as the representative hardly spoke to him. I'm always told I'll receive a call back, which never happened over the span of 5 months. My family and I are due to XXXX  and need the card for flights ( per military guidelines and regulations ) and I can not due to the fact this issue is unresolved. I'm unsure how my account can be closed off to me based on fraud. This is malpractice."
+}

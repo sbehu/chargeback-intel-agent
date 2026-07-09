@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4926",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "35811"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10876,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXXXXXX  Dear Representative, Please protect me from American Express. American Express has repeatedly engaged in intentional deceptive and abusive practices that violate my consumer rights, as evidenced by the following : 1. Conflicting Dispute Timelines : American Express has provided inconsistent information regarding the timeline for my dispute. XXXX  XXXX shows a chat message confirming that my dispute timeline was valid through XX/XX/year>. However, the next week I received an unsigned letter dated XX/XX/year>, stating I had 30 days to provide additional information to support my dispute. \n2. Unreviewed Dispute Closures : On XXXX XX/XX/year>, American Express opened and closed my dispute without conducting a proper review, XXXX XXXX XXXX XXXX. Blocked Online Access : XXXX XXXX  demonstrates how American Express intentionally blocked my account from accessing the online dispute portal, further hindering my ability to resolve the issue. \n4. Billing During Dispute Period : Despite being within the 30-day dispute timeline, American Express billed me for the XX/XX/year>, payment. This is documented in XXXX  XXXX and represents a direct violation of their stated dispute resolution policies. \nThese actions by American Express are not isolated incidents but part of a recurring pattern of deceptive practices. Such conduct undermines transparency and accountability, leaving consumers like myself exposed to unfair billing and dispute-handling practices."
+}

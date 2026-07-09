@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4511",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ND",
+    "complaint_zip": "58102"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34060,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a formal complaint regarding unauthorized charges on my Best Buy credit card, issued by Citibank NA. Nearly {$1000.00} in fraudulent transactions were made to a scam website, XXXX, reportedly based in XXXX and known for fraudulent activity. These unauthorized charges pushed my account over the credit limit. \n\nI promptly disputed these charges, explaining that I believe someone gained unauthorized access to my personal laptop, which contains my email and credit card information. Despite my explanation, Citibank denied my dispute, claiming that the account on the scam website was linked to an email address I may have owned. This, however, does not prove that I made these purchases, especially since I explicitly stated in my dispute that this access was unauthorized. Under U.S. law, I can not be held liable for charges I did not authorize. Despite multiple attempts to resolve this issue with Citibank, they hav\ne refused to reverse these charges or offer any assistance. I can not reasonably be expected to pay for transactions I did not make.\n\nI respectfully request that the CFPB investigate this matter and ensure that Citibank complies with federal consumer protection laws.\n\nDesired Resolution : 1. Reverse all unauthorized charges made to my account.\n\n2. Remove any over-limit fees or penalties caused by these fraudulent charges. \n\nSincerely, XXXX XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11847",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11414"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5228,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting unresolved fraudulent charges on my Citibank credit card account ( across multiple account numbers ) that have remained unresolved for over XXXX months despite repeated attempts to correct the issue. \n\nSince XXXX, I have consistently disputed unauthorized transactions and have spent significant timeacross numerous callsworking with customer service. Despite this, Citibank has continued to deny my claims without conducting a reasonable or good faith investigation. \n\nI never received any replacement credit cards that Citibank claims were issued. \nI have repeatedly stated this on recorded calls over multiple months. \nCitibank denied my disputes based on XXXX chip transactions, asserting the charges were made with a physical card by XXXX or my authorized user This is not possible, as we did not have a card in my possession at the time of the transactions. \nCitibank also claimed that an authorized user confirmed possession of the card. This is false. My husband is the only authorized user, has never received a card, and has never contacted Citibank and my phone number is the only number on record with Citibank I have contacted Citibank monthly since XXXX and have never been contacted by the fraud investigation department. \nMy disputes appear to have been repeatedly denied without meaningful review or coordination between departments. \nI ultimately closed the account after continuing to receive statements reflecting fraudulent charges. \nThese charges are now negatively impacting my credit, which has otherwise been excellent. \n\nI maintain high monthly spending across other financial institutions, including XXXX XXXX and XXXX. The disputed amount ( under {$2000.00} ) is not significant relative to my normal spending and would have been paid immediately if legitimate. The time and effort required to resolve this issue far exceeds the value of the charges."
+}

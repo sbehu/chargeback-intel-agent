@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3281",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40696,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have an Amex XXXX card, and I was given {$200.00} in hotel credits. I booked a hotel on XXXX ( {$350.00} ) and I was credited {$55.00}, which are correct. However, when I cancelled that hotel booking on XXXX, I got refunded ( {$350.00} ), and also a charge back of {$250.00}. I understand that the credit will be clawed back, but the amount should be {$55.00}, b not {$250.00}. \n\nI have tried to contact Amex and they always redirect me to Amex travel. And Amex travel always says that they are investigating, but have not got back to me."
+}

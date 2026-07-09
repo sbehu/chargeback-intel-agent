@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1260",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85142"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35558,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I purchased items from XXXX worth {$1700.00} and received my order on XX/XX/2023. In XXXX, upon inspecting the items, I found they were all defective because they weren't sewn properly, it's unsaleable. I contacted the merchant about the defects, informing them I could return the items as they offer a 30-day free return for defective items. The merchant ignored my request and insisted on remaking the items, but I declined, worried about a repeat issue. I took the matter to XXXX, but after almost a month, there's still no solution. I went to Citibank to dispute the charge. Despite providing all the necessary documents, Citibank credited me {$130.00}, which is not enough. I expect the full amount back, as I showed evidence of the defective products, evidence of the merchant ignoring my request to return the items, evidence that they offer a 30-day return, and more.\n\nIn Citibank 's first letter, they asked if I attempted to return the items, which I provided proof of my messages to the merchant that I want to return the items. However, I can't return the items if the merchant doesn't provide a return shipping label. How am I supposed to return them if I don't know where to ship them? \n\nCitibank 's last letter mentioned their attempt to resolve with the merchant, who still refuses to issue a credit."
+}

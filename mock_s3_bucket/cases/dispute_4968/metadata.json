@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4968",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "91354"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49542,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, my account was charged {$1900.00}, which was processed using a forged signature. As of XXXX, this account has been classified as charged off and written off ; however, it continues to be reported actively. I recently contacted the company to request a 1099-C form, considering the account is now closed. I was told to follow up with them during the next billing cycle for more help.\n\n15 USC 1681s-2 : Responsibilities of furnishers of information to consumer reporting agencies The laws in effect on XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXCONSUMER CREDIT PROTECTION 1681s2. Responsibilities of furnishers of information to consumer reporting agencies ( a ) Duty of furnishers of information to provide accurate information"
+}

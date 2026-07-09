@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3612",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34759"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33445,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I notified Barclaycard that there were charges on my account that I did not make. Those were removed and the card was closed. I did not receive a new card until XX/XX/XXXX. On XX/XX/XXXX, XXXX charges of {$350.00} were made to my account for a total of {$710.00}. This makes no sense to me. How did Barclaycard approve a charge on a closed credit card? I suspect that there is internal fraud taking place at Barclaycard. After repeated attempts, I finally was able to speak to someone from their fraud department. I was told that they will not reverse the charges until they complete their investigation. That makes no sense. How can they leave charges on my account when the card used was cancelled? It really stinks of fraud within Barclaycard. Also, since it was their mistake, the charges should be removed immediately. HELP! PLEASE!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8959",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30101"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17124,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Unauthorized rebill on disputed charge without required documentation Barclays XXXX Rewards Visa Description of the problem : I am filing a complaint against Barclays regarding an improper rebill of a disputed transaction related to case number XXXX. \n\nOn XX/XX/year>, Barclays sent me an official letter confirming that a provisional credit had been applied to my account for a disputed charge of {$1500.00}, from XXXX XXXX XXXX. \nThe letter clearly states that : If we rebill your account, we will do so within 90 days and provide an explanation in writing along with copies of the relevant documentation. \n\nHowever, on XX/XX/year>, Barclays posted a RE-BILL for the same amount ( {$1500.00} ) on my account without providing any prior notice and without supplying any of the required merchant documentation, violating the terms stated in their own dispute letter. \n\nI received no written explanation, no evidence from the merchant, and no communication of any kind prior to the rebill. \nThis violates : The banks own written dispute policy, Fair Credit Billing Act ( FCBA ) requirements for proper notice, My rights as a consumer during an active billing dispute.\n\nI am requesting : 1. Immediate restoration of the provisional credit 2. Reopening of the dispute 3. Full copies of any documentation allegedly provided by the merchant 4. A written explanation for the rebill 5. Review of Barclays failure to follow dispute compliance procedures Barclays acted improperly by rebilling without notice, and I am seeking CFPB assistance to ensure the bank complies with FCBA regulations and restores my consumer protections. \n\nAccount ending : XXXX Rebill posted on : XX/XX/year> Disputed amount : {$1500.00} Thank you for your assistance."
+}

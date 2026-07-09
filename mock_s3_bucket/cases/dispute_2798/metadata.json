@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2798",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "220XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11881,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened up a dispute XXXX with XXXX through my Citi card for returned goods. I returned the merchandise in accordance with their policy and the merchant promised to refund me. Going off of that promise, I decided to withdraw the dispute because it was handled with the merchant. The merchant now is not honoring the return, instead offering to give me a merchandise credit which is not within the terms and conditions of their store. I called Citi and asked to re-open the dispute because I close it under false pretenses and they refused to do so."
+}

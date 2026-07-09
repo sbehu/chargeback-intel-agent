@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2581",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "329XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24786,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted XXXX XXXX XXXX XXXXXXXX XXXX XXXX ( XXXX, Fl ) regarding a problem I was having. They sent a gentleman by the name of XXXX XXXX who showed up with his cousin XXXX XXXX. After they left, i realized that the problem was never resolved and in addition I received XXXX separate bills one from XXXX XXXX in the amount of {$570.00} ( for changing thermostat and running fluid through the AC ) and the other from a company called XXXX XXXX XXXX XXXX in the amount of {$2900.00} for charges to my credit card : I contacted Macy's/America Express about stopping charges which his boss, XXXX who came to my house from XXXX XXXX  to evaluate XXXXXXXX XXXX work and told me I was ripped off by XXXX and that it had nothing to do with his company I did not hire XXXX from XXXX  XXXX, I hired XXXX XXXX and will not be responsible for a secondary company coming to my residence when I did not hired him in the first place.. HIs boss XXXX whom I contacted from XXXX XXXX  told me that XXXX was just fired and that he did not perform any of the work listed on his bill. Subsequently I had to hire XXXX XXXX XXXX to do the work that XXXX, from XXXX XXXX never did. which cost me over {$7.00}, XXXX  for that to be redon. Between XXXX XXXX XXXX I contacted my credit card company : Macy's/American Express to refute the charges for {$2900.00}. They told me they would put a freeze on the charge while they investigate. Approximately 3 months later sometime in XXXX, I received a letter from the credit card company stating a credit to my account in the above amount. About one month after, I received another letter from the credit card company stating the following : \" Based on the results of our investigation we determined that you are responsible for the disputed charge. '' I am disputing this charge with the credit card company since I did not hire XXXX XXXX  XXXX. In essence, XXXX XXXX, was the respondant superior that is responsisble for me being ripped off from the secondary company XXXX XXXX, that I did not hire."
+}

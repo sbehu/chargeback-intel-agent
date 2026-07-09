@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2344",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29607"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26642,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Unfortunately I was the victim of a scammer. I immediately sent documentation of what happened and proof that this fraudulent merchant did not provide the services she still charged me for and dishonestly refused to refund me appropriately. I was so upset this happened to me and felt violated after being taken advantage of and swindled. For unknown reasons American Express decided to agree with the merchant who blatantly lied and offered no proof of her false statement, which obviously contradicted the true facts of the situation that I had already provided. I feel so unsafe now knowing that I have no protection as an American Express customer who pays an annual fee to use this card. What they did to me is completely wrong. I do not deserve this."
+}

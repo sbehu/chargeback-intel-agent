@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-23491684-US
+Shipment Date:   2026-03-07T00:00:00Z
+Delivery Date:   2026-03-31T00:00:00Z
+Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
+Destination:     7670 RIVER AVE, CA, 94103
+============================================================

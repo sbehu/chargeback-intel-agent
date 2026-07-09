@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-89062253-US
+Shipment Date:   2025-11-16T00:00:00Z
+Delivery Date:   2025-11-19T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     379 OAK BLVD, PA, 51296
+============================================================

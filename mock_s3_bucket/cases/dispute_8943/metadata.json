@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8943",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94551"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17588,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was charged {$500.00} by XXXX XXXX. The merchant verbally confirmed on several occasions ( approximately XXXX times between XX/XX/XXXX to XX/XX/XXXX ) that a refund had been processed. However, the refund never posted to my American Express account. \n\nFollowing American Expresss guidance, I first attempted to resolve the matter directly with the merchant. When no refund appeared, I contacted American Express to open a dispute. The representative advised that the dispute could not be processed because more than 60 days had passed since the statement date showing the charge information I was not made aware of until XX/XX/XXXX. \n\nI believe I acted in good faith and within a reasonable timeframe, as I repeatedly followed up with the merchant and relied on their multiple verbal confirmations that a refund was being processed. My actions were consistent with American Expresss own dispute resolution instructions. \n\nI am requesting that American Express reopen the dispute and investigate the merchants failure to issue the promised refund, or alternatively, provide a credit of {$500.00} to my account. \n\nI have attached supporting documentation, including statements showing that no refund was ever received, as well as the only email communication from American Express confirming that an investigation was underway. No correspondence was ever received indicating that the dispute was considered untimely or closed."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_479",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83709"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31863,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX  I opened a purchase dispute for an XXXX purchase in the amount of XXXX. I ordered a Laptop but XXXX sent an empty box ( full of packaging and heavy box material but no laptop ). This is a well known XXXX scam. I contacted XXXX to report the issue, via phone and the rep told me I could file a return but to get a refund XXXX would expect a laptop. Since it was impossible to send XXXX something they did not originally send me ( effectively refusing the return ) I filed a purchase dispute with Citi. \nAs of XXXX Citi claims they have \" completed an investigation '' in favor of XXXX Citi has violated my rights under the FCRA multiple times detailed below : 1 ) Citi never sent any acknowledgement of the initial dispute 2 ) Citi never attempted to contact me to get any additional information in regards to this dispute. How can you claim to do a reasonable, unbiased investigation if you do not even talk to the party that has been damaged and needs a dispute resolution? \n3 ) Citi never provided me with the response from XXXX or allowed me to respond they just closed the dispute in XXXX favor with no communication to me. How can you do an investigation in good faith if you are not transparent and allow your customers to respond. \n4 ) Citi missed every major communication required under my FCRA in regards to this dispute 5 ) Citi has clearly a bias in favor of XXXX in this instance. This item was either taken out of the box before it was stocked at XXXX or taken in transit and the package was stuffed with enough material to offset the weight difference. The box was heavy enough from the packaging to not alert me to an issue until I opened the package to realize no laptop was present. I would be interested as to how XXXX could provide \" proof '' that the laptop was actually delivered to satisfy an investigation when I just received an empty box. Nothing about this investigation was done thoroughly, above board, or in good faith."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5111",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76017"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9617,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The 2 credit cards involved American express and XXXX XXXX. \ntwo apartment companies XXXX XXXX XXXX XXXX XXXXXXXX, Tx XX/XX/year> The XXXX XXXX XXXX XXXX, TX XX/XX/year> I have a sixty day notice I have to put in to get deposit back. \nI tried to secure a new apartment with a lower rent las summer. \n\nI shopped online. I tried to put a down payment online on a 2 bedroom /2 1 bath at Tides.\n\nI found out the management team is in California and doesn't knopw what apartments are ready to be moved into. The lady at the leasing office didn't know I had made a purchase online. So my money is in management teams account but the leasing office says that they didn't know who I was or what I wanted. Even with paperwork. \nI called american express to remove payment due to not getting the apartment. XXXX associate removed it. 2 days later it shows back up. I found out another associate put it back on. Said I owed company XXXX $ But the application was never processed. So I did not owe them anything. I call management team they say I can have refund.. American express says that I can't. and put a XXXX $ XXXX XXXX XXXX on my statement in XX/XX/year>. And won't remove it. Says it's because I didn't pay off my monthly bill and I only put {$200.00} down on it. \n\nXXXX did the same thing. After I called Management team 2 times. Management company says they will remove it. And did and I had no balance for about 5 days. Then I got an email saying I owe XXXX XXXX plus late fees. They had put the charge back on card and activated my card and it is on there still to this day. \n\nThere is no processessing fee if apartment leasing associate doesn't even know that you were wanting to rent an apartment. So I feel I am entitled to my full refund. \n\nXXXX XXXX XXXX  is a real estate scam. It sucks money out of peoples accounts but doesn't consider whether they even received desired goods or services. And these two credit card companies allegedly are using it to punish people who do not pay off full balance. I was never late with my payment. So I'm not sure, why they were so hostile. They add more money than necessary to my bill then overcharge me by making the interest be more than it should have been. All I have is my credit card statement showing an attempt was made twice to purchase item."
+}

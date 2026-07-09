@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3353",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60639"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42594,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Well, the problem I have with Home Depot is that I had XXXX credit cards with them, sometimes they make you offers to buy things that require financing and they give you a discount if you open a card account with them, that's why I had XXXX, since last year I only used it once, which was {$550.00} in surcharges that I put on XX/XX/XXXX. In the charge they sent me in XXXX is when I realized that someone was committing fraud with my last card # XXXX account # XXXX. On XX/XX/XXXX they made a transaction of {$980.00}, on XX/XX/XXXX they made another of {$510.00}, on XX/XX/XXXX another of {$510.00} and finally XX/XX/XXXX another of {$24.00}, in total of {$2000.00}. Then the same thing happened with my other Home Depot credit card, last card number # XXXX last account number # XXXX. On XX/XX/XXXX they made transactions for {$1400.00}, on XX/XX/XXXX {$1400.00}, on XX/XX/XXXX {$33.00} and finally on XX/XX/XXXX {$460.00}, for a total of {$3400.00}. I quickly called the Home Depot credit card department and reported the fraud on both cards, they told me they would send me new cards. On XX/XX/XXXX they sent me a letter reporting the fraud that I had filed. On XX/XX/XXXX the Home Depot fraud department sent me a letter saying that they were investigating the facts and that I was still responsible for paying what was not in dispute. On XX/XX/XXXX the fraud department sent me another letter that while they are investigating I still had to make the minimum payment of what I owed. On XX/XX/XXXX I paid my entire account # XXXX {$210.00} and I no longer owed them anything. On XX/XX/XXXX the fraud department sent me a letter that they closed account # XXXX. On XX/XX/XXXX they sent me another letter that I am not responsible for the transactions. At the end of XXXX I received a charge from my Home Depot card that there was a new transaction made on XX/XX/XXXX for {$490.00} on the last card # XXXX that I never made, I called the Home Depot credit card to file a new fraud claim and at the same time I closed the account so that those who were committing fraud with my credit card would not continue making transactions. On XX/XX/XXXX I received a letter from the Home Depot fraud department that they were going to investigate and that I was not obligated to pay anything. Because I closed account # XXXX, they transferred the balance of what I called that I did not do and I reported fraud to the new last card # XXXX of {$490.00}. I called the fraud department again to file another claim. On XX/XX/XXXX the Home Depot fraud department sent me a letter again saying that they were going to investigate and that I did not have to pay anything at the moment. On XX/XX/XXXX the Home Depot fraud department sent me a letter saying that they had completed their investigation and had dropped the charges. On XX/XX/XXXX I received another letter from the fraud department telling me that they had completed their investigation and that they found that I was responsible for the charges, that they had already investigated and dropped the charges, why are they putting them on me again if I did not make those transactions? Again I called the fraud department to file another claim for those transactions. Again Home Depot sent me another bill to pay the minimum of {$490.00} which I never made. Again on XX/XX/XXXX they sent me a letter from the fraud department saying that they had completed their investigation and that I was responsible for those charges."
+}

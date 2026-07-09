@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6578",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33467"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38321,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "sometime in XXXX of XXXX, specifically XX/XX/XXXX, there was an authorized charge that I did not make from a merchant of the name of XXXX for an amount of XXXX I was XXXX  at the time and was just making minimum payments and having it on autopay as I had to attend to my XXXX. by the beginning of the year in XX/XX/XXXXXXXX  when I was doing some reconciliation and my baby was a bit older is when I recognized the unauthorized charge and immediately made a claim. American Express assured they would handle this and even credited me the amount back. a few months later which makes it about XXXX or XXXX is when they come back with a resolution that this charge was made by a party known or recognized to me which is absolutely not true at all! I asked amex to provide me with proof of such statement or documents that this individual made the charges and they could not do so. they said the merchant that I made the claim against just provided a name and that was sufficient. I find this not acceptable because this is clearly hearsay and should not stand in a case like mine. I have been a loyal American Express cardholder and it saddens me that they are siding with the merchant, no proof of delivery, no proof services rendered and no irrefutable proof of any kind to prove this charge should belong on my account! amex went ahead and applied the charge to my account and now want me to pay for it even though I submitted to them police report and re explained the situation. I am a victim of identity theft and receive a pin every single year to file my taxes. I could have easily been a victim of another id theft that gathered information of family members and pretty much a phishing scam. I would like for American Express to remove this unauthorized charge from my account and take my proof and remove this amount from my minimum payment due as I do not even have the funds to cover that amount. I pay amex a hefty yearly fee to receive the absolute best service and fraud protection and they are just absolutely failing me."
+}

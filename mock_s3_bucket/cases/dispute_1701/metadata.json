@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1701",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1545"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3259,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My name is XXXX XXXX XXXX, and I have been a loyal Citi Bank customer since XXXX. In XX/XX/XXXX, I noticed fraudulent transactions on my Citi XXXX XXXX Credit Card with the number XXXX XXXX XXXX XXXX. Immediately, I contacted Citi customer service to dispute these charges, which amounted to 10 transactions detailed in the attached statement for the month of XX/XX/XXXX. \n\nTo my surprise, I later discovered that Citi had transferred these fraudulent charges to a new credit card ending in XXXX without notifying me. I want to emphasize that I never received this new card physically, and I certainly did not authorize or make any transactions on it. \n\nRecently, I received a notice demanding payment of the debt, totaling {$3100.00}, on the card ending in XXXX. Despite my repeated efforts, the situation remains unresolved since XX/XX/XXXX. The frequent calls and notices related to the fraudulent transactions have caused significant distress. Regrettably, this experience has led me to reconsider my banking relationship with CITI. \n\nThank you for your prompt attention to this matter."
+}

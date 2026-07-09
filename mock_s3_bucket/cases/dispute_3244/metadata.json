@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3244",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "13090"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12516,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Starting late XXXX of this year XXXX purchases were made off of my XXXX account using my Old Navy store card that was linked to my XXXX account. I did not realize this card was still linked to my XXXX account, which was already confirmed It has been hacked confirmed by the XXXX XXXX XXXX XXXX. They confirmed this when the attempts were made on my XXXX XXXX XXXX XXXX XXXX transactions were made before I realized that my XXXX was still being used with one of my current cards still linked to it. I have contact XXXX. I have contacted Barclays Bank and XXXX to look into these fraudulent purchases, and they all keep coming back to me that they can not confirm its fraud.I was at my job at the time of almost all of these purchases. I also have not used XXXX in a long time because I have my own car now. I had asked XXXX to at least tell me where these XXXX rides were located and they couldnt give me that information so I have no idea if they were even in my own hometown. I keep re-opening the claims through Barclays bank, even though theyve came back to me several times that they cant confirm anything. \nXX/XX/XXXX, XXXX {$22.00} XX/XX/XXXX, XXXX {$24.00} XX/XX/XXXX, XXXX {$3.00} XX/XX/XXXX, XXXX {$19.00} XX/XX/XXXX, XXXX {$24.00} XX/XX/XXXX, XXXX {$16.00} I also dont know if it matters but the card these purchases were made on has been canceled and I have a new one."
+}

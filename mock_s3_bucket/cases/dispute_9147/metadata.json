@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9147",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85395"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36284,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was contacted by a company and engaged in a contract for services. After doing more research I determined that the arrangement was not to my benefit. I requested cancellation of the contract within the company 's timeframe. The company stated they would refund the money. I discovered no refund was completed and disputed the charge. Citibank told me to request a refund from the company. I again requested the refund. Multiple times the company, XXXX XXXX XXXX, assured they would refund the charge."
+}

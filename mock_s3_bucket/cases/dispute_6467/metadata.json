@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6467",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33714"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34369,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went on a cruise on the XXXX XXXX from XX/XX/year>2025 to XX/XX/year>2025. On XX/XX/year>2025 the merchant XXXX XXXX charged {$17000.00} to my credit card for what they claim was a series of {$1000.00} charges from their casino made to my room. I asked the merchant for copies of signatures or video evidence of who made the charges. They ignored my request. \nOn XX/XX/year>2025 I disputed this charge with Citibank. I fully explained the situation and I provided Citibank with all of my correspondence requesting information from XXXX. I told Citibank that XXXX refused to verify any signature or provide any evidence of who made the charges. \nOn XX/XX/year>2025 Citibank asked me to provide them specific details concerning the claim even though I had already done this with the initial dispute on XX/XX/XXXX. \nOn XX/XX/year>2025 even though Citibank had received no response from the merchant they sent me a letter saying they are unable to assist me in this dispute. They said to resume the investigation I would have to provide them with a credit slip from the merchant even though I clearly had explained to them that the merchant was unwilling to issue a credit in the first place. On XX/XX/year>2025 I called Citibank and talked to XXXX extension number XXXX and explained to him that I was never given a credit slip. He confirmed that the merchant has so far ignored their request for information and that Citibank would reopen the investigation. \nOn XX/XX/scrub> 2025 I received a letter from XXXX XXXX at Citibank again asking for a copy of a credit slip from the merchant. I responded with an email on XX/XX/year>2025 again explaining that no credit slip was issued because the merchant has refused to issue a credit. \nAfter numerous phone calls to Citibank 's dispute department I finally received a letter on XX/XX/year>2025 saying that Citibank is unable to assist me in this dispute due to the fact that the charges were billed to my card when I was on the cruise. \nCitibank is ignoring the fact that there there is no evidence that I authorized these charges and that the merchant has refused to provide any documentation about these charges. In fact the merchant ignores all requests for information from Citibank and has never responded in any way to either me or to Citibank regarding this dispute. Citibank has not lived up to their obligations to conduct a thorough investigation into this matter and to render a decision consistent with the facts."
+}

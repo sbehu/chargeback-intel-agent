@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13228",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60607"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7790,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Paste this into * * What happened? * * : I am disputing any balance, interest, fees, collection activity, or negative reporting by Citibank/Citi Retail Services related to a Wayfair mattress purchase that arose from a failed merchant remedy after a Wayfair bed collapse.\n\nThis was not a normal voluntary purchase debt. My Wayfair bed collapsed around XX/XX/year> under XXXX # XXXX. Wayfair was aware that I needed a safe sleep setup because the collapse left me without a safe place to sleep and worsened my mobility/pain issues. I repeatedly told Wayfair that replacing only the bed frame would not solve the problem because the mattress was also damaged/unusable and I needed a complete safe-sleep accommodation.\n\nWayfair and/or its merchant/manufacturer partners later acknowledged the replacement mattress cost as reimbursable. Coaster confirmed reimbursement for a {$1500.00} replacement mattress, plus related assembly/removal costs. However, Wayfair then attempted to condition payment/reimbursement on signing a broad release that would affect my future legal rights, including injury-related claims. I refused to sign away future legal rights just to obtain reimbursement for a mattress that was needed because of the failed Wayfair bed. \n\nBecause I needed safe sleep, I was effectively pressured into purchasing/replacing the mattress while the underlying merchant responsibility remained disputed. Citi is now treating the mattress-related balance as owed even though the charge is directly tied to Wayfairs failed remedy, unsafe-sleep situation, acknowledged reimbursement issue, and release-pressure conduct.\n\nI am not asking Citi to decide my injury claim against Wayfair. I am asking Citi to properly investigate this as a disputed credit-card purchase and stop treating it as an ordinary debt. Citi should not collect, add fees/interest, or report the disputed amount as owed while ignoring the merchant evidence showing the mattress cost was part of the collapse-related remedy and reimbursement dispute. \n\nI want Citi to open or reopen a formal billing dispute, mark the amount as disputed, suspend collection activity, correct or delete any negative reporting tied to this charge, remove interest/fees tied to the disputed amount, and provide the full investigation file and merchant evidence Citi relied on to claim that I owe this balance. \n\nFor the publish checkbox under the box : I would * * leave it unchecked * * unless you want this public later."
+}

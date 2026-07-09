@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7069",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "50023"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14153,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase on the website XXXX for an advertised steam account for a specific game. The purchase was for a separate steam acct from my own personal one. XXXX was forcing me to link my own personal acct to their system. This was not advertised at all and I was not comfortable providing acct info ie. password/username. XXXX support was not helpful and they blocked my account for even just bringing up a possible chargeback as they were not properly listing the steam acct requiring a personal steam login. I issued a chargeback with Citi in XXXX regarding this. The process took a couple of months, during this time Citi never reached out for my story or supporting docs that I was not sold what was advertised. Then today XX/XX/XXXX they issued a decision saying I was responsible. They provided no reasoning or any request for the supporting docs I had. Their phone line is robot XXXX. They stated a email was sent but I can not locate said email explaining why this decision was made. Keep in mind this was only a XXXXXXXX XXXX  charge."
+}

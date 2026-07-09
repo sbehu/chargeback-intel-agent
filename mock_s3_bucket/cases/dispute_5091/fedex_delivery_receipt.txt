@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-36195265-US
+Shipment Date:   2025-11-01T00:00:00Z
+Delivery Date:   2025-11-08T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9924 GREENWOOD AVE, MA, 024XX
+============================================================

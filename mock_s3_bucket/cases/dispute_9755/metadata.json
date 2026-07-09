@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9755",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7871"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31596,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I placed an online order with XXXX XXXX. Below is a screenshot of the online order confirmation. I also received a text with the following XXXX, which still shows the order as confirmed : https : XXXX Despite this, my credit card was charged immediately for {$190.00}, yet the item has never shipped. As of today, XX/XX/year>, the order has not progressed, and I have received no updates or tracking information. My repeated attempts to contact the company and cancel the order have gone unanswered. \n\nCitibank has repeatedly denied my dispute claims for nondelivery of goods, and they have not provided me with specific documentation the merchant provided that led to the claim being denied."
+}

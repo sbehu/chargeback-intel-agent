@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4560",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46687,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I sold my home at XXXX XXXX XXXX, XXXX, CT and moved to Florida. In XX/XX/year>, after receiving my card statement, I verbally ( telephone ) reported a fraudulent purchase on my Old Navy ( Barclays ) credit card in the amount of {$150.00}. Records indicate the fraudulent purchase was made on XX/XX/year> and items were reported as delivered on XX/XX/year> to my old address at XXXX XXXX XXXX, XXXX, CT where I had not lived for more than XXXX weeks. \n\nWhen I had reported the fraudulent purchase the card was immediately cancelled and I was sent a new card at my new address in Florida. The disputed charge was initially taken off the account. \n\nThe following month I received a letter on XX/XX/year> stating the merchant ( The Gap ) stated the purchase was legitimate and that I was responsible for paying the bill, plus interest and late fee. \n\nI immediately called Barclays to dispute their claim and asked how they made their decision. I was told they used public record that I was domiciled at XXXX XXXX XXXX, XXXX, CT on the date of delivery. This was untrue and I offered to provide proof that I was not living at that address on the date of delivery. They provided a fax number for me to fax closing documents on my house sale and a copy of USPS verification of change of address. I was also given a Dispute Reference number ( XXXX ). I wrote a detailed letter with dates documented and faxed it along with the closing documents showing the sale of my home on XX/XX/year> and the USPS change of address document. The XXXX change of address document clearly stated that packages are not forwarded to a new address. I thought this was more than sufficient proof I was not living at the XXXX XXXX XXXX, XXXX CT address at the time of delivery and that the fraudulent items allegedly delivered there were not forwarded to my new address in Florida. Additionally, I made several calls during the month of XXXX to inquire about the case, as I had not heard from Barclays since the faxed letter and documentation. I was told it would take 30 days. \n\nI received two letters from Barclays, both dated XX/XX/year> ( addressed to my Florida home ). One stated they had tried to contact me several times by phone without success and provided a phone number for me to call about the case. I note that I have an IPhone and any calls, whether answered or not, would be stored. There were no such calls as stated in their letter. The other letter dated XX/XX/year> stated that based on information available, ( we ) have concluded that the transactions you identified are not fraudulent, and that I was responsible for payment plus interest and late fees. Furthermore, the letter stated that I was reported to XXXX, XXXX, XXXX, and XXXX. \n\nI immediately called Barclays and asked how they could make their decision since I had proven I was not living at the address the fraudulent items were allegedly delivered to, and the fact that USPS goes not forward packages. I was again told public record showed that was still living at the address at the time of delivery. I told the representative I wanted to file a complaint and speak to a manager/supervisor. I was told managers are on the XXXX XXXX and there is a XXXX hour time difference so they would have to call me back. I agreed to have a manager call me back and provided my phone number. That was nearly a week ago. No phone calls have been received."
+}

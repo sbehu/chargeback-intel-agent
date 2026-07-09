@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7329",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75028"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43395,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I was scammed and purposefully overcharged for a service that was never completed while traveling in a foreign country with my XXXX XXXX XXXX XXXX. The merchant charged my credit card against my will twice in the amount of {$250.00} for a total of {$510.00}. I never authorized this amount especially not twice. \n\nWe were supposed to be dropped off at our XXXX XXXX XXXX de XXXX from the XXXX via a XXXX XXXX. The distance from the XXXX to our hotel was less than XXXX miles away however instead of being taken to our hotel we were taken to a random street that was secluded and they tried to force me to take money out of an ATM. At this point I became very fearful for my safety as well as my daughters. I put my card in the ATM and pretended to act like I was trying to get cash, in hopes that someone would walk by so we could ask for help. My credit card company can see the canceled ATM activity on my account. I repeatedly asked for the price and was refused he would just keep yelling you pay. The guy at this point grabbed my credit card out of my hand against my will and charged my account using two different devices and refused to show me the amount he was charging. He then took off with his accomplice not providing any receipt or proof of amount charged. My XXXX  and I had to walk over a mile back to our hotel in a foreign country feeling very fearful of these men. I checked my pending charges as soon as we made it back to our hotel and called Barclays customer service to let them know about the situation. Customer service advised me I would have to call back once the charges posted to the account which I did but they have declined the dispute because I do not have a receipt. I sent a letter of intent to my credit card company asking them to reopen the dispute and again they are not helping and reason I was told over the phone was again because I do not have a receipt. These guys refused to provide any receipt and took my card out of my hand against my will. Doing research on my own for XXXX prices from legitimate merchants should have been {$26.00}. These scammers charged my card the amount that would have been for a full XXXX hour day tour. We were not on the XXXX for more than XXXX minutes and were not taken to our destination. I am asking for help in getting my money back that was stolen from me."
+}

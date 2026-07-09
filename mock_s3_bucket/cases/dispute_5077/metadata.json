@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5077",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83687"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45538,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased 2 business class ROUND TRIP airline tickets online with a company called XXXX. The charge was {$2700.00} EACH total of {$5400.00} Once the transaction was complete XXXX did a bait and switch and turned the tickets into 2 ONEWAY tickets. I called American Express within an hour on XX/XX/XXXX XXXX i explained the situation they said the charges were pending so they had to wait for them to post and then I could file a dispute.i asked if i should close my account they said no that they block the merchant however they did not do this and i was charged over {$140000.00} from the merchant! I also called XXXX to cancel the reservation within 24 hours. ( which is the allowed time frame for cancellations ) I have been getting the run around since XX/XX/XXXX. The first time American Express filed the claim they filed the dispute incorrectly. Then the second time they contacted the merchant the merchant send documents that were not legible! The dispute was closed in the merchants favor even though the documents were illegible! How can that happen? It is as if they dont defend their card members at all. I finally closed my account on XX/XX/XXXX and paid off the balance ( except for the disputed amount of {$5400.00} ) I have spoken to over 70 different representatives including someone in the executive office named XXXX. I cant get a straight answer to from anyone. I finally did get a credit back for {$2700.00} but the other $ XXXXremained my responsibility. I called on XX/XX/XXXX and spoke to a supervisor XXXX and a representative named XXXX. They both told me that the dispute was closed NOT in my favor but I was ACCIDENTALLY given a credit back for {$2700.00} I was shocked I asked for a letter confirming this. They refused! When I called back at a later date the story had changed once again. Now they said the dispute was closed in my favor and I have been given credit for both amounts and the remaining balance was a revolving balance from XX/XX/XXXX. I also called XXXX and they said {$2700.00} has NOT been refunded! They suggested calling American Express and have them request a refund. When I called to inquire American Express would not give me a straight answer! Im at a loss for words. I also spoke to XXXX on XX/XX/XXXX She gave me a compliant number and assured me that someone would review all the phone calls since XX/XX/XXXX and that if I was mis advised I would NOT be responsible for the balance and I would get a refund She was also supposed to call me a week later but never did. .My records show that I have overpaid them already. I have continued to pay the minimum payment on the disputed amount because i didnt want this to affect my credit score. Please help me hold American Express accountable. I was an excellent card member in good standing for over 13 years before this happened. I have also received numerous letters that are contradicting as well. Thank you very much for your time.. XXXX XXXX"
+}

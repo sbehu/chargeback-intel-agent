@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4798",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "AL",
+    "complaint_zip": "36695"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14765,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened an account with XXXX  with credit line of $ XXXX. I spent about {$800.00} on that card and got XXXX XXXX XXXX XXXX XXXX XXXX and XXXX XXXX. Next thing i noticed is my bill was up to $ XXXX. upon checking there was fraudulent charges and cash advance and my account was on auto pay-paying way more than the XXXX XXXX  i owed. I reported to Amex but they done nothing and insisted that i pay the whole amount ( XXXX ) I would like Amex to revisit this account and review the fraudulent charges especially the multiple XXXX XXXX XXXX cash advance withdrawal"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6545",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60540"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1345,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Against : American Express XXXX : Improper handling of a fraudulent charge dispute Submitted By : XXXX XXXX Relevant Parties : XXXX XXXX, XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX, XXXX Account Type : American Express Credit Card Complaint Description : I am filing a formal complaint against American Express for its mishandling of a fraud dispute regarding a charge from XXXX XXXX of XXXX XXXX, XXXX. Despite providing clear documentation that this charge was unauthorized and involved no signed agreement, no card authorization, and no services rendered, American Express has improperly sided with the merchant. \n\nHere are the facts : I never authorized this charge, never signed a credit card authorization form, and never approved any charges through swipe, chip, or entry. \n\nI did not retain XXXX XXXX for any follow-services after our initial conversation because he immediately began acting unprofessionally and unethically. \n\nI have ongoing litigation and filed disciplinary complaints against his license and he retaliated by dumping a bunch of defamatory information in his rebuttal with information that isnt my information. The information provided is highly insulting. \n\nThis is not a billing disputeit is fraudulent use of my credit card by a legal service provider who knowingly acted without authorization. American Express has violated its own fraud policies by refusing to escalate or reverse this charge, despite having detailed evidence that no services were rendered and no authorization was given. \n\nI am requesting immediate CFPB review and an order requiring American Express to : 1. Fully reverse this unauthorized charge, 2. Correct my account records, 3. Provide written confirmation that this merchant will no longer be allowed to charge my account, and 4. XXXX what internal policies were followed when denying this disputedespite clear, sworn allegations of fraud. \n\n\n\nResolution Sought : Full reversal of the charge Written explanation from American Express Sanctions or investigation into Amexs dispute practices if systemic failure is uncovered"
+}

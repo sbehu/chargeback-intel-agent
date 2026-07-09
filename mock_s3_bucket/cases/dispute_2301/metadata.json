@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2301",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91941"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38873,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase for a XXXX on a website that turned out to be fraudulent. The website was impersonating an actual XXXX XXXX. This was discussed on XXXX XXXX XXXX, and was the actual XXXX XXXX even posted on their website after the fraud was discovered. \n\nI disputed the charge with Citi, but they simply checked with XXXX ( the processor the fraud used ) who said the purchase was legitimate. There was a phony XXXX tracking number provided, which Citi used to verify the delivery. The XXXX XXXX XXXX clearly doesn't match the purchase and the picture of the product delivered is obviously not a XXXX based on size, or origin of shipment. Citi has denied the dispute."
+}

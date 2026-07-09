@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3433",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "444XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34820,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2024 I noticed a bill show up in my online access for my banking card. When I looked closer it was for Macys. The bill was over {$300.00}. I never made a purchase that large so I called toll free number and was told the purchase was mailed to an address in XXXX XXXX XXXX XXXX XXXX XXXX and would never have a purchase sent anywhere other than my home. At that point they opened a fraud investigation. In XXXX I returned a call per Macys credit card to explain why I was filing/disputing this charge. In XX/XX/2024 I received a letter stating that I didnt prove the purchase wasnt made by me and that I was now responsible for full payment. I did not make or authorize any purchases that were sent anywhere than my home address. Ive never had a history of going such things with this Macys store card. I should not have to pay for something that I didnt purchase or authorize."
+}

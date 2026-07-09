@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1357",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28215"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5988,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, multiple charges were attempted on my Barclaycard, several from merchant showing as XXXX. I was notified via text by the credit card company to call to confirm. I called in and advised an agent the charges were fraudulent. My card was closed, I was issued another one with a new number. The transactions never posted to my account. That is until XX/XX/XXXX, when I noticed that a charge from XXXX appeared on my acct for {$580.00}. I clicked on a button that said \" dispute charge '' multiple times as there was no indication or confirmation that the claim was filed. The screen just returned to my account. I assumed I would receive notification that the claim was filed in the mail. \n\nToday, XX/XX/XXXX, I received a letter stating that a provisional credit had been placed on my acct previously for the full disputed amount for the transaction. It also stated the transaction was deemed valid based on merchant information provided and the provisional credit was removed. \n\n1. This is not an authorized charge. I have never made a purchase with XXXX. Multiple charges of varying amounts were attempted by XXXX on XXXX, all of which were disputed when called in. According to an agent I just spoke with, the others were \" approved '' as valid claims, the one listed above was not. \n\n2. I was never provided a provisional credit, although the letter says I did and that it was reversed. I was never charged on XXXX, or on any subsequent date until XX/XX/XXXX for the {$580.00} purchase. When I asked the agent why I received an inaccurate letter, she stated that it was a general letter that applies to \" most claims '' but acknowledged that it did not apply to my claim, as I was never provided a provisional credit nor did the transaction post. \n\nI've asked to receive the merchant documentation and to have the claim reviewed again. I'm currently pending the results of both requests."
+}

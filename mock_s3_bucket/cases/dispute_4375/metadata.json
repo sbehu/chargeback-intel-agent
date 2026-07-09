@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4375",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84074"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40723,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Continuation of claim # XXXX and XXXX, both now listed as closed. American Express refuses to return funds stolen from my bank account, presumably by American Express employees. American Express continues to disregard concerns, and refuses to address missing funds. American Express representatives refuse to speak with me regarding the theft and fraud perpetrated upon my account by American Express employees. American Express refuses to to participate in the recovery of my funds beyond admitting they stole them and applied to another members account."
+}

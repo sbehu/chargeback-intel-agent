@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4244",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20152"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33035,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was unable to file a dispute or report the card stolen or lost online and over the phone. When I called and went through the robot system and asked to settle a dispute the line disconnected. I never lost my card, it was always in my wallet. However, a new card was opened under my name and a purchase made that I did not make. The website will also not allow me to change my account password."
+}

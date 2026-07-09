@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5723",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11746"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27647,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a charge appear as fraud on my credit card. The charge for a car rental was prepaid then later a charge was made again."
+}

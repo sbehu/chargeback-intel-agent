@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6744",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22619,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX American Express charged me twice for the amount of {$4200.00} ( {$8500.00} ). \n\nSince XXXX I have the autopay set up to pay my monthly balance to American Express. \nAmerican Express claims that I submitted the payment two times.\n\nIm only asking to get back on my bank account {$4200.00} especially because on XX/XX/XXXX I will have to pay federal tax as well as XXXX tax. \nAmerican Express wanted to send me a check to my XXXX address but Im abroad right now and can not get mail so I asked for a wire transfer or for a check via email! \nSo last week AmEx under my request made a wire transfer to my bank account which is the sane bank where money were taken. I was told that within 24, 48 or Max 72 hours I would get my money back. Yesterday, more than a week later, I called again and was told that the transaction failed. They give me no explanation for that. The agent made a new wire transfer and added it can take up to 12 business day this is the time frame I asked a claim number and I was given this refund Ref ID XXXX XXXX disgusted by the greediness of this behavior intended to get profit out of money. \nI pay {$350.00} for American Express member and I wont renew it!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11399",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24880,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "SUBJECT : FCBA Violation by Citibank - Refusal to Investigate Documented Merchant Fraud ( Case # XXXX ) I am filing this formal complaint against Citibank for violating the Fair Credit Billing Act ( FCBA ). Citibank is enabling merchant fraud by refusing to review exculpatory, legally binding evidence. A merchant ( XXXX XXXX ) fraudulently charged my card {$1800.00} for pre-existing vehicle damage. Despite providing Citibank with a physical document signed by the merchant 's own employee proving the damage was pre-existing, Citibank closed my dispute stating \" the rental car agencies have final audit ability, '' effectively abdicating their legal duty to investigate fraud. \n\nTIMELINE OF EVENTS : XX/XX/year> ( Vehicle Pick-up ) : I picked up a rental car from XXXX in XXXX. Before leaving the lot, I requested a physical inspection. A XXXX agent manually marked pre-existing scratches on the front bumper with \" X '' XXXX on an official \" Minor Damage Register '' and signed/initialed it. ( Evidence attached : Signed document & time-stamped photo of the agent filling it out at XXXX AM ). \n\nXX/XX/year> ( XXXX XXXX ) : I returned the vehicle. \n\nXX/XX/year> ( The XXXX XXXX ) : XXXX billed my Citibank card {$3100.00}. This included an un-invoiced phantom fuel charge AND {$1800.00} for the EXACT same pre-existing bumper damage their own agent had already signed off on. \n\nXX/XX/year> ( Dispute Opened ) : I opened a dispute with Citibank specifically for the {$1800.00} fraudulent damage charge. \n\nXX/XX/year> ( The Automated Error & Formal Appeal Submitted ) : XXXX issued a partial refund of {$310.00} to cover the unrelated phantom fuel charge. XXXX automated system improperly assumed this resolved the dispute and reversed my provisional credit. I immediately called to reopen the case and submitted my \" FORMAL APPEAL & COMPREHENSIVE EVIDENCE SUMMARY, '' which included the \" Minor Damage Register '' signed by the XXXX agent. \n\nXX/XX/year> ( Addendum Exposing Merchant Fraud Submitted ) : After reviewing XXXX 17-page defense provided by Citibank, I submitted an \" ADDENDUM TO APPEAL - REBUTTAL TO MERCHANT 'S SUBMISSION. '' I explicitly showed Citibank that XXXX was committing procedural fraud by : Fabricating claims of \" pet waste, smoke, and dirt '' nowhere found in their own damage report. \n\nConfirming the XXXX refund was for an unrelated overbilling, not the damage. \n\nDeliberately withholding the signed \" Minor Damage Register '' from their submission to the bank to conceal the pre-existing damage. \n\nXX/XX/year> ( Citibank 's FCBA Violation ) : Completely ignoring my detailed appeals and the irrefutable proof of merchant fraud submitted on XX/XX/XXXX and XX/XX/XXXX, Citibank issued a final rejection letter stating : \" The rental car agencies have final audit ability for billing purposes. We can not mandate the merchant issue credit. This investigation will remain closed. '' CONCLUSION & DESIRED RESOLUTION : Citibank is allowing a merchant to use their network to extort consumers. Blanketly stating that a merchant has \" final audit ability '' to charge whatever they wanteven when the consumer has explicitly exposed fabricated claims and provided a signed document from the merchant proving the charge is fraudulentis a blatant violation of consumer protection laws."
+}

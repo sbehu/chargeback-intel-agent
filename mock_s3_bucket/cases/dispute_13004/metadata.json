@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13004",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "440XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ordered ticket on XXXX. Didn't receive ticket on XXXX XXXX date. Contacted XXXX  to refund amount charged. Was denied, no refunds for any reason. Filed dispute with Citi credit card XXXX goods not received. Citi denied my request on XXXX after XXXX waited almost XXXX days to respond to them with generic \" no refunds for any reason '' to run my rights time limit out. Citi then at this point allowed me to respond through writing emailed on XXXX with proof of goods not received. XXXX Citi closed my case stating no recourse due to time frame. However I first responded on XXXX and was told to simply click dispute on my online statement. I considered this my written dispute within the first XXXX days based on XXXX proffered methods."
+}

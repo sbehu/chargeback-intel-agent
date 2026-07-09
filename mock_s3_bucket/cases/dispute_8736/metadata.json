@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8736",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34957"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44788,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a merchant called XXXX XXXX  ( XXXX 's XXXX  XXXX XXXX XXXX XXXX FL ) charged my American Express card {$670.00} for an annual membership auto-renewal without providing any advance notice. \nI immediately canceled the membership the same day upon discovering the charge. The merchant refuses to refund, claiming I \" opened emails '' ( which is not service usage ) and stating that their website disclosed auto-renewal terms. \nThe merchant 's Terms of Service contain a clause stating customers \" agree not to dispute any charges, '' attempting to waive my rights under the XXXX XXXX XXXX XXXX \nI have disputed this charge with American Express. I am very thankful that the dispute is temporarily resolved in my favor, but I am concerned the merchant will contest it because of their email responses to me. I am filing this complaint to document : XXXX. No advance renewal notice was provided for a {$670.00} charge XXXX. I canceled immediately upon discovery ( same day ) XXXX. XXXX 's terms include unenforceable provisions waiving dispute rights XXXX. This appears to be a deceptive automatic renewal practice I have also filed complaints with the Florida Attorney General, FTC, and BBB. \nMerchant : XXXX XXXX ( XXXX 's XXXX  XXXX XXXX Website : XXXX  Location : XXXX XXXX XXXX XXXX, XXXX XXXX, XXXX XXXX FL XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6217",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55124"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16876,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I signed up for the Home Depot Credit Card which is apparently though Citibank. I was told by the rep ( XXXX ) in the Home Depot store when verbally agreeing to the credit card that it was zero interest for 6 months and I specifically asked if it was deferred interest and the rep said no that I would not be charged any deferred interest and interest wouldn't start accumulating until after the 6 months which turns out to be a lie. The reps are clearly incentivized to lie to customers and there's even something that says you get a free soda if they don't mention the home depot credit card as you are checking out and paying for your items. Even if I somehow signed somewhere agreeing to these terms the rep told me otherwise and that is grounds to dismiss these fees entirely."
+}

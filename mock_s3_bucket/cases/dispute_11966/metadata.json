@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11966",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92127"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28813,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing Citibank 's failure to resolve a billing error regarding XXXX identical charges from XXXX XXXX on XX/XX/year>, each for {$1000.00}, totaling {$3000.00}. \n\nI have communicated extensively with Citibanks Executive Response Unit ( Ref : XXXX ), but they denied my claim, citing the merchant 's \" non-refundable '' policy. This is a fundamental error in their investigation because this is a \" Service Not Rendered '' case, not a simple refund request. \n\nI have provided clear, irrefutable evidence from the airline 's official website proving that the booking reference ( ULPAPS ) does not exist in their system. The airline has taken my money without providing a ticket or a flight record. Under the Fair Credit Billing Act ( FCBA ), the bank is required to correct billing errors when services are not delivered. Citibank is currently siding with the merchant despite physical proof that no service was provided. I am requesting a full reversal of the {$3000.00}."
+}

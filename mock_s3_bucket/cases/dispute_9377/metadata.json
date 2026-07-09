@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9377",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94565"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40809,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/25 a purchase was allowed to go through from XXXX on a credit card number that had been reported lost to Citibank approx. XXXX weeks prior. The purchase was for XXXX. The old credit card was stored on file with XXXX. However this credit card was reported lost and all associated tokens and digital account numbers should have been disabled. I made the purchase and immediately realized my mistake. I then went back and purchased what I believed to be the same tickets with the new and updated credit card information. To my dismay both transactions were allowed to go through. I even have an invoice showing the first purchase was done using the credit card number that was reported lost XXXX weeks prior. I tried first reaching out to XXXX and then reaching out to citibank. I followed up with Citi via email trying to further explain that the issue was not with XXXX and was actually on their processing side. The email and evidence I sent to Citi was completely ignored in the case decision by Citi. Citi closed my case and decided to reverse my temporary chargeback as soon as XXXX responded. I want to be clear, this is not an issue with XXXX. This is an issue with Citi processing and allowing the charge to go through on a credit number that was reported lost. Any tokens or digital account numbers associated with the old credit card number should have been disabled. The fault clearly falls with Citibank. Citibank failed to comply with Regulation Z- Unauthorized use protections. I would like Citi to take responsibility for this unauthorized charge."
+}

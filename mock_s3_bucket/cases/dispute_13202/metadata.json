@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13202",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28146"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36437,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX reversed a charge on my CitiBank account XXXX The reversal never showed up on my CitiBank account. When I contacted CitiBank they told me they are unable to see the transactions or the reversal. They told me I needed to provide proof of transaction/reversal in order to receive my credit back. \n\nDates of XXXX XXXX Transactions : XX/XX/XXXX {$620.00} XX/XX/XXXX {$320.00} XX/XX/XXXX {$0.00} XX/XX/XXXX {$0.00} Date of Enterprise Rent-A-Car XXXX Reversal : XX/XX/XXXX {$940.00} I have had to make several phone calls and emails only to find out I need to dispute this with CitiBank Corporate and mail them proof of XXXXunds/reversal. XX/XX/XXXX I mailed a letter of proof of funds/reversal to CitiBank Corporate from XXXX XXXX and highlighted the date and amount of reversal. XXXX/26 I received a message in my CitiBank account denying my dispute saying \" We are unable to help due to not being contacted in a timely manner. '' The information they provided me was irrelevant and from a previous rental car use on XXXX/24 {$1400.00}, which is the incorrect date and amount. \n\nAccording to CitiBank 's website it can take a few days to several weeks to receive the refund in your account. I have been waiting since XXXX/26 for my {$940.00}, I have provided both proof of transactions and reversal and still they are denying my dispute because they are unable to find it on the statement."
+}

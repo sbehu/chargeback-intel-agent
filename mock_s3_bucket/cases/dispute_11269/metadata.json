@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11269",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "VA",
+    "complaint_zip": "22152"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1305,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Account at the XXXX was hacked, I was unable to access my account. I sent multiple emails to XXXX and requested to fix my account access of cancel my account and refund my money. XXXX never replied to my requests. \nI reached out to Citibank and spoke to the customer service agent, he promised that after he removes the online charge validation XXXX will not be able to charge my account. However, I see the charges appear again on my account from the last two months and Citibank is not cooperating. \nPlease fine citibank as much as possible and XXXX also. \n\nRegards"
+}

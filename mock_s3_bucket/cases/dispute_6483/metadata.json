@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6483",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NM",
+    "complaint_zip": "87105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19710,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased an e bike from a company called keep bike the transaction was made through a company called shop using my costco citi bank visa. I was supposed to be directed to a paypal screen for purchase with payments. However the button I clicked was for purchase with the citi card. Instantly it completed the transaction. I then quickly clicked to cancel order. I also sent two emails canceling the order. I notified costco citi bank visa. The company that handled the transaction has no way to cancel transaction. I called keep bike and they said that it would take XXXX business days to process. The total cost of the bike is XXXX. Dollars. Citi bank said that they would investigate and that they would not charge my card until it was resolved. On the week of the XXXX of XX/XX/year> I transferred my citi card balance to a XXXX interest card. Thats when citi bank said they completed their investigation and said that I am liable for the money. I have not received an E bike."
+}

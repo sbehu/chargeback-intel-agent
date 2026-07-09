@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9085",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MN",
+    "complaint_zip": "55347"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3031,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a tour with the merchant on XX/XX/year>, based on the refund terms published on their website. Those terms clearly state that cancellations made at least 7 days before the tour date qualify for a refund minus the deposit. I paid the deposit at booking and paid the remaining balance on XX/XX/year>. The tour date was XX/XX/year>. \n\nI canceled the tour on XX/XX/XXXX, XXXX14 days before the tour datein full compliance with the only cancellation terms ever shown or disclosed to me. The merchant refused the refund and instead cited additional terms and conditions related to hotel bookings. These terms were never provided or disclosed at any point before or after payment, nor at the time of cancellation. I reviewed my entire email history, including junk/spam folders, and these terms were never sent. \n\nAfter I disputed the charges, the merchant submitted an invoice to American Express that included these additional cancellation restrictions. This document was never provided to me before I paid for the tour and was never part of the contract. It contradicts the published policy that I relied on when making the purchase. The merchants invoice appears to be an internal document created or modified after the fact, not a set of terms presented to consumers.\n\nI submitted clear evidence to American Express, including ( 1 ) the merchants published refund policy, ( 2 ) my XX/XX/XXXX cancellation email, and ( 3 ) the complete correspondence showing that no additional terms were ever sent or disclosed. Despite this, American Express denied my dispute twice and relied solely on the merchants undisclosed invoice, while completely disregarding the documentation proving those terms were never provided. \n\nAmerican Express has not conducted a reasonable investigation as required by the Fair Credit Billing Act and Regulation Z. They accepted a document the merchant never provided to me and ignored the published terms I relied on. I am requesting CFPB intervention to require American Express to properly reinvestigate both disputed charges and issue the refund I am entitled to under the legally binding refund policy the merchant advertised and I followed."
+}

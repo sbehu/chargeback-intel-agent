@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9150",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30309"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48914,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Refund Request for Duplicate Charge {$490.00} Dear XXXX XXXX XXXX XXXX, I am writing to formally request your assistance in resolving a duplicate charge of {$490.00} made to my American Express account for a scooter purchased on XXXX. Despite prior attempts to resolve this issue through standard customer service channels, the erroneous charge has not been refunded. \n\nSummary of the Issue : Item : Scooter ( purchased via XXXX ) Amount in dispute : {$490.00} Issue : The order was charged twice on my credit card One charge was initially reversed, but XXXX re-charged the same amount on XX/XX/XXXX This has resulted in an unresolved duplicate charge Timeline Evidence ( from American Express billing statement dated XX/XX/XXXX ) : DISPUTE CREDIT XXXX XXXX on XX/XX/XXXX Followed by DISPUTE CR REVERSAL XXXX XXXX the same day Followed by another XXXX XXXX charge This demonstrates an erroneous re-posting of the same transaction. \n\nRequested Resolution : 1. Issue an immediate refund in the amount of {$490.00} 2. Provide written confirmation that the refund has been submitted 3. Notify American Express that the charge has been corrected Reason for Corporate Contact : Repeated attempts to resolve the issue through customer service have failed. The matter has escalated unnecessarily, and I am seeking corporate assistance for prompt resolution. \n\nContact Information : Name : XXXX XXXX Thank you for your attention to this matter. I look forward to your prompt response. \n\nSincerely, XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8941",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "768XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13983,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "2 charges were made to my Barclay Card US credit card for {$86.00} on XX/XX/XXXX and XX/XX/XXXX by a company called \" Just Answer ''. I contacted Just Answer and was told that my membership expired on XX/XX/XXXX. I forwarded that information to Barclay Card US, but was informed that my information regarding the \" non-charge, '' was not sufficient and the charge stands. The case number for my complaint to Barclays is : XXXX."
+}

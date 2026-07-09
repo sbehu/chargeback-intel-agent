@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11287",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33308"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34758,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was overcharged by a restaurant after leaving my tab open. I disputed a part of this charge with the card company. They came back and did not contact the restaurant or provide any proof I made this purchase. \n\nThey sent me a letter saying the merchants response was inclosed, but this was completely blank and had no response or proof from the merchant. I then contacted the XXXX  where they sent the exact same response without contacting the merchant or requiring any proof that I made this purchase. \n\nSince I didn't authorize this charge, there will be no signature on file at the restaurant after they charged my card."
+}

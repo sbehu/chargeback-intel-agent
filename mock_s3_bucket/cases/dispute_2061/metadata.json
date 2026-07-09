@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2061",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MS",
+    "complaint_zip": "394XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23916,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a one-time purchase through XXXX XXXX XXXX. I paid my CC for my one-time shipment. A second shipment was received and a second charge was posted to my account. Tried calling company to get and XXXX to return unauthorized merchandise. They refused to cooperate. Filed dispute with CC company. CC company cancelled my card and issued a new card because of the dispute. Then CC company allowed the disputed company to charge a fee to my new credit card for a new shipment that I did not place. They are also making it very difficult for us to dispute the charges from the fraudulent company. Barclay 's Credit Card company will not allow me to speak with a manager. Their customer service employees are very rude and unwilling to help resolve the dispute. Every male customer service person we speak with is foreign and says their name is either XXXX or XXXX, but not the XXXX or XXXX we spoke with before. They say they have no way of knowing which XXXX or XXXX we spoke with. They will never let you speak with a manager. They say we can leave a message, but no one ever calls you back. Not only am I being screwed by the fraudulent company, but I am now being screwed by my own credit card company."
+}

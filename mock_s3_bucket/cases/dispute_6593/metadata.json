@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6593",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19014"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19412,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX fraudulent charges on my Barclays XXXX. Disputed all XXXX charges, but Barclays claims they are valid. All charges with Event Tickets. Charges are {$110.00}, {$110.00}, and {$56.00}."
+}

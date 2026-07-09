@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6810",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WY",
+    "complaint_zip": "82604"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44599,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I tried to purchase XXXX XXXXXXXX XXXX  hoses from the XXXX website on XX/XX/year>. The site looked legitimate but when I tried to pay with my credit card I was sent to a link. When I clicked on the link it took me to different sites - not the XXXX XXXX and my purchase was rejected twice. I then tried to purchase using my XXXX account option and the first attempt was also denied but the second charge went through. \n\nI never received confirmation of the order or shipping information from the XXXX website. There is no phone number or email address affiliated with the website and when I sent a contact form inquiry from the website I did not receive a response twice. \n\nI then investigated the address listed on the XXXX website at XXXX XXXX XXXX in XXXX OR only to find it DOES NOT EXIST. There is NO XXXX XXXX in XXXX XXXX. \n\nI also discovered the charge had been made to XXXX XXXX XXXX XXXX but that is a women 's clothing store in CO and they do not sell XXXX XXXX  hoses. This is a scam. \n\nI filed a complaint with the government internet crime center stating XXXX is a scam website. \n\nNo order has been confirmed nor have I received any shipping information or notification since they fraudulently charged my account. \n\nI notified XXXX XXXX XXXX XXXX and XXXX XXXX customer service requesting they do pay the charges, explaining the website is a scam and no order was ever confirmed. \n\nI did not receive a response from XXXX so after 3 days I filed a dispute on XX/XX/year> with Citibank stating I never authorized a charge to XXXX XXXX XXXX XXXX for womens clothing. After filing the dispute with Citibank, XXXX sent an email informing me Citibank would be handling the issue. \n\nNo one ever contacted me from Citibank after the dispute was filed until Saturday, XX/XX/year>. I received an email from Citibank informing me they had completed an investigation and found I was completely responsible for the charges.\n\nI immediately sent an email to Citibank CEO, XXXX XXXX, XXXX XXXX and XXXX XXXX demanding to know how an investigation could be performed without ever speaking to me and found me responsible when the website is a scam with a non existent address listed? And I never received an order confirmation, shipping information or the hoses I paid for from the XXXX website. \n\nCitibank could not have performed a valid investigation based on the facts I have described. This is not the first time Citibank forces me to pay for defective items or service. To state that I am responsible for a fraudulent order that I never received from a scam website is criminal. I have demanded a copy of the investigation and the name of the person who performed it. \n\nAlso the government cyber security site has done nothing with my complaint and the XXXX  scam website is still operating."
+}

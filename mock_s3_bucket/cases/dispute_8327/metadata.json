@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8327",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89178"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41431,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Received a message that suspected fraud happened approximately 6 months ago.. Denied the charge on the message and froze card. Started the dispute claim and-won the decision ( received the letter and account noted ). We have called customer service/XXXX department XXXX XXXX times because the charge still shows as being due. We have XXXX balance. Each time we called we are assured it has been taken care of. Please help before it begins collection. Thank you"
+}

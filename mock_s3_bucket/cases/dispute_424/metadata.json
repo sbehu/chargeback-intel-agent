@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_424",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44120"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5682,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im reaching out due to issues Im having with my account ending in XXXX. In XXXX I was in the process of refinancing my home to consolidate all of my credit card balances that accrued due to unforeseen health issues. During this process I suffered XXXX XXXXXXXX on XX/XX/XXXX at XXXX XXXX XXXX. Once I had my ability of speech, and limited mobility back I tried to take back over my bills my sister and mother were handling for me with limited access to my accounts. I called AMEX to enroll in their financial relief program until I was out of the hospital and done with XXXXXXXX XXXX. During my enrollment in the program the representative did not disclose if I paid my bill ahead of the autopay date that AMEX will still take a second payment out. I pay all my bills once the statement comes out with my first check. I did this the entire time enrolled in the program and never before did AMEX still go in to take another payment until last month. I called in immediately and requested the enrollment call to be pulled. I was told AMEX would investigate the matter and give me a call back. As usual I tried to make my payments for this month and noticed this account was not rectified. I called in numerous times the past few weeks. I spoke with a representative who gave me the reference number of XXXX. She admitted that in their investigation they were able to verify the enrollment rep never disclosed that to me and she tried to cover it up by saying we sent you a letter with all of the terms. This is absolutely disgusting by American Express because all parties including the enrollment representative was informed I was not at my physical residence to receive any mail as I was in the hospital during enrollment followed by XXXX XXXX away from my residence. I even offered supporting medical documentation which they all refused to justify their disgusting act. Im beyond appalled and disgusted by a company that even through the most difficult time in my life I still make sure my minimum payments are made. This is the first time in the XXXX years of being with American Express that my accounts werent paid in full as usual due to health issues and this is how Im treated. I know what to do now once my health is recovered seeing this is how you treat loyal customers. I keep calling in being transferred around to no end, with false promises that the unauthorized second payment for that statement period would be credit back to my card since this was an error on AMEXs end. Not a single representative follow through. Dealing with this company over such a trivial mistake they made, not even me has done nothing but raise my XXXX XXXX. If XXXXXXXX XXXX XXXX happens its due solely to this ongoing battle with Amex over this issue. Ive consulted my attorney after my last dealing with them today where I wasted over 2 hours of my life and only ended with my XXXX XXXX high and being transferred blindly for the millionth time!"
+}

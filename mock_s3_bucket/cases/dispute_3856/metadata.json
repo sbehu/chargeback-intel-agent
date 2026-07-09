@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3856",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20747"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38007,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I MADE A HOTEL RESERVATION AND CANCELLED IT. I WAS REFUNDED ONLY A PARTIAL AMOUNT OF THE AMOUNT. I WANT THE REST OF MY MONEY OWED."
+}

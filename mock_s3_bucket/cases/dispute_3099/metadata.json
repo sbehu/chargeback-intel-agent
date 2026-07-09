@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3099",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92646"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33515,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I received a voicemail from Home Depot Citi Card Fraud regarding a suspicious charge of {$490.00} on my Citi card ending in XXXX. I promptly called them back and confirmed that I did not make this purchase as I was at work at the time. The representative assured me that the transaction would be removed and a new card would be issued, which they followed through with. \n\nHowever, in XX/XX/XXXX, I noticed that the disputed transaction reappeared on my statement. I contacted Home Depot customer service and was informed that their investigation concluded that the card was physically used at the Home Depot in XXXX XXXX, located at : XXXX XXXX XXXX XXXX XXXX XXXX XXXX, XXXX XXXX XXXX and Time of Purchase : XX/XX/XXXX, at XXXX am Despite my report, Home Depot reinstated the charge. \n\nTo resolve this, I personally visited the Home Depot store in XXXX XXXX and spoke with a manager, providing my ID for verification. The manager informed me that they no longer had the camera footage from the date of the transaction but provided me with a receipt for the purchase. \n\nItem Purchased : Item : Dewalt Framing Wall Item Number : XXXX Amount : {$490.00} I took the following steps to dispute this charge further : XX/XX/XXXX : I visited the XXXX XXXX XXXX at XXXX XXXX  to attempt to file a report again. \nXX/XX/XXXX : I visited the XXXXXXXX XXXX XXXX at XXXX XXXX  to obtain a copy of the report. \nXX/XX/XXXX : I received a call from the detective stating that the report was ready. The detective mentioned that they were unable to investigate further because Home Depots camera footage is only retained for XXXX months. \nThroughout this process, I have filed disputes with Home Depot on XXXX separate occasions. This situation has caused me a significant amount of stress and concern. The amount of time I have spent with customer service, visiting the police department, and attempting to resolve this issue has been substantial. \n\nDespite my efforts to prove that I did not make this purchase, including filing a police report and submitting a copy of the receipt and my ID, Home Depot has refused to remove the charge. \n\nSupporting Documents : Police report ( attached ) Copy of the receipt from the transaction ( attached ) Copy of my ID ( attached ) Correspondence with Home Depot regarding the dispute ( attached ) Desired Resolution : I am requesting the CFPB to assist in having Home Depot Citi Card permanently remove the unauthorized charge of {$490.00} from my account and ensure no further actions are taken against me for this fraudulent transaction."
+}

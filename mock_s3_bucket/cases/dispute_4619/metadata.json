@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4619",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21092,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a significant OVERPAYMENT of {$1700.00} on my account BY MISTAKE on XX/XX/year> and the company is refusing to return the over payment. \n\nMy balance due at that time was {$1700.00} for statement period XX/XX/year> - XX/XX/year>. I paid {$1700.00} received on XX/XX/year>, due on XX/XX/year> and an ADDITIONAL MISTAKEN payment of {$1700.00} in haste received on XX/XX/year>. This left a credit of XXXX by mistake. \n\nThe credit balance was shown on my following bill statement period XX/XX/year> - XX/XX/year>. \n\nAs soon as I realized I had made the mistake the first week of XXXX I contacted the company - to request a return of the OVERPAYMENT. I have made at least 8 calls over a period of 5 weeks since, with the final call this evening. This has caused a hardship for me. \n\nI have spoke with at least 4 supervisors. Each time I am given a reason why it was not returned and assured it was going to be straightened out. I was given two case id 's from the company, after being assured each time it would be addressed and how it was to be addressed. \n\nWhen I initially called I was assured a paper check was to be sent to my home. When the check did not arrive, I was then assured a return of funds would be issued directly to my checking account ( after verifying my checking account number and routing number where the overpayment was made ). And, then again, when that did not occur, I was then assured the company was going to send me a paper check again. \n\nThis evening I called to followup on the status of the return overpayment paper check ( based on my call just yesterday ) and again was given another reason why the payment was not returned, -- in direct contradiction to what I was told yesterday. \n\nIn summary, the supervisor tonight told me that they can not return my overpayment because I paid via BILL PAY through my bank ( as I always do ). My bank used a third party processor and so they do not know who made the payment. This is absolutely ridiculous when they have my bank accounts also on file, not to mention each check can always be traced back to a bank account WITH AN OWNER NAME! \n\nTonight I insisted a 2nd level Manager call me and again have requested the calls be reviewed. I began calling the first week of XXXX when I realized what I had done in error. If this was an over payment for a small amount I would not care. It is a large sum of money. Now that they have intentionally withheld my over payment I am reporting the company for malfeasance and hardship. \n\nI am requesting assistance and mediation."
+}

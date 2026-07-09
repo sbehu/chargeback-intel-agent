@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6515",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10026"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 735,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I called Citibank ( XXXX ) regarding unauthorized charges, totaling {$3500.00} on my XXXX card. I spoke to a person by the name of XXXX @ XXXX AM EST and told her about the unauthorized charges on my account. She spoke for a few minutes and the. hung up the phone."
+}

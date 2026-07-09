@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5778",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95125"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-30T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37083,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I received a notification from Citibank asking me if I authorized a charge for {$450.00} at XXXX 's on my XXXX card. I replied to let them know that this was not my charge and they said they would have to cancel the card and send me a new card. However, the charge is still showing up on my account and they have denied my dispute. I have called Citibank XXXX XXXX and have been told they would reopen the dispute and look at the information again, but nothing has happened and the charge is still on my account. I have never used my Citibank XXXX card anyplace other than XXXX."
+}

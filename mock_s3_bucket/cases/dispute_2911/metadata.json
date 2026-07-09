@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2911",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43004"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36094,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I tried to purchase a bug deflector for my primary car for {$45.00} from XXXX using my XXXX card. It was declined so I used my American Express and the purchase went through. \n\nI had a feeling that this was not a legit website so I called American Express that night not to let the charge go through. They told me they could not cancel the charge since it was pending. I called the next day, XX/XX/XXXX to tell them to not let the charge go through. Unbenowst to me, the company kept charging my card around {$8500.00} The statements are so confusing I am not certain what they charged me. \n\nThese transactions were all made in XXXX XXXX  and I have never been to XXXX and the website did not state they were going to take place in a foreign currency. Some of these charges were for XXXX XXXX XXXX XXXX. I live in XXXX, Ohio and have never been to XXXX nor have any known relatives or assiciates over there. \n\nOn XX/XX/XXXX, I was communicating with XXXX XXXX as they asked me for more information regarding these transactions. I responded with everything I have and was told I would have to pay the full amount. I do get confused and was so flustered, I set up a payment plan with American Express. \n\nI was told on a phone call on XX/XX/XXXX that the above transactions do not count as fraud. The reason is that I gave them my credit card number, therefore it is a scam, not fraud. These are the terms American Express used. My son was on the call with me and said if we go to a restaraunt and the bill is {$100.00} and they charge {$1000.00} is not the same thing? They said it is not. \n\nI am a XXXXXXXX XXXX XXXX XXXX and am XXXX XXXX XXXX. I had to XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX. I believe this indeed was a ) fraud and b ) elder abuse by American Express. I believe it is a fraud because I did not get what I was supposed to as well as being overcharged a lot of money. I believe it is elder abuse because they talk in their business language and sometimes I have trouble understanding. \n\nThank you, XXXX XXXX XXXX - My son did help me write this letter."
+}

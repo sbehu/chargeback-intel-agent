@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3388",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60189"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44549,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi bank over charged me twice on XX/XX/year> for XXXX. Over the course of 2 months, I tried reaching out and repeatedly got no where, each one giving me a different answer, saying I will get the money back, another saying I won, even with the confirmation that they were supposed to send me back the money. \nI got my bank involved and my bank was able to get my money back, but citi card charged back that same amount that they gave the bank to me of {$2700.00}. \nI called and they refused to let me file a dispute, flat out. I called my bank again and she found evidence that I was over charged twice on XX/XX/year>. Now the statements have changed and Im still not able to file a dispute on their website."
+}

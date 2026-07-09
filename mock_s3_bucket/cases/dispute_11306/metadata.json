@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11306",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98366"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13748,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I recieved notification from Barclay 's by way of a message in my account. The message was confirming the conversion of XXXX dollars worth of earned points for a TV. I contacted Barclay 's immediately to stop the transaction. I was then assigned Case # XXXX. I would check in but as the months got closer to our next cruise date to use those points/money, I was not getting any answers. This credit card is only used when we go on XXXX XXXX so as our XX/XX/XXXX date was approching I became more agressive. I contacted them in XXXX and requested to speak to a XXXX. After telling them that I had a sail date of the XXXX, she went off the line for a while and came back with a fix. She was going to credit our account XXXX dollars, close that case and start a new one with the case # XXXX. I looked in my account and the XXXX dollars credit was there so I did not look again until XXXX. I went to pay our bill for our cruise in XXXX and saw the credit was gone. I looked at my statement for XXXX and there were XXXX entries of XXXX dollars taken out or put in that were not in there when I was given the credit of XXXX dollars. At this time my Barcaly card had no charges on it until the end of our cruise on XXXX the XXXX when they were put on by XXXX. I contacted Barclays last week and requested to talk to a supervisor. She told me after reviewing my account that I never had any credit given to me for XXXX # XXXX and everything was transferred to XXXX # XXXX with no credit given. I then ask her about all the entries in XXXX of XXXX dollars and she had no answer. I then ask her if that was her bank account would she think that was normal and she said yes so I decieded it was no use and terminated the conversation. XXXX months, XXXX different case numbers and many XXXX XXXX talked to on the phone and nothing. All this as I gave Barclay XXXX Department the guys name and address that was on my account in XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8928",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31780,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased three XXXX tickets through Flights Channel using my American Express card. I used the outbound flights in XX/XX/year>, but my return flights in XX/XX/year> were lost after XXXX  website showed a message : Your seat has been changedrequest a refund. I never requested a cancellation. \n\nXXXX  policy states refunds for third-party bookings must go through the agency, not XXXX. Yet they processed a small refund of {$140.00} and reported to Amex that I requested it. Their own record ( XX/XX/year>, ref. XXXX ) lists the reason as I was downgraded, confirming it was not voluntary. \n\nAmex first closed my disputes without a written decision, then closed them again saying no response received, even though I had uploaded full documentation ( XXXX refund record, policy, screenshots, and receipts ). On XX/XX/year> Amex told me by phone they never received or reviewed my evidence before closing. This violates their duty to conduct a reasonable investigation under the Fair Credit Billing Act ( Reg. Z 1026.13 )."
+}

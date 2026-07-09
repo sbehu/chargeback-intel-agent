@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4637",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "711XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12192,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reserved a rental with XXXX XXXX for XX/XX/XXXX with a pickup time of XXXX local time. The estimate for this rental agreement was {$960.00} USD. \n\nAt XXXX local time I received an automated email with my rental agreement with an estimate of XXXX Euros ( {$960.00} USD ). I arrived at the rental counter at approximately XXXX local time, and I was instructed to go directly to the vehicle lot located on XXXX XXXX to retrieve the vehicle. \n\nI was handed the keys to the vehicle and the pickup location of the vehicle. When we arrived at the lot to retrieve the vehicle, we found an XXXX representative standing by a partially closed garage door who took our keys out of a small XXXX envelope and handed those keys to me. She then pointed to the vehicle on the other side of XXXX XXXX and let us know that that was our XXXX. I proceeded to the XXXX and did a visual inspection of the vehicle, but the XXXX representative was gone and could not be found. I found considerable damage to the driver side of the vehicle which I took photos of. \n\n\nWe dropped off the vehicle on XX/XX/XXXX at approximately XXXX local time in the same location we picked up the vehicle which was outside of XXXX business hours. Since XXXX was unattended, we were unable to discuss the existing damage with anyone at XXXX. On XX/XX/XXXX at XXXX local time, I received an invoice from XXXX along with a document containing pictures of damage to the driver side bumper. \n\nXXXX claims that I am responsible for the existing damage to the front driver bumper and valued the damage at XXXX Euros. \n\nI opened case # XXXX with XXXX on XX/XX/XXXX related to this false claim and I am awaiting a resolution. I opened up the dispute with Citi for the amount of {$450.00} which is the difference between overall charges of {$1400.00} and the rental charges of {$960.00} USD for the vehicle. \n\nXXXX has asked me on several occasions if I've opened a dispute with Citi while XXXX works on things on their side since it can take up to 90 days for them to resolve. Citi has not provided me the protections I expect to receive under our card holder agreement. Citi has refused to accept my dispute."
+}

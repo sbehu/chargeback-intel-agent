@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7290",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "070XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17815,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I initiated a credit card dispute with Barclays regarding a payment of {$2900.00} made to XXXX XXXX XXXX XXXX. The merchant explicitly agreed via email to refund the full amount ( minus a {$200.00} processing fee ) if they failed to provide their promised serviceplacement on a boardwithin a 6-month period. Despite clear, documented evidence provided to Barclays showing the merchant 's commitment and subsequent failure to deliver the promised service, Barclays has inadequately handled the dispute and has not honored my chargeback request. Barclays failure to act has left me financially liable for a service that was clearly unfulfilled and a promised refund that was never received. Resolution Sought : I request CFPB 's assistance in compelling Barclays to thoroughly investigate my dispute based on documented evidence, and appropriately refund the disputed amount"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_389",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91311"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39625,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I receive yesterday a communication letter from CITIBANK about the Dispute They are not able to resolve on my behalf due to the Answer from the merchant. \nIn the letter they stated as a Courtesy they provided credit in XXXX of the XXXX Disputed I have with the same merchant for Incompetent services received from merchant. \nI would like to have CITIBANK provide me the process under VISA Policy in regards Disputes for Services not received and the Fact I had to pay for the same Repair for the same part of my truck twice, I don't believe I have to be responsible to make any payments in the amount disputed for {$1000.00}. \n\nSo At this time I would like to report CITIBANK has violated the Following : Federal Section 15 U.S. Code 1666i and California Sections 1740.40,1747.50,1747.60,1747.65.\n\nThis is my last effort and to have it reflect it as an exhaust Administrative Option before I take legal Action against CITIBANK along with another Matter I have pending. I already Informed the CFPB Ombudsman in regards this Dispute I have with CITIBANK.\n\nIf CITIBANK still deny assistance and due to its Actions making reports to the Credit Agencies and damage my credit report, by Law I make CITIBANK Liable for XXXX times the amount on Dispute."
+}

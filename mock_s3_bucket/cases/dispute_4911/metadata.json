@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4911",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15642"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42602,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase online with a company called XXXXXXXX XXXX XXXX  for what I thought was XXXX XXXX. I mistakenly ordered Clarinet Reeds. My mistake. I contacted the company and asked if I can return the Clarinet Reeds for Saxophone Reeds and they said as long as the package was unopened I could return them to a local store and they don't take returned shipments. They provided me the location of a store. I attempted to return the reeds at the store and the store told me they only accept returned musical instruments- not other items like reeds- even if the package is unopened. So I called the online merchant again and they told me I can not ship the reeds back and must return at the store. At that time I filed a dispute with my credit card that I used to purchase the reeds explaining the situation and how I was unsatisfied. I provided the vendors return policy but explained that they would not honor it. I lost that dispute. At the time, I figured- I tried and failed and I just need to get over it. However, I noticed I was charged in duplicate by Citi for the reeds. So I filed another dispute with Citi explaining I am now being charged twice for the reeds. I provided a snip it of the transactions showing the duplciate charge. I lost that dispute as well ( I am not sure how - you can obviously see the duplicate charges. ) When I just logged in I noticed I was charged again for the reeds. Right now I am being charged 4 times for {$28.00} and there is XXXX conditional credit for {$28.00} - so I am in essence being charged a net of XXXX transactions for {$28.00}. I think the conditional credit will go away and then I will be charged a fourth time. So I called Citibank and after finally getting through to someone they did not understand and put me through to a manager who told me that he could not help me. I explained that I am being charged 3 times for one transaction and I was afraid the conditional dispute would go away and I would be charged a fourth time when I should only be charged one time ( and in my opinion I should not even be charged for that transaction! ) Right now, I am being charged {$85.00} when I should have only be charged for {$28.00} ( if that! ) Can someone help me? CItibank does not seem to understand what I am trying to explain. I offered to send the person I was talking to the transactions I see and they told me they can not accept emails and to try send the transaction to their dispute department. They did not provide that email but I am afraid to file another dispute as I may be charged again! \n\nLooking at the attachment - I was charged 4 times for a positive {$28.00} and there is one conditional credit for a negative {$28.00} which in essence makes me pay 3 transactions of {$28.00}. When the conditional credit goes away ( because I lost both disputes I filed with Citi ) - I will in essense be charged four times {$28.00} without any credits."
+}

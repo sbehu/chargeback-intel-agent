@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10825",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "303XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29256,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citi credit card and personal information were compromised through identity theft. I filed an FTC identity theft report and police report. Citi closed my account and reissued my credit card multiple times ( three times ), yet the fraudulent activvity continued. Despite the card replaced, unauthorized charges from Hertz/Thrifty continued to post, which indicates that Citi allowed my compromised card credentials and personal data to remain active through merchant account updater systems, tokenized billing, or stored merchant relationships. Additionally, the fraud went beyond card charges. Using my stolen personal information, a vehicle was rented in my name from Hertz/Thrifty and was never returned. This exposed me to legal liability, financial risk, and potential criminal exposure for a vehicle I never rented. Citi failed to fully secure my account, failed to block merchant access, and failed to prevent ongoing misuse of my financial and identity data even after I formally reported identity theft and fraud. This represents a serious failure in Citi 's fraud controls, customer protection, and compliance with federal consumer protection laws. I am requesting full remediation, removal of all fraudulent charges, correction of any related credit reporting, and compensation for the harm caused by Citi 's failure to protect my account and identity."
+}

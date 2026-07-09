@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_63",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "503XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46721,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed is a charge by merchant XXXX XXXX  that appeared on my Citibank credit card. I was given a partial refund in the amount of {$1200.00} which is lower the disputed transaction amount of {$3.00}, XXXX charged on XX/XX/. \n\nThis disputed charge was for a one-person reservation for a vacation that I made initially before modifying it. That reservation was replaced two days later on XX/XX/XXXX   with a two person reservation ( the previous person and a significant other ). The itinerary, hotel booking, duration of stay, etc., remained the same. A {$4800.00} charge was made for the new booking and it appears on the credit card statement. I gladly paid for the later charge but I shouldn't have to pay another amount for the same service because it appears on another reservation in the merchant 's system. \n\nOnly a portion of the funds were refunded and what was basically done was they charged me two times for the same service. I have asked that the balance of {$2200.00} that they retained be refunded but they have failed to. Instead they recently billed me for it indicating that to be the resolution to my dispute. This eerily borders on fraud. \n\nThank you for your consideration of this matter. \nRespectfully, XXXX."
+}

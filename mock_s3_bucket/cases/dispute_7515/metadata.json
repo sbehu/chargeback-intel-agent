@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7515",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8003"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42305,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or about XX/XX/year> charges appeared on my Barclays XXXX XXXX XXXX XXXX the merchant was XXXX. I called them and explained that I am XXXX XXXX XXXX I do not buy things online. They issued provisional credit and than began to charge interest. They than downgraded my credit limit from XXXX to XXXX dollars. this is unacceptable and I have made numerous phone calls, and letters. they refuse to help me. I also want to know why they lowered my credit limit. I never missed a payment and paid bill in full."
+}

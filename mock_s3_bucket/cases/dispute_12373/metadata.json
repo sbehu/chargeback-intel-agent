@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12373",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32225"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citi credit card was fraudulently charged {$40.00} on XX/XX/year> at XXXX in XXXX XXXX , FL, {$740.00} at XXXX  in XXXX, Fl, and {$1000.00} at Best Buy in XXXX, FL. I live and work in XXXX, FL and was nowhere near these places on XX/XX/year>. I asked that these charges be removed and they were temporarily, but then they were put back on my card. Citi claimed I \" accepted responsibility '' for these transactions because the merchant reported that my account number was provided at the time of purchase. I did not make, approve, or authorize these transactions, nor did I provide my account information to the merchant in question. To properly evaluate this matter, I requested that Citi provide the documentation used to determine whether the charges were authorized, including : The transaction receipt or signed authorization The IP address, device data, or digital authorization record ( if online ) Address Verification System ( AVS ) results Any delivery confirmation or shipping address associated with the transactions The merchants response submitted during your investigation Citi has not provided ANY of these"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_791",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6840"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26546,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, I used my Amex credit card to purchase service from XXXX on XX/XX/XXXX. On XX/XX/XXXX, I saw there is a charge of {$150.00} from XXXX on my Amex credit card statement. Since I no longer want the service and did not want recurring charges, I tried to ask for refund from XXXX. XXXX said this charge is nonrefundable, so I filed a dispute through Amex. Amex. Amex refused to credit back my statement. My first payment with XXXX was on XX/XX/XXXX via XXXX XXXX, it was a one-time charge for the whole year service, and I did not agree on recurring charges. I hope CFPB can help me get my money back ( in the amount of {$150.00} ). My Amex dispute case ID is XXXX. Amex did not investigate the transactions thoroughly and is not trying to resolve a customers issue. \n\nBest, XXXX"
+}

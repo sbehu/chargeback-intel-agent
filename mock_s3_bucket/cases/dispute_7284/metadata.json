@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7284",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "762XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27440,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX shipped a big bad of dog food to my house. The next day I took it back to the XXXX XXXX store in XXXX XXXX, XXXX, TX because I did not order it. The manager refused to take it back. I told my credit card company, XXXX ( Barclay ). Credit card company put a temporary credit. On XX/XX/year> the credit card company took XXXX 's side and put the charge back in my account. I asked the credit card ( XXXX Fraud Dept. ) company for proof send by XXXX. The answer was : XXXX had my name, telephone number, address and credit card information. Yes, they had it because I purchased items from them before. \n\nI did not order this product and XXXX refuses to take it back. Still, the credit card company is taking their side."
+}

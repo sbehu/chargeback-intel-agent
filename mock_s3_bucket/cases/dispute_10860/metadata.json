@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10860",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "484XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43740,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Citibank/Macys Product : Credit Card Issue : Billing dispute Merchandise not received Complaint Narrative : I am filing this complaint regarding Citibanks handling of a billing dispute under the Fair Credit Billing Act ( 15 U.S.C. XXXX ) and Regulation XXXX ( XXXX XXXX XXXXXXXX ). \n\nI disputed XXXX charges from XXXX for merchandise that I did not receive. The shipping address was correct. The shipment did not require a signature, and no delivery photo was provided. The only alleged proof of delivery appears to be a generic carrier delivered scan. \n\nCitibank initially opened the dispute and then closed it. I was not provided provisional credit. Citing merchandise or services provided as intended without providing evidence upon request. Citibank then later issued a denial letter stating dispute opened in error I then had the case reopened and Citi stated in a final determination letter that they conducted a thorough investigation, but they did not provide any documentary evidence supporting their decision. ( Time frame from reopening to final closure ~less than XXXX business day ) I have formally requested copies of all documents relied upon in their investigation via certified mail and email, including a request that the dispute be reopened. Citibank stated they can not respond to additional correspondence or telephone calls relating to this matter. \n\nA generic delivery scan without signature confirmation or photographic proof does not establish that I received the merchandise. Citibank has refused to provide the evidence they relied upon and has refused further communication. \n\nI am requesting that Citibank : XXXX. Provide copies of all documentary evidence relied upon in its investigation. \nXXXX. Reopen the dispute and conduct a reasonable investigation consistent with federal law. \nXXXX. Remove the disputed charge if they can not provide sufficient proof of delivery. \n\nAttachments Summary : XXXX. Citi Denial Letter Confirms dispute was denied with no documentation provided, citing a thorough investigation. \nXXXX. Formal Evidence-Demand Letter Shows a certified and emailed request to Citi for all documentation relied upon in their investigation and a request to reopen the dispute. \nXXXX. XXXX Order Screenshot/Tracking Blocked Confirms the shipment did not require a signature and no delivery photo exists. And tracking information is withheld. \nXXXX. Merchant Correspondence An email or message from XXXX confirming verbatim from the merchant We understand that the package may have not been delivered to the correct address by the carrier. Displaying the merchants doubt in confirmed delivery, this was provided to XXXX dispute department. \n\nThese attachments demonstrate that XXXX denial relied solely on a generic carrier scan, without supporting evidence, and that the dispute was closed without meeting the obligations under XXXX XXXX  XXXX ( f ) and the Fair Credit Billing Act. \n\nI am seeking correction of this billing error and compliance with federal law."
+}

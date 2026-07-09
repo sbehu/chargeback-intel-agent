@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1969",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93551"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2999,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I became a victim of debit card theft on XX/XX/2024. Withdrawals were made to my account in XXXX, CA without my knowledge. Specifically, there was a withdraw of {$100.00} and XXXX withdraws for {$300.00}. As soon as I discovered these charges, I contacted American Express Serve Card to report the incident. They reassured me that they would conduct an investigation, which could take up to 45 days. On XX/XX/2024, before the theft occurred, my last transaction was at XXXX in XXXX, CA, where I spent a total of {$61.00}. It's worth mentioning that I live in XXXX, CA, which is approximately XXXX miles away from XXXX. However, I don't believe that American Express properly conducted their investigation. ATMs have cameras, so it would have been easy for them to verify my claim."
+}

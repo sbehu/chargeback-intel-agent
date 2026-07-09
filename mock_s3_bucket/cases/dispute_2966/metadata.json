@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2966",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80919"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33926,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, I am writing about an unauthorized transaction that Citi has acknowledged as unauthorized, but refuses to refund the charges for. It is a rather complicated situation on which I need your assistance. \n\nTransactions : XX/XX/year> Charge {$980.00} from XXXX XXXX XXXX XX/XX/year> Charge {$840.00} from XXXX XXXX XXXX XX/XX/year> Credit {$840.00} from XXXX XXXX XXXX XXXX XXXX XXXX charged me {$980.00} for a full week stay when checking in, but I only stayed one night, so I was due a refund of {$840.00}. As you can see, they did give me a credit of {$840.00}, but only after an unauthorized charge of the same amount was made to my credit card. \n\nI disputed the {$920.00} and it was confirmed the credit was for the unstayed nights. This was also confirmed by the account statement from XXXX XXXX XXXX. \n\nHowever, XXXX XXXX XXXX would not credit back the unauthorized charge of {$840.00}. So I called XXXX XXXX XXXX again and finally spoke with someone who was willing and able to look up the charge. ( I called XXXX XXXX XXXX at least a dozen times trying to resolve the issue before and during the disputes entered with Citi. ) That person said the {$840.00} was a charge from a third party website and the person on the phone had no idea how whoever made the charge would have gotten my credit card information. ( However, the charge on the credit card statement shows it came from XXXX XXXX XXXX. ) ( I also escalated the issue with XXXX XXXX  who told me the locations are individually owned and they could do nothing to help. ) So I filled the {$840.00} charge as a fraudulent charge with Citi. After first assuming I had been credited the {$840.00}, Citi finally understood this was a new separate charge. So after I confirmed the charge was unauthorized, Citi canceled my old card and issued a new one. \n\nThere had not been any other unauthorized charges, but in their letter ( see attachment ) Citi stated they replaced my credit card to prevent further unauthorized activity. So Citi acknowledged the charge was unauthorized. \n\nThe letter went on to say Citi forwarded my information concerning the unauthorized charge made with the card ending in XXXX to our Security Department for further review. Again, acknowledging the charge was unauthorized. \n\nAs can be seen from the credit card statement, I was already in XXXX Washington XXXX / Idaho by the time the {$840.00} charge was made, so I was nowhere near XXXX, nor would I have had any need or interest in staying at the XXXX XXXX XXXX. Further evidence the charge was fraudulent. \n\nI also filed a report about this unauthorized charge of {$840.00} with the XXXX  XXXX Police Department. \n\nHowever, Citi has for an unexplained reason decided I am responsible for this unauthorized charge, even though the law says I am only responsible for the first {$50.00}. I sent a letter to Citi to remove the {$840.00} charge from my account, but I have not received any response. \n\nPlease help me get this situation resolved. \n\nThank you! \n\nAttachments : 1 - Credit card statement showing the transactions listed above.\n\n2 - My letter to Citi explaining the three transactions for the {$980.00} dispute.\n\n3 - My letter to Citi explaining the transactions for the {$840.00} dispute.\n\n4 - Account statement showing the credit was against the original charge of {$980.00}.\n\n5 - Citi letter acknowledging the charge is unauthorized, but putting the charge back on my statement.\n\n6 - My letter to Citi asking for them to remove the charge from my account.\n\n7 - The XXXX XXXX  Police Department report."
+}

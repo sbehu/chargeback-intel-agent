@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11578",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14535,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a headlight from XXXX for {$190.00} and received a defective light. I reached out to the seller to notify them of the defective light and how I could return the item or replace it for a new one. The seller did not accept my request to replace the or return the item, they offered me a {$20.00} refund in which I refuse. I reached out to citi bank to file a dispute regarding the defective light I received from the merchant. Citi did their investigation and closed the case stating the claim ruled in the merchant favor because I did not return the item. I told citibank that I have screen shot of convocation between the merchant and I where I offered to return the defective item and was not given the opportunity to because the merchant did not provide any return information for me to do so. I spoke to a citi dispute personnel who told me they would reopen the case and send me an email platform where I can submit my supporting documents. I was told that I would receive the email in XXXX hours. It has been XXXX  days and I have received an email or have gotten any information about my claim."
+}

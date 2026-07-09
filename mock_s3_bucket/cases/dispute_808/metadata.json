@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_808",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "156XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29950,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We spend more than {$4000.00} every month with multiple Citi credit cards. On XX/XX/2023, we dined at XXXX XXXX, the restaurant overcharged {$46.00}, we disputed the charged through Citi, provided them with original receipt as proof. Citi closed the dispute prematurely without providing any counter-proof or evidence of overcharge being just. \n\nWe complained to Citi executive office : XXXX XXXX XXXX, XXXX XXXX Head XXXX XXXX, and Consumer Relationship Head XXXX. Provided them evidence of purchase multiple times. They have been highly unprofessional and non-responsive to resolve the issue or provide us with evidence of why they would not provide customer purchase protection against fraud. \n\nIrrespective of the size of the amount, it is the lack of care for customers by Citi, that is shocking and upsetting. \n\nXXXX, XXXX, XXXX XXXX"
+}

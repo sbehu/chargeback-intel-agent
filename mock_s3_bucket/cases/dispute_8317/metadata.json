@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8317",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "151XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22589,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year>, I paid for my XXXX purchase with Citi Card XXXX XXXX. I have XXXX issues : XXXX. The XXXX order I thought I was authorizing included a discount from a XXXX email \" spend {$80.00} and receive {$40.00} off '' ( see \" Promo Email '' ). It has fine print, which all of my items we not prohibited and the subtotal before taxes and fees was {$82.00} and {$2.00} fees. With the {$40.00} off, the transaction I thought I was authorizing was for {$44.00}. When I drove to the store, got the items at pickup, came home and opened my email, they did not take off the {$40.00}. I immediately tried to dispute it with XXXX on their chat, first but could not get a human to recognize its computer did not add correctly the prices that were available for me, the consumer, to see. I went through it multiple times and they kept saying the subtotal did not meet {$80.00} that it was only {$74.00} USD before taxes, fees and tips which was not true, it was {$82.00} plus {$2.00} in fees ( we don't have sales tax on food in PA ). I added it up multiple times ( See \" XXXX  Order Receipt '' ). \n\nXXXX. At that point, the chat wasn't understanding and kept giving me the same response of my subtotal did not meet the terms of the promo offer. I know I did not authorize the full price of {$84.00}, there is no way I would have made this purchase at that amount, but after Citi reached out to XXXX, it says I did and Citi card sides with them. No one seems to care that the math of the items that was shown to me clearly shows it was {$82.00} ( meeting the {$80.00} ) and the {$40.00} applied to my order so I did not authorize {$84.00}, I only authorized {$44.00} ( see \" XXXX XXXX '' ). \n\nXXXX. If the subtotal, according to XXXX was only {$74.00} as they told me in the chat over and over, then why was I charged {$82.00}? That is {$7.00} more on the subtotal than XXXX says I ordered. They either owe me {$7.00} or {$40.00}! Either way -- I was billed more than I owed. If they told Citi Card my subtotal was only {$74.00} and that is why Citi Card doesn't agree with my dispute, then that was wrong. My receipt shows a different amount than what XXXX told me and Citi Card and probably CFPB and the PA Attorney General where I also raised this too. Something wasn't accurate in their computer math even if they don't honor the promo email."
+}

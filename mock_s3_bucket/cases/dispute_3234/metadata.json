@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3234",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "981XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41186,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX 2024 I received a text from Citi bank asking if a few transactions were transactions I authorized. I immediatley called CITI and stated no the charges were not me and they were fraud. The agent then closed that card and assured me that they would take care of it. A few weeks later they stated that XXXX of the charges for the {$29.00} was going to be credited but the charge of {$290.00} was going to be charged to me because the merchant said it was a legit charge. I was very confused as per I did not make a purchase to an auto parts store in XXXX XXXX when I live in XXXX XXXX. CITI stated because the address was correct for the charge I made this charge. However, the charge was NOT in my name nor was the address fully correct. It was not my full address it was missing my apartement number. I filed a XXXX report and also submitted this to CITI stating I did not make this charge. I also got a letter from XXXX stating that they had a XXXX XXXX on XX/XX/XXXX and this card with the fraud charges was the card I used with XXXX. I am still fighting this charge with CITI. I did NOT make this charge. It was not my name only part of my address was correct and I would like to know if they just had the card number because I had the physical card in XXXX  XXXX. It has been months now and CITI just keeps giving me the run aournd saying they are not going to credit me for this {$290.00} charge when the other one was fruad they credited right away. I have been a long time CITI card holder NEVER late on my payments. This is beyond time consuming and frustrating.XXXX"
+}

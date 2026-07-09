@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11377",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "54304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11190,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Saturday, XX/XX/year>, at approx. XXXX, I was shopping at XXXX  located at XXXXXXXX XXXX XXXX XXXX XXXX in the XXXXXXXX XXXX XXXX XXXX XXXX XXXX  While entering the store, I was approached by four males ( XXXX - ages XXXX ) who asked for a donation. They explained that they were raising donations for a dead family member. The males showed me a document with names of individuals who had already donated and I thought it was legit. They advised that the maximum donation someone could give is {$25.00}. I accepted to donate {$25.00} and the males presented a card reader. I used my Citi Credit card to make a {$25.00} donation. \n\nI entered the store and went about my day. At approximately XXXX, I received a notification on my phone of a {$2000.00} charge on my Citi credit card. I reviewed the charge and it showed that it came from an electrical sub-contractor. At no point did I hire an electrical sub-contractor that day. That day, I only used my Citi credit card for the {$25.00} donation. \n\nAt no point did I give anyone permission or consent to defraud me and take {$2000.00} from my credit card. I provided my credit card to the individuals with the intent to donate {$25.00}. \n\nI am not sure who the individuals are and was unable to gather any more information from them. \n\nWe did file a police report and this is a to my being investigated."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8787",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97086"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37110,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX I placed an XXXX XXXX  order for a flower delivery from XXXX XXXX XXXX XXXX in the amount of {$83.00}. One minute after placing the order, I canceled it after realizing the merchant appeared closed. Despite this immediate cancellation and no goods or services being provided, XXXX charged me the full amount of {$83.00} ( {$68.00} to my American Express Platinum card and {$15.00} through XXXX XXXX funded by my Amex monthly benefit ). \n\nXXXX refused to refund me and repeatedly sent scripted responses claiming that the merchant had accepted the order within that one minute. I filed a dispute with American Express, which ruled in my favor and credited my account. \n\nAfter the dispute was resolved, XXXX locked my account and demanded repayment of the same amount before allowing me to use XXXX or XXXX XXXX  again. They would not allow me to use my Amex-funded XXXX XXXX credits toward this charge. This effectively punished me for exercising my right to dispute an improper charge. \n\nI ultimately paid XXXX again using another credit card just to restore account access. \n\nI am asking the CFPB to review XXXX billing and dispute-handling practices, including their retaliation against customers who file valid charge disputes, and to ensure American Express and XXXX manage their joint benefit programs fairly and transparently. \n\nDocumentation of the transaction, XXXX correspondence, and payment proof are available upon request."
+}

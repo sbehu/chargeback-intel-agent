@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8172",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85255"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48654,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been a XXXX and Citi Bank customer for years and spend a lot both companies. I had disputed a charge with a company because services rendered was not from a service tech but XXXX in training. He had no supervision and kept calling the company because he didn't know what to do. This tech serviced and damaged my XXXX XXXX and caused damage on my system. He also didn't place hoses correctly and I called to have the company come back out but they instead told me to tighten my hoses. They never honored their XXXX hour leakage. I ended getting a leak which became larger because the tech didn't align the filters correctly and caused a leak which become larger. I had reached out to the company and they told me that they would refund my service call but they didn't. I had called an spoke to XXXX and then his supervisor and she ended up hanging up on me. I tried to call back and I've been on hold. I need someone to call back."
+}

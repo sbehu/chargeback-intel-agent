@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_371",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "93727"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16475,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023. I booked a rental car with online car rental broken ( XXXX XXXX  ) -I pre paid for the rental on the same day using my American Express Card .\n\n-I arrived at XXXX XXXX Airport to pickup the car however the ( XXXX Agent stated He could not release a car to me as the system would not allow it ) I spoke to their customer service team at the same time over speakerphone at the airport at the time of rental. \nThe customer service agent agreed with the counter agent that they could not release a car. \nUpon returning home I was angry and I sent a formal email to XXXX XXXX XXXX about the incident ( my Rental was booked at XXXX hours ) There would be CCTV and my wife who dropped me to the Airport to Collect the car is proof I was there at thhe right time. \n\n( XXXX XXXX XXXX XXXX  ) has been a problematic company to deal with, with no telephone numbers just emails. I have my enitre records of emails with them. \n\nOn the same day and date I realised something was not righht so at the night I contacted American Express raising a dispute charge against XXXX XXXX XXXX for the XXXX XXXX XXXX ( I called Amex on the night and told them about the incident and thhat XXXX XXXX XXXX should not get paid as thhey refused to provide a service which I purchased.\n\nHowever AMEX the and their unwise customer service chat agent raised a dispute with XXXXXXXX XXXX XXXX for a charge in XXXX for a booking in XXXX. \n( I would come to realise what they did sometime later when they refused my dispute thhe mistake they made ) I corrected it and they still screwed it up multiple times. \nFinally AMEX returned a dispute note to me saying They were happy with the lies XXXX XXXX XXXX  have provided them thhat \" I did not show up for my rental '' I have witnesses along if needed i will get thhe name and staff memeber at XXXX who dealt with me as evidence I showed up. \n\nThis whole month stressful not only having to deal with a awful credit card company that really does not offer any form of protection for paying online but at thhe same time dealing withh lying firm and car rental broker XXXX XXXX XXXX  and a pathetic XXXX rental company. \n\nI have enough evidence and AMEX should have enough evidence as I had to book a car the following morning with a more reputable car rental company XXXX. \n\nI was booking a car as my personal car was rear ended. \n\nAMEX wont accept liability that they paid a firm who failed to provide a service that I paid for and shhowed up at the right time to collect! instead thhey have believed the lies of a rental broker who has no evidence for any of their claims! \n\nI would like my money returned I paid for a service I did not get and if not I will proceed witht heh matter legally AMEX failed to provide any protection"
+}

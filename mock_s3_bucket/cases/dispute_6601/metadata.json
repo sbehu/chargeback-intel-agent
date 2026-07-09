@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6601",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7694,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024 I purchased tickets online from what I believed was XXXX XXXX, but it was a fraud. This was not XXXX. Upon my arrival to the XXXX  counter in XXXX XXXX, I approached the desk and was told that no reservation or tickets existed. I needed to get back to the XXXX so I bought XXXX additional tickets and flew home. Upon my arrival I called Barclay 's Bank and I disputed the charges by the fraudulent company and Barclays withheld the charges to investigate. On XX/XX/XXXX, after talking to the fraudulent company Barclays sent me a letter advising me that the charges according to the fraudulent company were in accordance to their practice so they proceeded to charge my credit card with {$1900.00} on the same day, but gave me 10 days to agree or disagree with their decision. However, on XX/XX/XXXX I had a XXXX and had to be XXXX XXXX XXXX XXXX XXXXXXXX of them under XXXX XXXX. On XXXX after I recovered I contacted Barclays and I tried time and again to appeal them to reopen my case, but they did not. I even wrote to the Corporate Customer Service Director, but no reply. I am submitting all these documents for your reference. Please note that I call it fraudulent company because XXXX XXXX XXXX provided no services to me and what is more I tried contacting them, but their phone does not answer."
+}

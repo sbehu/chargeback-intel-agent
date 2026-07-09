@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7133",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11695,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed on my American Express Gold Card that I was charged {$69.00} for XXXX XXXX by XXXX XXXX. \n\nI remember canceling my XXXX XXXX membership last year. I would like to file a charge back on this transaction because I already cancelled this membership. I was not expecting this charge at all."
+}

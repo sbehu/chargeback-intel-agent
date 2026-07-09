@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13086",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33193"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36676,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint to report Barclays Bank and XXXX XXXX Barclays Bank for failing to properly investigate and resolve a credit card dispute involving a reservation that included a {$1500.00} refundable damage deposit. And XXXX because because they did not return the refundable deposit. \nWhile I acknowledge that the original transaction was authorized, my dispute is not about the validity of the charge. The dispute is specifically related to the merchants failure to return a clearly designated refundable deposit after the completion of the stay. \nI provided Barclays with documentation confirming : * The total transaction included a {$1500.00} refundable damage deposit * The stay was completed without any reported damages * No claims, invoices, or evidence have been provided by the host or XXXX to justify withholding the deposit * The deposit has not been returned Despite this, Barclays has failed to properly evaluate the dispute. Instead of addressing the non-return of the refundable deposit, they have relied on the fact that the transaction was valid. This is not only irrelevant to the dispute, but it also demonstrates a lack of proper investigation. \nBarclays has not required the merchant to provide evidence supporting their retention of funds, nor have they applied appropriate consumer protection standards under the Fair Credit Billing Act ( FCBA ) or card network dispute rules.\n\nThis failure represents : * An inadequate and incomplete investigation * A denial of my rights under federal consumer protection laws * A failure to hold the merchant accountable for contractual obligations I am attaching all relevant documentation, including the receipt and communication attempts. \nSincerely, XXXX XXXX XXXX"
+}

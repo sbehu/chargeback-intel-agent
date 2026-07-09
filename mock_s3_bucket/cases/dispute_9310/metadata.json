@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9310",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14072"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22202,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I had an issue on a website for purchasing tickets from XXXX XXXX. Upon having the issue, I checked my CitiBank phone app for the credit card and saw two pending fraudulent charges to XXXX XXXX. I immediately called CitiBank and explained the situation and that the charges were not authorized I was told that nothing could be done until the charges were no longer pending. Once the charges actually went through, I could dispute the charges. \nOn XX/XX/year> the charges were released from pending and I formally disputed them. I followed up on XX/XX/year> with CitiBank and was told the dispute was in progress and the vendor had 2 months to respond. \nOn XX/XX/year> CitiBank forwarded the response from XXXX that tickets had been purchased and the amounts were due and owing. Both charges were reinstated on my credit card. \nOn XX/XX/year> I did emails to request the reopening of my disputed charges and faxed a complaint to the CitiBank corporate office. The disputes were reopened and the corporate office responded that the matter would be investigated. \nOn XX/XX/year> I received a response from the corporate office that the vendor ( XXXX ) would reverse the smaller of the two charges, but not the larger of the charges. The smaller amount was reversed from my account. The larger amount was recharged and letter indicated that if I didnt pay the amount it would be sent to collections. \nI then responded to the corporate office disputing their response and requesting further information. The corporate office referred me back to the original response and indicated that there was nothing further they could do. \nToday ( XXXX ) I went on the CitiBank credit card APP to find their policy on fraudulent charges. Their policy clearly states, you are not liable for unauthorized purchases when unauthorized purchases on your Citi consumer debit or credit cards are promptly reported, you wont be held responsible for those purchases. I then responded to the most recent corporate office email asking for an explanation as to why they were not honoring their policy and requesting that they do so."
+}

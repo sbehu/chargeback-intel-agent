@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2424",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NC",
+    "complaint_zip": "28031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16572,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, I am a XXXX XXXX XXXX XXXX  in XXXX NC. I use XXXX ads to advertise my home listings. On XX/XX/year> my XXXX ads manager account was compromised. First they changed my daily spending limit to {$5000.00}. Then the fraudsters created a T Shirt ad for their product to sell. They attempted to charge my credit cards on file 125 times of which 34 transactions were charged for a total of {$21000.00} on XXXX different Mastercard 's that are on file in my XXXX ads manager account. One was a Barclays Mastercard account ending in XXXX and the other was a XXXX Mastercard ending in XXXX. There was also one charge to my XXXX account. Total charges were Barclays Mastercard- {$18000.00} XXXX Mastercard- {$3600.00} and XXXX- {$230.00}. XXXX and XXXX both deemed the charges fraudulent and refunded the charges back to my account. \n\nBarclays Mastercard refuses to refund {$18000.00}. There 5 internal investigations \" determined that the charges were valid based on a previous purchase history with the merchant '' ( XXXX ). \n\nIn the attachments I have emails from XXXX support who ran there own investigation and concluded that my account was compromised. XXXX also states in the email ... '' We've refunded all the fraudulent purchases back to the original source where the charges are taken out so you need to talk to your credit card provider '' XXXX only refunded 1 charge for {$170.00} back to the Barclays Mastercard account. \n\nAfter more than 14 months later neither Barclays nor XXXX has resolved this issue and refunded the fraudulent charges of {$17000.00}. I am making monthly payments on the Barclays card with very high interest rates, By paying the minimum amount it will take me 29 years for a total of {$55000.00}. \n\nAttached I am providing .... \n\nXXXX ) XXXX ( XXXX ) Charges that were paid by my credit cards. \nXXXX ) XXXX XXXX emails confirming my account was compromised and the charges would be refunded. \nXXXX ) Barclays 5 different investigations results letters. \nXXXX ) Police Report In conclusion .... I also know of 2 other people in my town who have had the exact same situation happen with XXXX and their credit card company. XXXX person who happens to be my boss was able to get the charges resolved through a complaint with the CFPB."
+}

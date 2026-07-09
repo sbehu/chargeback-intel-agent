@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7196",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "95835"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41210,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a charge of {$520.00} was made on my Home Depot credit card. I am currently serving on active duty in the United States military and was at work on base at the time of the transaction. I did not authorize this purchase and called the same day to dispute the charge. Despite my prompt action, the issue was not resolved in a timely manner and required five separate phone calls to escalate the dispute. My claim was ultimately denied based on information Home Depot had on file, which does not reflect my actual location or circumstances at the time. I am requesting that this charge be fully re-investigated and removed from my account"
+}

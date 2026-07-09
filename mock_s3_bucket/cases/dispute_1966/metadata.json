@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1966",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78259"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6224,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I cancelled a purchase at XXXX XXXX, which was paid with my American Express Card using XXXX. Since XXXX XXXX was not refunding for weeks. I filed a dispute with the cancellation with American Express and XXXX. I got two refunds, and American Express reversed one of them early XXXX. to be squared, and just refunded once for something that got cancelled. \nDuring XXXX XXXX charged again what was already solved by American Express. So now I am charged for something I cancelled before picking it up. \nXXXX has all the information and evidence for the reversal of the second refund by american express, Nevertheless XXXX  wants to collect the amount again even while American Express already reversed the second refund. \n\nXXXX and american express are arrogant and dont want to talk to each other to solve the matter without affecting the customer. This has been taking a lot of my time and resources, I ask for compensation from paypal due to their negligence and sanctions to both, after taking the negative balance on my paypal account with the negligent reversal they are making. Now in reality I am being charged again for something I never received."
+}

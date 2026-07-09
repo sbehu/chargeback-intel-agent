@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4135",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "956XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29946,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint against home depot consumer credit card by citi. On XXXX XXXX XXXX   2024 I made a purchase at store # XXXX for {$3400.00}. There was a promotional 24 month no interest for that amount, but in 2 billing cycles it showed for only 6 month no interest, I went to store # XXXX and an associate corrected it from 6 to 24 month no interest. And latter on next bill cycle another chare on same {$3400.00} appeared. I have contacted home depos citi credit card services for eight times trying to get that second charge resolved but all i was getting is we will investigate and contact you, when calling them again all they say is \" we will review your request ''. I have tried to speak to people in higher positions but no results. Now for month of XXXX I am being charged a 17.99 % interest on that amount. I have lost all hope with them and considering bankrupting that account unless CFPB can sort it out. Also would like to be compensated for all the hassles they have caused. Thank you"
+}

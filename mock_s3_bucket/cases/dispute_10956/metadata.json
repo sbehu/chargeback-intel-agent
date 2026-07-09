@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10956",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60035"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12220,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because American Express failed to comply with the Fair Credit Billing Act ( XXXX ) regarding my dispute of an XXXX charge from XXXXXXXX XXXX XXXX XXXX I also sent American Express a certified letter on XX/XX/year> ( XXXX Mail XXXX. XXXX ). American Express has not responded, violating FCBA requirements for timely written communication. \n\nThe merchant performed defective and misdiagnosed work on my furnace, which failed within XXXX days of installation. I submitted documentation showing : The merchant removed the mitigation board The merchant misdiagnosed the issue I was forced to hire XXXX XXXX XXXX to reinstall and correct the problem The merchant refused to correct or refund the defective service Despite this evidence, American Express closed the dispute without contacting the second merchant who repaired the defective work at a cost of {$310.00}. \n\nXXXX Violations by American Express Failure to conduct a reasonable investigation On XX/XX/year>, the Amex XXXX acknowledged they needed to speak with XXXX XXXX XXXX yet the dispute was closed without contacting them. \n\nFailure to respond to my certified letter American Express did not acknowledge or respond to my written XXXX  reinvestigation request. \n\nImproper reliance on a signature slip Amex relied on a services rendered to satisfaction signature, which is not proof of proper service under XXXX. \n\nFailure to review submitted evidence Amex did not review the text messages, emails, or documentation showing the defective work and the corrective work performed by XXXX XXXX XXXX. \n\nFailure to evaluate whether the service was defective XXXX requires a reasonable investigation into the quality of services when disputed. Amex did not evaluate the misdiagnosis or the system failure. \n\nPattern of premature dispute closures It appears that American Expresss process prioritizes opening and closing disputes based on internal timelines rather than resolving customer issues in compliance with XXXX. \n\nImproper Billing Practices Under Illinois XXXX The merchant charged me {$360.00} for service rendered, which included sales tax on labor. Under Illinois law, installation labor for XXXX  systems is not taxable, as it is considered a permanent realproperty improvement. Only the equipment and materials are subject to sales tax. Charging sales tax on labor is incorrect and unlawful in Illinois. This further demonstrates improper billing practices and supports my position that the charge is invalid. \n\nCoercive and Threatening Conduct by the Merchant After the furnace failure, the merchant contacted me and attempted to arrange an informal cash repayment of {$1100.00}, asking me to meet him at the XXXX store in XXXX. I refused because his tone was threatening and confrontational. \n\nHe also texted me to pick up the phone like a man. \nThis behavior is coercive, unprofessional, and raises serious concerns about the merchants credibility and the legitimacy of the charge. \n\nOngoing System Issues During the lowest temperatures this week, the furnace repeatedly turned on and off and appeared to recalibrate itself. This strongly suggests the installation was not performed correctly and that the system may be compromised. I now must hire another XXXX company to inspect the entire installation for safety and compliance."
+}

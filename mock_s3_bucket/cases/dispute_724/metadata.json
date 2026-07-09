@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_724",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89119"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13058,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "While traveling to XXXX, XXXX XXXX XXXX XXXX XXXX XXXX XXXX to XX/XX/2023 a fraudulent charge occurred and was posted to my American Express card last five digits XXXX. We the two cardholders did not initiate, authorize, validate or sign for this charge to said company XXXX in the amount of {$2200.00} transaction date XX/XX/2023. \n\nUpon return to the XXXX I became aware of the charge and immediately called American Express to report this crime and Fraud on my Gold American Express Card. The card was immediately canceled and new cards were sent to my home with new card numbers. \nI followed all instructions from American Express following the initial phone call. Now months later this is still not resolved. American Express has mishandled this XXXX # XXXX from the initial reporting of this fraud. They have opened and closed numerous cases on the same charge to card and as of today have still not confirmed to me that they will not re-bill me for the crime committed while traveling in XXXX on my credit card. \n\nAfter months of dealing with this and hours and hours of stressful frustrating phone calls American Express latest letter dated XXXX XXXX which I have attached they have again removed charge from my billing cycle, BUT stated that this is not a guarantee that they will not in the future re-bill me for the criminal fraudulent charge of {$2200.00} from said company XXXX."
+}

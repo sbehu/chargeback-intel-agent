@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12737",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92551"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15525,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a transaction on XX/XX/year> for the amount of {$820.00} from the merchant XXXX XXXX for XXXX {$100.00} Visa Gift Cards to be distributed among my employees. \n\nThe visa gift cards arrived and were NOT activated, I checked the support options and because the order were physical gift cards, they were not returnable. \n\nAs shown on the images I submitted of the live chat, I contacted live chat support immediately and the first agent checked the gift cards and agreed they were defective and offered to refund the items for the full amount of {$820.00}, I agreed and accepted the refund of the full amount back to my credit card. After some time, I still had not received the refund confirmation for the full amount so I contacted again and the second agent also offered a refund to the original payment method, and I agreed for the second time. The second agent stated and I quote \" the complete refund have been successfully back to the same card that you have been paid using it will be credited within next 3-5 days '' This is shown in the one of the screen shots I provided to the disputes team. \n\nThis is two different agents agreeing that my order was defective and offered to refund the full amount, both screenshots of the live chat from both agents are uploaded. \n\nAfter some time, I still have not received the email confirmation again. That is when I decided to call Citi bank disputes to dispute the transaction. \n\nAfter two months of no update, I finally get an update that the dispute was resolved in my favor and the temporary credit was permanently credit. I have a copy of the resolution in my favor provided by Citi, however, the next day the resolution was overturned and sided with the merchant. \n\nThe merchant 's rebuttal was that I did not initiate a return, HOWEVER as previous stated, these items were not eligible for return and the merchant did not ask for the gift cards back and offered to refund to instead. These are all documented in the screenshots I provided. \n\nI am confused why I am losing a dispute based off the merchant saying there was no return request received, when two separate employees and one of the two employees stating on record that the refund was already successful and neither employees asked for the order back."
+}

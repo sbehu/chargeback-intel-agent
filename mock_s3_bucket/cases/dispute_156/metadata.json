@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_156",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77082"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14874,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have not received purchased merchendise from the company \" XXXX '' and disputed the charge ( dispute XXXX ). Amex sided with the merchant twice when the merchant only provided a blurry printout of a tracking number which didn't reach my house ( either it was a fake tracking number or it was stolen by the carrier ). I can't launch an internal carrier investigation since I'm not the shipper, only XXXX can do that but their support refused to help me. \nI provided a police report stating I haven't received anything but Amex still sent me the same denial with the exact same response from the merchant. I think they didn't read any appeals and just sided with the merchant by default. This company \" XXXX '' is known for it's fraudulent practices of failing to fullfill orders and it's customer support is nonexistent so I don't understand Amex 's insistence to protect them. My police report can be viewed by visiting the XXXX County Sheriffs Office website below and entering my personal details ( XXXX XXXX, XXXX, XXXX XX/XX/1990 ) https : XXXX? XXXX"
+}

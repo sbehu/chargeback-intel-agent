@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1743",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20815"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45153,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX I filled the following complaint with the CFPB. Here is the complaint. \n\nOn XX/XX/XXXX I called what I thought was XXXX XXXX Customer Support.The purpose of the call was to change my award travel ticket to a different date. The phone was answered Customer Support so I had no reason to think it was anything other than XXXX XXXX. The support desk said they would change the ticket date for me but in the transaction they asked my for my credit card number. I thought this was very odd but I mistakenly gave it to them. I was worried about it and after I hung up, I called XXXX XXXX again to make sure the ticket change was legitimate and it was, Two days later I received a phone call from XXXX XXXX XXXX asking me about a charge for {$980.00} from something called XXXX XXXX XXXX. I said that I did not authorize any transaction to XXXX XXXX. I disputed the charge since I never spoke to anyone at XXXX XXXX XXXX. When I disputed the charge, MasterCard- through Barclay 's Bank , issued a credit for the amount and investigated it. After the investigation and my speaking to Barclays on XX/XX/24, they claimed that XXXX XXXX showed documentation that I authorized the charge. Barclays said that because I authorized the charge they would not cover the {$980.00}. I asked if they heard a phone recording or what documentation did they receive to substantiate that claim? I tried to call XXXX several times. No one answers the phone and I also emailed them to ask about the charge. I never received a reply. Barclay 's Bank representative says that because the travel agency said that I authorized the charge that means that I did. But I did not authorize anything to XXXX XXXX. I have since found out that XXXX is a scam company. My complaint is with Barclays Bank and the XXXX XXXX XXXX. \n\nSince this complaint was filled I asked a friend to call the phone number that I used to change the ticket addressed in the complaint. I have attached the recording. XXXX XXXX confirms that they do not charge a change fee for award travel and that they never received any money for the ticket change. XXXX XXXX also confirms that there was no cost for the service because it was a date change and there is not charge for date changes on award travel. The money XXXX XXXX charged me went to their travel service and not XXXX XXXX."
+}

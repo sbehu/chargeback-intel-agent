@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6988",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "117XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8796,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im filing a complaint regarding Citibank and XXXX XXXX  handling of a disputed charge for an accidental purchased flight. I booked on XX/XX/2025 for travel on XX/XX/2025 within hours of booking I attempted to cancel the flight under the XXXX  XXXX hour cancellation policy However, XXXX website redirected me to a Spanish only page, their Chatbot and XXXX  support were unhelpful, and also in Spanish, and their customer service number would not connect. I have documentation of all my attempts to cancel. I also contacted Citibank on XX/XX/XXXX to report the issue, but was told that I could not cancel because the charge was still pending. To further demonstrate that it was a genuine booking error I purchased the correct ticket on XX/XX/XXXX and used that one to travel. I submitted evidence trying to contact XXXX, but Cutibank denied refund numerous times. I recently submitted final evidence which stated that I could cancel within 24 hours, but was told by Citibank that I missed the deadline to submit further evidence. I am asking the CFPB to review Citibanks handling of my dispute and to help ensure that the XXXX  is 24 hour cancellation rule is honored. Thank you."
+}

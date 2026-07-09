@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4803",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30134"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48492,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Citibank about fraudulent charges over XXXX months ago. The matter has not been resolved. \n\nCitibank is emailing me, sending me letters, texting me and calling me asking for payment for a charge which I did not make. \n\nUnfortunately, my XXXX XXXX decreased by XXXX points as a result of this matter. \n\nDuring the last XXXX and a half months I spoken to people from XXXX different departments of Citibank and the matter has not been resolved."
+}

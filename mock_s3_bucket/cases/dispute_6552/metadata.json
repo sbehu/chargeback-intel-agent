@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6552",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95361"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23812,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXXXXXX  received a phone call from my 3rd party XXXX  XXXX  ( XXXX XXXX XXXX ). The gentleman told me it was time to do a security check. This is normal. He stated he would need to download some \" NEW '' software, OK. When I clicked on it my computer went into scan mode. He ( XXXX ) stated it would take some time and he would call back when he finished. This was approximately XXXX XXXX. I headed out for several hours, errands, paying XXXX and did some shopping. It was around XXXX XXXX  when he called back asking me if I had \" Cash App \" I said NO, he then asked if I have XXXX XXXX  I said NO. He said OK let me see if I can complete the scan and to give him a little bit of time. At this point I knew something was off. I couldn't access my computer and phone was not connecting!! He called back and told me they need an XXXX XXXX, they needed the security code from the XXXX XXXX. I told him I don't have one and he suggested I go to XXXX a purchase one! At that point I knew this was not XXXX. I still couldn't accesses my computer they had control of it. Again he said I'll call you back. I am fortunate to still have my old computer and was able to fire it up, I was able to get the direct line to my XXXX XXXX  and called them. I wanted to verify if in fact they were working on my computer. They told me NO, it's a scam and SHUT EVERYTHING DOWN! I unplugged my computer and shut all the phones off. \nOn XX/XX/XXXXXXXX  I powered my computer back up and started going through my accounts. The first thing I noticed from my personal checking account I had XXXX XXXX payments of {$1000.00} each. I immediately flagged all 4 of those and called my bank. Then to my credit cards, my AMEX had 3 separate charges of {$3000.00} each. I again immediately contacted AMEX. From there I was able to access what they purchased, they purchased 3 American Express Gift Cards. Each card was {$3000.00} for a total of {$9000.00}. I called AMEX gift card and was told I needed the E-gift card number. I didn't have that, or so I thought though. When I unplugged my computer they must have been in the middle of a transaction, I went to the Amex gift card site and it was still open, I was able to access the site and had the receipt/copy of the gift card sent to my email address. I again contacted Amex gift card and gave them the information on the gift cards. They sent me an email with a form to fill out ( XX/XX/XXXXXXXX  ) received a confirmation Email on XX/XX/XXXXXXXX  that they received it. Mean while American Express Credit Card called and stated that they would be doing there infestation and would send an email when they had completed it. On XX/XX/XXXX Amex Credit Card services denied my claim. There explanation was \" We gathered the attached documentation we needed to explain this charge, and we've determined that you're responsible for the amount in question. '' I sent the additional information off to the Gift Card on XX/XX/XXXXXXXX  at their request. The grift cards were used at XXXX XXXX XXXX on the XX/XX/XXXX and the other XXXX on XX/XX/XXXX. I explained I did not make the purchase nor did I use them there. I briefly explained to both parties what happened ( AMEX CC services and Amex Gift card ) that I was scammed and these transactions are not mine. \nI just received an Email from XXXX XXXX XXXX  dated XX/XX/XXXXXXXX  and my dispute was declined. \nI filed a report with the FTC XX/XX/XXXX ), the local Sheriff department and I filed XXXX complaint XX/XX/XXXX. \nI do plan on appealing with Amex cc services I stated to American Express Credit Card Services that I wanted a new card, I was told that they did not do that!!\n\nI have changed all my passwords and have locked my credit on all 3 credit bureaus. Social Security has been notified."
+}

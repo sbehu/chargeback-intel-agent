@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11928",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28110"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12072,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I paid {$410.00} to a window tint merchant for a professional installation. Upon pickup, the installer had damaged my vehicle 's rear door glass window run channel seal. The installer acknowledged the damage on the spot and attempted to fix it using a tool, but the attempt failed and the seal remained deformed. \nI returned to the merchant the same day. They denied responsibility and told me to take it to a dealership. The merchant also claimed the film bubbling was caused by old tint not being stripped, which is impossible. My vehicle is a XXXX XXXX XXXX XXXX with factory-pigmented glass. There is no removable film layer. This was a false statement used to avoid liability. \nOn XX/XX/XXXX, XXXX XXXX inspected the vehicle and issued a formal repair estimate of {$380.00} to replace the damaged window run channel ( XXXX # XXXX ). \nI filed a dispute with American Express for {$410.00} ( Ref. No. XXXX ) and submitted photos of the damage, defective film, interior staining, and the dealership estimate. American Express has denied my dispute twice and ruled in favor of the merchant despite this documentation. I am requesting that the CFPB review American Express 's handling of this dispute, as I believe they failed to properly investigate the evidence provided."
+}

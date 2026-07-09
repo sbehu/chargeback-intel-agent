@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9753",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "199XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44334,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was already contacted by an XXXX XXXX  to the CEO of Barclay Bank when they received my previous complaint from CFPB. I don't have her name right now as I just returned from a three month trip and the documentation is in another location. I mentioned to her in our call the way to resolve my complaint was to obtain an Email from the vendor that should have been sent to me containing an E-doc contract for me to sign and send back to them via Email. The vendor 's billing company ( XXXX ) sent documentation to Barclay Bank that is not a contract signed by me and it states in the documentation that I purchased another program the vendor also has that is non-refundable. I did not purchase that program. I purchased the program with a XXXX guaranteed refundable \" no questions asked '' refund clause. I asked for a refund ( in writing ) several times within the XXXX period of purchasing the program. The vendor nor his billing company responded to my request and on my last request I said I was going to file a dispute with my XXXX bank. Still no response was received. After I filed the dispute, my account with the vendor was cancelled by XXXX and was told I needed to cancel the chargeback and my refund would be considered. When I spoke to Barclay bank about what occurred they told me I could not cancel the dispute as they had to investigate the matter. Just recently someone at XXXX was able to have my account reinstated so I could ask for a refund. However, due to the timeframe for the request being more than 30 days I was refused a refund by XXXX. My credit score now has dropped almost XXXX points due to this transaction. I feel Barclay Bank is not supporting in this endeavor to clear this matter. They are accepting insufficient documentation from the vendor 's billing company and not trying to resolve my case. I reached out again directly to the vendor last week and asked that he review my request for a refund as I don't even have my property listed as an XXXX anymore. His response was he couldn't change the terms of the contract but he would be willing to assist me in improving my XXXX listing to gain more bookings. I was able to obtain two contracts for the same program I purchased from other people who paid for the program two months after me. One of the contracts has the 30-day refundable clause \" no questions asked '' in it and the other one the refund policy is completely different and contains a whole typewritten page of things they had to do to obtain a refund. She recently told me in an email that I received this past week that she was finally able to obtain a refund from the vendor. The refund was sent to her well after the 30-day refund clause as the vendor denied it for so long. The vendor is operating as an LLC in North Carolina under different LLC names. I have documentation that the LLC 's are inactive so I would like to know how he is operating under an inactive LLC status."
+}

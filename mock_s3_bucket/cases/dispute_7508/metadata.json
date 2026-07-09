@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7508",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "299XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41920,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a flight with XXXX XXXX, confirmation number XXXX. We ultimately had to cancel our return flight from XXXX to XXXX to get better flight option on another airline. In doing that, XXXX XXXX still has {$260.00} dollars that they have continuously verified will be appropriately refunded to XXXX ending in XXXX. \n\nOn XX/XX/XXXX I called and was provided the refund details, the representative stated it \" may take a couple of billing cycles to process ''. Case XXXX XXXXXXXX was provided by the agent. \n\nI called again on XX/XX/XXXX and spoke to an agent by the name of XXXX. Again, the same promises were made. \n\nI called again for a follow up on XX/XX/XXXX. Again telling me to wait. \n\nThe flight was cancelled on XX/XX/XXXX, it is now XX/XX/XXXX. There is no reason for XXXX XXXX to have held onto our cash for this period of time, forcing us to pay additional interest on that money for almost 4 months. \n\nI am requesting my refund of {$260.00}, plus additional lost interest costs, and an additional {$1500.00} flight credit for the absurd inconvenience and distress that this has caused myself and my family."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9286",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33928"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43958,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received an oil change at XXXX. They damaged my car. I disputed the charge in the amount of {$94.00}. In the interim, XXXX agreed to give me a refund, and issued a credit slip. The refund never processed. I submitted the credit slip ( refund ) to Citi, and they will not remove the charge."
+}

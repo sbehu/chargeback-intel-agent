@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4506",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36609,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am requesting claims and defenses under Federal law ( 15 USC 1666i ). This section specifies that the cardholder 's liability is limited to the outstanding balance minus the fraudulent transaction at the time the issuer is notified. I do not consent to any past or future payments being applied for the fraudulent charge. I hereby inform the card issuer and representative investigating the case, that I am withholding payment on the fraudulent charge ( s ). However, to be a loyal consumer I will continue the minimum payments under duress and fear that withheld payments will negatively impact my credit report and reputation. According to California Financial Code Section 2102, 17000 and Federal law principles. I reserve the right to refund. Consumers should be protected from financial loss and fraudulent transactions. The Fair Credit Billing Act safeguards consumers from fraudulent transactions or charges on their credit card accounts. I am requesting a full reversal of the fraudulent transaction XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Amex XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Amex XXXX XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7459",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32399,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased some chocolates at a store in the XXXX XXXX XXXX Terminal XXXX for the amount of XXXX XXXX XXXX  ( XXXX  ). The receipt issued at the time clearly indicates the currency as XXXX. However, my American Express XXXX Credit Card statement indicates that the amount billed is XXXX United States Dollars ( USD ). This discrepancy arises from a currency conversion issue, which is not happening at all, resulting in an overcharge based on the conversion rate ( approximately XXXX times more ). \n\nI have provided documentation to AMEX for their review. While they have acknowledged receipt of the documentation, they have not yet provided a resolution. Their response was as follows : Thank you for providing the documents related to your claim. We have reviewed the information submitted, however we are unable to fully substantiate your claim with the merchant based on the documentation provided. We truly want to help you with the resolution, but we are bound by decisioning based on the merits of paperwork and here the merchant commitment was fulfilled. At this time, we can only suggest you contact the merchant directly to resolve the matter. The merchant supports have been attached for your reference."
+}

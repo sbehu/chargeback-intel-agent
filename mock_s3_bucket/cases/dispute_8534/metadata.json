@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8534",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VT",
+    "complaint_zip": "056XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41082,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Regarding complaint XXXX. \n\nWHY did you close this complaint? \n\nBest Buy said they will do a 30 to 60 day investigation??? and in the meantime they want me to keep making payments on an overcharged item. \n\nAlso in their letter, attached to the case, they said they didn't see an issue and I would be responsible for the full amount, so are they investigating or not? \n\nThis is a dispute, how do you get off just closing the case because they say they don't agree ; well I don't agree either. Look for yourself ; I bought a stove at an advertised price, they then charged me a greater amount, and are claiming because the receipt shows a greater amount that I am still responsible? How many people are they robbing right under your nose. Go to the website yourself and add this item to you cart. It is advertised as {$1100.00} ; they say you are saving {$420.00}. Then when you complete the purchase they charge you the full amount of {$1600.00}. I never agreed to that price. \n\nhttps : XXXX This is blatantly false advertisement, its shady, and I would have to imagine as false advertisement it would be illegal if intentional. Either way this should be corrected, they should issue a refund of {$420.00} as the item is advertised."
+}

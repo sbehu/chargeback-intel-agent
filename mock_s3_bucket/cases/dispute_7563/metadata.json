@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7563",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91761"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19481,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made one order {$160.00} of item named XXXX XXXX XXXX XXXX XXXX XXXX XXXX Sealed Case ( 6 Blind Boxes ) from the merchant named XXXX XXXX on XXXX XXXX. \nOn XXXX XXXX I got another email says my order has been shipped out. \nOn XXXX XXXX I received one text message says my order has been delivered. Then I started to look into all my cameras around my house since I did not receive my order at all that no image shows this order has been delivered. \nI sent one email to the merchant XXXX on XXXX XXXX, then I reported one dispute to my credit card company Citibank XXXX XXXX credit card XXXX Yesterday I received one message from Citibank says they have received the shipping history from the merchant then decided I have to pay the {$160.00}. This is absolutely unfair for me, I paid this {$160.00} for nothing? \nToday I tried to look into more information provided with Citibank, the delivery status does not have a successful delivery proof image at all. And the merchant 's store named XXXX XXXX XXXX also shows not existed. This is just a 100 % fraud! I have printed out all the paperworks regarding to this order. Plz help me to get my money back. \n\nSincerly, XXXX XXXX"
+}

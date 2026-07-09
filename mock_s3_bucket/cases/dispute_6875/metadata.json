@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6875",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "330XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24874,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against American Express for failure to protect me as a consumer and cardholder, after I submitted a well-documented dispute related to a service involving significant ethical concerns and financial harm. \n\nIn XX/XX/year>, I paid XXXX XXXX XXXX for a dog training and boarding program that involved coordination with a third-party facility, XXXX XXXX XXXX  XXXX Following the boarding period, my dog returned in visibly distressed condition. Subsequent veterinary assessments revealed trauma consistent with the use of undisclosed aversive training devices, including a shock collar. These facts were not disclosed at the time of sale and became clear only after veterinary care and behavioral deterioration, well beyond the XXXX billing window. \n\nI submitted a detailed dispute to American Express, supported by written communications, veterinary records, and a formal letter to the merchant. The merchant was uncooperative and attempted to impose silence in exchange for partial reimbursement, which I refused. Despite presenting this documentation, Amex denied my claim and refused to reopen it, citing their 60-day policy. No exception was made for the delayed discovery of harmdespite it being a direct consequence of the merchants deceptive practices. \n\nI believe Amex has failed to conduct a reasonable investigation under the spirit of Regulation Z and has effectively sided with a merchant whose conduct may involve misrepresentation and animal cruelty. This matter is about more than a billing disputeit is about a system failure that allows unethical businesses to continue operating while consumers are left without recourse. \n\nRequested Resolution : Immediate reconsideration of my claim by American Express.\n\nRegulatory review of Amexs policy enforcement and responsiveness in cases involving delayed harm or deceptive merchants. \n\nEncouragement of further investigation into XXXX XXXX XXXX  and their affiliated boarding provider for misrepresentation and potential animal abuse. \n\nAmex Feedback Case : XXXX"
+}

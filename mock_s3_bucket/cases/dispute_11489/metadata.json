@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11489",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "730XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19128,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I previously filed a complaint regarding multiple disputed transactions. Citi responded to the CFPB indicating monetary relief would be provided.\n\nHowever, despite that response, Citi has continued to issue repeated denial determinations across the same transactions, reversing credits and closing disputes as customer responsible.\n\nThe determination letters provided are conclusory and do not comply with Regulation Z ( 12 CFR 1026.13 ), as they fail to : Address the actual dispute category ( services not as described ) Evaluate or reference the evidence submitted by the consumer Reconcile contradictions within the merchants own documentation Identify what evidence Citi relied upon in making its determination Each letter simply states that no billing error was found, without explanation. This does not constitute a reasonable investigation or a sufficient written explanation as required by federal law. \n\nAdditionally, all disputed transactions arise from the same incident, yet Citi continues to handle them inconsistently and in isolation. \n\nCiti has also reported monetary relief to the CFPB, yet continues to deny the disputes without reconciling that position. \n\nI am requesting : A compliant investigation of all related transactions as a single incident A detailed written explanation addressing both parties evidence Clarification and enforcement of the monetary relief previously reported"
+}

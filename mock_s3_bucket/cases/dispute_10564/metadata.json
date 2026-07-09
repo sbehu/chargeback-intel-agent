@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10564",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28262"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14644,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I disputed a {$390.00} charge from XXXX XXXX XXXX which posted to my CitiBank credit card in XX/XX/XXXX. This card is white-label branded as BestBuy Visa . \n- the {$390.00} was for a financial plan that XXXX Advisors were to provide - In late XX/XX/XXXX, I contacted the XXXX  rep to ask if the plan is near completion - The XXXX  rep advised should be complete by mid XX/XX/XXXX - In late XX/XX/XXXX, after not receiving it, I advised the rep to cancel the order - The rep responded to confirm he would not deliver and should cancel - The rep then advised he would issue a refund - The refund did not occur so in XX/XX/XXXX, I disputed the original charge ( attached letter ) - Through the Best Buy Visa website, Citibank proceeded to request information from me beginning on XX/XX/XXXX ( attached letter ) - Through the Best Buy Visa website, I twice submitted a statement on the issue ( attached ) - Through the Best Buy Visa website, I uploaded email proof to my claim ( attached ) - On XX/XX/XXXX, I received a letter from Citibank/BestBuyVisa stating they could not verify that I had a billing error. ( attached ) - On XX/XX/XXXX, I called customer service to advise that the dispute was not for a billing error, but instead a service that was not delivered - The customer service rep advised that he is not able to see all the documents pertaining to my claim, so I advised that I would not waste either of our time... as I have uploaded information twice, but evidently, it's either not retrievable, not reviewed, or the team is too overwhelmed to handle even the most clear-cut case of a dispute. \n- I advised the customer service rep that I would refer the issue to a more capable organization, the CFPB - Attached are the letters from CitiBank/BestBuyVisa and my responses to those letters outlining the issue and providing email proof/confirmation of undelivered service"
+}

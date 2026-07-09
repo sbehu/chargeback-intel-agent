@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-39133950-US
+Shipment Date:   2026-03-21T00:00:00Z
+Delivery Date:   2026-03-27T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     4856 HILLSIDE BLVD, TX, 781XX
+============================================================

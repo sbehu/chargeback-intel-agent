@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13623",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77339"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32904,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This dispute involves a merchants refusal to provide a legal and policy-compliant return method for a \" materially different '' product, and the financial institutions failure to recognize a legal impossibility during their investigation. \nTimeline of Events : XXXX ) XX/XX/XXXX 2026 : I purchased XXXX high-capacity lithium batteries. Upon delivery, I discovered the listing dimensions were completely inaccurate, making the units unusable for the intended application. \nXXXX ) XX/XX/year>2026 : XXXX Customer Service formally intervened, messaging the seller that the items were \" not compatible and not as described ''. XXXX explicitly ordered the seller to provide a prepaid return label within XXXX XX/XX/XXXXThe seller ignored this mandate. \nXXXX ) XXXX XXXX, 2026 : XXXX Customer Service contacted the seller a second time, specifically requesting a XXXX Pickup for the items. The seller again refused to comply. \nXXXX ) XX/XX/scrub> 2026 : My financial institution opened a formal dispute ( Case ID : XXXX ) and issued a conditional credit. \nXXXX ) XX/XX/year>2026 : The financial institution reversed the credit, claiming no \" billing error '' occurred, despite the merchant still refusing to provide a legal return method. \n\nLegal and Policy Violations : XXXX ) Federal Safety Regulations ( XXXX XXXX XXXX ) : The merchant is demanding that I personally facilitate the return of XXXXXX/XX/XXXX of Class XXXX Hazardous Materials ( Lithium Ion Batteries ). Under federal law, a consumer can not legally ship this volume of hazardous material through standard retail channels without specialized HazMat certification, packaging, and a specialty freight carrier. \nXXXX )XX/XX/XXXX 2026 Heavy and/or Bulky Policy : For items weighing XXXXXX/XX/XXXXor more ( these units are XXXXXX/XX/XXXX each ), the platform policy mandates that the seller must arrange for a home collection by a specialty carrier team. The merchants demand that I pay over {$250.00} out-of-pocket for a hazardous shipment is a breach of the purchase contract and platform terms. \nXXXX ) Deceptive Trade Practices : The merchant misrepresented the product dimensions and is now using \" unconscionable '' friction demanding a dangerous and illegal shipping act to prevent a refund for their own error."
+}

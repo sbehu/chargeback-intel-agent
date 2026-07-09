@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4551",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "13820"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26646,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX a booked a room at a hotel in XXXX XXXX, XXXX XXXX. Two days later, the hotel charged me a second time for the same room. I contacted both the hotel and the credit card company to indicate that I had been incorrectly charged twice for the same hotel room. After many, many calls to the credit card company and the hotel, the credit card company ended up reversing both charges in XXXX, but then reversed the credit in XXXX charging me for the room, although I had cancelled the reservation due to all of the issues I was having. In talking to the hotel, they said they would be happy to cancel the reservation or issue a refund, but that they never received the payment from Citibank. Citibank can not seem to understand that I should not be charged for the hotel stay because the reservation was cancelled. They insisted that I pay the charge in my XXXX statement and that they would issue a credit when the issue was resolved. I recently received a letter from Citibank stating that the issue was resolved and that I would NOT be receiving the credit, even though I didn't stay there and the hotel never received a payment from Citibank."
+}

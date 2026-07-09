@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9511",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20748"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26263,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding XXXX handling of disputed credit card charges for services that were never rendered. \nOn or about XX/XX/year>, my Citi credit card ending in XXXX was charged a total of {$9000.00} by XXXX XXXX XXXX XXXX XXXX XXXX for the creation and management of XXXX and XXXX XXXX stores. \nNo services were provided. No XXXX store was created. No XXXX store was created. No deliverables, credentials, documentation, or proof of work were ever provided. Despite repeated good-faith attempts to resolve the matter directly, the merchant became non-responsive and failed to issue a refund. \nI timely disputed these charges with Citibank pursuant to the Fair Credit Billing Act ( 15 U.S.C. 1666 ). These charges constitute a billing error under federal law because the services were not delivered as agreed, as defined by 15 U.S.C. 1666 ( b ) ( 3 ) and Regulation Z ( 12 C.F.R. 1026.13 ).\n\nI am requesting that Citibank reverse the disputed charges in full, issue permanent credit to my account, provide provisional credit during the investigation, and comply with its obligations under federal law."
+}

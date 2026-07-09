@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7275",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "631XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2333,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint because Citi Retail Services has reversed previously credited fraudulent charges on my Best Buy credit card account, without providing evidence, justification, or investigation transparency. The initial credits were issued after I reported fraudulent activity on two Citi Best Buy accounts ( ending in XXXX and XXXX ). However, Citi later re-charged me for many of these transactions, citing generic reasons such as \" chip-read '' or \" XXXX tokenization '' as the basis for reversal. \nCiti has failed to provide : Any merchant documentation supporting the reversal Any forensic investigation reports or fraud analysis Any transparency into their decision-making process In addition, Citi closed my account in retaliation for reporting fraud. I was not notified or given an opportunity to appeal the closure. Despite making continuous automatic payments to preserve my credit, I am being held financially responsible for unauthorized transactions.\n\nWhat is new or different about this complaint? \nThis submission includes : A resubmitted FTC Identity Theft Report ( # XXXX ) Confirmation of a pending police report filed XX/XX/year>, with XXXX XXXX XXXX Police A new, comprehensive rebuttal letter outlining legal, regulatory, and technical issues A draft legal complaint prepared with counsel ( XXXX XXXX XXXX ) identifying violations of the Fair Credit Billing Act, Regulation Z, and Missouris Merchandising Practices Act These new documents provide further evidence that Citi has not met its burden of proof in affirming the legitimacy of these transactions."
+}

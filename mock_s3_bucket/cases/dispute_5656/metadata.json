@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5656",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "074XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43989,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I received a text message from my credit card company Citi of fraudulent activity on my account. I called them immediately that say, spoke to a representative that assured me that they were taking security measures, will dispute the charge and that future transactions will not go through. About 10 days later, I received another text message about fraud charges, only to realize that the representative I had called never actually resolved the issue or taken action and that I now have fraud charges totaling nearly {$1000.00} that I did not authorize or make and all from another state much further from me, in a specific location, clearly indicating that its clearly fraud. I tried to resolve this with my credit card company but its been incredibly frustrating dealing with them and they have not been able to resolve it so now Im taking action."
+}

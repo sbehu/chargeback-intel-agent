@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_786",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53142"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29310,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted a dispute per their process for a defective item, but the credit card company ignored the information sent in about it being defective and instead requested a credit slip from the merchant when I already tried to exchange with merchant and the merchant stopped communicating with me. I responded to the initial denial of the dispute with the information requested of the complete description of my original claim and that the merchant would not do anything and the reason for my dispute was because the merchant would not fix the the situation with the defective item. Please see attached the letter I sent to Citi Card with all attachments showing communication with the merchant, the defective product, and the Citi response letters and the merchant response letter. Citi Card closed the investigation and left me with a defective product and the merchant with the {$200.00} plus 5.5 % tax ( {$210.00} )."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6094",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "941XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27158,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recently reviewd my credit card statement and noticed multiple unatuthorized charges from XXXX XXXX, totaling {$1800.00}. I want to clarigy that there are no XXXX locations near me in California, expecially not in the XXXX XXXX where I live. \n\nAs soon as I noticed the charges, I contacted Citi bank team to report the issue and had my card canceled. Areplacement card was issued to me shortly after. Despite not taking any action that would compromise my card. It appears I was still a victim of Fraud. \n\nHowever, I just received a notice that th fraud case has been closed, and the {$1800.00} charge remains, I would like to request a re investivation of this case, as I did not authorized any of these transactions. \n\nThank you for your time and assistance."
+}

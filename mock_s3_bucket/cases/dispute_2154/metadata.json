@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2154",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33029"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39275,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a Citibank credit card as a backup card to my primary XXXX card. I did not use the Citi card at all in XXXX until XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX when my primary XXXX card would not work at my usual XXXX gas station fill at the pump in XXXX XXXX, FL. I filled up my car at XXXX for 3 weeks using the Citi card for a 3 transaction total amount of {$100.00}. \n\nOn XXXX, XXXX, XXXX, XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX ( conveniently between the end of one billing cycle and the beginning of the next ) numerous charges were made in suburbs of the XXXX, FL area ( I live hundreds of miles away in the XXXX, FL area ) at Home Depots in XXXX, XXXX XXXX XXXX, XXXX XXXX and XXXX ( twice ). There was also a charge from a XXXX in XXXX XXXX. These charges were all over {$200.00} apiece, for a total of {$1500.00}. \n\nWhen I found these transactions out, I contacted Citibank and had the credit card cancelled and they issued a new one. I also changed my bank account, changed my computer passwords and signed up for identity theft service, XXXXXXXX XXXX XXXXXXXX XXXX. I also contacted XXXX credit reporting to dispute the charges/ /put under suspicious activity fraud alert. \n\nI filed a police report with my local police ( XXXX XXXX Police Department ), report # XXXX. \n\nI have also stopped using credit cards at gas stations and go inside and pay cash. \n\nI sent a letter to Citibank at the beginning of XXXX after I received a letter from them stating that my dispute was resolved and I was responsible for the charges. In the letter I sent them, I included my monthly transaction statements from both Citibank, and my main credit card I use, XXXX, as well as a map of where I live, and where the Home Depots/XXXX  were each located all around the perimeter of the XXXX area ( who does that? ). \n\nThe XXXX statements showed I don't even really shop at Home Depot or XXXX. My total spend for the year on the XXXX card for these establishments was {$260.00} at Home Depot ( for a lawn trimmer for the house I RENT ), and {$44.00} at XXXX. I do my grocery shopping at XXXX, and I don't own a home to do any shopping at XXXX XXXX. In fact, the day after the bogus XXXX charge up north, I had a grocery shopping charge at my local XXXX in XXXX XXXX, again hundreds of miles away. \n\nOn several calls with Citibank representatives with my XXXXXXXX XXXX XXXX  representative on the line, on the dates of XX/XX/XXXX, XX/XX/XXXX talked to \" XXXX '', and XX/XX/XXXX, each time Citibank representatives would state that they were reopening the case or continuing their investigation and to give them time. On the final call to them, we asked to speak with a manager, \" XXXX '', who then assured us they were sending it to their investigation group ( again ) and I would hear back by XX/XX/XXXX. I have not heard anything back from them, and now that date has passed. \n\nI/we have tried working with Citibank to resolve these fraudulent charges for many times over a considerable amount of time. \n\nThe crux of their apparently keeping on closing my case of why they think I am responsible is because I stated to them that I am in physical possession of that card. I do still have the card. They seem to think that or state that the card is non-duplicable. Something happened at that gas station during the only 3 times I used that Citibank card all XXXX  year. \n\nDespite my having the card, I was NOT in the XXXX area on these bogus transaction dates, NOR did I use this card or receive any merchandise of any kind. \n\nI'm sure these places have video cameras which would show that it was not me doing any of these transactions that were put on my account. Though it appears neither the Citibank investigative department, nor the local polices seem interested in pursuing."
+}

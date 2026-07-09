@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10227",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76262"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18593,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, I am submitting this new CFPB complaint as a follow-up to my earlier complaint, which was previously closed under Complaint ID : XXXX. I am reopening this matter because the underlying issue remains unresolved. \n\nThis complaint concerns two disputed credit card transactions of {$3000.00} each ( totaling {$6100.00} ) made by XXXX XXXX, and XXXX refusal to issue a credit for these charges. \n\nI authorized XXXX XXXX to assist with resume preparation and job placement services, relying on their professional expertise as a licensed employment agency. My authorization was conditional on the understanding that any employment information used or represented would be legitimate, verifiable, and compliant with standard background-check and employment-verification requirements. \n\nThe job placement service failed at the employment verification stage because the employment information used by the merchant could not be verified by the hiring employer. As a placement firm, XXXX XXXX had a professional duty to ensure that any employment history or representations used were verifiable. The verification failure rendered the service ineffective and unusable for its intended purpose. \n\nImportantly, an identical charge and dispute involving the same merchant and the same issue was reviewed by XXXX XXXX. After reviewing the facts and evidence, XXXX XXXX determined that the service was defective due to misrepresentation and failure at verification, and they reversed the charge in my favor. I submitted the same explanation and supporting information to Citibank. \n\nIn addition, after my dispute arose, the merchant accessed my email account without my consent. This access was not authorized by me and caused concern and fear of potential retaliation or intimidation related to my dispute. This conduct further undermines the merchants credibility and raises serious concerns about their business practices. \n\nDespite these facts, Citibank denied my dispute solely on the basis that documents were signed, without evaluating whether the service itself was materially defective or whether the merchant engaged in improper conduct. Authorization of resume content does not waive a merchants responsibility to provide a professionally valid and verifiable service, nor does it excuse inappropriate or unauthorized actions taken against a consumer. \n\nI am disputing the legitimacy and quality of the service, not my authorization of payment. Given that another major issuer has already resolved the identical dispute in my favor, and considering the merchants additional improper conduct, I respectfully request that this dispute be re-evaluated under the appropriate standard of misrepresentation and failure to provide services as agreed, and that the full disputed amount of {$6100.00} be credited. \n\nAttached all the documentation again to this complaint. \n\nThank you for your assistance."
+}

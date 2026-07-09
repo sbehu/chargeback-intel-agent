@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5400",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "WA",
+    "complaint_zip": "98001"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16817,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wallet was stolen at the gym ( XXXX XXXX  ) on XX/XX/year>. All 7 credit cards and one debit card was charged ranging between {$200.00} and {$600.00}. One of the credit card is Barclays master card. I disputed the transaction that was made at XXXX and gave me a provisional credit but they came to conclusion that the transaction was valid therefore they charged the disputed transaction for {$250.00}. I do have a police report on file. It is frustrating that they came to this conclusion without doing their due diligence to protect their customers from fraud or thieves!"
+}

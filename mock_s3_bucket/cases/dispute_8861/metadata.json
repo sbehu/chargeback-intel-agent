@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8861",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92337"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32541,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Billing dispute with a purchase shown on my statement with Citi/Sears Credit card . \n\nI am disputing a $ XXXXcharge from a merchant named 'XXXX XXXX ' that appeared on my Sears/Citi credit card XXXX XX/XX/year>. \nI contacted Citi customer service the next day ( XX/XX/XXXX. XXXX  ) stating that I was coerced and threatened without lunch and water, at a time when my XXXX XXXX was low and I had brain fog. the initial agreed upon payment with the merchant was only XXXX but the merchant kept whispering in my ear XXXX till my heart was racing, and in my XXXX  state, I felt threatened to say XXXX. I was assured both verbally and in writing that the charge would be cancelled. \nThree months later, I received a letter stating that I now owe the {$10000.00} again. \nThe merchant never provided the educational service I paid for and Citi failed to honor their written assurance that the charge would be removed. \nI am requesting that Citi reopen this dispute and remove the charge permanently."
+}

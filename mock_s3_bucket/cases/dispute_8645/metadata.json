@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8645",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "786XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3157,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have include a letter in the attachments that describes the entire description of the billing dispute on my \" My Best Buy Credit Card ''. Please review that letter. This dispute has been open for more than 12 months and has been reopened a couple of times due to improper resolution. I have not been credited back properly. \n\nAfter mailing this letter and evidences to the Dispute Team, I received confirmation from Best Buy Via a Letter dated on XX/XX/year> that I will be issued merchant credit amount totaled to {$400.00} on a crediting date of XX/XX/year>. \n\nI had not received that merchant credit by XX/XX/year> so I called Best Buy Dispute customer service team, and they mentioned that the credit will be issued at the statement closing date and to call back on XX/XX/year> to check on the status. \n\nI called the Best Buy Dispute customer service team this morning on XX/XX/year> and they still are mentioning that they do not see a credit pending in the system and to try calling back on XX/XX/XXXX. \n\nAs of now I have had no progress in getting this billing dispute resolved properly and need help."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2485",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80111"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29507,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Frontier Airlines delayed XXXX XXXX  or more on XX/XX/XXXX for the XXXX XXXX ( below ) flight, and they are not providing the refund while asserting falsely that I cancelled my flight. I indicated this matter to Barclays Credit Card, but they did not have a complete investigation but they are charging my credit account stading on the side of Frontier Airlines after providing me a temporary credit. Even though it was non-refundable ticket, the frontier airlines should have allowed a partial refund to my credit card or give a flight voucher to fly on the future fligh since it was their flight operation fault, not by weather or natural disaster. It was the return trip that they delayed for more than XXXX hours, and I already agreed to pay one-way trip. \n\nThey also have this commitment to the passengers : Alternatively, if your flight is canceled or delayed in excess of XXXX hours, we'll provide you, upon request, a full refund of any unused portion of your ticket. \n\nFRONTIER SCHEDULE : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Take-off XX/XX/XXXX, XXXX Landing XX/XX/XXXX, XXXX Flight duration XXXX XXXX XXXX XXXX  Confirmation Code : XXXX XXXX, XX/XX/XXXX XXXXXXXX XXXX XXXX XXXX XXXX Passengers XXXX XXXX XXXX DEPARTING FLIGHT Flight Details Flight : XXXX Departure : XXXXXXXX XXXX XXXX XXXX XXXX  - XX/XX/XXXX XXXX XXXX  Arrival : XXXX, FL ( XXXX ) - XX/XX/XXXX XXXX XXXX {$190.00} Purchase Date : XX/XX/XXXX Payment : XXXX XXXX | Exp. Date : XX/XX/XXXX XXXX 'S CHARGES AFTER TEMPORARY CREDIT FRONTIER XX/XX/XXXX {$96.00} XXXX XXXX  Miles XXXX XX/XX/XXXX {$48.00} XXXX XXXX  XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3424",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "620XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21872,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a bill in the mail from Home Depot Decemeber 2023. The purchase was made on a Home Depot credit card. I did not open a credit card with Home Depot-Citi Bank . It was opened fraudulently under my name. I did not even know a credit card was open under my name with Home Depot. I have called and opened a fraud claim with Citi Bank multiple times and they keep determining that I am responsible for the charges and closing the investigation. When asking why, they state they have proof of delivery to a previous address of mine ( my parents ) but Home Depot and the receipts state that the items were picked up in store.The store that items were purchased and picked up at is located 4 hours away from where I live. They are stating that a different person with the name of my father ordered and picked up the items. Neither one of us have done so. I have filed a fraud claim with the FTC, contacted the collections agency that my account is now in, contacted Home Depot but no one can do anything when Citibank is stating we are still responsible. I have filed a police report in XX/XX/XXXX. Police have tried to contact Citi Bank multiple times and can not get through to a representative they can give information to. When asking to speak to someone in the investigations department we are told it is not possible. We are at a loss and can not seem to get anyone at Citibank to listen to our concerns or look into the fraud."
+}

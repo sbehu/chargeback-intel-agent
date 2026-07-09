@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13240",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "956XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13803,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding the handling of my dispute and failure to process a valid chargeback. \n\nOn XX/XX/year>, I canceled a transaction with XXXX after receiving confirmation from the merchant that there was a delay in a part I ordered and that I could cancel the search and they would issue a full refund. I followed their instructions and have documentation showing that XXXX approved the cancellation and agreed to issue the credit. Despite this, the refund has not been processed. \nOn XX/XX/year>, contacted my financial institution, Citi XXXX Mastercard and provided this documentation, requesting that a chargeback be initiated under Mastercard Reason Code XXXX Credit Not Processed. This reason code applies when a cardholder is entitled to a refund and the merchant either fails to issue the credit or does not do so within a reasonable timeframe. \n\nI made a good faith effort to resolve this matter directly with the merchant before escalating the issue. The cancellation was valid and in accordance with the merchants stated policy. However, Citi XXXX Mastercard denied my claim on XX/XX/year> despite the supporting evidence. They said they could not find an error. \n\nI am requesting that Citibank reopen my case and process the chargeback in accordance with applicable network rules. I am also requesting that the refund owed to me be issued promptly. \n\nThis situation has caused unnecessary delay and frustration, despite clear documentation supporting my claim."
+}

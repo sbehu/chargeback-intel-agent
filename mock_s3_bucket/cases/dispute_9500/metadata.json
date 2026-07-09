@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9500",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60645"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31671,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Barclays Bank for improper handling of a Fair Credit Billing Act ( FCBA ) dispute involving charges for event services that were not delivered as agreed and were materially misrepresented. \n\nOn XX/XX/year>, Barclays denied my dispute after stating that the merchant validated the transaction. This conclusion is inaccurate and unsupported by the facts. The merchant breached multiple terms of the contract, failed to provide contracted services, and misrepresented material aspects of the event. \n\nService failures include failure to maintain proper temperature control, which caused a {$2000.00} cake to collapse ; inadequate and improperly presented catering ; misrepresentation of an unlimited bar package that ran out of alcohol and required additional charges ; unprofessional conduct by the venue owner ; and pressure to end the event early despite a contracted time of XXXX XXXX PM. \n\nDespite receiving evidence of these breaches, Barclays relied solely on the merchants assertions and failed to conduct a reasonable reinvestigation as required under 15 U.S.C. 1666. Under the FCBA, charges for services not delivered as agreed or misrepresented constitute a billing error. \n\nI am requesting that Barclays reopen and properly reinvestigate my dispute ( Case ID : XXXX XXXX ), provide all documentation and reasoning relied upon in denying the dispute, reinstate the provisional credit, and refund the full disputed amount of {$4600.00}. I also request confirmation that no negative credit reporting will occur during review. \n\nSupporting documentation, including the contract, photos and videos, communications, witness statements, proof of damage, and a detailed timeline, will be uploaded as supplemental evidence."
+}

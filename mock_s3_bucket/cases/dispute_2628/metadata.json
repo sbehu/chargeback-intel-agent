@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2628",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20111"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24847,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a purchase from a restaurant, I did not have any purchasing relationship with them, I made the dispute in XX/XX/2023 and Macy 's took 3 months to make the dispute and they continue to charge me for this purchase and the interest, after those 3 months they have no information They closed the claim and today I opened this claim again and they say that I must wait 3 months again, I have never bought anything in this restaurant XXXXXXXX XXXX XXXX XXXX XXXX XXXX macys XXXX XXXX XXXX {$280.00}"
+}

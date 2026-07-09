@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9814",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78744"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20019,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a new front brake system repair for my XXXX XXXX XXXX from XXXX XXXX XXXX XXXX XXXX XXXX on XX/XX/XXXX. \nXXXX ) I requested All Original Equipment parts ONLY ( most Expensive and durable ) XXXX ) Informed them a brake flush was not needed XXXX ) My Vehicle did not have any major squeal or issues before repair. \nXXXX ) XXXX of {$2100.00} a. {$1500.00} ( reward Points ) b. {$610.00} ( Barclay Credit Card ) On XX/XX/XXXX I went to the dealership to inform that the alleged new : brake, rotor, and caliper repair is not good. My vehicle was not properly stopping and making a loud squeal. On numerous occasions on and off they took advantage of the facts I am XXXX and considered XXXX, which they were fully aware due to my DV plates on my vehicle. I informed them that my brakes are faulty and I asked them what parts were put on the vehicle. \n\nThe service XXXX conceded to the following facts : XXXX ) The parts that were put on the vehicle were not the highest level XXXX parts I requested, that a verbal contractual agreement was made, and paid for yet a lower cheaper level version. \nXXXX ) They acknowledged the brakes were spongy after their repair. \n\nI have recorded video and audio of XXXX XXXX and XXXX XXXX XXXX XXXX and other personnel solidifying statements and video After I had multiple XXXX and XXXX XXXX brake service repairers all agree the repair is not to standard and there are possibly multiple faulty parts that were place on my vehicle and a bad brake fluid flush all because XXXX XXXX XXXX is refusing to give me a refund and to properly conduct the repair that cost over XXXX XXXXXXXX. These faulty repairs are also endangering the lives of my family and multiple other motorist on XXXX XXXX. My family has no other vehicle and due to the cost of the repairs no funding to make the emergency repairs. \n\nBarclay GM Rewards Credit Card On XX/XX/XXXX I put in a dispute with Barclay GM Reward Credit card for the dispute of the {$610.00}. The first attempt was wrongfully denied on XX/XX/XXXX for the false statement of trying to dispute an estimate of a third party which sent to prove the diagnosis of the faulty repairs. The actual receipt was included in the claim. \n\nThe last dispute denial was on XX/XX/XXXX. It was because the merchant did not agree to refund the charges. This obviously should be illegal and someone is obviously taking advantage that I am XXXX and considered XXXX. \n\nI have all recorded calls with the Barclay GM rewards Credit Card staff and personnel."
+}

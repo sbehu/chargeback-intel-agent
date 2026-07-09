@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-74192817-US
+Shipment Date:   2026-03-27T00:00:00Z
+Delivery Date:   2026-04-01T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     1468 RIVER WAY, LA, 70560
+============================================================

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3888",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75205"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-30T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34842,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My fianc and I traveled to XXXX, XXXX, on XX/XX/year>. Upon arriving at the airport around XXXX XXXX, we requested an XXXX. After getting in the car, we were forced out and told to use a XXXX  instead, as XXXX was allegedly illegal at the airport. The XXXX XXXX representative assured us it would cost {$100.00}, and attempted to use my credit card. After attempts, they claimed the card wasn't working, so we paid the driver in cash. \nShortly after getting into the taxi, I noticed that my credit card had been charged XXXX times, {$350.00} each totalling {$1400.00}, under the name \" XXXX XXXX XXXX XXXX XXXX XXXX '' between approximately XXXX and XXXX PM. I later realized that \" XXXX XXXX '' refers to food and beverages in Spanish. Concerned for my safety and that of my family, I immediately contacted Citibank around XXXX XXXX  ( the ride took about an hour from the airport ) as soon as we got to hotel. However, they refused to investigate it as fraud because I had given my card to the taxi company. They insisted all XXXX transactions had been approved even tho I reported it urgently as they appeared. \nAfter multiple calls to Citibank, they eventually informed me that the charges were from a restaurant called \" XXXX XXXX '' in XXXX, which was far from our hotel. At the time of the transactions, I was either at the airport or in the taxi, nowhere near this restaurant, and I couldnt have ordered food or drinks. Moreover, our hotel was all-inclusive, and we never dined elsewhere or had any dealings with this establishment. \nDespite acknowledging potential fraud and scam, Citibank continues to refuse a proper investigation, treating the matter as a standard dispute rather than fraud and scam, effectively siding with the scammer and putting consumers at a disadvantage. \nThey also refused to investigate as XXXX case even tho XXXX chrages occurs within minutes with the same merchadise and the same amount. I have to add I never had any business with this merchandise and I never gave them my credit card information. I used my credit card only to take a cab from airport to hotel. \nDispute IDs associate with this scam and fraud activities as follows : XXXX XXXX XXXX XXXX Attached a copy of cancelation notice from XXXX that showed how they forced the drive to cancel ( There was no charge if driver cancel ) and it locate us at airport at the time of transactions not a resturant."
+}

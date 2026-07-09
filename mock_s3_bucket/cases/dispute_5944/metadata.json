@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5944",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60073"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recently returned from my trip to XXXX and have had several transactions which were fraudulent and not authorized. \n\nI contacted the customer service in the morning and due to the horrendous level of customer service I wasn't able to either dispute the transactions or even complete the fraudulent claim on the account. I was actually hang up by the agent although I was not abusive or disrespectful. The call needs to be listened to as this on how the calls should NOT be handled by any means regarding courtesy or professionalism : Here are the issues that Barclays seems unable to address as far as dispute/ fraud is concerned : Fraud : Finpay {$11.00} XX/XX/XXXX XX/XX/XXXX, {$16.00} XXXX XXXX and XXXX XX/XX/XXXX, {$35.00} XXXX XXXX I did not stay at this hotel and the booking was made at the completely different place. I reached out to Booking.com and on their end they also can not cross reference this charge. \n\nDispute ; XXXX XXXX XXXX  XX/XX/XXXX, {$9.00} The cancellation for the stay was made around XXXX on XX/XX/XXXX, unfortunately booking.com failed to process the cancellation. I am allowed to make a cancellation before midnight on XX/XX/XXXX. \n\n\nI am sorry but there is something completely dysfunctional at Barclays as they can not seem to be able to process such simple task as this. It is truly reprehensible that the QC procedures regarding the customer service and internal calls just simply do not exist."
+}

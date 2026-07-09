@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7012",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "221XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17703,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "It is a complaint about XXXX XXXX XXXX bank credit card. In the first part of XXXX I went to the HD store and purchased washer and dryer. I didnt feel comfortable about the washer sales person advised me to buy and about couple weeks later, on XX/XX/XXXX, I canceled the order, which wasnt delivered yet, and purchased another washer and dryer set online with XXXX  months payment promotion. In the meantime I received the bill for the first order with the due date of beginning of XXXX, the purchase which I never even had in my possession. Since first order was canceled and the second one was made on new billing period, I thought I just wait for a new bill to start paying, but a few days later I received automated phone call from HD credit card about late payment. I kept getting the phone calls, but wasnt sure if it was a scam or a fluke. Finally new billing cycle bill came due on XX/XX/XXXX, and to my surprise I saw late payment fee from the first order, which was cancelled on XX/XX/XXXX. Again, order was cancelled before it was delivered, NOT returned. I called credit card customer service and went over the issue. The young lady said that she will take off {$29.00} late payment, which she did, but late payment phone calls kept coming for the order that was cancelled. I called credit card again and spoke with XXXX, customer service rep. He could care less. He did say that he will stop the phone calls, but he said that it didnt matter if the first order was canceled and new one was made on new billing period, my payment was still late, even though new billing cycle due date is XX/XX/XXXX. Why am I getting penalized and harassed for the cancelled order which was never in my possession? I am encountering this kind of predatory practice from credit card company for the first time in my life. This is not right!!!"
+}

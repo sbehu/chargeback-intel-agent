@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1568",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33570"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38780,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have purchase protection on my card, I had a couple stuffs I lost include one thing i purchased with my card, I made a claim with them about my item, they in up close my claim."
+}

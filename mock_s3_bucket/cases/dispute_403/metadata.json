@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_403",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "75214"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a pending charge on my Citi/AAdvantage XXXX XXXX XXXX XXXX XXXX XX/XX/23 for {$2000.00} as I did not make or authorize the charge. I formally disputed the charge on XX/XX/23 and provided all relevant information. The agent informed me that the charge had been made over the phone and not swiped. \n\nOn XX/XX/23, I was advised via the app that I would be responsible for the charge and no credit would be provided. \n\nThis is NOT acceptable and I expect Citi to provide evidence I made this charge along with providing an acceptable credit as soon as possible including all applicable finance fees."
+}

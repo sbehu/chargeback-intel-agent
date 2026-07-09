@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_535",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "223XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3938,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CC company : Citi Cards ( XXXX card ending in XXXX ) Dispute ID : XXXX Dispute Merchant : XXXX Dispute XXXX : {$240.00} ( charge made on XX/XX/XXXX ) ( duplicate charge from XX/XX/XXXX ) I initially called XXXX on XX/XX/XXXX to book a one-way ticket ( XXXX ) for travel on XX/XX/XXXX and wanted to apply a {$100.00} travel bank voucher toward the ticket. The full price ticket was {$340.00} - {$100.00} travel voucher = paid price {$240.00}. I provided my CC # to the XXXXe Customer Service Representative ( CSR ) to finalize the purchase. However, I did not receive any confirmation on XX/XX/XXXX that a ticket was issued. I called XXXX again on XX/XX/XXXX and spoke with a different CSR to make the same booking request, and the CSR applied the travel bank voucher and charged my CC in the amount of {$240.00}. \n\nSubsequently, three separate charges from XXXX appeared on my CC, one of which ( {$340.00} ) was credited by XXXX. I then contacted Citi to dispute the extra charge of {$240.00} which Citi has failed to do its due diligence to resolve with XXXX. Coincidentally, I also talked to XXXX about the dispute and XXXX claimed they did not see an extra charge of {$240.00} on their end, and instead pointed the finger at Citi. What is undisputed is I purchased a ticket for travel on XX/XX/XXXX ( record locator XXXX ) in the amount of {$240.00} and nothing else from XXXX for that date, and I was charged {$240.00} x XXXX = {$480.00}. XXXX XXXX or Citi wrongfully took {$240.00} from me. I kindly request a reimbursement of {$240.00} to my CC account. Furthermore, Citi and/or XXXX should be held accountable for their lackadaisical effort in resolving this dispute. This is why I am taking the time to submit a complaint to CFPB so that you can assist me in righting a wrong. I can provide additional information as needed. Thank you. \n\nXX/XX/XXXX statement XX/XX/XXXX XX/XX/XXXX XXXX XXXX XXXX XXXX  {$240.00} NAME : [ My First Last Name ] DEPART : XX/XX/XXXX XXXX TO XXXX : XXXX : CLASS : O : STOP : XXXX TO XXXX : XXXX : CLASS : O : STOP : XX/XX/XXXX XX/XX/XXXX XXXX XXXX XXXXXXXX XXXX {$340.00} NAME : [ My First Last Name ] DEPART : XX/XX/XXXX XXXX TO XXXX : XXXX : CLASS : O : STOP : XXXX TO XXXX : XXXX : CLASS : O : STOP : XX/XX/XXXX XX/XX/XXXX XXXX XXXX XXXXXXXX XXXX XXXX$240.00} NAME : [ My First Last Name ] DEPART : XX/XX/XXXX XXXX TO XXXX : XXXX : CLASS : O : STOP : XXXX TO XXXX : XXXX : CLASS : O : STOP : XX/XX/XXXX XX/XX/XXXX XXXX XXXXXXXX XXXX  - {$340.00} XX/XX/XXXX statement XX/XX/XXXX CITIBANK CONDITIONAL CREDIT FOR DISPUTE - {$240.00} XX/XX/XXXX XX/XX/XXXX REVERSE XXXX XXXX XXXX {$240.00} New balance {$870.00} XX/XX/XXXX ONLINE PAYMENT, THANK YOU - {$870.00} - {$870.00}"
+}

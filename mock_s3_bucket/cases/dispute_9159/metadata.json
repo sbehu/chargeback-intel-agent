@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9159",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7866"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49808,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Credit card dispute handled improperly ; Citi ignored evidence and accepted fraudulent merchant claim without verification. \n\nComplaint : I was scammed by an offshore XXXX seller based in XXXX who sold counterfeit XXXX XXXX coins far below spot price ( a known fraud pattern ). I returned the fake items using the XXXX-issued return label and have both the original label and the USPS receipt showing I tendered the package. \n\nThe seller disappeared, and XXXX suspended the seller for violations. XXXX confirmed the return was authorized and the seller stopped responding. XXXX also confirmed that the tracking number on the return label and the USPS receipt may be legitimate third-party XXXX XXXX logistics numbers that do not track publicly, which is normal.\n\nHowever, Citi closed my dispute and sided with the fraudulent merchant based on the sellers false statement that the buyer still has the merchandise. Citi did not contact me to request my evidence, did not ask me to rebut the sellers false claim, and did not verify the merchant. This violates XXXX rules requiring reasonable opportunity for the cardholder to provide documentation. \n\nAdditionally, once Citi opened the dispute, XXXX informed me they were required to stop the return process due to Citis involvement meaning Citi effectively froze the process and then blamed me for the return not finalizing. The seller was suspended, has vanished, and is clearly part of an offshore scam. \n\nCiti twice promised to reopen the dispute ( first in 2 days, then in 10 days ), but never did. The case is stuck in Citis system, and phone agents can not reach the back-office dispute team. \n\nI am requesting that Citi reopen the dispute under a new case ID and review the new evidence : counterfeit goods, XXXX return approval, proof of USPS acceptance, seller suspension, and XXXX confirmation of valid but non-public tracking. This is a clear case of merchant fraud and improper dispute handling by Citi."
+}

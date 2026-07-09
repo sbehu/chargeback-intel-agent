@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_856",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83709"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6550,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX  : {$170.00} fraud charge. \n\nI ordered protein powder from XXXX. They shipped it with zero packing material and it got damaged and contaminated. XXXX claimed the photos I sent them can not be viewed. AMEX bought this excuse and is \" rebilling '' me. I demand the full amount refunded."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11203",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92694"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41453,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "What happened : On XXXX XXXX, 2025, I was charged {$5100.00} on my Citi XXXX card ( ending in XXXX ) for a XXXX Decoy MX CF Core XXXX XXXX E-Bike purchased from XXXX XXXX XXXX in XXXX XXXX, CA. The merchant retained the product for assembly and promised delivery approximately one month later. The bike was never delivered. On XXXX XXXX, 2025, XXXX XXXX XXXX permanently ceased XXXX operations and closed all locations. \nI filed a dispute with Citi on XX/XX/XXXX2025 under \" Goods Not Received. '' I have submitted comprehensive documentation on multiple occasions, including : a purchase receipt, AT & T call logs showing unanswered contact attempts, news reports confirming merchant insolvency, and a written email to the merchant with no response. \nDespite this, Citi has : Violated FCBA resolution timelines. The Fair Credit Billing Act requires disputes to be resolved within two billing cycles, not to exceed 90 days. My dispute was filed XXXX XXXX, 2025. That deadline expired in early XXXX 2026. As of today, XX/XX/XXXX over 125 days later the dispute remains unresolved. \nRepeatedly and falsely claimed documents were not received. Citi representatives on at least three separate occasions ( XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX ) stated they had not received documentation, despite other Citi representatives and the Citi XXXX XXXX confirming receipt on XX/XX/XXXX and XX/XX/XXXX. \nDelayed contacting the merchant for 94 days after the dispute was filed, despite my having submitted evidence of the merchant 's closure at the outset. \nContinuously extended deadlines without resolution. The original portal resolution date was XXXX XXXX, 2026. This was extended to XX/XX/XXXX2026 for a merchant response. On XX/XX/XXXX, a Citi representative verbally extended this again to XX/XX/XXXX despite the merchant having been confirmed closed since XX/XX/XXXX and being incapable of responding. \n\nThis pattern of behavior lost documents, missed statutory deadlines, and repeated extensions involving a confirmed-insolvent merchant constitutes a failure to properly investigate and resolve a billing dispute under the Fair Credit Billing Act ( 15 U.S.C. 1666 ).\n\nWhat resolution I am seeking : I am requesting that Citi immediately issue a credit of {$5100.00} to my account. The merchant failed to deliver goods, permanently ceased operations, and can not fulfill the transaction. I have provided all documentation necessary to support this claim multiple times over the past four months."
+}

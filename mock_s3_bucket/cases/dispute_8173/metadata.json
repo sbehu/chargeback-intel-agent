@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8173",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1867"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1062,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, my phone was stolen in XXXX and the thieves accessed my Barclays account through the XXXX. I contacted Barclays immediately to freeze my account, as well as contacted all three of the credit bureaus to active a credit freeze. Barclays allowed the thieves to open up XXXX credit cards after my account was frozen. I have had numerous phone conversations and written letters to them regarding offsetting the fraudulent charges and closing these accounts. Their fraud reps have stated accounts have been closed yet they have not done such and are violating their mission statement by reporting me as delinquent to all XXXX credit bureaus while they investigate this claim. They state on their statement that they can not report me while under investigation yet they continue to do so. This adverse information is affecting my credit history. The thieves also changed my email address & phone number and Barclays will not update the information. Any assistance you can provide to help me resolve this situation would be greatly appreciated"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1939",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NV",
+    "complaint_zip": "89148"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19276,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The dispute is with charges on my Barclays credit card to pay a XXXX for repairs from funds provided by XXXX XXXX for repairs to my condo. \nUpon finding out the merchant/contractor was not legally licensed in the state of Nevada we XXXX out to both, him and credit card company to recover the funds. \n\nInitially, the credit card company provided us with a refund on those charges but later retracted it stating that the merchant provided a valid response to validate transaction. \n\nThe XXXX did no repairs as we dismissed him when we could not verify with the Nevada XXXX XXXX XXXX a current license under his or his business name. Without a valid license, any contracts made with unlicensed contractors are null and void by law according to XXXX. \n\nPaid XXXX a total of {$2500.00} XX/XX/year> XXXX credited provisional credit XX/XX/year> Charges reapplied to my account XX/XX/year> I reopened dispute via fax and XXXX mail attaching report from Nevada XXXX XXXX XXXX XX/XX/year> Barclays responded with merchant has not violated the terms of contract. XXXX letter XX/XX/year> Barclays states via letter they remain unable to pursue on my behalf. XX/XX/year> Please contact me should you need any other information. \n\nThank you, XXXX XXXX"
+}

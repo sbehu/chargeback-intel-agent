@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3682",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85719"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9711,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Appealing Citibank 's Decision I am writing to appeal Citibank 's decision to deny my dispute against XXXXXXXX XXXX XXXX ( \" XXXX '' ) regarding a misleading listing for an apartment in XXXX. Here are the key points : - I booked an apartment in good faith after the host assured me it was reasonably quiet, but failed to disclose the adjacent unit was under construction. \n\n- The construction noise was excessive due to thin walls, forcing me to leave the apartment XXXX hours daily to work remotely. \n\n- I tried a different unit in the same building but the construction noise was absollutely overbearing on a daily basis including weekends and nights. \n\n- Had the host been honest, I would have selected a different place to stay. The host 's omission was intentional to induce me to book the property- XXXX 's \" Host Friendly '' refund policies make it nearly impossible to get a refund from the merchant. \n\n- After the host made it clear that he would not provide a refund, I vacated the property and took a hotel for the rest of my stay. I provided details to Citibank. \n\n- I provided Citibank with specific evidence ( text exhibiits of my conversations with the host ) proving the host misled me, but they closed the dispute in XXXX 's favor. \n\n- Citibank claimed they had no further information from XXXX to justify their decision and could not compel the merchant to provide more details. \n\nI am appealing this decision because the evidence clearly shows the merchant misrepresented the property 's condition, violating XXXX 's own policies. Citibank should have used their leverage as a major credit card issuer to compel XXXX to provide a full refund in this case of egregious misrepresentation. \n\nI request Citibank re-open this dispute in the amount provide the full refund, and take appropriate action against XXXX to prevent similar incidents in the future. Please let me know if you need any additional information from me to support this appeal. I look forward to your reconsideration. \n\nSincerely, XXXX XXXX Transaction Details Transaction Date : XX/XX/2024 Dispute Date : XX/XX/2024 Transaction Amount : {$1600.00} Dispute Amount : {$920.00} Merchant/Description : XXXX XXXX XXXX XXXX Citibank Dispute ID : XXXX"
+}

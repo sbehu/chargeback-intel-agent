@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7151",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37876"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40369,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted three billing disputes to Citibank, including dispute XXXX, for items that were defective or misrepresented by the merchant ( XXXX ) XXXX In this specific case, the item was flawed and XXXX return process failed : due to the delicate nature of the item, XXXX wanted me to pay for packaging, despite XXXX instructions that they would handle packaging. I can provide photos of the defective item, and I can provide copies of my email communications with Citi upon request. \n\nCiti denied the dispute with irrelevant documentation ( such as delivery confirmation and screenshots of the item listing ) and never addressed the actual nature of my complaint. They have not issued\n\na temporary credit and continue to treat the charge as owed, in violation of the Fair Credit Billing Act. I have asked Citi to : - Reinvestigate the dispute based on the actual facts of the case - Provide a real explanation, including the merchants response to my specific complaint, not canned logs or irrelevant materials - Explain how their denial is supported by the FCBA and applicable law Citi has failed to do any o\nf this."
+}

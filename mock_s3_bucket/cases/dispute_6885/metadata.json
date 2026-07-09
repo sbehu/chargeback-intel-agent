@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6885",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77036"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38451,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got bill from Macys store credit card in XXXX for a charge of {$2800.00} for which I didnt authorize. I called the credit card company to let them know that I didnt purchase those charges and that someone got a hold of my credit card information and used it. I told them to open a fraudulent investigation. I repeatedly called them time after to discuss about the fraudulent charges. I also wrote them a letter to Billing Error Division to look into this and to correct the errors made. But I kept receiving billing statements from them, pressuring me to pay. I need help in dealing this this situation.please look into this. Thank you for your time."
+}

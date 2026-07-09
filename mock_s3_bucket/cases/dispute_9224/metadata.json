@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9224",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23320"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13530,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "- Purchased XXXX smart toilets and a XXXX appliance for {$940.00} on XX/XX/year> - Merchant failed to deliver the goods - Merchant admitted by text message that the goods could not be shipped - Merchant directed me to request a refund through Citi - I submitted a written dispute via fax per Citis instructions on XX/XX/XXXX including receipt of payment on XX/XX/XXXX and statement reflecting purchase on XX/XX/XXXX. \n- Citi acknowledged receipt twice by email - Citi failed to open an official FCBA dispute due solely to internal timing - No dispute ID was ever provided -Citi opened my dispute incorrectly as a fraud dispute even though I told them repeatedly by phone that I was NOT reporting fraud. I clearly stated this was a billing error involving merchandise that the merchant could not deliver. Citi misclassified the dispute, then refused to help because they said I was outside the 90-day window. This misclassification and refusal violate the Fair Credit Billing Act."
+}

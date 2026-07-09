@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8544",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18674,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> ordered merchandise on XXXX which was not received and on XX/XX/year> got refunded. On XX/XX/year> got charged again and as of XX/XX/year> never received my order. The charges are {$64.00} and {$27.00}. They were disputed and my credit card ( citi ) says on the app that it was already refunded. Somehow it is being omitted that there were XXXX charges and only XXXX refund. The merchant was contacted numerous times with not satisfactory result. When citi credit card was contacted I was informed that it is over XXXX months and they can't help me. It would be nice to get this resolved. I just did some research about this company and it now clearly looks like total scamm web site. Not sure how it is even allowed and surely citi must know that this place is shady. Please help if you can. I can provide any information needed. Thank you."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3271",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36399,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a service called XXXX XXXX for a monthly fee of {$49.00}. \nI turned auto renewal off. \n\nThe charge : on XX/XX/XXXX, the account was renewed at {$49.00}. The charge I am attempting to dispute is the XX/XX/XXXX charge. The charge went through XXXX XXXX 's payment processor XXXX XXXX XXXX. I attempted to contact both XXXX XXXX  and XXXX. XXXX XXXX  did not respond to communication attempts. XXXX  stated that it was XXXX XXXX 's problem and would not assist despite the charge being to XXXX XXXX XXXX. \n\nThe issue with Citi ( chief complaint ) I started a dispute with Citi around the unauthorized charge. At no point did Citi reach out for comment or accept any documentation about the unauthorized charge. After about 4 weeks, Citi closed the dispute. At no point did Citi ask for any supporting documentation. Citi did not provide a way to appeal the dispute. \n\nI attempted to contact customer support. Customer support said they would not be able to assist me and directed me to their \" fruad department '' at XXXX XXXX XXXX XXXX. However, when attempting to reach out to this number it rings and eventually I get a line disconnected message. \n\nCiti does not appear to be doing their diligence around helping me with an unauthorized charge and is not providing ways for me to be able to contact them for help."
+}

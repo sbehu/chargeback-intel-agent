@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5883",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "50322"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21484,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally lodge a complaint regarding an unauthorized and illegal charge on my account, which I did not approve. Despite reaching out to American Express ( Amex ) regarding this issue, the company has been completely unhelpful in addressing or resolving the dispute. \n\nI clearly communicated that this charge was unauthorized, and I even contacted the charge-disputing company directly. However, the representatives I spoke to seemed unable, or unwilling, to assist me in resolving the matter. After multiple frustrating exchanges, I was left with the impression that speaking to a supervisor or higher-level representative would be impossible. \n\nTo make matters worse, not only has the issue with the unauthorized charge not been resolved, but I was also charged additional late fees without any communication or updates about the status of my case. The lack of transparency and the continued billing for charges I did not authorize is unacceptable. The level of service provided has been so inadequate that it has seriously affected my willingness to continue pursuing this matter through normal channels. \n\nI am requesting a full explanation from the company regarding what happened with my case and the steps being taken to resolve this issue. I would like detailed information about the status of my dispute, the actions taken, and the steps Amex will take to rectify this situation. \n\nIf this issue is not resolved promptly, I will have no choice but to pursue further action, as this matter infringes upon my rights and I will not tolerate being charged for unauthorized transactions. I expect a timely and satisfactory response to this matter."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_899",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77840"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9132,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A duffle bag was purchased from the company XXXX for {$85.00} on XX/XX/XXXX, but was never sent. The company stated they would provide tracking information when the bag was shipped, they never did. The company ceased to response to all of my efforts to reach out to them. I attempted to contact them XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX with no response ever received. I filed a dispute with my credit card company, Citi Bank, on XXXX when it was clear that the merchant had no intent of providing the product I purchased. They contacted the merchant on XXXX and the merchant did not respond until XX/XX/XXXX. The dispute was resolved in the merchants favor on XX/XX/XXXX, leaving me to still pay for the unreceived product. Citi Bank never asked for any supporting documentation from me, showing that I never received the product and tried multiple times to reach out to the merchant."
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-71850172-US
+Shipment Date:   2026-02-19T00:00:00Z
+Delivery Date:   2026-03-06T00:00:00Z
+Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
+Destination:     613 CEDAR WAY, FL, 324XX
+============================================================

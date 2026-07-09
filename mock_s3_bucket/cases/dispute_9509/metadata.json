@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9509",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33145"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6251,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a back massager from XXXX online, order number XXXX. It was delivered on XX/XX/year>. The item was adveeretised as having a thirty day return window.\n\nI tested the masager and found that it did not help my issue. I spent many hours over 10 or so days on phone calls and chats with XXXX XXXX attempting to return it. XXXX failled to give me the information necessary to effect the return. \n\nI contacted Barclay via phone and started a purchase dispute. I received a letter denying my case on about XX/XX/year>. I called and was told the case had been closed because they called me on XX/XX/XXXX and XXXX and got no anwser. \n\nMy cell phone had no messages from Baraclays and no record of having received those calls.\n\nBottom line is my case was not investigated properly and\nBarckays failed to follow thourgh on their promise to have a supevisor discuss their determination with me."
+}

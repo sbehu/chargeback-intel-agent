@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12090",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "833XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40174,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Citibank did not properly handle my credit card dispute involving an XXXX prefabricated expandable home purchase from XXXX XXXX XXXX CA XXXX XXXX XXXX XXXX. \nMy claim is not that I never received anything. I did receive the structure, but it was materially defective, incomplete, and not as described. The product was represented as a new, fully functional, ready-to-assemble expandable prefabricated home with the expected components, including roof/terrace or patio features. The delivered product did not conform to what was advertised and sold. \nI originally disputed only XXXX XXXX charges of {$10000.00} each because I was trying to be reasonable and focus on the clearest defective portion. However, the defects affect the entire purchase, and the full related XXXXCiti transaction history appears to total approximately {$45000.00}. The related charges include the XXXX {$10000.00} charges, plus approximately {$11000.00}, {$11000.00}, {$1000.00}, and an additional XXXX charge shown as {$300.00}. \nThe defects include soft and flexing floors on both expandable sides, visible water damage, cracks and gaps, defective construction, missing or incomplete terrace/patio components, roof instructions and related information provided only after months of delay, inadequate aluminum/metal support beams, required reinforcement and flooring replacement, and substantial repair work before the unit could be safely or properly used. \nI repeatedly attempted to resolve this with the seller through XXXX messaging. Rather than providing a satisfactory repair, replacement, or refund, the seller blamed local installation and failed to take responsibility for the defective and incomplete product. I also attempted to pursue protection through XXXX buyer protection/dispute process, including XXXX XXXX , because the home was defective, incomplete, and not as described. I have not received a meaningful refund or resolution through XXXX or the seller. \nCitibank appears to have treated or denied the dispute as though the only question was whether merchandise was delivered. That is not my claim. This should be reviewed as defective merchandise/not as described and non-conforming goods, not as a non-receipt dispute. Receiving a defective, incomplete, non-conforming structure is not the same as receiving the product I paid for. \nI am requesting that Citibank reopen, expand, and properly review the dispute to include all related XXXX charges for this prefabricated home purchase, not only the two charges that were originally marked disputed. I am also asking CFPB to review whether Citi properly handled this chargeback/dispute, especially given that I attempted to resolve the issue through XXXX platform process and still did not receive a meaningful resolution. \nI can provide Citi statements and transaction screenshots, XXXX order records, XXXX XXXX dispute or refund screenshots, the original listing/quote/specifications, seller communications, photographs and videos of the defects, repair documentation or estimates, evidence of missing/incomplete components, and proof of my attempts to resolve the matter through both XXXX and Citi"
+}

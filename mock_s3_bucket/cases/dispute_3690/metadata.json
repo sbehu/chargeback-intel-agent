@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3690",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30017"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42136,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a letter stating there might be fraudulent charges on my Citi bank credit card account. I could not get into my account when I never had a problem before. I still can not. I called fraud and spoke to a woman The XXXX week of XXXX. She said she will cancel the card issue me another one in the mail and the fraud department will contact me. They have not. I got a new card in the mail the XXXX week of XX/XX/year> and in the time it was sent by the bank it was already hacked. I called again the XXXX week of XXXX and got the same woman with a different name. Another card was sent to me and the same thing happened. I call citi fraud department and got THE SAME WOMAN ... .. different name again. ( she had a very unique voice and accent. It was her ). She would not talk to me like a normal person. At this point I asked her to just close out my account all together but this was after a payment of {$490.00} was automatically applied to the fraudulent charges on my account. \n\nI got a letter in the mail stating I was accepted to apple pay, another for XXXX, and a third with a debit card I had supposedly opened, then a XXXX with a debit pin. None of these I applied for and these came after I \" closed the account ''! \n\nI answered the phone Sunday XX/XX/year> to hear the voice of that same woman again telling me I owe over {$200.00} on this account. The one that she supposedly closed. \n\nI gave permission for her to speak to my husband. After a short discourse she hung up on him."
+}

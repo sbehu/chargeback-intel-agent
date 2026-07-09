@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12385",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "41011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Citi XXXX XXXX credit card ( current account ending XXXX ) refuses to honor its own written XXXX Fraud Liability policy for my purchase of an allegedly certified refurbished XXXX XXXX. On XX/XX/2024, I paid {$770.00} via my Citi credit card to purchase a used XXXX XXXX from a third party vendor, XXXX XXXX XXXX in Texas. Vendor advertised the mattress was slightly used for XXXX weeks or less and returned to the manufacturer XXXX to be cleaned, inspected, refurbished and certified to be sold again at a discount. Approximately a year later, I contacted XXXX due to problems with the mattress. XXXX stated vendor defrauded me as it does not refurbish or resell used mattresses. XXXX instructed me to file a fraud claim with Citi card which I did. I also attempted to contact the vendor to request a refund and to return the mattress due to fraud. Citi 's dispute department employees said the amount of time since the initial purchase was not a factor in the dispute processing as it is common for customers to learn of fraud and deception months afterwards. Citi employees said the only matter is proving the fraud. Citi mailed me a fraud dispute form and requested documentation and a signed narrative which I returned via email. Subsequently, in a phone call, a Citi dispute employee confirmed Citi received everything it needed to process my fraud claim and it would be resolved in my favor. But, another Citi dispute employee later stated dispute was closed against me as too late. I never received a letter with the dispute outcome. I asked for a copy of Citi 's internal written policies that give fraud claim filing deadlines and/or any other written policy Citi based its final decision upon. Citi 's written XXXX XXXX XXXX written policy that it advertises on the internet and in marketing and advertising to customers does NOT state there is a time limit to file a fraud claim. Again, XXXX Citi dispute employees told me in recorded phone calls that I was not time-barred from filing this claim. Citi simply does not want to honor its own policy and cover this fraud transaction. To date, Citi has not responded to my request for its written policies and it still has not sent me a dispute outcome letter."
+}

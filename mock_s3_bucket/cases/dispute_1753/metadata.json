@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1753",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20854"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39442,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraudulent charge on my account from XX/XX/2023, I reach out every couple weeks as they look into the issue. While they tell me I'm not responsible for any fraudulent charges, they have been charging me interest and late fees, and now reporting to credit bureaus. I have a flawless credit history, and they are damaging it due to no fault of mine."
+}

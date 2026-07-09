@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12970",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21202"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19246,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contested a {$350.00} credit card charge from a local XXXX XXXX for XXXX my XXXX  from the XXXX XXXX of the residence where I had just signed a lease on XX/XX/XXXX. My XXXX  was XXXX  within an hour of my move-in date. I provided Citi with my lease date, pictures of the XXXX XXXX and posted signs, a detailed statement of what happened, and documentation of my conversations with the XXXX  company regarding why my XXXX  was XXXX  as a resident. After 30 days, Citi reversed the charge but also provided a statement from the XXXX  company claiming I was trespassing and that the XXXX  XXXX  requested the removal. Both of these statements are false. I have been living at the residence since XX/XX/XXXX under a signed lease that includes a $ XXXX  monthly XXXX fee. I believe that Citi did not conduct a thorough investigation into my case even after I provided evidence contradicting the XXXX  company 's false claims."
+}

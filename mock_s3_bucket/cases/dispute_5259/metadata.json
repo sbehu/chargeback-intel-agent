@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5259",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85382"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1319,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a text alert about a suspected fraud charge from Citi about my Best Buy Visa card, showing a purchase from XXXX XXXX XXXX XXXX in XXXXXXXX XXXX  on XX/XX/XXXX in the amount of {$230.00}. I immediately called Citi to report that as a fraud charge as I do not shop at XXXX 's, nor do I live in XXXX. I live in XXXXXXXX XXXX. There were also other Fraud charges I received email alerts about, though these were blocked and never posted thankfully. Screenshots attached. \n\nI was told that the charge would be credited, and received a letter in my documents on the online account confirming this. A week or so later, around XX/XX/XXXX, I check my account and see a Sales Adjustment crediting me the total amount charged, {$230.00}. I assumed the matter was resolved. \n\nOn XX/XX/XXXX, I saw the charge was reinstated, dated for XX/XX/XXXX for XXXX XXXX XXXX XXXX in PA, for the same amount, {$230.00}. I called Citi the following Monday and asked why the charge was reinstated, to which they said they sided with the merchant. They said the merchant had provided evidence that I had purchased a \" XXXX XXXX XXXX '' for the amount charged. I said that's literally impossible because I do not live in PA, I do not own any XXXX XXXX items, and I live in XXXX and thus do not have any use for a jacket. \n\nThe Citi rep and I went back and forth, I asked for the evidence they provided, he would not provide it. He said that I need to provide proof that I did not purchase the jacket. I am not sure how you prove that I did not purchase something, but I pointed to the fact that my card was used in the days before and after that single XXXX 's purchase at merchants local to my home address. He said I would need to fax a copy of my ID to the fraud department, which I did on XX/XX/XXXX. I have not heard back from them since and all attempts to get through their phone system are fruitless. \n\nI tried calling the merchant myself, but when I called the XXXX XXXX XXXX XXXX, I was told that the XXXX XXXX XXXX XXXX XXXXXXXX XXXX is the name that would appear if it were an online purchase. This is the first I am learning that the purchase was online, and not in person like I had originally thought. \n\nI am not sure where to go from here. Citi is unwilling to return my money or work with me on this, and I am met with dead-ends or impossible hoops to jump through. I have no earthly way to prove I did not purchase something. I would think the burden of proof would be on XXXXXXXX XXXX I do not shop there, I have no XXXX XXXX jackets. If they could maybe get the shipping address for the order, they would see it wasn't me who placed the order, as no such item was ever delivered to my house in XXXX. Wherever it was delivered, is likely the individual responsible."
+}

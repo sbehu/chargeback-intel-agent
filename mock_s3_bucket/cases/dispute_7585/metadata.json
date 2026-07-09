@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7585",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94086"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46784,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, during our XXXX trip planning time, I see a temporary charges on my account that I don't recognize. I called the credit card company immediately, my card was immediately canceled and a new replacement card was ship overnight to me. \n\nA month later on XX/XX/XXXX, credit card company sent a letter stated that \" determined the activity is valid '' without any details. The posted amount was shown differently ( on current account {$170.00} vs letter stated {$170.00}. I called on XX/XX/XXXX demanding an explanation and no info was provided besides the case request is submitted. I called on XX/XX/XXXX again and no status was update, but it is the first time I heard that the charges was an online order with my information. I requested vendor info and phone number but Barclays fraud department failed to locate and provide. \n\nI got a voicemail on XX/XX/XXXXXXXX XXXX  to call back, I called back within 10 mins, spend the next 50 mins on the call and no one in the fraud department can find any record of such call. The case was escalated to the manager and I was told I will get any answer within 24-48 hours. \n\nToday XX/XX/XXXX, received a letter on the credit card portal that the case \" We have completed a detailed review of your claim and, based on the information available, have concluded that the transaction ( XXXX ) you identified are not fraudulent. We have updated our records to reflect that the investigation into your fraud claim has been completed. '' again without any details of the investigation or record on what kind of charges or how the company determine the case. \n\nI have called multiple times and I have stated clearly I have proof on what activities I have planned and attended on our trip to show them I don't book with random companies, all expenses that I recognized and I pay them accordingly. Barclays investigation is black-box internal and do not take any support documents request that I have requested during the investigation. \n\nI am now left with the charges on my account that I am responsible for and in the letter it stated \" You remain responsible for the account and/or the previously disputed balance, along with any associated finance charges and fees, as stated in your Cardmember Agreement. If needed, we are sending updated information about your account to the Credit Reporting Agencies. If the disputed amount has not been paid, it will remain as a discrepancy on your credit report. '' I am left with no help."
+}

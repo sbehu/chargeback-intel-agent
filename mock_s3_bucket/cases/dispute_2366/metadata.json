@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2366",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33314"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44923,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Be advised this is not a refusal to pay, but a notice that your claim is disputed, and validation is requested. Under the Fair Debt collection Practices Act ( FDCPA ), I have the right to request validation of the debt. you say I owe you. I am requesting proof that I am indeed the party you are asking to pay this debt, and there is some contractual obligation that is binding on me to pay this debt. This is NOT a request for verification or proof of my mailing address, but a request for VALIDATION. made pursuant to 15 USC 1692g Sec. 809 ( b ) of the FDCPA. I respectfully request that your offices. provide me with competent evidence that I have any legal obligation to pay you. At this time, I will also inform you that if your offices have or continue to report invalidated information. to any of the three major credit bureaus ( XXXX, XXXX, XXXX XXXX ), this action might constitute. fraud under both federal and state laws. Due to this fact, if any negative mark is found or continues to report on any of my credit reports by your company or the company you represent, I will not hesitate in bringing legal action against you and your client for the following : Violation of the Fair Debt Collection Practices Act and Defamation of Character. My attorney and your legal staff will agree that non-compliance with this request could put your company in serious legal trouble with the FTC and other state or federal agencies. If your offices are able to provide the proper documentation as requested in the following declaration, I will require 30 days to investigate this information and during such time all collection activity must cease. and desist. Also, during this validation period, if any action is taken which could be considered. detrimental to any of my credit reports, I will consult with my firms managing attorney for suit. This includes any listing of any information to a credit-reporting repository that could be inaccurate or invalidated. If your offices fail to respond to this validation request within 30 days from the date of your"
+}

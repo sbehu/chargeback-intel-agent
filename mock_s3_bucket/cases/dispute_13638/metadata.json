@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13638",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "UT",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20964,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I was charged over {$3800.00} for a product. I am unable to get the exact amount since they are not letting me veiw my statements as the account is past due. It was a charge that was yearly recurring, and I went on XXXX  XXXX to cancel it and the company didn't have an option to cancel it. I looked everywhere. I was able to remove the card on file, and so I didn't believe it would be able to be charged. I even took a screenshot of it showing that there was no payment information for it to charge. Somehow they were able to charge it. I contacted the company and they only offered a credit on their end and said they would not refund. I contacted Best Buy XXXX XXXX and they told me they would research it. A few weeks later I had heard nothing and called. Was told some stuff was sent in the mail and to fill it out and send it in. I never received anything so called back a while later and they had closed my dispute. Was told I never responded to the email, and I said I was told to look for a phyisical letter in the mail. From there I was told I could only reopen the dispute by sending in a written letter which I did. Im not sure what the result of that was but from the collection calls I am no receving Im assuming nothing happned. This charge should have never happened for a couple of reasons. The site I was charged from showed I was able to remove the credit card and I had a screen shot showing that no card was on file. They later claimed it was impossible to remove, but I had the proof that it showed it was. When I talked to BestBuy ( citi visa ) they said the original charge was declined, but then later went through. Why did they allow it? It should have been declined since it put me way over the credit limit as well. Most companies after declining dont allow it unless they contact the customer to check for approval, and that never happned. Im not sure how the merchant got the info again after it was removed, and Im not sure how best buy allowed the charge after it was originally declined, and it put me well over my credit limit. Now I have a huge bill I can't afford, and then they cut my credit limit in half making it even more over the limit after the fact and now have it put into collections and is affecting my credit. They need to remove the charge since it never should have happned in the first place and remove all negative reportings on my credit file."
+}

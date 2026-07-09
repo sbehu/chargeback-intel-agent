@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_828",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "339XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43654,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Returned chair that never worked properly. Worked with Costco management to process refund. Disputed charge in late XXXX with credit card company. \n\nXXXX the conditional credit was reversed by the credit card company even though I provided dispute information as requested. XXXX, the dispute department supervisor stated I needed to obtain a refund from Costco not the credit card company. The Costco manager XXXX, was handling the refund and stated she spoke with XXXX the credit card company and that he would refund amount. XXXX to date has not contacted me and the credit card company took the {$10000.00} payment from my checking account even though I removed autopay 2 days prior. In addition, the credit card company charged me a {$30.00} late fee. \n\nXXXX the manager says Costco can not refund the amount and the credit card company says I need to obtain the refund from Costco. In the meantime, all of my bill auto payments are bouncing in my checking account due to insufficient funds."
+}

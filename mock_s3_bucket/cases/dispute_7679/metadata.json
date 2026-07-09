@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7679",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28211"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13326,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "in XX/XX/XXXX my previous AA Advantage account with Barclays was hacked and all personal information changed. It took a complaint to CFPB to finally resolve the issue satisfactorily in XXXX. Shortly thereafter I began to receive phone calls and Emails about an account, last XXXX - XXXX. I notified Barclays by XXXX mail on several occasions that I had and never had any knowledge of such an account in my name. I also requested that a response by XXXX mail but, to date, have not had a response. I feel that the continual Emails and phone calls are reaching the level of \" elder harassment and abuse ''."
+}

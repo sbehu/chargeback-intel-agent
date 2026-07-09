@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6703",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35230,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX and XX/XX/year> someone other than me used my credit card number to make purchases. My bank contacted me to verify if it was me purchasing these which I denied and disputed the purchases as I never left my house the credit card was in my possession. The credit card issuer is Citibank and the credit card name is Citi XXXX XXXX card. Now Citibank is not resolving the disputes and asking me to pay for all those fraudulent charges. I do not use this card on regular purchases as I had existing balance transfer items and I never wanted comingle the transactions. I did do XXXX balance transfer transactions on XX/XX/XXXX for {$1500.00} and {$1600.00} other than that no other charges. I did not even leave the house on those two days as my employer asked us to work from home on XX/XX/XXXX and XX/XX/XXXX due to upcoming XXXX XXXX weekend. Not sure what to do about this situation as Citibank is not helping me and now they are making me pay for these fraudulent charges. Only thing that did happen is that Citibank closing me old card and issue a new card. Because of that I cut the old card and discarded it so no one gets a hold of that card. The old credit card number ending is XXXX. New credit card is XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_731",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91406"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49498,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a Best Cuy Citi credit card to get a promotional interest-free purchase, which was paid off in full. Several months after that, I received a fraud alert for a transaction ( that was over {$10000.00} ) that occurred on my account that I did not authorize. After calling the company, they cancelled the transaction and the card and were to issue a new card. The new card had a fraudulent charge on it ( in another state ) prior to me even receiving the card. I called again and their customer service offered the same resolution of disputing the charge, cancelling the card, and issuing a new one. I received the new card, and a few weeks after that, the same issue happened again. There was another fraudulent charge on the account ( again in another state from me ), and again their customer service offered the same resolution. The fraudulent charges occur at least once a month ( sometimes more ), and they're not able to provide any resolution to prevent this other than constantly cancelling the card and issuing a new one. If I don't constantly monitor the account, this could result in huge charges that I am not authorizing."
+}

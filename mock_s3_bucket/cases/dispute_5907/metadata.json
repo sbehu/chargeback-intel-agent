@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5907",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10710"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13065,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am requesting that my case be opened. I had previously fought the charge mentioned above with no satisfactory result. \n\nAfter much investigation, I have found that other people have experienced the same situation while traveling abroad. Attached you will find the forums. \n\nTo reiterate my situation, on XX/XX/2024 I handed my Barclays card at a gas station in XXXX, XXXX. The gas attendant handed it back to me claiming the card was denied. I then proceeded to pay with cash and no proof of payment was given. After my trip, I came to find that my card was charged {$590.00} from a merchant I did not work with."
+}

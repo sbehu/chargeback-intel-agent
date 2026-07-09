@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3634",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23320"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45847,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have an XXXX XXXX XXXX ( AAdvantage Aviator Red Mastercard ) managed by Barclays bank. On XX/XX/2024, I noticed a charge from XXXX XXXX for {$1900.00}. I did NOT purchase anything from XXXX XXXX ( no flight, nothing ). So, assuming the charge was fraud, I disputed the charge, locked/replaced the card. I assumed that was the end of it. On XX/XX/2024, Barclays put the charge back on my credit card balance, they sent an e-letter to me stating they confirmed with XXXX the charge was legitimate, Barclays said this was for a flight though no information was or could be provided to me by Barclays substantiating this. So, I called XXXX XXXX to see if I could get a \" refund '' for a flight I neither purchased nor took. XXXX did tell me there was a flight from XXXX departing XX/XX/2024 under my name ( XXXX XXXX ) but no one actually got on that flight. Neither XXXX nor Barclays will refund or cancel the charge for a flight I never purchased. Again, Barclays manages this card for XXXX XXXX so someone at either company should be able to remediate but they are not. Right now, I have to pay this fraudulent or erroneous charge to protect my credit score. XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX  XXXX ( XXXX XXXX XXXX XXXX  ) with a family and can not afford to have money stolen from me by large wealthy mega-corporations."
+}

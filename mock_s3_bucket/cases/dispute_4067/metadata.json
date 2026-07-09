@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4067",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92126"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33075,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally lodge a complaint against Citi Bank for its inadequate response to my dispute regarding fraudulent charges amounting to over {$72000.00} from XXXX XXXX XXXX, a XXXX  scheme based in XXXX. Despite providing Citi Bank with comprehensive documentation, my case has not been resolved satisfactorily, and I am seeking your intervention. I submitted a XXXX page document detailing the fraud, which included transaction records, communication with XXXX XXXX XXXX, and evidence of their XXXX  scheme operations. \n\nUnder Federal Law, it is Citi Bank 's duty to fully investigate ALL of the charges and provide provisional credits while the matter is investigated. Citi Bank has FAILED to address ALL of the charges resulting from this XXXX  scheme defrauding me. As of the last week charges have been placed back on my credit cards placing considerable financial strain on me."
+}

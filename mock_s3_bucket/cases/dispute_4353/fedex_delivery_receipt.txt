@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-60320246-US
+Shipment Date:   2026-03-18T00:00:00Z
+Delivery Date:   2026-03-21T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     6639 RIVER LN, AR, 72113
+============================================================

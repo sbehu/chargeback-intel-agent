@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_745",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "65201"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17825,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American dispute reference # XXXX Merchandise : XXXX Dispute amount : {$930.00}, under order # XXXX Date 0 : XX/XX/XXXX, original purchase Date 1 : XX/XX/XXXX, get credit back almost instantly after submitting dispute Date 2 : XX/XX/XXXX, re-bill my account, resubmitted dispute XX/XX/XXXX, re-submitting dispute Date 3 : XX/XX/XXXX, credit back to my account Date 4 : XX/XX/XXXX, re-bill my account XX/XX/XXXX, re-submitting dispute Date 5 : Till now, requiring Amex today, saying still reviewing the dispute. \n\nReason of dispute : Order was mis-deliverd to parking lot, while I filled my correct address indicate an home delivry with XXXX XXXX XXXX. I'm unable to find it. It misses. \n\nDelivery proof : You can see the delivery proof picture is a parking lot, not my home. \nFedex # XXXX, https : XXXX? XXXX & XXXX The address I filled : XXXX XXXX, XXXXXXXX XXXX XXXX XXXX XXXX XXXX, XXXX, MO XXXX. \n( The address is valid, the order also from XXXX ( XXXX # XXXX ), XXXX XXXX, and XXXX XXXX, did successful delivery. ) The response of Amex 's re-bill : In response to your inquiry the merchant has provided the charge details including the explanation of the charge as the merchant states photo evidence is of the parking area in the front of the \" The Den '' which is a student housing complex and not of a roadside. \n\nMy complaint : how could American Express re-bill me, even they know ( and XXXX also admitted this area is not my home, it is a parking area ) The package was misdelivered to parking lot is not right, XXXX should be responsible for their package delivery arrangement. American Express should not re-bill me, and credit me back."
+}

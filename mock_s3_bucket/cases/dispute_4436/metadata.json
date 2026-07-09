@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4436",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90746"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21731,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute about a charge on my card for XXXX cents I was told that I would get a new card and that I did not have to pay the amount. I got my bill and the amount is showing along with another fraudulent charge of XXXX which I have no idea who this charge of XXXX dollars is from so I filed a dispute on XX/XX/year>. \nMy concern at this time is for the XXXX which I was told that someone called me and I refused to provide any information I never got a call and refused to give my name etc. I have the information if I had been asked I could and would have provided to them."
+}

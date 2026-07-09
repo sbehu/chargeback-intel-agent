@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11117",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11372"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15084,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding another billing dispute involving Citibank and XXXX for merchandise I did not receive, totaling {$820.00}. This dispute involves an order from XXXX XXXX The merchant claims the package was delivered ; however, the only evidence provided is a photograph showing the package left unattended in the lobby of my apartment building, which is a shared, unsecured public space. There was no signature confirmation, no hand delivery, and no proof that I personally received or took possession of the merchandise. I never received this order. Citibank initially issued a provisional credit while investigating. After XXXX submitted the lobby delivery photo, Citibank reversed the credit and held me responsible for the charge, treating delivery to a building lobby as equivalent to delivery to the cardholder. I dispute this conclusion. Delivery to a shared lobby without signature does not establish receipt by the consumer. The merchant selected an unsecured delivery method for high-value merchandise and assumed the risk of loss prior to receipt. I did not authorize delivery to a public lobby and did not receive the merchandise. Citibank advised me to contact the merchant directly. XXXX has refused to refund or replace the order, leaving me responsible for merchandise I never received. This appears to be a repeated failure to properly assess non-receipt disputes where no proof of receipt exists."
+}

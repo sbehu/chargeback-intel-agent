@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_87",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6514"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14504,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Received a billing statement from home depot for {$11000.00}. Charges were all within days of each other from around the state of ct. We have our cards in our possession and have only given home depot workers our numbers when ordering. In XXXX i called to alert them, they removed the charges and issue us new cards. Because we had charges that we have made we paid our bill. only to be sent a letter in XXXX to say we are responsible for the amount because we were paying on the bill. We were told to continue our portion of payment until the fraud has been resolved. They then reopened the case as i involved the police. However i have not heard any thing to get these charges removed."
+}

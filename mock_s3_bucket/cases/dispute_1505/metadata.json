@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1505",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92071"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26510,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My card has been fraudulently charged over {$14000.00}. American Express is refusing to reverse the fraudulent charges. Under Federal Law I am not responsible for fraudulent transactions on my credit card."
+}

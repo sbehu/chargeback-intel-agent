@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6308",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77019"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12653,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "please see attached communications, sadly as of now CITI Credit card not only responded to my request but also they have double charged this transection on my credit card."
+}

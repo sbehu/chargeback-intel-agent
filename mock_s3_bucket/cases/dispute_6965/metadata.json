@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6965",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32399,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased XXXX flights from XXXX XXXX to travel with my family between XXXX XXXX and XXXX ( XXXX ) for the total amount of {$4200.00}. Departure date was XX/XX/XXXX and return date XX/XX/XXXX. \nOn XX/XX/XXXX a charge from XXXX XXXX for the amount of {$4200.00} appeared on the same credit card used to purchase the initial flight. My credit card statement shows that the charge was made on XX/XX/XXXX, but posted on XX/XX/XXXX ( after the trip occurred ). The description and amount charged for both purchases are identical, and this to me confirms that it is a duplicate charge. \nOnce I received the credit card statement ( card issued by Citi Bank ) from XXXX, I noticed this duplicate charge and I disputed the transaction with Citi Bank. They requested documentation multiple times and tried to contact the merchant and concluded that the investigation was closed due to the merchant not responding to their requests. I proceeded to contact the merchant and submitted a complain to customer service. They replied that their investigation shows that they only charged my credit card once, and not twice as seen in the credit card statement. I proceeded to contact the credit card to reopen the investigation, and this cycle has been repeated multiple times where both parties close their investigation blaming each other. Over the last XXXX weeks of XXXX, both parties have once again contacted me to let me know that they are not responsible for the duplicate charges."
+}

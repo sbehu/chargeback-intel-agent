@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11122",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34471"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 842,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, a transaction for {$100.00} from XXXX XXXX posted to my Citi credit card. The transaction appeared on my XXXX statement for the period ending XX/XX/XXXX. After attempts to work with the vendor failed, I disputed the charge with Citi on XX/XX/XXXX through their website, because the product I received was not the grade represented at the time of sale. On XX/XX/XXXX, as instructed by Citi when the dispute was opened, I sent supporting documentation by fax and mailed a package with fullcolor copies, expected to be postmarked XX/XX/XXXX. \n\nOn XX/XX/XXXX, I received an email from Citi stating they had closed the dispute. The letter posted in the Disputes Center cited an incorrect reason, did not reference my actual complaint of misrepresented merchandise, and provided no indication that the documentation I submitted had been reviewed. \n\nOn XX/XX/XXXX, I faxed a letter of appeal to the dispute department requesting a supervisorlevel review under Regulation Z. Citi acknowledged receipt by email on XX/XX/XXXX, only by thanking me for providing additional information, without referencing my request for a supervisorlevel appeal. \n\nOn XX/XX/XXXX, I received XXXX emails from Citi stating that the dispute had been closed and resolved. The letter posted in the Disputes Center stated, Due to the length of time since this transaction was billed to you, we aren't able to investigate this dispute. This was despite the fact that Citi had already initiated an investigation, that written notices were submitted within the 60day timeframe under 12 CFR 1026.13 ( b ), and that my dispute concerns misrepresentation, which qualifies under 12 CFR 1026.12 ( c ). The letter did not reference my appeal, the reason for the dispute, or my documentation. It advised me to contact the merchant, even though my documentation showed that I had already exhausted all attempts to resolve the matter directly with the vendor. This indicates that the evidence I submitted was not reviewed. \n\nBoth denial letters instructed me to call the number on the back of your card if I needed further assistance. On XX/XX/XXXX, I called that number, told the IVR I wanted a representative, and waited on hold for approximately XXXX minutes with fluctuating estimated wait times. When a representative answered, I requested escalation above the dispute department and asked to reach the Executive Correspondence team or Executive Response Unit. The representative did not understand these terms, even after I explained that this was an escalation beyond the dispute department. \n\nThe representative attempted to transfer me, but the transfer routed me to the automated dispute department IVR instead of an escalation team. No fax number, email address, mailing address, or other method to submit an appeal was provided. Because the representative could not identify the correct department or provide any escalation channel, I was unable to submit a written request for escalation. \n\nCiti has twice closed my dispute without conducting a proper review, and I have no way to submit a further escalation because Citi has not provided any contact information or escalation channel. I am requesting assistance because Citi has not provided a reasonable method for me to exercise my rights under Regulation Z. \n\nThe dispute case ID is included in the attached appeal letter and should be sufficient for Citi to locate my account."
+}

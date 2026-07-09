@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13190",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "100XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17152,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CASE TYPE : URGENT APPEAL OF FRAUD DENIAL & ILLEGAL CREDIT REVERSAL. \n\nAMOUNT IN DISPUTE : {$49000.00} ( Original Claim ) + {$6600.00} ( Clawed-back Provisional Credit ). \n\nTHE INCIDENT : On XX/XX/XXXX, American Express denied my fraud claim stating \" our previous decision stands. '' On XX/XX/XXXX, Amex removed a previously issued provisional credit of {$6600.00}. This is an immediate appeal of that decision. \n\nTHE PROCEDURAL ERROR : The \" previous decision '' referenced by Amex was rendered without reviewing mandatory federal evidence that was inadvertently routed to a decommissioned fax line/portal during the initial submission. Therefore, the previous decision was based on an incomplete file and is legally invalid. The \" XXXX XXXX '' rationale relies on the premise that a \" XXXX XXXX '' equals \" Authorization. '' This is legally incorrect. Possession of my username/password allowed a hacker to access my saved profile, but access does not equal authorization. \n\nTHE PHYSICAL POSSESSION DEFENSE : I possess the physical credit card. For any transaction flagged as \" In-Person '' or \" Service Establishment, '' Amex is relying on \" Chip Security '' or \" Merchant Logs '' to prove my presence. However, I was physically in possession of the card at the time of these charges. Therefore, these transactions were executed via cloned hardware ( XXXX XXXX ), not by me. Amex can not use \" XXXX XXXX '' to override the fact that I hold the original card. \n\nTHE VIOLATION : Amex ignored mandatory federal evidence submitted on XX/XX/XXXX : FTC Identity Theft Report ( Ref # XXXX ) : Per 15 U.S.C. 1681e ( k ) ( 1 ), this carries the full legal weight of a police report. It is prima facie evidence of identity theft. \nXXXX XXXX XXXX XXXX : Documenting my XXXX ( XX/XX/XXXX ). \nBy denying this claim without reviewing this evidencespecifically the XXXX explanation for the timelineAmex is violating the Americans with XXXX XXXX ( XXXX ). \n\nTHE DEMAND : Immediately reinstate the provisional credit of {$6600.00} that was removed. \nRe-open the investigation for the full {$49000.00}. \nEscalate to the XXXX XXXX. The standard \" XXXX XXXX XXXX '' team failed to review the evidence and incorrectly applied \" XXXX XXXX '' logic to a shimming/XXXX case. \nI am unable to resolve this via phone as representatives ignored the XXXX documentation and failed to understand the physical possession doctrine."
+}

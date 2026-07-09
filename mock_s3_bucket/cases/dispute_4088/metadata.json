@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4088",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43081"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24235,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A purchase was made using my Sears Mastercard on XXXX at XXXX XXXX XXXX XXXX XXXX. I have never been to XXXX, nor did I authorize anyone to use my card there. Initially, I thought the charge was a purchase that I had made, but I later realized that it was a purchase made in XXXX at a facility that I have never heard of. \nI filed a dispute with Citibank, who has informed me that since they have no recourse to recover the funds that it is my responsibility to pay. I will be cancelling my account with Citibank and have no intention of ever doing business with them again."
+}

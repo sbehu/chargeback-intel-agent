@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3298",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60611"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41788,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Our Citibank credit card was fraudulently used by a third party ( or parties ) who is ( are ) completely unknown to us. We reported this to Citibank when we noticed this two months ago. Since then we have received repeated requests for more information from Citibank. We have responded to each and every one and been assured that there is nothing further needed until they ask again for information. We have no information to give, have nothing to do with these charges and have been a loyal customer paying our bills monthly for years. We have XXXX credit and are tired of being harassed by the company to whom we pay a {$500.00} annual fee to have the card. The Citibank fraud department has continually sent us from one person to another with no resolution. While they have credited the amounts concerned, they have indicated that if they don't get to final resolution they can still invoice us for these charges. Luckily, my wife has the patience and time to respond to their repeated requests for the same information but imagine someone who didn't and the XXXX they would go through."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3286",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "109XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43053,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/19, I called Citi to indicate fraud on my account in the amount of about $ XXXX for fraudulent XXXX charges from XX/XX/XXXX to XX/XX/XXXX. I was told that the fraud team will investigate within two billing cycles ; however, they will not credit my account. I have a payment coming due and its still showing that I owe money on fraudulent charges. I called four times to request credits to my account during the investigation, but call center staff ignores question. They just closed my card and reissued a new one. In addition, XXXX charges that were pending which I indicated were fraud were still allowed to go through even with my card being locked."
+}

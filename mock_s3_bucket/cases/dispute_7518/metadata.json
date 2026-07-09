@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7518",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55104"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29700,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased XXXX shirts online from XXXX on XX/XX/XXXX for {$110.00}, and they were delivered the following week. I tried them on, and found that they did not fit. On XX/XX/XXXX, I brought the items to their store for their merchant-provided hemming service. On XX/XX/XXXX I was notified that the items were ready for pickup, and on XX/XX/XXXX I retrieved them. I found that my requests were not honored, the service was performed incorrectly, and there was additional damage to the shirts due to poor workmanship. \n\nAttached are XXXX images : XXXX showing the shirt as ordered from the website, and XXXX of the shirts I received after the hemming service. The XXXX items were not only hemmed to XXXX different lengths, but my personal preference for a XXXX inch hem was disregarded ; both garments were hemmed at least triple that amount, as shown in the photos. Additionally, there is cinching along the hem and uneven horizontal hem placement indicating poor craftsmanship. Both items do not fit me, are not in wearable condition after never having been worn before, and have no value to me. This is solely the responsibility of the merchant. Damage to the items was done entirely by the merchant and I did not request that damage as my \" personal preference. '' I contacted XXXX 's customer service line, and was referred to multiple people before being told that I was ineligible for a refund because the items had been altered in accordance with my personal preference. I explained that the alterations damaged the items, they were not in wearable condition, and had no value to me despite never being worn. I was again denied. XXXX 's hemming policy ( attached ) does not indicate that the customer is financially liable for damage to garments caused by their own merchant-provided hemming service. \n\nI then filed a dispute with Citi Bank on my credit card statement on XX/XX/XXXX. On XX/XX/XXXX, I received notice that the dispute had been denied ; XXXX provided only their standard returns policy. This was not an issue related to a standard return as explained in my initial case to Citi Bank. The issue is related to failure to provide service that resulted in my personal financial losses. \n\nXXXX 's provided return policy states that items altered for \" personal preference '' are not eligible for return. Once again, changes to the items were not made in alignment with my personal preference ; the quality of the service XXXX provided was unacceptable and permanently damaged the items I purchased from them. This constitutes a failure to provide service after receiving my payment. Their provided documentation during my dispute process was not relevant or applicable to this case. \n\nI'm filing this complaint not out of frustration with Citi Bank, but because I believe the chargeback decision was made using incomplete, misrepresentative, and irrelevant documentation from XXXX. I have provided Citi Bank with additional evidence showing that this was a service quality failure, not a standard return, and that the merchant 's evidence did not address the core issue."
+}

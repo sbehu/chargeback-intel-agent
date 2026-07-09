@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6322",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85225"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8637,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got charge on XXXX XXXX yearly plan even I if did not use that services or product, also without out my Approval or Authorization on XX/XX/XXXX. I just received a bill in XX/XX/XXXX of XXXX. I went to their store and dispute it they give me a credit of XXXX of pro rated refund. But now they send me a bill that I owe them XXXXXXXX XXXX In which I thought I settled this already at their store. It is frustrating because I never used this XXXX product that they are charging me .My credit history and credit score is excellent. I will never ruin my credit for just XXXX XXXX I have taken care of my credit reputation for the last 60 years. The cashier at the sore told me I was charge because I was a member since XXXX even if I did not used it."
+}

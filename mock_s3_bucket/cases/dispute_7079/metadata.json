@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7079",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40323,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "From XXXX XXXX and utilizing my American Express Blue Cash card, on XX/XX/XXXX, I purchased XXXX XXXX XXXX XXXX shirts for {$1000.00}, one in size L and one in size XL, and returned the shirt that did not fit me. XXXX XXXX then fraudulently denied my return, claiming it was dirty and damaged. I disputed this fraudulent charge with American Express. As evidence, I provided multiple high resolution color photographs showing that XXXX XXXX 's claims were completely false. The polo shirt is completely new, clean, undamaged and with all tags attached. \n\nHowever, over 2 months, American Express continued to claim that they could not ascertain the truth, even after I called them multiple times and sent multiple high resolution color photos demonstrating that the polo shirt is completely new, in perfect condition and had all the original tags. I have been a card holder since XXXX and am shocked by American Express condoning merchant fraud in the face of overwhelming evidence."
+}

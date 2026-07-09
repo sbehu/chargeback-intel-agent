@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5904",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "374XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3196,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a payment of {$1300.00} for closing date XX/XX/XXXX out of my XXXX account. They failed to provide a copy of my payment and a statement which would have reflected my transaction and XXXX balance, but yet my payment does not exist on my legal statement which is missing. I was told about a week ago that i had my online account. I have never had an online account! I never opened my accounts online and do not do any form of online banking whatsoever. \n\nXXXX from XXXX  has online accounts to my knowledge from previous discussions. My Experian report XXXX for XX/XX/XXXX is missing all my payments and they only go back to XX/XX/XXXX. They also dont have any of my payments. XXXX XXXX  also failed to provide my XXXX last XXXX and refused to provide the XXXX statement, which had my payment and would have shown my payment and a XXXX balance. \n\nAdditionally, American Express was given the police reports for XXXX in the spring of XXXX filed on XX/XX/XXXX for a mix up of persons with XXXX patients within my medical records. Police report number XXXX. This is in addition to the police report filed by XXXX XXXX XXXX XX/XX/XXXX police report number XXXX for ID theft. XXXX XXXX is the only company that has refused to escalate this to their corporate escalation team and refused to provide an email to communicate with me to send the proof, and I have been requesting it since XXXX. I have asked for their corporate escalation to follow up with me. I have sent them many things all year by fax and XXXX Mail. I dont want this email listed on the account, but will communicate with them so that the back office is aware that it is me filing the complaints and easier to get them what they need. \n\nAdditionally, there is a {$14.00} interest charge dated from XXXX that is also not mine. I disputed that with XXXX in XXXX XXXX who stated that she escalated this as well on XX/XX/XXXX. I feel really frustrated that i have been dealing with American Express since XX/XX/XXXX with no solid resolution."
+}

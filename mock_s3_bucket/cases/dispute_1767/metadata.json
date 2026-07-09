@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1767",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83616"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22301,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Under the Terms & Conditions of my Barclays ' credit card, Barclays neglected to dispute the charges for a Merchants Services Not Rendered. The Merchant 's name is XXXX XXXX XXXX. \n\nBarclays instead improperly coded my dispute as Fraud/Unauthorized Charge. However, it was a \" Services Not Rendered '' dispute ; Merchant charged my card, but did not provide service. \n\nI immediately instructed Barclays to fix their internal error and re-dispute using the correct code with merchant. At first, Barclay 's wrote me a letter dated XX/XX/XXXX that my dispute was re-opened, but instead Barclay 's closed the dispute after 3 days and advised me to pursue directly with the merchant - denying me my dispute rights for services not rendered. See attached communication from Barclays. \n\nFurthermore during this same time while I was disputing this charge, Barclays severely damaged my credit. While I was demanding Barclay 's fix their dispute error code, Barclays supplied inaccurate, incorrect, harmful, damaging and wrongful information to all three credit bureaus ( XXXX, XXXX and XXXX ). \n\nMore evidence of Barclays ' breeches of their own Terms & Conditions are that I prevailed on the other Barclay 's credit card. See, on XXXX XXXX, XXXX, the merchant split the charge onto three different credit cards ; The merchant split-charged 1 transaction onto 3 credit cards on XXXX XXXX, XXXX totaling {$12000.00} for a service which the merchant did not tender ; Merchant did not fulfill the contract I hired them for. Service Was Never Rendered. \n\nI disputed this full amount on all 3 credit cards : 2 Barclays Visa cards and XXXX XXXX XXXX XXXX {$3500.00} Barclays + {$1300.00} Barclays + {$7300.00} XXXX XXXX XXXX = {$12000.00} I prevailed on the Barclays Visa ending in XXXX for {$1300.00}. I prevailed on the XXXX XXXX XXXX for {$7300.00}. However, the Barclays Priceline card ( ending in XXXX ) dispute was mishandled due to Barclay 's mis-categorization error and was wrongly re-billed to me. \n\nThen Barclay 's committed FRAUD by entering this wrongful and damaging information on all of my three credit reports. This is Fraud. \n\nThe following are verbatim notes I transcribed from a Barclay 's Care Team representative : On XX/XX/XXXX Barclays moved the {$3500.00} transaction dispute from Unauthorized Charge to Disputes Department. \n\nOn XX/XX/XXXX my dispute was reopened. \n\nOn XX/XX/XXXX, my dispute was reassigned to the regular Disputes Department. \n\nOn XX/XX/XXXX Barclays started working on my dispute. \n\nOn XX/XX/XXXX I received a letter stating : Thank You for notifying us of your billing dispute of {$3500.00} transaction from XXXX that was billed to your account on XX/XX/XXXX and will do our best to represent your interests in this case. We referred your transaction to a dispute specialist. Our specialists will begin an investigation which could take 45 days depending on the complexity of the investigation. \n\nOn XX/XX/XXXX ( 3 days later ) I received another letter stating that they were closing my dispute, to pursue directly with the merchant and that I was still re-billed, meaning Barclays re-billed my credit card. Clearly 3 days is not enough time to dispute this transaction, while my 90 day rights were still asserted. \n\nEither someone at Barclays dropped the ball, was lazy or they did not know what they were doing. Either way, it is negligent and breeches of fiduciary duty and breeches of their own Terms & Conditions to me. As well, Barclays committed Fraud by wrongly reporting this Error to all Credit Bureaus damaging me."
+}

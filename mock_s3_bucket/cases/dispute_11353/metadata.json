@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11353",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15000,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding a transaction in the amount of {$580.00} charged by XXXX on XX/XX/year>. I returned the items in person on XX/XX/year> to the merchants store located at XXXX XXXX XXXX, XXXX XXXX XXXX  within the merchants stated return policy. The merchant accepted the return and issued a confirmation email stating Your return is confirmed, which includes refund details indicating that {$510.00} would be refunded to my American Express card ending in XXXX. Documentation of the return confirmation and return receipt has been provided to American Express. \n\nI have reviewed the merchants response during the dispute process, and it incorrectly references a return by mail. This statement is inconsistent with the documentation submitted. The return was not completed by mail ; it was completed in store, as shown on the merchants own return confirmation email and return documentation identifying the store location at XXXX XXXXXXXX XXXX XXXX XXXXXXXX, XXXX XXXX and the return date of XX/XX/year>. The documentation clearly establishes that the merchant accepted the returned merchandise at the store location and confirmed that a refund would be issued to my American Express card. \n\nBecause the merchant accepted the returned merchandise and confirmed that a refund of {$510.00} would be issued to my American Express account, the merchant can not retain both the returned items and the payment. Despite the merchants written confirmation that the refund would be issued to my card, no such credit has appeared on my account. I therefore respectfully request that American Express conduct a reasonable investigation and issue a permanent credit of {$510.00} if the corresponding refund transaction can not be located. Because the documentation establishes that the merchandise was returned and accepted by the merchant yet the corresponding refund has not been credited, this constitutes a billing error under the Fair Credit Billing Act and requires a reasonable investigation and correction by American Express."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13168",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3062"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30643,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I originally agreed to purchase XXXX cell phone charger vending machines on XX/XX/XXXX. I was promised the company would find XXXX locations and actually sell me the machines. I actually attended the first planning meeting where they promised everything is coming along good, and then the merchant no showed to the second meeting. \nI attempted to reach out to the merchant using various means and they were unresponsive, other than for their response to me scheduling another new customer meeting through their website in an effort to get an update. They responded this is only for new customers and cancelled the meeting on XX/XX/XXXX. I then tried to ask for an additional update on XX/XX/XXXX as nothing was happening and there was no communication on XXXX. \n\nThe website XXXX has operated within has since shut down ( XXXX XXXX XXXX ) and XX/XX/XXXX new customer text represented the last communication. I additionally tried to contact the company through social media messaging, email, texting the company, and calling the phone number of the rep. \n\nAdditionally, I provided XXXX account credentials to the merchant to allow for deposits to come in from revenue derived from the machine, but nothing was also deposited from it, neither I got notification that the machines were ever XXXX. I would have hoped that even in the event of a badly executed XXXX, something would come in, but nothing really did which is a sure sign this was actually fraud. \n\nIn addition, the contract has a clause that I am entitled for a refund of the difference of purchase price paid and revenue received, yet it is nearly 6 months since the contract has been signed. \n\nOn XX/XX/XXXX, Citibank ruled that I am responsible for this charge, despite this is clearly fraud and there have been a number of documented cases about XXXX scamming people through online reviews."
+}

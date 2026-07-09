@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_113",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61761"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32185,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In Mid XXXX I completed XXXX balance transfer requests utilizing Citi Bank XXXX transfer system on their App. Again I made XXXX separate transfers XXXX was for {$490.00} to pay my chase freedom credit card ending in # XXXX. This transaction went fine and posted on XX/XX/XXXX -The second balance transfer was for {$490.00} as well to my chase freedom unlimited card ending in # XXXX. This transaction went through on Citi side and posted on XX/XX/XXXX as well, however it was never credited to my chase freedom unlimited card I have made at least XXXX phone calls to both chase and Citi trying to get this resolved to no avail I believe this to be an error with citi banks balance transfer app. I took a picture with my phone and it automatically reads the card and inputs it. \n\nOn XXXX of my many phone calls to citi they stated that the payment was sent to an account ending in XXXX ... .my card ends in XXXX I was promised repeatedly that it had already been fixed and that I would see a credit and to wait for it to hit my account... ..it has not. \n\nI have even receive a physical letter from citi stating in has been fixed ( which I have included in my documents ) it has not been fixed to date Why is this so complicated... this has to happen all the time. \nI have spent hours on the phone with no results"
+}

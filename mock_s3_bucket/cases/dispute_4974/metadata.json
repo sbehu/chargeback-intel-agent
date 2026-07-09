@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4974",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "PA",
+    "complaint_zip": "19038"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43593,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> {$94.00}. Disp # XXXX XX/XX/year> {$73.00} Disp # XXXX Both dispute were under same XXXX ( vendor ) order they split it into 2 shipments. The items were sent to the wrong address in a different state. I chatted with an XXXX agent on the same day the order was placed XXXX told them to cancel the order since it was being sent to the wrong address. They used my old billing address instead of the new shipping address. I was told they would talk to their shipping dept to cancel. The next day, I saw 1 of the 2 packages was being sent to the wrong address. I again chatted was to call the shipping company. \nI chatted with the shipping agent was told it wasnt in the system to call 24-48 hrs later. Less than 24hrs I chat with another shipping agent that says he cant cancel the shipment Went back to XXXX XXXX they again gave me the runaround. Try disputing with Citibank XXXX they denied me the chargeback although I sent them proof of my conversations attempting to cancel the shipments. I even highlighted it for them. I sent XXXX a form through a link their agent sent me letting them know I never got the shipment. Less than 3 minutes of me sending the email they denied me the claim. I tried on at least 3 different days to get this resolved XXXX basically XXXX XXXX the shipping company refused to cancel the order or at the least changed the delivery to the correct address. \nThank you for any help in this matter."
+}

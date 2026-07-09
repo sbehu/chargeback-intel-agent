@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5744",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20743"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29643,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I contacted XXXX XXXX XXXX about a credit that had not been posted on my account that the merchant stated that it had. On XX/XX/XXXX, I received a Voicemail message Stating \" Hello this message is for XXXX XXXX this is XXXX with XXXX XXXX XXXX XXXX calling about your dispute unfortunately this dispute was open up as a payment dispute and it's not payment so then it took a while to get it to the dispute and there's no charge on your account for {$5000.00} on either one of your account I had a supervisor look and we can't find anything and also the documentation that you sent and says {$10000.00} in the charge it says it's from XXXX of last year if the charge is from XXXX of last year unfortunately there won't be anything we can do about it because we have to fall XXXX XXXX is in policies and procedures and we would be out of time but what you have to do is you're gon na have to find out I looked on both of your accounts I looked on your statements there's nothing there for that merchant there's nothing there for the {$5000.00} there's nothing there for XXXX we can't put anything on your account if the charge was not put on your account so you're gon na have to find the charge and then you're gon na have to reopen the case and send the documentation that and that you have but first of all you always need to contact the merchant first and you tell us why you're disputing it and the documentation that supports it but unfortunately we can't do anything because we can not find the charge on the account so therefore I'm denying the case thank you for shopping XXXX XXXX and have a good day bye On XX/XX/XXXX, I sent two attachments Named and attached : XXXXXXXX XXXX  and XXXX XXXX XXXX and XXXX XXXX and XXXX 's statements. On XX/XX/XXXX, I received a call from XXXX, who was rude and short, stating that the merchant would need to resubmit the refund and that there was nothing they could do. I tried to explain That I had already done that but she was not allowing me to talk. XXXX also stated that the credit would not go back because the card was reported lost/stolen, which I know to be untrue. The refund process for XXXX is If a refund is issued to your old XXXX XXXX ( XXXX ) card that is no longer valid ( because it was lost and replaced ), XXXX will typically redirect the refund to your new card automatically. Heres what happens : XXXX XXXX the Accounts Your old and new card are connected under the same account, so any refunds sent to the old card should transfer to your new card automatically. XXXX XXXX to XXXX XXXX In most cases, XXXX will apply the refund to your new card account, even though the old card is no longer active. Potential Delays Refunds might take a little longer to process, as XXXX has to match the transaction and ensure its properly credited. If XXXX Doesn't Show Up If you dont see the refund in your new cards account within XXXX business days, contact XXXX customer service. They can track the refund and manually apply it if needed."
+}

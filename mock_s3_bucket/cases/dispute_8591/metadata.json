@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8591",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "483XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36240,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting multiple unauthorized transactions on my Citi credit card ending in XXXX. \n\nThe fraudulent charges were made at one XXXX XXXX restaurants and numerous Ralphs grocery stores throughout California including XXXX XXXX ( XXXX XXXX XXXX XXXX XXXX and XXXX XXXX XXXX XXXX XXXX ), XXXX XXXX ( XXXX XXXX XXXX XXXX ), XXXX XXXX, XXXX, XXXX XXXX, XXXX XXXX, and XXXX and more. I live in Michigan and could not have been physically present at any of those locations. \n\nEach of these transactions was for exactly {$95.00}, a highly unusual and repetitive amount that clearly indicates a pattern of fraud rather than legitimate purchases. No normal shopping activity would result in identical charges across multiple distant stores in such a short timeframe. \n\nThe transactions were processed through XXXX XXXX, and Citi has claimed that because XXXX XXXX was used, the purchases were considered card-present. However, I did not authorize or perform these XXXX XXXX transactions, nor did I add my card to any additional devices. Even more troubling, several of these XXXX XXXX transactions occurred after I had already reported my card as compromised and while Citi confirmed that my account was locked. This indicates either a serious flaw in how Citi disables XXXX XXXX tokens or a failure by the merchants terminals to validate token status. \n\nAt the same time these California XXXX XXXX charges were being made, I was conducting legitimate card-present transactions in Michigan, XXXX by receipts, location data, and my physical presence. It is physically impossible for me to have been in XXXX states simultaneously, making XXXX determination that the XXXX XXXX charges were valid completely illogical. \n\nXXXX investigation ruled in favor of the merchant without providing any of the evidence required under the Fair Credit Billing Act ( FCBA ) or card-network rules. They have not provided merchant terminal logs, XXXX or contactless entry-mode data, terminal IDs, XXXX XXXX device identifiers, or any receipts showing I was physically present. Their only explanation was that the merchant confirmed the charge, which is insufficient under XXXX standards. \n\nI request that the CFPB require Citi to : Reopen the dispute and perform a proper investigation ; Provide me with the full XXXX evidence, including terminal IDs, EMV/entry-mode data , Apple Pay token/device identifiers, and authorization logs ; and Issue provisional credit while the reinvestigation is completed. \n\nThe evidence clearly shows these charges were fraudulent and impossible given my verified location and legitimate activity in Michigan. Citis failure to recognize this and its refusal to provide proof of authorization demonstrate a serious breakdown in its fraud-handling and XXXX XXXX token deactivation procedures."
+}

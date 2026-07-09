@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4782",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "19802"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43728,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "-XXXX XXXX XXXX I made a purchase from Best Buy ( # XXXX - XXXX XXXX XXXX XXXX XXXX DE XXXX ). \n\n- I purchase XXXX XXXX XXXX for {$240.00} & opened a Best Buy store credit card. I wanted 12mo no-interest promotion, I had to spend {$290.00} so I purchased a cover for the XXXXXXXX XXXX XXXX XXXX set totaling {$330.00}. I have blocks on all 3 credit reporting agencies & spent 10min on the store phone verifying it was me opening the card & proceeded w/ purchase XXXX - XXXX weeks later, I received my physical credit card in mail, & it NEVER once left my home... I live alone, no one else has access to my cards nor do I associate with anyone that would do this. \n\n- Approx. XX/XX/XXXX, I received a letter from Citibank Secutiry Services asking me to verify recent activity ( ref # XXXX ). I created my Best Buy account online & indeed there were XXXX unauthorized separate transactions that occurred from the Best Buy ( {$680.00}, {$93000.00}, {$490.00} & {$940.00} = {$3000.00} ). I called immediately & filed a claim. \n\n- Dispute person would not provide any other details, they told me it was a purchase online, and weren't allowed to tell me what was purchased or where it was sent. However, in my online account I can see they purchased a computer and a bunch of software from the XXXX, DE location. Do they not have cameras???? \n\n- Fraud Dept closed my account ending in XXXX & reissued a new credit card/account ending in XXXX - My credit scores dropped SIGNIFICANTLY & I had no control over this. I continue to make payments on the amount I owe - XX/XX/XXXX, I received a credit adjustment to my account for the 4 transactions totaling {$3000.00}, signaling to me this is closed and done with. \n\n- XX/XX/year> - I continue my pre-set auto-payments. New card ending in XXXX has been received & I have never activated to prevent further fradulent charges -XXXX XXXX  Citibank emailed a notice that there is a letter to my online account w/ subject line Billing Dispute Resolved. I did not read it, because I thought this was settled because the money was credited back a month prior. My mistake. \n\nXXXX XXXX XXXX XXXX notifies me of a SIGNIFICANT DROP in credit score AGAIN due to a Best Buy ccredit ard. Online account shows Ive been RECHARGED {$3000.00} & aformentioned letter says \" The facts & /or information reviewed as part of the investigation does not substantiate the claim of unauthorized use. '' - XX/XX/XXXX- I called Best Buy/Citibank fraud department immediately & was told I must submit a handwritten letter to reopen the dispute. No option to speak to a human, no online option, no timeline, nothing but insincere sympathy. I was provided this address : Best Buy Credit Card Services XXXX XXXX XXXX XXXX XXXX, SD XXXX. \n\nXX/XX/XXXX- I filed a complaint in regards to Best Buy with XXXX  and intended on filing against Citibank as well. However, that address provided doesn't exist which is strange .... \n\nXX/XX/XXXX- So I called Best Buy/Citibank fraud depatment again to confirm this process of reopening my dispute and WAS in fact able to talk to someone directly to reopen the disptue so the first person completely lied. I was told I had to wait 30-60 days ( insanity ) for another resolution. I also asked this new representative to verify the XXXX XXXX XXXX if I WAS to send the letter they requested- and he said it did not exist. Lie number XXXX. He told me the appropriate address was XXXX XXXX XXXX XXXX XXXX, MO XXXX. So not even the same state. If I had sent this... .and relied on their ill informed reps, I would never have received a resolution."
+}

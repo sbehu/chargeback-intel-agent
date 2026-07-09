@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1348",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75219"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23164,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi bank mastercard i use to have since XXXX with auto draft for payment. In XX/XX/XXXX i noticed fraudulent charges. Calling citi bank and asking to close the account and not to resend a new card. I retired and did not need it anymore. Request ignored. New card sent. Repeated calls to customer service and fraud department who tell me they have refunded the charges to my account. Problem is I do not have nor authorized or activated any new card they keep sending. I have 3 replacement cards attached to the letters in which they were sent. I have no idea nor will they tell me the card number or my account number being used that is attached to my checking account. Every month since XX/XX/XXXX through XX/XX/XXXX of XXXX i make calls and attempt to stop this. Now my bank at XXXX has agreed to halt auto pay and investigate. Citi bank has refunded some charges but only to a card account that the fraudulent person is accessing. I should have no current account nor any authorized credit card with citi bank as of XX/XX/XXXX."
+}

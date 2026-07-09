@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4024",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30189"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45345,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXXXXXX. \n\nThis is what occurred plus the additional information I provided back in XXXX of this year. I have been in the process of locating an attorney to pursue a lawsuit similar to the above due to the infringement of my rights as consumer, not to mention the attorney I did speak with told me that it was illegal to deny the claims of fraud and that the card based on evidence provided to the attorney was duplicated. The fraud was an inside job and the company refuses to do a thorough investigation ( did not know I could be in Texas and Georgia at the same time using the same card )."
+}

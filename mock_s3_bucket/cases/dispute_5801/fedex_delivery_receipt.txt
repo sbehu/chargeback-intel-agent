@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-52309364-US
+Shipment Date:   2026-03-02T00:00:00Z
+Delivery Date:   2026-03-25T00:00:00Z
+Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
+Destination:     9933 MAPLE CT, MD, 20902
+============================================================

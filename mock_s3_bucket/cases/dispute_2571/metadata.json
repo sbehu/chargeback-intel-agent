@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2571",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "618XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7342,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I subscribed to a newsletter at {$130.00} per month. In XX/XX/XXXX, I decided to stop the subscription due to not using the service. Well, I sent the merchant a request to stop service/delivery and followed the instructions on their website. From XXXX to XXXX I was charged each month from the merchant. In XX/XX/XXXX, I decided I had had enough and changed my card number, and filed a dispute with Citibank. Citibank claims they did an investigation and decided to side with the merchant. Citibank and I disagreed on the outcome ; so, I tried filing an appeal. It's been nearly two weeks, I have not heard anything.\n\nI realize now that there is only a 60-day period where they can give credit back for what happened, but Citibank still insists that the merchant is in the right. So, a partial credit would have been the most appropriate outcome. But, that was not the case at all. If I can't depend on my credit card company to back me when I'm in the right, then I have lost trust and will likely cancel our relationship of over XXXX  years. \n\nNOTE : Since I've gone through Citibank to try to resolve this issue, the merchant and Citibank are well aware of the transactions and no copies are necessary. But I can provide the information to you should you need it."
+}

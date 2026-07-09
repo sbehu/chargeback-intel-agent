@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7244",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "159XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24618,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received cologne samples on XX/XX/XXXX from XXXX. They arrived leaking but I tried to give the benefit of the doubt & try to use them without complaining. \nDue to the leakage the labels no longer stayed on & all the vials had cologne on the outside which ruins much of the experience & presentation. I wiped them down & tried to memorize the labels & not complain. \nBut then I opened the XXXX of XXXX  XXXX  & found it to be completely fake. \nAt that point I reached out to XXXX  They stated which replacement type would you like. I was concerned at this point of future cologne would be real or fake. I told them my pick of a replacement. \nBut then I heard nothing & received no replacement. \nI disputed the charge with citi & that was a long process. First my dispute was denied because I did not send the leaking & fake products back. \nI called citi to explain that I did not have any opportunities to send it back. XXXX only asked which replacement I would like & did not mention to mail anything back. If they asked or provided a label or directed me where to send it back I would have it asked. \nFrom that point I had to call & make the dispute with a live agent. \nCiti card closes the dispute after a seemingly quick investigation siding with XXXX. \nXXXX stated multiple falsehoods & Citi is siding with them even without proof. \nWhy would I open the dispute in the first place if I received a replacement? \nXXXX stated they sent me a replacement which is not true. \nXXXX stated I chose to keep the item but they did not ask me to send anything back. \nI reluctantly picked which fragrance for them to re send even though I worried others may be fake scents too. \nBut they never sent any replacements. \nThey are showing proof that I received the damaged & fake cologne samples from original order around XX/XX/XXXX but Citi card is not including any proof of the replacement being mailed. \nThey believe XXXX but not me as the customer. Why would I open the dispute unless I did not receive what I was told. Therefore if they sent me a replacement there should be proof of this but there will not be any since I was not sent anything else & was not given any chance to send the fake cologne back.\n\nCiti makes the problem worse but how they treated me. I called back & asked to file an appeal but they still arent helping. They told me I would receive a call in XXXX days from someone but they havent reached out since I called last week to try & appeal the dispute decision. It seems I am stuck paying the amount or hurting my credit score. Meanwhile Citi card seems to side with the merchants so quickly even though there is no proof of what they are saying. They should be able to include the postal record of the replacement at minimum like they showed the original order. \nCiti card doesnt seem to even realize that or they likely didnt even care to spend the time to look. \nI apologize I am frustrated from this & feel Citicard does not really have purchase protection if they treat customers this way."
+}

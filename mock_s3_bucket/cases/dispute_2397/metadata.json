@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2397",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32129"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37223,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted a claim that a fraudulent Best Buy Citi Bank credit card was opened up in my name and used to make {$1800.00} in purchases at the Best Buy location in XXXX XXXXXXXX XXXX. The card was opened in-person on XX/XX/XXXX and purchase were made at XXXXXXXX XXXX and XXXXXXXX XXXX that day. The account was reported as fraudulent as soon as I noticed the activity on XX/XX/XXXX. I immediately called the security operations department at Citi Bank and spoke with XXXX. She conducted an interview and started an investigation and opened a case. Also on XX/XX/XXXX I filed a police report with the police and their investigation is still ongoing. I informed the Security Operations team of the Police Report Number immediately. I called again on XX/XX/XXXX and spoke to XXXX in regards to a notice I received in the mail stating the investigation had concluded and I was still liable for the charges. The investigation was still ongoing and I was instructed to mail in a scanned copy of my license, which I sent in and was received on XX/XX/XXXX. I called again on XX/XX/XXXX around XXXXXXXX XXXX and spoke with XXXX who informed me this was not enough information to overturn the investigation. This time I mailed in a signed letter from my boss stating that I was at work until XXXX XXXX on XXXX, XX/XX/XXXX ( proving I was at work during the time the purchases were made ). The receipts of the in-store purchases were provided to the police when the police report was filed. I stopped into BestBuy today on XX/XX/XXXX since the police have yet to act on my case, and the in-store security footage is gone, and I was about 2 weeks too late. When I filed the police report I was reassured the police would check the cameras, but nothing was done while the footage was still available. I am frustrated and do not want to be held liable for almost {$2000.00} of purchase that I did not make."
+}

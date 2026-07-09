@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3154",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MD",
+    "complaint_zip": "21230"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26612,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I purchased a computer from Best Buy and was told I would receive a 5 % discount if I opened a Citibank/Best Buy card and that I did not have to utilize the card that day. I picked up the computer on XX/XX/XXXX. and was given a bill for {$300.00} and I questioned the amount ( correct charge is {$710.00} ). I used XXXX Bank XXXX XXXX card to pay the {$310.00} ( taxes ). That is when the problems started ... .as Best Buy charged ( not me ) the {$710.00} to the credit card. I filed a complaint with the Consumer Protection State of Maryland. Best Buy has admitted that I have paid the account the {$710.00} XXXX XXXX XXXX XXXXXXXX Credit Card and Checking account ) and that they are not due any additional funds. Citibank/Best Buy refuses to remove the {$300.00} charge and now the account, with past due charges and interest is {$400.00}. I have repeatedly called Citibank ( over XXXX times ) and they will not remove the charges. I never authorized the charge and do not owe any further amounts. In addition, my credit score has taken a major impact from XXXX to XXXX!!! Also, due to date I have not received a credit card from Best Buy and/or Citibank and do not wish to have a card!"
+}

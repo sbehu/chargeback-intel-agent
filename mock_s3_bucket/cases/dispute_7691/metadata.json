@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7691",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95123"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47736,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received texts that there were charges being made with my card ending with XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX for {$31.00} XXXX XXXX XXXX XXXX prepaid XX/XX/XXXXXXXX XXXX XXXX XXXX  for {$60.00} XXXX XXXX XXXX XXXX prepaid XX/XX/XXXX XXXX XXXX XXXX XXXX for {$60.00} XXXX XXXX XXXX XXXX prepaid card was not present and to view online once it posts to reply STOP XX/XX/XXXXXXXX XXXX XXXX XXXX  for {$35.00} XXXX to reply XXXX or XXXX or STOP in which I replied XXXX for NO I called the Fraud dept on XX/XX/year> around XXXX XXXX  and spoke to the Fraud dept and told them I have my credit card in my purse and went over activity and the person made me aware that my card was expiring next month and that they had mailed me a new card. I then told her I check my XXXX daily scanned envelopes and mail and never knew I had a card coming. It was apparent someone had stolen my card. She said they would investigate it and until then I would not know my true balance. She said my new card would be coming and to watch for it. She suggested to put a code on my account to be sure that no one can claim they are me which I said great idea. \n\nI then hung up and shared what had happened with a coworker and my son and both asked - how did they activate the card? the person who stole it. I then realized that was a great question. \n\nI called Citibank back. Spoke to an agent named XXXX I believe. I asked her about my concern on the activation and she proceeded not to worry my card ending in XXXX XXXX XXXX XXXX the new card was coming activated in the mail. In which I was appalled and said who authorized that? why on earth would you mail me an activated card in the mail without my consent? is that even legal? Also why haven't you asked for my special code that I just created? \n\nShe then said oh I am sorry and I understand your concern. I proceeded to state I do not have trust in your company and am in shock after someone using my card with fraud charges and possible stolen identity and privacy. I wish to close my account this instant. I want to file a formal complaint as this call is being recorded and she said yes it is. She said if I close it - I would have to reapply for a new account. I told her that is fine as I do not want to work with them as I now do not trust them. \n\nPlease I am in awe and can not believe this is a normal practice."
+}

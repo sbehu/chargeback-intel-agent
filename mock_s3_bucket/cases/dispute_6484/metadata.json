@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6484",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8817"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46766,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I logged into my American Express account and discovered that a {$27000.00} personal loan ( account ending in XXXX ) had been fraudulently taken out in my name. The funds were disbursed to XXXXXXXX XXXX XXXX, a bank with which I have no accounts or prior relationship. \nI immediately contacted American Express. They confirmed that the loan was fraudulent, and that my credit card had also been compromised. They canceled my card and issued a replacement, assuring me that I would not be held responsible for the loan. \nAt their request, I called XXXXXXXX XXXX, who confirmed that no account exists under my name or Social Security number. \nI raised two critical questions with American Express : 1. Why was a {$27000.00} loan disbursed to a third-party account with no connection to me?\n\n2. How was the loan approved, given that I have a credit freeze in place with all major bureaus? \nThey could not answer either. \nI filed a police report and a complaint with the FTC, and kept American Express informed. Despite this, on XX/XX/year>, I received a letter stating that my claim was denied. I called immediately and spoke with an agent named XXXX, who told me the funds going to an unrelated bank should invalidate the loan. He told me not to appeal and said he would take care of it then never followed up. This was the second unfulfilled promise for a callback. On XX/XX/year>, a representative named XXXX ( XXXX ID XXXX ) also committed to a callback within 23 days and never followed up. \nAs of now, the fraudulent loan remains on my credit report. My credit score has dropped as a result, impacting my financial standing."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4132",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "550XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48468,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My son took my card without my permission and charged over {$14000.00}. In XX/XX/XXXX, he went missing for a month and When I received the bill and found out about the charges I called and disputed all the charges he had made with the help from my daughter. When my son returned to my home in XX/XX/XXXX he called the credit card company and confessed to all the charges and started making payments to them. They were told to take my name off the debt and put XXXX XXXX XXXX name to the debt. They have continued to bill me and when my son stopped paying in XX/XX/XXXX they are now coming after me. I have contacted a lawyer to sent a letter stating that I am not responsible for the debt, but they are still coming after me and sending me the bill."
+}

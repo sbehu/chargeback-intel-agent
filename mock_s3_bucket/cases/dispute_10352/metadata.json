@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10352",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20743"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25936,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX was contracted in XX/XX/XXXX to remodel my bathroom ; however, contractor did not obtain necessary permits as required by Maryland Law. I initiated a dispute with XXXX XXXX XXXX in XXXX for XXXX amounts on XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX. Citi resolved only XXXX ( of XXXX ) disputes ( XXXX ) in my favor, but Citi sided with contractor on the two other disputes ( XXXX and XXXX ) ; however, all of the dispute facts, details and documentation submitted are exactly the same across all three disputes for the same project. The only difference is that the payment dates are different. The contractor, XXXX XXXX breached the contract by not obtaining plumbing permit as required by XXXX XXXX. The contract provided was also not in compliance with Maryland Law. Citi has advised me that I'm now responsible for the charges, although the merchant hasn't performed the remodel based on Maryland home improvement law requirements."
+}

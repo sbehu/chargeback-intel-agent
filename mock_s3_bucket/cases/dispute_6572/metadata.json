@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6572",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7083"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27430,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to dispute fraud charges for my previous Citi Credit card ending in XXXX totaling {$3900.00}, these charges are as follows XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX XXXX FL XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX XXXX FL XX/XX/XXXX {$400.00} XXXX  XXXX XX/XX/XXXX {$450.00} XXXX XXXX XXXX XXXX XXXX FL XX/XX/XXXX {$110.00} XXXX XXXX  XXXX XXXX XXXX FL XX/XX/XXXX {$420.00} XXXX XXXX XXXX XXXX XXXX FL XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX  FL XX/XX/XXXX {$420.00} XXXX XXXX XXXX XXXX XXXX FL XX/XX/XXXX TST Tap XXXX {$110.00} XXXX XXXX XXXX FL I received correspondence dated XX/XX/year>, stating that the charges totaling {$3900.00} were classified as non-fraudulent. I communicated with XXXX, a supervisor in your security XXXX XXXX Department, on XX/XX/XXXX and again on XX/XX/XXXX. She informed me that I must provide evidence proving my absence from the state of Florida at the time these charges were incurred. As a long-standing customer of Citi Bank , I have not utilized my Citi Card for an extended period, and my last visit to Florida occurred approximately XXXX years ago. I have included documentation from my credit cards and bank statements that verify my presence in New Jersey with these charges that were made. My credit history clearly shows that I have never made purchases from any of the retailers mentioned. I have consistently paid my bills on time without any disputes, making it perplexing that I am required to demonstrate my absence from Florida. I do not comprehend why Citi Bank has not reached out to the retailers involved to obtain video evidence of the individual ( XXXX ) responsible for these charges. \n\nIf this matter remains unresolved, I will contemplate seeking legal counsel. This situation has caused me considerable XXXX XXXX and loss of sleep, negatively impacting my credit score.\n\nI kindly request that you review the attached documentation and respond to me promptly with a resolution."
+}

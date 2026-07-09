@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1566",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "339XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19346,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My problem is with American Express - XXXX credit card.. On XX/XX/XXXX I discovered fraudulent charges on my American ExpressXXXX Credit Card XXXX. I called and reported to the phone number on the card and they identified XXXX fraudulent charges which they said they would remove from my card. In XXXX I started getting calls saying my credit card was overdue so I checked and they had remove XXXX charges but overlooked XXXX charge for approximately {$43.00}. This charge was almost identical to another charge at the same store on a different date that had been removed.. After many many calls to the credit and fraud departments they agreed XXXX different times to handle the item, but the calls phone calls continued. They said the case was under investigation.. On XXXX XXXX XXXX  my bank informed me that my credit score had dropped XXXX points upon checking American Express/XXXX had reported my account as delinquent to the Credit Bureau XXXX On XX/XX/XXXX American ExpressXXXX called me and said they resolved the charges and I now had a {$23.00} credit balance. But they could do nothing about my damaged credit score as the case was still under investigation. On XX/XX/XXXX my bank informed me that my credit score had dropped another XXXX points. Investigating I found on XXXX XXXX XXXXAmerican Express/XXXX had made a request for a hard credit report resulting in the XXXX points reduction. I did not know or approve this request I was not requesting credit or a loan. I had a credit amount on my XXXX card They owed me money. What was their reason for requesting a hard credit report other than harassing me. I have a big financial deal working and my financers are very reluctant to continue with a total credit report drop of XXXX points. This is going to result in significant reprucessions to me and my business opportunities. In early XXXX I informed XXXX that I believed they inadvertently missed XXXX charge. In many, many calls to the credit dept and fraud dept over the past XXXX weeks I have only spoken to XXXX person out of about XXXX whose native language is XXXX. It is difficult to understand many and I had the feeling many did not understand me.. I have had a hard wired telephone in my house and home since I was XXXX years old. Due to the harassing calls to collect a debt I am canceling my phone to avoid the harassment. I consider myself a hard working professional person with an extremely good credit rating. Now this is all ruined by American ExpressXXXX and their broken systems, flawed procedures and improperly trained personnel. They do not care a bit about the little people in the world. They can not correct their problems or restore my lost credit worthiness that they destroy for no good acceptable reason. In sorting through this there are XXXX companies involved : American Express, XXXX and XXXX. It is difficult to tell what company I am talking to and sometimes the person on the line is not exactly sure who they represent. \n\nI would like to mention that the phone system they use is probably the worst in existence. To get an actual person on the line is very difficult and sometimes means going through XXXX or XXXX phone trees and then for some unknown and inconsistent method I get a real person who tells me how much I owe and asks how I want to pay it and then maybe they transfer me to another person. When I get a person to explain the situation to they tell me, XXXX different times, the situation will be fixed in XXXX to XXXX days. It never is and only once has a person called me back of all the ones who said they would."
+}

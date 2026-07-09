@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3741",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "90028"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19820,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ordered an item. The item never arrived. Package said delivered but mail company could not place the package arrival scan near my building. Contacted seller site. No refund offered. No purchase protection. Contacted citibank. Filed dispute, even included police report in original dispute. Dispute resolved favoring outside party. Raised second dispute, same conclusion. No answers, no purchase protection."
+}

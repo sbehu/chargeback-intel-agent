@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6762",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90007"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29209,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was contacted by someone impersonating my boss who urgently requested {$600.00} worth of gift cards, claiming they were needed for a business reason. I was scheduled to meet my boss at a conference the next day, and he was already supposed to reimburse me for travel, so the request seemed legitimate. I purchased XXXX {$200.00} gift cards and sent the codes, believing the request was real. \n\nLater that day, I confirmed with another XXXX that my boss never made the request. I had been manipulated through impersonation and social engineering. \n\nI disputed the charge with American Express and explained the situation. I provided supporting documentation including receipts, scam messages, and an FTC report. Amex initially credited the charge, but later reversed it after receiving standard documentation from the merchant. \n\nThis was not a merchant error the issue is that the charge was made under false pretenses. I did not use the gift cards myself, and the transaction was not legitimate. XXXX requesting a proper review under the Fair Credit Billing Act."
+}

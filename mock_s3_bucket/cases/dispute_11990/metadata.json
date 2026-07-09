@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11990",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24631,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting the charging from Citi Bank on my XXXX XXXX credit card. \n\nAccording to my records, I reported the following transactions as fraudulent : XX/XX/year> {$560.00} ( XXXX XXXX XXXXXXXX ) XX/XX/year> {$170.00} ( XXXX XXXX XXXXXXXX ) XX/XX/year> {$260.00} ( XXXX XXXX XXXX  ) While I appreciate that credits have been issued for some of these transactions, the charge from XX/XX/year> ( totaling {$260.00} ) has not been properly resolved. \nAll three transactions : Were unauthorized Were made to the same merchant ( XXXX ) Appear to be part of the same fraudulent activity Were reported together in my original dispute Given this, it is inconsistent and concerning that only a portion of the fraudulent transactions has been credited. \nI respectfully request : XXXX. Immediate review of the unresolved XX/XX/year> transactions XXXX. Issuance of the appropriate credits totaling {$260.00} XXXX. Written confirmation explaining why these charges were excluded from the original resolution, if applicable"
+}

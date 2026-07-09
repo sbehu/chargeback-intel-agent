@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3916",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95826"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9804,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I always used my XXXX XXXX XXXX card from Barclays Bank and purchased an airline ticket in XX/XX/year>, looking at the reservation a few days later I found out I couldnt access my purchase or reservation made with XXXX XXXX, a called Barclays and told me the money has been withdrawn by XXXX, after calling the airline company XXXX they couldnt find a payment made on my name, I insisted and open various cases with them and Barclays, in the XXXX Barclays give the benefit of the doubt to XXXX, the airline company never reached to me by email concerning the disappearance of my purchase and I was charged XXXX usd for a trip that Ive purchased."
+}

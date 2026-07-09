@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3377",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48038"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2835,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was contacted by a Merchant in regards to an account balance that was in my name that needed to be paid. I tried to get as much information as possible out of them but was told they didn't have it to send. I paid the balance off of {$3900.00} on my Citi Credit card. After doing some research about the company, I thought I had been a victim of fraud, and disputed the claim. On XX/XX/XXXX, the merchant reached out to me and asked what happened with the charge back, and I explained that I thought it was fraudulent, and that I requested the charge to be canceled. They then provided all of the documents to me showing that it was mine and that It was valid. I let my Credit Card company know this and to stop the dispute and let it go through. The merchant ran my card again, and now there were XXXX transactions on the card for the same balance. When speaking to the merchant they said to cancel the second charge and that they were going to take the original, so I contacted my credit card company to do so. Because of this second charge cancellation, the merchant refused to take any money from my card and sent XXXX charge-back refunds to my account to be processed. \n\nI spoke with an agent in XXXX on a three-way conversation with the merchant and credit card dispute team, and the merchant explained that they were no longer accepting the XXXX transactions, and the chargebacks were sent to be refunded to me. I then was told that this could take XXXX business days to do so. I received XXXX of the refunds on the account but still a month and a half later have not received the other. This is affecting my credit score, credit utilization, and minimum payment due, and am collecting interest daily. Below are the dates and agents who have actively been on my account since the first dispute was opened. \n\nXX/XX/XXXX XXXX XXXX XXXX XX/XX/XXXX XXXX XXXX XX/XX/XXXX XXXX XXXX ( email ) XX/XX/XXXX XXXX XXXX XX/XX/XXXX XXXX XXXX XXXX ( XXXX reference time provided ) XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX letter sent ) XX/XX/XXXX XXXX XXXX XX/XX/XXXX XXXX XXXX XX/XX/XXXX XXXX XX/XX/XXXX Email attempt to merchant XX/XX/XXXX Email sent XX/XX/XXXX Email sent XX/XX/XXXX Email sent about dispute XX/XX/XXXX Email sent about dispute XX/XX/XXXX XXXX XX/XX/XXXX XXXX ( chat ) XX/XX/XXXX XXXX XXXX XX/XX/XXXX XXXX XX/XX/XXXX Email sent about dispute XXXX XX/XX/XXXX XXXX XX/XX/XXXX XXXX XX/XX/XXXX XXXX XXXX XX/XX/XXXX Dispute initiated online XX/XX/XXXX XXXX"
+}

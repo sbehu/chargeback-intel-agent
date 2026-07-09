@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4435",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91311"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30068,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a dispute for a credit back in my home depo credit card I believe the amount is around {$9.00}. I did the purchase on XX/XX/year> I believe I returned the Item within XXXX days because I have not used it.. In the statement of XXXX appeared the purchase and not the credit back for the return item. \nI called Home Depot Credit Card Services They promised me they are going to investigate and provided me information in regards the dispute. Now I received a letter dated XX/XX/year>, asking me to go to the store and basically to ask the XXXX for a credit back, I was told the same when I called XXXX XXXX Customer Service on XX/XX/XXXX I spoke with Supervisor name XXXX employee ID # XXXX. \n\nI'm attaching the letter for reference, I believe I called the credit card Customer services, and they are the ones who supposed to call the store to get this figure out, NOT ME. I believe I received a kind of mistreatment by Home XXXX  Credit Card Services"
+}

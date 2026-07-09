@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4055",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30115"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45465,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On my credit card statement, a charge for almost {$300.00} for XXXX XXXX was on there. I disputed it. I did not make that purchase at all and dont have a XXXX. I thought it would be open and shut once they reached out but no, XXXX XXXX sent a phony pdf that says I picked up a guitar and I 100 % did NOT. Citi refuses to reverse it. I want proof I picked up a guitar like they said. I want my credit back, I did not make nor authorize that purchase."
+}

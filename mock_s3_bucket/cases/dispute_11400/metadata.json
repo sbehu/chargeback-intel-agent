@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11400",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27545"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3477,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, I am writing to formally dispute an erroneous charge appearing on my Best Buy Credit Card statement and subsequently impacting my credit report. This charge pertains to merchandise that was never received and for which the order was explicitly canceled. \n\nOn XX/XX/year>, I visited the Best Buy store in XXXX, NC, to purchase an XXXX XXXX XXXX XXXX laptop. As the desired color was not immediately available, the item was arranged for shipment. During this transaction, I also opened a Best Buy Credit Card account, through which I financed the XXXX XXXX, a one-year subscription to XXXX XXXX XXXX and a XXXX XXXX adapter. \n\nThe following day, XX/XX/year>, I decided to cancel the XXXX XXXX order. I proceeded to the Best Buy location in XXXX, NC, where I returned the USB-C adapter and, concurrently, purchased an XXXX laptop. \n\nDespite the timely cancellation of the XXXX XXXX order, my subsequent credit card statement reflects charges for both the original XXXX XXXX ( {$1500.00} ) and the XXXX laptop I acquired from the XXXX store. This means I am currently being billed for merchandise I neither received nor possess, due to the cancellation. \n\nI have undertaken several attempts to resolve this issue without success. Initially, I contacted the Best Buy credit card department to file a dispute, clearly explaining that the charge was for a canceled order for unreceived goods. Following a lack of resolution, which resulted in the charge being reported on my credit report as a high utilization and maintaining a significant balance on my credit card, I made further efforts. I visited two different Best Buy stores and spoke with two separate managers. During these discussions, I provided comprehensive documentation, including evidence from the Best Buy application confirming the cancellation on XX/XX/year>, alongside my billing statements and receipts. Although the store managers escalated the matter to their department heads, the erroneous charge remains on my account.\n\nThis unresolved balance is significantly impacting my credit score through high utilization, and I am being unfairly held responsible for an item that was canceled and never fulfilled. \n\nI respectfully request an immediate and thorough investigation into this matter. I seek the prompt removal of the {$1500.00} charge for the XXXX XXXX XXXX from my Best Buy Credit Card account and the rectification of any adverse reporting to credit bureaus. Please confirm the steps being taken to resolve this discrepancy."
+}

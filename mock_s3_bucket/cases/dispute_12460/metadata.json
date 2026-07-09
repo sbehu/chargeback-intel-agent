@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12460",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63122"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49767,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Citibanks handling of a billing dispute involving a {$12000.00} charge from XXXX XXXX, XXXX related to consulting services that were not rendered as contractually agreed.\n\nI timely disputed the charge with Citi and provided extensive supporting documentation, including the contracts, invoices, written termination notices, merchant correspondence, proof of payment, and detailed factual summaries outlining the merchants failure to provide contracted services.\n\nThe underlying dispute involved substantial nonperformance by the merchant. Citi acknowledged receipt of my dispute and requested additional information, which I provided promptly and in detail.\n\nHowever, Citi failed to resolve the dispute within the required 90-day timeframe under the Fair Credit Billing Act ( FCBA ). More importantly, Citi failed to maintain meaningful communication during the process and failed to respond to additional written correspondence I sent by certified mail. \n\nOn XX/XX/year>, after the dispute remained unresolved beyond 90 days, I sent Citi a formal USPS certified written follow-up requesting clarification and status regarding the investigation and unresolved dispute. Citi received this correspondence, but I never received any substantive response.\n\nThe dispute involved a significant amount of money and extensive documentation, yet Citis handling of the matter has been marked by delay and apparent failure to properly investigate or communicate regarding the claim.\n\nDespite the extensive documentation provided, Citi failed to resolve the dispute in a timely manner and failed to adequately communicate the status or basis for its handling of the claim.\n\nI am requesting that CFPB review Citis handling of this billing dispute, including : 1. Failure to comply with FCBA timing requirements ; 2. Failure to adequately investigate the dispute ; 3. Failure to respond to certified written correspondence ; 4. Failure to provide clear status updates or explanations during the investigation process ; 5. Any improper denial or mishandling of the billing dispute.\n\nI am requesting a full review of the dispute and Citis compliance with applicable consumer protection and billing dispute regulations."
+}

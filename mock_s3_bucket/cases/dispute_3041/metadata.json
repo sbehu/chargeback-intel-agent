@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3041",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1845"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9493,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My airline account through JetBlue was hacked and {$16000.00} worth of fraudulent flights were booked on my JetBlue credit card through Barclays. JetBlue uses a third party, XXXX, for travel insurance which was booked with the fraudulent flights totaling {$300.00} Barclays denied the dispute because XXXX had all my information and determined it was me who booked the flights. They would not provide any proof that the flights were determined fraudulent to provide to XXXX. JetBlue also would not provide this information so I have no proof to provide to XXXX. Barclays provided me with the proof provided my XXXX which I have attached. This proof is because my account was hacked so they think I booked it when I did not. The fact the flights were deemed fraudulent should be enough proof but Barclays and JetBlue refuse to help"
+}

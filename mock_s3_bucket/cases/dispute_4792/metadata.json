@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4792",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MS",
+    "complaint_zip": "39047"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3486,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "As of XX/XX/2024, I had XXXX active CC numbers on my American Express ( AMEX ) account : On XX/XX/XXXX, I called AMEX and cancelled all existing and old credit card numbers on my account and requested XXXX new cards with XXXX new numbers. I requested that no more charges of any kind be allowed to be charged on the old numbers. I was issued XXXX new numbers and XXXX new physical cards. \n\nOn approximately XX/XX/XXXX, I received a notice of a new charge posted to my account in the amount of {$110.00}. This charge showed up on my account as posted to my NEW Credit card number. \n\nI called Amex and asked them how this charge was allowed to my account on my new CC number. \n\nThe representative replied that if it is a recurring charge then AMEX will provide my new CC number to the vendor. They said this is done for my benefit so that recurring charges would not be rejected when a credit card number is cancelled. That is why this new charge showed up on my bill as being associated with my new card number. \n\nI told AMEX that I had not given them permission to provide my new card number to anyone. AMEX then cancelled my XXXX active card numbers and issued me another new card. \n\nI contested the charge, stating that I had cancelled the card numbers and requested that no new charges be allowed. AMEX has refused to refund my money, saying the charge was valid."
+}

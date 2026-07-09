@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3660",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "026XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18755,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The credit card was used while I was on Vacation in XXXX XXXX XXXX, without my permission or authorization. \nOn XX/XX/year> I received an email from barclasfraudalert @ XXXX AM about a potential fraudulent use. \nI contacted the bank Immediately and we discovered XXXX unauthorized transaction as follows : MERCHANT : AMOUNT : DATE : XXXX XXXX XXXX XXXX {$3300.00} XX/XX/year> XXXX RESTAURANTE XXXX XXXX XXXX {$84.00} XX/XX/year> XXXX XXXX XXXX {$4.00} XX/XX/year> XXXX XXXX XXXX in my possession when I made the call. \nXXXX  Fraud Departemnt initiated a investigation that concluded that since the card was in my possecion and the chip technology was used and the card was present at the time of purchased that I am responsible for these purchases. \nI did not make these purchases and the card could not be present unless it was cloned."
+}

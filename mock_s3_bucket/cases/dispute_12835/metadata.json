@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12835",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26570,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX of XXXX 2 purchases were made on my Citi Wayfair card totaling {$91.00}.\n\nCiti claims they have done 3 investigations into this matter all making responsible for these purchases.\n\nI spoke with a member from wayfair who with in 5 minutes was able to trace the up address for the purchases to a location in Illinois ; I live in Ohio.\n\nCiti told me that I would need to file a police report which I did. Still trying to hold me responsible."
+}

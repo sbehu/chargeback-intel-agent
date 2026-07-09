@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1739",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85020"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46922,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a formal complaint against Barclay Card XXXX, AA Advantage. \n\nI accidentally made too large of a payment ( the entire statement balance {$3600.00} ) in XX/XX/XXXX, leaving my new balance to be {$1300.00}. I called customer service requesting a refund in the amount of my statement balance payment of {$3600.00}. My XX/XX/XXXX statement reflects that on XX/XX/XXXX, the return of payment in the amount of {$3600.00}. It also reflects an additional NEW charge on XX/XX/XXXX from \" Identity of Authorizer Unknown '' in the same amount of {$3600.00}. This error made my new balance {$8700.00}, Instead of what it should have been : {$5300.00} I called customer service and was immediately transferred to the fraud department. On XX/XX/XXXX, I received a letter of acknowledgment from the credit card company and was verbally told to not make any payments until they \" figure it out. '' Now it is XX/XX/XXXX, and they have closed my account and are sending me to collections for lack of payment, regardless of them acknowledging their internal, double-charge mistake. This has also resulted in my credit being dramatically impacted, as well as several other of my credit cards reducing my spending limits. The new total, including interest and fees is over {$9000.00}, instead of what I actually owe, which is in the {$5300.00} range. I don't know what to do. I have spent over 28 hours on the phone with them since XX/XX/XXXX and have gotten nowhere. All of the hard proof and evidence is presented on my pdf statements."
+}

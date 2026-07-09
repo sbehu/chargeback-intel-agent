@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5849",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "032XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33861,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> I was charged {$190.00} for a citi flexpay payment plan but there is no initial purchase for the amount of {$190.00} and I have not purchase order for the amount of {$190.00} and they are charging me a monthly payment plan fee of {$1.00} in addition to interest on the {$190.00} to pay in installments of XXXX for 12 months when I never made a purchase for XXXX and if I cancel the payment plan they ban me from being able to do a flexpay payment plan on a purchase for a year"
+}

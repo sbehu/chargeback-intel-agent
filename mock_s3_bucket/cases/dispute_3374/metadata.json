@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3374",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36690,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "- I was refunded {$3200.00} for a security deposit paid to XXXX XXXX XXXXXX/XX/year> ( and {$87.00} for the XXXX fee ) - I ended up with a total negative balance of - {$3200.00}. \n- I waited to see if Amex would contact me about this negative balance. \n- After a week, I heard nothing, so I contacted support. \n- I contacted support on XX/XX/year> via chat. The chat agent failed to refund my accounts initially but did succeed to get my authorization to send a wire transfer to my XXXX XXXX  account in the amount of {$3200.00}. \n- On XX/XX/year> I notice a strange charge on my Amex card of {$970.00} which only has a description of \" ADJUSTMENT ''. I assume that this is related to the refund I requested and perhaps this is one part of a many part adjustment - On XX/XX/year> I notice another \" ADJUSTMENT '' of {$3200.00} and I get concerned. I hope that the earlier adjustment will be automatically reversed. \n- On XX/XX/year> I contact the chat customer service, I ask for an explanation of the adjustment charge of {$970.00}. They say verbatim \" Please do not worry this is not a charge on your account. '' \" This is just a refund from Amex on your account '' \" No, please do not worry this is not something you owe. '' \" I assure you that this is just an adjustment like credit. '' - On XX/XX/year> I contact support again since the charge has shown on my statement that I owe {$1000.00}. I receive no explanation. They tell me it will take XXXX weeks to investigate the charge- On XX/XX/year> I contact support again and after an hour of chat messages and being redirected to the supervisor, I have to leave for an appointment and end the chat. \n- I try again on XX/XX/year> They tell me there was a transfer initiated to an account ending in XXXX, AN ACCOUNT WHICH I DO NOT OWN. I HAVE NO ACCOUNTS REGISTERED OR NOT REGISTERED WITH AMEX WITH SUCH A CODE. They tell me that they will try to give me a credit for that amount. \n- I checked back in on XX/XX/XXXX, There is no credit still and they tell me they will try to initiate a transfer again- It is now XX/XX/XXXX, over 2 months from the initial conversation and mistake American Express put a charge of {$970.00} on my account, they tell me this was a refund initiated by an agent via a paper check to an invalid address WHICH I HAVE NEVER EVER AUTHORIZED, they tell me they will investigate the issue for weeks, they tell me they will refund me credit to my account, they do none of it American Express has stolen {$970.00} from me. I will be seeking legal damages after this if I see no resolution."
+}

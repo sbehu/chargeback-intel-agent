@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_263",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98023"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9003,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Merchant : XXXX XXXX XXXX XXXX Ref : XXXX - Disputed Amount : {$31000.00} USD Ref : XXXX - Disputed Amount : {$610.00} USD Please allow this letter to be the explanation for the two charge above. I and my father went to XXXX XXXX XXXX XXXX for my father treatment on XX/XX/XXXX. Initially when we came to the hospital, as they dont know how much for us to pay at the end they asked me to sign a authorization form for the credit card and they put a hold for XXXX XXXX which is {$31000.00} USD to my card. This is why the {$31000.00} USD transaction is showing up on XX/XX/XXXX on the first day even though my father did not get the treatment from them. The treatment started later on that day, and completed with a XXXX and my father had to stay in XXXX  for 1 day and get discharge on XX/XX/XXXXXXXX   ( see attached ). Right before the discharge, they asked us to pay in full before we go back to our country because were international visitor. \n\nWe then came to the counter to pay them in Cash for the amount of XXXX XXXX which is {$31000.00} USD and XXXX XXXX which is {$610.00} USD. I paid XXXX XXXX in cash even as XXXX dont have denomination of XXXX cent and we did not have the cent so we rounded up. We was supposed to pay only XXXX XXXX. They then allowed us to discharged and go home. Please see the email below they sent on XX/XX/XXXXXXXX  to me confirming the cash payment and let us go on discharge day just ' minutes after the discharge. \n\nThey claimed in their response to AMEX that the email and documents I provided are not valid, however, those documents were printed directly from XXXX Service and directly from their email. If they say its not valid, why does it come from their email that match what is provided from their website and in their document. They did not answer part, they claim the email is invalid without any proof or evidence. The address and email match with their info on their website. \n\nMoreover, the proof from them does not have my name or my father name or anyone that associated to this card. I think they got the wrong file from another patient as you can see the last page of their response, they include a credit card authorization form for. \n\nI dont know who are XXXX XXXX , XXXX  XXXX XXXX , and XXXX XXXX XXXX . This must be the mistake from hospital as they take a different profile to process my case. Again, my XXXX name is XXXX XXXX XXXX as document from them provided to you. \n\nTherefore, both of my dispute are valid and I should get my money back. Moreover, their evidence is invalid as it got the wrong name on it. Also they just make statement without any evidence. Please help me get my money back. All the above mention evidence are attached to this PDF letter below. \n\nAMEX just never do their job. Everytime I re-submit the claim with evidence, they don't even take a look and just denied my claim on invalid evidence with wrong name that merchant sent back in XXXX. AMEX does not respect the customer answer. Sometime, the agents are even discriminating."
+}

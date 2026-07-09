@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7035",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "86314"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20497,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reserved a hotel at XXXX XXXX XXXX XXXX XXXX  XXXX through XXXX for the evening of XX/XX/year>. When I arrived at the hotel at XXXX on XX/XX/XXXX I was told by the clerk that the hotel was over booked and there was no room for me. He said he would cancel the charge. I left and booked a nearby hotel believing the charge would be canceled. I attached a screenshot of my XXXX Timeline to prove I was there. \nWhen I returned home on the XXXX the XXXX I checked my XXXX XXXX credit card bill and saw I was charged any way. I disputed the charge with the credit card company thinking the clerk forgot to cancel the charge.\n\nThe credit card company ruled in favor of the merchant. The merchant claimed they sent me a notice that I was a no show. The copy of the email from the merchant that the credit card company sent does not have my real email address on it as far as I can see. As I have said I have my XXXX Timeline to prove I did show up at the hotel.\n\nI called the credit card company to appeal, but they told me there is no appeal process. How is this fair? A Merchant can reply with any story knowing that since there is no appeal process the credit card company will uohold the charge. If I knew they said I was a no show I would have sent the XXXX Timeline when I initiated the dispute. The merchant can claim anything and there is no way to dispute it."
+}

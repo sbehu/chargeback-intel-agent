@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2351",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33936"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22312,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX XXXX my account with home depot was at XXXX.a month later in XXXX XXXXhome depot issued a new card to another address and change my email. For another email..from there that other person stars making purchases at home depot in my name..\n\nHow did they change the email in with home depot always sent me datails of my account i never received my account statament.until the collection call started.they told me that a check issued by me the chase bank had no fund.it should be stated that i do not have an acccount in that bank.i started to find out and i realized that this person had made purchases at home depot for more that my credit witch was XXXX dollars.from there i called many time which is the one that made the collections calls and i reported it since octuber of the previus years. Without any solutions to the fraud carried out in my ho.e depot account"
+}

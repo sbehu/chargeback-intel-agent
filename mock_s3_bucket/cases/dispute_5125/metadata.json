@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5125",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "610XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39395,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I sent a letter to the company explaining that I was a XXXX XXXX XXXXXXXX XXXX in XXXX, which forced me to take on debt in my name. Before this, I always paid on time and had no late payments. I asked if the company could help by waiving the balance that wasnt truly my responsibility and fixing the credit reporting for the account. I have not heard anything back from the company. I attempted to contact them via an online chat on XX/XX/XXXX and kept getting a run around because their agent could not simply look at the account to see the letter that I sent."
+}

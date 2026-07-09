@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10426",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2446"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19696,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "back in XX/XX/year> i purchased with my American express credit card a refrigerator that cost about {$230.00}, the fridge was sent to the wrong address, i did call to find out why i did not get the fridge, i was told it was sent to a different address, i asked to refund me the money and send me a new fridge, the person i spoke to sounded like he was in a foreign country like XXXX, he said in order to get the new fridge i will have to pay it first and i will get the refund later when they pick up the fridge from the wrong location, i agreed and we proceeded with the new order which was delivered to me at last. \nwhen i received my bill i seen XXXX of the same charges but no refund, i contacted XXXX about that, they said they will send me an email with results, the email came stating that i should contact my credit card company because they were unsuccessful with that and that i should tell my credit card company to deal with that, which i did, they denied my credit card company even when i showed the emails to them, i did a second dispute, the credit card company said that the XXXX is responding that i never asked for the refund and closed the case without telling me, i had to find out through a message online on my account. i believe my credit card company is not doing their job correctly and that is where you came in, i am not sure where to go from here. \nthank you for your help and look forward to hear back from you soon XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6648",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "110XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13180,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX fraudulent charges from XXXX  XXXX from various locations. I received a text and an email from XXXX XXXX XXXX asking if these were my charges. I called, the charges were reversed. I received a letter dated XXXX XXXX and new credit card with a new account number. \nXXXX XXXX more fraudulent charge from XXXX  XXXX XXXX \nI called that day to report it XXXX The person I spoke took all the information. A few days later I received a new credit card in the mail with the original account number. No letter regarding the claim and no reversal on my bill. \nXXXX I spoke with XXXX. He said it is being worked on. I asked for a manager or supervisor as the charge was still there, my bill is due soon etc. He said there are no onsite managers and even if there were I would not get a different response. He said he would have a letter resent to me. \nXXXX I sent an email to XXXX XXXX XXXX XXXX have not heard back XXXX Paid my bill in full along with the fraudulent charge as I had no choice I have not received a letter regarding the claim. \nMy concern is there is not adequate help to resolve this situation. I am concerned if this were to happen again with a more substantial charge, what would I do. Am very dissatisfied with their lack of concern and am still not sure if it is being looked into as I have still not received a letter to confirm."
+}

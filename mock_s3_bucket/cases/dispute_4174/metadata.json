@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4174",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7666"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39192,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024 I purchased a refrigerator from XXXX XXXX XXXX store located at XXXX XXXX. XXXX XXXX in XXXX. Several promotions were being offered with the use of a Best Buy Citi credit card. I completed and submitted an application with the assistance of a sales associate. It was approved on the spot and my purchase of a refrigerator was completed and approved, the last four digits of the card number were XXXX. \n\nSubsequently I made three additional purchases with last being made with this credit card on XX/XX/2024. Shortly thereafter I reviewed my profile information and requested that a new card be issued. The XXXX card was de-activated. Subsequently a new card was issued with the last digits of XXXX. \n\nIn early XX/XX/2024 I received an Account Statement indicating identifying a transaction with a company only identified as XXXX with the additional numbers and letters of XXXX TX, on a card ending with the last four digits of XXXX. I dont have any credit cards with these last four digits. Additionally, a transfer fee was charged ( XXXX XXXX XXXX BETWEEN XXXX ( XXXX ) ) for a total of {$64.00} ( open file Best_Buy_XX/XX/XXXX ). This amount was transferred to my account ending in XXXX without my knowledge, verification or approval. \n\nOn XX/XX/2024 I called Credit card Services and disputed the charges. I was told this dispute would be passed on to Security Operations for investigation. After a number of calls to Credit card Services to determine the status of the dispute I was referred to Security Operations. \n\nOn XX/XX/2024, I spoke directly to Security Operations and was told the issue was still under investigation and was provided with what I thought was a direct line to Security Operations and to call back in 2 weeks. Upon calling this number on XX/XX/2024, it turned out to be a FAX line. \n\nOn XX/XX/2024, I spoke directly to Security Operations and was told he case had been closed and advised that my balance was now {$0.00}. I then requested of the representative that a letter attesting to the outcome of the investigation and XXXX balance be sent to me confirming same ; none was ever received. \n\nOn XX/XX/2024, I called Credit card Services who stated that my balance was at that time {$100.00}. I asked to be transferred to someone with the authority to confirm this amount or the previously stated to me back on XX/XX/2024. For the first time in all the calls I had made to date I was transferred to a representative located Tennessee who confirmed the XXXX balance but advised me to wait until the billing period which ended on XX/XX/2024 to check my balance. Since XX/XX/2024, to date and throughout this whole issue I have been receiving and I am still receiving calls, emails and text messages stating an overdue balance and requesting I make payment and the balance still appears to be being assessed a monthly late fee. Note : My credit rating through known credit bureaus has dropped nearly XXXX points, my XXXX XXXX has been elevated, and my stomach in knots and frustration level with Best Buy Credit Card services is off the charts. Im hoping that this issue can be investigated thoroughly and the necessary actions taken to address it expeditiously and prevent other seniors who may go through this same type of experience but concerned about openly questioning their account statements. I want also to have my credit rating restored to the level it was prior to this whole experience ( XXXX )."
+}

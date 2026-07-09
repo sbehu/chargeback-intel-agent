@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5139",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33181"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30235,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024, I was alerted to a charge on my credit card via text message to verify a charge at XXXX. I immediately went online to verify that the card was being charged by several vendors and it was not being used by me. I immediately called Citi to let them know that this was not me. They opened a dispute and sent me a new card. However, in XXXX I received a letter stating that the dispute was closed and I would be charged for the transactions. This was not a charge by me and I have been banking with Citi for years and would not dispute something I clearly charged. They have not provided me with any documentation to the sort about how they came to this erroneous conclusion."
+}

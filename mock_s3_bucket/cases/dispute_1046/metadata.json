@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1046",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "027XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18120,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/24 stateline XXXX charged my XXXX for a part. I called to cancel the order but the charge was not returned. I was not able to successfully get XXXX to return the charge so i filed a dispute with citi bank for goods not recieved. \n\nOn XX/XX/XXXX citibank closed the dispute in favor of XXXX. I filed a 30 day demand letter and contacted the XXXX XXXX XXXX and XXXX returned the money. \n\nciti however posted the XXXX to my account a second time. I have contacted citi bank XXXX times to return the money and since closed my account. They have not yet processed the return. I requested a refund for the yearly account fee that they had charged for the upcoming year since my account was closed. \n\nXXXX did not properly investigate my claim. They did not provide me the response from the merchant or contact me for more information. \n\nI am now also requesting a refund for the interest they charged for the invalid purchases posted to my account totaling XXXX 25 % XXXX for a monthly interest rate of 2.08 % XXXX x XXXX = {$15.00} interest per month x 5 months = {$77.00} interest paid from the purchase posted by XXXX 25 % XXXX for a monthly interest rate of 2.08 % XXXX x XXXX = {$15.00} interest per month x 2 months = {$31.00} Citibank also says they do not have the ability to return this interest and have been giving me the run around from department to department."
+}

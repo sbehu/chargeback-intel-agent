@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6466",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "020XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6984,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a prepaid car rental through XXXX, which was fulfilled by XXXX for {$500.00}. When I arrived at the XXXX location in Florida on XXXX XXXX XXXX, I was told I could not pick up the vehicle due to being under XXXX XXXX XXXX despite having already paid for the rental and never being asked for my age during booking. \n\nI offered to transfer the rental to my travel companion ( who was over XXXX ) or downgrade to a lower-tier vehicle I was eligible for. Both requests were denied by XXXX staff. Instead, a XXXX employee told me my best option was to contact XXXX for a refund and rent a different car elsewhere. I followed that advice in good faith. \n\nXXXX submitted a refund request, but XXXX denied it. I was then forced to pay over {$600.00} out-of-pocket for a new rental. I disputed the charge with American Express multiple times, explaining that I was denied service and misled by the merchant. AmEx sided with the merchant based solely on their terms and conditions, ignoring the fact that I never received the product and followed the employee 's advice. \n\nI am asking that AmEx issue a refund for the {$500.00} charge. I never received the service, and their dispute resolution process failed to account for the full context and financial impact."
+}

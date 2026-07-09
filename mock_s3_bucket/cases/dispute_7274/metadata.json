@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7274",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98391"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45158,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased goods ( won the auction ) through an Arizona based auction house called XXXX and the Babes they held onto the goods for 25 days AFTER I paid by Citi XXXX XXXX XXXX credit card. I filed a dispute with Citi XXXX XXXX XXXX on XX/XX/XXXX. on XX/XX/25 Citi XXXX XXXX XXXX sent me an email stating they ruled in the XXXX favor, despite me not receiving the goods, not receiving a tracking number. The Vendor reached out to me on XX/XX/XXXX ONLY AFTER I REACHED OUT TO THEM FIRST. I told them I was going to file a dispute with my credit card company. ONLY then did they say they would pack up my goods and ship BUT they had previously told me the goods were ready to ship So I am out {$720.00} AND I do not have the goods. Citi XXXX XXXX XXXX was completely egregious in this decision and when I contacted them immediately after their decision they were completely useless and unhelpful. The representative just repeated by rote what was in the dispute decision email they sent me. They did not offer any solutions or recourse for their utterly wrong decision."
+}

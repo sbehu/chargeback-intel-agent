@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1719",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90034"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33333,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was a victim of fraud from 2 data breaches at XXXX XXXX XXXX in XXXX and XXXX of 2023. Several applications for credit cards were submitted in my name with different addresses to send the cards - XXXX XXXX, XXXXXXXX XXXX XXXXXXXX XXXX XXXX, THE HOME DEPOT, and more. Because I already had credit cards with these companies, none were issued to the fraudulent applicant EXCEPT THE HOME DEPOT. Despite already having a XXXX  Credit Card, Home Depot doubled my credit limit and sent a card to another address than the one they have for me. Someone in XXXX, XXXX miles away from my own address, charged {$830.00} on this fraudulent card. I did not drive to XXXX and did not charge anything at Home Depot since purchasing my XXXX XXXX, ON-LINE, over a year ago. I am a renter, and all repairs and upgrades to my apartment unit are handled by my landlord. Despite filing a complaint with the Home Depot, XXXX, and XXXX, Home Depot 's \" investigation '' determined that I made the fraudulent application for a card I already had, drove XXXX  miles to the Home Depot in XXXX, bought {$830.00} of things I never buy at Home Depot, and that although I already had a Home Depot card, I applied for another one fraudulently. If you look at my credit report, you would see all the fraudulent applications made in my name at the end of last year after the data breaches of a medical group of which I was a member. You will also see that all those applications were denied by the creditors because I already had a credit card with those institutions. Home Depot should also have denied that credit card because I already had one, and the new application had a different address than my own."
+}

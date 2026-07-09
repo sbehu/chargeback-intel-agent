@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_924",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80538"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7251,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We were charged for an online transaction we did not authorize. The credit card company refuses to acknowledge that we did not authorize the charge. My wife started the process of booking a room and got part way through the process and abandoned the website before completing the authorization process and before getting a confirmation that the booking had been completed. The website indicated we would get an instant confirmation. It began asking my wife questions that made her nervous that the system was a fraud so she did not answer the questions and did not complete the authorization process. She did not receive the promised \" instant confirmation '' number or booking number. She abandoned the website when it started asking her for information she did not want to and did not provide. To her surprise she later received an email indicating that she had completed the booking even though she did not complete their booking process online. She immediately contacted or attempted to contact the parties involved to try get the issue resolved and she proceeded to cancel the booking that she had never made but the email indicated that she had. The vendors refused to acknowledge their fraud. And refused to refund the money. So we disputed the charge with Citi and the dispute was incorrectly characterized as \" no services received '' or something like that. It was not properly characterized as an unauthorized charge. Citi says that since we provided our card information during the process that it doesn't matter that we did not actually authorize the charge or complete the authorization and booking process."
+}

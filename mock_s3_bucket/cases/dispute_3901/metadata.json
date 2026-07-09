@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3901",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33323"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35634,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Request to Reopen Fraud Dispute on Gas Card Balance Dear Citi Bank Customer Service, I hope this message finds you well. I am writing to formally request that you reopen my fraud dispute regarding the balance on my Exxon Mobil gas credit card. I previously reported the transactions on this account as fraudulent and informed your team that my card was lost/stolen. However, I was recently informed that my claim was denied due to an alleged lack of a report regarding the card 's status. \n\nI would like to clarify that I did indeed report my card as lost/stolen at the time of the incident. It is crucial that my dispute is taken seriously and that the fraudulent transactions impacting my account balance are investigated thoroughly. As these transactions are not my responsibility, I request an adjustment of my account balance to XXXX. \n\nAdditionally, I want to stress the urgency of this matter, as I am hearing impaired and can not easily communicate by phone. I kindly ask that all correspondence regarding this matter be conducted via written communication ( email or mail ) as I rely on these means to assist me. \n\nFurther, I would like to highlight that reporting this balance as late or past due to the major credit bureaus would be a violation of the Fair Credit Reporting Act ( FCRA ). Specifically, Section 623 ( a ) ( 1 ) ( A ) of the FCRA mandates that a creditor must not furnish information to a consumer reporting agency that the person knows or has reasonable cause to believe is inaccurate. Since the transactions at issue are fraudulent, I trust that you recognize the implications of reporting this information inaccurately. \n\nPlease confirm receipt of this request, and I urge you to prioritize this matter and conduct a thorough investigation. Your prompt attention to this issue will be greatly appreciated as it affects my financial standing and credit history. \n\nAttached is my secure email using my online account to try and resolve the issue but despite telling that I am hearing impaired and have no other means to contact the response to my secure emails was to call in using phone or TTY. See attached. \n\nThank you for your attention to my request. I look forward to your timely response."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13134",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "KY",
+    "complaint_zip": "422XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6498,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am submitting this complaint against Citibank regarding its failure to conduct a reasonable investigation into an unauthorized transaction, in violation of the Fair Credit Billing Act. \n\nThis complaint is related to a previously closed CFPB case XXXX concerning a {$910.00} charge from XXXX dated XX/XX/year>. However, this filing raises new concerns regarding XXXX investigation procedures and compliance with federal law. \n\nSummary of Issue : Citibank denied my fraud claim based solely on a phone call I made on XX/XX/year>, in which I contacted Customer Service regarding a declined attempt to purchase airline tickets. Citibank incorrectly treated this call as proof of authorization for a completed transaction. \n\nAt no time did I authorize XXXX to process or complete a {$910.00} charge. \n\nKey Facts : I contacted Citibank regarding a declined transaction, not to approve a completed purchase. \nI requested same-day cancellation of the transaction on XX/XX/year>. \nDespite this, the merchant kept the ticket active until XX/XX/year>. \nI did not receive, use, or benefit from any services related to this charge. \nThe transaction was finalized without my authorization after the initial attempt was declined. \n\nFailure to XXXX Reasonable Investigation : Citibank failed to provide or review critical evidence necessary to support its conclusion, including : A recording or transcript of the XX/XX/year> phone call allegedly demonstrating authorization. \nTechnical transaction data ( IP address, device identification, timestamps ) proving that I authorized the completed charge. \nEvidence from the merchant confirming that the service was used or benefited from. \n\nInstead, Citibank relied on an assumption that my inquiry about a declined charge constituted authorization of a separate, completed transaction. This is not a reasonable investigation standard under the Fair Credit Billing Act. \n\nRequested Resolution : I respectfully request that the CFPB require Citibank to : Reopen and conduct a proper, good-faith investigation Provide all documentation relied upon in denying my claim Reverse the {$910.00} charge if no valid authorization can be demonstrated Correct any negative credit reporting associated with this matter Citibanks failure to distinguish between a declined attempt and a completed transaction, and its refusal to provide supporting evidence, reflects a breakdown in its dispute resolution process and compliance obligations. \n\nI am seeking a fair resolution based on documented proof, not assumptions. \n\nSincerely, XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_919",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20832"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49483,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2022, I signed up for a free 7-day period trial offer from the online streaming merchant XXXX. This free trial was cancelled before the 7-day period, it was cancelled on XX/XX/2022. I received both a welcome email and an email stating that my free trial had been cancelled ( by me ) before charges incurred ( this is noted on XXXX 's system that they did in fact received the cancellation and it is noted in the attached email and a customer representative confirmed this information ). Nine ( 9 ) months later I am being charged for transactions/services, for a total of {$480.00}, that I never authorized. I contacted my banking institution, American Express, before contacting XXXX regarding the fraudulent transactions to report them as fraud. American Express at first were able to remove the transactions as they said this was an open and pending investigation and said they were going to be removed while the investigation was completed. A month later the charges reappeared on my statement, and when I contacted American Express about it, they said that the charges were valid and not fraudulent as the merchant, XXXX provided documentation stating that they were done by me. \n\nI proceeded to contact XXXX regarding these transactions to try to understand why I am being charged for something that I never signed up for. In speaking with them, XXXX informed me that they could not do anything regarding the refunds, because this was now with my banking institution [ American Express ], and they could not help me. \n\nI asked XXXX for proof of the sign-up, such as welcome emails, IP addresses, time stamps and other substantial information of where the services originated and anything else they may have, but they said they can not and will not provide any additional information since they have provided all proofs and documents to my banking institution [ American Express ] , but not to me. \n\nIn many occasions I have contacted American Express requesting these documents but they refuse to provide them, since they have claimed that the documents are private and can not be provided to me, even though according to both the merchant and American Express I made the transactions. \n\nMy feeling is that they are hiding information and they are manipulating User 's information in order to generate revenue. Unfortunately, my banking institution is siding with XXXX even though the information has not been provided to me. I am seeking a reimbursement in the total of {$480.00}. \n\nI have reported XXXX to the XXXX, the Federal Trade Commission and my State Attorney General regarding these fraudulent transactions since American Express does not want to help me. If you notice on the XXXX website, XXXX has a pattern, history and precedent of doing this type of activity and washing their hands by saying you never cancelled, and you re-initiated these services. I also want American Express to do a proper investigation where they collect information from both sides not just from the merchant."
+}

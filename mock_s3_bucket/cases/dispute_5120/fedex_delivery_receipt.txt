@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-36315591-US
+Shipment Date:   2026-03-12T00:00:00Z
+Delivery Date:   2026-03-19T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     247 OAK WAY, NY, 51946
+============================================================

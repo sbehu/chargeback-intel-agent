@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8373",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6042"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26695,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a purchase made on my XXXX credit card for items purchased from XXXX totalling {$630.00}. I contacted XXXX about the problem and they were of no help. I cancelled my account with them. I have contacted XXXX Bank XXXX times regarding this matter and all three times I have been told that due to my past purchases from XXXX, that I was responsible for these charges. All my purchases from XXXX were less than {$50.00}. I have never purchased any items for that amount of money. I looked into it on my own. and I saw that the items were sent to a arabic warehouse in New Hampshire. I notified Barclay of this and also gave them the name and phone number to contact these people. They still denied my fraud claim and state that I am responsible for the amount of {$630.00}. This has been ongoing since XXXX XXXX."
+}

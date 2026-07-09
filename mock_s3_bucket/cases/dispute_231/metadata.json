@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_231",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97219"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17592,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I was charged {$82.00} by XXXX XXXX XXXX in XXXX, Oregon. Of that amount, {$27.00} was in unauthorized charges. I reached out the XXXX XXXX XXXX and they informed me that they would provide a refund in the amount of {$27.00} for the charge. That refund did not materialize, so I reached out to Barclay Card to dispute the additional {$27.00} in charges. I began this dispute in early XXXX of 2023 and I received a letter from Barclays dated XX/XX/2023 that a provisional credit would be issued in the amount of {$27.00} for the disputed transaction. I logged into my account and a credit was issued in the amount of {$27.00}, but was immediately rebilled by Barclays for the exact same amount. I contacted Barclays to determine why the rebill was applied and I have not been given a reason and I was informed that a letter explaining the reason would be provided. It is not XX/XX/XXXX and I have received no such letter from Barclays and I have called multiple times with no resolution and no explanation as to why I have been rebilled, after I was informed that a credit in the amount of {$27.00} was authorized."
+}

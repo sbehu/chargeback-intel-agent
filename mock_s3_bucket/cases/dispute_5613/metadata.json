@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5613",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33178"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30574,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I submittied two billing disputes to my Citi XXXX for XXXX XXXX XXXX. The two disputes were for the same service, there was an initial deposit of ( {$1100.00} ) and this one for ( {$1200.00} ) which was the final payment which I paid once I picked up the vehicle. The one for {$1100.00} was credited and successful and the second was not. The only difference between them was the categorization. After going back and forth with the CITI dispute team, it was noted that the categorization was Services not received and should have been Services not as expected.. This was supposed to be noted and inputted to the dispute by the team member I spoke to in XX/XX/XXXX, right after I submitted the dispute, but never was. The other dispute, which included the same exact proof and explanation was successful, while this one wasnt seemingly due to a categorization misinterpretation. Additionally the Citi dispute system does not allow me to change the categorization and I cant withdraw the dispute and open another one. \n\nI have re-attached all the proof of the conversation with the merchant, where I sent them photos and reached out and they have ignored me. In addition to the service being installed incorrectly, they have also damaged by vehicles paint. The service that I paid for was for installation of paint protection film on the vehicle, which is a clear wrap to protect the paint from road debris and protect the paint. As noted in my messages to them, they damaged my paint and all the film was lifting and bubbling. Once again, all of this is shown in the images attached. During this whole process, the merchant ONLY reached out to me on XX/XX/XXXX, and I am still awaiting there response to this day. \n\nThe CITI supervisor I spoke to, in XX/XX/XXXX, credited me {$250.00} for the \" Inconvenience '' and told me there was nothing to be done. I can't submit another chargeback and they can't change the category. This is very frustrating, as I now just lost almost {$1000.00}"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6878",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11793"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18419,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an item which I returned. Tracking shows returned item was received on XX/XX/year>, and I received an email stating the returned item was received and a refund would be issued. Refund was not issued. I have called in excess of 4 times trying to get this resolved. Amount of refund should be {$61.00}. I now have accrued interest even though I have called trying to rectify this issue several times. My balance is now {$63.00}. It will gain {$2.00} per cycle. I will not pay this because it should have been refunded. I would like all charges waived once this is straightened out."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6451",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77505"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "For as long as the online history would go, I have been charged {$110.00} every month on the XXXX from XXXX XXXX XXXX XXXX XXXX. I have services with XXXX XXXX XXXX and thought these charges were connected to the services I had signed up for. I then started to change the billing from my AMEX to another card and noticed that the amounts on my XXXX XXXX XXXX XXXX, did not match to what was being charged to my AMEX. I chatted with XXXX XXXX XXXX and they looked up multiple accounts and could not find anything under my name or accounts that matched the {$110.00} I was being charged monthly. Since they could not find the charge, they could not stop or cancel the charge. I then contacted AMEX to dispute the charge and they did, but as \" Paid through other means '' instead of fraud. This caused the dispute to need additional documentation. i.e. statements showing that the payment was coming out of another card or bank account. Since this was fraud, I had no other statements to show with that amount. So I chatted with AMEX again and they are refusing to dispute the charge since they state that it is a subscription, and I would need to cancel with XXXX XXXX XXXX. But again, XXXX XXXX XXXX has no record of anything under my name for that amount. So they can not stop something that they can not locate in their system. No matter how many times I stated that they ( AMEX ) is required to dispute my transactions, they refuse to."
+}

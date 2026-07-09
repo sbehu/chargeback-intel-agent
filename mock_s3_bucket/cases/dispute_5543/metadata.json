@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5543",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "AR",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13716,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The XXXX XXXX dealership replaced my tires with last year 's inventory and sold them to me at a price higher than the market rate. I traveled a long distance to pick up my car from their store, and if I hadnt paid at the time, they wouldnt have given me the car, leaving me unable to get home. After returning home, I discovered that the tires were from old stock. \n\nNow, Amex has stripped me of my rights to dispute this charge simply because the merchant provided evidence of my signed transaction, which I find unfair and one-sided. You cant deprive me of my rights as a consumer to argue for a refund just because I signed under those specific circumstances. I believe this isnt the approach of an American company. \n\nI now request to reopen the dispute for this charge. \n\nNew dispute information : XXXX XXXX XXXXXXXX"
+}

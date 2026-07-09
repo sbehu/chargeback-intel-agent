@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8143",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "120XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34530,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I made a purchase on a website for {$57.00}, this website never responded to any requests for a shipping update, never shipped any items and I have not received any items from the website. The website now no longer exists and was a fradulent website collecting purchases and never fulfilling that obligation to customers. I notified my credit card company that this purchase was at a fradulent website and they have responded that they can't do anything about it, despite no services being fulfilled and my not receiving the items ordered."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7193",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78741"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36034,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX XXXX in XXXX. XXXX delivers through a company called XXXX XXXX. They were unable to deliver the bike at a date and time that I am available so I cancelled my order over the phone with XXXX XXXX at XXXX. My cancelled order was accepted, the merchandise was not sent to me, and XXXX said they would refund my card in full. When they did not refund my card I reached out to my bank and filed a dispute. Citi bank credited my card the full amount of {$1500.00} while investigating my dispute. I recieved an email from Citi card XX/XX/XXXX stating that my refund was found to be my resposibility because the merchant wrote them that I have a membership that was not cancelled and that I was refunded {$1.00}. Neither of this is true. I did not dispute a membership or subscription, I disputed the purchase of a bicyle, which was neve even delivered. The merchant also never refunded me {$1.00}. I called XXXX they apologized and said they had issued a refund. \nI called Citibank and was told a letter would be sent to me and then I was hung up on. I called back and spoke to a supervisor and was told 1. They see that the information of a membership/subscrition was incorrect, it was itemized by XXXX and myself as a bicycle. 2. that a {$1.00} was never refunded. \nI dont understand why Citicard would take the respnse from XXXX and not compare it to the information I gave as well as not look into the transaction of {$1.00} and see that never happened. Why didnt Citi card call me and talk with me before simply reversing my refund. \nThe superviosr I spoke to a Citi card said to wait for the XXXX refund and if it didn '' t come though to call Citi card back for help. \nI never recieved the refund so I called Citi card and finally was given an email to send all my doccumenation to prove that the merchant had recieved and accepted my cancelled order and in fact was going to refund me in full. I emailed 5 different letters from XXXX form different employee saying that they did in fact accept my cancelled order and where going to refund me in full the XXXX. I also included and email of the delivery cancell with the delivery compamy XXXX XXXX. \nNot 24 hours later Citi bank sent me a letter though email that they had resolved my dispute and not in my favor stating that they did not have any documentation from the merchant that my cancelled order was accepted and that they would refund me in full. There reason for closing my dispute was the very proof I had sent just the day before. I called again repeatley asking to speak with an inversgator and supervisor. I was told no every time. Only that an email would be sent to someone and they would get back to me in 3-7 business days. I also called and spoke with XXXX  and they send me an email that said that they had tried to refund my Citicard multiple times but that because of the dispute, or chargeback they were blocked from doing so. They said that if Citicard would remove the dispute they would issue the refund immedialty. When I shared this Citi card rep they told me they could do nothing for me, and that the dispute was already closed. I still could not speak with anyone who had any power to help me. I do not know where to go from here as I have documentaiton from the merchant that I am to be refunded in full, they have tried but are blocked by Citicard. Ican not speak with anyone at Citicard."
+}

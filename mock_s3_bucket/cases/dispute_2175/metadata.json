@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2175",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98023"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18040,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is for the disputes : XXXX, XXXX, XXXX, XXXX, XXXX, XXXX, XXXX. \n\nOn XX/XX/XXXX, I booked flight for my family on XXXX for a total of {$21.00}. However, it appears that they charged me 7 times of {$890.00}. This is an overcharge which is already investigated by XXXX XXXX and as well as XXXX. I contacted them by phone on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX. They got back to me on XX/XX/XXXX promised me a refund by email by sending me a credit slip. XXXX XXXX also emailed me back on XX/XX/XXXX confirming the same. Please see the attached email of confirmation for the evidence. Please help me with this dispute and get my money back. \n\nI contacted AMEX on XX/XX/XXXX to file disputes for those charges. As those charges are at the same amount, AMEX customer service and dispute team agent had a hard time to file them correct. As of today, after many re-open and explanation to AMEX, the people are still messing up the dispute reason for these disputes and this is the main reason why I can not get my money back. AMEX agents open duplicate, wrong dispute that made there are more than 40 disputes opened for 7 charges. I understand this might be confusing but this could be handled in a much more professional way. See attached file for the confusion. \n\nI would like to dispute this as XXXX ( the travel agency ) wrongly charged my account and XXXX XXXX ( The airline ) already confirmed that. They all promised me a refund for all 7 charges more than 4 weeks ago and till now I have not received anything. See attached file for the evidence from Airlines and Agency."
+}

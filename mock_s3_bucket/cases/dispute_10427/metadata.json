@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10427",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30152"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11941,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "See prior Complaint # XXXX Moneys via ACH draft were taken out of our XXXX XXXX checking accounts. The ACH drafts were initiated by AmEx. The money was never credited to any of our Amex accounts. We called AMEX to see why they didn't credit our accounts, since they drafted the money from OUR checking account, and we were advised that they could not discuss the matter with us since we were not the cardholder where OUR money landed or credited. \nWe tried to no avail with XXXX bank ( XXXX claim # XXXX ) which CFPB reported that XXXX told them there was not a claim number issued. \nXXXX bank claims they just honored the XXXX draft that Amex presented. AMEX Claims they received the monies but won't tell us what they did with them. Are they unapplied cash?"
+}

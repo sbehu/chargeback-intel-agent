@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1004",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10583"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8325,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I needed roadside automotive assistance. The company that was dispatched to assist me, \" XXXX, '' informed me that I needed a new car battery, which they provided at a charge of {$220.00}, which I placed on my Citibank Mastercard. XXXX  verbally promised that documentation ( proof-of-purchase and warranty ) would follow. These were never received despite two voice messages left with XXXX in XXXX, as well as text messages left with XXXX on XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX. Meanwhile, I began to have problems with the new battery, and being unable to reach XXXX, I called the battery manufacturer, who informed me that, based on the serial number provided, the battery was likely not new but rather a \" salvage, '' taken from a junked  car and cleaned up to look new.. \n\nXXXX has no physical presence ( no store, no office ) so I can not return the battery to request a refund and, as noted above, they have not responded to my texts or voice messages. \n\nI therefore contacted Citibank Mastercard on XX/XX/XXXX to request to dispute the charge. I spoke first with a representative, \" XXXX, '' and then with a supervisor, \" XXXX. '' Both refused to accept my dispute on the grounds that I still have the battery; according to them, I would have to return the battery in order to dispute the charge. I pointed out that XXXX has no physical location and has not responded to my texts or voice messages and asked how, in the circumstances, I could possibly return the battery. They had no answer, but told me that this was \" Mastercard rules ; '' when I asked what more I could do, or they could do for me, XXXX replied \" nothing. ''"
+}

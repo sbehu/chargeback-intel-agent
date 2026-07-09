@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5643",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30534"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 685,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/scrub> 2024, we had many fraudulent charges on this credit card. We do not use this account, but there were XXXX  charges to an XXXX account we do not own. We disputed the charges and barclays resolved it in our favor. But they credited our account for the same transactions multiple times. Then cleared the balance and later returned all thr credits to our account, putting each original dispute transactions back on our balance, but 3 to 4 times per transactions. We've called about 10 times, and every time we spend hours on the phone being sent from one person to the next until they say a manager needs to call us. They say we'll get a call within 24 to 48 hours. We either never do, or when barclays calls, there is no one on the line. Just silence. I've stayed on the call for 2 plus minutes. All you hear is this call is being recorded and then total silence no one on the call. I've also sent a letter by mail and received a response saying we need to call. Which I did, spent 1 hour and 43 minutes on the call to be told customer service will call me back. Our current balance is almost XXXX of duplicated charges and we can't get any answers."
+}

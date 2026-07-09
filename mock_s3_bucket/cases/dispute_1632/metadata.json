@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1632",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "117XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11846,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraudulent transaction on my Citibank credit card used to purchase tickets via XXXX for XXXX XXXX XXXX game on XX/XX/23 in XXXX. I've never been to a football game in XXXX, I live XXXX miles away. XXXX sent these tickets to a email address ( and IP address ) that is not mine. In fact Citibank notified me of this charge and closed out that credit card & issued me a new credit card because of this transaction. Citibank gave me a provisional credit on XX/XX/23 but then on XX/XX/23 reversed that charge saying that they have closed their investigation and determined it was a valid charge ( see attachment ). XXXX emailed these tickets to \" XXXXXXXX XXXX XXXX '' ( see attachment ) and that person enjoyed a football game at my expense. I have visited & spoke to Citibank on numerous occasions but they are not willing to do anything. I'm in the process of closing out my checking & savings accounts at Citi."
+}

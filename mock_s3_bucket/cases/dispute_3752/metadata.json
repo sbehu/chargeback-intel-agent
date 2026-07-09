@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3752",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "782XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32630,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is in regards to a CitiBank XXXX XXXX AAdvantage credit card that I currently hold. \n\nUnauthorized charges appeared on the account XX/XX/XXXX from XXXX XXXX for {$1400.00} each. I had reported the activity immediately to CitiBank immediately and they sent me a new card and directed me to their customer service team to make a dispute. The last call I had made to the Citi Bank customer service team ( XXXX ) in the middle of XX/XX/XXXX, someone named XXXX from their team assured me that the XXXX unauthorized charges and interest charges would be credited by XX/XX/XXXX, after the closing of the previous billing cycle, however the charges have not been credited to my account as of XX/XX/XXXX, which is two billing cycles after the unauthorized charges occurred. \n\nI have made several phone calls and spent several hours speaking with their customer service and fraud teams and have yet to see resolution to the matter. \n\nSummary of the unauthorized/disputed charges : # XXXX : XX/XX/XXXXXXXX XXXX XXXX  {$1400.00} XXXX XXXX : XX/XX/XXXX XXXX XXXX {$1400.00} # XXXX XXXX XX/XX/XXXXXXXX XXXX XXXX  {$1400.00} Intertest charges incurred as XXXX result that the customer service team ( XXXX ) assured me would be credited back to my account : # XXXX : XX/XX/XXXX : {$61.00} # XXXX : XX/XX/XXXX : {$120.00}"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_657",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33462"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24641,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a fraud claim with Barclays US. \nMy claim was denied claiming that the company produced evidence of the charges validity. The evidence was not explained to me. The representative, XXXX, told me that it should have been filed as a dispute rather than fraud, and that she was unwilling to allow me to file a dispute for the illegitimate charge. \n\nShe told me that I had no choice but to pay the fraudulent charge and that if I did not, I would continue to accrue interest and late payment fees. I was left with no other recourse but to file a dispute against Barclays US. I have never had a credit card company be so rude and unhelpful, and I have had cards with multiple other companies. Stay away from Barclays US!"
+}

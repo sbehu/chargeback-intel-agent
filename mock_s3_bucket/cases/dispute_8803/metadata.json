@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8803",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36225,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Citibank failed to properly handle a billing dispute involving a purchase and return I made overseas. \n\nOn XX/XX/year>, I made an in-person purchase at XXXX XXXX XXXX XXXXXXXX XXXX XXXX, XXXX using XXXX XXXX credit card ending in XXXX. I returned the merchandise in full at the same store on XX/XX/year>, in accordance with the stores policy. The merchant acknowledged the return in person but failed to issue a refund. \n\nI opened a billing dispute with Citi under the Fair Credit Billing Act ( 15 U.S.C. 1666 ). Citi initially issued a conditional credit while investigating but later reversed it, stating that the services or merchandise were provided. This finding is incorrect, as the goods were returned and the merchant did not refund me. \n\nI called Citi on XX/XX/year> to appeal the decision. The representative informed me that the dispute would be reopened. However, despite this assurance, Citi failed to actually reopen or process the appeal, leaving the issue unresolved. \n\nI have since provided a signed sworn declaration from myself attesting under penalty of perjury that the return occurred exactly as described. The merchant retained the goods and the payment, and XXXX has not enforced my rights under U.S. and international consumer-protection law. \n\nThis situation violates consumer-protection principles outlined in the Fair Credit Billing Act and under XXXX Directive XXXX on Consumer Rights, implemented in XXXX through the Consumer Protection Law XXXX ( I ) XXXX, which mandates that merchants issue refunds promptly for returned goods. \n\nI am requesting the CFPBs assistance in ensuring Citi properly reopens and adjudicates this dispute and issues the appropriate refund."
+}

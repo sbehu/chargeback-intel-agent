@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3760",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90063"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16692,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have fallen victim to a scam of an online gaming/casino site. My understanding as to the rights I have as a consumer is that I have the ability to dispute charges that were made from a company that provided products that were not provided as advertised. I tried to dispute the charges in the amount of {$14000.00}, but am unable to get my money back due to CitiBank not doing their due diligence initiating an adequate investigation. I have written letters to and tried to dispute these charges with CitiBank, explaining what happened. I have not yet paid any of the charges due to me still disputing the charges with them. CitiBank has told me they are reporting it to the credit reporting bureaus and it will/already has hurt my credit score. I am not satisfied with the results of the disputes made with CitiBank. I don't feel like they made a valid effort on their part to assist me as a customer and consumer. I did not see any evidence of any real effort on their part to determine whether or not XXXX XXXX ( XXXX XXXX XXXX ) was in fact an illegal scam site, designed to lure people like me and steal their money. There was no effort to figure out what exactly happened to me either, for example, the merchant locked my account and stole the money. In my own investigation, I have learned there are multiple lawsuits against XXXX for operating an illegal gaming site and for fraud. CitiBank has not conducted any sort of investigation into the veracity of these complaints, which it should have done. Attached here are three pieces of evidence proving that XXXX XXXX is a scam website, stealing victim 's money and not providing what is advertised. XXXX XXXX XXXX XXXX is forced to cease operation in Delaware. XXXX XXXX XXXX XXXX faces class-action lawsuit in GeorgiaXXXX XXXX XXXX XXXX AGA and State regulators increase pressure to shut down XXXX. I also deserve my money back because of Fair Credit and Billing Act ( FCBA ) and Federal Law ( 15 USC 1666i ). See attached law."
+}

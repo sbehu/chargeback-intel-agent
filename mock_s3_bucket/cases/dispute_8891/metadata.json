@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8891",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91710"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1148,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Myself and my friend shopped at the restaurant supply store on XX/XX/year>, we were both then victims of fraud from XXXX XXXX XXXX  for a {$40.00} charge at the same time on our credit cards. Neither of us have ever been to the place and it is known for fraud. I called XXXX XXXX, Barclays and they said that they would look into it. I then got a letter a month later stating I made the charge myself since the card was in my possession and the charge went back to my account. I called back and XXXX said theres nothing they can do about it."
+}

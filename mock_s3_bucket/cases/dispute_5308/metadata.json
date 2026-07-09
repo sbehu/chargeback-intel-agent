@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5308",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85234"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44089,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, my vehicle was XXXX  by XXXX XXXX XXXX XXXX in XXXX XXXX. Upon retrieving my XXXX, I was charged {$220.00}, which I paid under protest. I later discovered that this amount exceeded the maximum towing fee of {$100.00} permitted under XXXX XXXX XXXX XXXX ( C ) ( XXXX ). Additionally, I was charged a {$50.00} storage fee, despite retrieving my vehicle within XXXX hours of the XXXX XXXX XXXX opening, which should have exempted me from any storage fees as per XXXX ( C ) ( XXXX ) ( d ). Furthermore, I was charged a {$50.00} after-hours gate fee, a charge not authorized by the city code. \n\nMoreover, XXXX XXXX XXXX XXXX did not provide me with an itemized invoice prior to processing the payment, denying me the opportunity to review and contest the charges beforehand. \n\nI disputed this charge with American Express, providing documentation of these violations. In response, XXXX XXXX XXXX XXXX submitted evidence that included unauthorized photographs of my driver 's license and credit card, taken without my consent. This action violates American Express 's policies, which prohibit merchants from disclosing, using, or storing XXXX XXXX beyond what is necessary to facilitate transactions. Specifically, the American Express XXXX XXXX XXXX states : XXXX \" Merchants generally must not disclose Cardmember Information, nor use nor store it, other than to facilitate Transactions at their Establishments in accordance with the Agreement. '' Despite my efforts to resolve this issue directly with XXXX XXXX XXXX XXXX, including requests for their insurance information and compliance documentation, the company has not provided the requested information. Additionally, they refused to release my vehicle until I paid the disputed fees, effectively holding my XXXX XXXX which is prohibited under XXXX XXXX XXXX XXXX ( XXXX ). Therefore, according to XXXX XXXX, the XXXX XXXX is not entitled to the fees they imposed. \n\nAmerican Express initially denied my dispute. Given the documented violations of city code and the improper handling of my personal information, I am seeking a reconsideration of this decision and a full refund of the disputed amount."
+}

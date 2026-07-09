@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9784",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42354,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX Barclays XXXX XXXX XXXX XXXX for Undelivered Services To the Consumer Financial Protection Bureau, I am filing a formal complaint regarding Barclays handling of a chargeback dispute for {$6900.00} involving the merchant Unplugged Concepts. \nWe disputed the charge under services not rendered/ not as described. Despite this, Barclays accepted the merchants rebuttal without requiring proof of actual delivery or access to services. \nKey facts : No activation email was ever received No login credentials were ever provided No access instructions were ever given No bookings or reservations were made No services were ever used or delivered The merchant claims an activation date but provided no evidence that activation was communicated to us or usable. Access that is never delivered is not a service. \nAdditionally, the transaction receipt reflects an XXXX  address mismatch, which should have warranted heightened scrutiny for a high-dollar charge. \nBarclays acceptance of a merchants internal assertion of activationwithout proof of deliveryfails to protect the consumer and contradicts fair dispute resolution standards. \nI respectfully request that the CFPB require Barclays to reassess this dispute with proper consideration of service non-delivery. \nThank you for your attention to this matter. \nSincerely,"
+}

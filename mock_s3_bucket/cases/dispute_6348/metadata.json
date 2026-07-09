@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6348",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "081XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15014,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a balance transfer from citi card to pay my chase card. Citi is saying I didn't input the account number correctly and they paid a different account ( which I do not own presumably bc i only own one chase account ) they will show me no proof of this. Now I'm responsible for the XXXX that they paid to an account that's not mine. Why was the name and social not verified and now I'm liable for money that paid someone else 's account?"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6053",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94520"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4832,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I obtained a credit card from Citibank last summer and was approved for {$1800.00} and I added my son XXXX XXXX as an authorized user. \n\nHe used the card as a deposit for a car rental but he used his own bank card when he returned the car a week later. XXXX stated that the deposit/hold on the Citibank card would fall off after a few days which it did. But they then charged {$1200.00} to the Citibank credit card which we never authorized. Not only that, we didnt even have the available credit of {$1200.00} on the Citibank credit card the day the charge posted. So Citibank approved something unauthorized and also put us over the credit limit of {$1800.00}. \n\nWe contacted XXXX and they sent us in circles. So we decided to file a dispute. We filed the dispute back in XXXX and have sent numerous emails, have spent countless hours calling them, and they have even hung up on us after being transferred from XXXX department to another with no resolve. \n\nThis has decreased my credit score by more than XXXX points. We dont know what to do anymore and for this reason is why we are filing this complaint."
+}

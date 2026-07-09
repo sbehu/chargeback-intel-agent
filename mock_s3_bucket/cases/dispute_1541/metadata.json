@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1541",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34293"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11299,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a long running dispute over a series of charges made on my Citibank mastercard. \nMy issue was with a charge made with XXXX XXXX of XXXX on XXXX and subsequently on XX/XX/XXXX of XXXX. I errred when using their online app and wound up charged three times ( {$1900.00} ) for my annual service of {$640.00}. I was instructed to contatc the merchant for a refund. Merchant said they would process, but did not tell me there would be a credit of {$1200.00}. Because of that, I initiated a dispute with Citibank. They did provide me with an account credit of {$1200.00}. Unfortunatley, their recovery from XXXX coincided with a return provided by the merchant resulting in a double dip. XXXX recharged, without authorization the {$1200.00}. \n\nI asked to dispute this, both by using Citi 's online system and through their actual reps to no avail. I've been attempting to address this with Citi to no avail and received a notice that I will have to pursue resolution on my own end/by other means. \n\nPlease help"
+}

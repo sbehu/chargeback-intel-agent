@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-22710266-US
+Shipment Date:   2025-10-28T00:00:00Z
+Delivery Date:   2025-11-01T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     2480 RIVER WAY, CA, 90069
+============================================================

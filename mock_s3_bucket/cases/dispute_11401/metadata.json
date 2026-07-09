@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11401",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "79907"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40728,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding the handling of a billing dispute by Barclays. \n\nI made a purchase with XXXX XXXX XXXX in which bonus points were explicitly included as part of the contract. These bonus points were never delivered. \n\nBecause the bonus points were a material part of the agreement, the merchant failed to fulfill the contractual terms. I disputed the charges with Barclays on the basis that services were not delivered as agreed. \n\nAlthough I contacted Barclays and requested an investigation, the issue remains unresolved. I am concerned that my dispute is not being properly handled under the Fair Credit Billing Act. \n\nThis complaint is about Barclays ' handling of a billing dispute related to a transaction where contractual obligations were not fulfilled."
+}

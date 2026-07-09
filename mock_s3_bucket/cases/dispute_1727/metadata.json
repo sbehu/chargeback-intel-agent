@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1727",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KS",
+    "complaint_zip": "67216"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37382,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recently opened a Best Buy credit card issued through CitiBank. On XX/XX/2024 I purchased a tv antenna from Best Buy.. The total price including sales tax was {$53.00}. At the sale register I explicitly said I did not want to put this charge on my Best Buy credit card. I said i wanted to use XXXX XXXX on my cell phone to charge it to my bank credit card. The Best Buy associate need to place the charge on the credit card device so I could use my cell phone. A couple of days later I checked to see if a payment I made has posted at which time I saw the {$53.00} charge that should not have been there. I called the phone numbers I had and talked to a man I think was at Citibank. I explained the problem and he helped me file a dispute. Over the next several days and weeks I used screen prints and and printed details of my XXXX XXXX card showing the payment was made to that card. I sent those in the comment section of the dispute and made additional phone calls. on XX/XX/2024 I received a letter from Best Buy Credit Services that included a number to fax additional documentation. I faxed the data I had copied from my XXXX account showing the {$53.00} had been paid by my XXXX  XXXX XXXX XXXX XXXX. I made another call with no results. The charge is still on my Best Buy card."
+}

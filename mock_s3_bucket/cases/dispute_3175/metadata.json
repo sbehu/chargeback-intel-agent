@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3175",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90046"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20870,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "For the second time in a year, I have a large charge on my Citi XXXX XXXX retail credit card which I did not make. This is regarding my former account ending in XXXX. It should be noted, Citi notified me this card program was ending and my account would be closed on XX/XX/2024. However, Citi charged me {$1100.00} on XX/XX/2024... I did not make or authorize this charge. It's unclear to me how it's possible a charge could be made to account I was informed was closed, but here we are. Since the account is closed, there is no way to dispute this charge through the website. I have sent several messages, but have not received a response."
+}

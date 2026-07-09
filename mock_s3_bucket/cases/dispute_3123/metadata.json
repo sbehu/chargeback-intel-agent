@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3123",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "883XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11452,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom it may concern, On XX/XX/year>2024 i visited my local Home Depot store for some home improvement items. After selecting the items i wanted to purchase i headed to the front of the store. As i approached the check out register i was greeted by a store XXXX and an older lady, also an employee. They asked me if i was interested in applying for The Home Depot Credit Card and that if i was approved for the card i would receive a discount in the amount of {$25.00}. I accepted the offer and gave the lady my information as she entered it on a self checkout register. I was approved for the card and completed my transaction. I didn't use the Home Depot card for my purchase, i paid for my entire purchase order with my debit card. I do have my original receipt from the store and i also have my transaction history from my card showing that money was removed from my account for a in store purchase. The lady told me that i would be receiving my physical card in the mail within XXXX days. I got it almost XXXX weeks later. They did not tell me that the card comes already activated. I still have not used this card at all so there is no possible way to have a balance owed. I put the card in my wallet and have not used it. I started to get phone calls from \" Citi '' and Home Depot harassing me about a past due balance and I needed to resolve it immediately. I was getting XXXX calls every day. I spoke to XXXX or XXXX people XXXX of the times, none of which had matching information and none of the numbers added up to any of the amounts owed. I was told that the balance was the amount of the discount i received when i singed up, not true. Then it was from part of my purchase that wasn't paid for with my debit card, not true. Then i was told it was from an online purchase and late fees, again not true. I requested copies of what they were seeing on my file to be emailed to me so I could compare to my original receipt, I was told that they could not do that but i could send them my original receipt so that they could put it with my file in the event that i may dispute the charges in question. I told them, \" I have been telling you for the past XXXX hours that i was disputing the charges and for the XXXX time requested a XXXX in a higher position and after a long wait was finally transferred. No attempts of a resolution were made and no \" investigation '' was opened. I informed the call center representatives that i would be filing a complaint with CFPB, they responded with \" that's fine go ahead and see where that gets ya ''. Ended the call and here we are today. My credit score has been drastically lowered by XXXX points due to the inaccuracies reported by Home Depot/Citi . My husband has also spoke to them and informed them that if they continued to harass me they would be charged {$50.00} for every time they contacted me, the representative agreed to it and notated my account. Since that agreement i have been called XXXX more times and received XXXX notices via USPS mail. I paid in full for my purchase without receiving the {$25.00} discount promised to me by the XXXX."
+}

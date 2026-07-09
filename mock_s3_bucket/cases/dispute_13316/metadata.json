@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13316",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43919,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a credit card charge for services not rendered and the inability to dispute the charge. \n\nI was charged {$350.00} by XXXX XXXX XXXX XXXX XXXX ) for a flight. I initially filed a dispute with Citibank, but canceled it after the merchant indicated a refund would be issued. \n\nCitibank has confirmed that after I canceled the dispute, the funds were released back to the merchant ( reference XXXX, posted XX/XX/2026 ). \n\nHowever, the merchant never issued a refund, and I did not receive the flight service. I currently have : * No ticket * No service provided * No refund issued Citibank has refused to allow a new dispute on this charge, stating that the previous dispute was canceled. This leaves me with no recourse despite being charged for a service that was never provided.\n\nI am requesting that Citibank : 1. Allow a new dispute or reopen review of this charge under services not rendered, or 2. Otherwise assist in recovering the funds from the merchant.\n\nThis is a charge where I paid but received no service and no refund, and I am seeking resolution."
+}

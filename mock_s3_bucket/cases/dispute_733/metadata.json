@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_733",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "932XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39626,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went to XXXX XXXX XXXX XXXXXXXX XXXX XXXXXXXX, CA to purchase skateboard parts for my stepson and his friend. Upon arrival during normal business hours, I saw that the store was closed with a sign that provided a phone number for a representative to open the store. I called and spoke with XXXX XXXX, the store owner, and she asked that we meet her at the front door so she could open the store for us. We then found the parts ( trucks ) {$64.00} and went to the register to process the purchase. However, XXXX was struggling to process my credit card and requested to run it multiple times. My stepson stayed in the store, while I walked out to take a call. My stepson then followed me with his parts and was not given a receipt. The store owner then closed the doors giving me no access to go back in for a receipt. Before leaving the parking lot I called Barclays to confirm the charges, since she ran my card multiple times. I spoke with a customer service representative that confirmed there was only one charge for {$64.00}.\n\nA few days later I went to the grocery store and attempted to use my card but was declined. I then called customer service and I was told that my card had a lock due to potential fraud. I called customer service when I got home and was told that my card was locked due to a {$660.00} charge from XXXX XXXX XXXX XXXX. I explained to the representative that the charge was incorrect and shared what happened with the store. I immediately called the store, and the manager did not answer. I then began a text conversation with her where she acknowledged she had made a mistake. See attached text message print. \nIve had multiple conversations with your customer service department about this incident. I called in to the concierge service and spoke with a representative who identified herself as a manager, and she advised me that this would be resolved, and I would not have to worry about this. She suggested that I call back after XX/XX/XXXX because my account would be credited by then. \nI subsequently learned that Barclays had sent letters to my old address with a determination that my request to credit the {$600.00} charge was denied due to not having a receipt. When I did receive this letter, I called Barclays on XX/XX/2023, and the customer service rep explained that there had been a decision made and to resend the text messages and to request the dispute be reopened. I immediately faxed a request to reopen my dispute and sent copies of my text conversation with the XXXX XXXX XXXX XXXX where she admits the processing error and stated she would credit the account. \nIts now XX/XX/XXXX and there has been no resolution. Ive driven to the skate shop multiple times and the store is always closed. Ive also called the owner multiple times with no response. I do not believe that my dispute has been handled by Barclays with appropriate consideration. I do not understand why my card was flagged by Barclays for fraud, and I am appalled by the misrepresentation of your concierge service representatives. Satisfactory resolution would have been to reverse the {$600.00} overcharge. \nI've submitted a letter to Barclays sent to Barclays Card Services XXXX XXXX XXXX XXXX, DE XXXX with this description and a complaint to the FDIC. \n\nThank you for your attention. Your assistance with this matter is appreciated. See attached text correspondence with Retailer Manager/Owner where she acknowledges the overcharge and states she will credit the account, but clearly lied and upon further research in the community I was told by other consumers that they have experienced same issues and have a history of fraudulent activity. \n\nBest, XXXX XXXX"
+}

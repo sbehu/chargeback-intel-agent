@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11207",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "631XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42933,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding American Expresss handling of a billing dispute for services not delivered as agreed. On XX/XX/year>, I prepaid {$720.00} with my American Express card for hair extensions and color services from a merchant on behalf of a secondary cardholder on my account, XXXX XXXX. The merchant required payment in advance to purchase the extensions and confirmed the requested hairstyle and color before the appointment. \n\nThe merchant did not perform the color service included in the agreed price. When XXXX asked about the missing service at the end of the appointment, the merchant stated it was too soon to color and told her to return in a few weeks. Within XXXX to XXXX weeks, the extensions began loosening and falling out. XXXX contacted the merchant to resolve the issue and was told to schedule another appointment and pay an additional fee to retighten the extensions. When XXXX also asked about returning for the XXXX service already paid for, the merchant responded with confusion about the color request despite earlier confirmation. \n\nBecause the merchant did not complete the agreed services and refused to correct defective work without additional payment, I filed a dispute with American Express. I submitted supporting documentation, including screenshots of text messages between XXXX and the merchant showing attempts to resolve the issue and the merchants refusal to remedy the incomplete and failing services without further payment. \n\nAmerican Express denied the dispute and closed the case. I requested reconsideration and provided the same documentation again, including the text message exchanges showing the merchant acknowledging the need for a new appointment and additional payment to correct the extensions and failing to complete the prepaid color service. American Express denied the dispute again and ultimately closed the case after multiple submissions despite the documentation provided. \n\nI am requesting that American Express review this matter again and explain why the documentation provided does not qualify as evidence of services not delivered as agreed. The merchant did not complete the prepaid services and refused to correct the defective work without charging additional fees. I believe the charge should qualify for dispute protection under American Express policies for services not rendered as agreed."
+}

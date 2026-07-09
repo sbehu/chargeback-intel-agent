@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_609",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "75227"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36347,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I was charged {$210.00} for a \" Best Buy Renewal ''. I was unaware of this charge to my credit card account until XXXX when I received a call from Citibank, who administers Best Buy credit cards, informing me that my account was \" past-due ''. I was surprised by this as I had not made any purchases using my Best Buy credit card. I was advised by the Citibank representative that they could not resolve any issues with the charges and that I must contact the \" XXXX XXXX '' as they had initiated the charges. \n\nOn XX/XX/XXXX I contacted the XXXX XXXX, which is a technical service department of Best Buy, and was told that the charges were for the renewal of a \" service plan ''. I advised them that I had not initiated any request for a service plan and declined the \" purchase ''. The told me that, because I had contacted them more than 30 days past the \" purchase '' that they could only offer me a prorated refund of {$170.00} and a refund of some late charges that had accrued. I requested that all charges be removed from my account and any \" past due '' notices sent to the credit bureau be corrected. They advised me that only Citibank could make those changes. \n\nI determined that the notifications associated with this \" purchase '' and \" past-due '' notices were sent to an obsolete email address, so I never received them. I have been unable to resolve this matter with Best Buy, Citibank or the XXXX XXXX as each entity says I must talk to the other."
+}

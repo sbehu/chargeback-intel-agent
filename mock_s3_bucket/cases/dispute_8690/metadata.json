@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8690",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30341"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41973,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "in XX/XX/year> I purchased XXXX  from a pop up store in XXXX, GA, XXXX XXXX. Amount of {$10000.00}. I promptly returned the product the following day and had a heated discussion with the merchant. I left all o the product just as I had received it on the floor at this feet and immediately left. I immediately filed a dispute with AMEX, which they denied. So I am expected to pay the {$10000.00} for product that I no longer have. I contacted XXXX XXXX ( XXXX XXXX ) the merchant. He informed that he closed his pop up shop and he would ask another merchant ( XXXX XXXX XXXX  XXXX in XXXX FL ). \nHe sent me the replacement products. Then called me a couple of weeks later saying that XXXX had not been paid and now he ( XXXX XXXX has not been paid. He asked for my credit card and I gave him my AMEX #. Then I was charged {$10000.00} to my AMEX card. XXXX is still saying that he did not receive his payment, but I was told by AMEX that both merchants were in fact paid. And Now I am charged over {$20000.00} for was to be one product. I contacted both merchants time and time again, opened disputes time and time again. \nI asked for XXXX to send me a letter stating that I was due a refund from him for {$10000.00}. He send me a letter that he had certified, which I will include. I thought this would clear the matter up, however, when AMEX contacted XXXX, HE SAID THAT I FORGED THE NOTARIZED LETTER. Let me ask you this ... Who do you think is the honest person here? I have been an AMEX XXXX  card carrier for over 20 years. I am no liar. Did someone even contact the Notary, and did he lie also? \nThis has destroyed my credit and has caused me much XXXX. I am XXXX XXXX XXXX and I feel that XXXX thinks he can XXXX me and that I will give up."
+}

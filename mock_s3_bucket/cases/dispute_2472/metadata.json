@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2472",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78259"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11798,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I paid XXXX to XXXX XXXX using XXXX, and charging to the American Express CC ending in XXXX On XX/XX/2023 XXXX XXXX cancels the order, and refunds the order. XXXX delays the refund, and the Consumer files a chargeback with American Express. American Express refunds the amount, and the following day XXXX refunds pending amount too. American Express then reverses the refund they issued, on XX/XX/2023. On XX/XX/XXXX XXXX receives the chargeback request from American Express, and refunds again, while accepting the chargeback request. American Express receives the second refund, and kept the money, by never crediting the Consumer Credit Card, nor returning the second refund to XXXX. XXXX then charges the Consumer 's XXXX Account leaving a negative balance for the same amount, and starts collection efforts with XXXX, and by themselves. The consumer has notified American Express several times about the fact, but American Express has not been solving the problems with XXXX, and has been retaining the second refund causing legal expenses by Consumer, while fighting XXXX XXXX XXXX is declaring in writing about these XXXX deposits to American Express, and Amex has retained the second one, after XXXX accepted the chargeback, and charged the XXXX cash account from the consumer. American Express has caused me to incur in legal expenses for more than XXXX to prepare lawsuits and answer the XXXX and XXXX. XXXX XXXX has neglected by phone to talk to XXXX, and has neither credited the credit card nor refunded to XXXX the second refund transferred. I demand the retained payment and the payment for the legal expenses which are growing and will be more if I have to take them to court. The files show how they never credited the card the second time. And reversed previously the deposit. Now the consumer has to pay XXXX, and American Express is keeping funds from the consumer."
+}

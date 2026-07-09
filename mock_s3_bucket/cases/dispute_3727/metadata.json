@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3727",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30549"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37585,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I, XXXX XXXX, DID NOT AUTHORIZE WYNDHAM TO CHARGE {$22000.00} to this account, and I have asked Barclay 's to charge it back to Wyndham as fraud. I have asked Barclays to show me my signature authorizing this transaction and they have failed to do so. Their failure to provide me with the information I have requested has prompted me to also contact the CFPB with my concerns.\n\nI am the victim here, not Wyndham. It is quite evident that Barclays receives a lot of business from Wyndham, so of course they are loyal to their money. But are they loyal enough to continue to protect them, when they are committing a felony by the fraudulent use of a credit card."
+}

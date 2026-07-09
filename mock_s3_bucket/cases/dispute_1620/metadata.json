@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1620",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48198"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express, I discovered that a transaction on my American Express card was a result of fraud. In XXXX of XXXX I immediately initiated a dispute, and American Express started an investigation. They provided me with a temporary credit of {$7700.00}, which the merchant, XXXX XXXX XXXX, XXXX, refused to refund. After multiple attempts and complaints, I discovered that the merchant had been sued for deceptive business practices involving elderly customers. It was then that I realized I was a victim of fraud. Within the agreement I signed with the merchant was a 100 % money-back guarantee if XXXX XXXX failed to provide services which they did not. \n\nIf we can not reach an amicable resolution within the allotted time frame, I will proceed with the filing process. My claim will be resolved through arbitration under the applicable rules of the XXXX XXXX XXXX. The best and most convenient way to contact me about this matter is through email. Please send all correspondence to the email below. I enjoy being an American Express customer and thank you for your time and attention to this matter."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2232",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27529"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13675,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX in the amount of {$120.00} on XXXX XXXX, XXXX order # XXXX online, the Macys credit card listed on the purchase ended in XXXX. I then purchased the same XXXX  in a different size in the amount of {$100.00} online on XXXX XXXX, XXXX order # XXXX paid through XXXX. \nI returned the XXXX to Macys XXXX XXXX in XXXX, NC along with two other items on XXXX XXXX, XXXX as shown on the receipt. At the time of return I recall the cashier say she made an attempt to return the purchase to credit card XXXX however she was unable to therefore she used my old charge card XXXX. \nAttached is my Macys XXXX statement showing the return of the XXXX  in the amount of {$120.00} and two other items in the amount of {$100.00} totaling {$230.00}. The charge reappears on my XXXX statement as a line item : XXXX XXXX, Macys.com purchase in the amount of {$120.00}. I am in dispute of this adjustment as previously stated and evidenced by the emailed receipt ; the online purchase date was made XXXX XXXX, XXXX not XX/XX/XXXX. \nAfter a long investigation I received a letter from Macys stating the refund was credited to card ending in XXXX however the receipt I received from the Macys XXXX XXXX in XXXX, NC says it was returned to charge card number XXXX. There is no question that the items were returned to the store, the discrepancy is in how the cashier made the return and where the return was credited to. \nThe nearest Macys store to me closed in XXXX therefore all of my transactions have been through the Macys.com website using my original charge card number XXXX on my profile. \nThe cards in question are XXXX ( my original card number ), XXXX ( new card received in XXXX ), XXXX and XXXX are both listed on my statements however I am not familiar with these numbers because I did not have a card. The complaint was investigated by the Fraud Investigation Department however, it seems this an issue pertaining to a discrepancy regarding how the transaction was handled. \nI am attaching my statements for XXXX, XXXX, and XXXX, receipt for the return to the XXXX XXXX, and Macys response."
+}

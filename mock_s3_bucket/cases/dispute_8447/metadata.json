@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8447",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8902"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11546,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or around XX/XX/year>, I opened a Citi XXXX XXXX Credit Card specifically for its promotional balance transfer offer. Shortly after opening the account, I initiated a {$1700.00} balance transfer to my XXXX XXXX through XXXX XXXX Bank. \n\nOver the next several weeks, I called XXXX customer service more than XXXX times to check the status of this balance transfer. Each representative gave me different and conflicting information about the date and method of payment. I was repeatedly told that, because it was a new account, the payment was being sent by physical check instead of electronically. \n\nAfter weeks of confusion, I called Citibank again on XX/XX/year>, and spoke with a supervisor to cancel the balance transfer check and close the credit card account, as I no longer wanted to proceed with the transfer due to the misinformation and delays. The supervisor confirmed that the check would be canceled and the account closed. \n\nHowever, on XX/XX/year>, I discovered a {$1700.00} balance on my now-closed Citibank account XXXX When I called Citibank, I was told that the check had been cashed XXXX days earlier, which contradicts what I was told and what should have been possible since I requested the check to be stopped. \n\nI immediately contacted XXXX XXXX ( XXXX XXXX ), and they confirmed that no payment has been received from Citibank for my account. \n\nI requested Citibank to provide a copy of the cashed check, the check number, or any trace information to verify where the funds were deposited. Citibank representatives stated that they have no record or image of the check and can not provide any proof of where the funds went. \n\nAs of now, I am being held responsible for {$1700.00} on a closed account for a transaction that : I explicitly requested to be canceled, was supposedly stopped by a supervisor, and whose funds were never received by the intended recipient. \n\nThis situation appears to be a serious internal error or mishandling of funds, and I am seeking immediate investigation and reversal of the {$1700.00} balance."
+}

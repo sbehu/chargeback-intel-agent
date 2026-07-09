@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9982",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "293XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45103,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a dispute I opened with Citibank for airline charges with XXXX XXXX. On XXXX, XXXX, my flight was delayed for over XXXX hours on the tarmac in high heat without access to water. I have a diagnosed XXXX condition that requires hydration to prevent XXXX crisis. I was not allowed to deplane during this delay. After XXXX hours, the airline finally deplaned passengers but caused me to miss my connecting flight. XXXX XXXX told me they could not rebook me in time to reach my destination, and I was forced to purchase XXXX XXXX-way tickets out-of-pocket ( XXXX XXXX ) in order to reach my destination. \n\nXXXX XXXX later refused to refund the original unused portion of my tickets or the additional out-of-pocket travel expenses. I filed a dispute with Citibank for the charges. Citibank repeatedly mishandled the dispute by using the wrong dispute dollar amount, combining unrelated disputes, and failing to acknowledge the documentation I provided. They sent me boilerplate denial letters and did not address the substance of the dispute. \n\nThe dispute has been open for months without resolution. Citi issued a conditional credit but applied it to the wrong amount and against an unrelated transaction I previously withdrew. Citibank did not complete a reasonable investigation as required under Regulation Z. \n\nI am requesting that Citibank correct the dispute amount, properly investigate the transaction, and reimburse the out-of-pocket charges that resulted directly from the airlines failure to provide contracted transportation. \n\n\nI have supporting documentation including receipts, airline communications, medical evidence, and timeline logs that I can provide."
+}

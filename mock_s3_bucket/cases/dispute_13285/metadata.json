@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13285",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "334XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33307,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dispute Summary : XXXX XXXX : [ XXXX XXXX XXXX ] Transaction Amount : $ XXXX Status : Initial Dispute Denied ; 1. Nature of the Complaint : The core of this dispute is a breach of the Warranty of Habitability. Upon arrival at the contracted villa in XXXX, the property was found to be in an uninhabitable condition, failing to meet basic health, safety, and service standards advertised at the time of booking. The odor of a chemic al was so strong and irritating to our eyes and throats we had to stay outside the unit.\n\n2. Key Evidence & Merchant AdmissionCondition Upon Arrival : The property was unfit for occupancy an extremely strong and irritating odor and fabric surfaces wet to the touch, a safety concern ). Merchant Acknowledgment : The merchant has explicitly admitted in writing that the property was not ready or fit for occupancy at the time of check-in, and told us to come back in 2 days when the unit airs out after we complained. \nFailure to Provide Service : Because the \" service '' ( a habitable dwelling ) was never rendered, the charge represents a billing error for services not received. We arrived, checked in, and immediately booked another property from outside the unit. With the chemical irritation we experienced we did not think it was safe. First ever experience of this type for us.\n\n3. History of Resolution Attempts Initial Dispute : Filed with American Express on the grounds of \" Services Not as Described/Not Received. '' Unsafe property, not offered another solution or property. Amex Response : The initial claim was denied since XXXX XXXX XXXX said we acknowledged a no cancellation policy even though we deemed it unsafe and said we should have advised them in the beginning of an allergy. WE DIDN'T HAVE AN ALLERGY AND WE'VE NEVBER EXPERIENCED THIS TYPE OF ISSUE SO HOW DO WE ADVISE THEM? \nThe chemical, if it was a cleaning substance, was either over applied or not properly diluted, making it potentially hazardous. \n\nRebuttal : I am contesting the denial because a merchant 's internal cancellation policy can not supersede the fundamental legal requirement to provide a habitable environment. A policy is void when the merchant fails to provide the basic underlying service. They could have provided any picture of any chemical they wanted to AMEX. Why would we arrive and immediately checkout?\n\n4. Requested Action : I am requesting a formal review of this case."
+}

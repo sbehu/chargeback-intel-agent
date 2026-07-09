@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5333",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20746,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I signed up for a XXXXXXXX XXXX on their website for a trial period around XX/XX/XXXX. The plan was cancelled prior to expiration of the trial. As far as I was aware that was the end of the matter until I noticed that there were recurring charges on my account. \n\nSince this happened several years ago and I had not received any correspondence I do not have a copy of anything from XXXX nor do I believe I received anything from them for that matter. \n\nNevertheless I discovered recently that XXXX have charged me a total of {$730.00} over the last three years for a service I have not used. See attached list of charges. \n\nI have attempted to contact XXXX to resolve this. I used the contact-us option on their website to reach out. This was the only contact method available to me. To date I have not received any response from them. I provided evidence of this to Amex. \n\nThe only correspondence I have at all from XXXX is a response they sent to Amex when I attempted to dispute the most recent charge, also attached. \n\nSince XXXX I had not received any communications from XXXX and only became aware they were still billing me when I checked charges on my statement. \n\nIf you look at the correspondence received from Amex, please note that : a ) email address is not one in use by me b ) IP address for authorization is from New Jersey- I do not live in New Jersey, I XXXX XXXX XXXX XXXX, NY XXXX ) Per XXXX 's own admission, this service has not been used since XX/XX/XXXX d ) the billing information provided ( XXXX @ XXXX XXXX XXXX XXXX XXXX XXXX is not mine. I do not live in XXXX. \nXXXX ) This payment was processed by XXXX credit card processor, XXXX I disputed the XX/XX/XXXX charge with Amex because ( a ) I did not authorize this charge, and ( b ) I was a \" service not rendered '' / dissatisfied with service. \n\nAfter a few weeks I received a response from Amex that they had a simple slip showing an authorization number - nothing showing consent from me or what the service was for. \n\nI again spoke to Amex and explained the situation as above. They opened the dispute again but after another few weeks provided attached response. I reached out again and this time Amex suggested I file a complaint with the FTC as they are aware that such activity is forbidden by consumer protection law but they would not refund this charge or even agree to open the dispute again. Neither Amex or XXXX have provided any evidence at all that these charges are authorized. \n\nSeeing as this service was not rendered satisfactorily, in fact not rendered at all per XXXX 's own admission I would appreciate a refund from Amex of at least the most recent charge of {$190.00} if not the entire amount of {$750.00} which was fraudulently billed to my card by XXXX for a trial service provided back in XX/XX/XXXX. \n\nthank you very much"
+}

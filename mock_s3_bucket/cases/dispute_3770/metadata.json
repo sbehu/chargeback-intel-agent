@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3770",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41910,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is to dispute a charge with old navy in the amount of {$80.00} on XX/XX/year>. \n\nI confirm that I never received my package. According to company, my purchase was left outside building. I do not understand why my merchandise was left outside building if my area is not safe. \n\nAll my other packages are left inside my building by mailbox. See attached for recent orders. \n\nI am requesting for the payment to be removed from my account. It is unfair that I need to make a payment for not receiving my package."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8226",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53704"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24111,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a duplicate autopay error on my American Express account ( ending in XXXX ). On XX/XX/year>, I made a manual payment of {$3600.00} that fully satisfied my XXXX statement balance of {$3700.00}. Later that same day, AmExs autopay system attempted to withdraw the same amount again, even though the balance had already been paid. That duplicate autopay was returned, but AmEx has treated it as a rebilled charge and assessed a {$29.00} returned payment fee. As a result, my account currently shows an inflated balance of {$6000.00} when my true balance, confirmed by reviewing my statements line by line, is {$1400.00}. This is not a customer error, nor an insufficient funds situation it is a duplicate system-initiated payment. I request that AmEx correct my account to reflect the true balance, waive the {$29.00} fee, and confirm that no insufficient funds remark is associated with my account record."
+}

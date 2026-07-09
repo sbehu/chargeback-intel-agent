@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1410",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10028"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7288,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> we purchased an online ticket was purchased for a show in New York on XX/XX/year>. We were in line to attend and the provider cancelled the performance. They informed us that they will resechdule for the next day, but the venue closed and is no longer available. They didn't provide the service that we pay for. We were also promised a gift card for the value of the ticket for the show that didn't happen, but a gift card was never sent to us. \n\nI disputed the charge with Citi Cards, but they simply reversed the charge for good reason. In their latest they communication ( attached ) they denied the dispute because we did not provide a valid credit slip, but we were never provided one given that the purchase made online. A receipt has been provided to them, however ( also attached )."
+}

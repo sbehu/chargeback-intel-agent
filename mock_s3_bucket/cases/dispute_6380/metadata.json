@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6380",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "32168"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40597,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Sears Citi Bank charging us for Sears Protect which we cancelled withing 30 day period on XX/XX/XXXX. We purchased the Sears Protection plan XX/XX/XXXX and expires XX/XX/XXXX. we paid {$2200.00} on that same credit card. Citi Bank is charging us a second time for something we paid for XXXX. I have attempted to explain this on he phone and by mail with documentation. We disputed the charges on XX/XX/XXXX and they continue to charge and letters saying they are working on it. Meanwhile they have reported this to the credit bureau and refuse to accept that they are double dipping. They will not take our work that we cancelled. \n\nWhy would we pay again for something we already paid for?"
+}

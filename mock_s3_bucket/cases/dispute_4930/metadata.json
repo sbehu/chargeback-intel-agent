@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4930",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77056"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7168,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ref. XXXX - XXXX - {$5000.00} I am facing a issue with AMEX, where I have sent in every possible thing I can relative to a dispute over an item that was not successfully delivered. \n\nI placed an order with a XXXX, that was apparently shipped by a 3rd Party Seller in the amount of {$5000.00} dollars for a XXXX XXXX XXXX. \n\nThis item was shipped with Signature DIRECTLY to buyer and NOT to be left out at all.\n\nThat did not happen, prior to the delivery when I kept up with the tracking, the tracking kept saying \" business closed, redelivery scheduled for the next day ' which did not make any sense as I lived in an apt unit not a commercial residence. \n\nON THE TRACKING ON XXXX WEBSITE THE TRACKING HAS A NAME DIFFERENT FROM MY NAME - AMEX HAS SEEN THIS AND FOR SOME REASON DECIDED AGAINSTME THERE IS AN EMAIL I RECEIVED FROM XXXX THAT SHOWED THAT THE ITEM WAS SUPPOSED TO BE HAND DELIVERED TO ME AND THAT DID NOT HAPPEN BUT THAT INSTEAD THE ITEM WAS LEFT OUT AND THAT WAS NOT SUPPOSED TO HAPPEN - I PRINTED THIS EMAIL OUT AND UPLOADED IT AS SUPPORTING DOCUMENT TO AMEX AND AMEX STILL DECIDED AGAINST ME ON THE SHIPPING TYPE, SHIPPING SAYS DIRECT SIGNATURE- I DID NOT SIGN FOR THIS NOR DID NO ONE AT MY RESIDENCE, I LIVE ALONE. THERE IS NO VIDEO OF ANY DELIVERY TO MY DOORSTEP AT THE MARKED TIME OF DELIVERY. I STATED ALL THIS TO AMEX AND YET THEY STILL DECIDED AGAINST ME I AM EXTREMELY DISSAPPOINTED WITH HOW THIS HAS BEEN HANDLED. THIS IS {$5000.00}. I DO NOT HAVE THE ITEM, AND THE MERCHANT THAT IS SUPPOSED TO BE THE VOICE OF REASON IS LOOKING AT EVERY FACT I HAVE UPLOADED AND YET SOMEHOW THEY ARE CONCLUDING THAT I SHOULD BE RESPONSIBLE FOR THE CHARGE. \n\nALL THIS INFORMATION IS VISIBLE ON THE XXXX TRACKING AS WELL AS THE AMOUNT OF DOCUMENTATION I HAVE SENT IN TO AMEX THERE IS A LACK OF COMPETENCY BEEN SHOWN AND MY ONLY REGRET IS THAT I DIDN'T PAY WITH MY CHASE SAPPHIRE. EVEN XXXX WOULDN'T HAVE SIDED AGAINST ME WITH ALL THE EVIDENCE I UPLOADED"
+}

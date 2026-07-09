@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4651",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53154"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47686,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "for the last 2 months I placed 2 orders. the first order was number # XXXX and order number XXXX. BOTH orders did not arrive. I reached out to the shipping team and their customer service. they told me they could offer me a replacement or a refund.I stated I would accept a refund in exchange because these gifts were going over sees to my brother who is currently XXXX in the XXXX XXXX in a XXXX XXXX. I never received the items and I never received the refund. Now I am at a loss of my money. I placed well over a dozen phone calls on different dates and times and wasted a lot of my time in trying to obtain a replacement package or a refund. I was told NUMEROUS times I was recieving the refund. \n\non XX/XX/year> I went in person to the Macys store inside XXXX XXXX XXXX in Wisconsin and spoke with a manger. she was graciously calling them as well. we sat there in total an hour on the phone and they said they opened up a case and will help me receive the refund or the replacement. the next morning XXXX I am receiving a email saying they are not going to be doing either or. while at the mall on XXXX they showed us the door/picture of where the boxes were delivered and we explained to them that is not our door and I even showed the manager our door and my state issued ID. \n\nat this point this has caused me enough stress and I will not be tolerating this. I need my refund or I am going to take the next step in resolving this matter."
+}

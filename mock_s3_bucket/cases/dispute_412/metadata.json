@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_412",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "OH",
+    "complaint_zip": "43725"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13395,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There are over {$1000.00} of charges made on my credit card in XXXX 2023 in California. I live in Ohio and do not know anyone in California nor have I traveled to California. I contacted Citi Bank to file a dispute and on 3 occasions they have reopened my case then dismissed my complaint and tell me Im responsible for paying the fraudulent charges. I provided Citibank copies of my time sheet at work proving I was at work in Ohio at the time the charges were made in California and I have provided my bank statement to prove I was in Ohio where I had made purchases on my debit card at a local grocery store and gas station. I continue to get late notices that my bill is past due and calls that my credit will be ruined. I have not made even the minimum payment due because my credit card balance should be {$0.00} as I have not used the card in question and can not even find the card."
+}

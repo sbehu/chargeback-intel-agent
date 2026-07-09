@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6043",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33442"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33741,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I placed an order from XXXX XXXX totaling {$280.00}. The company failed to respond and never shipped the order. I tried contacting XXXX  around XX/XX/XXXX and did not receive a response. I attempted to dispute the charge with Citicards on XX/XX/XXXX and received a temporary credit reversal. However, Citicards reversed the credit and sided with XXXX  despite the company failing to fulfill the order. I followed up with Citicards and provided additional information on XX/XX/XXXX showing that the company is a scam, but Citicards refused to advocate on my behalf because XXXX  refused to cooperate and did not provide a credit slip to Citicards"
+}

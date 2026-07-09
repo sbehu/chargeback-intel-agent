@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1364",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11102"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18276,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I was contacted by a web developer who said they were able to develop a website for my new business. We started the website on the same day XX/XX/XXXX. Throughout this time I started to realize slowly and slowly that this is a scam I found out it was a scam by searching up the business address on XXXXXXXX XXXX and seeing that many people are complaining of never seeing a product from this company. I also seen that it was a residential address and many said that it is likely that this is XXXX Scam artist once I realize it was a scam. I demanded a refund for XXXX dollars in which I was charged on XX/XX/XXXX. One of the reasons I also filed a dispute is because the agreed-upon time was 15 to 20 days as stated in the contract and with a refund policy that allowed me 100 % refund for any dissatisfaction that I may have I filed the dispute once they were still playing games and acting like they are still doing the website with no actual proof however, American Express found me liable to pay the amount. I was extremely confused on how this happened, because there was no proof that they actually performed the service for me because they never have until I requested a documentation from American Express and they showed me a documents which included a false contract a contract and never signed. It was a false contract different from the one I actually signed knowing this is a felony in all 50 states I proceeded to contact American Express and uploaded different documentation after reopen the dispute, showing the difference in contracts and how the merchant uploaded a fake forged contract using my signature which again is a felony or 50 states American Express proceeds to decline me once again confused on how this is possible even though I showed them a fake contract and the merchant uploaded links leading to my website. However, if you press on these links, they do not work because the website does not exist. I am once again opening up another dispute with American Express this time uploading, a police report for faking my signature and changing a document after signing. I filled for a Dispute 72 days after the start of the project meaning I already gave the merchant an extra 50 days to complete the project however, a total of 72 to 75 days I did not see any proof of a functioning website. The name of the merchant is XXXX XXXX XXXX XXXX. Their website is https : XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6486",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7302"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8947,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I lost my wallet and my phone abroad, filed a local police report and later realized that there were charges that don't belong to me. I flagged these charges totaling up to {$51000.00} at the merchant XXXX XXXX in XXXX on my barclaycard account. Even though I provided the police report and its translation showing I lost my cards and my phone, and reasserting a few different times, the bank still ruled that the charges are valid. When over the phone I asked for a reason, they said the bank placed a call and received an answer to authorize the charges on the day of. However they were placing the call to the same phone that was lost."
+}

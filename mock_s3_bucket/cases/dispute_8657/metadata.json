@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8657",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76262"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21719,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked two nights at a hotel room thru my card as opposed to the hotel directly. The card service cancelled the room spontaneously. They sent me an email that they cancelled it and asked me for a response. I told them that I did not want it cancelled. I called the hotel and confirmed the room. A few hours later, they cancelled it again. This time, the hotel could not honor the reservation and I was stuck without a hotel room. However, the card would not refund the prepaid balance. They charged me but did not honor the reservation and would not refund me. I have emails showing this."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3300",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3743,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed a recurring transfer on my acct that I did not recognize on XX/XX/XXXX and reached out to American Express to dispute the transactions- the merchant had been charging me monthly since XX/XX/XXXX. They requested that I reach out to the merchant, and refused to open the dispute without me having done so. This is in violation of Reg Z, which does not require a consumer to reach out to the merchant for a billing dispute. When I separately reached out to the merchant ( because they refused to open the dispute ), the merchant did not pick up. I called AmEx to open the dispute and they tried to validate the merchant number I called and give me a different number for the merchant for me to call. Step after step they were blocking me from opening a dispute. Further, they then told me I was only eligible to dispute the most recent transaction. Again, another Reg Z violation because the rule is that you can dispute transactions 60 days from delivery of the statement, so I had at least 3 transactions eligible for dispute. I had to point this out to the agent, who got visibility frustrated and kept cutting me off ( trying to follow her incorrect procedures ). Only after I threatened the CFPB complaint did I get her to open a dispute on the 3 most recent transactions. She wouldn't even log my notice of error for the older transactions ( even if the outcome would have been non-payment/non-investigation by AmEx ). Overall, a poor experience and made me reconsider the long standing relationship I have with them."
+}

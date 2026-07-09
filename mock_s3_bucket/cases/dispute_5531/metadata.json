@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5531",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27514"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1487,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, my name is XXXX XXXX. I got approved for the Citi XXXX XXXX card on the beginning of XXXX. However, the carrier never shipped the card ending in XXXX to me and delivered to somewhere else. The card was misused for several charges on XXXX and XXXX which cost over XXXX dollars balances. I disputed these transactions XXXX weeks ago but citi is not really helping resolve the issue. The balances are still there. No information provided. No time frame. Just want to quickly get the frauds out of my card. I attached the statement below. All shown transactions are all fraudulent because I have never received my new card. I do not even have a chance to use the card. Thanks"
+}

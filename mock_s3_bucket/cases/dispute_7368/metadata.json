@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7368",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "339XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47584,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased an item using my Macy 's credit card. On XX/XX/XXXX, I returned the item in store with receipt. After checking my card for the refund, I called XXXX to find out why my account was not credited. They advised me that a merchandise credit certificate was issued. I was told that they would move the credit from the certificate back to my card account. On XX/XX/XXXX, I received the certificate in the mail and called again. Again, I was told that they would they would move the credit. On XX/XX/XXXX, XX/XX/XXXX and again on XX/XX/XXXX, I was told that my credit card statement would be credited. I have spoken to two supervisors who guaranteed me that this would be done and they would call me and it still hasn't been done. I should not have been issued a merchandise certificate in the first place, my card should have been credited. The amount is {$310.00} and their suggestion was that I can use the merchandise credit. So they would be forcing me to pay the balance on the card and then force me to purchase {$310.00} of merchandise I do not want."
+}

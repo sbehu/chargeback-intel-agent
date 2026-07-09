@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10879",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94127"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30378,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/, I placed an online order for {$1200.00}. Within 2 minutes of purchase, I contacted the merchant to cancel due to an ordering error. At the time of cancellation, the charge was still pending and had not settled, and no product had been delivered or accepted. \n\nThe merchant issued a partial refund on XX/XX/, but retained approximately {$120.00}, stating in writing that the deduction was to cover processing fees. The merchant provided no documentation showing that processing fees of this amount were actually incurred. The merchant also stated the fee was reduced from 15 % to 10 % as a gesture of goodwill, demonstrating the amount was discretionary rather than based on actual costs. \n\nI disputed the remaining charge with Citi and provided supporting evidence, including the merchants email and screenshots showing the charge was pending at the time of cancellation. Citi denied the dispute and did not provide evidence that the merchant substantiated the claimed processing fees or that such fees were actually incurred. \n\nI am requesting reversal of the remaining balance and waiver of any associated interest or fees, as no product was delivered and no substantiated processing costs were incurred."
+}

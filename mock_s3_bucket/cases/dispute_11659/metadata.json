@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11659",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33062"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1221,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a stove from Best Buy a brand new stove for {$2100.00} They delivered an open box stove that it was dinged up scratched has paint on it dents on it They said just keep it and well deliver the new one for you After multiple times of them canceling I said forget it keep the stove. I want my money back and come pick up the stove. I do not want to purchase anything from you anymore. They have not come to pick up the old stove and will not take the brand new store price off of my credit card. Thats the best part of this card."
+}

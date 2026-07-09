@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5900",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20002"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41003,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint concerns the way Barclay handles disputes, which is inefficient and makes it extremely difficult for customers to receive proper service. After I opened a dispute and called twice to confirm that I was seeking a full refund, I received no communication indicating that the dispute was not resolved, but instead was closed. When reviewing my statements, I noticed that the charge I had disputed was reissued. According to their records, they reached out and left a voicemail, but I never received any communication.\n\nI do not believe disputes should be closed until the party who opened them confirms that closure has been achieved. Disputes are opened for a reason, and a large bank should not simply close out dispute tickets to show completed cases.\n\nI was then informed by the agent that she could not reopen my dispute over the phone and that I would need to send a fax or mail a letter to the Barclay Dispute Department. Why cant the agent reopen my case on the phone? Why is this process not as streamlined as accepting payments over the phone? A large bank is able to accept payments, ask for income and financial details, and perform other tasks over the phone, but when it comes to reopening a dispute to advocate for me the customer to get a refund for a service I can't get details for and want cancelled, the process becomes unnecessarily difficult."
+}

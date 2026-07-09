@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8681",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7010"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28278,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Reports Team, I am writing to request assistance with an unresolved refund issue involving Macys and one of their partnered manufacturers. \n\nOn XX/XX/XXXX, I purchased a vase from Macys through their online platform ( Order # XXXX ). Upon receiving the order, I discovered that the vase was not as described and initiated a return using the official Macys return process and the prepaid return label provided by Macys. \n\nI returned exactly the same item I received, in its original packaging, on XX/XX/XXXX, and according to XXXX tracking number XXXX, the return was delivered and received on XX/XX/XXXX. \n\nDespite this, the manufacturer has claimed that I returned an incorrect item and has refused to verify the refund with Macys. As a result, Macys has denied issuing my refund, even though I followed all their return instructions and have clear proof of delivery. \n\nAll of my correspondence with Macys has been conducted over the phone, with the most recent conversation taking place on Thursday, XX/XX/XXXX. During that call, I was again told that nothing can be done because the manufacturer insists that the item was incorrect. I believe this is an unfair business practice, as I never received any other item besides what I returned. Consumers should not be held responsible for internal disputes between a retailer and its vendor. \n\nI respectfully request Consumer Reports assistance in reviewing this matter and, if possible, contacting Macys to help facilitate a fair resolution. I can provide full supporting documentation, including : Order confirmation and payment proof Return authorization and tracking details Correspondence records and call logs with Macys Thank you for your time and attention. I appreciate any guidance or advocacy your team can offer to help resolve this issue."
+}

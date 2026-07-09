@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4168",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8816"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34806,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My husband XXXX XXXX is the primary card holder but I accidently made a payment of {$10.00}, XXXX on XX/XX/year>. On the app on my phone I selected the full credit card payment instead of the minimum balance which I had intended. When I saw the amount pending on my bank account I called my bank - XXXX. They said that since I was so overdrawn, they would not process the amount. Then on XX/XX/year> I see in my account that I was charged the same amount again. I called CITI bank who said that they will keep trying to collect the money up to 4 times. I was told by them that there is no way they can stop the payment. This is outrageous. IN the meantime, I am being charged overdraft fees and I am unable to access the money that I have in my account until the pending charge gets reversed, They are saying that this will happen again on XX/XX/year>. I asked to speak to a manager and I was told that there was nothing anyone could do. I insisted to speak to a manager and was out on hold for 20 minutes and then the phone line was disconnected on their end."
+}

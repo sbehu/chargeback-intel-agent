@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6223",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26268,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Formal Complaint Services Not Rendered/ Mishandled Dispute by Citibank and XXXX To Whom It May Concern, I am filing this formal complaint with the Consumer Financial Protection Bureau regarding a mishandled hotel reservation dispute involving XXXX and Citibank, related to booking # XXXX for XXXX XXXX Washington XXXX XXXX XXXX XXXX ) in the amount of {$3100.00} USD. \n\nDespite numerous attempts to resolve this matter through the appropriate channels, including repeated outreach to both Citibank and XXXX, the issue remains unresolved due to repeated delays, miscommunication, and what I believe to be deceptive practices on the part of XXXX. This has left me financially burdened and without the refund I am owed. \n\nKey Facts : I made the reservation through XXXX ( via XXXX ) and was charged {$3100.00} on XX/XX/XXXX using my Citibank card. \n\nUpon completing the stay at the XXXX XXXX, I discovered I was charged again directly by XXXX for {$2900.00} because XXXX never transmitted the necessary authorization or payment voucher. \n\nDocumentation from the hotel confirms my stay under the XXXX booking, in which they use a supplier named XXXX. Despite this, XXXX falsely informed Citibank that I never checked in, which led Citibank to deny my original dispute. \n\nOn XX/XX/XXXX, XXXX admitted fault and offered a full refund. I immediately selected the refund option, but as of today, I have not received those funds. XXXX even went as far as providing a fake invoice claiming they did a chargeback to the account. \n\nStayforlong.com has since blamed the delay on an ongoing dispute, even though Citibank had already closed the case. This appears to be a stall tactic. \n\nOn XX/XX/XXXX, I attempted to reopen the dispute with Citibank based on the new evidence, including Stayforlong.coms written admission. Citibank has refused to take further action, despite clear evidence of services not rendered and a promised refund that has never materialized. \n\nOn XX/XX/XXXX, instead of issuing the promised refund, XXXX unilaterally issued store credit ( XXXX ), which I explicitly rejected. I will not trust this company to handle any future travel plans correctly. \n\nRequest for Action : I have been a loyal Citibank customer for many years and have never filed a dispute before this incident. I am in excellent financial standing and have acted in good faith throughout this process. It is extremely distressing that Citibank has not acted to protect me from what is clearly a fraudulent transaction. Citibank has completely broken my trust to continue to use their product for purchases in the future due to their lack of concern and professionalism. \n\nI respectfully ask the Consumer Financial Protection Bureau to investigate this matter and help me : XXXX Citibank to reopen and reclassify the dispute as Services Not Rendered. \n\nHold Stayforlong.com accountable for their deceptive conduct and failure to issue the promised refund. \n\nRecover the full amount of {$3100.00} charged under false pretenses. \n\nAttached to this complaint is a detailed timeline, supporting correspondence, and screenshots referenced by number. If any further documentation is needed, I am happy to provide it. \n\nThank you for your attention and support. I look forward to a prompt resolution."
+}

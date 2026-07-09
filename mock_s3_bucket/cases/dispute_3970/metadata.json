@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3970",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92127"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6609,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXXXXXX XXXX Initiated a dispute with Citibank XXXX XXXX XXXX XX/XX/XXXX at XXXX XXXX XXXX for the following fraudulent charges : XX/XX/XXXX XXXX XXXX  {$49.00} XX/XX/XXXXXXXX XXXX XXXX {$49.00} XX/XX/XXXX XXXX XXXX {$510.00} XXXXXXXX XXXX XXXXXXXX {$64.00} XXXX closed out my account and issued new cards with a different account number. \n\nXXXXXXXX XXXX  - I called Citibank back on XX/XX/XXXX and spoke with XXXX at XXXXXXXX XXXX XXXXXXXX. I was initially told by XXXX that XXXX had not initiated the dispute correctly and was unable to discern information from XXXX as to what happened and transpired with the mistake. She then assured me that their investigations team would work on this issue. I asked for immediate credit stating XXXX XXXX isn't even a company located in XXXX, CA and XXXX isn't a company I've ever done business with. I also told XXXX that I haven't been back to the NJ area since XXXX XXXX XXXX and have no idea what the charge is from XXXX. \n\nXXXX was extremely agitated by my insistence to want to discuss my issue with an onshore rep in the United States like I initially did with XXXX. She also told me that Citibank changed their policy last XXXX, XX/XX/XXXX and that no rep is allowed to transfer calls onshore for whatever reason."
+}

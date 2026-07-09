@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3673",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44313"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40718,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I noticed what I believed to be a fraudulent charge of {$160.00} on my Macy 's store credit card ( issued by Citibank ). I contacted the company numerous times to dispute the charges, only to be repeatedly told that I was responsible for them without any explanation as to what this item was and how this was determined, as I noted there was no corresponding purchase on my Macy 's online account for that time frame and I had no recollection of making any purchases since XX/XX/XXXX. \n\nAfter several phone calls, an unanswered BBB complaint, and a thus far unanswered complaint with the State of NY, I was contacted yesterday by an individual from the Macy 's fraud department who advised that they had verified that I had made the purchase in question : in XXXX of XXXX. This was a purchase of two lamps which were later returned in XXXX of XXXX ( this I do vaguely remember ). Macy 's is claiming that while I received a credit for the return of these items, I was allegedly never charged for them in the first place. The fraud department went on to advise that this was due to the vendor not reconciling these purchases back when originally made and that this issue was now affecting many Macy 's customers such as myself. I inquired as to how it could be feasible to charge someone almost 5 years later, and questioned what would occur if I had closed out my Macy 's store card in the interim? They could not provide any answers to these questions. \n\nI did request copies of my credit card statements from XXXX XXXX to XXXX XXXX so I could verify that I wasn't actually charged for this purchase as they claim and am waiting to receive this information via regular mail. \n\nIn the interim, I would kindly ask the Consumer Financial Protection Bureau to look into this matter and answer if Macy's/Citibank/whomever this 3rd party vendor is ( unknown lamp manufacturer? ) can legally process a charge to a credit card for an item that was purchased almost 5 years earlier. I have to imagine there is some sort of statute of limitations for credit card companies to finalize transactions and if so, would appreciate verification of this time frame."
+}

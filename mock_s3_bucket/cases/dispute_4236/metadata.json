@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4236",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21215"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27950,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, XXXX six ( 6 ) fraudulent charges were posted to my Best Buy credit card number ending in XXXX. \nThe charges were XX/XX/XXXX {$200.00} BestBuy.com XX/XX/XXXX {$60.00} WWW.Costco.com XX/XX/XXXX {$89.00} WWW.Costco.com XX/XX/XXXX {$89.00} WWW.Costco.com XX/XX/XXXX {$200.00} BestBuy.com XX/XX/XXXX {$89.00} WWW.Costco.com I contacted Best Buy and report the charges as fraud. I received a letter from Best Buy on XX/XX/XXXX saying that while they are investigating the disputes, they adjusted my minimum payment due, which reflected the portion of the balance that was not being disputed. \nThen I received a letter dated XX/XX/XXXX stating that they completed their investigation and based on their review have credited my account for the unauthorized activity totaling XXXX, fees and interest, however the two ( 2 ) Bestbuy.com charges totaling XXXX XXXX ( {$400.00} ) dollars was being rebilled to my account. Their decision was based on \" using the information that you provided about the dispute. With the information we had, it wasn't enough to support your claim and resolve the dispute in your favor ''. I called to dispute this resolution and was told that the case was closed and in order to re-open it, I would need to get a police report ( which was never told to me when I initially reported the fraud ). On XX/XX/XXXX and then again on XX/XX/XXXX, I contacted XXXX XXXX Police department and an officer was dispatch to my address to take a report. He advised that it was very little that could be done since I had no information to provide regarding who I thought may have committed the fraud. In good faith I reported all the fraudulent transactions, the only information I was able to provide was I did not make the charges. Best Buy absolved me to the lowest charges, however the remaining two ( 2 ) highest charges they are saying I have to pay, even though I have repeatedly indicated that I did not make these charges. Both charges were electronic store charges. I would think that the investigation would have at least provided information as to what was purchased and where it was sent, a physical home address or an email address. I am certain that if Best Buy digs deeper and exhaust all efforts in their investigation they will find that I am truthful to my word and I did not make these charges."
+}

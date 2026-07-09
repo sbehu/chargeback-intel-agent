@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1982",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10460"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47380,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am trying to recover funds for a transaction dated around XX/XX/2023 for {$180.00}. I had a billing issue with XXXX XXXX in XXXX option and the merchandise and ended up filing disputes with CitiBank in order to recover my funds. \n\nThe seller, XXXX and I resolved things but I prematurely withdrew my Citibank disputes in order to attempt to fix things and I ended up having to pay XXXX with another credit card. They were no longer going to take funds from a disputed transaction. \n\nI am ok with XXXX at the moment but, because I withdrew my disputes, Citibank reversed the provisional credit but XXXX ended up sending them back the funds for those transactions. I called XXXX to confirm this. Both parties are claiming that I need to talk to the other and no one is willing to resolve the matter. \n\nMeaning I had to pay XXXX {$180.00} with another card to resolve the original plan and Citibank currently has another {$180.00} for the reversed disputes. Ive reached out to them and had supervisors request to open disputes but nothing has helped me recover my funds from that debt. Citibank refuses to help or credit my account with that duplicate charge. So dont ever withdraw your disputes or even open them to begin with with Citibank XXXX Both parties are claiming that I need to talk to the other and no one is willing to resolve the matter."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2722",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48238"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41509,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX and XXXX I attempted to book a flight with XXXX XXXX. The initial XXXX attempts left me stranded. I eventually spoke with an agent who told me that my charge for the entire flight will be {$430.00} and that he would refund the other XXXX attempts XXXX was {$390.00} and the other was for {$450.00}. XXXX he did not refund those the cost for those flights so I disputed them I was issued credit and those credits were reversed after the credit card companies so called investigation, I believe that the disputes department for XXXXXXXX XXXX is lazy, incompetent and XXXX decision influenced the outcome that they made and that decision has cost me nearly {$1000.00} of being overcharged and this is unacceptable included with this complaint is a copy acknowledging the unfulfilled refund from XXXX XXXX."
+}

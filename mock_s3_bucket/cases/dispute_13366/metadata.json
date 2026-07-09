@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13366",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76063"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14552,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding XXXX XXXX 's mishandling of a canceled purchase, which resulted in inaccurate credit reporting, collection activity, late fees, and financial harm. \n\nIn late XX/XX/year>, I was considering purchasing a shed through XXXX XXXX. Before completing the purchase, I informed the Home Depot salesperson that I was uncertain whether my HOA would approve the shed and that I might need to cancel the order. The salesperson repeatedly assured me that I could purchase the shed and, if necessary, cancel it without any issues. \n\nAs a result of those assurances, I completed the purchase. However, after continuing discussions with my HOA, I decided to cancel the order ( which I was originally advised I would not have to pay for anything if I didn't schedule it ). On XX/XX/year>, I contacted both the Home Depot salesperson and the XXXX XXXX representative to cancel the order. Both parties confirmed the cancellation and advised me that the refund would be processed within a few days. \n\nWeeks passed without any indication that the cancellation had not been properly processed. Then, on or about XX/XX/year>, I began receiving collection calls regarding the balance. This was shocking because the order had been canceled nearly a month earlier and I had been assured the transaction would be reversed. \n\nI immediately contacted XXXX XXXX and was forced to spend significant time speaking with multiple representatives, supervisors, store personnel, and billing representatives. Throughout this process, I received conflicting explanations and finger-pointing between departments. Several representatives acknowledged that the order should have been canceled, yet no one took ownership of resolving the issue. Promises of callbacks were repeatedly made but never fulfilled. \n\nEventually, a XXXX XXXX supervisor acknowledged internal errors and blamed another representative for failing to process the cancellation correctly. Despite XXXX XXXX having records showing that the shed order was canceled in XXXX, the balance continued to be reported on my XXXX XXXX credit account. \n\nI specifically requested that XXXX XXXX expedite correction of the account and update the credit bureaus because the inaccurate balance was significantly increasing my credit utilization ratio. The account was reporting approximately 53 % utilization, negatively impacting my credit profile and preventing me from pursuing financing opportunities, including plans to purchase investment properties. I was repeatedly told the issue would be addressed, but no meaningful action was taken. \n\nAs of XX/XX/XXXX, XXXX 50 days after the cancellation requestthe matter remains unresolved. Although the account balance has finally been reduced to zero, the inaccurate balance and related information continue to appear on my credit reports. In addition, a late fee was assessed because XXXX XXXX failed to timely process the cancellation despite having documentation that the order had been canceled. \n\nThis situation has caused unnecessary stress, countless hours spent attempting to resolve the matter, damage to my credit profile, and lost financial opportunities. I should not have to wait until another billing cycle for XXXX XXXX to correct an error that was entirely within its control."
+}

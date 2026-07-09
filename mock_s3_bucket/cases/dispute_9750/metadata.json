@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9750",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22204"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5190,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CFPB XXXX XXXX American Express ) Failure to XXXX XXXX XXXX XXXX XXXX : American Express ( AMEX ) Product : Credit Card Issue type : Billing dispute / chargeback handling / dispute investigation Summary On XX/XX/XXXX, XXXX charged my AMEX XXXX twice for the same service ( battery replacement ). Both charges are {$230.00}, minutes apart. Only XXXX charge is valid. AMEX initially found in my favor, but later reversed the decision and rebilled me based on inadequate documentation that does not substantiate XXXX separate goods/services. \n\nThis is a straightforward duplicate billing issue that AMEX has failed to investigate with reasonable diligence. \n\nTransaction details Merchant : XXXX XXXX XXXX XXXX ( as shown by AMEX ) Date : XX/XX/XXXX Amount : {$230.00} ( duplicate charged twice ) AMEX chat referenced account ending in XXXX Dispute reference ( XXXX ) : XXXX ( re-opened ) ; AMEX also XXXX XXXX as a separate/incomplete dispute record. \n\nWhy the merchant documentation does NOT support XXXX legitimate charges AMEX provided XXXX receipts as supporting documentation. They show the same amount ( {$230.00} ) and appear to be generic payment receipts, not itemized invoices. They do not list any goods/services, do not show XXXX different batteries or XXXX separate service calls, and provide no itemizationjust a payment amount and basic transaction metadata. The XXXX receipts are timestamped XXXX AM and XXXX AM on XX/XX/XXXX ( XXXX minutes apart ). \n\nNotice of Dispute Information In addition, my vehicle is a XXXX XXXX XXXX and can not use/hold XXXX car batteries. XXXX charges for battery replacement within minutes is not plausible and strongly indicates a duplicate billing error. \n\nEfforts to resolve directly with AAA ( unsuccessful ) I repeatedly attempted to resolve the duplicate charge directly with XXXX before and during the AMEX dispute : XXXX XXXX XXXX XXXX case : XXXX ( Forwarded to Member Relations ) Member Relations phone : XXXX XX/XX/XXXX : Spouse called XXXX Member Relations about the duplicate {$230.00} charge ; case XXXX assigned. \n\nXX/XX/XXXX : Email received from XXXX representative ( XXXX XXXX, XXXX ). Multiple calls made ; voicemail left ; no resolution. \n\nXX/XX/XXXX : Additional calls and voicemails ; XXXX did not respond. \n\nXX/XX/XXXX : Spouse called again ; XXXX was rude/unhelpful ; asked for supervisor ; put on hold XXXX minutes and then dumped to voicemail ; message left ; no meaningful follow-up. \n\nAMEX dispute handling problems AMEX rebilled me after stating the merchant claimed both charges were unique due to different timestamps, without addressing the core issue : there is no evidence of XXXX separate services or XXXX separate batteries. \n\nAMEX relied on documentation that is not an itemized invoice and does not substantiate the second charge. \n\nNotice XXXX XXXX XXXX AMEX chat support acknowledged the merchant documents did not mention a duplicate charge and were merely asserting the charge was valid, yet AMEX still rebilled and closed/reversed the dispute. \n\nAMEX also provided confusing/contradictory handling across dispute records ( XXXX dispute referenced as incomplete, another reopened ), prolonging resolution and leaving me responsible for a duplicated charge."
+}

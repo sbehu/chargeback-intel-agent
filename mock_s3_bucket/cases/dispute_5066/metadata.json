@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5066",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "OH",
+    "complaint_zip": "44106"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31656,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Merchant Name : XXXX XXXX  XXXX XXXX XXXX XXXX XXXX XXXX XXXX : {$290.00} Transaction Date : XX/XX/XXXX I placed an order with XXXX XXXX, but I never received the items. I attempted to dispute the charge with American Express, but they did not assist me. As I never received the products, I should not be held responsible for this charge, in accordance with their policy. \n\nPlease assist me in obtaining a refund for the items I paid for but never received. Thank you!"
+}

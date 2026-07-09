@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2718",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "201XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33804,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I returned the merchandise and was not credited. The return receipt was provided in the attachment. No response from the merchant for this case."
+}

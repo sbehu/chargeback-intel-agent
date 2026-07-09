@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6745",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "329XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44577,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a charge made to my credit card in the amount of {$2800.00} by XXXX XXXX, for a flight I could not use and which the airline promised to refund. Despite multiple follow-ups and documented evidence that XXXX committed to issuing a refund, and admitted it was local staff error to deny boarding, they are now refusing to do so. I have contacted them numerous times by phone and email, and they consistently confirm that no refund will be processedwithout addressing the earlier promises made by their customer service team nor revising the documentation Ive submitted and refusing to review recorded calls. \n\nI initiated a dispute with my bank, providing supporting documentation of the refund promise and my communication history with XXXX. However, my bank denied the claim without offering a clear explanation, and appears to have accepted the merchants refusal without reviewing the full context or evidence. \n\nThis situation involves misrepresentation by the merchant and failure of the bank to adequately investigate or advocate on my behalf. The transaction has left me financially burdened for a service I did not receive and that the seller originally agreed to refund.\n\nI am kindly requesting that : 1. The CFPB investigate this matter as a failure of both the merchant and card issuer to act in good faith.\n\n2. My bank be required to provide a full, written rationale for denying the dispute.\n\n3. The charge be reversed, or alternative resolution be sought with XXXX directly. \n\nI am happy to provide call logs, emails, and a copy of the dispute denial letter upon request. \n\nThank you for your support."
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-56297289-US
+Shipment Date:   2025-11-05T00:00:00Z
+Delivery Date:   2025-11-08T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     7941 MAPLE ST, TX, 78744
+============================================================

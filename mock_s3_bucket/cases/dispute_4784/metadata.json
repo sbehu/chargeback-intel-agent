@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4784",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11355"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7055,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, I am disputing a charge of XXXX from XXXX in which I told them that I had devices stolen and the charge was not me and later cancelled in less than XXXX hours. I then reached out to the bank and they later denied my claim without showing any documents only verbal. I also have not had a chance to show documentation with Barclays. I also requested that the bank stop all payments from XXXX which they refused. I am asking to reopen the case but am unsure if they are going to do so."
+}

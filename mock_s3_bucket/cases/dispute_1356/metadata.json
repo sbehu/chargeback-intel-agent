@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1356",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "973XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12314,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraud by XXXX and American Express I have led XXXX XXXX since XXXX. This one was in XXXX in XXXX. \n\nXX/XX/XXXX. \nXXXX tickets and a tour guide for the XXXX in XXXX, XXXX purchased online from XXXX for USD XXXX. The local merchant for XXXX is XXXX XXXX. \n\nXX/XX/XXXX. \nArrived early with my students at XXXX XXXX 's storefront location per the voucher 's instructions. \nThe merchant directed me to take my students to the XXXX of XXXX to meet the guide, a XXXX walk. The merchant said the guide would have the tickets. \nWe waited at the location for nearly XXXX minutes. \nI left my students and went to the XXXX XXXX XXXX XXXX. I was told that it was impossible for the merchant to have sold me tickets on XX/XX/XXXX as the park had a strict limit on daily visitors, and tickets had been sold out for at least XXXX months and would not be available until XXXX. He then looked at his computer and said he did not see any tickets purchased under the merchant 's name or in my name. He suggested I speak with the merchant. \nI called the merchant 's office. The merchant apologized and said XXXX ) the guide could not find us and had left, and XXXX ) she had forgotten to give me the tickets, but if I returned to the office, she would give them to me. \nKnowing there were no tickets, I dismissed my students and returned to the office. The merchant immediately began to blame me for not being at the XXXX XXXX XXXX to meet the agent. \n\nXXXX ( date unknown ) I contacted the merchant and they offered me a 10 % refund, XXXX XXXXXXXX. \n\nWhen I returned from XXXX I opened a dispute with the credit card company, American Express. American Express found in my favor as XXXX had apparently failed to respond. \nThe merchant, XXXX, reopened the case, claiming that according to XXXX  XXXX XXXX ) I had signed a waiver that I no longer wanted the tour, XXXX ) they gave me the tickets at the office, XXXX ) I had gone to find the tour guide, and XXXX ) the tour guide left. \nThe merchant did not explain why I was searching for the tour guide if I did not want the tour and already had the tickets. The merchant has not produced the waiver I am alleged to have signed, even though I have asked AmEx for it twice. \nAmEx decided in the merchant 's favor. The reason they give is that the merchant claims I was given the tickets and was late to meet the tour guide. AmEx believes the merchant and, by default, I am a liar and attempting to take advantage of the merchant by asking for a refund. \n\nNo one at AmEx will discuss this claim with me. I am not allowed to speak or otherwise communicate with anyone other than the XXXX XXXX Customer Service representative who answers, and they have no authority to resolve or escalate the dispute. \n\nI have full documentation of my correspondence with XXXX and AmEx and will provide it on request."
+}

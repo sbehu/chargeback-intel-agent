@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12620",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80921"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30361,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- COSTCO CITI credit card : I filled a disputeabout the break down/lump-sum damages ( Pannenhilfe/Schadenpauschale ) = EURO XXXX. I contacted COSTCO CITI card dispute department directly and the representative refused to provide any information, documentation or specific reason for there denial. \n\nAttachment : -ADAC Pannenreport ( ADAC breakdown report ) -Alamo/Enterprise final bill -- -- -- -- -- - Description of dispute -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - -- -- -- -- -- - Letter send to XXXX  XXXX XXXX -- XXXX -- -- -- -- -- -- -- - XXXX XXXX XXXXXXXX XXXX & XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX # : XXXX Rechnungsnummer/Invoice # XXXX XXXX XXXX XXXX : XXXX Reservierungsnummer/Reservation # : XXXX Disputed Item : Break down/lump-sum damages ( Pannenhilfe/Schadenpauschale ) = EURO XXXX Reason for dispute : The rental car suffered an electrical failure \" Anlage tot '' from an automated update, the rental company must treat it as a standard mechanical break down. By law the rental company must arrange and pay for \" Roadside assistance & Towing '' obligated to deliver \" A replacement vehicle '' and the car renter is \" entitled to a refund or pro-rated credit ''. \n\nXXXX XXXX please accept that your free XXXX XXXX assistance program which covers against mechanical problems applies for car computer break down and not your optional road assistance insurance. \n\nXXXX please immediately reverse the unauthorized charges, issue a full refund of XXXX XXXX to my card on file, and cease these unlawful billing practices."
+}

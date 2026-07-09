@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4004",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33897"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46840,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX we have contacted XXXX by XXXX who is an officiant to get me and my fiance married on XX/XX/XXXX and she was available and her fees were {$300.00}. We have proceeded with the down payment of {$150.00} that date XX/XX/XXXX and another payment of {$150.00} on XX/XX/XXXX. The venue we agreed on has some issues so we choose to go with a different venue ; However we could only find space available on XX/XX/XXXX ; so we informed XXXX XXXX about it 3 days later on XX/XX/XXXX that we had changed the venue and requested to get us married on XX/XX/XXXX instead of XXXX, unfortunately she was unavailable and refused to refunded us our money that we paid couple days earlier."
+}

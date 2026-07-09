@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5205",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27591"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36013,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "First i applied for american express aa card in XX/XX/2024. Never heard back from them until around XX/XX/2024. The wrote me a letter stating that they denied my app in error and suggested i reapply. My score dropped. Multuple balances on different cards decreaded which made my credit look maxed out. I set up a financial releif program with them which XXXX is drafted on the XXXX of every month. Well this month i had a suspicious payment of XXXX. I have called serveral times. They said they reported fraud but keep transferring me. And im being put on hold. Meanwhile they are still trying to get XXXX out my bank account everyday. I dont even had that much in there and i did not authorize that payment. Note, if i become deluquent in anyway it will kick me out the financial program. I think this company is a fraud."
+}

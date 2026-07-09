@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_531",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "103XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33022,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card was used to purchase items from XXXX from a fraudulent email address. My XXXX email address & the email address used are totally different. XXXX has told my telephonically that they could see that the email address was fraudulent. I've disputed 3 times with Barclays Credit Card but was denied as XXXX refused to credit the charges. I requested the documentation that was sent to uphold the charges from Barclays and the documents showed that the purchases were made from a fraudulent email address that had an IP address from a different state ( XXXX, IL XXXX reside in XXXX XXXX NY XXXX from where I reside. I've called XXXX several times to attempt to have them resolve with the credit card company Barclays Bank but they haven't resolved this. I've asked for a letter to give to Barclays Bank as XXXX has acknowledged that they could see the charges were fraudulent and they stated by phone they would send but still have not sent a letter. The charges were from XX/XX/ {$130.00} & XX/XX/ {$130.00}. Interest fees associated with the charges have also been charged."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8498",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94547"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8892,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have recently call the credit card company XXXX XXXX XX/XX/XXXX. To follow up on both complaints of the use a credit cards that I did not have or take part of the service, that I requested. And the customer service department that they did not receive both complaints by faxed that was provided to upon my request. \nXXXX. On XXXX, XXXX I did not stay at a XXXX XXXX because no handicap accessiable accomdation. And requested a refund for XXXX nights at {$120.00} XXXX # XXXX. \nXXXX. On XX/XX/XXXX, I requested a refund because I was in the VA XXXX and was unable to go on a future trip to NC on XX/XX/XXXX and had cancel my airline Reservation on XX/XX/XXXX with XXXX XXXX  and XXXX customer service and was given a future airline credit to fly.until next year XX/XX/XXXX. I am unable to fly period due to my physcial limitation and had provided a VA doctors note upon their request for a credit card refund instead and no response, they just keep losing my faxed paperwork and request and keep telling to keep providing another faxed copy.of both disputed complaints while I still make on time credit card payments."
+}

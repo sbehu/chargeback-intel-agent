@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1333",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10175,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear American Express, I hope that one of the representatives can call me to look deeper into the dispute that I have with XXXXXXXX XXXX The dispute number is : XXXX To sum it up, the dispute was rejected for 2 main reasons 1 ) The merchant agreed to take in the vehicle to fix it and 2 ) I signed on the sales agreement The truth is, the merchant blocked me after I sent them an inspection report from XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX ) that the car is still broken. They blocked my number and is unwilling to fix the vehicle. In addition, I never signed a sales agreement. If you take a look at the photo that the merchant provided on the receipt, the Merchant signed my name on the receipt without my knowledge. \n\n\nI have attached all the evidence in the CFPB report, please call me if you need additional information. In the CFPB report in XXXX, I received a resolution that someone tried to call me to collect information. However, I never received those calls. Please text and call me at XXXX."
+}

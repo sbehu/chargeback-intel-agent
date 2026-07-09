@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2118",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93101"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45421,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I purchased online from XXXX a camera with XXXX lenses for {$540.00} and charged it to my American Express credit card. The product never arrived. I tried to contact the merchant, but their email, phone number, and contact us links are not working. \n\nI disputed the charge with Amex. The dispute was denied because the merchant supplied a XXXX tracking number showing a completed delivery. I queried XXXX and they gave me documents showing that the deliverys recipient was not my name nor my address and the product shipped was an envelope weighing less than a pound, too small to contain a camera and lenses. \n\nIve reopened the dispute multiple times with this info and Amex repeatedly denies the dispute saying the merchant sent proof of delivery. \n\nMy main points : -I and my address was not specified as the recipient of the XXXX shipment. \n-I have no way to contact the merchant."
+}

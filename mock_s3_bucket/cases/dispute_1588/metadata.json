@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1588",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38243,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Amex Subject : Urgent Follow-Up - Dispute Regarding Charges for Unperformed Services ( Ref : Letter Dated XX/XX/XXXXXXXX  ) And XXXX XXXX Fax Dear American Express Company I am writing to follow up on my dispute regarding charges for unperformed services, which I first raised in my letter dated XX/XX/XXXX. While I understand that investigations can take time, I am concerned by the conflicting information I've received. \n\nOn XXXX XX/XX/XXXX I received 2 generic letters with no contact name ir telephone number to reply to, informing me that my dispute was being investigated. However, on the same day, I also received another letter stating that my claim was closed due to no response for 30 days. I can assure you that this second letter is inaccurate. I have maintained communication with your company through various channels, including : Submitting a letter on XX/XX/XXXX Contacting you through this website Sending multiple faxes with evidence and asking questions that have never been responded to, including the recent California Superior Court judgment in my favor regarding these charges Additionally, I have called your customer service line every 2-3 weeks for the past 12 months. Unfortunately, I have never been assigned a dedicated representative to handle my case. Each time I call, I must explain the situation to a new representative, which is frustrating and time-consuming. \n\nTo expedite the resolution of this matter, I request the following : A clear explanation of the discrepancies in the information I received A response to my questions. \nReopen my dispute and assign me a single point of contact to handle my case A prompt response with a concrete timeline for reaching a resolution I have been promised a call back by a supervisor on at least seven occasions, yet none have materialized. I hope that this written communication will finally receive the attention it deserves. \n\nThank you for your time and assistance in resolving this issue."
+}

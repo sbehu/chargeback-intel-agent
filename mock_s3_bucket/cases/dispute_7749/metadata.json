@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7749",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "11566"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19354,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year>XXXX  Consumer Financial Protection Bureau XXXX XXXX XXXX XXXX Washington, DC XXXX Subject : Complaint Regarding Disputed Charge with Barclays ( Case # XXXX ) Dear Sir or Madam, I am writing on behalf of my mother, XXXX XXXX, to request your assistance with an ongoing dispute involving Barclays. On XX/XX/XXXX, a {$5000.00} charge from a merchant was posted to her Barclays account. We have provided Barclays with proof that this payment was made in cash directly to the merchant at the time of delivery, and therefore the charge is invalid. \n\nWe immediately placed the charge in dispute and were informed by Barclays that they would investigate. In the meantime, we were assured that a temporary credit would be applied to prevent the account from being overdrawn during the investigation. \n\nFaith spoke with several Barclays representatives on multiple dates XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX ) Each representative assured her that the temporary credit would be issued within one to three days. They documented the issue under the following case numbers : XXXX, XXXX, and XXXX. Despite these assurances, the temporary credit has not been applied, and the primary dispute case number is XXXX. \n\nWe are deeply concerned about the financial hardship this delay is causing. We kindly request the CFPBs assistance in ensuring Barclays follows through on their commitment to issue the temporary credit and resolves the dispute promptly. \n\nThank you very much for your attention. \n\nSincerely, XXXX XXXX"
+}

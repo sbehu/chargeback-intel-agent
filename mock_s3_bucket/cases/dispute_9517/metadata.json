@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9517",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15136"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1631,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi Went on vacation end of XX/XX/year>. XXXX. Last day of vacation we went into town and purchased what we thought was real jewelry from a real jewelry store. Myself, my wife, and my friend purchased what we thought was real gold and diamonds after they brought out meters and stuff to test their stuff. We purchased. Friend bought \" real gold '' necklace {$2200.00} cash cause they would not \" accept '' his XXXX. Wife bought be a \" real gold '' bracelet {$1600.00} XXXX XXXX ( disputed and won her case ). I purchased a \" real diamond '' tennis bracelet {$4600.00} Citi CC ( disputed and lost so far ). After being showed it was real with their tester we were \" sold '' and we purchased and left happy. We went home the next day from vacation back to the XXXX. My wife wanted to wear her new tennis bracelet and it was a bit too big so she went that day to a local jeweler to get it sized down and take a few links out. To our surprise... we found out it was fake! Along with the gold -- - FAKE! Not happy any more! So we filed our disputes. My wife won hers and I lost mine. Why I lost - I have no idea... they lied they lied! They sent into the Citi people a letter and receipt that had lies- they said they sold us bottles of booze and XXXX Silver bracelet and necklace?? NOT us. Don't understand how we lost that? Right on the receipt. Wrong. I hope I can get help on this. I can supply plenty of paper work to provide proof. Thank you. XXXX XXXX"
+}

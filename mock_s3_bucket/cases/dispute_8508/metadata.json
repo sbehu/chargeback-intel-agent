@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8508",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "72701"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16433,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary of Issue : I am submitting this complaint regarding a fraudulent charge of {$240.00} that was posted to my XXXX XXXX credit card on XX/XX/year>, under the merchant name TICKET COST. \n\nI was the victim of a scam by an individual impersonating XXXX XXXX XXXX. When I reached out to cancel my legitimate XXXX XXXX cruise ( Reservation # XXXX ), I was unknowingly communicating with a scammer who posed as a XXXX XXXX representative. The scammer used my real reservation number and cruise details to appear credible and told me I owed a {$240.00} cancellation fee, which I paid using my card. \n\nI later confirmed with XXXX XXXX that my reservation was booked directly through them ( not a third party ). I also confirmed that my reservation is still active and was never cancelled, and XXXX XXXX did not authorize or receive a {$240.00} charge. \nI have attached the confirmation from XXXX XXXX verifying that the reservation remains active, the original XXXX XXXX receipt showing my cruise was booked directly through them, the email from the scammer showing the impersonation and fake cancellation, and the denial letter from Barclays Bank Delaware. \n\nDespite this evidence, Barclays denied my dispute, stating I am responsible because I willingly provided my card number. This conclusion fails to recognize that the payment was made under false pretenses through criminal impersonation of a legitimate business. I did not knowingly authorize payment to a fraudulent entity. \n\nI am respectfully requesting that the Consumer Financial Protection Bureau review this case and request that Barclays re-investigate and credit back the {$240.00} charge, as this transaction was clearly fraudulent misrepresentation. \n\nConsumer : XXXX XXXX Issuer : Barclays Bank Delaware XXXX XXXX XXXX XXXX Credit Card ) Transaction in dispute : {$240.00} charge on XX/XX/year> Merchant name : XXXX XXXX Summary of attached evidence : XXXX. XXXX XXXX official email Confirms that my cruise reservation ( # XXXX ) is active, was booked directly through XXXX XXXX, and has not been canceled. XXXX XXXX did not process a {$240.00} cancellation charge or authorize a third party to do so. \n\nXXXX. XXXX XXXX XXXX Receipt Shows my cruise was booked directly through XXXX XXXX, not a third party. \n\nXXXX. Scammers email Shows an impersonator ( XXXX ) pretending to be a cruise specialist from XXXX XXXX, using my real reservation number, and demanding a {$240.00} cancellation fee, which I paid, believing it was legitimate. \n\n4. Banks dispute denial letter States that I am responsible because I had insufficient proof. When discussing this matter on the phone with Barclays, I was told that I am at fault because I willingly provided my card number, despite clear evidence that I was deceived under false pretenses. \n\nThis documentation demonstrates that the {$240.00} charge from XXXX XXXX was obtained through fraudulent impersonation and misrepresentation, not through legitimate authorization. I respectfully request that this charge be re-reviewed and reversed as a case of fraud under deception. \n\nThank you for your time and consideration. \n\nXXXX XXXX"
+}

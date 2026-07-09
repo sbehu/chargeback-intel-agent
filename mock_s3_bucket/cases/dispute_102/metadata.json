@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_102",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91402"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14714,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted XXXX XXXX on XX/XX/2023 about an expensive package marked delivered that I never received. It was photographed outside on my porch, in plain sight for people to steal. No signature required. I contacted them and they told me to contact my bank and file a chargeback, they would speak with my bank and get me money back. They did not ever file a claim with the delivery company, or give me any other means of solution. Since I never received the package they have to handle all those responsibilities. Instead, I continued to be told to file a chargeback and I would get my money back. Instead Amex keeps declining my dispute although I literally have written proof XXXX XXXX informed me to do so. Amex then told me to file a police report which I did and they still continue to decline my dispute although I did everything asked of me."
+}

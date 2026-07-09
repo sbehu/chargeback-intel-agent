@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11170",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "207XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10086,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding fraudulent charges and identity theft involving my Citi credit card account reported by Citibank ( CitiCards CBNA ). \n\nIn 2025, my identity was compromised and used without my permission. Someone used my personal information to open a fraudulent XXXX XXXX credit card account in my name. I reported this identity theft to law enforcement and filed a police report with the Maryland XXXX Police ( Report # XXXX, issued XX/XX/year> ). XXXX XXXX investigated the matter and confirmed that the account was fraudulent and that I was not responsible for the charges. \n\nAfter this incident, I later discovered unauthorized transactions on my Citi credit card account. These transactions occurred at a XXXX store in another state where I was not present. At the time the transactions occurred, the physical card was still in my possession. This indicates that the card information was likely cloned or otherwise compromised. I immediately reported the unauthorized charges to Citi and requested a fraud investigation. Citi issued me a replacement card, which indicates that the bank recognized the possibility that the card information had been compromised. \n\nDespite reporting the fraud and providing the relevant information, Citi concluded that the transactions were valid and refused to remove the charges. As a result, the balance remains on my account and continues to be reported to the credit reporting agencies. I disputed the account with TransUnion, but they responded that the item was verified as accurate based solely on Citis response.\n\nI strongly dispute these charges because I did not authorize them, did not benefit from them, and was not physically present at the location where the transactions occurred. I believe my identity and card information were compromised, and I have already documented identity theft through a police report and prior fraud case. \n\nI respectfully request that Citi conduct a proper fraud investigation, review the police report and supporting documentation, and remove the fraudulent charges from my account. I also request that the inaccurate balance and any related negative information be removed from my credit reports. \n\nI am attaching documentation including my police report, identity theft statement, and dispute records to support my claim."
+}

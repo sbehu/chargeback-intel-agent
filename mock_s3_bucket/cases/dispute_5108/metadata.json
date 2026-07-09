@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5108",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48135"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26293,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Heres a rewritten version of your letter : -- - On XX/XX/year>, at XXXX XXXX, I received an email from XXXX XXXX XXXX confirming a room booking for {$580.00}. At the time, I was browsing the XXXX XXXXXXXX XXXX XXXX reservation website but had not completed any booking. \n\nShortly after receiving the email, I clicked on the link provided to cancel the booking. At XXXX XXXX, I received a second email confirming the cancellation, but it stated I was being charged {$580.00} as a cancellation fee. \n\nI immediately contacted the XXXX XXXX hotel to explain the situation. They informed me that they were not responsible for the charge and noted ongoing issues with third-party companies intercepting bookings on their website. \n\nFollowing this, I reached out to XXXX XXXX XXXX ( formerly XXXX XXXX XXXX  ) to request a refund. Unfortunately, I was unable to get any resolution. They either did not return my calls, or I was routed through an unhelpful loop of forwarded calls with no clear answers. \n\nGiven this lack of response, I contacted my credit card company to dispute the charge, explaining that I never authorized XXXX XXXX XXXX to charge me {$580.00}. Initially, my credit card company assured me they would assist with the matter. However, a few months later, I received a generic email stating that the merchant claimed I had agreed to the charge, and they could not help further. \n\nI requested multiple times to speak directly with someone regarding the matter, but I was told that these disputes are handled exclusively by a third-party company, and no direct contact was possible."
+}

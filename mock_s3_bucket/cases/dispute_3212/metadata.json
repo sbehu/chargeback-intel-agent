@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3212",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75204"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35046,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX, I met a guy off XXXX who lived in XXXX. He told me he was a punter who was a XXXX XXXX player but new to the team, and said he had a fundraiser for his XXXX with the team and asked me to donate. I searched his name on the internet, and sure enough, stories from credible news sites popped up with his story of playing football and XXXX. He then told me his mom was not in good health, and his credit card was not delivered since he moved here recently and asked me to send money since he didnt have any one else to ask at the time. I said sure, and sent him some money on my credit card. He continued to do this for a few months ; claiming eventually his mom died, he needed money for funerals etc. I then find out though my friend, he has been lying this whole time and has been doing this to many other girls, including those in his apt building in XXXX. I find out the leasing manager was scammed by him, and many other women. I post on a XXXX site asking if anyone else has an issue with him, and about 30 girls commented same issue. The issue Im having is I sent these payments through my credit cards, and at the time I believed he was telling the truth, and did not think he was a fraud. However I then find out he is, and by then it was too late. Its a shame the credit card companys wont help me, as this is clearly fraud. He goes out of his way to make up lies, and gets people to send him money. I also filed a police report with the XXXX police as there is an ongong investigation. Its sad I can not dispute these chargers as it is a lot of money, and I was deceived by his lies to send this money. He even said it was not a gift, he would pay it back."
+}

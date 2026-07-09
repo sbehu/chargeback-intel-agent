@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11371",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "OH",
+    "complaint_zip": "43035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22682,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reported two unauthorized subscription charges from the merchant \" XXXX '' for {$320.00} ( XXXX ) and {$320.00} ( XXXX ). \n\nXXXX resolved the XXXX claim ( Ref : XXXX ) and issued a credit instantly. \n\nFor the XXXX claim, the service was disastrous. After multiple transfers, an agent sent me a confirmation email that deliberately omitted the refund amount and failed to mention the credit request entirely, effectively providing an empty claim number to dismiss my case. \n\nOnly after I spent another hour escalating to a supervisor was the correct amount of {$320.00} finally acknowledged under a new Reference ( XXXX ). However, the supervisor still refused to issue the manual temporary credit, forcing a 30-day wait."
+}

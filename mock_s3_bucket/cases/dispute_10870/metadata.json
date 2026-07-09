@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10870",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83709"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41587,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'I filed a purchase dispute with Citi over an XXXX order that originally had not been refunded at all even though I had returned the two items back to XXXX. As the dispute was in process XXXX did finally refund one of the two purchases. I provided clear proof of both of the returns and Citi closed the dispute in the favor of XXXX.\\n\\nCiti is violating my rights under the FCRA by refusing to invitigate this matter in good faith using the very clear cut evidence I provided and is colluding with the vendor (in this case XXXX to circumvent my rights to XXXX benifit. \\n\\nTaking five moments to review the proof I have provided or communicating with me in any way could have provided more than enough evidence to close this case in my favor. \\n\\n\\nD-XXXX\\n\\nThis dispute case was opened to against XXXX for not properly refunding two identical items\\nthat has been returned because they were defective. The items purchased were two 8 tb\\nNVME drives costing XXXX each. The total cost of this order was XXXX (the total\\namount disputed)\\n\\nBoth of these items were returned per XXXX policy under two separate RMAs issued by\\nXXXX and both have separate tracking showing that they were returned to XXXX.\\n\\nReturn XXXX XXXX XXXX XXXX return tracking XXXX XXXX XXXX XXXX XXXX XXXX\\nReturn XXXX XXXX XXXX XXXX return tracking XXXX XXXX XXXX XXXX XXXX XXXX\\n\\nXXXX eventually refunded one of these purchases, however the remining item did not\\never get refunded so I am still due the remainder of this dispute XXXX This dispute needs\\nto be reopened and the XXXX needs to be returned to my account.\\n\\nBelow is the following proof\\nOrders showing two separate order numbers associated with this dispute\\nPackage labels that show the RMA numbers and XXXX tracking associated with each return\\nUPS tracking and proof of delivery back to XXXX\\nThe XXXX provided labels have each RMA (approved XXXX return auth numbers) and their associated tracking.'"
+}

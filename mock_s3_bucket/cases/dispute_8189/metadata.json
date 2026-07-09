@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8189",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VT",
+    "complaint_zip": "056XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8371,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a stove from Best Buy, online. Product # SKU : XXXX and model Model : XXXX. \n\nThe website has the stove listed for {$1100.00}. \n\nThe add states you will save {$420.00} by buying from best buy, instead of purchasing from a competitor for {$1600.00}. \n\nAdditionally the webpage offers the purchase through the best buy credit card for 18 months at 0 % interest ; if you do the math on the monthly payments x months, this also equals {$1100.00}. I applied for this, was approved, and completed the purchase using the Best Buy Credit Card. \n\nI then received a statement with my Citibank login information, only to log in and find that Best Buy charged me {$1600.00} for the stove. I can assure you, no where during the checkout was I told, nor agreed to this amount. \n\nI have screenshots of the product webpage that saved, and the product in my cart, which backs up my statements made above. I have messaged citibank only to receive delayed responses saying they are reviewing my case and will mail me a letter with resolution, but I must submit further documentation via email or fax ; However, they do not provide a working email or fax number to submit said documentation. \n\nAny normal business wouldn't take multiple weeks to resolve. This is shady business practice and I will not pay them a dime more than what was advertised, and my GOOD CREDIT history should not have to be negatively affected in doing so. The balance should be corrected, last I understood false advertisement in the USA is ILLEGAL."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_366",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7302"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23840,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed a order from Macy's.com and never received the items. I filed XXXX disputes and they where denied. Never providing a signature or where it was left. I shortly went on vacation and never got it.i came back looking for it it was never here. Noone in my family signed for it. Now I'm being charged interest on stuff I never received I ask for a resend of the lost items. Denied. And I've been a faithful loyal client to remove since XXXX. Very disappointing XXXX XXXX XXXX {$960.00}"
+}

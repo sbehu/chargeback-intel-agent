@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9312",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46385"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47905,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made an online purchase from XXXX XXXX on XX/XX/year>. \nOrder number : XXXX. \nThe item purchased was the XXXX XXXX XXXX XXXX XXXX in. XXXX XXXX XXXX XXXX. \n\nXXXX XXXX delivered the wrong item ( XXXX model ) and the package arrived incomplete, missing a major required component that prevents installation. \n\nI attempted to return the item, but XXXX XXXX incorrectly classified the return as Buyers Remorse, which is false. This is a case of : Wrong product version delivered Missing parts Incomplete XXXX XXXX XXXX then refused the return and blocked the transaction through The Retail Equation ( TRE ), which prevented me from processing the refund. \n\nI opened a case with XXXX XXXX ( XXXX XXXX ), and they confirmed confusion about the correct model. The item is not compatible with my XXXX mower and is missing parts. \n\nI paid using my Home Depot Credit Card, and I am requesting CFPB assistance to resolve this issue. \nI am asking for : 1. Correction of the return classification 2. Approval of the return 3. Refund of {$1700.00}, since the product was not as described and arrived incomplete. \n\n\n\nI have attempted to contact XXXX XXXX XXXX XXXX ( email sent XX/XX/year> at XXXX AM ) and have received no response. \n\nI am requesting CFPB intervention to resolve this matter."
+}

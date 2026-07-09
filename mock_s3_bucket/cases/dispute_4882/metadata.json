@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4882",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MD",
+    "complaint_zip": "20772"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16746,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We were victims of a scam overseas in which were threatened unless we provided a credit card on XX/XX/XXXX. Upon return to the United States we opened a dispute with Citibank XXXX XXXX XXXX XXXX ). Dispute customer service representatives are all overseas and unable to read, write or speak in XXXX, and is virtually impossible to speak to someone in XXXX to convey information. Nonetheless we provided all documents regarding the dispute as requested by Citibank. Unbeknownst to us and without an investigation Citibank closed the complained falsely stating we accepted the charges on XX/XX/XXXX. Which is not true, as we submitted more documents regarding the dispute as late as XX/XX/XXXX. \nWe went to a citi branch in Maryland to try and speak with someone in XXXX because all Citibank employees arent really fluent in XXXX and we dont speak their language. On XX/XX/XXXX the branch manager contacted XXXX in the dispute department who was polite and told us someone ( not us ) close the dispute due to a glitch and no investigation was ever conducted and it was a mistake from Citibank. We werent aware of this and requested the dispute to be reopen. Citibank is non- commital to reopen the dispute even though they closed it not us, we never admitted responsibility for the charges. They refuse to give a straight answer and when we requested to speak to a supervisor XXXX in Arizona ( manager ) was extremely rude, condescending and borderline verbally abusive and basically again was not commital to reopen the dispute and give us the credit back while they investigate. Citibank never investigated anything. Citibank closed it without our consent and refuses to rectify their mistake and their customer service employees either dont speak XXXX or are abusive."
+}

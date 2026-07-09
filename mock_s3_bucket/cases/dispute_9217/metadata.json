@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9217",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "657XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14992,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Starting in XX/XX/year>, someone used my wifes Walmart account to order several items. I did not have a Walmart credit card nor does my wife XXXX XXXX, but she does have a Walmart account. The logged into her Walmart account and changed the phone number to be able to make purchases, because when we got our statement from GM Mastercard, which the name of the GM card has now changed to Barclays, She tried to log into her Walmart account and could not because the phone number had been changed. I called the number for Walmart customer service and yes the phone number had been changed but they did not resolve the issue, so then I contacted GM ( Barclays ) about fraud charges and they investigated but did nothing to remove those charges. Today we got a letter from Barclays stating they have investigated the charges and they are our responsibility!!!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3942",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "778XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8369,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I appealed a dispute resolution on my credit card for {$1100.00}. We submitted the denial in XXXX of this year and Citi did not contact us about the decision. We called and were told there was an error and it had to be appealed. We appealed it and we just received a letter stating it was denied because \" We no longer have any recourse to obtain credit for you since the time frame in which to resolve a dispute has passed ''."
+}

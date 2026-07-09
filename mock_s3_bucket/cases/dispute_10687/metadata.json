@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10687",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "079XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23582,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a {$960.00} charge for a purchase from XXXX ( Order # XXXX ) for a XXXX XXXX event on XX/XX/year>. This is a \" Goods Not as Described '' claim involving a material bait-and-switch. I paid for premium XXXX XXXX XXXX, Row XXXX tickets. I instead received XXXX XXXX XXXX XXXX tickets, which have a significantly lower market value. \n\nAmerican Express is refusing to honor the dispute, claiming the merchant stated I did not contact them within the required 7-day timeframe. This is factually false. I contacted the merchant via phone on the night of the event ( XX/XX/XXXX ) and initiated a formal written dispute on XX/XX/XXXX, well within their 7-day window. I have provided Amex with proof of this contact, including emails from a XXXX executive representative named \" XXXX, '' but Amex has failed to perform a proper human review of this merchant fraud and deception."
+}

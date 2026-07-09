@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4272",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "956XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13629,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute for a charge that was PENDING on my account, asking the company to NOT allow the charge to go through because I felt that the merchant had defrauded me and I wasn't getting a good feeling that the merchant would remove the charge from my account like they said they would. The company allowed the charge to go through anyway which has caused me a lot of headache - hours and hours of time spent providing documentation to the company to prove why I should not have to pay for the charge. The company sent all of the details over to the merchant and said they were working on my behalf to get the charges removed but it is clear to me that they have not read my documentation and only forwarded it on and accepted the response from the XXXX that they will not issue a refund to me and repeated it verbatum back to me in various letters indicating that I will not be reimbursed and they have closed my dispute. I have a ton of documentation and dates, notes, etc that is very hard to remove all personal information from in order to paste it all in this box. Instead of giving all of the details here, I am attaching all of the documents for your review and determination of what to send to the company for the complaint. Please start by reading the document that says \" READ FIRST ... '', followed by the numbered documents in order of number. \nThis started on XX/XX/year> when I disputed the charge that was put on my account on XX/XX/year> and was still pending at the time. It has been ongoing since then. The company closed out my dispute for the XXXX time on XX/XX/year> in favor of the merchant."
+}

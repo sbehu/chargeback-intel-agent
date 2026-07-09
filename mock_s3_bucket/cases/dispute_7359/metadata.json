@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7359",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7052"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46871,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing charges made to my CitiBank Best Buy Account on XX/XX/year>. I was attending a XXXX  dinner for my job on XX/XX/year>, as soon I as got home I checked my email and saw charges made on my Best Buy account that were fraud. I immediately that night on XX/XX/XXXX contacted Citibank to report the charges. The XXXX charges were for digital purchases. XXXX charge was for {$100.00} and the second charge was for {$150.00}, totaling {$250.00}. A case was opened with the Best Buy/Citibank fraud department . Since then, Ctitbanks fraud department has sent me a letter that their investigation was complete and that I am responsible for the charges. I have been spending months fighting and disputing this. They keep stating that since my email was used it is my responsibility to pay, However my email account, gmail was hacked. I received hundreds of emails on XX/XX/XXXX from all different companies with attempted charges and security code requests. I have stated this several times to Best Buy/Citibank with no help or resolutions on their end. I am a responsible individual and work in XXXX, my credit is in good standing with all my accounts and I do not want this fraud to affect my credit. I am now getting calls from Citibank, interest fees and late fees added to this fraud activity."
+}

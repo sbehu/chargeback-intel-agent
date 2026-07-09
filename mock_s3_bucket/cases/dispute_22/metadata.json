@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_22",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "833XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28710,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have and XXXX XXXX Barclays credit card. in XXXX I was contacted and asked about a charge made in XXXX XXXX ( I live in XXXX  and was not in XXXX XXXX  ) told them it was fraud. The card was canceled and the charge removed. XXXX received a letter it was my charge {$490.00} was placed back on my account. I called the fraud department multiple times. they said I needed to prove I wasn't in XXXX XXXX  on the day the charge was made. I asked to speak to a manager. Two days later a manager called said investigation was not proper. my address was changed and a card was sent to XXXX XXXX  Told me charge would be credited 24 to 48 hours.. That was middle of last week. Charge still shows. I called today to be told they had no record of manager talking to me and the only way a charge would be credited is if a new investigation shows it was fraud. In the meantime I owe the money. At that point I was very frustrated I asked to speak to a manager again and hung up ... ending up no further along than before."
+}

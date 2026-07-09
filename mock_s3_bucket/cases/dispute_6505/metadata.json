@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6505",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "99207"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23749,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased event tickets from a third party ticket seller in error ( thinking it was a legitimate site, not a ticket scalping operation ). Once the transaction was final, I saw that I would not actually get the tickets for 183 days. The fine print on the sellers site was very hard to access, so I missed the part where they admit they are a secondary market, aka ticket scalping operation. When I contacted XXXX XXXX XXXX, I was advised that my remedy would be to sell ( scalp ) the tickets. The problem is, I do not have possession of any tickets to sell. They also purported that Certain venues and/or performers do not release tickets until 24-48 hours prior to the event. I verified that in this case, that is false by purchasing tickets directly from the venue and receiving them immediately. In addition is appears as thought XXXX XXXX XXXX is in violation of RCW 19.345.020 ( 1 ) ( a ) by using software to circumvent, thwart, interfere with or evadeaccess control system or other control or measure on a ticket sellers website. I do not understand why it is legal to charge for goods or services that are being held for 183 days, when there is no manufacturing involved and the statement that venues do not release tickets is simply a lie."
+}

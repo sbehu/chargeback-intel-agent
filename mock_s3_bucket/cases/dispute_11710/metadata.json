@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11710",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11824,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX incorrectly charged me for tariffs. I placed an order for a total of XXXX units with a total value of {$1400.00}. XXXX incorrectly notated the value of the product to be {$11000.00}. I should have been charged the tariff rate % against the total value of inventory I purchased ( {$1400.00} ) ; instead, I was charged the tariff rate against an incorrect inventory value of {$11000.00}. This meant an incorrect overpayment of {$620.00}. The purchase order and invoice I paid show the accurate value of the inventory. I tried to contact XXXX for a resolution over a dozen times. When I could not get through to XXXX for months, I then submitted a claim with CitiBank to get them to dispute the amount I was charged. They declined my dispute and are not allowing me to reopen the dispute for further investigation. I have done everything in my power to reach out to both XXXX and CitiBank to resolve the issue. They charged me an extra {$620.00} that I should not have been charged."
+}

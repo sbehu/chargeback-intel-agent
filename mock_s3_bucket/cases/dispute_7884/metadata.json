@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7884",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "49417"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15566,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I paid {$640.00} and {$200.00} to XXXX XXXX XXXXXXXX XXXX XXXX  ) through my Barclays Aviator Mastercard. XXXX markets itself as a platform to connect entrepreneurs with investors and advertises a refund policy : if no genuine investor interest is received, the customer may request a free re-listing or refund. \n\nI followed their policy exactly : XXXX XXXX XXXX XXXX  I requested a free re-listing ( well before my listing expired ). \nXXXX XXXX : XXXX promised a rewrite and re-listing. \nXXXX XXXX & XX/XX/XXXX : I followed up due to lack of updates. \nXXXX XXXX : XXXX claimed to have re-listed and nudged investors, but in reality no changes or promised rewrite advice were delivered. \nXXXX XXXX : I requested a refund, within the timeframe required by their refund policy. \nXXXX XXXX : XXXX responded only to say they noticed I disputed with my bank and then refused further engagement. \n\nXXXX later provided Barclays with a rebuttal claiming investor interest. However : -Expired Pitch Blocks Evidence Once a pitch expires, XXXX locks users out of their own investor communications. This prevents customers from accessing message history to prove whether engagement was genuine. A legitimate platform would preserve full access to message history. \nXXXX XXXX Was Unsubstantive None of the listed interested investors ever replied to my follow-up messages. They disappeared immediately, exactly matching dozens of independent reviews ( XXXX, XXXX, XXXX, etc. ) describing ghost investors and last-minute automated interest. \n-Refund Policy Was Breached XXXX refund terms require contacting investors, requesting re-listing before renewal, and requesting a refund before the end of the second listing. I complied with all three, yet XXXX refused to honor their own policy. \nXXXX XXXX XXXX XXXX in Practice Their Terms & Conditions ( Section XXXX, Section XXXX ( f ), Section XXXX ) describe a functioning investor platform, immediate work justifying loss of cancellation rights, and a ban on misrepresentation. In practice, no substantive work was delivered, investor interest was manufactured, and the service failed its own standards. \n\nThis is not an isolated issue. Many customers describe the same pattern : unsubstantive investor interest, denial of refunds, and refusal to engage."
+}

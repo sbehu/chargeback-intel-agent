@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13263",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33707"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49746,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Barclays ( Barclays Bank Delaware ) Product : Credit card Issue : Billing dispute / chargeback denial Narrative : I am filing a complaint regarding Barclays handling of a credit card billing dispute involving a XXXX marketplace purchase ( seller : XXXX ). \nXXXX authorized a return extension beyond the original return window and issued a return authorization ( RMA ) with a final return-by date of XX/XX/year>. I relied on that authorization. \nOn XX/XX/year>, I physically brought the items to a XXXX store to complete the return as instructed. Store staff scanned the return barcode ; however, the system failed and would not process the return. While I was in the store, XXXX customer service was contacted and acknowledged the issue and escalated it, but the return was never completed due to their system/process failurenot due to any action or inaction on my part. \nI subsequently disputed the charge with Barclays and provided documentation including : The authorized return extension to XX/XX/year> Walmarts in-store return instructions and barcode Evidence of my in-store return attempt on XX/XX/XXXX ( including timestamped photos ) XXXX correspondence acknowledging escalation Barclays denied the dispute , relying on a 30-day return policy. This is inapplicable because XXXX extended the return window and issued a valid RMA, and I attempted the return within that authorized timeframe. The denial does not appear to have considered the authorized extension or the documented, timely return attempt that failed due to XXXX system.\n\nI am requesting that Barclays : Reopen and re-evaluate the dispute based on the full record Correctly apply the not as described / defective merchandise standard, recognizing that a timely, authorized return was attempted but prevented by the merchants system Provide a written explanation addressing the authorized return extension and the documented in-store attempt on XX/XX/year> I have submitted a complete packet of supporting documentation via fax and can provide it again upon request.I am requesting a full reversal of the charge based on the merchants failure to complete an authorized return within the approved timeframe. \nI fully complied with all return instructions and attempted the return on XX/XX/year>, within the authorized extension. The return was not completed due to a system failure outside of my control."
+}

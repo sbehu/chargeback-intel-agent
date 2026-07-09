@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11403",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "851XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47905,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello I received your letter and below are the emails I sent to Citi Bank and the XXXX XXXX merchant : From : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  Hello, I have submitted below all the emails associated with this dispute! If you do not refund me the money, I will report you as well to the federal government. You chose to believe the merchant over me! I had to call and reopen this and you never gave me the opportunity to respond to the merchant 's lies!\n\nI canceled as I was instructed to do! and if you would have simply checked my account history, you would see that at first, they canceled and refunded me the full amount! Then they tried charging me again, which I never authorized!!!\n\nThen had to immediately cancel my previous card because of them!! I can not believe you allowed this and were believing the merchant!\n\nYour process is obviously flawed and needs improvement. \n\nThank you, XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX refund has been issued STOP CHARGING MY CREDIT CARD! Why did you charge me again when I already canceled and you gave me a refund? You have already been reported to FTC! cancel this charge immediately!\n\nPowered by XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX refund has been issued You're getting this email because you agreed to receive notifications from XXXX XXXX XXXX, A refund has been credited to your account. Please allow 10 business days for the refund to appear on your account statement. If you have any questions or concerns please contact us to clarify the matter.\n\nPlease note that this e-mail address does not support incoming correspondence. If you have any questions, please go to the website and send us your query via the \" Contact us '' form.\n\nYou're getting this email because you agreed to receive notifications from XXXX. If you want to unsubscribe, please click the links below. \nChange email settings Unsubscribe from all Privacy policy Terms of Use XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Subject : Confirmation of Repeat Billing Cancellation You're getting this email because you agreed to receive notifications from XXXX XXXX XXXX, This email confirms that you have canceled your subscription successfully. \nYou may continue to use your account as normal until your membership expires. On this date your membership will automatically revert to a Standard membership, which means that some features will no longer be available to you. You can renew your membership at that point by paying again.\n\nIf you wish to see the status of your account, go to the \" My Settings '' page We hope that you have chosen to cancel because you have found somebody.\n\nOur Support Team will answer payment queries 24/7 by phone : XXXX ( XXXX ) XXXX Contact us online and we will respond within 24 hours. \n\nBest Regards, XXXX XXXX Customer Service Representative Please note that this e-mail address does not support incoming correspondence. If you have any questions, please go to the website and send us your query via the \" Contact us '' form.\n\nYou're getting this email because you agreed to receive notifications from XXXX. If you want to unsubscribe, please click the links below. \nChange email settings Unsubscribe from all Privacy policy Terms of Use XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

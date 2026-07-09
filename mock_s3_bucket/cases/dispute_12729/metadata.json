@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12729",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21001"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24160,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I paid {$1600.00} to XXXX XXXX on XX/XX/year>. I cancelled the trip and per XXXX 's policy, they issued a Reservation Credit of {$1600.00} to be used for future travel within one year.\n\nWhen I found out XXXX XXXX was going bankrupt and ceasing all operations, I immediately contacted Citi to dispute the transaction because I would be unable to use the credit.\n\nI filed a chargeback on XX/XX/year>. Citi contacted XXXX on XX/XX/year>. XXXXXXXX XXXX  bankruptcy representatives responded on XX/XX/year>, actively fighting my chargeback even after the airline had permanently shut down. Citi ruled against me on XX/XX/year>, citing XXXXXXXX XXXX cancellation policy. \nCiti 's decision is wrong. XXXXXXXX XXXX  cancellation policy is completely irrelevant because XXXX no longer exists and can not provide any travel services whatsoever. I am being charged {$1600.00} for something I will never receive under any circumstances. No cancellation policy can legally obligate a consumer to pay for services a merchant is permanently incapable of delivering. This is exactly what the Fair Credit Billing Act ( 15 U.S.C. 1666 ) protects against. The DOT has publicly encouraged XXXX passengers in my exact situation to file chargebacks for services not rendered. Citi has failed to protect my consumer rights and I am requesting a full reversal of {$1600.00}."
+}

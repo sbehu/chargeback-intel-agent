@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1784",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24977,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have new information verifying my dispute on XX/XX/2023 for {$2400.00} with XXXX XXXX. \nI called to open the reopen the dispute because the company has verified I did not make the transaction or plane flight. \nAmerican Express is not allowing me to reopen the dispute."
+}

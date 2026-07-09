@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13092",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96706"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24581,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a Citibank cardholder. I reported a fraudulent charge of {$200.00} made on XX/XX/year>, at XXXX XXXX XXXX. Citibank denied my dispute, stating the merchant provided proof I authorized the charge ( Case ID : XXXX ). Citibank completely failed to conduct a reasonable investigation. They mailed me the merchant 's evidence, which explicitly proves the charge was fraudulent. The hotel folio provided by XXXX clearly shows the room was booked and used by a man named \" XXXX XXXX '', with an address of XXXX XXXX XXXX, XXXX XXXXXXXX XXXX  My name is XXXX XXXX and I live in Hawaii. The documents show my stolen credit card was saved to this stranger 's profile. Citibank 's automated systems or investigators simply saw my card number on a receipt and denied the claim, ignoring the fact that the merchant 's own documents identify the thief. I have repeatedly tried to resolve this with Citibank, but they have closed the investigation and reversed my credit. I am asking the CFPB to intervene so a competent executive team at Citibank will actually read the documents and restore the {$200.00} credit for this verified fraud."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_426",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "64801"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7017,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered king crab legs from a XXXX add XX/XX/XXXX or XXXX 2023 for {$74.00} for a party. The add said they come from XXXX. It was free 2 day shipping in dry ice. I never received crab legs. Website that was in XXXX ad no longer exists. When I tried to go to website afterwards it kept re directing me to a website that sells clothing and accessories! After repeated attempts to get information from American Express I decided to file this complaint. I have reached out to XXXX  multiple times letting them know I did not receive what I ordered they said when they reached out to the company that the company said they sent me something and the date they said it was delivered. I explained the only thing I have received in mail was a cheap pair of earbuds ( I did not order ) but it was not from company charging me. I asked what the company said that they sent me, XXXX would not tell me I asked for copy of response from company XXXX representative said she would email it to me she did not, instead she sent an email letting me know how to file fraud charge. Which I had already done. They closed the case I filed another complaint then I called and said it would not let me send finish filing the fraud charge complaint because it was for same reason as before and that one had been closed because the company said they sent me something. So she took information over phone and kept saying well its been several months since the charge! I said I know and I filed a fraud claim immediately when what I ordered was not received when promised, so she filed fraud charge again then they closed both because they said I started one on internet that was open ( I could not complete ) and then called and submitted again so they couldnt have XXXX open at once for XXXX complaint. So they closed BOTH! I call again guy says company making charge said you received something, this time he gave me a tracking number and shipping company. So I went online typed in tracking # it showed nothing I emailed shipping company asking them to send me information on the tracking # they never responded. This has been going on for months now. The simple fact is I ordered consumable crab legs that was supposed to arrive in 2 days they never arrived. The company making charge says I received something but no one knows what it was or has proof that it is I ordered. I have repeatedly requested the information from American Express which they never provided."
+}

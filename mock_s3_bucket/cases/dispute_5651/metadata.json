@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5651",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98155"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22927,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a hotel for my partner through Amex XXXX  on XX/XX/year>2024 with the amount of {$410.00}. I opened a dispute because I think the amount is not correct on XX/XX/XXXX. After a few days I realized the amount is correct so I cancelled the dispute. Both my partner and I went on my trip and was in another country from XX/XX/XXXX and XX/XX/XXXX. However, I got a notification saying that the trip was cancelled three days before the trip. Both my partner and I were in a different time zones. I tried both online chats and calling and sitting in waiting lines with customer support for hours trying to rebook the hotel, since we actually needed to stay at a place in the upcoming trip. \n\nIt was a vain to rebook and we had to book a different hotel through different platforms. \n\nIt was a pain working with Amex and there was no clear update of the dispute process. Amex also cancelled the trip without my consent and there was no easy way to contact them in a non time consuming way. We spent 4 to 5 hours trying to contact customer support and did not get the issue resolved. Amex did no follow ups or reimbursement."
+}

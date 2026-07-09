@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6238",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89431"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25329,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was charged {$4400.00} and again on XX/XX/XXXX for {$4500.00} by XXXX * XXXX on my Citi credit card ending in XXXX totaling {$9000.00}. These charges were for services that were delivered in name but not as promised, and not effective. The results did not meet the scope, quality, or expectations outlined during the agreement. \n\nI contacted the merchant multiple times requesting clarification or a refund, but received no response. I then filed disputes with Citibank. Both were denied. In the final denial dated XX/XX/XXXX, Citi claimed the services were received, but provided no supporting evidence or explanation as to how they made that determination. \n\nI also submitted documentation of the merchant 's non-response and a summary showing {$14000.00} paid to this merchant across XXXX household accounts ( including my spouse ). Citi closed the case without addressing these facts. I am requesting CFPB assistance in reopening the dispute and securing a full refund for undelivered and ineffective services."
+}

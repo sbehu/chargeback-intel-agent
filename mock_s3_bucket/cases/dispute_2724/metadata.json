@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2724",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "958XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35167,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank made an unauthorized debit from my bank account in the amount of over {$9000.00}. Records show that I make payments of amounts under {$20.00} per day, and have never authorized a payment that exceeds the amount in my bank account. Citibank reps said their records showed that I had authorized it via my mobile app. Turns out, Citibank has access to my account and can make activity logs look like I authorized the payments ( most centralized banks do ). \n\nCitibank decided to abuse these privileges of being a centralized bank and debit money from my bank account such that it went down to XXXX dollars and went into thousands of dollars of overdraft. Thankfully my bank XXXX XXXX did not immediately release the payment to Citibank, and I was able to request a stop payment in time. XXXX XXXX also approved of my claim that the amount was not authorized by me because they saw the consistent daily payments to Citibank in the amounts of under {$20.00} per day, which didn't match the behavior of authorizing a payment of $ XXXX that would set my account to XXXX dollars and into overdraft. \n\nPer XXXX XXXX, Citibank 's actions constitute fraudulent unauthorized access and payment request, and the public should know about it. No bank is perfect, but at least XXXX XXXX was more organized and quick in its handling of the situation and restored my bank account by returning the funds back to my account. Citibank 's representatives are also badly trained to not care about the customer. Some of them do not transfer to the correct department and are very lazy and unethical, which is reflective of high up management. \n\nEven with AI, the organization, security and ethics will get worse, and I can how Citibank and other banks too might become lazier and more despondent as the people who work there depend more and more on AI, thereby getting XXXX XXXX XXXX adding to the increased entropy of disorganization, dysfunction, and corruption -- all AI assisted. \n\nDependence on technology and AI without considering security and access controls from the inside of the bank may very well be the cause of the downfall of Citibank. Citibank deserves their fate and its impending doom, as NY attorney general XXXX XXXX and the hundreds of thousands of customers who lost money ( and have not been made whole ) through Citibank 's data breach ( probably from lack of insider access control ) and people like myself who have experienced unauthorized activity from Citibank itself are all aware that Citibank is the most unethical big bank of them all. Citibank is set to blame itself and they are now receiving tenfold of payback of the amount of nastiness, corruption, greed, and abuse they have committed against customers."
+}

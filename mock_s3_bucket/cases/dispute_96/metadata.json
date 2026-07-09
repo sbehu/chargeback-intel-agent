@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_96",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91913"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28211,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I identified unauthorized charges on my Costco XXXX by XXXX XXXXXXXX XXXX of XXXX XXXX ( XXXX ) number from credit card statement. XX/XX/XXXX there were XXXX charges of {$35.00}, and again XXXX {$35.00} charges on XX/XX/XXXX. I only had one active account at the time and the authorized amount was {$27.00} on my NFCU card. I cancelled that two and am sure XXXX will assist with those charges. Citi is the opposites. After submitting XXXX separate documents in XXXX for the four {$35.00} amounts, I was issued a conditional credit. One was reversed, and the other three stuck. I called Citi after the chargebacks and was assured they would reopen the case. Prior to contacted Citi, I visited the merchant four times, provided the statement and charges and was first told the manager would call, and a week later, no call. I made separate visits, asked to close all accounts as two years prior I had two vehicles, but in separate card. Today I called and found the three reopened reviews were closed on XXXX XXXX. I had requested that the vendor be blocked verbally in XXXX with the agent for CITI, and I had two more charges from the same vendor for {$35.00} each on XX/XX/XXXX. The letter said I didnt have enough proof, and to go and work it out with the vendor. I asked the supervisory agent for help today, and she repeated the letter info. The business is not listed under XXXX  and the number on my Citi bank is fraudulent. I asked the supervisor today on XXXX XXXX to call the number as proof its a fraudulent number on their statement and she point blank told me she wasnt going to do that. Ill love Costco, spend thousands with their visa, even used it for a down payment as I purchased through Costco car buying program. I will be sending to our friends at Costco corporate that Citi is not representing Costcos image properly. Ive only had the card a couple of years, and cant believe vendors properly."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1898",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85041"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15624,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase with XXXX to purchase a product from bestbuy. I was charge the full amount for the product at the store by using my XXXX card. I contacted XXXX  to credit the amount back due to me paying at the store. I was told to continue making payments to prevent late payments until the funds are returned back to XXXX  from bestbuy. This continued for XXXX months. The loan was paid but I never received my funds back from bestbuy or XXXX XXXXhe store XXXX  was very rude and refused to help me. The store is located on XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXXXXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6606",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10467"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32411,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I attempted to purchase a flight ticket through XXXX  website. The total cost of the ticket was clearly listed and advertised as {$610.00} throughout the booking process. This was the amount I agreed to pay when I entered my payment information and completed the purchase. \n\nHowever, immediately after submitting the payment, my card was charged $ 826an increase of {$210.00} that was never disclosed to me during the purchase process. There was no indication that the final amount would exceed the advertised {$610.00}. The price increase was only revealed after my card had already been charged. \n\nThis is a clear case of fraudulent misrepresentation and deceptive pricing. XXXX presented a false total cost to induce the transaction, then charged a higher amount without my informed consent. I did not authorize a charge of $ XXXX only agreed to pay the clearly stated price of {$610.00}. \n\nCredit Card Dispute Mishandling : I disputed this charge with Barclays Mastercard, expecting a clear resolution given the nature of the deceptive transaction. Unfortunately, Barclays deemed the charge valid and refused to issue a refund. Their determination is incorrect : a transaction based on false pricing and lack of disclosure is not valid under basic consumer protection standards. \n\nBarclays failed to properly investigate the dispute and ignored clear evidence of misconduct by the merchant. This has resulted in me being held financially responsible for a charge I did not knowingly authorize."
+}

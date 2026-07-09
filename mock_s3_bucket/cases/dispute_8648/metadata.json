@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8648",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22102"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15864,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Description I put dispute on a charge from XXXX on my American Express card in XXXX and provided info on date of XXXX pick up and return and asked them if they need tracking number for proof and was told NO by Amex representative. XXXX responded with copy of the purchase and asking for tracking number if available. Amex did not even care about response and just closed the case in favor of XXXX and reverted back the money. Amex need to explain why they have put me through XXXX hours of phone calls and frustration just to re open the case and provide tracking number. It is very clear that any answer from seller, specially companies like XXXX, would be sufficient for Amex to pay them the money and customers do not matter. This is hours of my calls and frustration on customer service all over the world who have not been trained properly and just brush off the customers. I need answers and the only answer I hear from Amex is \" that is the process. This money will be reverted as XXXX lied and proof was provided. However, I need government agency to hold Amex responsible and demand answer why they did not even read the response or follow up with me and just rewarded XXXX who was clearly lying. I need answers since with my health condition I went through a very frustrating time to reopen this case"
+}

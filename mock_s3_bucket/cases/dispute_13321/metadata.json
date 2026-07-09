@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13321",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11278,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, I noticed several unauthorized charges on my Citi credit card ( See below ) on XX/XX/year>. I called and chatted, several times with their reps & were transferred to their Billing, Dispute, and Fraud departments since XX/XX/year>. \n\nEach time, they kept telling me that my payment is due, then they will ask for the unauthorized charges, the police report number, etc. once I told them about the disputed unauthorized charges. \n\nI also explained to them each time, that I was not in that area and which company would charge XXXX times ( {$100.00} ) in one day and then the same amount the following day. Then, same with the gas company. They kept telling me that they will investigate ( since XX/XX/year> ) but they keep racking up the late fees and interest charges. \n\nThey did put on my statement that they're all \" Disputed '' but it has also affected my credit report due to the past due balance. \n\nXX/XX/XXXX, XXXX XXXX XXXX XXXX {$100.00} XX/XX/XXXX, XXXX XXXX XXXX XXXX- {$100.00} XX/XX/XXXX, XXXX XXXX XXXX XXXX- {$100.00} XX/XX/XXXX XXXX XXXX XXXX XXXX XXXX- {$100.00} XX/XX/XXXX, XXXX XXXX XXXX XXXX {$100.00} XX/XX/XXXX, XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX {$16.00} XX/XX/XXXX, XXXXXXXX XXXX XXXX  XXXX XXXX XXXX {$950.00} XX/XX/XXXX, XXXX XXXX XXXX XXXX  {$100.00} XX/XX/XXXX, XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX {$36.00}"
+}

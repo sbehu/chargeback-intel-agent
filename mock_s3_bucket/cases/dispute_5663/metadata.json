@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5663",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8754,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX. XX/XX/XXXX By my mobile phone I donated {$100.00} to XXXX XXXX. \nXXXX. XX/XX/XXXX later that day I see on my Citi Card APP a charge from XXXX XXXX for {$6600.00}! I never authorized this amount AND I am very disappointed that Citis Fraud department did not call me or text my cell asking me if this is FRAUD or to approve this charge. I Never signed any document for this amount they are 100 % fraudulent with this charge. I ONLY gave a {$100.00} donation. \n3. Immediately, I call Citi XXXX that day and Asked to Open a dispute on this unapproved charge. I was able to dispute it on my Citi App but the person on the phone said he could not take this from me because as of that time he did not see the charge on his end. He even gave me the phone number of XXXX XXXX to call and dispute this. \n4. I immediately called an received a phone automated answer with WIN RED. They had an option for Returns and Mistakes, I left my information and last 4 of my credit card and told of my problem. They Never emailed me anything But because it was such a GLARING mistake and high amount I expected Citi Credit card company to Dispute this charge and make this right! \n5. XX/XX/XXXX I called Citi Dispute and spoke with XXXX XXXX who assured me that he would remove this {$6600.00} charge I thought he said indefinitely. He asked me to fill in a form which he sent me I emailed this on XX/XX/XXXX listing the details as I am telling you now. I emailed this to XXXX. I never received an email back. \n6. With the help of someone at Citi Card I could see 2 alerts were sent to me through the app XX/XX/XXXX and XX/XX/XXXX. I never saw these as I don't look through the app every day and thought my XX/XX/XXXX complaint was enough. \n7. As I was looking thru with my statement with my accountant, we see that Citi REVERSED this {$6600.00} on my XXXX statement and that is dated XX/XX/XXXX! \n8. Again today, I am trying to pay my XXXX XXXX and see this charge REVERSED again! I do not owe this money. \n\nI have done everything I can to get Citi Card to understand I never made this transaction. The only thing I got from Citi is a letter stating that WIN RED is offered me {$4.00} refund! This figure has nothing to do with this {$6600.00} transaction. \n\nI sent a response letter to the Citi Alert of XX/XX/XXXX. In GOOD FAITH I listed the only information I have about this problem. There should have been some kind of approval from me in order to charge my card for such a high amount. There is no record of this transaction within my XXXX account either. They are 100 % fraudulent and I would expected to be PROTECTED by CITI CARD!"
+}

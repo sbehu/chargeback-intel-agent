@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9694",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30309"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8105,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a {$1200.00} charge related to airfare purchased through XXXX XXXX  ( XXXX ). \n\nIn XX/XX/year>, before the first flight date, I explicitly asked the merchant whether I could cancel the first flight while retaining the return flight. The merchant responded but failed to disclose that missing or cancelling the first flight would automatically cancel the return segment. \n\nRelying on the incomplete information provided, I kept the ticket unchanged as I intended to use the return flight. I later learnedmonths afterward and only upon my own inquirythat the entire itinerary, including the return flight, had already been canceled without my knowledge. As a result, the travel service I paid for could not be used as intended due to the merchants failure to disclose the cancellation consequence. \n\nI disputed the charge with American Express on the basis of merchant misrepresentation by omission and services not rendered. The dispute was denied, and the charge was rebilled."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8409",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32312"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20904,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX a balance transfer was initiated from XXXX XXXX ( account ending XXXX ) to XXXX XXXX XXXX ( account ending XXXX ). {$3700.00} was transferred to Citicard, who then incorrectly applied the amount to Citicard XXXX ( account ending XXXX ) instead of going to XXXX XXXX ( account XXXX ) on XX/XX/XXXX. Citicard directed me to XXXX Bank XXXX, and XXXX Bank XXXX referred me back to Citicard. Citicard would not help. The documents are attached."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5508",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28390"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22295,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Bought a vacation on XXXX ( the property was line properties ) with my XXXX Citi card totaling ( {$2700.00} ). The company charged me 3 times. Citi credited back one of the three times fully ( {$2700.00} ) and half of a credit for the other charge ( {$790.00} XX/XX/XXXX and {$1100.00} XX/XX/XXXX ), but they will not refund the remaining amount for the second charge ( XXXX ). Ive called them every single month since XXXX and they cant seem to explain to me why they cant or wont refund it but I have been trying to get a refund since XX/XX/XXXX. Every person Ive talk to says that they can see where I was overcharged and that I should get a refund and that the codes that theyre putting into their system should allow for a refund to be given, but I still have not been refunded the full credit. Ive exhausted all options and the company says they only charged us once, so I dont know if Citi just charged me that or if the company charged me that but Im not sure what else to do. They have extensive documentation of this."
+}

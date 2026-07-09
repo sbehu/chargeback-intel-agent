@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7592",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47417,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, On XX/XX/year>, my credit card ending in XXXX was charged {$490.00} by XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX  However, I should have only been charged {$8.00} for one beverage that I had purchased. The over charge was a total of {$480.00} I was present at the merchant location but did not authorize the amount charged. My card was taken away from me and processed out of my presence. No receipt was provided to me at the time of the transaction. \n\nI disputed the charge with Citibank as an unauthorized use under 15 U.S.C. 1602 ( o ) and 12 C.F.R. 1026.12 ( b ). These laws define unauthorized use as any transaction made without the cardholders actual authority, regardless of whether the physical card was present. \n\n\n\n\nCompanys response : Citibank denied my dispute in a letter dated XX/XX/year>, claiming : 1. I admitted to making the purchase This is false. I only acknowledged being present at the location, not authorizing the final amount. \n\n2. My card was present and not reported lost or stolen Presence of the card does not equal authorization under Regulation Z.\n\n3. They require a merchant-issued credit slip Regulation Z does not require the cardholder to obtain such documentation ; the issuer has the burden to investigate. \n\n4. They treated the case as a pricing dispute This is incorrect ; I never agreed to the {$490.00} charge, so it is unauthorized use.\n\nWhy this is a violation : Citibanks handling of my case violates Regulation Z : 12 C.F.R. 1026.13 ( f ) : They failed to conduct a reasonable investigation before denying my dispute.\n\n12 C.F.R. 1026.12 ( b ) : They failed to treat the charge as unauthorized even though I did not consent to the amount charged.\n\n12 C.F.R. 1026.13 ( a ) ( 1 ) : They failed to properly process my billing error dispute.\n\n15 U.S.C. 1602 ( o ) : They misapplied the definition of unauthorized use.\n\nThank you"
+}

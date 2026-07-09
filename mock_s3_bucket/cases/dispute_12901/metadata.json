@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12901",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16186,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding an unresolved billing dispute and inaccurate credit reporting by Citi. \n\nIn XX/XX/XXXX, I scheduled a telehealth appointment for XXXX XXXX. The provider joined approximately 20 minutes late. I informed the provider I had a hard stop at XXXX XXXX  due to a work commitment. The provider became confrontational and stated he would charge my credit card. I clearly stated that I did not authorize any charge, as the service was not provided as scheduled and could not be completed within the remaining time. \nThe charge was posted and I disputed it with Citi. Citi initially investigated and issued a permanent credit. My card was subsequently replaced. \n\nSeveral months later ( XXXX XXXX ), the same provider reprocessed the charge using the old card, and the charge was allowed to post to my new account. I contacted Citi again and disputed the charge. Despite the prior resolution and the unauthorized nature of the charge, Citi sided with the merchant. \n\nSince XX/XX/XXXX, I have contacted Citi numerous times to dispute this charge and request documentation supporting their decision. This has been an ongoing issue for approximately 34 months. Citi has not provided any meaningful documentation or transparency into their investigation, stating that they can not provide details because the account is now closed. \n\nAdditionally, Citi is reporting this disputed charge as past due, negatively impacting my credit. \n\nThis situation is unacceptable for the following reasons : - The charge was unauthorized and for services not rendered. \n- Citi previously recognized this by issuing a permanent credit. \n- Citi allowed the merchant to re-bill a disputed charge months later. \n- Citi has failed to provide documentation or transparency regarding their investigation. \n- Citi is reporting the account as delinquent despite the ongoing dispute. \n\nThis has been a prolonged and unresolved issue, and I am seeking a fair resolution."
+}

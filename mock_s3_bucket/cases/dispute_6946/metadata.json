@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6946",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11209"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7291,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Copy to : NY XXXX XXXX General 's Office I am writing to file a formal complaint regarding the mishandling of a fraud case by American Express ( Amex ) related to an Amex XXXX Credit Card account issued in my name. \nI applied for an Amex XXXX Credit Card in XX/XX/year> but never received the card. On XX/XX/year>, I was contacted by the XXXX, Massachusetts Police Department, informing me that an individual had been arrested in possession of a credit card issued in my name. The Police case number XXXX ( XXXX XXXX ( XXXX ) XXXX ). \n\nUpon reviewing my account online, I discovered numerous unauthorized transactions made in Massachusetts and Connecticut, where Ive never been in my life. I immediately contacted Amex on XX/XX/year>, to report the fraud and was informed that the card was pre-activated. I was also informed that a second, additional card had been issued, despite my never having requested XXXX. \n\nDuring this call, I asked the representative to cancel all cards and reported both the fraudulent transactions and the involvement of the police. Despite my request, shockingly, Amex later claimed that I had not asked to cancel the stolen card, which is untrue. \n\nOn XX/XX/year>, I received a letter from Amex refusing to reverse the fraudulent transactions, even though an active police investigation was underway. Furthermore, a new unauthorized transaction appeared in Oklahoma, indicating that the stolen card remained active despite my previous cancellation request. \n\nI contacted Amex again on XX/XX/year>, and provided the name and phone number of the investigating detective in Massachusetts. \nUnfortunately, Amex failed to act appropriately, and fraudulent activity continued. I recently received a statement showing car rental charges made in my name. I do not hold a driver 's license, have never rented a car, and was overseas during the dates of those transactions. I also included this in my FTC Identity Theft Report, which I sent to Amex on XX/XX/year> ( sent to their XXXX XXXX XXXX ). \n\nOn XX/XX/year>, I received another letter from Amex requesting to speak with me. I called the number provided ( XXXX ) on XX/XX/XXXX, but the representative stated there was no record of a request for information. I recorded this call for documentation. It happened again in XXXX ; its an inappropriate behavior by the XXXX. \n\nDespite my efforts, on XX/XX/year>, Amex sent a letter stating the case was closed due to \" insufficient information '' and their inability to reach me, which is false. I never received any calls or emails, and a representative had already told me on XX/XX/XXXX that no additional information was required from me. \n\nThe second police report ( NYPD ) was sent to them on XX/XX/XXXX. The police case # XXXX. The second police report was ignored by Amex, so I have exhausted all legal methods to protect myself from this corporation, and asking the XXXX 's office to be involved. \n\nI believe this case was handled with gross negligence by Amex. Their failure to cancel a clearly compromised account, their dismissal of a legitimate police investigation, and their refusal to reverse fraudulent charges despite ample evidence and communicationincluding FTC documentationare unacceptable. \n\nI respectfully request that your office investigate this matter and involve the Consumer Financial Protection Bureau ( CFPB ) as appropriate. I have preserved all communications, call recordings, and relevant documents and am prepared to provide them upon request. \n\nSincerely, XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4057",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "184XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48361,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contested the charge on a registration fee for an exam that advertised as being current to market, which ended up not being the case- this was evident after registration once I was able to review the examination study materials, and the exam date has still yet to occur ( XXXX ). The exam administer disagreed with this, so I disputed the charge with my credit card provider on XX/XX/XXXX as the fee is quite substantial at {$1000.00} while missing material on XXXX XXXX industry standards which began implementation in XXXX of XXXX ( source, XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ). I provided all relevant information on the phone and online, and followed up with a call the next week to confirm this. I was told that they had everything they needed, and that the merchant had until XX/XX/XXXX to respond. On XX/XX/XXXX I received an email noting that I had a new message regarding my dispute - there was no message to be found, so I called and inquired. They informed me that they sent a letter in the mail, which I never received, requesting more information. On XX/XX/XXXX I was sent the letter via secure email. I promptly responded in the same day to the email in question with all requested information ( XXXX ). I received confirmation of receipt of the documents. On XX/XX/XXXX, I received notice that my case was closed and that I was liable. I called to find out why this was, and was informed that I never provided a scanned image of my signature- this was never requested of me, following the confirmation I received of my document submission. On XXXX I provided again, the same information this time with a scanned and dated signature. I was told that my dispute would reopen. Today XXXX, I check the status of the dispute, and it still shows closed. Confused, I call again and speak with a representative who informed me that it was not reopened, and that it was closed because of the merchant response. I then asked for a copy of merchant response. The representative informed me that, not only was there no merchant, but Citi had yet to even contact the merchant. So XXXX ( XXXX ) weeks later and Citi has performed NO action. Shocked and frustrated, I asked to speak with a supervisor about the multiple mishaps- they 'understand my frustration ' but they 'have no updates to share, please wait XXXX business days. ' I was also informed by the supervisor that the dispute timeline now resets due to their errors, and that resolution wouldn't be until AFTER the proposed examination date - all the while I am unaware if I will be receiving my money back or not. Not only this, but the merchant will very likely question why it took so long for me to contest since they have yet to hear from my financial institution. Both the errors and this resolution of process as a result are unacceptable and do not look out for the consumer."
+}

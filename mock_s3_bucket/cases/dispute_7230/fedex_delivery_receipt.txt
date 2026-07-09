@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-99809236-US
+Shipment Date:   2026-03-04T00:00:00Z
+Delivery Date:   2026-03-08T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     8016 HERITAGE DR, FL, 33062
+============================================================

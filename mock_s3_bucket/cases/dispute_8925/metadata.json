@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8925",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97217"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26929,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a dispute for services I did not receiver from a car rental company. I disputed the charge and the company provided evidence that services were rendered. I requested these, and upon receiving them replied to the credit card company promptly with my own evidence that services were in fact not rendered. The credit card company replied that the window for dispute was already closed, but that they could request to open the case with my new Information. I attempted to reopen several times, each time I was told not to pay the ammount and to wait for a reply. I did not receive any replies, only calls from citi debt collection and added interest on the charge. On my final call, they told me that all of the requests to re open the disputes were denied, despite me never receiving communication on that and that I am responsible for the charge and all interest accrued."
+}

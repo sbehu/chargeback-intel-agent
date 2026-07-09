@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2034",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93560"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37320,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase for a garden saw for {$99.00} at home depot in XXXX. On XXXX I received a notification that an account was made under my name with a random username. At that time I applied for a credit card, and I was given a paper card to use while in store. They said theyd mail me a card in a few days. The card was then mailed to me, however my entire neighborhood had their community mailbox broken into. The person that got my credit card spent almost a XXXX dollars, and I quickly confirmed on my phone that no those transactions were not mine. I quickly made a police report, and awaited follow up from XXXX XXXX. With that I also closed my credit account. After a few back and forth cases, they first determined it was me. However I am XXXX and only XXXX. There is no way security footage had me on the tape. They told me to send my drivers license as well as signature to their investigations. I did, but after a month they again determined it was me. I called customer support again, and they said to just pay the XXXX while they investigate ; I did that. They called back a month later saying I owed XXXX more dollars and that the charges were put back onto my account because they determined it was me. I told them to send me an explanation and details as well as evidence. They quickly said they would but still have not. Its been XXXX  months since that call. This has been happening/going on since the XX/XX/XXXX. It is now almost XX/XX/XXXX. I have sent them every detail. Now this is getting ridiculous, Ive opened XXXX cases with them."
+}

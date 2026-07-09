@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3917",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7652"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5409,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX I sent an email to the XXXX XXXXXXXX XXXX XXXX requesting a duplicate wall certificate. I requested specifically a certificate and not a wall license. On XXXX I paid {$40.00} to the XXXX XXXXXXXX XXXX XXXX after I received an invoice from them. On XXXX I received in the mail the wrong item. I received a wall license but I did not receive the certificate as requested. I contacted the XXXXXXXX XXXX XXXXXXXX but they stopped responding. I initiated a dispute on the Citi mobile app, however I accidentally clicked Withdraw Dispute. I called Citi to inform them about the error, and I asked to to either fix the error or reinitiate the dispute. They told me they will get in touch with me. It has since been 7 days and when I call Citi they have no information. I am looking to the CFPB to help me resolve this issue so I zany have {$40.00} credited back to me."
+}

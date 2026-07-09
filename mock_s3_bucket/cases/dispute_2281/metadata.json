@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2281",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34711"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9399,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX This dispute in the amount of {$3600.00} was resolved and closed by the credit card company and was found in my favor. \n\nXX/XX/XXXX They think that 42 weeks later they are going to attempt to recharge my account that is paid in full the {$3600.00}."
+}

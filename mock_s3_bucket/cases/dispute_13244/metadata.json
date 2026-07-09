@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13244",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "292XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49400,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased an XXXX XXXX Desk from XXXX XXXX XXXX and was charged {$320.00} on my Citi card ( Case ID XXXX ). The merchant did not provide a receipt despite my request at the time of sale. After receiving the desk, I discovered the finish is flaking around several nail heads in multiple locations. The damage appears to be a cosmetic touch-up applied prior to sale that is now failing. This defect was not visible on the showroom floor model I inspected before purchase and was not disclosed at point of sale. The desk carries a XXXX limited warranty per the store 's product record. \n\nI placed XXXX documented phone calls to the merchant between XX/XX/XXXX and XX/XX/XXXX. Every call went unanswered. The merchant 's parent company, XXXX XXXX XXXX XXXX, filed for Chapter XXXX bankruptcy on XX/XX/XXXX ( XXXX XXXX. XXXX, XXXX Bankruptcy Court XXXX XXXX XXXX  Delaware ) XXXX All locations have permanently closed. The merchant 's own published FAQ confirms stores are permanently closing and refunds are not being offered. Return of merchandise is physically impossible. \n\nOn XX/XX/XXXX, I filed a chargeback dispute with Citi. A conditional credit of {$320.00} was issued. Citi subsequently reversed the credit and denied the dispute, directing me to contact the merchant directly. This is the second dispute I have filed against the same merchant. Citi denied both. Directing me to contact a permanently closed, bankrupt merchant is not a resolution. This complaint is related to a previously filed CFPB complaint involving the same merchant and the same pattern of denial."
+}

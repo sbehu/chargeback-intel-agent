@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2450",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "020XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24325,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The Home Depot/CITI card wrongfully accuses me of making an in-store purchase of 112 cases of XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ) from its XXXX store located at XXXX XXXX XXXX XXXX, XXXXXXXX XXXX XXXX XXXXXXXX XXXX on Thursday morning, XX/XX/XXXX. However, I never made such a purchase and never took possession of the 112 cases of flooring. Nonetheless, The Home Depot improperly charged my CitiBank card XXXX. XXXX the sum of {$7100.00} and refuses to erase the fraudulent charge. The Home Depot stands by this refusal despite knowing the precise date, time and location of the alleged transaction and the identity of the cashier ( XXXX ) who processed it. The Home Depot also stands by its refusal to erase the fraudulent charge despite its access to security footage that would confirm that I was not the purchaser of the flooring. On XX/XX/XXXX, The Home Depots Security Operations advised me that the missing flooring was picked up by XXXX at The Home Depots XXXXXXXX XXXX store. Later, Security Operations advised me this information was incorrect. I found out later that the flooring was picked up at the time of purchase at XXXX XXXX XXXX. I have proof that I was at work that day and a police report from XXXX XXXX XXXX stating that I was not the person that purchased or picked up the flooring. The Home Depot/CITI is charging me {$7100.00} for a purchase I never made."
+}

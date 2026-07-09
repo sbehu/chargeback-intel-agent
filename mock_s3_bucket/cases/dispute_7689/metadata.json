@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7689",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95682"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31075,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, while out of state, I received a text alert from Citibank for a {$1000.00} international transaction at XXXX XXXX XXXX on my credit card ending in XXXX. I reported it as unauthorized and fraudulent. Citi assured me I would not be responsible while the investigation was pending. Citi cancelled the card and re-issued a new card with a different number. \n\nWhen I returned home on XX/XX/XXXX and after a review of my records, I informed Citi that I had once provided this merchant my card number XXXX months earlier as a rental application requirement but had paid in cash. This {$1000.00} charge was not authorized. The Citi representative told me to contact the merchant directly, and further stated that because I had once given the merchant my card number, Citi considered this a billing dispute rather than fraud. \n\nOn XX/XX/XXXX and again on XX/XX/XXXX, I emailed Citis billing dispute department with my case number, a detailed summary, and screenshots proving the merchant acknowledged the charge was a mistake. Neither email was acknowledged, nor was I contacted by an investigator. Citi closed my dispute, claiming I had made a series of purchases with this merchant, which is false. I was also threatened with negative credit reporting if I did not pay. \n\nOver subsequent calls, I was repeatedly given conflicting information about whether the billing dispute was still pending and whether the {$1000.00} was included on my bill. Eventually, I was given a new case number and an Action Required form. I completed and returned the form on XX/XX/XXXX via email with the supporting documentation. On XX/XX/XXXX, Citi confirmed receipt. Despite clear evidence, Citi again closed the case, still holding me responsible on XX/XX/XXXX. On the same day, I received notice that my case had been reopened under the claim that I had reported my card lost or stolen which I had not. Shortly after, Citi closed the case once more, again assigning me responsibility. \n\nUltimately, the merchant reversed the charge himself after my repeated demands not due to Citis intervention. Had he not done so, Citis mishandling would have left me responsible for an unauthorized charge and harmed my credit. \n\n\nWhy I am complaining : Citi failed to investigate properly no acknowledgment of reviewing evidence and no investigator contact. \nCitis policy appears to allow merchants to reuse stored card information months or years later without classifying it as fraud. \nI was threatened with negative credit reporting for a charge I did not authorize. \n\nPattern of behavior : This policy and practice create significant consumer risk. Under Citis current approach, any merchant who has ever been provided with a card number can make future unauthorized charges months or years later without the bank classifying it as fraud. This exposes all Citi cardholders to potential exploitation and undermines consumer trust in credit card fraud protection."
+}

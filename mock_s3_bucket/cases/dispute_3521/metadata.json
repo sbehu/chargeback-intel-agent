@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3521",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "121XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5539,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Wayfair store credit card info was breached online. Increase in credit line requested without my permission. Became aware when received text that furniture was being delivered to Florida Address/I live in NY. Called Wayfair to enter dispute over {$5000.00} worth of fraudulent charges. Cancelled credit card. I Am still receiving texts RE : furniture being delivered to Florida address. I feel that this has not been resolved. Am a victim of identity theft. Phone service hacked along with XXXX XXXX XXXXXXXX Credit card. Police report also filed."
+}

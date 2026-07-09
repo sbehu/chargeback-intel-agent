@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4062",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "10460"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23032,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contracted a company to help move my business move to the next level and receive funding from investors. We signed a contract to set a timeline and set payment to start the process. I paid the company {$6100.00} in total, i made the payment with my Amex. After the deadline came and the merchant wasn't showing no results or funding. I attempted to reach out but the merchant went silent. I have tried to dispute it with amex telling them I never received the services I paid for. They said they couldn't help cause the transaction posted more than 60 days ago. Since then I have filed many complaints with different agency that can help me, tXXXX XXXX XXXX XXXX  told me that XXXX XXXX XXXX XXXX is no longer an operating company. So i simply don't know what to do."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_821",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89115"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2070,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I contacted Citi Bank and requested to be connected to their fraud department after noticing three fraudulent charges on my account. The charges occurred on XX/XX/XXXX with See Tickets *XXXX  in XXXX XXXX XXXX CA , amounting to {$1400.00}, on XX/XX/XXXX with XXXX XXXX totaling {$430.00}, and on XX/XX/XXXXXXXX  with XXXX XXXX XXXX in NY for {$39.00}. The {$39.00} charge was promptly removed, and a dispute was filed for the other two charges. \n\nWhile awaiting a response to my dispute, I discovered another pending fraudulent charge on my account. I immediately contacted Citi to cancel the pending charge. Despite being assured that a new card would be sent and the old one closed, the fraudulent charge remained pending. \n\nAfter numerous calls to Citi Bank throughout XXXX and XXXX, the charges were finally reversed in XXXX. However, in XXXX, I received a letter from Citi regarding my dispute. According to the letter, the merchant provided documentation affirming the validity of the {$1400.00} fraudulent charge ( See Tickets *XXXX  ), and the charge was reinstated on my account. \n\nUpon reviewing the documentation, I found compelling evidence on the first page indicating that the charge was indeed fraudulent. Specifically, the email address associated with the purchase differed from my valid email address, which I confirm on every call to Citi Bank. Additionally, the IP address on the purchase did not match my home address in XXXX XXXX, NV, showing XXXX, California. \n\nI am urgently seeking assistance in removing the fraudulent charge of {$1400.00}, confirming the illegitimacy of the {$430.00} charge, and obtaining a refund to close my account. I no longer have confidence in the security of my information with Citi Bank."
+}

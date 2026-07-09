@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_115",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80403"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9072,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Around XX/XX/XXXX, I called CITI concerning fraudulent charges on my credit card. I believe the contact was initiated by a warning when I logged in online. I might have received a text as well. I called CITI on XX/XX/XXXX. I had a total of 3 calls to CIT on XX/XX/XXXX for a total of 39 minutes as they were having issues verifying my account. At that time, I let CITI know these were fraudulent charges and to turn the card off. \n\nI have had over 20 phone conversations from XXXX today XXXX, with CITI about the fraudulent changes for more than 4 hours in total talk time. We have gone through the charges more than once. I spoke with CITI on the following dates XXXX, XXXX, XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, XXXX, XX/XX/XXXX, XX/XX/XXXX, and XXXX. On some of the dates, there were multiple calls. \n\nThe fraudulent charges were made XXXX XX/XX/XXXX. There were pending charges after the 17th that never hit the account, as I had spoken to CITI. CITI recognized the fraudulent nature of the changes as they notified me once they started occurring. CITI should have turned the card off after I contacted them on XXXX. \n\nI have asked CITI for a case number associated with the disputes, and they said each dispute was its own case. There are approximately 38 fraudulent transactions. \n\nI received a notice from CITI around XX/XX/XXXX ( this is the date I retrieved from the mail ) saying that CITI had tried to reach me. They claimed that I did not contact them and were denying the dispute for that reason. When I called CITI, I was told a letter dated XX/XX/XXXX was mailed to me, but I have no record of receiving this document. When I called CITI on XX/XX/XXXX, I believe I spoke to the Dispute Investigation Department ( not sure of the actual name ) ; the representative was not able to see the times I had spoken to CITI prior, including the calls on XX/XX/XXXX for 24 mins, and XXXX for 17 mins. I have phone records of the calls, so I was very surprised that CITI claimed I had not responded. \n\nOn XX/XX/XXXX, I was unable to get a resolution, and the agent refused to allow me to speak to a supervisor. Eventually, the agent transferred me to the Fraud department, and I went through all of the charges again and was told that the disputes was reopened. \n\nI called to follow up on XX/XX/XXXX and was told that the disputes were not reopened on XX/XX/XXXX. On the call on XX/XX/XXXX, I was told on the phone that they reopened the disputes, but I have not heard back and feel I am getting the runaround. \n\nAfter over four hours on the phone, it feels like CITI is trying to make the process as difficult and time-consuming as possible. It seems my prior conversations are not noted by CITI representatives. Looking online, I see many other consumers making similar complaints about CITI and their process to dispute charges. \n\nI filed an online Fraud/ID Theft report with the Colorado Bureau of Investigations this morning, XXXX. I have not yet received a case number. \n\nI have had this card for over 30 years, and CITIs system recognized the fraudulent nature of the charges. I am unsure if my credit card info or an actual card was stolen. I requested a replacement card from CITI on XX/XX/XXXX. I could not find my card but did not think it was lost or stolen, so the number was not changed. I have possession of a card ending in XXXX and think there was more than one physical card ending in XXXX because of the replacement sent. I could not get the information about the replacement card from XX/XX/XXXX from CITI until a call today that lasted 39 minutes. \n\nNo consumer should have to go through this effort to dispute fraudulent charges. I did not make the disputed changes."
+}

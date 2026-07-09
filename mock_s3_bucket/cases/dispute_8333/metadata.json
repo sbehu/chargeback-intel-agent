@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8333",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30126"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21604,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I initiated a dispute with XXXX to formally dispute a transaction involving the purchase of a skincare device on XX/XX/year>, The merchant has repeatedly misrepresented the status of my order and refund from XX/XX/year> - XX/XX/year>, and I am requesting that my claim remain open and that I be refunded in full. \n\nAt the time of purchase on XX/XX/year>, the merchant overcharged me and claimed to have initiated a refund, which I never received. Despite multiple follow-ups, they failed to resolve the issue and instead attempted to upsell me additional merchandise, which I declined. My sole request has consistently been to receive either the correct product or a full refund. \n\nThe merchant informed the credit card company that I received merchandise at the time of purchase. This is categorically false. As clearly shown in my supporting documents, the merchant stated they would mail the item to me because I was about to board a flight and they did not have the product in stock. This directly contradicts their claim and further demonstrates their pattern of dishonesty. \n\nWhen the package finally arrived, it contained a completely different item than what I paid for. The product was visibly used, unsanitary, and unacceptable for personal skincare use. Upon notifying the merchant, they advised me to discard the item, which I did. I would never apply a previously used skincare device to my skin. \nThe merchant then promised to send a replacement device, which I never received. They also offered to wire my refund, as documented, but failed to follow through on that commitment as well. \n\nThis conduct is deceptive, unethical, and constitutes fraud. The merchant has not honored the terms of the sale, has misled both me and the credit card company, and has taken advantage of my trust. I respectfully request that my claim remain open and that I be refunded the full amount paid of about {$7600.00}, which I never agreed to. \nThank you for your attention to this matter. \n\nMy latest communication with the merchant and XXXX XXXX  as of XXXX XXXX, XXXX  - shows no resolve or refund. \n\nThis is a violation of my consumer protection for Regulation XXXX ( Truth in Lending Act ), Fair Credit Billing Act, and Breach of Contract or Negligence. \n\nNote : Ive uploaded the XXXX conversation thread and I can also provide all the screen shots of the entire conversation if needed. \n\nSincerely, XXXX XXXX XXXX XXXX Purchase Date : XX/XX/year> XXXX"
+}

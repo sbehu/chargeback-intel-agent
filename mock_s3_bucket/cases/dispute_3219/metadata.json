@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3219",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80021"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5828,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have already reported this. I was scammed out of {$880.00}. American Express keeps closing and reopening the dispute. They responded to my previous CFPB complaint that it was mishandled and closed but then reopened it the exact same day. The scammer had provided merely an obviously falsified and absurd XXXX XXXX document that anyone could make. I have provided screen shots of everything I could, as well as clear descriptions of proof that their word document is false and that the shipping information was a lie. The product ( a XXXX XXXX XXXX XXXX XXXX ) was delivered to a locker NOT at my address weighing only XXXX. Their proof is a screen shot of XXXX maps with a pin in my address ( but also shows nearby businesses which clues into it being a XXXX maps screen shot that someone at American Express agreed on ). Their proof says it was shipped and delivered both at midnight on the same day ( which I have pointed out to American Express multiple times ). I have provided their email and phone number. I have submitted an IC3 report, a report with XXXX ( their site was taken down the exact same day it was delivered which I have also told American Express about ) I have submitted a previous CFPB report which was conveniently closed right before they reopened the dispute. At this point it is a detriment to health, the stress is ridiculous. I can not believe after nearly a decade with American Express, a business account, a savings account, and referring family, that this is honestly how they are treating this situation."
+}

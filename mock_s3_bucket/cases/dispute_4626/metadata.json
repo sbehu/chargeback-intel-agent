@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4626",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "088XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9964,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased an electric double oven ( Model no # XXXX Serial no # XXXX ) with 1 year warranty with 2 years free interest promotion from Home depot .\n\nThe oven was not function as described ( only the top oven was working with error message in the led screen code XXXX. \nWe called Home depot and the manufacturer to fix the issue but they failed to do so 5 times. ( XXXX no # XXXX ) The manufacturer issued a credit to home depot for the faulty unit on XX/XX/XXXX to Home depot and the instruct me to discard the unit and I do not have to return. ( Email attached ) After the two years ended last month I found interest charged to my credit for the amount of {$2600.00} as interest for the principle of {$3900.00} for the unit.\n\nI called home depot and filed a dispute but they denied my right to dispute stating that is old matter.\n\nPlease help me to get my right to resolve this matter"
+}

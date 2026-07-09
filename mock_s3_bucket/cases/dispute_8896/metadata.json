@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8896",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92647"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27952,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, unauthorized XXXX XXXXrelated charges appeared on my Citibank XXXX XXXX account. I never set up XXXX XXXX or authorized any digital wallet use. Despite my written and phone requests to block wallet access, Citibank twice forwarded new replacement card details into XXXX XXXX without my consent. I reported the fraud immediately but received no written acknowledgment or confirmation. Each time I contact Citibank, Im routed through automated systems and must start over. Im asking for written proof my account is secured, that all digital wallet links are removed, and that Citibank review its procedures to prevent this from happening again."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4761",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91750"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30776,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> we entered into a purchase agreement for a XXXX XXXX for my business with the ( merchant ) XXXX XXXX XXXX XXXX XXXX this machine was advertised as having a 45 day delivery time along with the merchant confirming this with me multiple times, on XX/XX/XXXX the merchant was paid a deposit of {$7000.00}. \n\nOn XX/XX/XXXX i inquired with the merchant on the time frame of delivery and they told me it was going to take longer, at this point i requested my refund as they weren't going to be able to make the agreed upon delivery date, to which the merchant denied but then told me if we paid more for an upgraded machine it would arrive 5-10 days sooner than the agreed 45 days, to which I agreed and paid the updated {$2000.00}. \n\nmultiple ties throughout this time frame I reached out to the merchant asking about dates, he lied with fake promises each time. \n\nfast forward to XX/XX/XXXX, I contacted the merchant asking them to sell the machine to someone else or give me a refund as we are well past our 45 days at this point and I have no updates or knowledge that the machine even exists. the merchant then denied the refund, at which point I decided to file a chargeback with Citibank. \n\nit was not until XX/XX/XXXX that the merchant sent me pictures of the machine and told me it was ready to ship, this is 80 days after making the order with them and double the agreed upon 45 day time frame, add shipping into this and its now over 100 days to receive. \n\nI supplied Citibank with all of the evidence of this ( more than enough to see my claim was justified ) and they decided to deny my chargeback and claim, Citibank has since made me pay back the {$9000.00} as they charged it right back to my card. \n\nto this day I am still out {$9000.00} and have no XXXX XXXX  The next step for us is getting lawyers involved but I decided to go through this channel first."
+}

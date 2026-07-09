@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4516",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "066XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39413,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXXXXXX XXXX XXXX Citi XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Subj : Dispute of Fraudulent Charges Ref : Citi Credit Card XXXX Dear Fraud Dept.\n\nI have been trying to report to your customer service at telephone XXXX fraudulent charges on my XXXX  Card. My attempts to do so have been unsuccessful because they say \" my identity can not be verified '' because I do not have an additional phone number than the one I am speaking with them on, they can not send me a verification code by text message, or are not allowed to use email. They have offered in XXXX instances to send me a letter containing a \" reference number '' but both times the letter contained no number. \nTherefore I take this opportunity to write to you, as allowed by your customer service web page, with the following information on the subject fraudulent charges ( XXXX ) : XXXX. XX/XX/XXXX XXXX XXXX XXXX {$46.00} XXXX. XX/XX/XXXX XXXX {$490.00} XXXX. XX/XX/XXXX XXXX XXXX XXXX XXXX {$230.00} If you need additional information please contact me using secret code number XXXX. Time is of the essence as the next statement date is XX/XX/XXXX. \n\n\nXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX ( voice or text message ) XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5183",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11238"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29503,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to reinstate a disputed charge of {$36000.00} to my corporate American Express Card ( UBS AG ) account on or about XX/XX/XXXX. An original dispute was verbally filed in XXXX of XXXX, and I can provide audio evidence ( see dropbox ). A secondary dispute was refiled I XX/XX/XXXX as I had no resolution yet. \nThe charge is in error because the vehicle was not in proper working order. The vehicle self combusted under the heat, due to a lack of coolant and proper maintenance. I was severely injured in the process and lost over {$10000.00} of personal belongings. \nThe contract with the rental agency clearly states that The vehicle here rented is received by the client in good mechanical, body and paint conditions and the client is further obliged to return the same under the same conditions. \nThis was factually incorrect. In a post-mortem trip, which I had to undertake as I lost my passport, all my money, and shoes in this disaster, I was able to file a police report with the local agency and reconnect with the fire department who determined that the fire was NOT CAUSED by negligent driving / accident, but because the car was not properly maintained to withstand the heat of the region. \nI am requesting that the error be corrected, that any finance or other charges related to the disputed amount be credited to my account, and that I get an accurate statement. I have filed a separate demand letter, with a deadline of XX/XX/XXXX before we will pursue legal action. \nFurther, the rental agency had no contractual right to charge the full cost of the car to the credit card, given this was a malfunction in the car itself. A malfunction that I am very sure the agencys own insurance policy and/or warranty of the car manufacturer would have already paid. This double-dipping is typical of agencies operating with lax oversight and therefore we rely on the trusted membership of American Express to defend the consumer against these blatant fraudulent behaviors. \nAt the document link provided are copies of the lease agreement with the rental car agency, and the set of bills I received with NO explanation as to the cause supporting my position and experience. Please correct the error on my account promptly. File access : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

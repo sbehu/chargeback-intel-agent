@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7292",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "32765"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44872,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Urgent Matter Regarding Fraudulent Charges I am writing to formally dispute several unauthorized transactions on my Barclays AAdvantage Aviator Red Mastercard account. I have previously contacted Barclays by phone at XXXX to report these fraudulent activities, ready to provide detailed information including merchant names, transaction dates, and amounts. A comprehensive list of these charges is attached for your reference. \nDespite my previous attempts to resolve this issue, I have not been able to contact Barclays to tell them of the fraudulent charges, they said someone from our office will contact you and gave me a case # : XXXX. Well that has been over a week and I have received no email or phone call. \nI unequivocally state that these charges are fraudulent. They originate from international merchants in locations such as XXXX XXXX, XXXX, XXXX XXXX, XXXX, and XXXX, none of which I recognize. I did not authorize these transactions, nor did I receive any goods or services from these entities. Furthermore, I have attempted to contact the listed merchants, only to find that their websites are non-existent, further indicating their illegitimate nature. \nMy attempts to escalate this matter via phone have been challenging due to excessive wait times ( often exceeding XXXX minutes ), language barriers, disconnections, and representatives stating that they do not know whom to contact. \nGiven the clear evidence of fraud, I formally request that Barclays do an investigation immediately and reverse these unauthorized charges. I am prepared to provide any additional information or documentation required to resolve this critical issue. \nSincerely, XXXX XXXX"
+}

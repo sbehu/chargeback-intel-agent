@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6109",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77375"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31232,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Description : On XX/XX/XXXX, a fraudulent charge of {$1300.00} was made at Best Buy XXXX using a Citibank credit card that I did not request, activate, or authorize. The bank issued a replacement card in XX/XX/XXXX and mailed it to an outdated address I had not lived at for over XXXX years, automatically sending the credit card when I didn't even request for a new one in the first place. I lived at my current for at least four years and sent them proof ( verified via bank statements and utility bills ). \n\nThe card was fraudulently activated using spoofed caller ID, as evidenced by T-Mobile call logs proving I never contacted Citibank prior XXXX XX/XX/XXXX. A police report ( Case # XXXX ) was filed to document the identity theft. \n\nDespite submitting the police report, call logs, and address verification to Citibank on XX/XX/XXXX, the bank has : Failed to provide updates or reverse the charge. \nIgnored evidence proving the transaction was unauthorized. \n\nThis negligence enabled fraud and has left me liable for a charge I did not incur."
+}

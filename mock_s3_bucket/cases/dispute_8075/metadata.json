@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8075",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94541"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-29T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3774,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> after receiving fraud alert on my phone regarding my Citi bank Costco card, I called them. I noticed charges on my card and my wifes card ( her card is under my account ) and reported them as fraudulent. All the fraudulent charges were made on XX/XX/XXXX and XXXX. \n\nThe cards were in our position and they were not lost, so no police report was made. After their investigation was done Citi bank removed all charges from my card and not my wifes card. My wife never uses her credit card, and had not have any charges for over a year till the fraudulent charges were made for a total of {$580.00}. \n\nCiti bank claimed that the chip was used on her card, and since we told them that the cards were in our position, therefore they claim she was the user. I offered to sign affidavits and have them notarized that we did not use the cards and that they were fraudulent. \n\nBoth of our credit reports are locked with XXXX, so if there is any data breach it wasnt on our side. Citi bank had consumer data breach in XX/XX/year>. Its also possible that the scammer ( s ) used shimming or possibly used data replication to create a cloned card with magnetic stripe. \n\nThe card in question is under my name XXXX XXXX and last four digits are XXXXMy wifes card is under my account with her name on it ( XXXX XXXX ). \nAny help with this issue is greatly appreciated."
+}

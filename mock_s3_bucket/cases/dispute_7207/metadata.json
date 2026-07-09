@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7207",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37211"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29135,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Transaction dated XXXXXXXX XXXX XXXX with XXXX for a car rental with XXXX in XXXX. Was charged twice that date for {$1500.00} each, but one was refunded correctly. Second charge was for the actual reservation which was to have the one-way rental fee waived. Upon returning the car with XXXX I was charged the {$150.00} one-way fee anyway because XXXX did not make this agreement with XXXX. I spoke with XXXX and XXXX many times and XXXX has been unable to resolve the issue, just telling me they are working on it ( months later still ). I filed disputes with American Express for the {$150.00} charge and each time they say the issue has been resolved because XXXX refunded one of the initial transactions. They don't read the dispute or attached documentation- they don't even acknowledge I am only disputing the {$150.00} portion of it. I have spoken to numerous agents trying to resolve the issue and they can not- they just open new disputes, make me reupload all the documentation, and then inform me it was already resolve back in XXXX with the refund of the erroneous transaction. I have no other recourse than to file this complaint now."
+}

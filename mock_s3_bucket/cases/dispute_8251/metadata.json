@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8251",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26686,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I ordered, online, three gold 1 oz. XXXX XXXX coins. I paid for them with credit card in the amount of {$10000.00}. Merchant sent to me three gold colored coins that were not what I ordered. I took the 3 coins to a local coin shop for appraisal. Coin dealer told me I had been defrauded, the coins were fake and had no value. See attached written appraisal from XXXXXXXX XXXX XXXX I contacted merchant by telephone and told them the coins delivered were not real, the employee told me \" I am sorry you are having trouble '' and she hung up on me. I sent the coins back to merchant via XXXX, see attached receipt from XXXXXXXX XXXX XXXX XXXX and XXXX  receipt showing the coins were received on XX/XX/XXXX and signed for by XXXX. My attempts to get merchant to send me the coins that I ordered and paid for have been met with no success. Merchant refuses to refund my money. Credit card company had denied my dispute and denied my re dispute. Latest from credit card company says that I did not follow the merchants return policy. I did\nfollow their return policy, I did return the coins within 5 days of receiving them. I have no coins and I am being billed for {$10000.00}. Credit card company simply sends me generic form letters."
+}

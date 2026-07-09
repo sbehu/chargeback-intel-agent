@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3190",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "129XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47342,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This relates to XXXX different XXXX Card Accounts : XXXX XXXX card and XXXX XXXX XXXX by Barclay. Barclay took over from XXXXXXXX XXXX who originally had the card, and with whom I never had a problem. In fact, I never had a problem like this with any other credit card I've had. With XXXX, I signed up for a free trial on XXXX and cancelled well within the time limit, but they charged my card {$89.00} for a one-year subscription ( XXXX, XXXX ). As soon as I saw the charge, I called the only phone number I could find ( corporate, I think ) and left a message saying that the charge was wrong. I let Barclay 's know and started a fraud dispute with them ( XXXX XXXX & XXXX XXXX, XX/XX/XXXX ). In XXXX I tried to buy an airline ticket from XXXX to XXXX through a company called XXXX. I received an alert from Barclay 's saying it was fraud or a scam. I immediately cancelled the transaction through the credit card company and let XXXX know I wanted to cancel everything immediately. I also started a claim against XXXX through Barclays on XX/XX/XXXX ( XXXX XXXX & XXXX XXXX ). Barclays said they contacted both companies and that the company claims were legit! They sided with the fraudulent corporations! I tried calling Barclays on many occasions and wrote them a number of letters which included proof of the XXXX company being defunct. I sent copies of emails from both companies. XXXX said they would put the money back on my card and Barclays said they never did. I sent them proof of the confirmation from XXXX and spoke to supervisors with both the company and Barclays. The same XXXX. I both mailed and faxed the information from XXXX stating the company did not exist. XXXX all these months, I have explained repeatedly the fraudulent charges on these cards and Barclays should never have paid out these claims. They should have listened to me. In both cases, I wrote to them asking them to reopen the cases and including proof of the fraudulence of the charges. They have never listed to me on the phone or through the website when I have tried to communicate nor through the letters and faxed I have sent them. They have continued to ignore me and blow me off and now they're falsely hurting my excellent credit by saying I have not paid these fraudulent charges. XXXX even put some money back onto my card for the false airline ticket, and still Barclays doesn't recognize it it a wrong charge. I'm fed-up with trying to communicate with them and with XXXX. Please help take this off my report and restore my good and rightful credit. Thank you, XXXX XXXX"
+}

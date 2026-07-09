@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4998",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30986,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "ordered product on XX/XX/24 from XXXX, item shipped was returned to the merchant as undeliverable, merchant refused to reship the item purchased and refused to cancel the order, dispute filed with credit card company, merchant rejected the dispute and the credit card company said I was responsible for the charge and item that I never received, XXXX acknowledges receipt of the product being returned to them, merchant still refuses to reship product that I ordered and refuses the refund me, credit card company is ignoring my dispute and closed it."
+}

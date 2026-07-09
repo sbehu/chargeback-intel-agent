@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5500",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "109XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33995,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, Amex charged my card {$1400.00} for a booking at a hotel. The vendor for this charge was Amex itself, via XXXX XXXXXXXX. When I got to the hotel, they had a much cheaper room available, so I booked that room directly with the hotel and the hotel contacted Amex to cancel the charge via Amex travel. I realized the amount was still on my card after my statement was issued and I opened a dispute. Amex resolved the dispute against me, even though I paid for the direct hotel stay with my Amex and they had a record of that. It's insane that Amex is even allow to resolve disputes where it is both the credit card company and the vendor. I called Amex and they agreed to remove the charge. Here we are XXXX calls later, and then amount is still on my account. This company is either actively scamming me or totally incompetent and I'm not sure which is worse. And this is with the \" premium '' service that comes with a XXXXXXXX XXXX  - imagine what consumers who don't have these \" perks '' are experiencing."
+}

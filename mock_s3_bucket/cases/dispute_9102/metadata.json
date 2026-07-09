@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9102",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19380"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15095,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was scammed by individuals impersonating XXXX who coerced me into paying my monthly bill upfront for 24 months using XXXX gift cards. The FTC explicitly warns that any request for payment via gift cards is fraudulent. I disputed the {$530.00} XXXX gift card purchase with Citi, but they denied my claim, stating it is their policy not to dispute gift card purchaseseven when obtained through fraud. This policy leaves consumers unprotected against scams, despite the Fair Credit Billing Act ( 15 U.S.C. 1666 ) granting rights to dispute fraudulent transactions. I received no legitimate goods or services. I request CFPB to review Citis handling of this dispute and ensure compliance with consumer protection laws."
+}

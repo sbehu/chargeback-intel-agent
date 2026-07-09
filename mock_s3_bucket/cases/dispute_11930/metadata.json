@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11930",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2121"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25325,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I authorized my American Express card at a self-service gas pump solely to initiate a potential purchase. Before any fuel was dispensed, I stepped away from the pump and did not proceed with fueling. \n\nWhile my card was still authorized, another individual used the same pump and dispensed gasoline without my authorization or consent. That individual received the fuel. I did not receive any goods or services associated with this charge. \n\nI promptly disputed the charge with American Express and explained that fuel was dispensed to a third party, not to me. Despite this, American Express denied my claim twice, relying only on the initial authorization at the pump and not on whether I received the fuel. \n\nI also possess photographic evidence identifying the vehicle and license plate of the individual who dispensed the gasoline."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4871",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NJ",
+    "complaint_zip": "070XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47946,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Home depot was to deliver flooring to my home. the pallet broke when they were delivering and threw the flooring on the ground in front of my home in a pile. It was damaged and store was contacted immediately. advised they would send a truck for pickup. when truck came for pickup, they said they could not take the items back in that condition and to trash the items and a refund would be issued. I have yet to receive a refund after numerous back and forth communication. I have attached a photo of the delivery condition. They are now trying to charge me interest on the disputed amount that I do not have. \n\nas per the credit card rule, if you are not satisfied with the merchandise, we qualify for all 3 requirements, in addition to the fact that we no longer have the items are per their instructions. Home depot/citi credit card stated they do not follow these regulations. Please assist with this matter."
+}

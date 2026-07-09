@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_651",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30032"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47073,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ive been disputing a charge for merchandise that arrived damaged when shipped. The store I ordered from was unable to fix my account, or lied about trying to fix it and didn't bother, and the only other option they gave me was to start a credit card dispute. I submitted chat logs to AMEX proving this when opening the dispute and its clear they aren't looking at them. They messaged me some unrelated documentation that has nothing to do with the refused dispute and refuse to look at the documenation I provided. To make things even more frustrating, they will call at a weird time and than leave in comprehendible message asking for more information despite me providing it and than within XXXX minutes of making the call close the dispute without anytime to call them back. They're clearly make this impossible on purpose."
+}

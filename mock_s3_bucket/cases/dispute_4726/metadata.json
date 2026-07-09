@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4726",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93612"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11305,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Sir/Madam, On XX/XX/year>, I identified an issue with my Citibank account involving an unauthorized transaction. The amount in question is {$810.00}, which was used for an in-person purchase at XXXXXXXX XXXX XXXX XXXXh. \n\nI immediately contacted Citibank customer service on XX/XX/year>, provided all relevant documentation, and requested my card to be blocked. Surprisingly, I discovered that I was unable to lock the card through the Citibank app ( I attached a screenshot ). Customer service assured me that the card was locked, yet the scammer managed to make additional transactions amounting to {$3300.00}. This brought the total fraudulent amount to {$4100.00}. \n\nI contacted the Citibank fraud department again, hoping for a resolution. However, on XX/XX/year>, Citibank closed my case without addressing the issue and sent me a bill for {$4100.00}. If this amount is not paid, additional interest charges will accrue on these fraudulent transactions. \n\nThis unresolved issue has caused me significant stress and financial inconvenience. I took additional steps by reporting the incident to the local police department ( XXXX, CA ) and visiting XXXX. The XXXX XXXX was able to identify the scammers through surveillance footage, and the police are currently investigating the matter. \n\nDespite numerous phone calls and conversations with various Citibank employees, I was repeatedly assured that the matter would be resolved. However, no action was taken, and the case was simply closed without addressing the issue. \n\nAdditionally, I am deeply concerned about how the scammer was able to obtain and use my card information. This raises serious questions about the security of customer data, and I suspect there may have been a breach or mishandling of information, potentially involving Citibank employees. I strongly urge Citibank to thoroughly investigate this matter to determine whether there was any internal leak or negligence contributing to this fraud.\n\nThis lack of resolution and the potential data security concerns have only added to my frustration and loss of trust in Citibank 's handling of this case. \n\nI am requesting that Citibank : Refund the disputed amount of {$4100.00}. \nCorrect the billing error. \nRemove all associated interest charges from these unauthorized transactions. \n\nTo support my claim, I have attached the following documentation : A copy of my travel itinerary and ticket showing I was in XXXX during the fraudulent transactions. \nA photograph proving that my credit card was in my possession during my trip. \nA detailed list of all transactions, including the fraudulent charges. \nCorrespondence from Citibank regarding the closure of my case without resolution. \nTransaction details provided by the XXXX XXXX. \nA screenshot showing my inability to lock the card via the Citibank app. \n\nI urge you to take this matter seriously and resolve it promptly. Thank you for your attention, and I look forward to hearing from you soon. \n\nSincerely, XXXX XXXX"
+}

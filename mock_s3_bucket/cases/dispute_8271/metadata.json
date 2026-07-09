@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8271",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "017XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48769,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I hired a company to perform work on our new location and paid them using my XXXX American Express XXXX XXXX. I have been a loyal American Express member for over 20 years. At the time of payment, I was informed by an American Express representative that disputes could be filed for up to 18 months on business accounts. \n\nUnfortunately, the merchant failed to provide the agreed services and has refused to return the funds. When I contacted American Express to initiate a chargeback, I was made to wait repeatedly without progress, and I have now been told that Amex will not assist because of a recently changed policy. I was never notified of this change, and it directly affects my ability to protect my business from fraud and non-performance. \n\nI am requesting that American Express honor the original representation made by their agent and assist me in recovering these funds. As a long-standing XXXX XXXX XXXX member, I expect the protections and service that were part of my decision to remain with American Express for XXXX decades."
+}

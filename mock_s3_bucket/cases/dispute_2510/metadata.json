@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2510",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95824"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39074,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank did not credit all the transactions that were unauthorized. My aunt is not going to be able to pay off {$2300.00} on her balance because those transactions were not made by her or me and also she dont use my card anymore because she does not have money and only spent {$250.00} using that card. Also, they did not credit back the transaction from last year that I and my aunt have been complaining about. It was for XXXX XXXX with the amount of {$420.00} and {$190.00}. My aunt called them already to verify those transactions and they told and sent us the statement showing that my aunt paid those in cash."
+}

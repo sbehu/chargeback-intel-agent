@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1305",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "16803"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20082,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX, I purchased a bunch of chocolate bars while on vacation in XXXX. They were gifts for people back home in the US. My daughter opened hers and saw that the chocolate was rotten. XXXX and discolored. And it tasted disgusting. I went online with the Barclay 's AAdvantage Mastercard to open a dispute. The online system kicked me out when I answered \" no '' to \" have you tried to return the item. '' Obviously I couldn't fly back to XXXX. I tried to contact the place in XXXX where I bought them ( XXXXXXXX XXXX XXXX ) but they don't monitor their XXXX  page and I'm guessing it would cost me a lot to call them. \n\nI then called the CC/Barclay 's to open the dispute since the online system didn't work. I was told I had to send in written documentation, which I did on or around XX/XX/2023. I sent the receipt and a pic of the nasty chocolate. Weeks went by with no information, so I called again. \n\nI was told they would not refund my money because I bought the stuff in person and apparently, it was my job to inspect it????? When I told them that it's ridiculous to think that I need to open every food item I will ever buy to make sure it's not rancid is beyond ridiculous. I made numerous calls to agents and supervisors and at one point they canceled my card and hung up on me. \n\nSo if they canceled the card due to the {$55.00} issue, that tells me that it was a bad transaction and that my money should be refunded. They were beyond rude. I even wrote to them online ( XXXX ) to be told they can't really do anything. They offer a lame apology. So now I'm out {$55.00} and my CC has been closed. I don't ever plan to use the card again so I don't wish for it to be reopened."
+}

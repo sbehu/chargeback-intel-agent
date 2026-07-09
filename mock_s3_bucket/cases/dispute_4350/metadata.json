@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4350",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43029,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Bank through its XXXX and XXXX has been charging XXXX when purchasing in XXXX for the past 2 days ( XXXX ) even though the confirmed stated exchange rate has been between XXXX. This is a gross abuse of their position as they advertise no foreign exchange fees or costs. They have historically charged the existing exchange rate or close to it and now this week they are not. Citi Bank blames XXXX and XXXX and there is no way to contact them. Meanwhile I am being overcharged on my purchases."
+}

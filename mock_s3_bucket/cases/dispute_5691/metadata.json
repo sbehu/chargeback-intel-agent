@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5691",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "LA",
+    "complaint_zip": "70122"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21587,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase of {$520.00} at XXXX XXXX XXXX XXXX  XXXX located at XXXX XXXX XXXX XXXX XXXX XXXX, XXXX  XXXX on XXXX. The invoice # is XXXX which was for the purchase of a remanufactured starter that was installed in a XXXX XXXX XXXX. When I logged online on XXXX to make my payment that was due on XX/XX/XXXX I noticed that my available balance was much lower than it should have been. I then saw that my XXXX  credit card had been charged twice for the {$520.00} purchase that I made on XXXX. On XXXX I contacted XXXX ( XXXX ) XXXX XXXX pm  and informed them that I had been charged twice for the same service. I was informed to contact the store, which I did on the same date and spoke with XXXX XXXX the store manager who checked his records and stated that he did not see where I had been charged twice. I then contacted XXXX again and told them that I was disputing the double charge. They opened a case. I received a letter from XXXX on XXXX which was dated XXXX informing me that I was responsible for the disputed charges and that I had to provide supporting document by XXXX which was well after the date I received the letter. I called XXXX on XXXX and was told that this case was final. There was a letter dated XXXX from XXXX XXXX of XXXX XXXX XXXX XXXX XXXX stating that they weren't accepting a chargeback because they didn't have a duplicate charge for my service. It was stated that I authorized the services and authorized the charge of {$520.00} for Invoice # XXXX. I have never disputed that I did not make a {$520.00} charge. I stated and still stand by the fact that I was charge TWICE for one starter. My XXXX  credit card statement with a XXXX closing date and XXXX shows exactly what I have stated. There are TWO charges of {$520.00} on the same date of XXXX. I did not receive two starters, only one. Someone has made an error either at the store level or the credit card level and does not want to own up to it. I am not willing to pay nor am I going to pay for something that I did not get. A vehicle only as one starter and that is all I received. I need to have this {$520.00} charge removed. They have made an error. There is only one invoice that I signed for."
+}

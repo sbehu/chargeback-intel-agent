@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11367",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37629,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing regarding dispute XXXX related to a purchase made through XXXX. \n\nThe decision appears to rely primarily on XXXX tracking information indicating that the shipment moved through the postal system. However, tracking updates alone do not confirm that the merchandise was successfully delivered to the cardholder. \n\nIn this case, the item was never received, and I subsequently opened a XXXX XXXX Mail search request after the package failed to arrive. The existence of an active missing mail investigation indicates that the shipment may have been lost within the postal system. \n\nBecause the goods were never delivered to me, I respectfully request that the dispute be reviewed again with consideration of the XXXX Missing Mail report and the absence of confirmed delivery. \n\nIf additional documentation from XXXX or further information is required, I would be happy to provide it. \n\nThank you for your time and reconsideration."
+}

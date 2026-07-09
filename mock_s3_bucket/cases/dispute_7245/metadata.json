@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7245",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30305"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22703,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I placed an order totaling {$560.00} on XXXX official website. XXXX tracking showed the package as delivered on XX/XX/XXXX, but I never received the merchandise. I contacted XXXX on XX/XX/XXXX to request a refund or reshipment, but they refused. I then filed a dispute with American Express the same day. \n\nOn XX/XX/XXXX, Amex denied my dispute, citing that the merchant had provided a delivery photo from XXXX. I submitted a written request to reopen the dispute, explaining that the photo does not depict my residence and that I never received the package. \n\nHowever, on XX/XX/XXXX, Amex rejected my request to reopen the dispute, again using the exact same reasoning that the XXXX delivery photo proves the item was delivered, and claiming that I failed to provide evidence of non-receipt. \n\nI want to clearly state : A XXXX delivery scan or photo does not constitute conclusive proof that I personally received the package. Amex rebilled me within XXXX hours without contacting me, investigating further, or reviewing the documentation I had offered to submit. This is an irresponsible and one-sided decision, failing to conduct a fair investigation and clearly siding with the merchant without protecting the rights of the consumer. \n\nI also want to ask : How can a customer reasonably provide proof that they did not receive a package? The burden of proof should not fall entirely on the consumer, especially when the merchants only evidence is a generic delivery photo that doesnt match my property. \n\nI am exercising my legal right as a cardholder to dispute a transaction for goods I paid for but never received. According to Amexs own policy, You can dispute a charge if you havent received the goods or services. I respectfully request that CFPB assist in holding American Express accountable for proper dispute handling and ensure that my case is fairly reviewed."
+}

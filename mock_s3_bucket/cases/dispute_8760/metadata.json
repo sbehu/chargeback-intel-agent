@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8760",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85226"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2072,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im filing a complaint against American Express regarding a billing and system accuracy issue. \n\nMy Amex account shows contradictory and inaccurate information. I reported a fraud claim, and a credit should have been applied to reduce my balance. However, Amexs system is not reflecting the credit it still shows I owe the full amount. On top of that, my card now shows as Cancelled, even though it is supposed to remain active for investigation and balance adjustments. \n\nBecause of this, I cant view my accurate balance, recent transactions, or verify whether my payments and credits are correctly applied. The statements and online portal are inconsistent, misleading, and impossible to reconcile. \n\nIve contacted Amex support multiple times and they have confirmed theres a system issue, but they havent fixed it or provided accurate written confirmation of my true account status or balance. \n\nThis violates my rights under the Fair Credit Billing Act and Truth in Lending Act, which require accurate billing disclosures and prompt correction of errors. If these inaccuracies are being or will be reported to credit bureaus, it would also constitute a Fair Credit Reporting Act violation. \n\nI request that Amex : Immediately fix the error and correctly apply the fraud credit to my balance Restore accurate account visibility so I can see my balance and card status Provide written confirmation of my accounts correct standing and any reporting to credit bureaus Ensure Im not charged interest or fees during this period of system inaccuracy I am attaching screenshots of the Amex app/portal showing the contradictory information ( cancelled card + balance owed ) and any communications with their agents."
+}

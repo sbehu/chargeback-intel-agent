@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9117",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34142"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34046,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a Macys credit card account in XXXX. I never received the initial billing statement. On XX/XX/XXXX, after locating the balance myself, I paid the full amount of {$80.00} on a {$500.00} line ( payment was two days late ). Macys confirmed the payment. \n\nLater that same day, I attempted to use the card for a {$120.00} purchase, and the transaction was denied. Customer Service informed me that the account was frozen because the payment had not yet processed, even though they acknowledged it was made. \n\nI was then transferred to a representative named XXXX, whose conduct was unprofessional, dismissive, and escalated the situation. Instead of resolving a simple processing delay, the interaction left me no choice but to close the account.\n\nClosing the account now risks negative impact on my credit report, which is unacceptable given that the underlying issue was caused by : Failure to send the billing statement Freezing my card despite a confirmed payment Poor and unprofessional customer service Mismanagement of basic account functions"
+}

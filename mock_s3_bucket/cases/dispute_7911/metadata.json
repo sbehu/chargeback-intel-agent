@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7911",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30067"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10090,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was notified by email that I had a new statement available at for Home Depot store credit card through CitiBank and I had a payment due. First thought it was spam because I haven't used that card in a year. I logged into the portal and saw it and disputed the charge as fraud. I called them via telephone to dispute as fraud as well. On XX/XX/XXXX, I received a letter stating they were investigating it. Then a month later on XX/XX/XXXX, I received a letter denying the claim, saying I am responsible. I call them and they explain that a the person 's last name matches mine and ask me if I know of them. They said this person purchased the item online and did a store pickup. I explained that it could be my ex-husband, but that he was not an authorized user and did not have permission to be using that card. We were divorced prior to the charge 's date. They said they would reopen the case and to mail them in documentation showing we were divorced at the time. I mailed it via USPS on XX/XX/XXXX. On XX/XX/XXXX, again receive a denial letter. On XX/XX/XXXX, I call and they said it will be reopened when they receive the documents. I say I'm not going to mail again and to give me a fax number. I fax them and they say it will take 7-10 business days. Never hear back. On XX/XX/XXXX, I call and they have not received the documents, so I demand an email address to send them via that method. I email them and get a autoreply back that it's been received. On XX/XX/XXXX, I receive a letter stating that a credit will be issued for me and that if I don't hear back in 90 days, it's permanent. As of today XXXX, my account still shows a balance, so I called to find out why. They are claiming they did receive my decree, but it's not enough evidence so they have denied my claim. I have not received any communication from them that says denial. I am also wondering how the charge was allowed in the first place since it was for more than the credit limit allows. Blatant fraud being allowed by CitiBank. I'm still waiting for them to provide all documentation so I can follow up on this myself."
+}

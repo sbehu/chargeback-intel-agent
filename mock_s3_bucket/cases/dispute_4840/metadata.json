@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4840",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10710"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44451,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The charges below are a result of fraud on my BARCLAYS MASTERCARD. I have disputed these charges. MASTERCARD IS REFUSING TO HONOR THEIR ZERO FRAUD LIABILITY. CONTACT NUMBER XXXX I do not live in a state with the merchants listed below. I am asking for BARCLAYS MASTERCARD to honor the ZERO FRAUD LIABILITY and I dispute this charges as fraud XXXX XXXX  # XXXX XX/XX/year> - {$180.00} XXXX # XXXX XX/XX/year> - {$180.00} XXXX XXXX  # XXXX XX/XX/year> - {$180.00} XXXX # XXXX XX/XX/year> - {$180.00} XXXX XXXX  # XXXX XX/XX/year> - {$180.00} XXXX # XXXX XX/XX/year> - {$180.00} XXXX # XXXX XX/XX/year> - {$180.00} XXXX XXXX  # XXXX XX/XX/year> - {$180.00} XXXX # XXXX XX/XX/year> - {$180.00} XXXX XXXX  # XXXX XX/XX/year> - {$180.00} XXXX # XXXX XX/XX/year> - {$180.00} XXXX XXXX  # XXXX XX/XX/year> - {$1300.00} XXXX # XXXX"
+}

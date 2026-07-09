@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3379",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11213"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13187,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "from XX/XX/year> i received from city bank a statement for a credit with home depot that is not mine, same body forged a credit card with my name i contact city bank and they denied the frode they want the payment from me but i never had a credit card with home depot, may be they send one to me without my approval and went to same body else, when i call the bank to locate the account they ask for my social security number and the frode account does not came out so is not associate with my social security number, i think city bank knows that but they do not want take responsability for the charge plus home depot didn't ask when the card was used for an identity card like a driving licence i swear on XXXX that every i wrote is true i am an old man with stage XXXX XXXX and this situation is making me more sick, please help XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX"
+}

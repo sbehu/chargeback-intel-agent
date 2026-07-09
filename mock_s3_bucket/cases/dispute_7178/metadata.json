@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7178",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "60004"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15713,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card was charged XXXX times from XX/XX/XXXX and XXXX XXXX. I Did not receive any suspicious activity message from XXXX Credit card. During this period of time, I was working in XXXX XXXX IL. Have the prove that I did not travel in Florida, where the credit card was charged. \nI received a bank statement on XX/XX/XXXX with overcharge amount of {$4200.00} dollars and XXXX cents. According to XXXX Credit card statements the card was used in XXXX XXXX FL ; XXXX FL ; XXXX Fl. \nI contacted XXXX Credit Card as soon as I discovered the fraudulent activities. They opened the investigation. After XXXX months I received again the bank statement stating that I still owe the bank for fraudulent charges. I was calling XXXX Credit card almost every week in order to get some clarity. In XX/XX/XXXX I went and made a police report regarding this matter in local XXXX ( IL ) Police department. \nI am trying to seek help for clearing my credit history, and find responsible for this fraudulent activity."
+}

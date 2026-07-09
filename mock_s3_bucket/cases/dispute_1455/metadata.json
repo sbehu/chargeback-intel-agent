@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1455",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91307"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35078,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased tickets to go see XXXX XXXX perform. The event took place on XX/XX/XXXX the following year. Per the terms and conditions the ticket included a meet and greet, VIP access and a picture with XXXX XXXX. Additionally, the ticket included special merchandise that the VIP ticket included. Per the terms and conditions, we arrived on time to the event however, the event staff stated that we were not able to take a picture with XXXX XXXX and we were not able to collect the VIP merchandise. I called numerous times and followed up with XXXX XXXX however they refused to assist me and investigate. My credit card company also stated that the terms and conditions were and stated that I was in the wrong. I am really upset I had to put this much money down and not get what I paid for. I purchased 3 other XXXX XXXX tickets and didnt have any other issues."
+}

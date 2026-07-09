@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4598",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "754XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37574,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Made a purchase for a service in advance and cancelled within the terms for a refund. Even though I recieved an email from the business stating I am owed a refund, and the emailed return policy states I could be refunded, but citi bank still sided with the business. The business now states I was \" already refunded through dispute '' but I haven't recieved anything back on my card."
+}

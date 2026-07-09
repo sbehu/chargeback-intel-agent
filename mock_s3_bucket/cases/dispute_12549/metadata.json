@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12549",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "023XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4809,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I went online to XXXX XXXX to purchase XXXX round trip tickets to XXXX XXXX. The total cost for the TWO tickets was {$2800.00}. I went through the XXXX payment link and used my Citi MasterCard to purchase the tickets. The purchase was declined by Citi Card because they wanted to verify that it was me making the purchase. I verified it was me and Citi alerted me that the purchase could be made. I tried again and it was declined. I contacted Citi again and they said it was all set to book. \n\nThe next day, on XX/XX/year> I went back online to XXXX XXXX to book the flights. The purchase was approved. \n\nIn XXXX, I received my Citi Card XXXX statement, and it showed TWO PURCHASES for XXXX XXXX for the exact same flights. I was charged TWICE for the ticket purchase. I contacted Citi Card IMMEDIATELY and they agreed that there was a duplicate charge on my credit card for the ticket purchase - one for {$2800.00} on XX/XX/XXXX ( the one they initially declined ) and one for {$2800.00} on XX/XX/XXXX that they approved. They reversed the charge and said they would contact XXXX directly to get the credit. \n\nOver one month later, I received a letter from Citi stating that XXXX refused to credit me for the duplicate charge, as I had made the purchase with the Citi Card and put the duplicate charge back on my credit card.\n\nI immediately contacted Citi Card and told a representative at Citi Card that I did not deny making a purchase with my Citi Card but I WAS CHARGED TWICE. The representative stated that Citi had put the claim through incorrectly. She said it was put through denying that I made the purchase. Once I told her I was not denying I made the purchase with my Citi Card, but that it was charged twice, she said she would resubmit the claim correctly and that I would be credited for the duplicate charge within ten days. THIS WAS IN XXXX. \n\nIn XXXX, I received another letter from Citi Card that the information I have submitted was reviewed and that they attempted to resolve this dispute with the merchant ( XXXX ) and they are unwilling to issue a credit and that they are closing the investigation. \n\nI contacted XXXX and they sent me an email ADMITTING I WAS CHARGED TWICE for the same two tickets and that it was up to the BANK ( Citi ) to credit my account.\n\nThis has been going on for MONTHS AND MONTHS. What should be an easy, immediate adjustment to my credit card for a XXXX  duplicate charge on my credit card has caused me hours and hours on the phone, writing emails and an enormous amount of stress - never mind the impact on my credit score due to an additional {$2800.00} being reported as credit usage that I did not use. \n\nBottom lineXXXX  Citi Card is outright refusing to credit me. Telling me XXXX will not credit the duplicate charge and that I am basically \" out of luck. '' This is NOT how credit card companies are supposed protect the customers from obvious duplicate charges by a merchant. It is THEIR responsibility to get this rectified. NOT ME. \n\nIt is now XX/XX/XXXX, and I am still carrying an additional balance of {$2800.00} on my Citi Card that I did not incur. I want it credited along with all the interest that has accrued since XX/XX/year>. \n\nTHANK YOU."
+}

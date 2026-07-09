@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4520",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23114,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am requesting claims and defenses under Federal law ( 15 USC 1666i ). This section specifies the cardholder 's liability is limited to the outstanding balance minus the value of the fraudulent transactions when the issuer is notified. I do not consent to any past or future payments being applied for the fraudulent charge. I hereby inform the card issuer and representative investigating the case, that I am withholding payment on the fraudulent charges. However, to be a loyal consumer I will continue the minimum payments under duress and fear that withheld payments will negatively impact my credit report and reputation. According to California Financial Code Section 2102, 17000 and Federal law principles. I reserve the right to refund. Consumers should be protected from financial loss from fraudulent transactions. The Fair Credit Billing Act safeguards consumers from fraudulent transactions on their credit card accounts.\n\nAmerican Express Case XXXX FTC Report number XXXX FTC Identity Theft Report XXXX XXXX  Complaint ID : XXXXXXXX XXXXXXXX report ID XXXX XXXX report ID XXXX"
+}

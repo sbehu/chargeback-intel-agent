@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1692",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95628"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22553,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "First, I have previously reported a portion of this issue to CFPB. This is a follow up from what happened since then.Refer to complaint # XXXX. \nAs you will see from a review of the record mentioned above, I erroneously sent XXXX to Citibank in early XX/XX/2023. Upon recognizing my mistake I called Citibank for a refund of the XXXX balance on my account- XXXX. They informed me that it would take XXXX weeks. Subsequent to many calls to them and a complaint to you, ( I can provide names and dates of representatives I spoke with throughout this process ) they mailed me a check on XX/XX/XXXX, which I received and deposited into my checking account on the same day - XX/XX/2023. Contrary to my request, they mailed the check instead of direct deposit to my checking account, which they said they could not do. \nSubsequently Citibank, for an unexplained reason, on XX/XX/2023 stopped payment on the check they sent me. XXXX representative said it was because I had requested direct deposit. However, they again needed to investigate whether or not I was entitled to the refund. So it would take even longer to get my money back. The investigation wasn't initiated until I called and informed them of the returned check on XX/XX/2023, when I became aware of the problem. Ultimately Citibank did refund my money on XX/XX/XXXX. They did so by depositing the funds directly into my XXXX account, which they repeatedly said they could not do. \nI speculate that XXXX staff person in particular, who got very argumentative and actually hung up on me, retaliated because of my complaint to you. I believe that conversation took place on or about XX/XX/2023. \nI write now to inform you of this debacle. Hopefully the issue will reach some level of Citibank that can ensure this doesn't happen to someone else. I see no reason why the refund of this money took nearly XXXX weeks to occur. When I need to make a payment, I can have funds transferred immediately. Why is it different for Citibank? \nLastly, I have delayed this complaint until I felt safe that Citibank could take no further action against me, and I do not intend to do business with them again."
+}

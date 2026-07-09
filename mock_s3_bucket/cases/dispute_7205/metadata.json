@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7205",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93551"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49656,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had unauthorized charges on my Amex XXXX card for months I've tried resolving it with them and they say they can't do anything about it i have proof from merchants that products wasn't sent and I've been paying it off for months over {$5000.00} I've spent for nothing"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13400",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11368"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29848,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express continues to refuse to resolve the dispute previously reported in CFPB complaints ID XXXX and XXXX. The dispute involves XXXX XXXX transactions, both posted on XX/XX/year>, in the amount of {$360.00} each. \n\nXXXX has already admitted in writing that both chargebacks were resolved in my favor. In its written response to complaints submitted to the Federal Communications Commission and the New York Attorney General on behalf of my father, XXXX XXXX, XXXX confirmed that the first chargeback under order ID XXXX was resolved in my favor and returned to my financial institution, and that the second chargeback under order ID XXXX was also processed accordingly. XXXX further stated that it would not be contesting either chargeback. See Evidence XXXX. \n\nIn a separate response dated XX/XX/XXXX, XXXX again acknowledged that the refund had been processed. See Evidence 2. \n\nDespite the merchants direct written confirmation, American Express continues to deny both disputes and has failed to provide any reasonable or adequate explanation as to why my account remains billed for both transactions. American Express has therefore failed to properly investigate and resolve a dispute where the merchant itself has admitted that the chargebacks were resolved in my favor. \n\nI request that American Express immediately reverse both charges, correct my account balance, and provide a substantive written explanation for its prior denials."
+}

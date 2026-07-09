@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8649",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7840"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14772,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have contacted XXXX credit card trying to resolve charges that were not authorized by us. The representatives told me to do fraudulent, then dispute charges and nothing was resolved. Time as passed and now they are saying that there's nothing they can do to solve this. There were charges in XXXX which my son was not even out of the country then and they are still not doing anything about it. They have receipts for XXXX charges for XXXX XXXXXXXX XXXX XXXX which we said that we authorized ; however there are a lot more charges that we didn't authorize and they are not doing anything about it. \nI have called and emailed the companies involved in XXXX and no one is getting back to me. I just receive a call from Citi bank representative apologizing for what has happened and that they can not do anything about it because of the time frame. All the information I get is not solving anything. They are just covering themselves because I have complained."
+}

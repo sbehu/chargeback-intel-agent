@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1993",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32812"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10862,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/23, I received a text message from Citi 's Fraud Department alerting me to suspected fraudulent activity on my account. Upon further investigation, I confirmed that the transactions in question were indeed unauthorized. \n\nI immediately responded to the message, affirming that the activity was fraudulent. Additionally, I took proactive steps to fax my identification documents to the Fraud Department to aid in their investigation. However, I encountered challenges as I was initially provided with an incorrect fax number. Consequently, I had to resend the same documentation after obtaining the correct fax number. \n\nFurthermore, I have made numerous calls to Citi Bank 's customer service in an attempt to expedite the resolution process and ensure that appropriate actions are taken to secure my account. \n\nGiven the seriousness of this matter, I urge you to take immediate action to investigate and rectify the situation. I have already provided all necessary information to Citi 's Fraud Department, and I am cooperating fully with their investigation. \n\nThank you for your attention to this matter. I trust that CFPP will handle this situation with the urgency and diligence it requires."
+}

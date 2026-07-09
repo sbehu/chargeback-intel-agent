@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13637",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91331"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank regarding a closed dispute investigation where the bank incorrectly found me responsible for a clear duplicate billing and unreturned security deposit error. \n\nOn XX/XX/year>, the merchant XXXX XXXXXXXX XXXX XXXX XXXX XXXX  processed XXXX separate {$200.00} charges to my account. XXXX line item was titled XXXX XXXX XXXX XXXX and the other was titled XXXX XXXX XXXX XXXX Because the word 'REVERSE ' was in the text description, I initially believed a refund had been processed or attempted, so I originally submitted a dispute for only a single {$200.00} charge. \n\nHowever, a review of my XX/XX/year> statement ( attached ) proves that BOTH of these {$200.00} line items were processed as positive charges that added to my balance. There is no minus sign or credit formatting on either item. The merchant actually deducted a total of {$400.00} from my account on that day. \n\nCitibank 's dispute department closed the case and held me responsible because the hotel provided a dispute packet claiming the charge was valid and that they reversed it. However, the merchant 's own internal XXXX XXXX XXXX ( PMS ) logs included in that packet ( attached as Hotel.pdf, Page XXXX ) explicitly contradict their defense. \n\nAt XXXX AM on XX/XX/year>, the hotel staff explicitly logged this transaction as a XXXX preauth ' and categorized the line item as a XXXX XXXX '. Page XXXX of the merchant 's own packet outlines their policy that security deposits are returned to the guest 's bank account after check-out. \n\nThe merchant has provided XXXX evidence of property damage to justify withholding this deposit. Instead, they ran a temporary authorization deposit as a permanent double charge, and Citibank blindly accepted the merchant 's cover letter while ignoring both their own statement data and the merchant 's internal logs proving the funds belong to me. Citibank is in violation of the XXXX XXXX Billing Act by closing this dispute. I request that Citibank reopen this case and credit my account for the full {$400.00} that was wrongfully taken."
+}

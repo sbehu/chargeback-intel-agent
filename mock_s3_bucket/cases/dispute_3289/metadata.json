@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3289",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8054"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4795,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of 2024, Got charged two with charges on my credit card, one for XXXX dollars and one for XXXX dollars. I locked the card and requested a new card. I was issued a chargeback for both charges, they recently reversed one of the two charges saying that the merchant said it was a valid purchase. The charge that was reverse was the XXXX dollar charge. The email address and phone number that were listed on the merchant copy were not my phone number or email. The charge was issued same day that I froze the card and requested a new card. As of recently I have been using the credit card strictly for gas and the charge I am disputing was not for gas. I spoke to a representative about possibly reopening the dispute but she did not sound confident or give me any any confirmation email or message about reopening the dispute. It is not a large sum of money but I do not want to pay for a purchase I did not make."
+}

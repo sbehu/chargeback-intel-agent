@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2576",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77095"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19090,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "to whom may this concern my name is XXXX XXXX XXXX, on XX/XX/XXXX, i lost the credit card and there are 2 fraud transaction on my account with the total amount of {$4400.00} i call the american express and report fraud but the american express back office denied my claim without any reason, i call several time and talk to XXXX  on XX/XX/XXXX but the case has not been resolve, the claim number is XXXX ; i also file a complain to the bussiness bureau but american express is not respond. Please resolve my complain."
+}

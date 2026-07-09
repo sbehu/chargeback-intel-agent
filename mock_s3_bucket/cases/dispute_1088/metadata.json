@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1088",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "601XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43806,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchased Windows to be fabricated and installed by XXXX XXXX. XX/XX/XXXX the team was at my house to start the install. During the install it was obvious that what was fabricated was not what I had ordered. Every window had an extra 1.5 inch frame which reduced the glass by at least 3 inches. Some windows were fabricated with a different grid pattern, some were way to large to be installed, all were far too small and required at least 2 inches of caulk to fill the gap. All of the windows facing the XXXX leaked when it rained. What did get installed, they installed over the rotted wood. Every window was fabricated with the grid being XXXX inches from the side, which caused the XXXX inch windows to look like jail cells. My kitchen window was so bad they weren't even in disagreement. My foyer had XXXX windows of which I had a picture window fabricated. They left the frame which had grooves on the top and the bottom of the window, where the T was. They expected me to patch it with paste, and stain it, with the understanding it is in a foyer on the second floor. After 7 months of them coming out to my house, they still had no solution. I instructed them to cancel the install, process a refund and I would purchase from another company. XX/XX/XXXX I requested XXXX XXXX be at my home to remove the partially installed windows the same day the new company would be installing. XXXX reps from XXXX XXXX came to my home XXXX weeks later to pick up the windows and I instructed them that I had left the rotted frames on all of the windows to show management. XXXX XXXX has refused to process a refund to this date."
+}

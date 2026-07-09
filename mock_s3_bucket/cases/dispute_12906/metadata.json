@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12906",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27286,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "RE : Formal Complaint Against Citibank , N.A . for Failure to Comply with Georgia Fair Business Practices Act ( O.C.G.A. 10-1-393 ( b ) ( 2 ), ( 5 ), ( 7 ) ) and Improper Closure of Billing Dispute To Whom It May Concern, I have been a Citibank , N.A . credit card holder in good standing for more than XXXX years. I am writing to file a formal complaint against Citibank , N.A . ( \" Citi '' ), located at XXXX XXXX XXXX XXXX, XXXX XXXXXXXX XXXX XXXXXXXX, regarding their failure to adequately investigate and resolve a billing dispute involving deceptive practices related to the misrepresentation of digital goods and services. XXXX handling of this matter constitutes a violation of Georgias Fair Business Practices Act ( O.C.G.A. 10-1-393 ( b ) ( 2 ), ( 5 ), ( 7 ) ) as well as federal consumer protection standards under the Fair Credit Billing Act ( FCBA ), 15 U.S.C. 1666. \n\nCitibank , N.A . is trying to bully me into paying for services and digital products delivered that did not align with the Scope of Work described in Invoice XXXX for {$400.00}. They allow their Staff and Supervisors to yell at customers, hang up on them, be disrespectful, infer that we are liars, and call it Citibank , N.A . Best Practices. Their Billing Dispute Resolution Practices constitute unfair schemes and violate the Truth in Lending Act ( TILA ), as implemented by Regulation Z."
+}

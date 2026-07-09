@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9021",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8817"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20910,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXXXX/XX/year>, a charge for {$42000.00} was processed through XXXX for services that were never rendered. XXXX informed me that they returned or reversed this charge, but NO refund was ever credited back to my American Express account. \n\nAmerican Express closed the dispute based on XXXX claim, and they are now holding me liable for the entire {$42000.00} even though I never received the funds back. \n\nI have bank statements showing no refund, and I mailed a formal written dispute letter to American Express under Regulation Z on Thursday. AMEX refuses to reopen the dispute or investigate properly. \n\nXXXX XXXX I am requesting that American Express be required to : XXXX. Provide proof of the alleged refund from XXXX. \nXXXX. Reopen or properly investigate the chargeback. \nXXXX. Pause all adverse actions, collection activity, or account closures during the investigation. \nXXXX. Correct the account since I never received the {$42000.00} refund."
+}

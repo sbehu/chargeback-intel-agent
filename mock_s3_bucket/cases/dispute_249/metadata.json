@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_249",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "119XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47353,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The bottom line is I am being charged {$6300.00} for money I never received from a flex loan from my Citi Thank You Preferred card. Here are the facts : In XXXX I applied for a flex loan of {$6300.00}. When I received an email stating that it was approved, I saw online that the money had not been deposited into my account, but that I was being charged for it on my credit card. I called customer service and spoke with a supervisor in Kentucky, who said the money had been deposited into my account. When I insisted that it had not, she asked for my checking account number and verified that I was indeed correct. She then told me she would launch an investigation into the issue, but she said she could not remove the charge at that time. \n\nAfter several more phone calls over the next few weeks, with everyone agreeing I did not receive the money, I told Citi to please cancel my loan application. I no longer wanted the money ; I just wanted the charge removed. To my delight the loan and the charge were both cancelled the next day. \n\nUnfortunately, that is not the end of the story. When I checked my account online on XX/XX/XXXX, I saw that the credit of {$6300.00} that had been issued to my account was reversed, and I was again being charged for money I never received. I Citi again and spoke with XXXX who told me to check with my branch, but after conferring with a colleague, told me the investigation is ongoing, and that it is Citi 's practice to reverse a credit if it is not resolved within a certain amount of time. \n\nSince then, I sent a letter to my broker, who said he sent it on to the right people, phoned Citi several times, and spoke to XXXX ( supervisor ) in XXXX. She promised to get back to me but never did. \n\nYesterday, XX/XX/XXXX, I received a letter from Citi stating that they can not cancel the flex plan because it was already processed. I phoned Citi and spoke to XXXX, who was lovely and promised to get my information to the right people and ask them to get back to me. \n\nI am also being charged interest on this non-existent loan, and the charge has been reported to the three credit reporting agencies. I did register a dispute with the three agencies on XX/XX/XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7950",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46074"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26246,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I was charged an additional fee from XXXX XXXX XXXX \nI disputed the charge with Citibank via phone and email to their dispute center ( XXXX ) They rejected the dispute. \nI provided the additional information they requested which was the actual receipt from XXXX. Citibank still rejected my dispute. \nI have spoken to XXXX every other week in this matter as well as emailing them requested paperwork. \nI also contacted the billing department at XXXX XXXX XXXX and they submitted a credit with Citibank towards my account as they agreed I did not owe the money. \nCitibank again rejected my dispute. \nI contacted XXXX XXXX  again and they emailed me an official XXXX XXXX including a case XXXX  and credit memo XXXX  which I emailed to Citibank along with a phone call. \nThey have rejected the credit memo. \nThere is absolutely no reason why my account is not refunded the {$450.00} as I have documentation on this contunual dispute. Upon escalated calls with Citibank, they agree that I have submitted sufficient documentation, but claim it is out of their hands and XXXX is holding the money. This is a Citibank XXXX and they should be working together to refund my money. Thank XXXX XXXX"
+}

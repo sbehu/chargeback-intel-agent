@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6118",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "195XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42949,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Card info : old card ( now closed ) ends in XXXX. \nFraudulent charge : XXXX/XXXX/XXXX for {$1700.00} Background info : I was on vacation starting XXXX. XXXX and returned home on XXXX. XXXX. While in XXXX XXXX, I received an alert from Citi that the above transaction was entered without the card being present. Details about the chain of events that followed are shown below. My hope is that some/all of this information will expedite a resolution. \nXX/XX/XXXX at XXXXXXXX XXXX I received a text from Citi about the transaction XX/XX/XXXX at XXXX P.M. I called the number on my card to report the transaction was fraudulent. That associate transferred me to another number. I informed that second person that all cards associate with that account were still in the possession of the owner. No cards were lost! That person told me the transaction was pending and the easiest way to handle the matter would be to close the card and issue a new card. He said the pending transaction would then not post because the old card would be closed. I though the matter was handled and the charge would not post to my account ( s ). Please note : I called immediately after receiving the text from Citi. \nXX/XX/XXXX at XXXXXXXX XXXXXXXX I received an e-mail that my card lost or stolen and I would receive a new card. My card ( XXXX ) were not lost or stolen!!! I did not see this or other emails until a returned from my vacation. \nXX/XX/XXXX at XXXX XXXX -I received an e-mail stating Citi now had a fraud dispute claim. Again, I thought this would be handled by closing the account with the transaction in pending status. \nXX/XX/XXXX I got back home from vacation. I checked my account on-line and saw the fraudulent transaction had posted. The earlier information I had received was bad. What could have been handled five days ago was now a bigger problem. I flagged the transaction as in dispute because, even this, had not been done by Citi. One piece of information that might help The name on the transaction was for XXXX, my daughter. She joined my wife and me in XXXX XXXX and took a cab to the hotel from the airport. She paid with this same card. \nXX/XX/XXXX at XXXXXXXX XXXX I, again, called the number on the back of the card and was transferred to someone who might assist me in resolving this matter. Please note that the wait time to get someone to answer was over XXXX hours. The call lasted XXXX hrs. and XXXX min. The person with whom I spoke was very pleasant and informed me not to worry that the transaction would be backed out and would not be reflected in payment due amounts. \nXX/XX/XXXX no change XXXX XXXXXXXX XXXX I received a text from Citi that I needed to call to discuss the fraud dispute. \nXXXX XXXXXXXX XXXX. I called Citi to discuss the fraud. The call lasted XXXX minutes and I was given little hope it would be resolved quickly. No change to my next payment amount. This person seemed to know nothing about what had happened to this point. Do I have all my cards? For the nth time YES. Also disturbing, did I report this to police? No one had even mentioned that! Since I thought my first contact would resolve the issue, it never entered my mind. \nMultiple contacts since, including their executive response unit. No satisfaction. They just tell me my daughters card was present for the transaction and a chip card can not be duplicated/copied. My daughter was with me and could not have made this purchase. \nI think the card was skimmed in the cab ride and the fraudulent transaction was not made with the chip but with the mag-stripe. Citi denies this. \nI called within XXXX minutes after receiving a text about the transaction and Citi did nothing to resolve the issue."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13005",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32926"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22401,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Citibank refused to honor dispute for undelivered merchandise from XXXX I am filing a complaint because Citibank failed to properly investigate and resolve a dispute for merchandise I never received from a merchant called XXXX \n\nI placed an order with XXXX for custom childrens books. The merchant charged my Citibank credit card immediately but never shipped the products. The merchant later shut down operations and posted a notice on their website instructing customers to dispute the charges with their credit card companies because they could not fulfill orders. I have screenshots of this notice. \n\nDespite this, Citibank denied my dispute and insisted I pay for merchandise that was never delivered. Citibank told me that the merchant claimed my order was delivered, but the merchant provided no proof of delivery whatsoever no tracking number, no XXXX information, no delivery address, and no signature. Citibank accepted the merchants statement without requiring any evidence. \n\nThe merchant is no longer operating, can not ship products, and publicly admitted they were unable to fulfill orders. Their domain no longer exists, further proving they are defunct. It is impossible for them to have legitimately delivered my order. \n\nCitibank then threatened me with negative consequences if I did not pay the charge. Under pressure, I paid the disputed amount, but I am filing this complaint because Citibank failed to follow proper dispute procedures and did not require the merchant to provide valid proof of delivery. \n\nKey facts : XXXX never shipped my order. \nThe merchant publicly admitted they could not fulfill orders and directed customers to dispute charges. \nCitibank told me the merchant claimed my order was delivered, but the merchant provided XXXX evidence to support this claim. \nCitibank denied my dispute without requiring proof of delivery. \nCitibank threatened me when I refused to pay for undelivered merchandise. \nI have emails, screenshots, and documentation showing the merchant never shipped anything and is no longer in business. \nThe XXXX domain is now owned by an unrelated company. \n\n\nI am requesting that the CFPB require Citibank to : XXXX. Reopen and properly investigate my dispute. \nXXXX. Provide a written explanation of why they accepted a merchants unverified claim of delivery without any proof. \nXXXX. Issue a credit for the amount I was forced to pay for merchandise I never received. \n\n\nI am also requesting that Citibank review their dispute-handling practices, as their actions in this case were unfair, unsupported by evidence, and placed the burden on me rather than the merchant."
+}

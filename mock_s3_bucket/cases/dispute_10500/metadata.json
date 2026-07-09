@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10500",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NM",
+    "complaint_zip": "87114"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11128,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My American express credit card was hacked and there where fraudulent charges made and fraudulent payments made towards my account with fake bank accounts. American Express was made aware of this but has sent it to a lawyer who is trying to XXXX  me over the fraudulent charges"
+}

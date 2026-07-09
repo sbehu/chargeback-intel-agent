@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7450",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34286"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7220,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Discovered an unauthorized charge of {$1900.00} on my Home Depot card in XXXX. Citibank completed an investigation and determined it was fraud in XXXX. I was informed that charges would be removed. \nCitibank has not removed charges and continues to send me bills, text and calls with interest and lat charges. I made a {$59.00} payment to try and stop the harassment.\n\nI have been calling Citibank and home Deport for months trying to get them to resolve the charges. They say it's been resolved and to call back in 10 or 60 days.\nThe responses are generic and it's clear that know one is willing to take the time or care to help me after numerous calls.\n\nConsumers should beware aware of the poor customer from Home Depot and Citibank if there are unauthorized charges on their account. Clearly they are very unorganized and not focused on customer service."
+}

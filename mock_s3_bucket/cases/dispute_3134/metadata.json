@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3134",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "482XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21708,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked travel on XX/XX/XXXX for travel in XX/XX/XXXX through American Express Travel. My itinerary was supposed to be XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. I checked in to my XXXX XXXX flight via XXXX Al XXXX app. On attempt to drop my luggage off, I was treated in a discriminatory/racist fashion by a check in XXXX. I was profiled as XXXX. I am ethnically Chaldean. I was born in XXXX but came to the XXXX as a refugee when I was a toddler. XXXX an XXXX and have been through multiple background checks. Even if I was XXXX it shouldnt matter. However, I was told I couldnt fly with them unless I dont bring my backpack, medications, XXXX and carry on. Despite their website saying these things were allowed, I was told that for me, its a security risk and the reason for this risk assessment was classified. I recorded the whole exchange on my phone and uploaded XXXX links to this below. \n\nSince then, Ive received my money back from XXXX Al for the flight to XXXX XXXX through a dispute with Amex Travel. I also finally received a flight credit for my flight from XXXX to XXXX that I had to miss since I wasnt allowed to go to XXXX. I uploaded an attachment of an email describing this credit from Amex, however, when I tried to use it this past XXXX, I learned it had no value. I resolved this successfully with another dispute. \n\nAs far as the hotel, I have filed XXXX disputes to receive my XXXX dollars I spent back. I originally called the hotel the day this happened and wasnt able to speak to a XXXX. My first dispute didnt include the videos of what I experienced as Amex XXXX open the videos if sent by email but I later learned they could open XXXX links. My second dispute included the videos. Third dispute was the mere fact that for almost 10 months, both myself and XXXX XXXX from Amex XXXX XXXX team have been unable to reach a XXXX. I was last emailed by the hotel in XX/XX/XXXX when they told me theyd forward my complaint to management and get back to me, but never did. This dispute closed on XX/XX/XXXX, with the reason being that the terms and conditions of the hotel allowed the dispute to close in their favor. The terms and conditions, which are in the original invoice from the hotel I attached for you, state cancellations made within XXXX hours of check in or no shows are subject to 100 % fee of the reservation value. My argument is subject to doesnt mean in all cases, but for some reason, the hotel wont even entertain a conversation with me. Furthermore, I would hardly call what happened with me a no show or cancellation. I physically wasnt allowed to travel. \n\nSince then Ive also submitted a claim to XXXX travel insurance, and included their reply in an attachment. They found that while my travel was interrupted due to XXXX  this wasnt a covered benefit. \n\nIve also submitted a complaint to the XXXX but they responded saying that since this was international they dont have jurisdiction. Short of reaching out to an attorney, XXXX at the end of my ability to advocate for myself. Ive spent XXXX hours talking to Amex Travel XXXX XXXX dispute team, their compliance regulatory team, XXXX team, advocacy team. And at many junctures, theyll ask for details Ive provided or ask why XXXX XXXX let Amex know sooner, when Amex was aware when I called them while crying at the airport in XXXX. These different departments dont communicate well with each other and none are able to escalate this to someone who can help. \n\nOf note, I had to retype this as the page refreshed when I uploaded my attachments so I hope all the attachments work! \n\nThank you, XXXX XXXX"
+}

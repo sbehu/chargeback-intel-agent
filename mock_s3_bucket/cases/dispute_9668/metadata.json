@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9668",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "420XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7319,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Merchant : XXXX  ( {$2400.00} ) FTC Report Number : XXXX I am filing this complaint against American Express for failing to conduct a reasonable investigation into a \" Services Not Rendered/ Misrepresented '' dispute, as required by the Fair Credit Billing Act ( FCBA ). \n\nThe Facts : ( Please see the attached 4-page 'Rebuttal to Chargeback Dispute ' for a point-by-point refutation of merchant claims and copies of their own support tickets admitting the service failed. ) Failure to Deliver : I authorized a charge of {$2400.00} based on the contractual promise of \" qualified, responsive leads. '' The merchant failed to deliver this. The majority of leads provided were unresponsive, and several were confirmed deceased through professional real estate lookup tools. \n\nMerchant Misrepresentation : The merchant claims I am \" walking away '' with digital assets ( website/marketing ). This is false. These assets are proprietary to their platform and are disconnected upon termination, providing XXXX residual value. \n\nPredatory Refund Terms : The merchant 's refund policy is structured to be practically impossible to fulfill, requiring 12 months of daily XXXX activity on non-viable leads. This is a \" bad faith '' contract term designed to circumvent consumer protection. \n\nBank Failure : American Express closed my dispute stating the charge was \" authorized. '' I have never denied authorization ; I am disputing the performance of the contract. Under the FCBA, banks are required to investigate when a merchant fails to deliver goods or services as agreed. Amex has ignored the evidence of service failure and focused solely on the transaction 's authorization."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2497",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "77494"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3177,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a hotel on XXXX through citi travel portal. Unfortunately my flight got delayed and I called the hotel. The hotel suggested me to call citi travel agents since I booked it through them. I called them twice and they promised me to solve the problem and gave me the update, But they end up doing nothing until I called them again next morning. Eventually the hotel charged me fully with money plus citi thank you points. I made a dispute and they judged it was my responsibility. I called their customer service and they cheated me that I won the case."
+}

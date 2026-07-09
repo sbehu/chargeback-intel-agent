@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6980",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32216"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10178,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rented a car at XXXX rental with the original quote being close to XXXX euros a day. When I got to the rental the car was not available so they told me my daily charge would be significantly less as I was getting a smaller car. When they billed me it was for over XXXX euros a day for the car. There is even a car offered at that high of a price at that location I called my Jet Blue cc and disputed the charge and they told me I need to fax my invoice to them and they dont accept emails and this is being done to the clients because they know how difficult it is to get access to a fax machine which were used predominantly in the XXXX"
+}

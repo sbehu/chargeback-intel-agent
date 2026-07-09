@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8990",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TN",
+    "complaint_zip": "385XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8973,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had fraud activity on my account between XX/XX/XXXX to XX/XX/XXXX. All purchases were reversed except for a XXXX XXXX subscription payment. \n\nI have continued to request the amount of {$25.00} be credited to the account w/o resolution. The last notification was received on XX/XX/XXXX stating it was resolved and I was responsible for it. I had it reopened and the resolution has not changed. \n\nI have contacted the credit card company ( Citibank ) and while they are going to check again, I do not believe the outcome will be satisfactory."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4947",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28213"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49989,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX, I made a purchase with merchant XXXX XXXX for a handbag that was ADVERTISED as leather. I received the handbag only to learn that it was NOT genuine leather, and I contacted the company about this, as this equated to false advertising of the merchandise. The company responds and tells me that I can return the bag for a full refund... to a location in XXXX, and that I would have to foot the bill for shipping for the return. I told them that wasn't a satisfactory option due to the fact that they falsely advertised the item as genuine leather. Had it been advertised honestly stipulating that it wasn't genuine leather, I wouldn't have purchased the bag. The burden of shipping costs was on them due to false advertising. \" Fully '' refunding an item that I paid for based on deceptive information should not include me incurring a XXXX XXXXXXXX shipping fee. They refused to send a prepaid shipping label, in spite of the fact that they falsely advertised the item. They responded to the merchant ; however, did not attest or admit that they falsely advertised the item, which would have been a reason for the refund. Merchandise that comes differently than described is customarily due for a refund from the credit card company. AMEX refused to credit me."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8412",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77004"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21384,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased products totaling {$540.00} from XXXX XXXX XXXX XXXX XXXX ) using my American Express XXXX XXXX XXXX XXXX. The order was shipped through XXXX, but I never received the goods. \n\nHowever, XXXX tracking status marked the package as delivered on XX/XX/XXXX, accompanied by a forged signature that is not mine. There was no photo evidence, no GPS delivery data, and no proof that the package was actually received by me. \n\nI first contacted The XXXX XXXX, but they refused to assist and told me to contact my bank/carrier for help. I then filed a dispute with American Express in XX/XX/XXXX, explaining that the XXXX  delivery record was fraudulent. Amex denied the dispute, stating that the merchant ( The XXXX XXXX ) had provided proof of delivery. \n\nAfter being denied, I contacted both XXXX and The XXXX XXXX multiple times. \n\nXXXX refused to investigate the forged signature, simply stating that I am not the sender or the payor of transportation charges. \n\nThe XXXX XXXX refused to issue a refund or replacement, insisting that delivery was completed and advising me to contact my bank or XXXX. \n\nAmerican Express, when I reopened the case on XX/XX/XXXX ( Ref. No. XXXX ), again closed it on XX/XX/XXXX, using the same reasoning : that the merchant confirmed delivery. \n\nIn short, all three companies are deflecting responsibility : XXXX provided a fraudulent or incomplete delivery record but refused to correct it. \n\nThe XXXX XXXX refuses to refund or verify the authenticity of the delivery. \n\nAmerican Express refuses to protect the consumer, relying solely on the merchants claim without reviewing the validity of XXXX documentation. \n\nThis has left me with no recourse and no product, while still being charged {$540.00}. The entire process shows a failure of due diligence among all three parties the merchant, the carrier, and the card issuer resulting in financial harm to the consumer despite clear evidence of a forged delivery signature and lack of actual delivery."
+}

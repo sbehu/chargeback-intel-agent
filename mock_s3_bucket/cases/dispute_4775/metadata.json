@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4775",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33391,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding the ongoing complaint with Barclaycard and their continued non resolution of the issue that I have now reported twice. I have received a response from Barclaycard but it does not close the issue nor give me any proper response to my concerns. Barclaycard has removed the charges and found me not liable, but then nullify that by saying that if the merchant can prove the charges, they will add them back on my account. Prove how? I want video of the criminal perpetrator impersonating me, or phone records or the ip address from which they placed the fraudulent charge on a cancelled card. They have vaguely worded their response and it does not close the issue. They also said that they have closed/cancelled the card in question now in XX/XX/year>, when they told me in early XX/XX/year> in a phone conversation, that they were closing my card immediately and issuing me a new card which I received in mid XX/XX/year>. The fraudulent charge that was made on my account used the card that they had verbally told me was closed in early XXXX. They tell me that they are closing it now? They told me on the phone in early XXXX, prior to the fraudulent charge that the card was closed then. I have requested the phone records of my conversation in early XXXX, which they have not provided. \n\nMy complaint is that they have not fully resolved this issue and put it to rest. On the one hand they are saying that I am not responsible for the fraudulent charges and on the other hand they are nullifying that statement and not taking responsibility or giving me any explanation for placing a complete and unknown stranger on my account, that they did not notify me about it in any manner, not providing any of the records of how and where they placed this stranger on my account, and not acknowledging the fact that they had cancelled the card in question at the beginning of XX/XX/year>, yet placed this fraudulent charge on my account on XX/XX/year> on the card that they had cancelled in early XXXX that they are now telling me that they are closing right now in XX/XX/year>. The level of ineptitude and lack of transparency is beyond pathetic and the response is extremely negligent and contradictory, it does not give me a proper explanation. And they further note that they have not put this issue to rest and may charge my card again."
+}

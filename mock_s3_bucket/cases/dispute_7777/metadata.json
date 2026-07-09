@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7777",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "972XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22478,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Between XX/XX/XXXX and XX/XX/year>, I purchased three items from Best Buy using my My Best Buy Citi Credit Card : Graphics Card {$700.00} ( XX/XX/year> ) Power Supply Unit {$120.00} ( XX/XX/year> ) CPU  {$490.00} ( XX/XX/year> ) I returned each of these items to Best Buy within the valid return period ( on XX/XX/XXXX and XX/XX/year> ) in their original condition and packaging. Despite returning the correct items, Best Buy sent them back to me and claimed they were \" incorrect. '' This claim is false. I returned the exact merchandise I purchased. \nI disputed the charges with Citi/Best Buy Credit Services . I completed and submitted all required dispute forms promptly and provided documentation. However, Citi did not resolve the dispute in my favor, leaving me responsible for charges that should have been credited under th\n\ne Fair Credit Billing Act. I then filed a complaint with the XXXX XXXX XXXX. In res\nponse, Best Buy again claimed I had returned the wrong items and demanded that I return the products \" again. '' At that point, I no longer had them in my possession, as I had already returned them once. Best Buy denied my refund request on this basis, and the XXXX  closed the complaint. \nI believe Citi failed to properly investigate and protect my rights under the Fair Credit Billing Act. I should not be held financially responsible for merchandise that I returned correctly and on time, simply because the merchant mishandled the process.\n\nI am requesting that Citi/Best Buy Credit Services : Reverse the disputed charges ( {$700.00}, {$120.00}, {$490.00} ). \nEnsure my account and credit reports are not negatively impacted by these improper charges."
+}

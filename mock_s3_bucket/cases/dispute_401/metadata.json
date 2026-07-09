@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_401",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28921,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I transferred {$9500.00} from my XXXX card to my Citi card. I accidentally transferred it to my daughters account and asked Citi to correct the error. \nA little bit later I received the money back into my XXXX account and I thought I had to make the transfer again myself. I transferred {$9500.00} again. Then shortly after that, they apparently completed the second half of their correction and took the {$9500.00} out of my XXXX account again and put it into my Citi charge account. \nI called several times to ask them to correct this because now my Citi card was showing a credit of {$9500.00}, and I was over the limit on my XXXX card for that amount. They asked me if I wanted to do a balance transfer, which wouldve cost me money, and I declined. I said please just refund the money. \nThen I spoke to someone again, and the money completely disappeared from my Citi account but also never showed up in my XXXX account. \n\nThe first {$9500.00} Balance transfer was made on XX/XX/XXXXXXXX  from XXXX to Citi, and the second {$9500.00} transfer from my XXXX card to my Citi card was made on XX/XX/XXXX. \nFirst dispute reference # XXXX was closed with no action taken. \nI then talked to Supervisor XXXX XX/XX/XXXXXXXX  who said shed call back XX/XX/XXXXXXXX  after the billing cycle closed ( or something ) to see where the money went. Never called. \nXX/XX/XXXX spoke to supervisor XXXX (? ) # XXXX who opened another dispute forwarded to refund team 11 business days later nothing ( I was told 7-10 days ) XXXX supervisor XXXX # XXXX in Arizona said I should hear something by Monday. Im not waiting anymore."
+}

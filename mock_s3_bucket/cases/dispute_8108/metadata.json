@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8108",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "339XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9245,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchased on XX/XX/year> in XXXX website for the amount of {$1100.00}. I purchased 3 XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. I never received my package and I spoke to the company about it and they declined giving me the money back or sending me new items. I filed a claim with my credit card company and after several months of back and forth they still decided to not give me the credit back, knowing that a XXXX claim was issue to XXXX and that they got their money back and knowing XXXX was not able to locate my package. This is the first time a bank is doing this, because normally if the customer don't get the package a refund should be issue, according to XXXX. The case number is : XXXX"
+}

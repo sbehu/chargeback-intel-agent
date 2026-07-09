@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3721",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32168"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45663,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This credit card is a Macy 's American Express ( general purpose ). This issue is summarized below. Please note I am a long-term Macy 's customer and when I call I am recognized as a platinum customer who will receive special attention. This is just a joke to me now. \n1. Online order # XXXX was placed on XX/XX/XXXX for two pairs of sneakers ( XXXX XXXX XXXX XXXX XXXX ) totaling {$230.00}, minus {$42.00} in rewards credits. The total purchase was {$180.00}. \n2. I realized the shipping address on the order was incorrect and immediately contacted Macy 's customer service. \n3. They were no help but on my own I contacted XXXX & USPS. They told me the packages could be not be re-routed without Macy 's authorization. \n4. I was able to get a customer service \" manager '' named \" XXXX '' on the line with USPS but we did not have much success because the shoes had not yet arrived there. That said, XXXX said she would take care of the situation. I took her at her word. \n5. I never received the shoes and never heard back from \" XXXX ''. No news is good news? \n6. Of course, my statement due XX/XX/XXXX, showed a chargedfor the both pairs of shoes ( {$180.00} ). \n7. I contacted customer service and told them the entire story. The only option they gave me was dispute the charges which landed it in the Fraud department. There was NO FRAUD but that was the only process by which I could dispute the charges for items that I never received. They also cancelled my credit card! I never requested that and it was totally unnecessary because there was NO FRAUD. \n8. Per XXXX, Macy 's credited me back with the amount of the purchase until the fraud investigation was completed. \n9. I received a letter dated XX/XX/XXXX, indicating the fraud investigation found that I did receive benefit of the purchases and there was no unauthorized use of my card. I never claimed there WAS! They would be re-billing my account for the shoes ( I never received ). \n10. In what I perceived as an aggressive threat, the letter also threatened to report me as past due on my account unless I sent the minimum payment for those shoes, adding insult to injury. How am I supposed to figure what that is? \n11. True to the fraud letter, on my XXXX bill, I was re-charged for one pair of the shoes in the amount of {$130.00}. I assume that the other pair of shoes was able to be canceled by XXXX with the manufacturer. \n12. This time I sent a lengthy letter via US Mail and email to the fraud department disputing their findings and explaining the situation. That letter is attached. \n13. But I also called customer service again. I was on the phone for 45 frustrating minutes. The initial customer service reps kept telling me I DID get a credit for the shoes, not understanding that credit they were seeing was pending the fraud investigation. After that date, I received the result of the fraud investigation and a charge on my bill. They just could not understand what I was saying. They repeatedly told me I had received my credit! \n14. Just as I was about to hang up, I spoke with someone high enough up the change who could understand what was going on. \n15. The solution? PUT ME BACK IN THE INVESTIGATION LOOP AND DISPUTE THE {$130.00}. I feel like I will never get out of this loop! I think I can guess how this dispute is going to end!! \nSOLUTION : I should receive an apology for the XX/XX/XXXX letter which insisted I had in fact received the shoes and threatening to report me to the credit bureaus. I should immediately receive a credit for {$130.00} for shoes I never received and for any other charge that may re-appear related to this order."
+}

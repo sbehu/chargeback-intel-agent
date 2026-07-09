@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6660",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "859XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8608,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025 a person named XXXX XXXX charged my credit card for a fight night showing. I disputed it as fraudulent on XX/XX/2025. On XX/XX/2025, Citi sent a letter asking me to prove I canceled the charge and provided me with the guy 's name and email and the XXXX order #. I told them that their letter proved I didn't make the charge since they provided the charge was made by XXXX XXXX and not me and not on my XXXX account. Citi stated that because I changed my story, they couldn't help. I never changed my story... it's been the same from day XXXX... it's a fraudulent charge. They refuse to help because XXXX wouldn't send them a refund. I have repeatedly asked them to provide a XXXX XXXX of my phone call with them so I can prove I never said it was a canceled charge. They now state it is automatically a billing dispute and not fraud because I have my own account with XXXX XXXX. Whether I have an account or not is irrelevant since the charge was not made on my XXXX account and it wasn't made by me."
+}

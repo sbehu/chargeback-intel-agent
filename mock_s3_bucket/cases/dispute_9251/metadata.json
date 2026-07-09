@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9251",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23185"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49810,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding repeated unauthorized recurring charges on my Citibank credit card from a merchant listed as XXXX XXXXXXXX XXXX XXXXXXXX XXXX. I have never authorized this merchant, have never had any relationship with them, and have never consented to any subscription or recurring billing. \n\nCitibank has replaced my card XXXX separate times, yet this same unauthorized {$5.00} recurring charge continues to reappear on each new card within weeks. This indicates that the merchant is receiving updated card credentials through XXXX Account Updater systems or persistent payment tokenization, despite my revocations of authorization. \n\nUnder 12 CFR 1026.13 ( Regulation Z ), repeated unauthorized recurring charges constitute a billing error, and credit card issuers are required to : Conduct a reasonable investigation, Prevent further unauthorized charges, and Ensure that reissued cards do not continue to be charged by fraudulent merchants.\n\nCitibank has failed to stop this merchant from charging my account and has not removed the merchants access to any recurring billing profile, stored credential token, or network-updater association. Their remediationsimply closing/replacing the cardhas proven ineffective.\n\nI am requesting the CFPBs assistance to : Require Citibank to fully investigate this merchant and prevent any further charges. \n\nRequire Citibank to remove all stored credentials, payment tokens, and account-updater links associated with this merchant. \n\nEnsure Citibank blocks the merchant at the network and issuer level, not just reverse individual transactions. \n\nEnsure Citibank complies with its obligations under Regulation Z to provide a permanent resolution to ongoing unauthorized billing.\n\nThis situation has caused ongoing financial concern, repeated account disruptions, and loss of confidence in Citibanks fraud-prevention controls. I am seeking a complete and final resolution to prevent further unauthorized access to my account."
+}

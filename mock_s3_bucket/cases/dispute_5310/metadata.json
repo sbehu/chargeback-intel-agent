@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5310",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91307"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48657,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a credit card from Sears MasterCard Citibank in XXXX of XXXX. The Fraudulent charges were all charged in XXXX, XXXX and XXXX of XXXX. After going back and forth with this company on the phone several times, ( at least 12 -15 times ) they sent me letters stating that the merchant claimed I purchased these items. The fraudulent charges added up to {$1000.00}. \n\nThe cc company credited me $ {$630.00}, as well as a separate credit of {$50.00}, totaling {$630.00}. The amount that was never credited to me was {$370.00}, plus finance charges on this amount. \n\nAfter phone call after phone call of them sending me to the fraud department, then back to customer service, the on to XXXX XXXX. I finally wrote a letter XX/XX/XXXX almost a year later spelling out exactly in detail the products fraudulently purchased, dates and amounts requesting a credit to my account. I heard nothing, so I called. They definitely had my letter, since the agent on the phone read it back to me. Agent XXXX said \" Oh you should see that credit on your next statement '', which of course, never came. \n\nSo I sent an additional letter on XX/XX/XXXX reminding them of the credit they still owe me, plus interest. I have copies of those two letters."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9004",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78233"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14041,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I was charged for XXXX transactions I did not make at a store called XXXX # XXXX XXXX XXXX TX XX/XX/year> {$38.00} XXXX  # XXXX XXXX XXXX TX XX/XX/year> {$100.00} XXXX  # XXXX XXXX XXXX TX XX/XX/year> {$110.00} I reported those transactions immediately to my Citibank Credit card company as I did not make those transactions. At first they reported as a store dispute and started an investigation a few weeks later they mailed me their investigation and informed me that nothing seem out of place and I was the one that made the purchase and I would be responsible for the charges. I called once again but this time reported to their security operations and once again made a report and told them this had been fraud under my card and I didnt feel they were investigating correctly and wanted to reopen the dispute and investigation. \n\nOn XX/XX/XXXX I got an email indicating they closed the case as I did not respond to any of their request, which is a total LIE as I never got any kinds of calls, emails, mail requests asking for additional info. They informed me they can not longer assist me with this matter. I have also filed a local police report within the XXXX XXXX XXXX. \n\nOn XX/XX/XXXX I called again to reopen the case and told me not to worry about any payments as they will reopen and investigate the transactions once again. \n\nIt has been very frustrating as I dont feel CitiBank is doing their investigation thoroughly and as I informed them I didnt make this purchases and someone committed fraud with my personal information. As of today they purchases are still showing as active and no sign of investigation on their app. Not sure what to do now, please advise."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2819",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29707"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30917,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Created a dispute with the credit card company and sent them a lot of information in regards to my dispute a few times. They kept saying the didn't receive the information but then closed out my case. They finally admitted the received the information but they couldn't view what I sent them because they're system compresses pictures so they can't make them out that easily, even though the person I talked to could. Stated the case would be reopened but it never was."
+}

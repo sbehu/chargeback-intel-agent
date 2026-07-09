@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10181",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70806"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10716,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding ongoing credit card fraud, failure to secure my account, misinformation provided by multiple Citi representatives, and Citis refusal to allow me to protect myself by closing my account. \n\nOn XX/XX/year>, I received a fraud alert for a small XXXX charge, which I denied ( I do not have a XXXX account ). Upon reviewing my account, I discovered more than XXXX unauthorized charges, including XXXX large charges of approximately {$1900.00} and {$1300.00}. I attempted to dispute all charges online but was unable to dispute several of them. I canceled the card and was told a replacement would be issued. \n\nDespite being told the account was secured, additional fraudulent charges posted less than XXXX hours later. I called again and was told my card had been linked to a XXXX account and that Citi was unlinking it. The following day, I received scam-like phone calls claiming to be Citi fraud , referencing a card number I had never received. At the same time, my XXXX XXXX updated to that same card number. I later learned that this replacement cardone I never receivedhad already been compromised and had additional fraudulent charges that were not yet visible online. \n\nToday, on my fourth call to Citi, I was told that prior representatives provided incorrect or false information. I was informed that although fraud is actively attempting transactions on the new replacement card, Citi can not close that card for XXXX hours after issuance, even in the presence of ongoing fraud. I was explicitly told there is nothing Citi can do to stop the fraud during this period and that unauthorized charges must be allowed to continue until the XXXX hours pass. \n\nI was further told that I can not close my account entirely, despite requesting to do so for my own protection. \n\nAt this point, multiple cardsnone of which I physically possesshave been compromised. I have received no written confirmation of disputes, no complete accounting of all fraudulent charges ( posted or pending ), no explanation of how the fraud continues across canceled and replacement cards, and no assurance that future cards will not also be compromised. I am being forced to remain exposed to ongoing fraud with no ability to secure or close my account. \n\nThis situation has caused significant financial risk and distress. A premium credit card marketed as providing enhanced fraud protection has instead left me unable to stop active fraud or protect my personal information."
+}

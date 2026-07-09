@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9731",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10705"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5823,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went to XXXX XXXX XXXX XXXX XXXX XXXX on XXXX XXXX with advice from a friend of mine to repair the satellite radio keep turning on every time I start the car and can't turn it off neither lower the volume and can't receive calls or turn the gbs on and they took {$620.00} in cash and charged the credit card without my permission the amount of {$1100.00} and didn't do the repairs I had to send it to two shops XXXX XXXX XXXX  XXXX XXXX they charged me on XXXX XXXX XXXX {$290.00} diagnosis fee to figure out the problem and they told me the computer is not working properly and is gon na cost {$6500.00} to change and I said I can't afford it right now then my brother send me to a shop in XXXX XXXX XXXX XXXXXXXX XXXX XXXXXXXX and they ordered for me off market computer for {$2400.00} And the repair was despite I emailed the invoices of what I paid to the shops macys american express are careless about refunding the unauthorized charge from the first shop ( XXXX XXXX XXXX XXXX XXXX  ) of {$1100.00} and today XX/XX/year> I spoke with their customer service her name is XXXX for over 2:30 hours and she told me that someone in her company claimed that I requested to close the dispute without my permission and she refused to give me the name of the employee and I opened a new dispute with her and they're very careless on taking action to resolve this problem"
+}

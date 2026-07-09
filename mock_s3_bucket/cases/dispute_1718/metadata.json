@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1718",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60046"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26565,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed on XX/XX/XXXX that two charges occurred on my Citibank American XXXX credit card. I disputed both charges online. I waited for Citibank to respond back and we called them early XXXX to see the status ( which can take up to 60 days ). They said they are still investigating. When I called again in early XXXX, they said it was resolved but I told them I still see the charges on my account. They stated that they sent a letter asking for more information but I told them we NEVER received it. So they reopened the case again and on XX/XX/XXXX, they sent a letter online stating that I need to write a statement on what happened on the very same letter and to either email it or fax it back to them. So on XX/XX/XXXX, I sent all required information by email and they confirmed receipt. I called again XX/XX/XXXX and she confirmed receipt and it was still in dispute. I called XX/XX/XXXX and they claimed they didn't receive the information, and when I provided the date, she found they did have it and reopened the case. I have asked for this to be resolved as this has been going on for months now. \n\nThis has been going on now for SIX MONTHS and Citibank is reporting to the three credit bureaus that I am late on my account ( even thought they confirmed that the account is in dispute and I do not have to pay a XXXX while this dispute is still happening ) and my credit is now damaged. How do I know this? Because I asked for a credit line increase on another Citibank credit card account and I was denied and the reasons stated were \" late payments '' and \" delinquent account on an associated account ''. It is plainly obvious that Citibank 's dispute department is badly organized and don't know what they are doing. Now my good name has been tarnished and who knows how many other consumers that Citibank is doing this to."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5237",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27540"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12799,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/25 Citi XXXX ( XXXX ) I recently received the attached letter from XXXX requesting documentation regarding my dispute be sent to XXXX XXXX, SD, see attached. Since all of the documentation already exists in their fictitious disputes department they can get it from them. \n\nFurther, I WANT TO KNOW WHY XXXX  REFUSED TO CONTACT THE MERCHANT AND PUT THE ENTIRE CHARGE BACK INTO MY ACCOUNT???? Tired of dealing with cc corruption eventually I CONTACTED THE MERCHANT MYSELF AND THEY IMMEDIATELY PUT THROUGH A {$160.00} CREDIT TO MY ACCOUNT, SEE ATTACHED. I have explained all of this in earlier detail correspondence, see attached, to the cfpb and XXXX  but nothing gets done with the XXXX  sending me more meaningless demands. ANSWER MY QUESTION ALREADY- I WANT TO KNOW WHY XXXX REFUSED TO CONTACT THE MERCHANT, I.E., INVESTIGATE AND PUT THE ENTIRE CHARGE BACK INTO MY ACCOUNT???? \n\nSTOP RESPONDING WITH NONSENSE AND ANSWER MY QUESTION."
+}

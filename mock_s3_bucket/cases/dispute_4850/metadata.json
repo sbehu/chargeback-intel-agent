@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4850",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34668"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39802,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a Best Buy card three years ago due to a promotional discount by opening the card. I paid the card balance off the next month and have never charged anything on the card again. I received a charge on my card back in XXXX from Best Buy. the charge was for geek squad membership. I never signed up for a geek squad membership. I called the credit card company, which is Citibank. They handle the Best Buy credit cards. They were supposed to reverse the full charge off. They only took off a prorated amount instead of the full charge that I never signed up for or authorized. \nI have a case number with them # XXXX. \n\nI have called every single month since them because they keep charging me a late charge saying I have a balance due and it keeps compounding because I refuse to pay it because they were supposed to take the full charge off. When you call a credit card company and you tell them I did not authorize or make this charge. The full amount is supposed to come off. Every time I call now I call the number on my credit card statement, which is XXXX when I speak to them, they then tell me I need to call Best Buy and talk to the XXXX XXXX which that number is XXXX. Its a continuous circle jerk and all the people that answer the calls work in either the XXXX or in XXXX so theres a lack of understanding or comprehension there of What I am trying to say or whatever if they can remove a prorated amount off of my card, they can remove the full charge that was not authorized on my card and I refuse to pay this amount and I refuse to have my credit score dinged every month because I have a late payment. They have now put my account in collections and I am going to be forced to hire an attorney and take this to a small claim court over their fraudulent business practices. I have canceled my account and I refuse upon principle to pay these charges because I never asked for them. They were supposed to be removed. A portion was removed and I dont owe anybody anything for something that I never charged or authorized to be charged to my account I would like you to please help me get this taken care of and investigate if this is happening to other people because Im sure if its happening to me its happening to others and after a while people just get frustrated and pay for it because its dinging their credit. I have the money to pay for it and upon principle, I refuse to pay for it. I never pay my bills late. You can look up my credit."
+}

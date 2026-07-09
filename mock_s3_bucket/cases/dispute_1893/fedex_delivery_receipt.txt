@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-51091381-US
+Shipment Date:   2026-03-03T00:00:00Z
+Delivery Date:   2026-03-28T00:00:00Z
+Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
+Destination:     3759 PINE BLVD, TX, 78681
+============================================================

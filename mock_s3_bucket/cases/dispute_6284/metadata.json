@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6284",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "AL",
+    "complaint_zip": "362XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38007,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed a fraudulent charge on my account for the amount of {$99.00}. I contacted Citi.com and reported the charge, nothing was done about in XXXX the charge was pack on my account, so I called and spoke with XXXX who assured my the charge was removed but it wasn't i called back in XXXX and spode to XXXX who is a service advisor who assured me the problem was fixed but it wasn ; t i was continually getting collection calls from citi, when i noone will fix this and remove this charge from my account so i did pay the balance but I want my money back"
+}

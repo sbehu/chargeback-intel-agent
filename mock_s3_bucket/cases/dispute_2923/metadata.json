@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2923",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20850"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23066,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An order for fish tank anti-biotic was placed with XXXX on XX/XX/year> XXXX. Order confirmation was received from XXXX. This has been the ONLY COMMUNICATION from the merchant to date. \n\nXXXX. There was no further detail from them re preparation, shipment, tracking number, delivery notification NOTHING. \n\n4. On XX/XX/year>, I tried contacting the merchant but discovered their website XXXX  NO LONGER EXISTS. Thats when I called Citibank to dispute the charge. On that day, I specifically told your customer rep that the website is no longer reachable and I suspected XXXX to be a scam. I had requested the case be referred to the Citibank fraud team. \n\nApparently, my request had been ignored. I have never been contacted by the Charge dispute team ( by phone or email ) about the status of this disputed charge. Not having heard from Citibank re this case for so long, I finally called their customer service about this on XX/XX/year>. Thats when I was informed that the case had been concluded, that the merchant had claimed the product was shipped out to me and that I could look it up under Disputed Charges in Citibank online. \n\nQuestions : 1. Did the merchant show any actual proof of the shipment? 2. Was any t\nracking number provided to Citibank? If so, what is that USPS tracking number?\n\n3. Why is there no communication from Citibank with me during and after the case was concluded?\n\n4. Did Citibank ever verify that the merchants website is no longer reachable online?\n\nThis case should have been referred to the Citibank fraud team before any more customers get conned by this same merchant, maybe under a different name and website."
+}

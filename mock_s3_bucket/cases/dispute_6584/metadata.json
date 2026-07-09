@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6584",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23208,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I attempted to book a hotel through the American Express Travel website using my Amex Platinum credit card. I noticed that the price listed on Amex Travel was significantly higher than the market rate for the same hotel and room type. To take advantage of Amexs Lowest Hotel Rate Guarantee, I contacted the Amex Travel Concierge. \n\nThe concierge advised me that to be eligible for the guarantee, I would need to book the hotel either through him or directly on the Amex Travel website. I provided him with my full name and the exact room type I wanted. However, the agent made two critical errors : 1 ) He booked the wrong room type. \n2 ) He booked the reservation under the wrong name. \n\nWhen I received the itinerary, I immediately noticed the discrepancies. The agent initially insisted that everything was correct until I showed him the confirmation details. At that point, he admitted the mistake and told me that, because the booking was under the wrong name and room type, I was no longer eligible for the Lowest Price Guarantee. \n\nTo resolve the issue, the agent said he would : 1 ) Open a complaint case on himself so the company could investigate and refund the incorrect booking. \n2 ) Make a new, correct booking for me. \n\nHowever, I was subsequently charged twice once for the incorrect booking and once for the corrected one. No investigation case was ever opened, and I have received no refund or follow-up. I now feel that I have been misled and potentially scammed by the agent and the process. I have contacted American Express multiple times, but the issue remains unresolved. \n\nThis experience has caused significant frustration, stress, and emotional distress. I feel misled and unsupported by a company that promotes premium service and consumer protection."
+}

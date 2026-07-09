@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_654",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92277"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27786,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, This is regarding what appears to be a violation of the Fair Credit Billing Act. I am an XXXX XXXX small business credit card holder. On XX/XX/XXXX I was charged {$11000.00} by a vendor with the merchant XXXX for custom-sized doors. Upon receipt of the goods, I realized they were made to the improper size ( specified in written agreement ), among other misleading/fraudulent practices by the merchant, who failed to rectify the situation. So I submitted a dispute with AmEx to get the charge refunded.\n\nI sent all requested and necessary proofs documenting this dispute to AmEx, including detailed photos and explanation of the incorrect goods. I have waited 4 months for AmEx to process this dispute ; AmEx said they were waiting on the merchant, which is a XXXX corporation and difficult to reach at times. Because of this and constant miscommunications with AmEx, I have had to resubmit this dispute several times, most recently on XX/XX/XXXX. \n\nFinally on XX/XX/XXXX, I received written confirmation from American Express ( attached ) that this dispute was resolved in my favor and that I would be receiving the credit on my account shortly, as well as email confirmation. \n\nHowever the next day, I received a message from AmEx saying this dispute was closed and NOT resolved in my favor, contrary to their previous confirmation. When I explained to the representative that I was already told that this was closed, they denied their previous confirmation and said it was a mistake. So I then asked them to provide documentary evidence as to why, but they did not. \n\nAs of today, it appears that AmEx \" reopened '' this case without providing any required and requested documentary evidence of why they closed the case against me in the first place. ( They instead request documentation from me, which has already all been uploaded as you can see under Previously Uploaded Documents. ) I request a resolution in which American Express honors their original confirmation that this dispute was closed in my favor by crediting my account for the full amount of {$11000.00}. I also request they remove any and all interest charges from this disputed amount over the 4 months its taken to resolve. \n\nThank you. \n\nXX/XX/XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1283",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20148"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30671,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On a recent trip to XXXX with my family, on checking my credit card transactions, I saw a {$610.00} ( XX/XX/XXXX ) charge on my account. I wanted to reach out to the bank and report it, but since it was still processing I could not dispute it. I put an alert to notify me when the transaction posts after which I ended up filing a claim on XX/XX/XXXX. After a few days, the bank requested that I provide details about the transaction and I explained the other charges on my card. A few days later when I logged back into my account, the dispute said it was resolved and that the Customer was responsible for the charge. I tried calling the dispute center to understand what was going on. The executive I spoke to said she will reopen the claim. Not hearing anything from them and no status change made me call them again to find out about the card. On XX/XX/XXXX when I called the fraud center of Citibank, they said the card has a chip and there is no way to clone it. Since the transaction was done using a chip they said either me or someone whom I gave the card to may have done the transaction. The only time I remember the card being with someone else was with a gas station clerk and the other being my card/wallet left in the car accidentally and the car parked by valet. I asked the Citibank staff to provide me any details about the transaction and they said the name of the merchant that I saw on my card is all that they have. I am unsure what their investigation led to that makes me responsible for this charge. There were other valid charges done around the time and I only had concerns with this one charge. I feel that the bank is not providing me with sufficient info. I said I am happy to cooperate with the investigation and would be willing to provide any details they needed. I can also testify this on oath and am happy to face the consequences if I am at fault."
+}

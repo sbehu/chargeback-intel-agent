@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12432",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ME",
+    "complaint_zip": "048XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42516,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered two XXXXXXXX XXXX through a company on line by the name of XXXXXXXX XXXX in XX/XX/year>. XXXX XXXX I received an email that my items were shipped, but by the end of XXXX I did not receive. I sent multiple emails and finally someone from the company got back to me to say they were sorry and the package must of gotten lost. They said they could either send another package out or refund me. I immediately responded that I wanted a refund! They never credited my money back to my credit card. I filed a dispute with my credit card company and they denied it even though I have all of the emails from the company and sent it to them. The reason for denial was they didnt understand what a XXXX XXXX was. It certainly makes no sense to me at all as I always assumed your credit card company should be representing you and I obviously had all the necessary proof from the company that did not send the merchandise that was purchased. Since that time I have filed a dispute again wanting more answers, but my credit card company continues to deny although they do not give an explanation. I have reached out to the company again and have gotten notification that the company wasnt legitimate to begin with. I forwarded that information to my credit card company as well, but my credit card company ( the people I can talk to ) said they dont know who works in the dispute department or where they are located so I would just need to dispute again. That makes no sense to me either. This has been the most frustrating situation and I plan to cancel this card as soon as I get this issue resolved! With all of the information I have provided, it is clear that I shouldnt have to pay for a product I didnt receive! Date purchased : XX/XX/year> Amount : XXXX XXXX is who I have had messaged several times, but they responded XXXX time saying they would refund me and never did!!"
+}

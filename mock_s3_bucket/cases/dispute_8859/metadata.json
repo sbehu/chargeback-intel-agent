@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8859",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20901"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12189,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Home Depot Citibank Credit Card Services ( HDCS ) is billing me for a transaction that was never processed by The Home Depot corporation ( HD ). This nonexistent transaction and HDCSs erroneous reporting to all three credit bureaus has lowered my credit score from XXXX to XXXX, and has cost me countless hours and resources to combat. \n\nOn XX/XX/XXXX, I contracted with the HD Design Center for a kitchen project totalling XXXX. I paid the deposit of {$7400.00} with my personal XXXX XXXX XXXX XXXX XXXX, leaving a balance of {$14000.00}. At that time, I took out a credit card with HDCS to pay for this balance in order to take advantage of the offer of 0 % interest for XXXX months. \n\nHowever, at the conclusion of the project on XX/XX/XXXX, the HD Design Center contracting company claimed that they had not received payment for the balance for the project. I therefore paid this balance using my personal credit card from XXXX XXXX XXXX XXXX ( XXXX ). \n\nSince then, I have been charged for the balance of this project by HDCS plus interest. They have repeatedly insisted that I owe them {$14000.00} plus accrued interest. \n\nI recently contacted the HD Headquarters Executive Escalation Services, who on XX/XX/XXXX informed me that they had applied my XXXX  credit card to pay for the balance of the project and never processed a transaction with HDCS. Therefore, I never carried a balance on the HDCS card and owe neither the original charge nor on the interest accrued. \nExecutive Escalation attempted to have the erroneous HDCS charge reversed but was unable to do so. They recommended that I work with HDCS to do so. \n\nAttached are following documents to support my case : Invoice from the project detailing the total cost for the project, deposit paid, and remaining balance. \nEmail from HD Design Center contracting company detailing the balance owed to them. \nReceipts from HD for the deposit and balance of the kitchen project from my XXXX credit card. \nBill from HDCS for total of {$18000.00} Letter from HDCS to Maryland Office of the Attorney General stating I owe them {$14000.00}. \nEmail string from HD Executive Escalations confirming that HD never processed a transaction with HDCS. \nHD Executive Escalation Services query from their own database showing null results on HDCS transactions."
+}

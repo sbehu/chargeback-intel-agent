@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7161",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8820"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48880,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Thursday XX/XX/XXXX : Received a text message asking if a charge was valid. I replied \" NO ''. This is a credit card that I don't use actively and only have a balance transfer on it that I'm paying off. \n\nFriday XX/XX/XXXXXXXX  : I checked my credit card transactions and noticed that there have been fraudulent transactions dating back to XX/XX/XXXX. I filed the card as stolen via the website and checked off all fraudulent charges for dispute. I accidentally omitted one fraudulent charge so I called customer service to make an amendment. They said that I would need to call the Security Dept to make changes since the investigation has begun. However, they also said I would need to wait 24 hours before I called. Seeing as this was a Friday. I had to wait until Monday. \n\nMonday XX/XX/XXXXXXXX  : I called the Security Dept and they assured me that they would make the changes so that the charge I left out would be included. They asked me a series of questions, most notably : \" Do I have to card in possession? '' ( Yes ) \" Have I lent or authorized anyone else to use the card? ( No ). They told me to wait for updates on the investigation. \n\nWednesday XX/XX/XXXXXXXX  : I went to check on the fraud dispute because I haven't received any updates. ( I wasn't aware that I was supposed to check the fraud center on the website for updates. ) I saw that the fraudulent charge I accidentally omitted was still undisputed so I called the Security Dept again. The Citi rep told me the case was closed since XX/XX/XXXX because they deemed it was not fraud since the card was in my possession. I asked them to reopen the case and then to escalate it. I had already explained in my phone call to them on XXXX that I had the card in possession, but I have no idea how it could have been used since it was physically with me. I am sending evidence from my XXXX XXXX  timeline history that I could not have made the purchases since the timestamp shows me at another location."
+}

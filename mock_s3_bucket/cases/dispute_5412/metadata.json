@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5412",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "32806"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46184,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a pair of sneakers from XXXXXXXX XXXX XXXX XXXX XXXX XXXX and received the wrong size. I then sent the sneakers back and they were delivered per the tracking number. I did not see the refund on my credit card statement, so I opened a dispute with Citi Bank ( my CC provider ). \n\nAbout a week later I saw the refund pending on my account, so I cancelled the dispute. A day later the pending credit disappeared. Now Citi is telling me there is nothing they can do since the dispute was cancelled. It was only cancelled because I saw the credit pending back on my account. \n\nI have asked the merchant for proof of the return and have yet to receive a response. The communication before that they told me to resolve with my bank."
+}

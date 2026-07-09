@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8599",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30097"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11807,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays did not turn off my autopay after requesting it multiple times, then they attempted process a payment every month for 3 years and charging me returned check fee plus interest and late fees excessively. They refuse to file a claim on my behalf and t heir executive office never took action for years now.\n\nBarclays is in violation of the following laws : Electronic Fund Transfer Act ( Regulation E ). I told them to cancel autopay and they kept trying to pull from your bank anyway, thats an unauthorized preauthorized transfer. Reg E requires written authorization for recurring debits and says consumers can revoke and place a stop at least 3 business days before the next debit. Keep trying after revocation can violate 1005.10.\n\nTruth in Lending Act / Fair Credit Billing Act ( Regulation Z ). Stacking returned-payment fees, interest, and late fees that stem from their own autopay error can be a billing error. I have the right to dispute, and the issuer must investigate and correct finance charges/fees caused by their mistake. See 15 U.S.C. 1666 and Reg Z 1026.13.\n\nCARD Act penalty-fee limits ( Reg Z ). Card penalty fees ( late, returned payment, etc. ) must be reasonable and proportional to the violation."
+}

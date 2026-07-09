@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7285",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85295"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4028,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX, I did a purchase through XXXX, a third party loan for {$330.00} using my Barclay Credit card. The terms were 4 installments of {$83.00} starting on XX/XX/XXXX to be made every 2 weeks until XX/XX/XXXX. I tried to return merchandise for a refund but merchant wont accept it so a dispute was opened with Barclay card. Barclay opened a dispute under one case number and included all of them in one dispute even though these were 4 separate charges. Later on, I received a letter from Barclay stating Barclay will not get involved in the dispute because they were not able to handle an installment dispute. This apparently caused the 4 charges of {$83.00} to be handled as one payment of only {$83.00} since they do not have the ability to process installments charges disputes. Barclay proceeded to close the dispute in favor of the merchant. Barclay re-billed my account on XX/XX/XXXX for the 3 payments of {$83.00} each for XX/XX/year>, XX/XX/XXXX and XX/XX/XXXX. XXXX claimed they did not received the payments of these chargebacks/ re-bills and so I sent 3 extra payments which at this time, was an overcharge. I paid this to avoid my credit from being adversely affected. These overages and overcharge resulted in 1 payment of {$160.00} in XX/XX/year> and one for {$83.00} on XX/XX/year>. \nXXXX still claims they have not received these payments from Barclay Bank. I had made several calls including two separate occasions, which were three-way calls between XXXX and Barclay card bank and myself together in line, to try and resolve this issue. Both times the parties claimed they would investigate and agreed this was an accounting issue. XXXX asked for my credit bank statement proving this was re-billed. I sent proof and they still say they have not received it so I am still overdue for {$240.00} despite of what my statement for XX/XX/XXXX says. This can not be further from the truth as they would be owing me {$240.00} as 7 payments were sent instead of the agreed 4 payments. Barclay say the only proof they can provide is my statement on XX/XX/XXXX which shows the re-bill of XXXX payments totaling {$240.00}. \nPer XXXX this is still not enough. I had requested a letter from Barclay credit card bank stating they paid XXXX these 3 payments of {$83.00} as they resolved the dispute in their favor and they claim they are not able to do so. Keep In mind XXXX states the only payment they have is the one for XX/XX/XXXX. XXXX is asking for these letters and still saying they have not received payments and I am the one in the middle overcharged and been threatened with collections and harassment emails. I had called Barclay Bank at least 10 times and conversations have been recorded. I had called and send multiple emails to XXXX  and even connected both companies on three way calls that have been recorded and this issue remains unresolved."
+}

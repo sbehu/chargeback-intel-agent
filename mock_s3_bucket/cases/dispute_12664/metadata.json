@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12664",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95630"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26468,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks handling of a disputed charge involving a vehicle rental booked through Citi XXXX and fulfilled by XXXX XXXX XXXX. \n\nThe rental vehicle provided at pickup was electric, which was not clearly disclosed in a meaningful or prominent way during the booking process. The vehicle was not suitable for my intended travel needs, and I was effectively forced to obtain alternate transportation arrangements while still being charged for the rental. \n\nI disputed the charge with Citibank because the service provided materially differed from what was reasonably expected and was not practically usable for the intended trip. During the dispute process, I provided documentation and explanation regarding the circumstances. \n\nCitibank denied the dispute and stated : We are unable to assist you with your dispute because you used these services with the knowledge they were not what you originally agreed upon. \n\nMy concern is that Citibank failed to properly evaluate the practical circumstances surrounding the transaction and instead treated the matter as though simply learning of the issue at pickup constituted meaningful acceptance of the modified service. \n\nAt the time of pickup, I was already traveling and had limited alternatives. The fact that I became aware of the issue at the counter does not change the underlying concern that the vehicle provided was materially different from what was reasonably expected when the reservation was made and was not suitable for the intended travel. \n\nI am requesting that Citibank conduct a meaningful reconsideration of this dispute and provide a more complete review of the service usability issue and disclosure concerns involved in this transaction. \n\nI have supporting documentation available, including booking information, correspondence, and dispute communications."
+}

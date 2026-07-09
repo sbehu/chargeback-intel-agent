@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4781",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27253"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39927,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im really totally perplexed and exhausted from dealing with American Express on charges showing on my account that I have been credited for either buy the merchant or had to dispute it. their accounting is severely off. Please see the attachment back in XXXX of this year. I only owed about {$1000.00} on this card. And Ive been pretty much credited with everything since XXXX with the exception of a few minor things that equal up to maybe {$800.00} my balance is now {$5000.00}, it was showing about {$8000.00} a month ago. no one can explain it either and explain where the charges are coming from which is why I am hiring an attorney and filing a lawsuit. Someone at American Express has their accounting incorrect. The same applies for my other American Express blue cash card as well."
+}

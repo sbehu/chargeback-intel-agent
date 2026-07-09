@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5192",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CO",
+    "complaint_zip": "80132"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3258,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraudulent charges appeared on my account starting on XX/XX/year> through XX/XX/year> a total of 82 times. From companies listed as XXXX XXXX XXXX XXXX XXXX XXXX etc. After many attempts to get this resolved, Citi finally credited and apparently resolved some of these but not others even though some are from the exact same companies. Out of {$690.00} in fraudulent charges PLUS interest, they only credited back {$130.00}. There is still {$550.00} of fraudulent charges that need to be credited PLUS 4 years of interest. Also, Citi abruptly closed my account for no reason, refused to give me any reason, and has not responded to 2 letters sent in by mail requesting the reasons for the closure. This is completely unacceptable and illegal. I will be taking legal action in 14 days."
+}

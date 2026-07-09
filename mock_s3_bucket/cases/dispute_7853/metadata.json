@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7853",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32817"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17104,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, an unauthorized charge was made to a virtual credit card in the amount of XXXX to XXXX store. I notified Citicard around XX/XX/XXXX regarding this. I completed a letter sent to me XX/XX/XXXX with details and proof of where the item in question was delivered including stating that I had been hacked. As of today, Citi has mishandled my dispute. It still is not reflecting on their portal dispute center, and never sent me a letter with the status in spite of my being told in a chat last week XXXX XXXX my dispute was denied since according to them it wasn't proven charge was fraudulent. I was told the letter had been sent XX/XX/XXXX, and I notified I never received it. As of today, I still have not received it. Without that, I have no way to know exactly why they made their decision and I can not appeal without the information."
+}

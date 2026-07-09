@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4120",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77450"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27590,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX, I booked the round-trip tickets from XXXX to XXXX on XXXX XXXX XXXX XXXX with the booking reference XXXX, and there were 2 flight changes before departure for these two tickets. Hence, I called XXXX XXXXXXXX XXXX customer service and they told me it was free of charge to refund the tickets but I had to submit a refund form on their website as these tickets were issued by their office in XXXX. After I submitted the from for the reason Involuntary Flight Change, XXXX XXXX never reached me at all, but after a week, they took it upon themselves to modify the refund reason to voluntary cancellation in order to charge me with XXXXXXXX XXXX ( in XXXX currency ) cancellation in total. Hence I submitted two seperate disputes at american express 's site and XXXX XXXX  each. I also sumbit the proof to American Express, which clearly shows that XXXX XXXX was lying about the ticket refund reason. However, American Express just IGNORED all the proof I submitted after XXXX XXXX just showed them my ticket was canceled without any explanation. As a result of which, american express rebilled XXXX XXXX  ( XXXX XXXX  twice ) cancellation fee to my account."
+}

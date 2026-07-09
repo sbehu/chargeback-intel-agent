@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_333",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28031"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33208,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Credit Card : Citi ( AA Advantage Miles ) Mastercard XX/XX/XXXX : I noticed charges on my Citi Mastercard that weren't mine and I didn't make with the card. Citi Fraud Dispute Dept. was notified, charges were investigated and removed, credits were issued to my account. That card ending in ( XXXX ) was deactivated. I was sent a new card ending in ( XXXX ). \nXX/XX/XXXX : Repeat of the above. ( XXXX ) was deactivated, I was sent ( XXXX  ). \nXX/XX/XXXX : Repeat of the above. Card ( XXXX ) was deactivated, and I was sent ( XXXX ). This time I noticed the fraudulent charges were coming from an XXXX digital wallet. I do not have an XXXX phone, nor have an XXXX digital wallet and had NEVER had one. The Citi fraud rep said they would put in the request to cancel the AUTOMATIC transfer of the new card information to all digital wallets and reoccurring accounts. I was unaware Citi even engaged in that practice. It seems counterintuitive from a cybersecurity standpoint that if I was reporting fraud, they would forward new card information anywhere to anyone. \nXXXX XXXX, XXXX, XXXX XXXX, XXXX, and XX/XX/XXXX : Exact repeat of the above. All fraudulent charges are coming from a certain XXXX digital wallet ending in ( XXXX ). Each of the above calls, I am told by the Citi fraud rep that I can not cancel the card because of the ongoing fraud investigations. They WILL NOT send it to any digital wallets, etc., and that they will send a new card ending in ( XXXX  ) and ( XXXX  ). On XX/XX/XXXX, I insisted they close the account. I can fully see the issue in on their end by consistently forwarding my new card # to the same digital wallet! I was told, \" If you cancel your card or close your account, you will loose ALL of your AA airline miles linked to the card!!!! \nThis is an unacceptable business practice on Citi 's part. I did want to loose my miles, so I allowed them to send one more card ( XXXX  ). Citi assured my ALL digital wallet activity would be deactivated, and only a physical card would be accepted for purchases. \nXXXX XXXX, XXXX : On XX/XX/XXXX, XXXX, I received card ( XXXX ) but DID NOT activate the card for fear the above scenario would repeat itself. When I checked online I saw 7 more charges that obviously I did not make, since I did not activate the new card. Of course, the same digital wallet was used to make the purchases from XX/XX/XXXX on! I called again, asking for a fraud supervisor. I was given the same spiel as above. However, this time Citi 's culpability was exposed for I had not even activated the most current card! I spoke with XXXX # XXXX a fraud dept. supervisor. The next card they will send will be the seventh card I've been sent trying to remedy this problem. PLEASE help me. I want to close the account while keeping my miles."
+}

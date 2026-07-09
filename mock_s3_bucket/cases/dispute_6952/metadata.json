@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6952",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "54701"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26362,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I discovered two fraudulent charges on my Citi credit card statement from XXXX for {$94.00} on XX/XX/year> and {$170.00} on XX/XX/year>. I also received an empty padded envelope with tracking info on it in the mail around the same time, which I threw away since I didnt realize at the time it was a scam. When I discovered the fraudulent charges a couple weeks later, I reported the card as stolen, called XXXX for details on the transactions, and initiated a dispute. I received a follow up letter a while later asking me to complete a form stating the charges were not mine ( which I did ). I also included a copy of the identity theft report from the case I filed with the FTC regarding this incident, and sent all of it to Citi by the deadline of XX/XX/year>. A couple weeks later I received a response from Citi that my claim was denied and I am being charged for both fraudulent transactions. I tried calling Citi again on XX/XX/year>, spoke with two different reps who were unable to help me, was given a different number to call where I was unable to actually get through their automated system, and none of this was ever resolved."
+}

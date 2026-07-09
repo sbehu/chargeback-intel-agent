@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3418",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "151XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20106,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The response received on XX/XX/XXXX indicated that Macy 's would be billing me XXXX for the amount they sent a check to me in error due to a mistake they made. The statement balance is still showing as XXXX which includes fees they charged me due to the mistakes they made. I am sending a check for XXXX to Macy 's. They have no right in charging me late fees due to errors they made during the investigation which included telling me to hold onto merchandise that came to my house and make incorrect credits to my account sending me a check in error, hitting my credit report in error multiple times. Billing doesn't even explain any charges. It is Deceptive. From the day the fraud started on and I reported it to Macy 's they failed terribly. This is not right at all how this has been handled and the time and pain it has caused me. MOST OF ALL I NEED MY CREDIT REPORT corrected you are preventing me from even trying to apply for a car loan as I do not want to get hosed the rate. Your errors and mistakes are impacting my credit! \n\nReference : XXXX and XXXX PS. I have had an account with Macy 's since XXXX, a loyal customer and shopper. You have ruined that. Honestly I can't image what you have done to other customers who are not aware of the resources such as the CFPB."
+}

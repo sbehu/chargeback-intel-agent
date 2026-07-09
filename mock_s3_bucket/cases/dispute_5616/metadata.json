@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5616",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "SC",
+    "complaint_zip": "29349"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17753,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I tried to place an order on XXXX XXXX website using my Citi Brandsource card. I had trouble trying to place the order, so I followed up with XXXX XXXX afterwards to see if they received the order. They confirmed they did not. A few days later the charge for the item showed on my Citi Brandsource card for {$3300.00}. I contacted Citi Retail services to dispute the charge based on the fact that I never received the charge as well as XXXX XXXX never receving payment for the order. I received notice from Citi Retail services after a few weeks that I was still responsible for the charge, even though they received documentation from XXXX that I had not received the order, nor had they been paid for the order. I contacted Citi Retail services to wage my complaint that I will not pay for an item I did not receive. This is not acceptable to make a consumer pay for something they did not receive. I have a letter from the VP of XXXX XXXX stating they never received payment for my order. I never received the Applicance."
+}

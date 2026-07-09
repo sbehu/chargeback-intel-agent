@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4110",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "40220"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19544,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX my American Express card was charged in the amount of {$2800.00}. I contacted American Express and informed them this was not my purchase. They issued a credit to my account. I also contacted the company XXXX. about the charge. They sent me an E-Mail on XX/XX/XXXX, stating that my account with them has been closed since XX/XX/XXXX. And my American Express has never been attached to that account. Nor do they see any activity to my Closed account. I received an E-Mail from American Express on XX/XX/XXXX they Debit my card back in the amount of {$2800.00} because they said I gave XXXX my American Express Card information. XXXX already said this was NOT true. The reason for this DEBIT is MUTE!"
+}

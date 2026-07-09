@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7859",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2169"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-30T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17323,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX  XXXX ) on my Best Buy Credit Card on XXXX. The TV failed within 5 weeks of taking delivery ( main power board failure ). When I attempted to return it, trying to initiate a pick-up for the large item ( which must be done manually by Best Buy after a phone call or chat ), Best Buy refused, citing a 15-day policy. \n\nHowever, my Best Buy account clearly showed the item was returnable until XX/XX/year>. I have attached screenshots of this return window. I also have chat transcripts where Best Buy agents acknowledged the mismatch between what I was shown ( XX/XX/XXXX ) and what they claimed ( 15 days ), but they still denied the return. \n\nCiti/Best Buy Credit Services denied my dispute without addressing this evidence, simply repeating the 15-day policy. That denial ignores : The merchants own system showed a later return deadline ( XX/XX/scrub>XXXX XXXX XXXX XXXX"
+}

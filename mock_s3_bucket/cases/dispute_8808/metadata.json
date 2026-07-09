@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8808",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85140"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1008,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed XXXX charges to XXXX XXXX  on my XXXX XXXX XXXX {$3000.00}, {$3000.00}, and XXXX XXXXXXXX the same project. I emailed XXXX a complete set of documentation covering all three disputes. XXXX approved and refunded the {$3500.00} charge using that documentation. \n\nHowever, XXXX later denied XXXX of the {$3000.00} charges, stating that too much time had passed. This is XXXX already had my evidence months earlier, and it was the same documentation used to approve the related dispute. I only realized the {$3000.00} claim hadnt been processed when the {$3500.00} refund posted. \n\nI re-submitted my documentation and emailed XXXX on XX/XX/year> to request escalation and clarification. XXXX did not address that they already had my original submission and simply said the claim was outside the time window. \n\nI am asking for XXXX to review or reopen this {$3000.00} dispute. The evidence was submitted on time and has already been accepted by XXXX and other card issuers ( XXXX and XXXX ) for the same merchant and issue."
+}

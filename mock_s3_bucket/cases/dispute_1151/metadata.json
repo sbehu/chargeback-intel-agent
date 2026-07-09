@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1151",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94030"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5412,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a billing statement showing a charge of {$23.00} on XX/XX/XXXX. I then called the credit card company, explained that I would like more information on who submitted this charge. They said they would investigate it and contact me. We talked on the phone a few times, I can't make it any simpler, WHAT COMPANY SUBMITTED THOS CHARGE? \nThey would not answer me, then sent me a letter dated XX/XX/XXXX saying they are investigating. Additional phone calls show they don't know what they are doing. \nI sent a letter to them on XX/XX/XXXX. They would call me, leave messages to call their main number with any questions. I can't keep playing this game. \nOn XX/XX/XXXX they sent me another letter with a bunch of runaround and inaccurate information, saying I have not stated what I would like to do, and suggested that I contact the merchant. I DON'T KNOW WHO THE MERCHANT IS!!!"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5036",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28786"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30673,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a victim of identity theft. My American Express account ending in XXXX has been compromised, and the transactions listed on the current statement are all unauthorized and the result of fraudulent activity. I did not initiate or approve any of these transactions. I am requesting immediate action to address this issue, including the removal of these fraudulent charges, an investigation into the matter, and steps to secure my account."
+}

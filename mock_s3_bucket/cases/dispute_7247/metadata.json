@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7247",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28509,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Thank you for your previous review. I am submitting additional information and respectfully request reconsideration of my claim. My primary concerns are as follows : I never received or signed for the devices in question. No signature or audit trail exists to confirm that I took possession of these high-value items. \n\nBest Buy and the carrier have not produced any proof of signature or delivery receipt signed by me. For transactions exceeding {$1000.00}, industry best practice requires a recipients signature at delivery. \n\nWithout a valid recipient signature, delivery can not be confirmed under standard consumer protection regulations, including the Fair Credit Billing Act. The responsibility to prove delivery rests with the merchant and their carriernot the customer. \n\nThis situation puts me at unfair financial risk through no fault of my own. I have contacted both Best Buy and Citibank multiple times, but they rely solely on tracking marked delivered, without verifying recipient identity or obtaining signature confirmation. \n\nUnder the law, I should not be held responsible for goods I did not receive, authorize, or accept. \n\nRequested resolution : I request that the full disputed amount be refunded or credited to my account, as I did not receive the merchandise and no signed proof of delivery exists. \n\nThank you for your consideration and continued assistance."
+}

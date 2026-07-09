@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5936",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "300XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24510,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally dispute an unauthorized charge on my credit card account I did not authorize this transaction, nor did I receive any goods or services related to it. \n\nThis charge was made by a former employee without my permission. As soon as I became aware of the unauthorized use, I took immediate steps to secure my account. I request that this charge be removed from my account and that a fraud investigation be conducted. \n\nI kindly ask that you respond to this dispute in writing and confirm the resolution as soon as possible. \n\nThank you for your prompt attention to this matter. I appreciate your assistance in resolving this unauthorized charge."
+}

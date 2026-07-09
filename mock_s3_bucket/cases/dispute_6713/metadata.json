@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6713",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80128"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13053,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received an email in XXXX from my XXXX XXXX XXXX saying that I was late on my Home Depot card account. I immediately called Home Depot and tried to set up a fraudulent charge but they couldnt verify my identity because someone changed everything in their system. Then they sent the verification letter to my home address and I finally was able to do the fraud claim. I had multiple problems with this due to all the misinformation I received from the employees at Citicard and Home Depot. I just was notified that they found my charges weee not fraud and now I am contacting you because this is not right. I received a copy of the receipt showing it was done online for a store in XXXX XXXX Illinois and sent to an address in Illinois. I have lived in Colorado since I opened this Home Depot account and have never lived at the address listed in the receipt or had the email address, address or phone number on this receipt. Please help since they are reporting I am late on my payments to my credit reporting companies."
+}

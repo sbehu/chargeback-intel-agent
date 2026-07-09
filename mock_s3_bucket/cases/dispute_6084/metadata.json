@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6084",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95926"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5460,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "1. My credit card was used without my consent ( cyberattack ).\n\n2. CITICARD said they would send me dispute paperwork. They never did.\n\n3. It took 7 MONTHS for them to accept the fact my card was used fraudulently ; I inquired with company where said purchase was made online. Said company sent me documentation that they were convinced it was FRAUD, so they reimbursed my CITICARD 10 days after purchase. CITICARD CONTINUED to send me statements to COLLECT MONEY that truly was not owed.\n\n4. I recently received a letter from CITI stating they were erroneous with the fraudulent charge. However, CITI is charging me INTEREST on a fraudulent charge -- -it states on my credit report.\n\n5. Today, XX/XX/year>, I called CITI and spoke to XXXX - badge # XXXX she could not help me, was transferred to XXXX - badge # XXXX, she could not help me; transferred me to someone else who would not spell her name nor give a badge number. \n6. Today, XX/XX/year>, I called CITI SECURITY OPERATIONS ( FRAUD DEPARTMENT ) and spoke to XXXX - refused to give me any ID # ; she told me my account was \" archived '' and there is no record of me on file, even though I gave her my name, my new card number, and my address. REFUSED TO HELP ME."
+}

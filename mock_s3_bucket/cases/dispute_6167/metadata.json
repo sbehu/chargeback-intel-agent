@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6167",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35079,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary of Incident : We reserved XXXX passenger vans online for a group of XXXX people through XXXX XXXX XXXX XXXX XXXX for XXXX dates November XXXX XXXX. The pickup was scheduled at XXXX XXXX XXXX on XX/XX/XXXX at XXXX XXXX \n\nXXXX days before our trip, XXXX XXXX XXXX canceled our reservation and referred us to XXXX XXXX XXXX XXXX XXXX, who agreed to rent us XXXX vans for the same dates at a total cost of USD {$500.00} ( all-inclusive ). We paid this amount in cash at the time of delivery at XXXX XXXX XXXX. \n\nAt the time of delivery, XXXX XXXX XXXX XXXX XXXX requested a guarantee deposit of XXXX XXXX XXXX ( USD {$4700.00} ) per vehicle, supposedly as a hold to ensure the vans would be returned in good condition. We ( myself and XXXX XXXX ) provided our XXXX Citi Cards for this purpose. However, instead of placing a hold, they charged the full amount on our credit cards. \n\nWe returned both vans on time, in perfect condition, with full fuel tanks, at XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX agents confirmed the return and condition of the vehicles. At the time of return, they asked for XXXX XXXX XXXX as a deposit for any possible infractions or tickets. We negotiated this down to XXXX XXXX XXXX, which XXXX paid using his XXXX XXXX credit card. They promised the guarantee charges would be reversed within XXXX business day. \n\nDespite multiple follow-ups, the guarantee charges were never refunded. \n\nWorse, in response to our billing dispute, they now claim to be a carpentry company called XXXX XXXX XXXX and submitted what appears to be a fake contract for carpentry services at XXXX XXXX XXXX, XXXX XXXX XXXX, with forged signatures. \n\nIt appears that XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX may have worked together in this fraudulent scheme."
+}

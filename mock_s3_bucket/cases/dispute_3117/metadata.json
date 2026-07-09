@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3117",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11215"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5914,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXXXXXX XX/XX/year>XXXX XXXX XXXX XXXX XXXX XXXXXXXX XX/XX/year> SP XXXX XXXX XXXX - XXXX my card was charged for these transactions and CITI denied my dispute claiming the card had been physically swiped which was in my possession the entire time. I went to my precinct to file a police report and they advised me i need a denial letter from CITI, which I have repeatedly called and requested for and have not received. \n\nThere were charges that CITI did recognize as fraud from the same time period and they awarded me those disputes, but these XXXX charges above were not XX/XX/year> XXXX XXXX XXXX XXXXXXXX - {$350.00} XX/XX/year> XXXX XXXX XXXX - {$24.00} XX/XX/year> XXXX XXXX - {$75.00}"
+}

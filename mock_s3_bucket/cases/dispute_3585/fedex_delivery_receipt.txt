@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-36567935-US
+Shipment Date:   2026-03-13T00:00:00Z
+Delivery Date:   2026-04-13T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     8589 HERITAGE ST, TN, 37122
+============================================================

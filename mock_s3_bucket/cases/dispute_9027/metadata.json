@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9027",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97229"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14717,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Against : Citibank Issue Type : Credit card dispute handling / billing dispute Product : Credit card What happened? \n\nIn XX/XX/year>, I disputed a XXXX XXXX charge for an order ( Order # XXXX ) involving two XXXX XXXX XXXX devices. When the package arrived via XXXX, one of the XXXX  was missing, although the corresponding strap was still inside the box. The other XXXX  was unopened and intact. The box showed no signs of tampering, and I provided a photo of the box to XXXX XXXX. \n\nOver the following days, my wife and I followed every instruction given by XXXX XXXX including returning : The unopened XXXX  XXXX XXXX The opened XXXX  box containing the strap but not the device The original shipping box XXXX XXXX Customer Service repeatedly assured us : A replacement order would be issued, OR A full refund would be processed upon receipt of the returned package We received these assurances multiple times by phone and in-store. However, after XXXX XXXX received the returned package on XX/XX/XXXX, they issued only a partial refund minus a restocking fee. When we called to fix this error, we were told the email was system generated and that a full refund was being processed. No refund followed. \n\nSubsequent calls resulted in agents telling us that because we signed for the delivery, XXXX XXXX would not assist, and they disconnected when we attempted to escalate to a manager. I explained that signing for delivery is not confirmation of package contentsthis is supported by XXXX  policies, the FTCs Mail Order Rule, and Visa/Mastercard merchant rules. Consumers are not required to open packages in front of couriers. \n\nWhen I disputed the charge with Citi, they denied the dispute based solely on the existence of a delivery signature, without acknowledging : The missing merchandise The documented return of the entire package XXXX XXXX  receipt of the returned items XXXX XXXX  contradictory statements and failed assurances The photo of the box showing no tampering That we complied fully with all merchant instructions Citi did not conduct a reasonable investigation as required under the FCBA and Regulation Z, instead relying solely on the merchants version of events despite compelling evidence and merchant contradictions."
+}

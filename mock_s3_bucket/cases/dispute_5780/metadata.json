@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5780",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NJ",
+    "complaint_zip": "087XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5064,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "this is on my Advantage aviator card thru Barclays Bank On XX/XX/XXXX I was billed {$99.00} for their annual card fee. \non XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX I sent them a check for {$99.00} per date total payment of {$290.00} on XX/XX/XXXX they processed a refund of {$190.00} on XXXX they sent me a bill stating that the charges were misposted and that I owed them {$290.00} with interest and penalties dating back to XX/XX/XXXX I have called and written for an explanation for the last XXXX months and keep getting the same answer. \n\" This letter is in response to your recent paynment inquiry. We are unable to complete your request at this time please contact us for additional details. '' When I call, I wind up getting the same letter XXXX weeks later. \nThey have reported me as deliquenty since XXXXto the credit agencies which has seriously effected my credit rating. \nAttached you will find copies of my credit card statements starting in XXXX of XXXX till XXXX of XXXX. Also included are my bank statements and the last letter from Barclays How can this bank just add charges and fees without justification. \nHow can they report me as nonpayment for months. \nI pay all my bills in full on time."
+}

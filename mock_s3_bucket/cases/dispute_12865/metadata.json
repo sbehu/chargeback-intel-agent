@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12865",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85383"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16957,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CITI BANK DISPUTE TIMELINE CASE XXXX Account Ending : XXXX | Amount : {$4700.00} XX/XX/XXXX FAILED REPAIR XX/XX/XXXX : Vehicle repair performed by XXXX XXXX XXXX XX/XX/XXXX : Vehicle returned ; charged {$4700.00} XX/XX/XXXX : Merchant notified repair failed ( P20EE code persists ) XX/XX/XXXX : Vehicle returned to merchant for unresolved issue XX/XX/XXXX TIMELY DISPUTE FILED XX/XX/XXXX : Charge posts to Citi statement XX/XX/XXXX : Dispute opened with Citi ( within required timeframe ) XX/XX/XXXX : Conditional credit issued XX/XX/XXXX : Filed complaint with Attorney General against merchant ( in attachment ) XX/XX/XXXX : Citi requests additional documentation XXXX - XX/XX/XXXX DOCUMENTATION PROVIDED Documentation submitted via Citi portal and email XX/XX/XXXX : Citi reverses conditional credit without explanation or merchant evidence XX/XX/XXXX : Citi requests same documentation ( duplicate request ) XX/XX/XXXX REPEATED SUBMISSIONS XX/XX/XXXX : Citi closes dispute citing insufficient documentation XX/XX/XXXX : Documentation re-submitted via email ( per Citi instructions ) XX/XX/XXXX : Full documentation re-submitted again after several phone calls requesting status or reason for duplicative documentation requests XX/XX/XXXX : Citi requests additional information already provided XX/XX/XXXX CONTRADICTORY HANDLING & DENIAL XXXX XXXX : Documentation re-submitted again ; templates completed XXXX XXXX : Citi denies dispute as untimely XXXX XXXX : Formal escalation submitted by me XXXX XXXX : Citi claims attachments can not be opened Current Status : Dispute marked closed in app despite ongoing requests for documentation KEY ISSUE SUMMARY Dispute was opened and acknowledged within required timeframe ( XX/XX/XXXX ) Documentation was submitted multiple times in full Citi issued repeated duplicate requests without confirming review Citi failed to provide merchant evidence or investigation findings Dispute was ultimately denied due to timing caused by Citis own delays CONCLUSION This record demonstrates continuous, timely compliance by the cardholder and a failure by Citi to properly process and evaluate submitted documentation before the dispute deadline expired."
+}

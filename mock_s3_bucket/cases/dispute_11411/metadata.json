@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11411",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33020"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5309,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is about a {$81.00} charge from XXXX XXXX on XX/XX/year>. \nThe XXXX stopped working and I was only provided with a support email address XXXX.... there is no telephone number to contact the merchant. \nI sent an email to that support address requesting a refund or replacement and return instructions and the merchant did not reply back. \nCiti Cards is being unreasonable.I tried to submit a dispute online and it was not accepted ... Citi Cards is asking me to return the merchandise which is impossible because the merchant did not specify an address for returning products and they do not reply to emails asking for the address / return instructions and it's not possible to call to request the address. \nBesides trying to dispute the charge online on the citi.com I also mailed a dispute letter to their billing inquiries address shown on my credit card statement in XXXX XXXX MI and so far they have not replied back as they are required by the law."
+}

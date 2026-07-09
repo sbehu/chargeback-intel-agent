@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2867",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "59901"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48601,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This report is for my Citibank-Citi XXXX Credit card XXXX On XX/XX/year> I had XXXX fraudulent charges on my account for a total of {$740.00} to a company I have never heard of across the country called \" XXXX XXXX ''. \nWhen I noticed the charges I immediately called the fraud department to report it. They sent me a letter on XXXX saying that they are looking into the fraud. When I got my statement the next month on XXXX the charges were taken off of my card and I though the issue was resolved. \nThe very next day after that months statement on XXXX they added two out of the three fraud charges back onto my card charging me {$490.00}. I called them again to dispute the charges and spent a lot of time on the phone until they said they would look into it. \nThen on XXXX they added a letter to my account stating that they confirmed that one of the charges is staying on my account but the other two charges made at the same time were fraud. Also at that time there were still the two charges on my account. Then finally on XXXX they took only one charge of {$190.00} of of my account still charging me {$290.00} for now only one out of the three original charges. \nMy next statement on XXXX still had a the charge of {$290.00} not taken off. After that I called them again to dispute the charges. They once again gave me the run around and finally said they were going to look into it. I repeatedly asked the fraud department to send me an email or something that states they are looking into it but my request was constantly denied and they said I will get a letter if anything changes. \nWhen my XXXX statement came the fraud charge was still on my card and it has been about 5 months since I first reported the fraud to them and nothing is happening. So now I am filing this report to hopefully get help and remove this fraudulent charge. \nOn the letter that they sent me on XXXX they stated that the {$290.00} is not going to be refunded and had an attachment that they say they got from the company proving I made the charge. That proof was a receipt with my name and email, but the email is one I have never seen and is not the email account used with this credit card. Also it was just a piece of paper and did not have my signature or or any other info. So it seems really shady that I had 3 charges all at the same time and they determined only two out of the three were fraudulent. Currently I still have a fraudulent charge on my credit card from XXXX of {$290.00} and on top of that I am also being charged extra interest every month because that charge is still there. \nThere website also clearly states that their customers will not be held liable for unauthorized charges and are protected. That is clearly not true."
+}

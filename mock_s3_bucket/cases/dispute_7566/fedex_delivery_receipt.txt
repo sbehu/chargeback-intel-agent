@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-57169667-US
+Shipment Date:   2026-03-01T00:00:00Z
+Delivery Date:   2026-03-23T00:00:00Z
+Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
+Destination:     3459 OAK BLVD, CA, 95757
+============================================================

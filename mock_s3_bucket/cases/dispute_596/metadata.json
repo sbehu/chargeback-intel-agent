@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_596",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7024"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28886,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I added my daughter as the authorized user on my Citi Master card because she needed it for her XXXX XXXX student exchange program. The following is the transaction details as well as the dispute case opened by Citi bank. \n\n1. Transaction Details- Transaction Date : XX/XX/XXXXXXXX  - Transaction amount : {$460.00} - Merchant : XXXX XXXX XXXX in XXXX XXXX 2 . Dispute Details- Dispute Date : XX/XX/XXXX - Dispute Amount : {$460.00} - Dispute ID : XXXX - Citi issued a conditional credit of {$460.00} to my account on XX/XX/XXXX 3. XX/XX/XXXX - Citi closed the investigation based on the Merchants response and reversed the credit on my MC account. I was told to provide more information as well as evidences if I were to continue the dispute. \n4. XX/XX/XXXX - I sent Citi dispute department a detailed email with transaction details, supporting documentations as well as photo evidences of the service. Citi confirmed on XX/XX/XXXX that my email was received and under review. On XX/XX/XXXX, Citi notified me that the additional information was sent to the merchant. \nOn XXXX, Citi informed me via email that they were reviewing the information the merchant provided and would get back to me within 10 business days. \n5. XX/XX/XXXX, I called Citi dispute department since I hadnt heard back from anyone. I was told that a letter was sent to me on XX/XX/XXXX which I never received. I was told that although I provided all the evidences but the merchant refused to issue a credit and theres nothing the bank could do. When I spoke to a supervisor, she told me Citi could only credit me {$250.00}. I told her since I was not the party at fault and I had all of the details and evidences to back me up, I should have the full amount credited to my account. She denied my request. When I asked to speak to the manager, she said I wasnt allowed to speak to anyone above her. \n6. XXXX I received an email from Citi that the full amount of {$460.00} is charged back into my account along with any related fees and interest charges because the investigation is over. The email also states that while Citi realizes my account may be in good standing, Federal Regulations require it to remind me that it may report my account as past due to the consumer reporting agencies listed below if it does not receive the minimum payment by the due date shown on my billing statement. \n\n* I applied for the Citi Bank MC because it is a big bank and I feel that I would be better protected. The bank has a dispute department and its job is to investigate the claim then decide on one of the outcomes : either my claim is untrue or the merchant failed to provide the service as promised. In my case, the merchant failed to provide the service. Instead of crediting the money back to my account, Citi bank sent me an email demanding me to pay the money back or else they will report me to consumer reporting agencies. I am very confused and frustrated about the situation. And to make it worse, I couldnt even speak to anyone in the department who has the power to resolve this issue."
+}

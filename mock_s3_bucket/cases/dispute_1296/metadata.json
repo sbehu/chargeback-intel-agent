@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1296",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "54703"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20364,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX I received a bill from my credit card company Shop Your Way ( XXXX ). On it was a charge for {$480.00} from a company called XXXX XXXX XXXX I IMMEDIATELY called Shop Your Way and stated I never made a transaction from them. Two wks later I called back. Was told charge was dropped and was issued a new card. I also asked verification which wasn't received. I used my new card which they sent plus paid off the majority of my due amount. With the next statement on my \" new card '' the charge I didn't make was still on my account. I called the fraud unit back and asked for the phone number of that company XXXX XXXX. I tried several times and couldn't get ahold of them nor have received any correspondence from them or SHOP YOUR WAY. I told them to block my new credit card until I got some answers from them. Week past I called back and was told they closed my account. Now today I received a pin letter from them saying I was liable for the charge and if I didn't make payment they would contact the credit bureau. \nI HAVE NEVER EVER NOT MAKE A PAYMENT INFACT I HAVE PAID AHEAD. I called them back today and the fraud unit said they will reopen case when I asked her what did they find out. No given answer. I asked for her operator no which she couldn't give but was given this case number CASE # XXXX I am still wonder how that company got my new credit card or was it just SHOP YOUR WAY. To totally close my account after being a good customer is beyond me."
+}

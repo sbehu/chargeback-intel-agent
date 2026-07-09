@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3890",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "441XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22743,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year>, I ordered a jacket didn't receive the jacket, it took to long they say it was here in XXXX, 2023 I didn't need it by then, other issues occurred, anyway don't have it still paying for the jacket to keep my credit in good standards. Need help with this issue!!! Asap thanks."
+}

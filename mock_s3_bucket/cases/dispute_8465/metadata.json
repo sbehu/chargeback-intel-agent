@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8465",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91354"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36501,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I requested a balance transfer from XXXX to Citibank. I told the individual my XXXX credit card number, and she took the number. I called XXXX a few times to see if the transfer was completed and they said no. I called Citibank on XX/XX/year> and was told it was completed. No it wasn't as the transfer was never completed.They told me yes it was. I gave CItibank my credit card number and they told me it was incorrect. I told thenm only card. Then I was told an investigation would be open. I was never given a investigative number, I was told to contact USAA and ask for the bank to correct it. I was given the individuals credit card number that the last 4 was similar to mine. They have done nothing, but investigate themselves and clear themselves of any wrong doing instead of correcting the action."
+}

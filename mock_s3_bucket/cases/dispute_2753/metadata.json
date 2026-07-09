@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2753",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92673"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28801,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom it May Concern : Attached is a recap of the events leading up to the return of the XXXX XXXX XXXX device purchased on XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. \nThe XXXX XXXX device was sold to myself as a XXXX XXXX device that would help treat my XXXX XXXX XXXX on my body, specifically my XXXX XXXX. It was also sold under the pretense that I could get reimbursed the monies for the device ; if not full reimbursement, partial reimbursement from my medical insurance ( since this was a XXXX XXXX device ). When I received the device at my home, I was surprised once opened, that it appeared to be a used device. There were fingerprints all over the device, box had been opened and re-taped. Clearly, this was not a new XXXX XXXX device. Also, I had asked at the time of purchase, that I did not want to purchase something that was made in XXXX? They assured me that wasnt the case. MADE IN XXXX was the first thing I saw while opening. I proceeded to take it to XXXX of my doctors offices and asked if it was a XXXX XXXX device that would help treat my XXXX XXXX, both doctors let me know that it would do nothing in the treatment of XXXX XXXX. I then contacted my medical insurance and was notified that absolutely nothing would be reimbursed for the device since it was not a XXXX XXXX device. Therefore, my next step was to return the device along with the products they had given me at the time of purchase. The sale was based on fraudulent claims that were untrue. I returned the XXXX XXXX  device and all of the products that were given to me on XX/XX/year> via XXXX XXXX. It was received, accepted and signed for on XX/XX/year> by XXXX. \nAmerican Express was notified to retract the {$13000.00} charge ( which they did ) ; however, the company charged my card again. American Express has retracted the charge for a second time and asked that I give an accounting of what took place with any paperwork I might have. This is the true accounting of what took place. Attached are photos of the device ( when delivered ), a copy of the details of when the delivery of the returned items were received, accepted and signed for and the original receipt. \nThank you so much for your attention to this matter. If there are any questions, please do not hesitate to contact the undersigned. \n\nXXXX XXXX XXXX XXXX XXXX"
+}

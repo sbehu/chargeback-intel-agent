@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8263",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "038XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45452,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I placed a {$21000.00} deposit with my American Express card for a {$120000.00} timeshare package after being told I had 12 months to pay and could cancel at any time for a refund. In XX/XX/year>, when I attempted to use the membership, the vacation club refused service unless I paid the entire balance immediately, which violated the agreement. When I attempted to cancel, they refused to return my deposit and instead demanded 50 % of the full package cost. \n\nI filed a dispute with AMEX on XX/XX/year>, for services not rendered, but AMEX closed it within days using a template response, citing the XXXX window, without contacting the merchant or requesting documentation. I promptly appealed, provided details, and offered documents, yet AMEX denied the dispute again within XXXX business day with the same response. AMEX has failed to conduct a reasonable investigation under the Fair Credit Billing Act, and I am seeking reversal of the {$21000.00} charge."
+}

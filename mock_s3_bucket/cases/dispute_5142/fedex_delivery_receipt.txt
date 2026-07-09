@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-66154993-US
+Shipment Date:   2026-03-14T00:00:00Z
+Delivery Date:   2026-03-17T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     6902 PINE WAY, SC, 29609
+============================================================

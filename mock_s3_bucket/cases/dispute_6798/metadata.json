@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6798",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "1604"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48135,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a formal complaint under the Fair Credit Billing Act ( FCBA ) against American Express National Bank ( Amex ). On XX/XX/2025, XXXX unauthorized transactions {$3500.00} and $ XXXX to my Amex account from XXXX XXXX XXXX I did not make these purchases, have never given my card information to anyone, and do not hold any type of vendor or commercial account with XXXX XXXX. Despite my explicit statement that the charges are fraudulent, Amex denied my dispute and claimed I must have provided my card details to the merchant, yet offered no evidence to support that conclusion. Amexs decision leaves me responsible for the full {$7100.00}. I respectfully request that the Bureau require Amex to credit both transactions in full, remove any related fees or interest, and comply with its obligations under the FCBA. Please advise if further information is required."
+}

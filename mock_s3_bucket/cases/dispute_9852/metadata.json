@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9852",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94520"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49536,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I initially purchased airline tickets online for approximately {$500.00}. Shortly after the purchase, I received a call from the third-party booking company stating the tickets were invalid unless I rebooked at a higher price. I was told baggage was not available to purchase once at the airport. \n\nDuring the call, I was pressured to pay an additional {$1000.00} to rebook. Due to a language barrier and misleading information, I believed this charge was replacing the original amount, not in addition to it. I later realized I was being charged both amounts. \n\nI told the agent I did not agree, would not proceed, and would not take the flight. The agent was rude, dismissive, and ended the call abruptly. I did not travel using these tickets. \n\nI disputed both charges with Citi. Citi reversed the initial XXXX {$500.00} charge but denied the dispute for the {$1000.00}, stating the charge was non-refundable. The tickets were purchased through a third-party website that, upon further investigation, is known for bait-and-switch practices. I never received valid airline confirmation or a proper cancellation option despite requesting it."
+}

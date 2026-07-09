@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11102",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33634"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28152,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding Citibanks handling of a billing dispute for a {$600.00} credit card charge dated XXXX XXXX, 2025. \n\nI disputed the charge on the basis that the services provided did not match what was represented and resulted in harm. As part of my dispute, I submitted color photographic evidence documenting the condition at issue. \n\nOn or about XXXX XXXX, 2026, I received a denial letter stating that the documentation provided did not support my billing error claim. After receiving this denial, I contacted Citibank to confirm whether my submitted photos had been reviewed. During that call, I was informed that although I had submitted the images in color, they were appearing in black-and-white within Citibanks system. I was not notified of this technical issue prior to the initial denial. \n\nI was advised to resubmit the photographs in PDF format, which I did promptly. The dispute was re-reviewed, and on XXXX XXXX, 2026, I received a second denial letter stating that I received the services for which I contracted and that Citibank had exhausted all dispute resolution options. \n\nMy concern is not only the outcome, but whether a reasonable and thorough investigation was conducted. The initial review appears to have been made without properly viewing the full photographic evidence due to a technical formatting issue. Additionally, the denial letters do not explain what documentation the merchant provided, what specific standard was applied, or how my submitted evidence was evaluated in reaching the conclusion. \n\nI am requesting clarification regarding the investigative steps taken, what documentation was relied upon, and how the determination was made that the services were provided as agreed despite the evidence submitted."
+}

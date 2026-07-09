@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-101946",
+  "invoice_date": "2026-03-13T00:00:00Z",
+  "amount_cents": 26100,
+  "currency": "USD",
+  "billing_address": "5495 Hillside Ln, SC, 290XX"
+}

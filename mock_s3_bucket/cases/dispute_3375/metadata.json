@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3375",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85226"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38473,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased this XXXX XXXX  XXXX XXXX XXXXXX/XX/year> from Home Depot , XXXX XXXX XXXX XXXX XXXX XXXX using both a {$350.00} gift card and the balance {$500.00} on my Home Depot credit card through Citibank services XXXX After months of calls to the XXXX consumer advocate, and several XXXX techs servicing the appliance, it was returned due to a chip in the cooktop presenting an electrical or fire hazard. XXXX XXXX in XXXX AZ picked the defective range up on XX/XX/year>. I was given the option of having a refund check mailed to me which I elected for. On XX/XX/year> i went to the store to confirm my refund and was given a customer refund receipt and told the check would be mailed in 7 to 10 days. It is NOW 31 days and still no check, and the charge is still on my credit card. In fact, I have paid on the appliance even though I do NOT have it. I have reported this to the credit card company Citibank, have disputed it, and am told it is Home Depot who is responsibile. Home Depot has a catch XXXX XXXX- the consumer is constantly referred back to a \" care team '' unable to do anything- I called the corporate store in Georgia, only to be sent to the care Team- again no one is able to get a decision maker. Where is my money!"
+}

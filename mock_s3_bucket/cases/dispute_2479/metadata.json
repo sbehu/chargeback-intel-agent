@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2479",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "294XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14911,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is an ongoing issue with Citi. They have allowed XXXX charges from XXXX in XXXX, GA to go through despite that XXXX was not authorized by any cardholder in our family to make these charges. The charges are for {$120.00} and {$120.00}, both posted on XX/XX/year>. Citi has closed our credit card account which is something I requested they do after they find in our favor. Although they closed the account, they are leaving the dispute open for feedback from XXXX. XXXX has either not responded to Citi, or isn't aware that Citi is waiting for them. Citi 's communications to us have been slow and misleading. At first it appeared they sided with us on the {$120.00} because they provided no additional communications on that dispute ; however, upon further research into their site, that amount is still in dispute and undecided. \n\nThey requested proof that XXXX was paid. XXXX was never authorized to use the credit card. That should have been enough to reverse the charges. \n\nWe did pay XXXX by check and sent proof to Citi. Citi ignored all the evidence and has decided to wait on XXXX. They have not informed us what will happen if they don't hear back from XXXX. Citi uses email rather than a secure portal for us to provide evidence. For a company the size of Citi and the importance of security, they should offer a secure portal. \n\nThe proof of payment we provided to Citi included both sides of the scanned cancelled check as provided to us over a secure portal by XXXX XXXX. We also provided a scanned check as it was originally written ( in XXXX ) and a screenshot from XXXX XXXX 's website showing that it had cleared the bank. We provided all of this evidence despite the fact that XXXX was not authorized to use the card in the first place."
+}

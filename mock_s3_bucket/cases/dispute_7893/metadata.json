@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7893",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MI",
+    "complaint_zip": "48197"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14044,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'this is a complaint against XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX and Citi XXXX  XXXX and most importantly a Civil Rights complaint against aformentioned services.\\nThe services and merchandise occurred between XXXX and XXXX. There was an earlier purchase but I don\\'t have the dates. \\nSo, over a XXXX  to XXXX  year period I purchased and returned 3 prs of hearing aids with many visits made to correct defects and all this time, my hearing was very poor and I felt very anxious, depressed and isolated-very much alone. iN HINDSIGHT, THIS IS WHAT XXXX  INTENDED. i AM XXXX  YEARS OLD AND EDUCATED, altho my typing says otherwise. Each visit and \"correction\" produced no improvement as one appointment led to another fix and on and on for probably XXXX  years, with my health deteriorating more and more.\\nAs for Citi XXXX, I tried to file a complaint for a XXXX sevice and got an error message\\nstating that the Mosa date of sevice was too old to process. I\\'ve contacted citi in the past and was sent through an endless loop of departments. \\nMosa is a fraudulent company with a captive audience of unaware seniors. Best, XXXX  I need to add that the current management seems to be elder fiduciaries as the company should have been all along.'"
+}

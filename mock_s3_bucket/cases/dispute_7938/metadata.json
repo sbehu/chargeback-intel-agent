@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7938",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "LA",
+    "complaint_zip": "70605"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44410,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was contacted by credit card company on XXXX  and told there was possible fraud on my account. They reviewed the recent transactions and I was able to immediately confirm I did not make or authorize the purchases on the card. I told them I wanted to open a fraud complaint about the charges and they told me that unless I sent them a copy of my social security card, a copy of my passport, copy of my birth certificate, or a copy of my drivers license, they could not open a fraud complaint. They also indicated they were contacted in XXXX of XXXX  by someone wanting to change the telephone contact number associated with the account. I did not contact or authorize and changes to my account. I was able to login to my online account and observed fraudulent charges beginning in XXXX of XXXX  to XXXX and XXXX. The last statement balance on line is {$2600.00}. The email address the company has to send the statements to was hacked earlier this year. I no longer have access to receive emails on that account and have began migrating emails to XXXX. I did not notify this company of the email issue because I had a {$0.00} balance and was not going to use the card in the future. Also I had many other cards and accounts to change information and passwords due to whatever data leak with my information was causing me at that time."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2791",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "601XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23389,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We had XXXX open disputes with Barclay 's credit card company. In both dispute cases, we did not receive custom made outfits that were not delivered to us. We still do not have the merchandise nor do we have a refund of our money from the merchant or the credit card company. Both of these transactions were made in XX/XX/XXXX, SUPPOSED to be delivered XX/XX/XXXX, but we still have nothing as of XX/XX/XXXX. We followed up with the credit card company multiple times. The first time, we were told the disputes were resolved in our favor and the refund would be posted to our account within a few business days. When we called again, they said that they denied both of our claims and we needed to take it up with the merchant but were not provided a reason. They just kept saying it is out of their hands. We then closed our accounts with Barclays due to the XXXX  of the company. They were unhelpful and had horrendous customer service that I would never trust anyone to bank with them again. Fast forward a week later we received ANOTHER letter in the mail with one of the same case IDs but a DIFFERENT merchant name and a different amount. This is now clear that Barclays is in the wrong. They clearly are not speaking to the right merchant nor do they care about trying to resolve disputes. They refused to give us our money back when it is their fault. We called again to see why we received this letter with incorrect information on it, and they again refused to transfer us to a supervisor or even help with our case."
+}

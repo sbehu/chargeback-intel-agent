@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11094",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "079XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21050,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Credit Card Dispute Failure to Conduct Reasonable Investigation This complaint concerns Citibanks handling of a Services Not Rendered credit card dispute involving charges from XXXX XXXX XXXX XXXX  for an XXXX XXXX XXXX stay. \n\nThe dispute was timely filed due to the hotels failure to provide a functioning in-room television for the entirety of my stay despite prompt reporting and opportunity to repair. \n\nUpon check-in on XX/XX/XXXX, I reported that the television in my room was not functioning. The hotel front desk initially advised that the repair would be completed that evening. The following morning, I was informed that the technician would not return until XXXX, after my checkout. No alternate room with a functioning television was offered. \n\nOn the morning of XX/XX/XXXX, I contacted XXXX XXXX  Guest Relations for assistance and was advised to follow up after checkout to avoid risking cancellation of my second night. \n\nAfter my stay, hotel management left a voicemail on XX/XX/XXXX acknowledging a XXXX service outage and confirming that the vendor was unable to repair the issue during the weekend. A compensation offer of {$50.00} per night was made. I declined this as insufficient and requested a reasonable refund. After this, the hotel ceased responding to my emails and voicemails. XXXX XXXX  corporate had also offered XXXX rewards points, which I declined. The hotel later cited this points offer as justification for rescinding their cash offer and stopped communication. \n\nI filed a timely dispute with Citibank as a Services Not Rendered claim. \n\nAs part of the dispute, I submitted XXXX photographs clearly showing the non-functioning television. I also repeatedly referenced and offered to provide additional supporting documentation, including : Voicemail acknowledging the service outage Email correspondence confirming the issue Documentation of the compensation offer and subsequent rescission Citibank never requested these materials and never contacted me for clarification. \n\nProcedural History : Original dispute filed timely On XX/XX/XXXX, I requested proper classification as a service dispute On XX/XX/XXXX, I resubmitted documentation as instructed The dispute was closed citing no billing error On XX/XX/XXXX, a supervisor reopened the dispute I again referenced additional supporting evidence and offered to provide it Despite this, Citibank concluded that : Services were provided as intended. \n\nThis conclusion was reached despite photographic evidence submitted and without requesting additional corroborating evidence that was repeatedly offered. \n\nAdditionally : Citibanks document upload portal repeatedly failed to accept standard files across multiple browsers Fax submissions were unreliable Multiple case numbers were issued for the same dispute I am requesting review of whether Citibank fulfilled its obligation under the Fair Credit Billing Act to conduct a reasonable investigation of this Services Not Rendered dispute, given the photographic evidence provided, the merchants acknowledgment of a service outage, and the additional supporting documentation I repeatedly offered but was never asked to submit. \n\nI am prepared to provide any additional documentation upon request."
+}

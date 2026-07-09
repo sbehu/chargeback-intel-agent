@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2376",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8817"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20402,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had purchased a XXXX XXXX XXXX XXXX for XXXX $ from Best buy online using the best buy credit card with Citi bank on XX/XX/year> and it says it was delivered on XX/XX/year> but I didn't receive my package I tried contacting Best Buy multiple times and they keep running me around to other people to get my refund. They had me go to XXXX. I opened a case and they closed it and told me to deal with the merchant. I go back to Best Buy and they still tell me they wont be refunding me so I made a dispute on my credit card with Citi bank and they closed it just after best buy provided there side of the tracking number and are running me around to and trying to instantly charge me again for something I didn't receive. Telling me I have to write a letter to them to maybe get it reopened."
+}

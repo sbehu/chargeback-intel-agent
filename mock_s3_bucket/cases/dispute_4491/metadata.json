@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4491",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5667,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to address an issue regarding the purchase of XXXX tickets from XXXX. I used my XXXX XXXX  and email on my phone for this transaction. The XXXX provided these tickets through a third party, and despite following their instructions, I was unable to retrieve the tickets via the application. \n\nI had also purchased refund insurance, which allows for cancellation at any time. Consequently, I contacted both the XXXX and XXXX  XXXX XXXX to request either an alternative method to receive the tickets or a refund. They provided instructions and a URL for the refund process, but I was unable to obtain the refund. \n\nDetermined to attend the event, I purchased additional tickets. I continued to email both organizations, as neither website offers a support phone number. I have attached all related communications to this email. \n\nSubsequently, I requested a refund from my credit card company, which was approved and issued. During this period, my wife XXXX XXXX to our daughter and underwent XXXX, which occupied my attention. As a result, I missed the notification on the app. Additionally, when I registered with the online app, I was set to paperless, so I did not receive any letters by mail. \n\nI have contacted Citi multiple times regarding this matter. Each time, they open a case and provide the same update, stating that I am not eligible for a refund for the charge because I responded XXXX  days late to their notification to submit support documents and I had done that initially when I request the dispute as well."
+}

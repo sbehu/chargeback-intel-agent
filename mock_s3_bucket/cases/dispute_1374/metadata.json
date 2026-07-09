@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1374",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14223"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15113,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a Hilton Honors Surpass AMEX card. I received a statement with closing date XX/XX/23 in the amount of {$520.00}. I called to explain that was not possible as I do not use this credit card for any reason ( it sits in a locked box in my desk drawer ). It is not attached to any online website to be used purchases either. I asked what the charge is even for and I believe it was some kind of money transfer involving a XXXX account ( I have a XXXX account but it has been dormant for many years and would never be associated with this credit card anyway ). I reported the fraud and i believed it was all taken care of- they mailed me a new card. I received another statement in the mail with closing date XX/XX/23 in the amount of {$220.00}. I called to ask what this charge was for and I was told that it is the remaining balance after the first call I made did not bring my balance to XXXX for some reason - only a part of it was considered fraud? so i still had to pay the remainder. I told them again, how can i have any balance at all when i have never made a transaction with this card - 100 % of the original balance was fraudulent. I explained all of this and I was told it would removed as well - and they would be sending me another new credit card - another, new card, you are reading that right. I received another statement with closing date XX/XX/23 in the amount of {$73.00}. I called, again, and asked what is going on and I was told that the balance now is for fees. I asked why I would be asked to pay fees on charges that were fraudulent. I am currently on the phone with AMEX customer service as I write this. I consider the number of calls I have had to make and the amount of time I have spent trying to correct this to be a form of harassment and I want AMEX to be punished. They can not be allowed to do this to someone and get away with it."
+}

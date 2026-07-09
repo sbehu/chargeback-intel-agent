@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8668",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11104"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26168,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a charge of {$640.00} from XXXX XXXX XXXX XXXX on XX/XX/year> which I prepaid through a required reservation fee. During the meal, multiple live cockroaches were present in the restaurant, creating an unsafe and unsanitary environment. I immediately reported this to the restaurant staff, who acknowledged the issue. \n\nWhile I was not able to photograph the incident myself due to the unsafe conditions and needing to leave immediately, there are public accounts documenting similar issues at this restaurant. For example, a XXXX review posted 9 months ago shows photographs of a live roach on a customers plate. This demonstrates that the unsanitary conditions I experienced are part of a documented pattern of health and safety violations. I am attaching photos of the other customer 's XXXX review so you can see a documented example of the restaurant 's cockroach problem. \n\nI contacted American Express to dispute the charge, explaining that this was a health and safety issue, not a matter of preference or dissatisfaction. The Amex representative refused to assist in the dispute, insisting I provide photographic proof which was not feasible or appropriate in the moment. Even after explaining that this was a service failure, the representative refused escalation or review by a senior specialist.\n\nThis is a clear case where a cardholder was harmed by both the merchants misrepresentation and the credit card companys failure to protect its member."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2206",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21225"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16817,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "As an XXXX spouse so this has been a nightmare for our family. On or around XXXX XXXX someone kept using my best buy Citi bank card and kept making unauthorized transactions. Best Buy supposedly investigated and I am somehow on the hook for said items I do not have. I'm stuck paying for a XXXX item. I issued to cancel the card and yet my account was still being used to make more purchases, I believe the last purchase went through for about XXXX bucks. I have already been given XXXX new cards and yet nothing has changed. I have suspicion that someone at the best buy store or maybe online some how got ahold of my account because how can I be at work and at Best buy store at the same time. Just about XXXX weeks ago Best Buy sent me a new card again, not sure where to go from here."
+}

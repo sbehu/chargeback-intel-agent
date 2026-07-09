@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9823",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25655,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I placed an order for an XXXX XXXX using my Citi Best Buy card ending in XXXX ( Order # XXXX ). The order was later cancelled, and I contacted Best Buy and Citi multiple times regarding this purchase. Best Buy confirmed the cancellation, and Citi agents over the phone told me that once Best Buy verified it, they would remove all charges from my account. However, the charge was never removed. I never received the XXXX, and yet the charge remained on the credit card, leading to the account being sent to collections to XXXX XXXX XXXX for {$2500.00} as of XX/XX/XXXX which has negatively affected my credit report."
+}

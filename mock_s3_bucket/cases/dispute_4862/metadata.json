@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4862",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22407"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36212,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is in response to a response from Citi cards. \ncase # XXXX & XXXX I have attached there response. \nI need to further state I have never signed up or agreed to any type of promotion from them. I never revied any terms regarding such a promotion, or anything like that. \nIs there any type of balance on this. when does this supposed fraud end? \nI insist. I never would agree to such terms. \n\nXXXX XXXX XXXX XXXX offer. These are fraudulent companies. \nAny interest charges should be from and added to interest i owe to citi. not to these fraudulent companies. \ni am in contact with my attorney. where should he send correspondence?"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7416",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33156"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20970,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I have raised XXXX seaprate disputes with Citi, on a purchase of an XXXX product that was received not as the content shown, and I returned it, but XXXX failed to issue me refund because of the mismatching content that is not my fault. I have raised disputes with Citi, due to the split card, XXXX separate disputes, XXXX under credit card and XXXX under deposit. Both were never resolved even till today, and Citi did not reach out or try to solve the issue after my last complaint too. \n\nI am raising this issue again due to utter dissatisfaction on them declining on another XXXX of my disputes. Since under their policies they refuse the handle the new one, they need to give my proper money that belong to me back. A total of {$1900.00} dollars, with specific on {$970.00} on credit card and {$950.00} on debit card."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8051",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98204"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5300,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/scrub>XXXX XXXX XXXX  I filed a dispute for charges on my American Express account. I was told the disputed amount would be refunded while the investigation was pending, and that the matter would not be resolved until XXXX. This already seemed excessive, since credit card disputes are generally required to be resolved within 90 days. \n\nOn XX/XX/year>, I received a bill for {$49.00}, which is part of the same amount I had already disputed. When I called American Express, I provided the last five digits of the card where the charge occurred. Instead of handling the dispute on that account, the representative insisted that I provide information from a completely different American Express card I also hold. They refused to process the dispute on the original account and attempted to connect it to an unrelated account where no balance is owed. \n\nThis is improper. The disputed charge belongs only to the account where it was billed. American Express has no valid reason to request information about an unrelated account, and I am concerned this could negatively affect my other account. \n\nI am seeking correction of my account to reflect that the {$49.00} is part of my ongoing dispute, clarification on why unrelated card information was demanded, and assurance that no action will be taken on accounts not tied to the disputed charge."
+}

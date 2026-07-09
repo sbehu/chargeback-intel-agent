@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6273",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10310"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33237,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank for failing to investigate and resolve an unauthorized XXXX XXXX transaction on my credit card. Despite providing substantial evidence that the charge was fraudulent, Citibank denied my dispute and failed to fulfill its legal obligations under the Fair Credit Billing Act ( FCBA ) and Regulation Z, which are designed to protect consumers from unauthorized charges. \n\nDisputed Transaction Details : Merchant : Booking.com Netherlands Amount : XXXX ( approximately {$260.00} USD ) Date : XX/XX/year> Merchant Location : XXXX, XXXX Transaction Method : XXXXXXXX XXXX Cardholder Name : .......... \n\nDispute Outcome : Denied by Citibank Summary of the Problem : I never authorized this charge and have never done business with the merchant listed as XXXX  XXXX. I do not have an account with that merchant, and there is no legitimate reason this charge should have occurred. \n\nI submitted a detailed list of all XXXX XXXX transactions before and after the disputed charge. All other transactions from that period show biometric authentication ( Face ID or Touch ID ) and location metadata confirming I was in XXXX. The disputed transaction is the only one lacking this information, suggesting it was processed through unauthorized or fraudulent means. \n\nAdditionally, I provided a screenshot of the merchant link associated with the transaction, which leads to a We couldnt find this page errorfurther supporting the conclusion that this was a fraudulent or spoofed charge. \n\nI also offered to submit travel documents verifying that I never left XXXX during the relevant time period. They have all my transactions with the credit card, with or without XXXX XXXX, showing my location. Citibank ignored this evidence and made no effort to investigate or request additional documentation. \n\nInstead, their entire rationale for denying the dispute was that other XXXX XXXX transactions occurred around the same time, implying this one must also be valid. This is a flawed and irresponsible conclusionfraudulent charges often appear between legitimate ones, and this logic disregards the specific red flags surrounding this transaction. \n\nBy law, under the Fair Credit Billing Act ( 15 U.S.C. 1666 ) and its implementing regulation, Regulation Z ( 12 CFR 226.13 ), I am entitled to dispute unauthorized charges on my credit card and receive a prompt and fair investigation. Citibanks refusal to investigate biometric data, location discrepancies, and broken merchant records amounts to a failure to meet these legal obligations. \n\nCitibanks Failures Include : Failing to investigate the transaction per requirements under FCBA and Regulation Z. \n\nIgnoring biometric and location metadata. \n\nRefusing to consider additional customer-provided documentation. \n\nFailing to assess red flags from a broken merchant link and missing authentication. \n\nProviding no transparency into their fraud determination process."
+}

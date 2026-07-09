@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6180",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90501"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14345,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a Sears XXXX and on XX/XX/XXXX thru XX/XX/XXXX someone charges {$490.00} on my Sears card i was in XXXX XXXX when i received a text asking me if i was shopping at XXXX the next day I contacted Sears Citi Bank and said no i haven't used my credit card in years and the balance should be XXXX i filed a fraud that day and told them it was not me so that closed that card and then i received a new card and they carried over the Fraud charges to the new card I contacted them and told them that none of those charges were mine they told me it was under investigation and Security Operations Department said i won't be responsible until the investigation was done but every month i have a balance and i am receiving late charges on a card that i did not do which is ruining my credit scores and i am very upset if filled police report, FTC, XXXX Consumer Affairs XXXX XXXX XXXX XXXXXXXX XXXX this not acceptable every time i call sears the people are extremely rude and they keep telling me it's still under investigation i did receive one letter that sears said we have found some suspicious activity on your card that was XXXX XXXX but as of now nothing and charges on my credit card that i did not do is up to {$620.00} after the Security Operations department told me this would not happen while it was under investigation"
+}

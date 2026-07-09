@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5375",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "027XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27516,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had fraudulent charges on my credit card, tried to dispute them with the bank. They keep refusing most of the disputes of the XXXX charges I was told by the XXXX department that they would reach out to me if they needed further information I received the call from an XXXX number who claimed they were the XXXX department taken care of my case I exchanged information multiple times with the same person acting as the XXXX  card XXXX department gave me information that I would only think XXXX would have I called the number on the back of my card to check to make sure this person was legitimate and all they could tell me is that yes somebody was working on the case and they can only give me the first letter of his first name which matched the gentleman I was speaking to who was in fact fraudulent and that phone number is XXXX when I finally googled the number thats how I found out. Its a scam and I believe thats how all this is happening, but the bank will not credit me the charges that I did not make."
+}

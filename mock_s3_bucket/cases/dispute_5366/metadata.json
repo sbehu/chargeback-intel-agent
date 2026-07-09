@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5366",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17451,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX of XXXX I noticed I've been paying for reoccurring charges to businesses I do not use. Put in disputes that were denied and I locked my cards during this process. The same businesses were able to still charge my card and American express continued to let them do so after hours of phone call, police reports for disputes and incurring interested. My account was cancelled. Amex continued to run me around sending documents to them multiple times, sitting on the phone back and forth to countless people with no resolutions ever. just more paperwork police reports and things for me to do. All while Amex is still charging me. XXXX XXXX all my calls to Amex resulting in them telling me i was sent to collections. Collections company sends me a statement for a specific amount. Collections is not reporting to my credit report. Amex is reporting to my credit report, and the statement balance is increasing. They won't handle my disputes correctly and correct my balance due on an account that should have been cancelled and closed XXXX XXXX They are saying my account is in collections meanwhile holding my account open and charging me interest monthly. \n\nThe previous response to be not sufficient and did not cover any of my issues with the disputing. the credits given to me in XXXX of XXXX were given after a millionth phone call and me pursuing this monthly to be passed around with no new info. \n\nNow communicating with the company just doesn't happen they refer me to collections. yet, still send me statements with an increasing balance"
+}

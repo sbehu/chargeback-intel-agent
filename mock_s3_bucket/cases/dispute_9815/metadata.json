@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9815",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11225"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36060,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I made an online purchase of XXXX silver coins from XXXX XXXX for {$95.00}. I received XXXX fake silver coins from XXXX XXXX. I attempted several times to contact the company but there was no response. I disputed this charge with BARCLAYS BANK and I was denied based on BARCLAYS BANK not being able to contact XXXX XXXX."
+}

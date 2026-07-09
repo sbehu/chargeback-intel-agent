@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12874",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48312"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1582,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The product was ordered on XX/XX/year> through Macys and was supposed to be delivered the next day, XX/XX/year>. Although Macys stated the order was delivered by XXXX, the tracking number provided only leads to an error message and does not show any proof of delivery.\n\nI contacted Macys customer support and was told a full refund would be processed within 24 hours. When no refund was issued, I contacted Macys again. They refunded only the delivery fee, but the refund for the actual item was never provided.\n\nI then filed a dispute with my credit card company on the basis that the product was not delivered. After their investigation, they claimed the item had been delivered, but they would not provide any proof of delivery or supporting documentation."
+}

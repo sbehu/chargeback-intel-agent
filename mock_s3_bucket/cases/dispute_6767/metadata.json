@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6767",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1605"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21314,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This charge corresponds to an airline ticket purchase with XXXX. However, when I arrived at the XXXX airport on XX/XX/year> to check in for my flight, I was informed that my payment had not been processed and that there was no valid ticket issued under my name. I showed that the payment was pending on my account, but XXXX was unable to locate any reservation or transaction. \n\nAs the boarding time was approaching, I had no choice but to purchase another ticket for the same flight, which cost {$720.00}. A few days later, the original {$680.00} charge also posted to my account, resulting in a double payment for one flight. \n\nI contacted XXXX and was informed, in writing, that they could not locate any transaction for the {$680.00} charge. I have attached emails confirming this. \n\nIn addition to requesting the reversal of the {$680.00} charge, I would like to express my dissatisfaction with how American Express has handled this situation. I find it extremely frustrating and disappointing to be held financially responsible for a service that I did not receive, despite providing clear documentation and having made every effort to resolve this issue properly."
+}

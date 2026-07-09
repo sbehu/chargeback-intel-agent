@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7522",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "190XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28823,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I was told by XXXX that I had to make a payment in order to reserve airline tickets, and that it was fully refundable within XXXX hours. I was coerced into giving my card info by a very manipulative XXXX agent. He told me it was the only way to hold the tickets, and not to worry it was refundable. In the same call I asked for the refund and was then told it was not refundable! I then spoke with several managers who either said it was not refundable or hung up on me. I filed a dispute with city cards. 2 months later it was resolved in favor of XXXX air. \nFor a week now I have been trying to reopen the case and have not received info about it nor does it show as reopened on my account. \nI was told I can provide further documentation but have not been given a place to do this. \nI do not have any documentation because it was all done over the phone. XXXX told me they record all conversations. I would like to get a recording of all the conversations Ive had with them to prove that they lied to me. They also charges me twice as much as the tickets cost and said it was he {$400.00} to change the tickets. I never wanted to purchase the tickets!!!! They said it was refundable so I relented, inorder to reserve. \nXXXX is a scamming company and they have stolen my {$1100.00} and Citicardss is not helping. \nPlease help me recover my hard earned money and if there is anyway to prevent others from being robbed by this company please protect them. \nXXXX claims to be an American travel company but it is owned by an XXXX man and has only XXXX men working the call station. They are rude, deceptive and very difficult to understand. If they were honest helpful people I would not mind the language difficulty. But they are not, they lie, they hang up in mid conversation, and they dont return calls. \nPlease help me Thank you, XXXX XXXX"
+}

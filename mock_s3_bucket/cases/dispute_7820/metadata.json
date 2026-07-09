@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7820",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77581"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I tried to use a {$100.00} credit card that I had been gifted at the XXXX XXXX restaurant while on travel in XXXX, XXXX  on XX/XX/year>. The card was declined/denied at first and then I activated it at the restaurant. After activation, it was declined again. I was given copies by the merchant to show that it had been declined twice. Attached are copies showing the card was declined at twice. I verified that the card had been activated and {$100.00} was on it after leaving the restaurant. Later that afternoon, I checked the balance again before attempting to use it elsewhere and saw that {$99.00} had been used to make a purchase in XXXX, XXXX. The last attachment shows the fraudulent use of the card later that afternoon. I called the American Express resolution department right away. They told me I had to wait until the transaction ( 10 days ) went through before I could dispute it. I did and file the dispute : Reference Case No. XXXX. The gift card resolution team then sent me an email a week later on XX/XX/year> saying they had declined and closed the dispute, but did not provide any reasoning for doing so. They did not request the additional info. I offered and am now providing to you. I contacted them immediately and then again at the email they provided saying if I had any more questions ) asking for a reason. I received no response. I included a copy of this email communication. Please help me resolve this. All relevant copies of evidence are attached."
+}

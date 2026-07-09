@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5212",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CO",
+    "complaint_zip": "813XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15558,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Contacted Citibank to dispute ( documented letters and recorded calls ) an automatic charge of a membership fee on my Citibank XXXX XXXX and that I wanted the card canceled ( card was called in lost and was cut up ) for where Im now located there is no XXXX stores within a 400 mile radius. I have recorded conversations with both entities supervisors in getting the situation resolved. In my conversation with XXXX I was left with the impression that the charge was to be waived and that they would followup. That never happened. This was as of a year and half ago. Now appears they have started an all new membership fee with compounding interest charges. I have other cards with Citibank which are paid in full each month with XXXX balances. My credit rating is at XXXX. \nCan provide recordings and documentation if requested."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9953",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60563"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14310,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint about American Expresss handling of a credit card billing dispute. Dispute No. XXXX relates to an XXXX hotel charge for {$1000.00}. The room at XXXX XXXX XXXX had no hot water and near-zero water pressure at check-in on XX/XX/2025, and the front desk confirmed hot water would not return until the next morning. I was on a work trip and checked out within about XXXX hours without using the room. I called Amex immediately ( XXXX XXXX ) and provided evidence. \n\nAmex reopened the dispute for evidence upload, I uploaded my documentation, and then Amex closed the dispute the next day without any meaningful investigation. I did not receive any written communication explaining the closure or confirming that my uploads were actually reviewed. Amex also previously decided to hold me responsible for XXXX night ( {$270.00} ), which is not acceptable given the undisclosed outage and immediate checkout.\n\nResolution requested : Full reversal of {$1000.00} and removal of the {$270.00} one-night charge, plus a written explanation identifying what evidence was reviewed and why the case was closed immediately after evidence submission."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6397",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91733"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24807,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am the owner of XXXX XXXX XXXX XXXX XXXX a small business in XXXX XXXX XXXX. In early XX/XX/year>, we received phone orders for corn husk and sugar from a customer who paid using a credit card provided over the phone. After confirming payment, the customer sent their own driver to our facility to pick up the goods. \n\nWeeks later, the same customer disputed the charges through American Express, claiming they were unauthorized. As a result, our business lost the revenue from XXXX transactions, despite having fulfilled the order in good faith. We believe this constitutes an abuse of the chargeback system and unfairly penalizes our small family-run operation. \n\nWe are requesting that your office review this matter and take appropriate action or oversight to protect small businesses from bad-faith chargeback claims. We have attached our formal letter, transaction receipts, pickup logs, and inventory details to support our position. \n\nWe ask that the chargebacks be re-examined and safeguards be considered to prevent such harm to compliant small businesses. Thank you for your attention to this matter."
+}

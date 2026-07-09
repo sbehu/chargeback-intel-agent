@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6804",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MS",
+    "complaint_zip": "394XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34718,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/2025 A company XXXX charged my card without authorization in the amount of XXXX I am requesting an investigation into Citi Cards for failing to properly address and resolve an unauthorized charge on my credit card, despite clear documentation and repeated attempts to dispute it. \n\nI have both emails and text messages confirming that the merchant did not have my permission to charge my card. I immediately provided this evidence to Citi, along with a request to cancel the card to prevent any further unauthorized transactions. I also flagged the charge as unauthorized. \n\nDespite my proactive efforts, Citi failed to act promptly or appropriately : Nearly XXXX months passed with no resolution. \nOn XX/XX/XXXX, the fraud department finally informed me that I had been routed to the wrong department all along and redirected me to billing disputes. \nThe billing dispute department then claimed they could not help me. \nLater that same day, Citi reversed course and told me they could handle the issue and that I wouldnt have to worry about the transaction anymore. \nOn XX/XX/XXXX, Citi again pushed me back to billing disputes, claiming the case could be reopenedbut only now, after significant delay and confusion. \n\nCitis internal miscommunication and failure to escalate this matter properly have cost me time, created unnecessary stress, and left me unprotected from unauthorized charges. I am asking the CFPB to investigate Citis handling of my dispute and hold them accountable for their mishandling of what should have been a straight forward case."
+}

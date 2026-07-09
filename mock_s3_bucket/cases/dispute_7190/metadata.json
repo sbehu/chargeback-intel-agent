@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7190",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36631,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "email, and letter sent : Date : XX/XX/XXXX To : Citi Cards Dispute Department XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX Subject : Rebuttal Dispute Case XXXX Merchant : XXXX / XXXX  Citi Denial Letter Date : XX/XX/XXXX Outstanding Disputed Amount : {$4100.00} Dear Citi Dispute Resolution Team, I am writing in response to your denial letter dated XX/XX/XXXX, in which you stated that my dispute under case XXXX could not be continued because the merchant was 'unwilling to issue a credit. ' Respectfully, this reasoning does not align with XXXX  official chargeback policies under Reason Code 4853 Goods or Services Not Provided or Misrepresented. This code allows the issuer to initiate a chargeback if : - The merchant failed to provide the service, - The merchant materially misrepresented the service, - Or the merchant promised but failed to issue a refund.\n\nAll of these apply to my case. I paid {$9500.00} to the merchant on XX/XX/XXXX. The merchant issued a written refund confirmation ( Sent to CITI earlier ) that the amount would be refunded between XX/XX/XXXX and XX/XX/XXXX. That refund never occurred. Instead, XXXX XXXX, who were unaware of the actions taken by XXXXXXXX XXXX XXXX, independently refunded {$5400.00}, leaving {$4100.00} unrefunded by the merchant. I filed my dispute with Citi on XX/XX/XXXX, XXXXwell within XXXX  acceptable time frame, which is measured from the date the service was expected to be provided ( XX/XX/XXXX ). \n\nIt is not a valid justification to deny a chargeback request solely on the grounds that the merchant refuses to cooperate. In fact, XXXX rules allow the issuer to file a chargeback even if the merchant does not agree, so long as the evidence supports the claim.\n\nI respectfully request that Citi reopen this case and proceed with the chargeback for the {$4100.00} still owed to me. Alternatively, I request a detailed written explanation referencing the applicable XXXX chargeback policy or Citi internal regulation under which this case was denied. \n\nThank you for your attention. I look forward to a prompt and fair resolution."
+}

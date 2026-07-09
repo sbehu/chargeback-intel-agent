@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10334",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "60409"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6000,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My mother XXXX XXXX XXXX, was a victim of XXXX financial exploitation and undue influence by her caregiver XXXX XXXX XXXX. XXXX XXXX used several of my mothers bank cards as an authorized user claiming my mother gave her access. My mother, who is deceased now, XXXX XXXX XXXX had XXXX  and XXXX XXXX  and was on multiple XXXX  including XXXX XXXX XXXX XXXX In XX/XX/2025 XXXX XXXX began using my mothers cards and ran up a total of XXXX dollars in charges. She also had the billing address changed on the cards so I would not find out. When I did discover the abuse I called the credit card companies to report the abuse/fraud, filed a police report on the caregiver and called Adult Protective Services . The credit card companies wrote the charges off as fraud after speaking with my mother and myself and clearly recognizing that my mother had been exploited and manipulated through undue influence of her caregiver. The only company that will not remove the charges as fraud is Citibank. The balance there is approximately XXXX. I have spoken to them constantly as did my mother but they told us they have my mother in their voice recognition system as agreeing to make XXXX XXXX an authorized user. My mother could not recall this. It bears mentioning that XXXX XXXX also was giving my mother XXXX  and XXXX XXXX XXXX XXXX XXXX. I recently spoke to Citibanks debt collector XXXX XXXX regarding this. I spoke to a XXXX XXXX and I relayed all of this to her and she clearly recognized this was fraudulent. I have formally written to Citibank and XXXX XXXX to dispute the entirety of the debt as fraud."
+}

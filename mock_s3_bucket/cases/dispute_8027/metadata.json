@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8027",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96826"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34043,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "What happened? \n\nOn XX/XX/XXXX, I purchased a XXXXXXXX XXXX  from Best Buy for {$1600.00} using my Best Buy credit card. I later returned this TV and exchanged it for another model on XX/XX/XXXX, which is fully documented in my Best Buy receipt dated XX/XX/XXXX. \n\nDespite the return and exchange, my account was billed for both televisions the original {$1600.00} and the new purchase of {$1700.00}. I never retained both TVs, yet I am being held financially responsible for a duplicate charge. \n\nOver the past several months, I have disputed this charge multiple times directly with Best Buy Credit Services. Each time, they have denied my dispute, claiming no billing error occurred. Their denial letter dated XX/XX/XXXX states that the documentation or facts provided do not support the billing error dispute claim and that a refund slip was not provided. This is unacceptable, as I provided proof of return and exchange via the official Best Buy receipt. \n\nBest Buy Credit Services has failed to properly investigate this dispute and has continued to include the disputed {$1600.00} in my balance. This is a clear violation of my rights under the Fair Credit Billing Act ( 15 U.S.C. 1666 ), which protects consumers from being billed for items not retained. \n\nI have been disputing this for months with no resolution, and I am now seeking CFPB assistance to enforce my rights and hold Best Buy Credit Services accountable for improper billing and failure to resolve a legitimate dispute."
+}

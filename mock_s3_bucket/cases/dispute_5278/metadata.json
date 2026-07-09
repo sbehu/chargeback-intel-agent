@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5278",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33169"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9785,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have mentioned above that the first day that I received the card it already had a balance. \nI called home depot and explained to them that I received a new card with a balance already in it. I called home depot on XX/XX/XXXX spoke to three different people explaining the problem, but no one could tell me exactly what to do. In XXXX XXXX I received a letter that said \" Thank you for your business as a Home Depot Consumer Credit card Holder, while we are investigating your billing dispute or fraud claim, we have adjusted the minimum payment due on your account. Then on XXXX XX/XX/XXXX I received a latter from CITI Bank that said \" your Home depot consumer credit card account is still open, however your charging privileges may already be suspended or get suspended in the near future. \nThen I decided to wait and see what they were going to do, but as of the last time they did nothing but send me another card. This is why I decided to officially make my complaynt to cfpb."
+}

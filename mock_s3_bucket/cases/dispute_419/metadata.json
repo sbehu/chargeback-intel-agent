@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_419",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77379"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "From XX/XX/XXXX to XX/XX/XXXX {$6100.00} in fraudulent transactions were charged to my Citibank credit card. The transactions happened online and physically in multiple states including Texas, California, Utah, Arkansas, Maine and Washington. In XXXX XXXX  XXXX I had a XXXX balance, had not used the card since before then, and so was not receiving statements. I never received notification from Citibank related to any suspicious activity ( nothing by U.S. mail, not a phone call, not a text ). In XXXXXXXX XXXX XXXXXXXX, Citibank sent me an offer in the mail to increase my available credit. I responded via phone call, and that's when I was notified of the past due outstanding balance. Citibank claims that they sent me a new card in XXXX XXXX  XXXX, and that I am responsible for the charges made in Texas. I have repeatedly explained that all of the charges are fraudulent, and that I never received the card. I filed reports with the local police, and The Federal Trade Commission. I have put a quick lock on my Citibank accounts, and a freeze on my credit with the XXXX major credit bureaus. {$4100.00} has been credited back to my account. {$2200.00}, which included {$190.00} in interest and late fees, has not been credited. I sent a letter requesting their investigation be reopened. Citibank 's security operations manager told me to stop calling or I would receive a letter in the mail telling me to stop calling."
+}

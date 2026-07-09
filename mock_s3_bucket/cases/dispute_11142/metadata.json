@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11142",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33156"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3950,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On my account, Citibank posted fraudulent charges totaling {$340.00}, consisting of four ( 4 ) charges of {$10.00} each and three ( 3 ) charges of {$100.00} each. These transactions were allegedly made at a food truck establishment that I have never visited, never patronized, and never authorized in any way. \n\nThese charges are completely unauthorized. I did not make them, I did not approve them, and no one in my household was permitted to use this card. In fact, the card had never been used prior to these fraudulent transactions and had no legitimate transaction history. The fact that a dormant card was suddenly used multiple times in rapid succession should have triggered enhanced fraud monitoring and immediate protective measures. \n\nI promptly reported the fraud and filed disputes in good faith. Despite my timely reporting and full cooperation, Citibank has repeatedly denied my claims without providing clear justification or sufficient evidence supporting their decision. \n\nAs a result of these denials, Citibank is now charging me not only for the original {$340.00} in fraudulent transactions, but also for accrued interest and fees, increasing the balance to {$370.00}. I am being financially penalized for criminal activity that I neither authorized nor benefited from. \n\nUnder the Fair Credit Billing Act ( 15 U.S.C. 1666 ), I am entitled to dispute unauthorized charges and to receive a reasonable and good faith investigation. To date, Citibank has failed to provide adequate documentation demonstrating that these transactions were authorized by me. \n\nI respectfully request that your office review this matter and assist in ensuring that : ( 1 ) The {$340.00} in fraudulent charges are permanently removed.\n\n( 2 ) All related interest and fees are reversed.\n\n( 3 ) Citibank provides written documentation explaining the evidence used to deny my dispute.\n\n( 4 ) Any negative credit reporting related to these charges is immediately corrected. \n\nI have acted responsibly and promptly in reporting fraud and should not be held financially liable for transactions I did not authorize. I am seeking a fair resolution and enforcement of my rights under federal consumer protection law. \n\nThank you for your attention to this matter."
+}

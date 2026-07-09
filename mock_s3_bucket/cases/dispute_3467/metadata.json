@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3467",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94536"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35883,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Despite reporting multiple fraudulent balance transfers and purchases, I have received no direct communication from Citi 's fraud department and have encountered inconsistent and contradictory information from various representatives. \n\nI first reported the fraudulent activities around the end of XXXX and again in XXXX. Since then, I have had to initiate multiple calls to Citi to address these issues. I was informed that the fraud department would reach out to me if they had any questions or updates regarding the investigation. However, I have not received a single call from your department. When I contacted the fraud department today, they mentioned they had questions that needed answers to continue the investigation. Why was I not contacted earlier, as promised? Instead, I had to call in, and then, frustratingly, I was hung up on. \n\nDuring the call, I was asked, \" Do you know what bank the checks were cashed at? '' This question puzzled me, as I did not cash these checks, and I would expect Citi to have access to images of the checks. Additionally, customer service claimed today that the fraudulent balance transfers were not included in my fraud report. This is incorrect, as I have discussed these transfers with multiple representatives from the fraud department, all of whom acknowledged my reporting of these fraudulent activities.\n\nI understand that these investigations can take time, but the lack of communication is unacceptable and anxiety-inducing. A simple update on the investigation 's status or an estimated timeframe for a resolution would go a long way in alleviating my concerns.\n\nMoreover, the conduct of the fraud department has been unprofessional and eerily similar to common scam tactics. I was asked for a security word over the phone and to share a code sent via text, despite the clear message stating, \" We will not call or text you for this code. '' While I understand that I initiated the call, these practices are unsettling and raise red flags. The message should be more clear if they are actually opposed to scammers.\n\nLastly, I have repeatedly stated that I do not want any purchases or balance transfer requests to be allowed on this account. Given the circumstances, I would think Citi would prioritize preventing further fraudulent activity. Unfortunately, this experience has left me overwhelmed and stressed. Once this matter is resolved, I intend to pay off the balance I am responsible for and close my Citi account. They have refused to restrict Balance Transfers from taking place, as another one has now taken place on XX/XX/XXXX. The balance on my card is now {$3000.00} of which I have not initiated and this is causing immense frustration."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10408",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33569"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33721,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express investigated my account, determined the charges were fraudulent, and closed the account as a result. There were dozen of charges and all of them were removed at the same time and deemed fraudulent. \n\nApproximately six months to one year later, American Express reopened the account without my authorization, added one of the charges back with fees and interest, and began reporting a charged-off balance to the credit bureaus. \n\nI never authorized the reopening of this account and am not legally responsible for the reported balance. Despite multiple attempts to resolve this directly with American Express, they have continued to report the account monthly as a charge-off. \n\nThis is inaccurate reporting, improper handling of a confirmed fraud account, and a failure to properly investigate disputes under the Fair Credit Reporting Act. \n\nI am requesting that American Express : 1. Provide documentation showing I authorized the reopening of the account 2. Provide proof that I am legally liable for the balance 3. Immediately delete the account from all credit bureaus If American Express can not provide such documentation, the continued reporting of this account is unlawful."
+}

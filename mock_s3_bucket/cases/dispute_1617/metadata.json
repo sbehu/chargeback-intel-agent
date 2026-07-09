@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1617",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78758"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1383,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, my name is XXXX XXXX. I have the XXXX card, and for payments, we use the link XXXX XXXX XXXX XXXX I did not shop at XXXX XXXX XXXX but I still had the card, which was not activated. In XXXX, I saw unidentified charges for around {$500.00} in my account. I immediately called Barclays Bank, and they told me not to worry. They sent me new cards, which still need to be activated. \nThe case number was : XXXX Yesterday, I received an email from the bank stating that I still owe {$500.00}. I called the bank and told them I had already disputed these transactions last XXXX. I was told by the bank it already completed the transaction and decided to close the case with the resolution that I had to make the payment. This came to me as an utter surprise, and I questioned the kind of investigation done by Barclays Bank. The simple rule is, per the guidelines, if my credit card is compromised, the bank has to investigate thoroughly, and the consumer does not have to worry. I would formally like to file a complaint against this bank. \nPlease be advised that the issues described in this complaint will be shared with the financial institution or company in question for their response."
+}

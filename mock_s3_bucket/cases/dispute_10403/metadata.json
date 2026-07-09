@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10403",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33619"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48933,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding a disputed {$11000.00} charge financed through Barclays for an XXXX Holidays membership. \n\nI purchased the membership on or about XXXX XXXX, XXXX. On or about XX/XX/XXXX, I requested cancellation of the membership. On XX/XX/XXXX, the merchant issued written confirmation that the membership was canceled. No services, travel, or membership benefits were booked, confirmed, accessed, or used at any time. \n\nOn or about the first or mid XX/XX/XXXX, I disputed the {$11000.00} charge with Barclays. Barclays issued a provisional credit on or about XXXX XXXX, XXXX, and the account was subsequently closed. \n\nOn XX/XX/XXXX, I received written notice from Barclays stating that the merchant had responded to the dispute and that the provisional credit was reversed and the {$11000.00} balance reapplied, despite the prior cancellation and account closure. \n\nThe merchant has asserted that a refund depends on my signing a separate release and refund acknowledgment waiving statutory rights. I did not agree to sign this document. My refusal to sign a post-cancellation release does not create or validate any debt. \n\nI am continuing to dispute the validity of this charge. I am requesting that Barclays fully investigate this matter considering the written cancellation and the merchants waiver of enforcement, confirm that the balance remains disputed, remove the charge, and ensure that no adverse credit reporting occurs while the dispute is under review."
+}

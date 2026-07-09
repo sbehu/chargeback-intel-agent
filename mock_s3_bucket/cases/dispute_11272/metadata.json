@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11272",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93245"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15886,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "As I searched online, XXXX rewards card was acquired by a new company, which is XXXX. They acquired XXXX rewards card back in XX/XX/XXXX. Note that XXXX rewards card was previously owned by XXXX XXXX and XXXX XXXX. Around XXXX or XXXX of XXXX, I was notified by my credit bureau that I owe money from Barclays. I was surprised to found out that I have a XXXX account. ( I previously owned XXXX under them but that was from XXXX XXXX and it was currently closed at the time ) I called the department and reported it as XXXX. They explained to me that XXXX rewards card was recently acquired by XXXX. I told them that I did not know that my XXXX rewards card was still open and I did not know that XXXX rewards card was acquired by Barclays. Theres nothing in writing that notify their customers that theyll be the new XXXX reward card owner. A lot of factors have changed, including my phone number and address. Now the investigation has concluded and the case didnt favor me and the proof they have is my application for this card. The application of this card was verified with a drivers license which is enough proof according to the investigation department. I originally applied for XXXX Rewards card under XXXX XXXX back in XXXX ( estimated year ). I havent used that card ever since and next thing I know I owe money to XXXX. I never applied for a XXXX XXXX rewards card, if you get XXXX XXXX. The proof of what XXXX was talking about is not credible at all. I want to have a video or picture as a proof for this matter. I suggest to other people, do not get Barclays as your bank or credit bureau. Save your time and avoid the head ache. \n\n\nIn addition, those scammers used my bank to pay their balance. I immediately froze my bank and reported to them that it was fraud. And they gave me a new bank account number."
+}

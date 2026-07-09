@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7808",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "295XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3975,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I received a phone call from Premiere, congratulating us on our purchase of our time share, & they are AFFILIATED with XXXX to sell out some of our XXXX points for us & we would receive a check for getting using our XXXX account, if I paid {$2400.00} up front they would design a contract that we get a check back from Premiere Resorts for {$8000.00} within a few months. I asked them several times & repeated myself on the phone conversation, that they are with XXXX, & they continued to say yes. Once they received my payment information, & stayed on the phone with me the entire time they sent the docusign to make sure i signed. After a couple of days went by, my wife & I had to call XXXX, & we asked about their XXXX XXXX program, they stated, they are not part of any such company, we immediately tried calling them back & could not get anyone to return our call. We sent in a fraud request through our XXXX credit card Barclays ) for the amount of {$2400.00}, & received a letter back stating that XXXX XXXX did what they said they would do??? I called the credit card company & asked what was it that we paid {$2400.00} for & they stated our paperwork states for them to advertise our points??? i demanded to speak with someone higher up, & I spoke with XXXX at Barclays who claimed to be the president of Barclays, & he would look into it, I asked the entire time if I needed to get a police report, & everyone I spoke to said no. I do not understand how i was misled into purchasing & I do not feel this situation was even looked into. I'm pretty sure these people are scamming alot of people of of hard earned money. XXXX should be held accountable for misleading & lieing to people."
+}

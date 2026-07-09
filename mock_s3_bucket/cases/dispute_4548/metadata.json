@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4548",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "153XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29439,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have asked Citi Card to refund me {$4900.00} countless times over the last few years because they awarded a contractor {$4900.00} of my money for a service that was never provided to me. I have attached 40 pages of chronological events that took place that has extended over the last few years with Citi card. Initially I was given a temporary credit from Citi Card for about a 6- week time frame, but then they reversed their decision based on a hand type note from the contractor and some pictures the contractor took off the internet ; these are not pictures of my house. I refuted the claim, but they refused to credit me my money back. When the decision was made, I asked them what I needed to do to get a refund, and they said I needed some form of legal decision. I then promptly took the contractor to court and over a two-year time frame ( court process is slow ) I was able to get a decision stating the contractor was at fault and never entitled to the {$4900.00}. After I got the decision, I sent this to Citi Card and they said they will look into it. I started these calls in XX/XX/year>. I have spoken to at least 10 different dispute center representatives over the last 6 months. Every time I was told, we are working in getting your credit returned, it should not be much longer. After getting the run around, I asked what I needed to do and filed another complaint against XXXX XXXX as they had suggested. So I sent them all this correspondence again and finally received a letter form stating that too much time has expired. Citi Card statement is \" Citi is at your side, before, during, and after every purchase ''. I don't think so. They basically misled me and found an easy way out when the contractor refused to credit them the {$4900.00}, so they figured a good customer would pay the bill which is exactly what transpired. The Contractor in question is now in prison and has no means to pay the court hearing decision. If Citi Card would have credited me the money in the first place and not taken the side of a criminal none of this would have transpired. {$4900.00} means a lot more to me than a multi-billion dollar credit card company, not to mention all the lawyer fees I have incurred. I want my refund from Citi Card."
+}

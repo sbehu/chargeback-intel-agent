@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4192",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MI",
+    "complaint_zip": "481XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "From me American Express collected five insurance premium over-payments totaling {$250.00}. Of these AmEx refunded me only {$100.00}. Hence AmEx owes me another {$150.00} ( {$250.00} - {$100.00} = {$150.00} ). \n\nAccording to the attachment from your records and your analysis you, American Express, tell me that - On XX/XX/year>, ( my ) account was billed {$50.00}, which provided ( insurance ) coverage through XX/XX/year>. On XX/XX/year>, American Express received ( my ) payment in the amount of {$100.00}, leaving ( my ) account with a {$0.00} balance due as of the closing date XX/XX/year>. \n\nYou conclude- {$0.00} balance due on XX/XX/year> '' in error. \n\nInstead, as of the closing date XX/XX/year>, after on XX/XX/year> having just made a double-payment in the amount of {$100.00}, I had a {$50.00} credit coming that you disregard. \n\nThen you say - On XX/XX/year>, ( my ) account was billed {$50.00}, which provided ( me ) coverage through XX/XX/XXXX, XXXX in error. \n\nTo the contrary, after I had just made a double-payment on XX/XX/year>, it follows that on XX/XX/year> you billed me an extra {$50.00} in error. That is, by double-payment on XX/XX/year>, I had already paid for coverage for two months, from XX/XX/year> through XX/XX/year>. \n\nThen on XX/XX/year> you received my triple-payment totaling {$150.00} ( {$100.00} + {$50.00} = {$150.00} ). In error you deducted the extra {$50.00} payment that I did not owe, because, as I here repeat, on XX/XX/year> having made a double-payment, I had already paid for coverage through XX/XX/year>. \n\nThen on XX/XX/year> you received my final double-payment in the amount of {$100.00}. Its all in your attached records. Thus, in error from me you collected five over-payments totaling {$250.00} ( {$150.00} + {$100.00} = {$250.00} ), then refunded me only {$100.00}. So you owe me another {$150.00} ( {$250.00} - {$100.00} = {$150.00} ). Now please refund me the {$150.00} credit balance remaining on my account."
+}

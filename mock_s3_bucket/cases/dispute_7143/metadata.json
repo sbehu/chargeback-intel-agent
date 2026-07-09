@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7143",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10789,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Good afternoon, I am submitting a formal complaint regarding the wrongful denial of Purchase Protection claim # XXXX for a {$4000.00} XXXXXXXX XXXX that was physically damaged during merchant-arranged installation. \n\nCOMPLAINT Nature of Dispute Your denial letter incorrectly stated that \" Coverage does not apply if the item is damaged because of a product defect or experiences normal wear and tear where no failure has occurred. '' This characterization is factually wrong and demonstrates a fundamental misunderstanding of the incident. \nAfter requesting a callback from your adjuster to discuss this improper denial, XXXX XXXXXXXX responded by sending the identical denial letter again on XX/XX/year> - demonstrating that no one is actually reviewing this case or considering the evidence provided. \n\nTimeline of Events XXXX XXXX XXXX  : Purchased XXXX XXXX for {$4000.00} using Citi card ending in XXXX from XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX delivered in perfect condition XXXX XXXX XXXX  : XXXX XXXX XXXX subcontracted gas technician dropped a metal object on the cooktop during LP conversion, causing permanent scratches to the stainless steel face -XXXX XXXX XXXX : Damage reported immediately to merchant ; merchant refused responsibility Claim submitted with complete documentation including photos, video evidence, and timeline Denial received citing \" product defect or normal wear and tear '' Requested callback from adjuster to discuss denial Received identical denial letter again on XX/XX/year> Factual Mischaracterization Your denial letter fundamentally mischaracterizes the nature of the damage : NOT a product defect : The XXXX functioned perfectly until physically damaged by the installer NOT wear and tear : The unit was brand new and damaged before first operational use IS accidental physical damage : Caused by third-party mishandling during installation within 90 days of purchase Coverage Clearly Applies This incident clearly falls under Citi 's Purchase Protection coverage for items that are \" damaged or stolen within 90 days of purchase. '' The incident occurred : Within 90 days of purchase ( 76 days exactly ) Resulted in physical damage to covered item Was accidental in nature Required repair/replacement Documentation Provided Purchase receipt and credit card statement Pre-damage and post-damage photographs Video surveillance showing the incident Immediate damage report to merchant Technical assessment confirming irreparable damage Timeline of all communications Policy Violations XXXX XXXX XXXX handling of this claim violates fair claim practices by : -Failing to conduct reasonable investigation and dismissing clear evidence of accidental damage.\n\n-Misapplying policy terms and applying exclusions that don't match the facts -Providing inadequate explanation with generic denial language without specific policy citations -Refusing to engage in meaningful dialogue by sending duplicate denial letters instead of addressing concerns -Attempting to intimidate claimants with fraud warnings when presenting legitimate claims with comprehensive documentation"
+}

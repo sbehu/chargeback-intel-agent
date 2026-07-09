@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12012",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28412"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10360,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On our tv we tried to sign up for one month of the XXXX and we were charged for the annual fee {$200.00} on XX/XX/year> instead of the XXXX month {$19.00} fee. I disputed XXXX the charge with Citi and they investigated for several months and eventually came back and ruled against me. I called XXXX directly and explained what had happened and they agreed to refund the full {$200.00}. XXXX sent an email approval which I sent to Citi after Citi did not provide a simple way to send it. They eventually received it which XXXX has acknowledged they received it and still Citi still has not agreed to credit the refund to my account- I am still waiting. They continually say they ruled in merchants favor saying it is closed. I opened a new dispute # XXXX. All I seek is the credit the merchant has agreed to pay {$200.00}. I have sent multiple correspondence to Citi including the XXXX refund approval to no avail. I will attach multiple files showing various correspondence and especially the XXXX approval for my refund. This should have been taken care of in a week or 2 and now it has been months."
+}

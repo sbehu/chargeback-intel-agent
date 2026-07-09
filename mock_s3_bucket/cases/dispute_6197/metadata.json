@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6197",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48312"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9570,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We disputed a charge with the bank/Citi Bank and described the whole situation but what the company responded was clearly not about the case. \nThe reason of disputing the charge : We checked in a hotel on XX/XX/XXXX and checked out on XX/XX/XXXX. We're asked to pay {$55.00} resort fee and deposit. The morning when we're checking out, the hotel charged us {$610.00} in total for falsely accused us of smoking in the room as the smoke detector detected a smoking event while we've been non-smokers our whole life. Plus, we didn't hear any detector went off. The only thing we did in the room was taking a shower and sleeping. We confronted with the frontdesk and they simply asked us to dispute with the credit card or contact the manager but the manager never showed up nor returned the calls. We further looked at the XXXX reviews and XXXX complaints, finding many people experienced the same issue. This hotel is an absolute scam. Besides that, the hotel knew our flights back home was on that day so we couldn't afford keeping arguing with them or take any actions on the scene. \nThere's nothing we can do but filling a dispute with credit card company on XXXX XX/XX/XXXX after we saw the transaction has been posted, and they declined the dispute on XXXX XXXX, and we further emailed information/evidence on XXXX XXXX to re-open the case and they declined it again XXXX XXXX. The reason the credit card company gave was we didn't provide detailed explanation of what we expected versus what we actually received, and they refused to respond to any further inquires regarding this matter and suggested we contact the hotel directly. \nFirst of all, it's clearly shown in this transaction we expected to have a room to sleep during the night and what we received was a scam of hundreds of dollars and a dirty room. Secondly, the merchant/hotel has been doing this scam for many years and there's no way we can get in touch with them and they could never provide a resolution/refund. They've prepared everything to scam people. \n\nThe evidence we provided with the bank : XXXX  complaints and XXXX complaints from other customers who experienced the same thing, attempted interaction with the hotel and details about the situation."
+}

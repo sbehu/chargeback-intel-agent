@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4957",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "936XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46680,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I received a letter from XXXX and XXXX notifying me of an alert, which was a change of address on my credit report. The address that they had was XXXX XXXX XXXX, XXXX XXXX, FL XXXX. This is not my address and has never been my address. I called XXXX, and they told me I needed to talk to my Citi/AT & T card , who reported that change. I am part of XXXX and XXXX credit monitoring because I was notified of a data breach by AT & T where they offered me credit monitoring for free- this letter was dated XX/XX/XXXX. I called Citi/AT & T and inquired about the address change. I was told to wait for a letter or call from them to verify who I was. I asked if there was someone who had my information and changed my address because it was wrong. I don't live in Florida and never have. More than a week went by with no letter or call from Citi, so I called them. They told me to wait for the call and or letter from them to verify who I was and my information. I received a call from Citi/AT & T approximately two weeks later, and I was asked for basic information about my account. They also asked me if I knew that there was a data breach. They let me know that they would investigate the charges on my account. I asked my daughter to call Citi/AT & T with me a few weeks later, and we asked to verify all of the information on file. The address, email, telephone number, and work information were all incorrect. We updated that information and made sure that the card was closed and a new card was ordered to my correct address. The new card did not arrive for nearly a month. In that time, I noticed several charges on my statement and called to dispute them all. The woman I spoke to assured me that I was not responsible for the charges and would not be liable. I continued monitoring the statement and wrote a letter to the fraud department to follow up on the status. I received a letter from Citi/AT & T dated XX/XX/XXXX stating that the dispute was closed and that I was responsible for all charges. I called today, XX/XX/XXXX, and reopened the dispute. I was finally able to touch base with someone in the fraud department. Today, I asked for documentation about who changed my address, if a card was sent to that address they sent on file, and documentation that proves that I made these charges in person, as they are claiming. The representative said that everything would be sent to me and that someone would contact me. He also said that I do not need to make a payment. I don't believe that is true because my credit score is already being affected and has gone down. The balance has not been covered or credited, and I haven't made a payment. This is going to reflect horribly on my account and credit report. I have been a customer for decades, and it is my only credit card account. I never expected to be treated this way."
+}

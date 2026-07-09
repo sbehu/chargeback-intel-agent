@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12496",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "233XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35541,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Back in XXXX, I booked a hotel room with XXXX for {$340.00} and I also paid an additional {$15.00} for XXXX XXXX insurance that covered a stay protection plan ( Policy effective date of XX/XX/year> - XXXX -- policy number XXXX ) that covered my stay 100 % for unforeseen issues ( ie inclement weather ). That weekend the governor declared the state of Virginia under a state of emergency due to the horrendous weather. Therefore, my work event was cancelled. I then reached out to XXXX XXXX and they told me what to submit for reimbursement -- however, over the following weeks AND MONTHS no matter what I supplied to XXXX  XXXX insurance plan -- they did not compensate me for my loss. So I went to my Citi Bank Credit card -- -where I have been a loyal customer for over 18 years. I put in a dispute on XX/XX/XXXX and explained my situation. On XX/XX/XXXX Citibank contacted the XXXX. The merchant responded on XX/XX/XXXX and mainly sent them the XXXX booking that stated it was not refundable. BUT that is why I secured XXXX XXXX insurance to cover this cost of {$340.00} incase an unforeseen event happened. Hence the whole purpose of insurance!!! CitiBank then stated I ( the customer ) was responsible. So I reached out to Citibank again and supplied them the XXXX XXXX insurance plan and various other documents to show them the insurance I purchased and how I was covered. Then the dispute was reopened. And things went around and around again. I recently spoke to a customer rep of CitiBank and he mainly stated that XXXX XXXX might not even be a legit company. Bottom line -- CitiBank should remove this charge of {$340.00} whether XXXX XXXX is or is not a legitimate company. Also what is the purpose of the Consumer Protection Bureau if not to enforce unethical practices like this? Citibank should cover fraud like this an unscrupulous business practices from companies like XXXX XXXX. AND the CFPB should Stop XXXX XXXX business if they are not going to honor their contracts. This has been XXXX of the worse fraudulent activities Ive experienced and by googling XXXX XXXX it appears they have had numerous complaints. What does it take to make things right?? XXXX should also be held accountable if they are endorsing this insurance too!!"
+}

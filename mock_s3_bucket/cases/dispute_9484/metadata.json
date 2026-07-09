@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9484",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33312"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4734,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rented a car last XX/XX/XXXX, on my vacation time with a family travel to XXXX in XXXX XXXXXXXX XXXX. At the moment of the rent we did 2 transactions, the first one for the payment of the car rent and the second one for a pre-authorization ( warranty ) of the amount of {$7200.00} soles ( Peruvian currency ) in case the car would have an accident or any damaged so the merchant could get the money from there. According with the contract that transaction ( the second one ) will refund after 45 days of the day of the return of the car rented. I returned the car rented on XX/XX/XXXX. They sent me an e-mail on XX/XX/XXXX, confirming the everything was OK with the car rented and with the refund, so I uploaded this document but for American Express I think its not enough. I contacted the merchant letting them know about this situation too many times since last XX/XX/XXXX, until now. The only way I can contact the merchant is XXXX text messages. I did the transactions in the office so the people working there knows about my case and the address and phone number are in the contract that I uploaded last XX/XX/XXXX. American Express is investigating with merchant corporate office because I received a letter with my signature saying that both charges are Ok, but the second transaction was supposed to be a pre-authorization charge ( warranty-hold ). I have been disputing this transaction because I never spent that money. I uploaded all documents I have for that car rent there is no other documentation beside this letter. Few days later I called customer service about the dispute, they told me that it was closed because in the invoice description said LAPTOP GIGABYTE XXXX UHD so the description no match with the car rent I was claiming so I called again the merchant and let them know about this mistake so the merchant fixed the invoice for me and then provided it to American Express. After that American Express took the time to investigate the new fixed invoice. Again, American Express closed the dispute. \nI am tired of this situation going to merchant and American Express back and forth several times, I also travelled to XXXX last XX/XX/XXXX to fix this issue personally."
+}

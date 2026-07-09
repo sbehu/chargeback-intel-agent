@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6010",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4648,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is an ongoing dispute about a refund of {$66.00}, - from XXXX. After filing a complaint with the DOT, XXXX provided an ARN number : XXXX When I called Barclays they stated that this number doesnt exist in their system. When contacting XXXX again, they stated that I should get this in writing from Barclays. I called Barclays again on XXXXXXXX XXXX XXXX and their representative confirmed that they would send me a letter confirming that the above ARN does not exist in their system. Until today I have not received the promised letter or an email from Barclays in regards to this ARN. I advised XXXX to get in touch with Barclays directly to confirm since this was the so called XXXX XXXX and More credit card but it appears that there is no interest from either party to resolve this issue. It is possible that Barclays is trying to cover up that the {$66.00} were refunded but not credited to my account."
+}

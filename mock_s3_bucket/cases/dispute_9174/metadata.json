@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9174",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19146"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2218,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A charge for {$900.00} from XXXX XXXX appeared on my Citi card. I never authorized this charge. I notified Citi the day after the fraudulent charge appeared. I have spoken with them many times, but the charge has not been removed from my account."
+}

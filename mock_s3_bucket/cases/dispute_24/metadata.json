@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_24",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11229"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7951,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My credit card information was used to make payments at a hotel on another state. I disputed the charge over 60 days ago. Citibank provided receipts of the transaction showing a name of another person that I do not know. I contacted Citibak stating that I was not the person on the transaction receipt and do not know who the person named in the receipt is. A person named XXXX XXXX is on all the receipts. I have never met nor do I presently know who this person is."
+}

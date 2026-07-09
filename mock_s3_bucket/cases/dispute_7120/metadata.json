@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7120",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75071"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1230,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased some merchandise form XXXX XXXX on or around XXXX of last year. I returned the merchandise and only got partial refund. I have been trying to reach American Express and XXXX XXXX for months they are telling me to much time has lapsed but I am still on the hook for this purchase but dont have the product."
+}

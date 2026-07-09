@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7115",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85257"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 741,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was pressured and misled by a merchant in XXXX into a transaction for a vastly inflated amount. I did not consent to the final amount charged ( XXXX ), and American Express refused to support me despite the clear coercion and deceptive behavior by the merchant. This was a targeted scam. I am requesting the charge be removed and the dispute reopened."
+}

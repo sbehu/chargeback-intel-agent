@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5376",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47538,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because American Express has failed to protect me as a cardholder in a prolonged dispute with a fraudulent merchant, XXXX. On XX/XX/year>2022, I purchased travel tickets through XXXX for my family, totaling {$6100.00}. Unfortunately, due to significant issues during the flight that jeopardized my familys health and refusal of travel agency and airline to rectify, my children became sick, and we were unable to attend the wedding we had planned to travel for. \n\nXXXX promised XXXX alternative travel arrangements and a full refund, but they never lived up to that promise. Despite numerous attempts to contact them, XXXX has refused to respond or honor their commitment. This behavior is deceitful and fraudulent. \n\nI immediately reported the situation to American Express and provided extensive documentation, including communications with Oojo.com and evidence of the merchants failure to deliver on their promises. Initially, American Express assured me that they would fight for me and that I would not be held responsible for this charge. \n\nHowever, more than two years have passed, and I have had to reopen this dispute multiple times. Each time, American Express has failed to resolve the matter despite the overwhelming evidence in my favor. This ongoing failure has caused me significant distress and financial hardship. \n\nAs a long-time cardholder, I am deeply disappointed by American Expresss lack of action and unwillingness to protect me from a fraudulent merchant. I am requesting the Consumer Financial Protection Bureau 's assistance in ensuring that American Express properly investigates this case, holds Oojo.com accountable, and refunds the full amount of {$6100.00}."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7024",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3431"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23227,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Please refer to my previous complaint # XXXX. Citi credit card company is refusing to assist me with rectifying an underhanded charge to my account by XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX through XXXX was was their agent. As I explained in my previous complaint, after landing in the airport in XXXX XXXX, my wife and I were shuttled by XXXX to a remote location and dropped off. The XXXX agent refused to honor our rental agreement which had been setup by XXXX. We were trapped at this location by XXXX and coerced in to signing a tremendously inflated rental agreement. I am XXXX XXXX XXXX. We had no other option. It was disgraceful. I expect Citi to rectify this injustice and refund the {$330.00} which is the overcharge XXXX forced me to pay. All of the supporting documents regarding this matter have been submitted to XXXX, several times, and to CFPB as part of the previous complaint. Citi is refusing to rectify this overcharge. Instead, they are supporting this corrupt behavior by XXXX. \n\nAll of the supporting documents regarding this matter have already been submitted."
+}

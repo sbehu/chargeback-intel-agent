@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7854",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91710"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9761,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I found a phone number through XXXX that claimed to be a free consultation line for the XXXX and XXXX regarding flight inquiries. I called the number to ask about my fathers flight. During the call, the person on the line told me that my fathers flight had been canceled and claimed that since I had not confirmed it, the cancellation was final. They said I needed to make a new payment to rebook the ticket. \n\nBelieving this was legitimate, I provided my bank card information. However, I quickly realized that I had been scammed. As soon as I discovered this, I immediately filed a dispute online and also contacted the bank by phone to report the fraud. \n\nToday, I received an email from the bank stating that I would have to take full responsibility for the charge. I do not understand this decision. I reported the fraud right away and expected the bank to stop the transaction or at least protect me from the loss. Instead, I am being told that I must bear the cost myself. \n\nI am extremely dissatisfied with this outcome and request a clear explanation of why the bank did not intercept the fraudulent charge despite my immediate reporting, and why I am being held responsible for a situation that was clearly a scam."
+}

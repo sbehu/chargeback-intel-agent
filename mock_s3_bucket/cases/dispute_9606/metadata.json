@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9606",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "770XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42070,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Citibank Product : XXXX XXXX Credit Card Issue : Billing Dispute/Unauthorized Charge Amount : {$640.00} Im filing this complaint regarding Citis mishandling of an unauthorized credit card transaction and improper application of interest, in violation of the Fair Credit Billing Act ( FCBA ) On XX/XX/XXXX, a {$640.00} charge was posted in my credit card after multiple declined transactions and alert fraud. \nThe first amount transaction was declined {$350.00} in a liquor store The second amount transaction was in a gas station for {$1.00} The third amount transaction was {$940.00} in liquor store. \nThe last transaction was {$640.00} in a XXXX. \nAll clear indicator of fraud ( card cloning ) The bank send me notification and alerts through CitiBank app and I didnt recognize the transactions in app. Immediately making a dispute transaction. \n\nCiti contact me for investigation, after few days Citi closed my dispute stating only that the XXXX chip was used and that I confirmed my card was in my possession. Citi did not provide proof of authorization, such a signature, PIN verification or any other form of cardholder authentication. \n\nUnder de FCBA, the use of an XXXX chip alone does not constitute proof that the cardholder authorized the transaction. \n\nAdditionally Citi improperly charged interest and fees on the dispute amount."
+}

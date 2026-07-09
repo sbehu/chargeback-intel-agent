@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3226",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "920XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35754,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Items were purchased on a business American Express credit card that were never delivered. I am the XXXX  for the credit card holder, XXXX XXXX XXXX XXXX The original charge was on XX/XX/XXXX for {$70000.00}. The vendor for the purchase was XXXX XXXX XXXX which subsequent to the purchase filed for XXXX  XXXX bankruptcy. The anticipated deleiver date of the items purchase was XX/XX/XXXX. In XX/XX/XXXX we learned that XXXX was having financial difficulties. We asked that the item we purchased be delivered. In XX/XX/XXXX we disputed the original charge with American Express. They began an investigation of the issue. After several months, on XX/XX/XXXX during a phone conversation with XXXX ( AMEX employee ID number XXXX ), a customer service supervisor, I was informed that AMEX would not be crediting our account for the amount, claiming that XXXX provided information that the items had been delivered. I have requested the documentation AMEX says that XXXX provided the information but have not received it."
+}

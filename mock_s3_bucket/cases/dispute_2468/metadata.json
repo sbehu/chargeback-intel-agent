@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2468",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "334XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31518,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a new case resulting in an unsatisfied decision ruled against me. The prior case number is XXXX. \nTo whom it may concern. I am writing to bring to your attention a concerning issue regarding an unauthorized Charge on my Home Depot charge card on the dates XXXX XXXX XXXX XXXX XX/XX/XXXX. Home Depot Credit Services sent me a billing statement that I received on Saturday XXXX XXXX XXXX for {$1700.00}. XXXX that I did not authorize or recognize. After a careful review of my records, I can confidently confirm that I did not make these purchases. This unauthorized charge has caused me significant distress and inconvenience. Enclosed are copies of my Home Depot statements highlighting the unauthorized charges as well as other relevant documentation. Additionally, I have contacted Home Depot 's customer service department to report this issue upon receiving this billing statement. I spoke to a Home Depot agent about the bill and when I filed the dispute on XX/XX/XXXX case number XXXX. The agent explained to me the charges were refunded back to my account on XX/XX/XXXX and XX/XX/XXXX. and charged back to my account on XX/XX/XXXX, when I asked the agent why this happened she said she didn't know and advised me to contact XXXX for information concerning these charges. I contacted XXXX, the agent checked my credit card for charges that may have been made on my Homedepot credit card XXXX she informed me there have been no charges made to my credit card. The agent told me after she checked the dates of the purchases, unfortunately for me, she could not divulge any information because the purchases were not linked to my account and are protected by HIPAA laws, However, after I explained to her the importance of me knowing so I wouldnt have to pay for items charged to me that I didnt make, she reluctantly gave me the order numbers for the items, but did not tell me what the items are or the person who made the purchased. or where they were delivered. The item order numbers are XXXX {$110.00} XXXX {$160.00} XXXX {$110.00} XXXX XXXX XXXX {$300.00} At that point, I asked if she would tell me if the items were charged with my credit card ending in XXXX, and she said no. I asked if they were sent to my address XXXX XXXX XXXX XXXX XXXX XXXX Florida, postal code XXXX, and she said no. The agent would not give me a name, address, or anything more. As I stated above the HIPAA Laws do not allow her to give out that information I contacted Home Depot Security Operations on Monday XX/XX/XXXX Telephone Number XXXX for a full in-depth explanation regarding the charges and the sequence of events. I asked the agent why they did not look at the tracking numbers to see where these items were delivered. The agent said they would re-open the case for further review. As you can see the credit card that I possess has the ending number XXXX, you can also see this when looking at the billing statement sent to me that the charges were made to credit cards ending in ( XXXX ) and card ( XXXX ) which I do not have and never did have. Surely one would think and say if these cards were never in my possession how and why would Home Depot think I am responsible for these charges? I kindly request that your office kindly investigate this matter and take appropriate action to rectify the situation. I also urge you to ensure measures are put in place to prevent similar incidents from occurring in the future to protect consumers like myself. Please feel free to contact me at XXXX XXXX If you require any further information or assistance regarding this matter. Thank you for your attention to this issue, I look forward to a prompt resolution. Sincerely XXXX XXXX"
+}

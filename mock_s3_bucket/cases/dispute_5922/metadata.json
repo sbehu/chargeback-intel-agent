@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5922",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2169"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8310,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was scammed by a taxi driver in XXXX. I needed to get to a different terminal than the one I was at. About a XXXX XXXX XXXX. They told me it was going to cost XXXX pesos and they charged one of my card XXXX pesos and told me it was declined and then charged my second card XXXX pesos. Once i saw the charge was higher than the {$17.00} conversion rate I found online i submitted a dispute. I have been going back and forth with Barclays since XXXX as thats the card that was charged XXXX pesos and i explained what happened and also submitted proof that my other card was charged. They have declined the claim 3 times and I am frustrated and dont know what else to do. There is no way I took a taxi ride worth {$170.00} when I was already at the airport. Its literally impossible. I told them to just charge me the {$17.00} instead since thats what i agreed to. XXXX pesos not XXXX pesos. And they still declined the claim saying I dont have enough proof. The 3 separate charges for the same ride isnt proof??? Obviously the scammers did different amounts to trick the system. I even showed them the receipt the taxi gave me that said the XXXX was declined to show the original charge was XXXX. I dont know how they were able to give me a declined receipt when they charged my card 3 times. Im having to pay over {$400.00} because of thieves in XXXX. And Im pretty sure the banks know about the scam and are just unwilling to help. I am at my wits end so Im reporting them for not doing their part to get my money back. I submitted all the proof. Its impossible to take a taxi for that cost when I was at the airport."
+}

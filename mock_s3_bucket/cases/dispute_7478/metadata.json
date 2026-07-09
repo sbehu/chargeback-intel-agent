@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7478",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21012"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36705,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I gave permission to my son to use my American Express credit card. My wife and my son both received a test message from Maryland State toll administration, which turns out is a large scam in our state. My son did owe back tolls with the state and wanted to resolve the issue and entered the American Express card number in several times. My credit card was then compromised and all the information was stolen in a matter of seconds. I had over {$4000.00} in fraudulent charges because of this scam and American Express has denied any responsible and stated that we volunteered and entered the information in the text message. We have resubmitted 4 separate disputes and reused to help us in anyway. We have paid the entire account in full and closed our account after over 45 years of being a local an devoted customer. \n\nMy wife is an authorized user and did submit a formal complaint and we were told to contact XXXX  because they wouldn't respond to her an I am primary on the account, I called and they said we can't help you with that. \nCase # XXXX It as become personal with American Express and they will to talk to us concerning this issue."
+}

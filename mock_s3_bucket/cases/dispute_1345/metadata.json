@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1345",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "IL",
+    "complaint_zip": "60640"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46575,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a follow up from a previous complaint that is listed as closed with feedback, but the response did not actually deal with the majority of the complaint, and apparently there is no requirement for them to do so. \n\nMy initial complaint was about an AmEx dispute with XXXX XXXX where I had been offered an upgrade for a flight, only to be told after a \" no refund '' purchase that it only applied to one  leg. AmEx alleged they disputed the charge, and yet when I repeatedly demonstrated that the response from the airline did not actually provide evidence contrary to what I said, AmEx took the view that the airline was their customer too, and acted to protect that relationship. Looking back, they probably knew that the regulatory mechanisms to hold them accountable were a joke and acted accordingly. \n\nI subsequently gained further information from the airline wherein it is clear that AmEx did not provide them with pertinent details of my dispute. So in addition to accepting a response that did not actually address the dispute, it turns out they didn't even try to investigate the dispute properly from the start. They sent a generic reasoning to the vendor, without outlining that my complaint was specifically relating to being offered an upgrade for the whole flight and receiving only one leg of the flight. It is fairly clear that what they send to the vendor is generic, but if they didn't even provide this information from the start, how are they then saying that the vendor response has adequately dealt with this? And at what point is the CFPB going to actually refer this to the OCC for proper investigation? If a credit card company is very clearly just going through the motions of a legal obligation rather than actually following it and there is no accountability from a regulator, why would they stop?"
+}

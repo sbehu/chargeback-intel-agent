@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4281",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53217"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20160,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An item was purchased on XXXX and American Express credit card was charged for {$260.00} on XX/XX/2024. The seller on XXXX supplied a fake tracking number and fake proof from XXXX as if the item was delivered. I have account with XXXX  but it have never contacted me for upcoming delivery of the item. The proof didn't show my name or the street address ; the picture on the proof didn't match my house. I called and checked on the XXXX website and the name of the recipient for the supplied tracking number didn't match mine. \n\nI disputed the charge with American Express card but the request for refund was denied on the grounds that the proof was supplied. I called and opened up the dispute again explaining the representative that the picture of the house on the proof is not mine ( they can do a XXXX street view verification ) and the recipient name for the tracking numbers was not mine. I offered AmEX representatives to call the XXXX  by themselves as they have the tracking number supplied as a part of the proof request. AmEx representatives fully ignored the fact that the proof was fake and kept requesting further evidence that the item was not delivered which is absolutely not feasible. I decided to cancel the card."
+}

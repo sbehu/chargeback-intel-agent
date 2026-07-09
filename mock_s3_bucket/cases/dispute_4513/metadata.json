@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4513",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60123"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19811,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been fighting with My Best Buy XXXX card for close to a year. I had close to XXXX XXXX dollars in fraudulent charges from stollen card numbers. \nI had XXXX number when this started and have been fighting to fix my credit, and was given a new card number On XX/XX/XXXX I paid off card On XX/XX/XXXX I paid off card On XX/XX/XXXX I paid off card On XX/XX/XXXX I paid off card On or about XX/XX/XXXX I received a letter from Best Buy stating they reversed the unauthorized charges and if I did not hear back from them in 90 days this process would be permanent. This is XX/XX/XXXX and I did not receive another letter to this regard. \nOn or about XX/XX/XXXX I received a letter from Best Buy stating they closed my account and are sending information to the XXXX credit bureaus. Continue making payments, What payments? \nOn XX/XX/XXXX Paid off card again, they removed late fee, and account closed. \nOn or about XX/XX/XXXX another letter from CITI bank, stating my account was past due and even though my account is closed I need to make payments. AGAIN this was paid-off on XX/XX/XXXX. I replied on XX/XX/XXXX at XXXX, tried calling XXXX times and could not get past the computer. \nOn or about XX/XX/XXXX I received a letter from CITI//Best Buy stating my account was past due and even though the card is closed I still have to pay off. I called back a spoke with XXXX XXXX who had removed the {$69.00} charge. \nI received a statement XX/XX/XXXX for another late fee {$29.00} plus {$1.00} interest charge stating I have a past due {$20.00} and a late fee charge {$30.00}, balance is {$59.00}. \nXX/XX/XXXX Called Citi bank spoke with XXXX who transferred me to XXXX who told me I had a XXXX balance and to call back in seven days to verify. 9 days later called back got XXXX who transferred me to XXXX in security dept, disconnected?? On XX/XX/XXXX spoke with XXXX. \non or about XX/XX/XXXX paid another {$29.00} to Best Buy On or about XX/XX/XXXX received another bill ( XXXX ) for {$99.00}, just ignored. \nOn or about XX/XX/XXXX I received another bill for {$60.00}. I called an spoke with XXXX. I told her the account was closed and she reversed the {$60.00}. Should be XXXX On or about XX/XX/XXXX received another bill for {$100.00}. \nLastly heard they now say I owe over {$500.00}"
+}

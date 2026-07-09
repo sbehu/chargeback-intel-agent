@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10585",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CT",
+    "complaint_zip": "067XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45105,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint because Citibank has engaged in what appears to be a pattern and practice of obstructing the consumer dispute process by asserting that additional information is required while failing to provide the required notice or correspondence identifying what information is needed. \n\nCitibank has represented that it needs more information from me in order to proceed with my credit-card dispute. However, no such letter, notice, or request exists in my account records, online portal, or correspondence history, nor was any such notice received by mail or electronically. Citibank has been unable or unwilling to produce the alleged correspondence upon request. \n\nThis conduct places the consumer in an impossible positionCitibank asserts non-compliance while simultaneously withholding or failing to generate the very notice required for compliance. This appears to be a systemic failure in Citibanks dispute-handling, recordkeeping, and consumer notification processes, rather than an isolated incident.\n\nThe practical effect of this pattern and practice is to delay, deny, or discourage legitimate disputes by creating artificial procedural barriers, while shifting blame to the consumer for not responding to a notice that was never provided. Such conduct undermines the purpose of the Fair Credit Billing Act and related consumer-protection requirements. \n\nDespite repeated efforts to obtain clarification, Citibank has not identified the specific information allegedly requested, nor produced evidence that proper notice was ever issued. As a result, I have been deprived of a meaningful opportunity to respond, cure, or participate in the dispute process."
+}

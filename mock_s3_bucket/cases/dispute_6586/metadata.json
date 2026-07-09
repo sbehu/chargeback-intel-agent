@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6586",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96826"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20109,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a hotel with my Citibank visa card XX/XX/year>. I cancelled within three minutes of the booking when I realized that was a mistake. I got a cancellation letter from the merchant right away in the same day. The hotel was for XXXX. I didnt see a refund to my account so I contacted Citibank XX/XX/year>. They didnt ask any supporting documents and just tell me to wait. I just got a denial letter from them stating the merchant has a Non- refundable policy. I didnt understand that. They didnt stated clearly on the cancellation letter."
+}

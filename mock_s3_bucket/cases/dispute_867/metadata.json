@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_867",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "604XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43171,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was a victim of identity theft in XXXX of this year.I placed a security freeze on my credit report as a result. there was a fraudalent purchase made on my credit card on XX/XX/XXXX at XXXX. the purchase was made at the same time on XX/XX/XXXX I was present at work at that actual time.I called the credit card company and disputed the charges. the credit card company contacted me on XX/XX/XXXX to inform me that their investigation for the disputed charges was not in my favor and i will be rebilled for the charges on my credit card account.the credit card company did not ask for documents during their investigation until after XX/XX/XXXX when they denied my disputed charges. i provided documents to the credit card company and waiting to hear back regarding my documents."
+}

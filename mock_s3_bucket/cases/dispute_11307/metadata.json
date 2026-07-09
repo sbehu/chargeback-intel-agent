@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11307",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21222"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 711,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have 2 Citicard 's one XXXX  and a XXXX XXXX  card. \n\nThe XXXX card has {$490.00} in fraudulent charges from XX/XX/XXXX through XX/XX/XXXX plus surcharge and late fees the balance is XXXX On the XXXX XXXX card {$880.00} in fraudulent charges from XX/XX/XXXX through XX/XX/XXXX. I paid on the credit card because they were asking for payment, so the balance is {$480.00}. \n\nThis company keeps calling and sending email for payments on these two accounts I am asking them to resolve the fraud charges since XXXX. They are making excuses about investigating the charges.\n\nThis has but a back mark on my credit report. I need someone to push them to clear these charges and bring my credit up to date. I no longer carry a citibank card. They have been destroyed. Thank you for your help."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_555",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "282XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40200,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Several times over the past month my credit card from Citi has been charged by a single merchant XXXX XXXX XXXX XXXX XXXX XXXX XXXX Each time the charge is for XXXX Each time this charge occurred I received a text asking me if I made this charge. Each time I replied no. Each time they require me to cancel my card and send me a new one. Each time this happens, it requires hours of work on my part to re-enter my credit card information into all the merchants that I'm using online. I have even gone so far as to create a number of virtual credit card accounts, so that I'm not putting my actual credit card number on line. One of these accounts was charged, not my actual credit card number. There were only three merchants attached to that virtual account number. I requested that I be able to turn off that one virtual number, rather than having to redo everything again. I have also asked Citi to block this one merchant, so I do not continue to have to do everything that I am having to do; however, this is to no avail. What I would like, is to completely cancel this particular credit card, have my yearly membership fee refunded (paid on XXXX and then reapply for a new card with the same company at which point, I would be glad to pay the fee again. I just don't want to pay it twice for something that seems to be simple to fix."
+}

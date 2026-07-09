@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7267",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33185"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36410,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>XXXX  I purchased two cell phones from XXXX online for myself and a relative. I did not like the device I intended to keep for myself so I returned it without issue. The other device intended for a relatives gift needed to be returned too and I contacted XXXX via live chat on XX/XX/year> to which their representative approved a return request and asked me to patiently wait for a return label to be sent via e-mail. Days pass and there is no update so I chat again and am told not to worry that my request would be escalated and to wait another few days to get the label via e-mail. Fast forward to today, months have passed and I have escalated the issue to XXXX but still no resolution despite having written proof of an approved return request, and to not ship the device back by other means, only with a provided label. Due to no help from XXXX I open a dispute with Citi Bank and at first they investigate the transaction but later say that I am responsible despite me having proof of an approved return request. I later send them proof of my communications with XXXX and they respond that they are unable to further investigate because XXXX does not want to give credit. That is unacceptable. When I have an issue with a merchant it's the credit card company 's job to step in and help their customer, not stonewall me and tell me there's nothing they can do to help me especially when my complaint is valid."
+}

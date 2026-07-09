@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2004",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33178"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-30T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1090,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX an unknown transaction of XXXX was charged to my Citibank NA Costco card for a charge in the Costco Facility. On XX/XX/XXXX is when I noticed the charged and filed a fraud claim. XX/XX/XXXX the denied my claim, reasons because I still had the card in my possession, an authorized charge of XXXX was conducted moments prior in the same facility. I never purchased or utilized or authorized my card for a transaction of XXXX, never received confirmation or receipt, product or service. My usual charges in the card never exceeds $ XXXX ( 5 plus years ), lady on the phone rudely mentioned to escalate as necessary."
+}

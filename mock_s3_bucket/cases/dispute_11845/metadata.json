@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11845",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27529"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37110,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank for refusing to investigate an unauthorized duplicate charge, despite my having documentary evidence that the charge is fraudulent, and after Citibank 's own representatives instructed me to delay filing. \nBackground Prior Related Dispute ( Same Vendor/Location ) I previously filed a CFPB complaint regarding charges from XXXX XXXX XXXX, XXXX, XXXX a merchant operating in the same commercial complex ( XXXX XXXX XXXX, XXXX XXXX, XXXX XXXX as the merchant in this complaint. Citibank issued conditional credits on those disputes and subsequently reversed them. I am noting this because both disputes involve the same merchant building and represent a pattern of unauthorized charges from that location. \nCurrent Dispute XXXX XXXX XXXX XXXX XXXXXXXX On XX/XX/XXXX, XXXX charges from XXXX XXXX XXXXXXXX XXXX IN posted to my Citibank account : {$330.00} legitimate charge {$860.00} unauthorized, no goods or services received I have XXXX documents that together prove the {$860.00} charge is fraudulent : Original vendor receipt ( Order No. XXXX, dated XX/XX/XXXX ) confirms XXXX item purchased : XXXX handmade/hand-knotted wool carpet, XXXX, XXXX  design, for XXXX XXXX, payment marked \" Paid in Full '' XXXX shipping receipt confirms delivery of one shipment valued at {$330.00}, consistent with the XXXX purchase price at prevailing exchange rates Citibank statement shows both charges on the same date from the same merchant The XXXX receipt conclusively establishes that only one item was shipped and delivered. There is no second item, no second shipment, and no authorization for the {$860.00} charge. \nCitibank Instructed Me to Wait Before Disputing When I first identified the {$860.00} discrepancy, I contacted Citibank and was advised by their representatives to wait until the item was delivered before filing a dispute, as this involved international shipping. I complied with Citibank 's instructions. The item arrived in late XXXX XX/XX/XXXX. I contacted Citibank promptly after delivery to file the dispute. \nCitibank is now refusing to investigate, citing their internal dispute window a window that only lapsed because I followed Citibank 's own instructions to wait. Allowing Citibank to use a deadline against me that their own representatives caused me to miss is fundamentally unjust and constitutes an improper denial. \n\nLegal Basis Equitable Tolling The dispute window must be tolled from the date Citibank instructed me to delay filing. A creditor can not direct a consumer to take no action and then weaponize that inaction as grounds for denial. \nTILA 1643 ( 15 U.S.C. 1643 ) The {$860.00} was never authorized. Unauthorized charge protections under TILA are not subject to the same rigid 60-day window that applies to billing errors under the FCBA."
+}

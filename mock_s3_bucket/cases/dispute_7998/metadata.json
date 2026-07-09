@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7998",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46368"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16172,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hotel wrongly charged me for a stay that I was not at. Citi card just closed the dispute and told me to work out with the hotel."
+}

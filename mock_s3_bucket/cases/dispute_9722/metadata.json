@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9722",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30339"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36191,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "What happened On XX/XX/XXXX, I purchased a gold chain necklace from the Macys Jewelry Department at XXXX XXXX in XXXX, Georgia, using my Macys American Express card. \n\nItem description at purchase : Precious metal gold chain Purchase price : {$1300.00} Sales tax : {$79.00} Total charged : {$1400.00} On XX/XX/XXXX, the necklace was given to the intended recipient. The chain failed immediately during initial wear under normal conditions, with a link separating near the clasp. \n\nThat same evening, I returned to the same Macys jewelry department with : The damaged necklace The original receipt The original tag ( not attached to the item ) The jewelry associate declined the return, stating that a return could not be accepted unless the tag was physically attached to the necklace, despite the original tag and receipt being present. The associate advised that the only available option was to purchase a protection/insurance plan after the failure, send the item out for repair, and that a return might be considered afterward. No return, replacement, or repair was offered without additional cost. \n\nThis requirement to purchase insurance after the failure was not disclosed at the time of purchase. \n\nBecause the merchant declined to provide a return, replacement, or repair for merchandise that failed immediately, I filed a dispute with Citibank on XX/XX/XXXX. \n\nOn XX/XX/XXXX, Citibank denied the dispute, stating that no billing error had occurred. The denial did not address : The defective condition of the merchandise The immediate failure under normal use The merchants refusal to provide a remedy The dispute appears to have been evaluated solely under a billing error standard rather than as a defective merchandise dispute. \n\nAfter receiving the denial, I reviewed the product listing on Macys website and observed numerous customer reviews describing similar failures, including chains breaking within days of purchase and concerns regarding fragility and construction. This demonstrates a documented pattern of early failure for this product, which was not considered during Citibanks dispute review.\n\nAs a result, I remain responsible for a charge involving defective merchandise for which the merchant did not provide a return, replacement, or repair. \n\nI am requesting that Citibank reopen the dispute, properly classify it as a defective merchandise dispute, and conduct a substantive review of the merchants refusal to remedy the issue."
+}

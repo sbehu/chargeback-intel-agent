@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8418",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43292,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Sunday, XX/XX/XXXX, I took my XXXXXX/XX/XXXXXXXX to XXXX in XXXX XXXX, California for a screen repair. I was verbally told that I would receive an XXXX screen for ( I paid {$240.00} for this ), but the shop installed an XX/XX/XXXXscreen instead. After the repair, my phone began overheating and the front camera became misaligned. Because of this, I had to take my phone to XXXX the same day to have it properly repaired ( this cost {$410.00} ), resulting in me paying twice for a screen replacement. The repair shop provided poor service and caused damage to my device, so I did not feel comfortable returning to them for any further work. \n\nI filed a dispute with Citi Bank for the repair charge, but it was denied based on a signed receipt. Citi Bank did not appear to thoroughly review the situation. I later discovered that other customers have reported similar issues with this company in recent XXXX reviews. I sent these in as well as my repair details from XXXX to Citi Bank and was subsequently denied and informed to report my issue to the CFPB."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3912",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "19802"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44147,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "RE : Citi 's Response to Complaint ID # XXXX : Wayfair 's lack of response : It is quite clear in Citi 's response that the information submitted regarding the duplicate shipment activity that there may be communication issues that need clarification. Citi appears to have completely ignored the information that I sent and based their respo9nse on the feedback from Wayfair which may include incomplete documentation ; for example XXXX. Citi stated that the dispute date was XX/XX/XXXX when the actual date of dispute is XX/XX/XXXX. Citi also noted that Wayfair did not have a record of a returned order, but did not indicate whether the Fed Ex documents that I included in my first complaint along with my fax documents sent to them XXXXXX/XX/XXXX were reviewed or acknowledged. For the record, the shipment was received by Wayfair on XX/XX/XXXX. To that end, I am attaching documents that detail shipping and return activity with Fed Ex, Payment activity from my bank ( no Wayfair card should have been charged as the transaction was paid with the use of my personal bank account ) ; and most importantly any and all communication and information that explains in detail the documentation that triggered the reconciliation of the dispute ( also includes instructions from Wayfair for returning the items."
+}

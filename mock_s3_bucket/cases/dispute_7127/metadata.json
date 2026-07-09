@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7127",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "324XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20297,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted the credit card company on XXXX after noticing charges that weren't mine. I was told they would take care of it and send me a new card. I called again on XXXX as there were more charges that weren't mine. I was asked if I had added anyone to my account which I hadn't. I then find out someone called in added themselves to my card, changed my address and email and they allowed it without calling me or texting me to see if this was correct. I reached out again today, XXXX as the charges are still on the account and someone trying to charge more today. How do you allow someone to call and change a person 's account and NEVER reach out to confirm. I am in FL and these people are in WI. I want those charges removed and I want the account completely closed as I will not do business with this company any longer."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2850",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "150XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21004,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX a fraudulent charge was made on my Home Depot credit card for {$3500.00} I contacted the company to file fraudulent charge on XX/XX/XXXX. On XX/XX/XXXX I received a letter stating that I was found to be responsible for the charges. I again disputed the charge On XX/XX/XXXX they asked me to fax drivers license to them which i did and they claim to never receive it although i have proof of transmission. I then mailed this proof along with my wife 's license and signature and again they claim they didn't receive it. On XX/XX/XXXX they claimed again I'm responsible for fraudulent charges. On XX/XX/XXXX I filed a fraudulent charges police report and submitted it to the credit card company. I was in contact with the company several more times to check on status and was always told it was still under review. On XX/XX/XXXX i was again told they didn't receive my drivers license information and I again faxed it to them again on XX/XX/XXXX. I received 3 more letters from company stating I'm responsible for the fraudulent charges and also received 2 letters stating that attorney placement is pending. Every time i called there the story about the charge changed and they always asked me the same questions over and over. According to the credit card company an increase in credit was requested days before the charge was made which again I did not request and they allowed .I asked them to check video surveillance which was denied. I have been cooperating fully to try and resolve this but they are still finding me responsible for this fraudulent charge."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4529",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8079,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "1. I ordered a water bottle from XXXX XXXX. \n2. It was defective, and I requested to return it on XX/XX/year>. \n3. After a copious number of back-and-forth exchanges with the company, I eventually was able to get a return label and mail back the water bottle. Tracking information shows that it was received.\n\n4. Many months have passed, and this has still not been refunded. I submitted a dispute on Citi 's portal and was originally granted a refund pending an \" investigation. '' 5.I am LIVID that despite copious evidence that this has been returned and the company IN WRITING emailing me asking me to withdraw the dispute, saying that they would rather just process it on the side and acknowledge that they have received it, Citi Bank has recharged a temporary refund to my account without cause. \n\nThis is completely unacceptable and, at this point, a fraudulent charge. I have provided copies of my email exchanges with the comapny."
+}

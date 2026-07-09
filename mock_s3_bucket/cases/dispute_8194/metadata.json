@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8194",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94605"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48676,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been a XXXX and Citi Bank customer for a long time and every time when I made a reservation XXXX sent me a confirmation email for the reservation I made every time. I tried to make a reservation on XX/XX/XXXX to stay at the XXXX XXXX XXXX in XXXX and I never received a confirmation email from XXXX or XXXX XXXX XXXX  and I had to make another reservation on XX/XX/XXXX once I arrived at premise since I never received a confirmation email on XX/XX/XXXX. I have attached a snapshot of the confirmation email reservation that I made on XX/XX/XXXX that they sent, and I never received a confirmation email for XX/XX/XXXX. \nWhen I went to hotel to check-in, to my dismay I was told by the Hotel rep that I had another reservation on XX/XX/XXXX that I didnt show up. I tried to explain that I never received a confirmation email from XXXX or XXXX XXXX XXXX  and they are not willing to refund the money or issue hotel credit for a future date. \nI kindly request that Citi Bank helped me to recover money from XXXX or XXXX XXXX hotel since I stayed there only once and they charged me twice. XXXX sent me only one conformation email"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9356",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37008,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Credit card company incorrectly denied my fraud claim and refuses to remove unauthorized charges. \n\nNarrative : I am filing a complaint because Citibank has incorrectly denied my fraud claim for multiple unauthorized charges made in XXXX, XXXX on my Citicard. These charges were absolutely not made by me. \n\nMy card was lost or stolen while I was in XXXX. I did not realize the card was missing for a long period because it was rarely used except for several automatic payments such as the XXXX XXXX XXXXXXXX and XXXX. When I first reported the fraud to Citi, I mistakenly believed I still had the physical card. \n\nI filed an FTC Identity Theft Report, confirming that these transactions were fraudulent. I also attempted to file a police report, but the New York Police Department informed me they could not take the report because the theft and fraud occurred outside their jurisdiction. \n\nDespite the FTC report and the clear evidence that I did not authorize these charges, Citi has ruled the transactions \" not fraudulent '' and refuses to reverse them. I have made numerous phone calls to Citi representatives with no success. \n\n\n\nI have been a Citi customer for over 10 years and have never had an issue of this kind. I am simply asking for the protections afforded under the Fair Credit Billing Act."
+}

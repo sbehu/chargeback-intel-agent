@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13076",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19146"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13316,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint against American Express regarding their handling of dispute XXXX. \n\nSUMMARY : I disputed two charges from XXXX XXXX  / XXXX XXXX for a travel package totaling {$2600.00} ( Order # XXXX ). This order was an accidental duplicate caused by a timeout on the merchants website during checkout.\n\nAMEXS FAILURE : Amex resolved the dispute in the merchants favor based on the merchants claim that I received the tickets because I claimed a XXXX transfer link. This is factually incorrect and misleading. Claiming a digital transfer link is not the same as attending the event or using the tickets. The tickets were never scanned or used. The event has now concluded. \n\nThe merchants own dispute response document contains their internal notes confirming I contacted them in XX/XX/year> to resolve this directly contradicting their claim that I never reported any issues prior to the event. \n\nAdditionally, the merchant failed to deliver a service explicitly promised in writing in both of my confirmation emails : an on-site host at The XXXX XXXX. I have a timestamped chat log from the night of the show proving no host was present and that I was forced to contact the hotel directly for basic assistance. \n\nAmex accepted the merchants misleading response without requesting or reviewing my supporting documentation, including : Both written confirmation emails promising an on-site host Timestamped Venetian chat log ( real-time complaint during the event ) XXXX verified day-of social media post confirming active ticket market value Merchants own internal notes confirming my XX/XX/year> contact Amex told me on the phone that they have never seen anyone get money back from XXXX suggesting a predetermined bias against disputes involving this merchant rather than an impartial review of the facts. When I escalated to a supervisor, I spoke with XXXX ( Supervisor ID : XXXX ). I was told Amex does not issue reference numbers for calls but that all calls are recorded. I am requesting the CFPB obtain the recording of this call as evidence of Amexs predetermined bias against this dispute.\n\nREQUESTED RELIEF : I am requesting the CFPB investigate American Expresss handling of dispute XXXX and require them to conduct a full, impartial review of the evidence before making a final determination. \nCard : American Express XXXX Merchant : XXXX XXXX XXXX XXXX XXXX  Amount : {$2600.00}"
+}

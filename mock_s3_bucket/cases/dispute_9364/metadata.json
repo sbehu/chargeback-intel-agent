@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9364",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93065"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38086,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a XXXX man who was approached by a young man with a van on XX/XX/year> outside of a grocery store. He said, I noticed scratches on the drivers side of your car and I asked how much and he said I can fix it for {$280.00} in XXXX minutes, I am an autobody expert. I went into the grocery store to shop and when I came out, I saw foam or some substance ( which appeared to be like shaving cream ) on the left side panel of my car ( on the drivers side ). I asked for the invoice, a business card and the credit card receipt. He said he would email them. \nThe young man said not to remove the substance for XXXX hours, so I was not able to see the work that was done. ( Later-on, when I removed the foam or substance, the scratches were still there indicating no work had been performed ) If had tried to pay the young man with XXXX credit cards, expecting a charge of {$280.00}. When I got home, I checked my email. There was no invoice or receipt or business card. Instead, there were multiple fraud alerts from XXXX and XXXX. Some were in the amount of {$1000.00} and XXXX was {$2000.00}. My CITI Custom cash had a charge of {$1000.00}, which was an amount I did not authorize and would not have paid to someone who randomly came up to me in a parking lot. I notified Citi that My card was lost or stolen and and the charge from PP * XXXX XXXX XXXX AZ and the charge was unauthorized. Citi cancelled the card and the email said I had {$0.00} liability. Since the scratches were still there, I later went to a professional shop and was told, it would take XXXX days to complete and would require {$510.00} for parts, {$680.00} for body labor for XXXX hours, {$410.00} for paint labor for XXXX hours, and paint supplies for {$270.00} for XXXX hours, and with sales tax of {$56.00}, which came to a total of {$1900.00}. I was defrauded for work Not performed. \nI tried to resolve the unauthorized charges with CITI, since XXXX and tried to obtain the information of the merchant. They gave me XXXX different companies, but they have all been false. They have not been willing to work with me to resolve this fraud. I also hired an attorney to file a small claims action to resolve this issue. I am also planning to meet with an elder law attorney and have filed a police report. I want to notify the Consumer Financial Protection Bureau to obtain help in resolving this issue and of what occurred to protect future consumers dealing with CITI."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4508",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60615"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35243,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I made a payment of {$1400.00} through XXXXXXXX XXXX  to reduce my Macys credit card balance. The payment was successfully processed, and I enrolled in autopay to pay off the remaining balance by the end of the month. \n\nOn XX/XX/year>, Macys incorrectly charged my account {$2600.00} instead of the expected {$1200.00}, which caused my XXXX Bank account to overdraft. I immediately contacted Macys customer service to report the issue and request a correction, but despite several attempts, the issue was not resolved. \n\nFrustrated with the lack of resolution, I filed a dispute with XXXX XXXX  for the {$1400.00} payment, as I was uncertain how the funds were being applied. After XXXX resolved the dispute in my favor, Macys reposted the {$1400.00} as a balance owed on my account and subsequently closed my credit account without providing a proper explanation. \n\nThis account closure negatively impacted my credit score. I have all the necessary documentation, including proof of the original {$1400.00} payment, the overdraft caused by Macys error, and communication attempts with Macys customer service.\n\nI am requesting that Macys : Clear the reposted {$1400.00} balance. \nReverse the account closure and correct its impact on my credit report. \nProvide an explanation and formal acknowledgment of their error. \nI would appreciate a prompt resolution to this matter."
+}

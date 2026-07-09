@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_300",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "37919"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48939,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/2023 I received my first bill from a Citibank AAdvantage Credit Card ( last XXXX of card XXXX ). On the bill there were XXXX charges of {$5.00} from XX/XX/XXXX and XXXX charges from XX/XX/XXXX for {$5.00} to a XXXX XXXX XXXX XXXX XXXX. I immediately reported these charges as fraud and closed my account. Since then, I am still receiving bills from Citibank claiming I have a past due amount and late fees totaling near {$100.00}. I have filled two more fraud reports on the same issue, first one on XX/XX/XXXX at XXXX XXXX and again on XXXX XXXX at XXXX XXXX Citibank is still sending me bills without letting me know anything about the fraud report that I have filed 3 times now."
+}

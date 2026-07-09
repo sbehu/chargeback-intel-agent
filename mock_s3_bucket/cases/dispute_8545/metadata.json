@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8545",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "RI",
+    "complaint_zip": "028XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31399,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Made flight reservations for myself XXXX XXXX and my brother XXXX XXXX on XXXX with XXXX confirmation YIJNDU and signed up for their credit card for the purchase, card number XXXX. I have never used them before, have used southwest for 30 years and wanted to give them a try. They have changed the times for flying twice since I made the reservation for a round trip flight beginning XXXX and the second change being within this last week and I have no confidence they wont change it again up to my and my brothers travel date of XXXX which is the date of a cruise. Their website under returns says If XXXX impacted your trip, you XXXX cancel the impacted flight and request a refund to the original form of payment and per my conversations with them today they are refusing to do so. I can send you a screenshot of that statement on their website under refunds if you want. I spoke with XXXX, XXXX, and XXXX today in succession and they all refused to credit back my XXXX XXXX Jetblue card for the flights which were XXXX. My brother had a biopsy in XXXX of this year and it was either melanoma or nerve sheath tumour but when they removed lemon size tumour in XXXX of this year I called XXXX to cancel because he has XXXX and get refunded and they said no. We kept the flights and realized we can still go on the cruise as his diagnosis after his XXXX XXXX when they removed the lemon sized tumour is favorable, but as I said they now XXXX has changed the flight times twice and I have no confidence they wont do it again and make us miss our cruise and they wont refund the cost back to their jetblue capital XXXX card per their own rules."
+}

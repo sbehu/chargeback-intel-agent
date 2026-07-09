@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4893",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "105XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20927,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally request your assistance in reopening and thoroughly investigating a disputed charge on my Citibank credit card account XXXX. Despite my initial dispute being declined, I strongly believe that this charge is unauthorized and fraudulent. \nI have contacted Citibank Security multiple times via phone, but my case has still not been reopened as of today XX/XX/2025. It is deeply disappointing to learn about the so-called Citi Rule, which allegedly prioritizes the merchant 's position in cases where the transaction was completed with a chipped card. According to the agent from Citibank Security Customer Service, no further investigation will be conducted, and the case will not be reopened for this reasondespite the fact that all charges posted to my account appear to have been customized. \nWhile I understand that the initial determination was based on the grounds that the charge was processed via a chip reader, I firmly believe that this alone is insufficient evidence to dismiss the case. It does not address the possibility of fraudulent activity by the merchant, nor does it demonstrate that the transaction with a charge of {$310.00} was authorized by me. \nAdditionally, I do not know how the merchant XXXX XXXX, categorized under Beauty and Spas, was able to obtain access to my credit card information. I do not recognize this merchant and have never engaged in any transactions with them."
+}

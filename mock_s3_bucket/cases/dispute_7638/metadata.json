@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7638",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92881"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48228,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased Trunk Lock Actuator Motor online from XXXX XXXX on XX/XX/XXXX for {$180.00}. On XX/XX/XXXX, the part was shipped. I received the part and had the mechanic replace the old part. On XX/XX/XXXX, I sent an email to XXXX XXXX letting them know that the part has a broken piece and it made a loud noise when the truck is opened. A day later the trunk stopped working. I called XXXX XXXX to inform them that the part stopped working and requested another part replacement. They told me they won't replace the part and I have to take my car to a XXXX dealer in my area who should replace the part for free because the part has XXXX warrant. I called XXXX XXXX  XXXX and XXXX XXXX  XXXX who both said that I should pay diagnostic fee of about {$300.00} to check the part. Then, I called XXXX XXXX to let them know that there is a charge of about {$300.00}. I called the dealer on XX/XX/XXXX, XXXX, XXXX, and XXXX to request a refund. On XX/XX/XXXX, XXXX XXXX sent me a return label which I used to return the defective part. On the same day, I ordered the part from XXXX XXXX, Texas. On XX/XX/XXXX I returned the defective part to XXXX XXXX. They received the part but did not credit my card. On XX/XX/XXXX, I called XXXX XXXX and spoke to the manager \" XXXX '' who said I will not credit your card. I filed a dispute with City bank who denied my dispute stating that there was no error in the transaction. There was no error, there was a defective part and it was returned to XXXX XXXX using their return label but refused to credit my card."
+}

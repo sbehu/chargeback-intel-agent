@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2940",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "365XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13825,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Received call from Mastercard that purchase of $ XXXX was attempted in XXXX XXXX FL XXXX I do not live in FL. They denied. Then received notice purchase of $ XXXX was attempted. Denied purchase and was told they would cancel card. After closing time received email from : XXXX thanking me for my order from XXXX in the amount of {$120.00}. I did not make this purchase. This Mastercard has a low credit of {$2000.00} and is only used when I need to order medicine for our dogs. Had not been used in probably for 3-4 months then all this pops up. Would appreciate help."
+}

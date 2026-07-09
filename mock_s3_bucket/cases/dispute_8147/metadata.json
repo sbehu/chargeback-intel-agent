@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8147",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30907"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42877,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "ALSO NOTE : American Express 's violation becomes even more egregious because they're deliberately ignoring their own fraud determination to avoid refunding the larger amount. This is textbook bad faith. \n\nREVISED POWERFUL COMPLAINT DESCRIPTION : AMERICAN EXPRESS COMMITTED CLEAR FCBA VIOLATION - CONTRADICTORY FRAUD DETERMINATIONS REQUIRE IMMEDIATE {$43000.00} REFUND THE SMOKING XXXX : On XX/XX/year>, American Express created indisputable proof of their FCBA violation by issuing contradictory determinations on identical fraud disputes from the same merchant. \nDOCUMENTED CONTRADICTION : DISPUTE XXXX : AmEx APPROVED {$3400.00} credit, finding \" FRAUD BY MERCHANT ECOMMERCE HUB '' DISPUTE XXXX : AmEx DENIED {$30000.00} credit, claiming \" LEGITIMATE CHARGES BY ECOMMERCE HUB '' DISPUTE XXXX : AmEx DENIED {$12000.00} credit, claiming \" LEGITIMATE CHARGES BY ECOMMERCE HUB '' THE LEGAL IMPOSSIBILITY : American Express can not legally maintain that ECommerce Hub both : IS A FRAUDSTER ( per their approved dispute XXXX ) IS A LEGITIMATE MERCHANT ( per their denied disputes totaling {$43000.00} ) This isn't opinion- it's documented fact from AmEx 's own determination letters dated XX/XX/year>. \nPATTERN OF FRAUD - ALL IDENTICAL : Every single charge shows : Merchant : XXXX XXXX XXXX XXXX XXXX \" XXXX XXXX  XXXX '' Delivery : NONE - Zero services provided Contracts : NONE - No valid agreements exist Authorization : NONE - All charges unauthorized Time period : XXXX XXXX  WHY THIS VIOLATES FCBA ( 15 U.S.C. 1666 ) : Inconsistent Standards : FCBA requires consistent application of dispute resolution standards Bad Faith Investigation : AmEx ignored their own fraud finding to deny larger refunds Procedural Violations : System auto-rejects reopening despite documented contradiction Failure to Investigate : AmEx refused to address the contradiction when presented with evidence ATTEMPTS TO RESOLVE : XX/XX/year> : Filed initial disputes XX/XX/year> : Received contradictory determinations September 14-15, 2025 : Attempted appeals - system blocks reopening XX/XX/year> : Forced to file XXXX  Arbitration Case # XXXX XX/XX/year> : Filed separate CFPB complaint against merchant Current : AmEx refuses to acknowledge or correct violation CONCRETE DAMAGES : {$43000.00} wrongfully denied credits $ XXXX estimated interest accumulating on fraudulent charges Credit score damage from carrying fraudulent balance {$300.00} AAA arbitration filing fee ( XXXX ) Ongoing financial harm each day violation continues THE BOTTOM LINE : American Express 's own fraud determination for {$3400.00} is BINDING PROOF that establishes ALL ECommerce Hub charges as fraudulent. Their selective application of fraud findings based on dollar amounts demonstrates : Violation of FCBA consistency requirements Bad faith dispute handling Deliberate harm to consumer to avoid larger refund REQUIRED IMMEDIATE ACTION : Credit {$43000.00} for disputes XXXX and XXXX Remove ALL interest and fees on these amounts Correct credit reporting to all bureaus Provide written acknowledgment of FCBA violation Reimburse arbitration costs caused by their violation EVIDENCE AVAILABLE : AmEx determination letters showing contradiction ( XX/XX/year> ) Complete transaction records showing identical fraud pattern AAA arbitration filing documentation All dispute correspondence and appeal attempts LEGAL CERTAINTY : This isn't a dispute about facts - American Express has already determined the facts by finding fraud. This is about AmEx violating federal law by refusing to apply their own fraud finding consistently. The CFPB must compel immediate compliance with FCBA requirements."
+}

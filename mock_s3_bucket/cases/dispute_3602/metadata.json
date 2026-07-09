@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3602",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "94501"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37144,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I applied for the Citi Anywhere Costco Credit Card and approved on XX/XX/XXXX. The credit card was stolen during delivery and I never received the credit card, nor did I activate the credit card. \nThe person who stole my credit card used my card in multiple places on XX/XX/XXXX and XX/XX/XXXX for a total amount of {$440.00}. \nI received no alter from Citi until XX/XX/XXXX. A text message was sent to me asking if I was using the card in XXXXXXXX XXXX. I informed Citi immediately that I did not use the card and I disputed the transactions. \nCiti closed my fraud dispute without notifying me and did not provide any dispute credit. Right now I am responsible of paying the amount that I did not spend."
+}

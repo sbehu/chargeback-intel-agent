@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5566",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18532,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, Would you be able to assist with the American Express funds miscalculation and mismanagement?\n\nI had to close 6 business accounts with Amex because my account had funds mismanagement.\n\nPrior to this, I spoke with 6 representatives and 3 supervisors, and the issue never was resolved.\n\nMy credit business card had a refund/credit in the total amount of {$3200.00}.\n\nThe funds were collected by Amex and partially misused. I did not receive the full amount of credit.\n\nInstead, they explained that the money was applied to prior purchases. Instead of the above credit amount, I received only {$2100.00} with the change.\n\nMy records indicate that I did not have any transactions at that time and they were previously paid off.\n\nI understood that Amex can not manage the funds. The transactions they mentioned were never posted to my account.\n\nI closed all the accounts with Amex to avoid all future issues, and the bank was supposed to refund me the credits from my credit account.\n\nWhen I checked my bank account to make sure that it was closed, I found that Amex put on me a debt after the card was closed, and no transactions occurred. Basically, the refund amount turned into debt in the system, changing the sign minus to plus. \n\nIt appears that Amex misusing people 's money. The funds get miscalculated and applied to transactions never made."
+}

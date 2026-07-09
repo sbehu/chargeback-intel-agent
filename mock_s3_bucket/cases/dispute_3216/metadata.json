@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3216",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20165"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3152,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Upon reviewing my XXXX credit card statements in late XXXX, I noticed 10 transactions all between XX/XX/XXXX and XXXX, XXXX, some just a few dollars and one was over {$1200.00}. They all said MERCHANT SALE/PURCHASE with no additional information. I submitted a fraud claim in XX/XX/XXXX. I received a letter from Barclay 's that the denied the claim. When I called the Fraud Dept today ( XX/XX/XXXX ) to ask why it was denied, the person I spoke to said it was because the charges occurred before the accounts were bought from XXXX XXXX  by Barclay 's so they didn't have any information. I find it hard to believe there is no way for them to get information from XXXX to investigate fraud claims but it seems they made no effort to do so. I would like a true fraud investigation as I don't believe I made those purchases."
+}

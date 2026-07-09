@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13065",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33030"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42128,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I used my Best Buy credit card to purchase a XXXX. The total amount was {$1000.00}. When I made the purchase I had an 18 months no interest fee promotion. \n\nI had autopay setup on my account with a bank account I no longer use from years prior, which I didn't realize. Because of this, several payments got returned and Best Buy closed my account. \n\nUpon learning that my account had been closed in XXXX, I logged in to my Best Buy online, at which time I had a balance of {$1100.00}. I paid off the entire balance in one payment and brought the balance to {$0.00}. I also cancelled my autopay. \n\nA few days later, a {$100.00} auto payment from XXXX posted on my account as \" returned. '' Since then, Best Buy has started adding interest charges and late fees to that balance. \n\nI dispute these charges. I paid the full balance as presented to me at the time of payoff, and the creditor failed to clearly disclose any remaining balance or deficiency before or at the time of payment. \n\nAdditionally, since this issue began, I have received repeated collection calls from the creditor, often 36 times per day, every day, for several months. Today, XX/XX/XXXX, I called them to try to resolve this. \n\nAfter dedicating 2.5 hours to this, being hung up on, transferred to incorrect departments dozens of times, and not being able to reach anyone that was based in the U.S., I gave up. I should add that these calls continued despite my attempts to resolve the matter. They were calling me WHILE I was on the phone with one of their reps. This level of contact feels excessive and harassing, especially given that the balance itself is disputed. \n\nI don't see why I would owe them anything when I only spent {$1000.00} on the card ( with NO interest ) and have already paid them at least {$1100.00} ( because I believe at least the first one or two months of autopay DID go through, so the total paid might actually be {$1200.00} or {$1300.00} ). \n\nBest Buy should update my account as satisfied, removed the {$100.00} balance & all subsequent late fees and interests charges associated with it. \n\nI paid the full balance AFTER the account was closed. They accepted my payoff & they did not clearly disclose an outstanding {$100.00} before or at payoff. I believe that is a problem with their billing clarity, and further an unfair practice issue. \n\nMy account statement for the month of XXXX, XXXX is nonexistent. It jumps from XXXX to XXXX. \n\nYour assistance on the matter will be appreciated. Thank you."
+}

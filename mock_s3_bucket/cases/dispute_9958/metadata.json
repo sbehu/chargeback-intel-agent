@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9958",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "339XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30012,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had my wallet stolen while I was traveling to XXXX and my credit card was used fraudulently to make XXXX transactions. I file the dispute with the credit card company and they closed the card and provided a provisional credit. After several weeks on XX/XX/year> I received a letter from the credit card company closing the case and making me liable for the transactions because they have determined the activity is valid because the card was identified as being in your possession and chip card technology was used, which can not be counterfeited. Knowing that the card was stolen with my wallet."
+}

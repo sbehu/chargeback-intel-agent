@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1277",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28120"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 960,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A merchant called XXXX charged my credit card {$230.00} twice on XX/XX/ ( totaling {$460.00} ). I did not make the charges or receive any merchandise from the merchant. I disputed the claim. Barclays ( credit card company ) sent me XXXX  two letters stating that they investigated the dispute and determined the merchant provided documentation to prove the charge. I called Barclays, but the agent was not forthcoming about merchant information. The agent did not explain what the charges were for or where the products were mailed. The agent reopened the case, but Barclays has not communicated information. I don't understand why Barclays would not explain their findings. They could have provided the merchant 's contact information but didn't."
+}

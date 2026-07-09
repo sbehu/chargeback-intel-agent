@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11262",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40625,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank provided written instructions stating that I was not required to pay disputed transactions while the fraud investigation was pending. Despite this explicit representation, Citibank assessed late fees, reported the account as delinquent to credit bureaus, and ultimately closed the account for non-payment.\n\nCitibank subsequently issued a dispute credit reversing the charges, confirming that the underlying transactions were invalid.\n\nThis sequence of events demonstrates that Citibank penalized and closed my account based on charges that the bank itself later determined were unauthorized.\n\nSuch conduct is inconsistent with the consumer protections established under the Fair Credit Billing Act and the Fair Credit Reporting Act.\n\n________________________________________ I reported unauthorized transactions on my XXXX XXXX XXXX account.\n\nCitibank replaced the card and issued written correspondence dated XX/XX/XXXX, stating : You will not have to pay the disputed transactions or related charges while they are going through the investigation process.\n\nDespite this clear instruction, Citibank proceeded to assess penalties and report the account as delinquent.\n\n________________________________________ Improper Billing and Reporting While the fraud investigation remained pending : Late fees of {$41.00} per month were assessed The account was reported to credit bureaus as past due In XX/XX/XXXX, Citibank closed the account for non-payment These actions occurred while the disputed charges were under investigation and while Citibank had explicitly advised that payment was not required.\n\n________________________________________ Admission of Error On the XX/XX/XXXX statement, Citibank issued a dispute credit of {$290.00}, leaving the account with a {$120.00} credit balance.\n\nThis confirms that the charges which triggered late fees, delinquency reporting, and account closure were not valid charges.\n\n________________________________________ Account Ledger Summary XX/XX/XXXX {$0.00} Account paid in full XX/XX/XXXX {$100.00} Disputed charges and late fee assessed XX/XX/XXXX {$87.00} Partial credit applied XX/XX/XXXX {$130.00} Account closed / additional late fee XX/XX/XXXX {$170.00} Late fee assessed XX/XX/XXXX {$120.00} {$290.00} dispute credit issued The record clearly shows that Citibank imposed penalties and closed the account based entirely on charges that were later reversed.\n\n________________________________________ Harm Caused As a result of Citibanks actions : My credit history was inaccurately reported as delinquent My account was wrongfully closed despite a long-standing relationship with Citibank Earned rewards associated with the account were withheld These actions caused unwarranted damage to my credit profile and financial standing.\n\n________________________________________"
+}

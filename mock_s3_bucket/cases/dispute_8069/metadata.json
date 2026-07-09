@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8069",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "077XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12006,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am requesting that American Express correct its dispute resolution as they apparently believe that multiple days of XXXX on a bed is ok for a hotel room. AMEX received all evidence and gave no indication to doubt its accuracy. I submitted a dispute after we and our travel agent tried to resolve with the hotel, who has gone out of their way to justify that a room with XXXX is ok. AMEX XXXX the hotel for not resolving the dispute in our favor, which runs contrary to laws around consumer protection as they would not allow a thief to lie to maintain ownership of an item. This is Dispute Reference number XXXX and I am filing it myself as Amex delayed XXXX the matter when my husband legally filed on my behalf."
+}

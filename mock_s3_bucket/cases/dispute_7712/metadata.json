@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7712",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43016"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40101,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got a bill from Macy 's XXXX with charges from XXXX XXXX  which i did not make. \n\nI call Macy 's XXXX XXXX customer service to report fraudulent charge on my account. They said that they will investigate and i am not responsible for the charges. Then i got the bill on my email which was 0 charges and i thought that it was over. However, a few weeks later i get a paper bill with not only XXXX XXXX  charges ( about XXXX dollars ) plus interest and late fee charges. \n\nIf they actually would have done the investigation they would have known that i have NEVER used XXXX XXXX  in my life, i do not have an account with XXXX XXXX. I used macy 's card only for purchases from Macys. \n\nWith that said, i do not think that they actually did any investigation. I called again to talk to the manager of the investigation department and they said he will call me within 48 hours and i asked them to call between the hours of XXXX and XXXX XXXX  as i am working. They never called. \n\nPlease assist with resolution of this issue."
+}

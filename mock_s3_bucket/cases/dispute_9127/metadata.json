@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9127",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20018"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21824,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got a Citi Bank XXXX XXXX XXXX, and someone fraudulently used my card information in different places. I never used the card it was only to be used for Emergency Purchases but by the time I was going to use the card, I found out that someone has used over {$8000.00} worth on my card. I called CITI Bank and for the last 12 months and they kept telling me that I would get refunded but they took my money from my checking account and did not return it. I have been calling nonstop, and they keep giving me the run around and acting as though they are going to pay me my money, but they haven't, so now I am here filing this complaint. It has become so confusing they tried to say that I owe them {$4000.00}, they are just scamming me for my own money."
+}

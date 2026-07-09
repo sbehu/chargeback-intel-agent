@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10765",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34786"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43611,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a transaction timely for a service repair which was determined not provided. I had to have another vendor handle the service from the initial service vendor. I disputed with my credit card because the secondary vendor confirmed it was not done. I disputed with the credit card and they delayed on a response to me and they declined to credit my account. I contacted multiple times via phone calls with bank representative and multiple representatives provided me conflicting information on the dispute determination and status. First I was advised they requested my proof of the secondary vendor and I faxed the request the same day and I advised I was never advised this was requested prior. I contact back after I was advised to allow 2 weeks, I provided 3 weeks. Now the representative advised it was declined and closed because I made the purchase in person. I was traveling and had no choice to purchase in person. The work was found to have failed when the repair failed and the secondary vendor confirmed it had failed. \nThe bank failed to address my dispute appropriately and has to date not resolved my dispute. I have submitted the documents requested by the bank to open a reinvestgation and it was not done. \nI requested escalation to a manager and it was declined by the representative. \n\nI have exhausted multiple attempts to resolve a dispute that is protected by the credit card agreement terms and conditions. \n\nThe bank has failed to properly handle my dispute and is refusing to address my concerns and demand assistance and escalation to executives with the bank to assist with the failure of bank representatives. \n\nI have requested to review all my options and was refused by bank representatives."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6580",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93550"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5496,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank through BestBuy says I have a bill for {$96.00}. It is in a new email I received today. It said it is DUE TODAY. I have already explained to them that I have not used this card since 2023. This is unacceptable and I WILL NOT pay. The account was closed and they told me it has been resolved back in XXXX. I want this fixed and for them to stop emailing me for payments I did NOT make. Thank you."
+}

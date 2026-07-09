@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7106",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "061XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26410,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Using my Citibank Double Cash credit card, I purchases some fresh mushrooms from the website XXXX on XX/XX/year> in the amount of {$42.00}. The mushrooms were rotten and inedible. After disputing the charge, XXXX issued a credit, then charged me {$42.00} again. \n\nI disputed this second charge with Citibank but they denied the claim. I have been a Citibank customer for over 10 years and spent a lot of time trying to reach Citibank about this claim. To add insult to injury, Citibank is charging my credit card 1 ) interest and 2 ) a late fee because of this. \n\nI have tried phone calls and online chat with Citibank customer service without success."
+}

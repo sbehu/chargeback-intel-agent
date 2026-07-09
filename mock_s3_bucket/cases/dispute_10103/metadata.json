@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10103",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90036"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22562,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally reject Barclays Bank Delawares position and request CFPB supervisory review and assistance. Barclays sent me a letter from the Office of the President dated XX/XX/XXXX stating that they can not assist because I allegedly did not identify which transactions were fraudulent. That is not accurate. I have now provided an itemized list of every disputed transaction ( date, merchant, amount, and account ), exactly as shown on the statements, yet Barclays has still not resolved the fraud claim.\n\nBarclays response appears to rely on procedural barriers instead of a reasonable investigation. I am requesting CFPBs intervention to require Barclays to ( 1 ) reopen and complete a proper investigation, ( 2 ) permanently credit the unauthorized transactions, and ( 3 ) reverse all related fees/interest and correct any negative credit reporting.\n\nDisputed unauthorized transactions ( as shown on the statements ) : A ) Account ending XXXX ( XXXX XXXX XXXX ) Statement period XXXX : XXXX XXXX XXXXXX/XX/XXXX ( posted XX/XX/XXXX ) XXXX XXXX, XXXX XXXX {$22.00} XXXX XXXX  XX/XX/XXXX ( posted XX/XX/XXXX ) XXXX XXXX, XXXX XXXX {$1.00} XXXX XXXX XXXXXX/XX/XXXX ( posted XX/XX/XXXX ) XXXX XXXX XXXX, XXXX XXXX {$6800.00} XXXX. XX/XX/XXXX ( posted XX/XX/XXXX ) XXXX XXXX XXXX, XXXX XXXX {$6700.00} XXXX. XX/XX/XXXX ( posted XX/XX/XXXX ) XXXX, XXXX, XXXX {$4.00} B ) Account ending XXXX ( XXXX XXXX ) Statement period XXXX : XXXX. XX/XX/XXXX ( posted XX/XX/XXXX ) XXXX XXXX XXXX, XXXX XXXX {$6700.00} XXXX. XX/XX/XXXX ( posted XX/XX/XXXX ) XXXX XXXX XXXX, XXXX XXXX {$6800.00} XXXX. XX/XX/XXXX ( posted XX/XX/XXXX ) XXXX XXXX XXXX, XXXX XXXX {$840.00} Total disputed unauthorized purchases across both accounts : {$27000.00}. \n\nFraud signals/ reasons this requires a real investigation : The same suspicious high-dollar merchant descriptor ( XXXX XXXX XXXX XXXX XXXX ) appears across multiple cards/accounts in rapid succession, totaling tens of thousands of dollars.\n\nThe statements show reversals/credits later posted for these same amounts, consistent with fraud dispute / chargeback activity, yet Barclays still has not resolved the issue.\n\nBarclays has not provided evidence supporting any denial ( e.g., card-present vs. card-not-present, chip/swipe, signed receipts, AVS/CVV results, IP/device/shipping logs for e-commerce, or any merchant documentation )."
+}

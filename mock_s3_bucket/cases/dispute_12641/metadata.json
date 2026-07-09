@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12641",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NJ",
+    "complaint_zip": "082XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1925,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "RE : Citibank Billing Dispute Resolution Compliance Failure Citibank Reference Number : XXXX Original Disputed Amount : {$1100.00} | Credited Amount : {$1000.00} Remaining Unresolved Balance Gap : {$19.00} plus all accrued interest and finance fees I am filing a formal complaint against Citibank for a billing error calculation failure under the Fair Credit Billing Act ( FCBA ). Citibank recently sent me an official letter under Reference Number XXXX stating they received a credit from the merchant for {$1000.00} and marked my fraud investigation as \" complete. '' However, the original fraudulent international transaction total charged to my card was {$1100.00}. \n\nDue to international merchant arbitrage and foreign currency conversion fluctuations, the merchant 's manual partial refund left a {$19.00} balance gap on my account. Citibank 's automated system has since reversed my temporary conditional credit, leaving my subsequent statement balance completely incorrect and exposing me to backdated interest charges on a fraudulent transaction. \n\nThe international merchant is a master manipulator who never manufactured or delivered the custom merchandise, committed a severe data breach by leaking another customer 's ID into my file ( Exhibit C ), and has already been proven fraudulent. I demand that Citibank conduct a manual adjustment to completely wipe out the remaining {$19.00} balance gap, eliminate all associated interest fees or finance charges, and fully clear my account of this merchant 's fraudulent footprint."
+}

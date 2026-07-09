@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3678",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "530XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19285,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am attaching an email I sent to CitiBank requesting resolution after 8 months of debate. It references an attachment showing letters from CitiBank, proof of purchase, proof of resolution then additional bills. This will be attached as well. \n\n\nDear Citi Bank Customer Service, I hope this letter finds you well. I am writing to bring to your attention an issue I have encountered with my Citi Bank credit card account, which remains unresolved despite my numerous attempts ( approximately 15 ) to rectify the situation and show the errors that caused the fraud. Since this was about 8 months ago I will try to detail the ordeal to the best of my knowledge. I suggest you check your records for accuracy. \n\nIn XXXX XXXX we found evidence of fraud on our account. We closed the card and requested another one. The charges were credited. Before we got the new cards we found more charges to our account. We obviously didnt and couldnt make these. Fearing our identity wasnt safe we decided to close the account all together. We then received another card ( last XXXX digits were XXXX ) which we immediately cut up. \n\nLater we found there was another change. On XX/XX/year>, a charge was made to my credit card account. \n\nXX/XX/year> {$370.00} Wayfair in XXXX. \n\nWe contested the charges and would wait for the investigation. We were then informed by the Security / Fraud team that this was a valid charge ( See page 2 of attachment ). \n\nWe noted the following and returned the information : XXXX. The order was placed in XXXX Oregon and we live in Wisconsin. \nXXXX. The email address on the order was XXXX. We have no idea who's email that is but it doesnt reference any on our account. Somehow your system mixed up the customer data. \n\nAfter a month of following up we were told time again that it was being investigated. Meanwhile we kept receiving bills with more fees attached. We pushed for the resolution but to no avail. Another call prompted the receipt of a letter from you. ( See page 3 of the attachment ). It states \" you will not have to pay any transactions or related charges if the dispute results in a credit. '' In late XXXX we received another letter dated XX/XX/XXXX ( See page XXXX of the attachment ). Finally the letter we were waiting for. It stated we were credited for the {$370.00} charge that occurred on XX/XX/XXXX. It did not state anything regarding all the fees and charges that were incurred during the investigation. After receiving another bill in XXXX ( See page 4 of the attachment ) we followed up again and were told by customer service that it would have to go to the Security / Fraud dept again to answer. We called back the following day and were told they knew nothing about this letter showing a credit. They had no way for us to send them the letter.\n\nWe called back later and complained that we are just getting the run around and transferred from group to group without anyone helping us. This is an unfair and unethical business practice. The security investigation was done by you and you are responsible for the delays incurred.\n\nDespite my repeated efforts to contact Citi Bank 's customer service via phone, I have yet to receive any satisfactory response or resolution. This delay in processing the credits is causing me considerable inconvenience, time spend holding for customer service, and concerns about the accuracy and management of my account. I kindly request that you investigate this matter at your earliest convenience and provide me with an update on the status of these credits. \n\nPlease confirm when these charges will be credited back to my account."
+}

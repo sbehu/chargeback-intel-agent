@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2528",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11791,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I applied for a Barclays XXXX XXXX credit card with the purpose of transferring {$12000.00} from my XXXX credit card to the Barclays card. I was only approved for a {$2000.00} credit line for the card. I was under the assumption that since I was not approved for the full {$12000.00} that I would have to worry about the transfer but unfortunately Barclay submitted a transfer of less than the requested amount with my knowledge or approval."
+}

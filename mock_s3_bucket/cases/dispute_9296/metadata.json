@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9296",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33418"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47181,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Someone used my Best Buy credit card and ordered things. I am not sure what they ordered. Im not sure how they ordered the items or picked up the items but Best Buy are asking {$2700.00} off me. Ive explained Ive never used the card, especially for that huge amount. Credit card number XXXX name on the card is XXXX XXXX XXXX. I look forward to your response. Many thanks, XXXX XXXX."
+}

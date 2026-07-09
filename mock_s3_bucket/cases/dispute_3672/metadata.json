@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3672",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "VA",
+    "complaint_zip": "201XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14739,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear American Express, I am writing to dispute a charge on my credit card account due to returned products for which I have not received the refund. The details of the disputed transaction are as follows : Transaction Date : XX/XX/year> Merchant Name : XXXX XXXX XXXX Transaction Amount : {$2900.00} I would like to submit the claim because the merchant has promised to provide credit on XX/XX/year> and I have attached copies of PROOF OF RETURN receipt to support my case. \nAccording to the Fair Credit Billing Act, I am requesting that you investigate this matter and correct the billing error. I expect that the disputed amount will be temporarily removed from my account while the investigation is ongoing.\n\nPlease confirm receipt of this letter and provide me with an update on the status of my dispute. \nThank you for your prompt attention to this matter."
+}

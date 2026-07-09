@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7872",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "201XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43316,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a charge due to my flight being cancelled. I had in writing that I submitted to Citi that I would be refunded the full amount due to my flight being canceled. I was only refunded {$19.00} per ticket ( XXXX tickets ). The tickets were {$980.00} each. I asked the XXXX agent repeatedly that I would be refunded the full amount and he said yes. The reason I was adamant about this was because we were going to have to rent a car to get home. After only being refunded {$19.00} per ticket, I submitted a dispute with evidence to Citi. This should have been an easy dispute in favor of me due to the written communication I had with XXXX. They sided with XXXX and closed the dispute. I have no idea how this is even possible."
+}

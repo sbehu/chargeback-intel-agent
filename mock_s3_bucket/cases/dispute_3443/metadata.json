@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3443",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3341,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted XXXX XXXX XXXX which is associated with Cinch back in XX/XX/year>. The gentleman I spoke to to cancel my warranty could not even find my information in the system and was unable to help me. I called again and and requested my warranty be canceled. i wrote letters to XXXX XXXX card and XXXX XXXX XXXX, finally I received an email stating that as of XX/XX/year> the warranty was canceled. I continued to receive bills from XXXX XXXX for the warranty. I again requested the bills to be stopped. I filed disputes with XXXX. As of this date and time I am not getting any resolution to this issue."
+}

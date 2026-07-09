@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8000",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "74136"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I stayed at the XXXX XXXX in XXXX, TX on Sunday XX/XX/XXXX, for XXXX night, checked out on Monday XX/XX/XXXX. My mother prepaid for XXXX separate rooms ( XXXX and XXXX ) on XXXX with her credit card, and I used my credit card for incidentals only. After I checked my mother in her room, she advised me that she only had XXXX large towel. Because my mother brings her own towels, sheets and pillows, due to severe XXXX to harsh detergents the hotels use on towels, I thought nothing of it. Had my mom needed more towels, I would have notified the hotel front desk. My room had sufficient towels because she brought her own. I used XXXX large towel, XXXX medium towel and a face towel. I hung them up on the towel rack after check out I did not pay attention to how many towels were in the room. A week later I noticed the charge on my credit card around the XXXX of XXXX. I called the hotel and they accused my mother and I of removing towels from the room and taking them with us, which is theft. This is not true and I am highly offended. We do not steal because it is wrong, and we have money to buy things that we want. The credit card I used was a XXXX Rewards Visa, and I am a Diamond Member. I travel often and I have never been accused of stealing anything from any hotel because again, I do not steal, neither does my mother. Contacting Barclays has not been good. The dispute lady I talked with, XXXX XXXX, from the XXXX seem very confused about my dispute. She asked me to send her a receipt that I paid for the room despite telling her my mother already prepaid. Then when she go the receipt, Barclays cancelled my dispute stating it was invalid, they assuming the room rate on the receipt would be for {$210.00}, but it was for much higher. My mother paid much more for the room than for the value of of the alleged stolen towels they accused us of taken. We don't steal and again I'm very offended. Barclays never called me before closing my dispute. I wasn't disputing whether the room was paid for, but rather being charged for {$210.00} in error, or fraud, from the hotel who claimed we stolen towels, which is untrue. Towels are affordable. I can go buy my own from a department store. I don't need to steal used towels from a hotel. I have plenty at home. When both my mother and I called the hotel to complain about the {$210.00} charge, both the female and male supervisors hung up on both of us when we called separately. Then they said their housekeeper of 14 years don't make mistakes inventorying towels by hand physical count. XXXX XXXX usually micro chip their towels, but this franchise does not use that technology. The hotel refused to refund our money. Barclays is being very unreasonable and refused to reopen the dispute they closed in error. In addition, they won't refund my money. This charge is outright dishonest, fraudulent deceptive practices. Please advise"
+}

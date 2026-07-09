@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4331",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80104"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18327,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, I am formally disputing a charge from Citibank related to a XXXX purchase from XXXX. The series of events leading to this dispute are as follows : Delivery and Initial Use : A XXXX was delivered to my address, and I immediately attempted to use it to store my classic vehicle on a lift in my garage. However, upon inspection, I realized the XXXX was not compatible with my garage setup and would not fit on the lift, which had been confirmed, with the merchant, as suitable for this item prior to purchase. \n\nReturn Process : After determining that the XXXX was unsuitable for my needs, I contacted the merchant, who assured me that the product would work with my setup. Despite this, I had to return the item at my own expense, which amounted to over {$200.00} in shipping costs via XXXX. The merchant acknowledged receipt of the item. \n\nMerchant 's Unwarranted Claim : Following the return, the merchant claimed that the XXXX had a residue on it, which they allege rendered the item unsellable. I categorically deny this claim. There was no residue on the product, and I have no explanation for how such a substance would have appeared, especially given that my garage is meticulously maintained and I store my {$150000.00} classic vehicle there with the utmost care. The merchants assertion is wholly unfounded and baseless. \n\nUnjust Charge : Despite the circumstances, the merchant has refused to issue a refund, and I am being held responsible for the full purchase price of the XXXX $ XXXX addition to the substantial shipping fees incurred for its return. This charge is entirely unjustifiable, as the item was returned in its original condition, and the merchant 's claim of residue is unsubstantiated. \n\nI am requesting immediate intervention from the Consumer Financial Protection Bureau to ensure that this erroneous charge is reversed and that I am not held liable for the purchase price of a product that was not suitable for its intended use, nor for an alleged issue that I have no knowledge of. \n\nI expect Citibank to take swift action to rectify this matter and remove the charge from my account. \n\nThank you for your prompt attention to this dispute. \n\nSincerely, XXXX XXXX XXXX"
+}

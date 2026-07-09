@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1248",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27215"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11293,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a follow up with additional abuse by Barclays related to the claim # XXXX. \n\nToday I found another charge for {$63.00} pending from XXXX on my account which I closed! They have since sent me XXXX credit cards that I HAVE NOT ACTIVATED yet somehow this charge is pending on a card ending in XXXX. \n\nI saw that this account could be locked, so I locked it. This abuse has got to stop. How are cards being activated when I am NOT activating them?! All I want is my money refunded that was fraudulently charged on my account and to be done with Barclays. I never want to deal with this company again."
+}

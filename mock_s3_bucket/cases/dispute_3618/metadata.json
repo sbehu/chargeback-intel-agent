@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3618",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "105XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9883,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello The credit is XXXX dollars. The company refuses to give me my credit back. They knowing the situation that happened. It's a very serious situation. \n\nI make this claim to Citibank because I went on vacation and at the time of boarding my baby got very bad and we could not travel we went to the hospital and my baby was diagnosed with XXXX  XXXX and we missed the flight, the airline did not want for any reason to change the flight or return the credit to us, when we opened the dispute with the bank we showed him all the medical documents of my baby and the necessary documents so that they did not make the refund of the credit they provided us with the money but 1 month later they removed the credit when I call To ask what had happened. They told us that the airline told them that they didn't want to return the money. Things that are something unjustifiable and unforgivable because it's a baby who has XXXX XXXX and the airline was told and all that was shown and my bank still did it. I took the money from my account after they had already provided it. I need you to help me in this. It's a very delicate situation because it's about my baby who had XXXX XXXXXXXX and apart from that my Credit is now practically lost and I need the solution on this please I wouldn't want to go to legal case because of this situation that the bank is putting, I actually need my credit returned for a flight that was never used thanks"
+}

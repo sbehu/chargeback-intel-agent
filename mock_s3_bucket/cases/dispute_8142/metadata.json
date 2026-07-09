@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8142",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "WV",
+    "complaint_zip": "24740"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15877,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "SUBJECT : Fraudulent Review Denies Reversal of Fraudulent Interest Charges PLEASE READ THE CITIBANK CASE FILES IN SEQUENCE ( Each file is numbered and titled for clarity. Volumes build upon each other and are best understood in order. ) This is Volume 16 of a 21-Volume, 167-page documented sequence detailing systemic Citi misconduct. \n\nIn this volume, I detail how I asked Citibank to reverse interest charges that violated the 21-month 0 % APR balance transfer promotion I relied on. Instead of honoring the promo, Citi denied my request, claiming their review of my account determined all interest charges to be accurate, yet later refunded {$320.00} an admission by action that their original denial was false from the start."
+}

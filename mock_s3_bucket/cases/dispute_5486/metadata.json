@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5486",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32657,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX card -- XXXX The XXXX to XXXX M.C.statement was all fraud charges. Numerous phone calls and letters were sent to Barclays detailing my identity and fraud claim. No phone calls or letters were received by me from Barclays over the past 5 months - although my new address and phone has been in each communication since XXXX. \nTo make matters worse, Barclays has destroyed my credit by reporting to the credit agencies that I have not paid this fraudulent statement regardless of my claim. \n\nAn identical problem is with my wife XXXX XXXX XXXX XXXX XXXX -- XXXX statement XXXX to XXXX with all fraud by the same thieves. Again, several letters and phone calls made with no response from Barclays. \nBarclays customer service is terrible!"
+}

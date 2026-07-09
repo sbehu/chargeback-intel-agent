@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3779",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "336XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31248,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Formal Complaint Regarding Amex Error and Request for Fair Compensation To Whom It May Concern, I am writing to express my severe dissatisfaction with American Expresss handling of a technical error that has led to unauthorized charges, card restrictions, and significant emotional and financial distress, severely impacting my professional and personal life. On XX/XX/year>, XXXX payments were withdrawn from my accountone that I made intentionally and another that occurred due to a technical error on Amexs end. I am now facing hardship due to this error, which has caused a cascade of issues. \n\nWhen I reached out to customer service, I was assured that the second charge would fall off as it was a technical glitch. However, on XX/XX/year>, my cards were unexpectedly declined. Upon contacting customer service on XX/XX/year>, I was informed that my cards were restricted due to a returned paymenta direct consequence of Amexs error, not my actions. \n\nThroughout this ordeal, I received conflicting information from various customer service representatives, none of whom offered a consistent or helpful resolution. I was compelled to make an additional {$100.00} payment from another account to lift the restrictions, only to be told afterward that a refund would only be considered if the payment was made from a specific checking accountinformation that was never initially disclosed. Furthermore, I was informed of another reattempted charge on XX/XX/XXXX that could not be canceled by Amex, leaving me to deal with my bank and incur additional costs. \n\nThis entire situation has been extraordinarily distressing. I was unable to concentrate on my work, found myself overwhelmed with frustration, and was brought to tears by the lack of support from Amex. The emotional toll, combined with the financial strain, has been immense. \n\nGiven the profound impact on my well-being and professional responsibilities, I am seeking substantial and fair compensation from American Express to address the emotional and financial hardship this ordeal has caused me. The extent of the distress and disruption warrants a considerable settlement, reflecting the severity of the error and its consequences. \n\nI urge Amex to take this matter seriously and provide an appropriate resolution, including a full refund of the {$100.00} paid due to this error and immediate action to prevent any further unauthorized transactions. \n\nThank you for your prompt attention to this matter."
+}

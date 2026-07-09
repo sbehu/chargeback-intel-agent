@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2131",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15101"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18560,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "i booked a hotel stay through the american express travel portal using my american express credit card. on the travel portal, the specific hotel i booked did not state that an additional {$27.00} per night ( 4 total nights = {$100.00} ) would be charged. the email i received from american express after booking did not state i would be charged this extra fee, neither does the webpage where the booking occurs state there is an additional nightly fee. \n\nafter my stay, i noticed the additional fee was charged. i contacted the hotel to remove the fee and they said the fee should have been disclosed by american express. i called american express and was advised to file a dispute with the merchant, which i did. american express rejected my claim and ruled in the favor of the merchant. \n\nfollowing the failed dispute, i called the american express XXXX XXXX and filed a complaint with them. i've provided 2 forms of evidence showing i was never quoted this additional nightly expense. 1 ) screenshot of the american express travel portal where to this day if you try to book that hotel again it does not list an additional fee, and 2 ) email confirmation from american express that does not state an additional nightly fee is due. \n\nthe dispute has been rejected under the grounds that i received adequate notice that i would owe the hotel that additional nightly fee. \n\namerican express did not adequately disclose this fee and is now forcing me to pay it. they have rejected my dispute and additional complaint i filed with them. \n\nplease help me."
+}

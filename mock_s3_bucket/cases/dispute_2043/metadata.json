@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2043",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "IN",
+    "complaint_zip": "46324"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9456,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I started to XXXX XXXX that I went to another phone company therefore I was never using any of the phone service. They still charged my automatic billing and refused to refund me and Citi card didn't make it any better. I told Citi the same issue and they still favored XXXX and reversed the charge. They are the worse at these issues."
+}

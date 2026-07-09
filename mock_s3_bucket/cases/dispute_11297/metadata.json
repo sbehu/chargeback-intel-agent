@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11297",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98056"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9922,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because American Express failed to properly investigate fraud disputes on my account and failed to open investigations when I reported unauthorized charges. \n\nOne of the most concerning examples involves a fraudulent charge from XXXX XXXX XXXX XXXX for {$2100.00} dated XX/XX/XXXX. \n\nWhen the charge occurred, I reported the transaction to American Express customer service and requested that a fraud investigation be opened. However, American Express did not properly register or investigate my report at that time. \n\nOn XX/XX/XXXX, after reviewing my account history and realizing that no investigation had been conducted, I contacted American Express again regarding the same transaction. During that interaction, the representative informed me that an investigation would be conducted and that I would receive a determination letter within 30 days. \n\nOn XX/XX/XXXX, after the 30-day period had passed, I contacted American Express again to request the outcome of that investigation. During that conversation, the representative informed me that there was no record of a fraud investigation for the {$2100.00} charge. This directly contradicts what I had previously been told by American Express customer service.\n\nOnly after I insisted again did American Express finally open a fraud case for the transaction. This indicates that my earlier reports were not properly recorded or investigated.\n\nThis situation raises serious concerns about American Express 's handling of fraud disputes and whether the company is complying with its obligations under the Fair Credit Billing Act to conduct reasonable investigations of disputed charges.\n\nBecause of this pattern, I am requesting that American Express : 1. Conduct a full audit and review of all fraud reports and disputes I previously submitted on my account.\n\n2. Reopen and properly investigate any disputes that were previously closed or ignored without a documented investigation.\n\n3. Provide written documentation explaining how each disputed transaction was investigated and the basis for any denial.\n\n4. Correct my account by removing any fraudulent charges that were not properly investigated.\n\n5. Ensure that all fraud complaints are handled in accordance with federal consumer protection laws.\n\nI am submitting this complaint because my previous attempts to resolve these issues directly with American Express customer service have not been effective."
+}

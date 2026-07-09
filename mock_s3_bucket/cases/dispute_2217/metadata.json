@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2217",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78582"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4866,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Since XX/XX/2023 I been a victim of fraud with Citi cards. I notified them that charges were made, and I didn't approved them or made them. Citi Cards canceled my cards and send me new ones with different numbers more than 3 times and one time they send me a card with another persons name and I called them to notified them about that issue and they said it was a mistake, that they send me the wrong card. I called so many times to the company and they never fixed the problem. They already affect my credit score because they send me to the credit bureau as if I was not making payments but I am not going to continue making payments on thing I didn't Charge. I even closed the account and they continue making charges. The Citi cards didn't knew what explanation to give me."
+}

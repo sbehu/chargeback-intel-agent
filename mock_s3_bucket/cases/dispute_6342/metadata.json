@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6342",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2116"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8268,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Regarding Misleading Information Provided by American Express Leading to Unauthorized Charge Dear CFPB, I am writing to file a formal complaint against American Express regarding a misleading statement they provided, which resulted in an unauthorized charge from XXXX in XX/XX/year>. \n\nIn XX/XX/year>, I took clear and proactive steps to cancel my XXXX XXXX  XXXX. I reached out both by phone and in person at their location regarding cancelation. To be absolutely certain that no further charges would occur, I also contacted American Express and requested that they block any future charges from XXXX. \n\nDuring this interaction, I was explicitly told by an American Express representative that once a \" hard block '' was placed, XXXX would not be able to charge my card again unless I explicitly authorized a new charge. Specifically, I was told - By adding this block on your previous card, we will begin declining all transactions on that card number effective immediately. Shall I proceed? \nHard block is successfully applied on all previous cards. \nIll put the hard block after this replacement on all previous cards for this account so that no recurring merchant will receive the new card information. \nBased on this information, I trusted that the issue was resolved. \n\nHowever, in XX/XX/year>, I was charged again by XXXX despite the supposed block. When I raised this issue with American Express, they later acknowledged ( while responding to complaint with CFPB - XXXX ) that the information I was given in XXXX was incorrect. American Express confessed - \" During the chat on XX/XX/year>, when the hard block was placed on your account, we regret that we provided you incorrect information when we stated that XXXX would be unable to charge your Card unless you authorized a new charge. This information was not accurate, and we apologize for any misunderstanding you may have experienced. We made sure to provide feedback to the appropriate leader. \" they have merely expressed regret without offering any meaningful resolution for my financial loss. How can a major financial institution believe that simply saying we regret the error is an adequate response, while Im left dealing with the financial consequences of their mistake? \n\nAs a customer, I acted in good faith and followed their guidance. Yet, American Express seems to believe they can avoid accountability by labeling this as a misunderstanding. That is not acceptable. When a bank gives incorrect instructions about how to stop a charge, and that leads to an unauthorized transaction, there must be real consequencesnot just a vague apology. \nThis situation is deeply concerning. As a consumer, I relied on the guidance provided by a major financial institution. Their incorrect advice caused financial harm, and I am now left disputing a charge I took every step to prevent. \n\nI am requesting that the CFPB investigate this matter and ensure that American Express is held accountable for the misinformation they provided. I also seek a full reversal of the unauthorized charge and any related fees or consequences resulting from this incident. \n\nThank you for your attention to this matter. \n\nSincerely, XXXX XXXX"
+}

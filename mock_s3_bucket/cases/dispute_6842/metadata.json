@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6842",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90038"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21673,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a text message and email a couple of months agao saying there were two high amount charges made on my home depot credit card. I called the number after verifying the email and text were real. I spoke to a representative and told them that I was not in that area and did not make the charge. They asked if I have a home depot card, I said yes. They said did I make the charges and I said no. They asked if anyone else could access the card and I said I'm not sure, possibly. I have been given multiple home depot cards over the years so I'm not sure if it was even the one in question. The representative assured me it was fine and said to destroy the card and they'll send another credit card. A dispute was done and a month later I received a message/email saying the dispute was declined and I was responsible. I followed up again with another representative to which they reopened the case and again was declined. I spoke with a representative weeks later which is today XX/XX/year> and spoke with a supervisor who basically said it was closed and that I would need a police report. The initial representative never mentioned this was necessary and told me to get rid of the card. Had I known this would be such an ordeal I would have filed. I've reached out 4 times and haven't been able to get his resolved. Since it was a physcial swipe they say and I said I had a card, even though I was nowhere near the 2 home depots that were charged. Someone must have drove to two different stores to use the card obviously to avoid detection or found a way to manipulate the system. This isn't the first time Ive had an issue with the card. I close the account and will not be doing business with them again. All of this over a $ XXXX credit card charges on a {$500.00} limit card maxed out in one day. Its obviously a fraud, they even allowed the charges to technically go over the {$500.00} limit to the balance of XXXX Extremely frustrating to be faced with either paying for something I didn't buy or even know about or eating at my credit history by not paying. I only had the card because it was one of the first credit cards I ever had to build credit when I was in college but was never used more than once or fews times a year at best and never anywhere near max usage."
+}

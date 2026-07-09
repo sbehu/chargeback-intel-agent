@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4000",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "410XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8258,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX we hiredXX/XX/XXXX to pack some boxes. The team that showed up was under the influence of XXXX. They didn't follow directions and packed things we didn't want packed. Didn't fully utilize box space or correctly wrap valuables. I had to repack everything. Requested a charge back since company would not provide a refund. Citibank declined saying it was an inconvenience, so resubmitted after talking to Citi rep. They said it was a valid reason for charge back and should be successful. Asked if someone could contact me to make sure documentation was correct no one reached out. 2nd request was declined and now having trouble talking to a rep. Seems like no one physically reviewed my complaint, so requesting CFPB to review their process."
+}

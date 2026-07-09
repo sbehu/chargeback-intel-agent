@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11497",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34190,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks handling of a billing dispute for a {$920.00} charge from XXXX XXXX XXXX XXXXXX/XX/year> for electronic event tickets that were never received. \nI disputed this charge as merchandise/services not received because the tickets required a third-party electronic transfer via XXXX, which I never received or accepted. Without receiving the transfer, I could not access the tickets. \nCitibank issued a provisional credit but later reversed it after receiving the merchants response. Citibank did not provide any substantive explanation of its decision and only stated that the merchants response was enclosed. \nThe merchants submission does not provide proof of completed delivery. It shows purchase details and a claim that a transfer was initiated, but there is no evidence that any ticket transfer was received, accepted, or made accessible to me. \nFor electronic ticket transfers, delivery is only completed when the transfer is successfully received and accepted by the recipient. This did not occur. \nI requested clarification and reconsideration, but the decision was upheld without addressing the lack of proof of delivery. \nI am requesting that Citibank reopen and properly investigate this dispute, provide a clear explanation of its determination, and apply the correct standard for completed delivery of electronically transferred goods."
+}

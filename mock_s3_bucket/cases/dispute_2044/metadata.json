@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2044",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "74133"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45173,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "i have a citi custom cash card that i used to purchase skin care items from XXXX on XX/XX/year>. However, the merchant sent the item to the wrong address and they have never tried to refund me the money nor send me the item. Until today, XX/XX/year>, i still have not received the item. Therefore, i disputed the charges and Citi being Citi took almost more than 2 months to complete this \" investigation. '' Here is link to tracking https : XXXX? XXXXXXXX XXXX XXXXXXXX XXXX XXXXXXXX You can see, the item has never been delivered. The last status of the tracking was In Transit to Next Facility, Arriving Late United States XXXX on XX/XX/year> XXXX XXXX. Even though it is clear as day with proof submitted that XXXX never delivered the items i bought nor refunded my money. Citi as usual backs up this XXXX company fraudster. In addition, i also reached out to XXXX customer service to fix this issue and they said \" as a special arrangement, we can process a refund through your Credi Card but please understand that the shipping fee of USD XXXX will be deducted since we have fulfilled our responsibility to ship out the order in the first place. '' Which they have never honored until XX/XX/year>. CFPB should investigate this issue and penalize companies like Citi that is actively committed to support scam companies like XXXX XXXX. \n\nI'm attaching the correspondence between me and XXXX and i'm also reporting both Citi and XXXX to Oklahoma State Attorney General"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3288",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "AL",
+    "complaint_zip": "363XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47106,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a shed from XXXX. It wasn't delivered. Even XXXX confirmed that. XXXX promised a credit, but didn't follow through. So I disputed it with my credit card company. My credit card company closed the case in my favor, and issued a credit. Around that time XXXX also issued a credit. I figured the credit card company would reverse out their credit, and they did. Which was perfect, because I had the one credit I was entitled to. \n\nWhen I checked today I see that the credit card company decided to reverse out their credit TWICE! They only issued a credit once. They admit they made a mistake, but did not fix it in that call. \n\nI am owed {$1100.00} from the credit card company. I need this corrected. This is literally making me physically ill, this has been going on since mid XXXX."
+}

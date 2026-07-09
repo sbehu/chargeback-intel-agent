@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1388",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60649"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43436,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Bloomingdales -- - Didnot receive an online order via mail. Matter was investigated via Bloomingdales back house team. Redeemed the that shipped to an incorrect address. Investigation revealed funds should be refunded to me ( consumer ) on or about XXXX via email. After numerous phone calls and emails to customer service I have yet to receive a refund to my bloomingdales credit card. I was informed that a credit would be issued in form a a bloomingdales gift card and not via bloomingdales credit card. I have been paying interest for 2 months on items I dont have. \nI also had to repurchase the same items because I never received them."
+}

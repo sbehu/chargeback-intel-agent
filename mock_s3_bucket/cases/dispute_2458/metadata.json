@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2458",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98502"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6743,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Approx XX/XX/XXXX, when making a payment online and checking my statement I noticed XXXX XXXX charges of {$90.00} each so I called Citi Bank to file a Fraud claim and I also put a Freeze on my account, they said they would look into it and someone would probably call me if they had any more questions. XX/XX/XXXX I got a call from Citi Bank Fraud Dept and they asked did you make these charges, some reoccurring and target purchases and some other charges which I DID NOT UNDERSTAND ( accent ) also asked If I requested a CREDIT LIMIT RAISE and I said no and then they asked If I put in for a change of address I said NO. I asked how this could be possible being that I put A FREEZE on my account and they said that they issued a new card, I told them I never received a New card. Citi Bank Fraud dept. again said they would look into it then received an email stating that my new payment on XX/XX/XXXX would be {$480.00}. until the investigation is done, which can take up to 45 days. I again called and explained my situation also told them I'm a senior on a fixed income and don't have that kind of money. They basically said too bad you have to pay this amount., until the account is resolved. On their webpage, it states you are NOT responsible for fraud charges. I can not access my account online because I closed the account, so I can not see all the charges"
+}

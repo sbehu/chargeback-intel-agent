@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10257",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "211XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26189,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX there were several charges on my XXXX Citibank card that were not mine. I contacted the company and they removed them. The next month on my XXXX bill there were also multiple charges for clothing in XXXX and Washington. I attempted to contact Citibank but was told since I could not provide my previous phone and email account they could not verify my identity. They did not recognize my new one. I had to change it because it was hacked. They were to send an attestation form via mail for me to complete. I asked them to please freeze the account until it was resolved. When I had not received the form by XX/XX/XXXX I called back and they said they had sent it and it was probably caught up in holiday mail. I asked for another and asked once again that they freeze the account. I just receive my Bill for XXXX charges and there are an additional {$320.00} in charges that made on XX/XX/XXXX and XX/XX/XXXX I did not make. I am XXXX XXXX XXXX and getting very frustrated by the roadblocks they seem to be putting up. I even have problems understanding the Citibank staff because of the thick accents. This is an especially difficult issue for seniors with any hearing loss. At this point I would just want to be able to get help in getting the charges reversed and the card replaced. It is more than clear it has been hacked."
+}

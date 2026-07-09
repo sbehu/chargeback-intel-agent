@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12643",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22191"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25326,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I notified Citibank XX/XX/year> that I made a purchase XX/XX/year> with a transaction date of XX/XX/year> for {$130.00}. The ordered item was never received. I made the purchase with an online vendor called XXXX, but my statement showed the transaction with XXXX XXXX XXXX. I ordered a wall sconce XXXX XXXX  which has a shipping weight of approximately 10.6 pounds. XXXX provided USPS tracking information for a one-ounce letter. Citibank was informed of the fraud but failed to take corrective action. I first filed an online dispute which they denied because of the tracking information provided by the vendor. I called Citibank XX/XX/year> and explained that the item I ordered weighs 10.6 pounds. They said they would reopen the case, but this would take 7-10 days. I called back and was told that I did not allow enough time because it is only business days counted. I called on XX/XX/year> and was told it XXXX take up to 90 days to adjudicate my dispute. Nobody from Citibank ever requested more information from me. I called again on XX/XX/year> asking if I may provide documentation to support my claim. I was told to send it to XXXX. I did comply only to receive a letter from Citibank on XX/XX/year> explaining my documentation was \" received after time frame XX/XX/year> and therefore they have no means to assist in this dispute. '' I have spent more than five hours trying to get assistance from Citibank. Needless to say, I'm very disappointed in their customer service and implicit support of fraudulent vendors."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_781",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14226"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44761,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2023 - Purchased XXXX silver U.S. half dollar silver coins online from a vendor in XXXX XXXX, paying by Citicard XXXX in the amount of {$160.00}. When received, the items were discovered to be counterfeit. I verified this with a local coin and stamp dealer and got pictures of the counterfeit coins alonside a genuine half dollar coin. The counterfeits weren't even good copies. I contacted the vendor who offered me a partial refund, which I refused, as the merchandise was fraudulent. I contacted Citicard, who temporarily credited the funds back to my account. However, I received a letter from Citicard asking for documentation of the fraud, which I sent via U.S. mail. I then received another letter from Citicard indicating that my documentation had been lost or damaged in the mail, and thus the charge for the counterfeit goods would be reinstated to my Citicard. This reinstatment occured on XX/XX/2023, in the amount of {$160.00}. I called Citicard and was given an email address to resend the documentation, which I did. When I followed up with Citicard about one month ago, I was told that the dispute had been referred to the Citicard investigation team. I was told to recontact Citicare in two week 's time which I did two weeks ago. I was told to recontact them in two weeks, which I did today. I was again given the runaround, saying that the dispute would be referred to the investigation team. I believe sufficient time ( over one month ) has elapsed for this dispute to have been resolved. \n\nI hereby authorize the CFPB to contact Citicard on my behalf in reference to this dispute and for Citicard to supply all statements for the months of XXXX through XXXX, 2023, pursuant to this dispute to CFPB."
+}

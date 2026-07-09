@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13146",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90703"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35212,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding the handling of my credit card dispute by Citibank. While I filed my dispute in a timely manner and complied with all requests for information, Citibank has stated that the chargeback timeframe expired before the dispute could be progressed due to multiple internal reopenings and requests for clarification. \nMy concern is not solely the outcome of the dispute, but whether Citibanks internal dispute handling process caused me to lose my ability to fully exercise my billing dispute rights despite timely compliance. \n\nWHAT HAPPENED Transaction date : XX/XX/XXXX ( {$110.00} ) Dispute submitted : XX/XX/XXXX ( within XXXX  days ) Citibank has acknowledged in its XX/XX/XXXX response that : the dispute was reopened multiple times additional clarification and documentation were requested the chargeback submission window expired before the dispute progressed I responded to all requests and provided documentation early in the process. Despite this, the repeated reopening of the dispute appears to have delayed its progression until the chargeback timeframe expired. \nAs a result, I was unable to have the dispute fully adjudicated through the chargeback process. \nAdditionally, I filed a separate dispute with the same merchant under similar circumstances : Filed later : XX/XX/XXXX Same dispute category ( not as described ) Outcome : resolved in my favor This raises concern that the earlier dispute was not processed in a manner that preserved my dispute rights, as the later dispute was successfully completed while the earlier one expired."
+}

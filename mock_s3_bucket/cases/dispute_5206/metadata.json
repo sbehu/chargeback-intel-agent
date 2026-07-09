@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5206",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33433"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22463,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recently received a fraudulent credit card statement account under my name from \" XXXX '' on my credit report. I never opened this account, nor did I authorize any charges associated with it. Upon noticing the unauthorized account and charge, I immediately contacted the credit card company. However, they were unable to verify the account using my Social Security number, which indicates that the account may have been opened using incorrect or stolen information. \n\nDespite this, the account and the fraudulent charge still appear on my credit report, negatively impacting my credit score. I am requesting an investigation into this fraudulent activity and the removal of this account and charge from my credit report. \n\nI have not authorized any accounts with this institution, and I am a victim of identity theft or credit fraud. Please take the necessary steps to address and resolve this issue as soon as possible. \n\nThank you for your assistance."
+}

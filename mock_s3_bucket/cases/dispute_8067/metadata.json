@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8067",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "18104"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7921,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint against Citibank for their refusal to investigate unauthorized recurring charges from a merchant named \" XXXX. '' For over 20 months, from at least XX/XX/XXXX to the present, a charge appeared on my credit card statement every month from \" XXXX XXXXXXXX XXXX XXXX XXXX. '' The monthly amount was {$10.00} from XXXX to XX/XX/XXXX, and then increased to {$11.00} from XX/XX/XXXX onward. I have never used or signed up for this service. \n\nI first attempted to resolve this with the merchant directly, but they were only willing to issue a partial refund for up to XXXX months, citing a company policy. I then sent a formal dispute letter to Citibank on XX/XX/XXXX. \n\nCitibank responded with a letter stating they could not assist with charges older than XXXX months. This is in direct conflict with my rights as a consumer under the Fair Credit Billing Act ( FCBA ) regarding unauthorized charges.\n\nI am requesting that Citibank fulfill their obligation to investigate all unauthorized charges and issue a full chargeback for the entire period of the fraudulent activity."
+}

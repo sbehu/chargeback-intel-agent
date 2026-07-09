@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2085",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33144"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31995,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had filed a previous complaint about the same issue and citibank had stated that they would provide me the representment documents but today XX/XX/24 I received a letter from citibank stating that they are denying my request for representment documents which I should be entitled to because I know 100 % that I did not make those charges so I believe thats the least that they can do for me when they have denied my fraud claim."
+}

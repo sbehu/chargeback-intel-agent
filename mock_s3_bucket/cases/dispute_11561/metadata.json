@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11561",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NAN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB Team, I am writing to formally escalate my unresolved Citi credit card dispute cases due to the urgency, financial impact, and inadequate resolution through standard dispute channels. \n\n* * Dispute Details : * * * Dispute ID XXXX : XXXX ( Forced / Coercive Charges ) * Dispute ID XXXX : XXXX ( Duplicate Unauthorized Charge ) * * Summary of Concern : * * This case involves a car rental transaction booked via XXXX, where the confirmed amount due at pickup was USD XXXX. However, under coercive circumstances late at night at XXXX XXXX XXXX, I was forced by the merchant to purchase additional insurance despite providing valid existing coverage. \n\nDue to the situation ( late night arrival after a XXXX international journey, off-airport location, and lack of alternatives ), I was left with no practical choice but to comply. This resulted in an inflated charge of USD XXXX. \n\nI am disputing : * USD XXXX ( forced additional charges ) * A separate * * duplicate charge of USD XXXX * *, which is clearly unauthorized and appears to have been processed using the same supporting receipt * * Serious Concerns : * * * Coercive merchant practices under distress conditions * Misrepresentation of pricing at the time of booking * Processing of duplicate charges despite dispute being raised * Inadequate review outcome despite submission of documentary evidence * * Actions Already Taken : * * * Immediate email communication with the merchant requesting cancellation * Submission of insurance proof ( XXXX XXXX ) * Multiple follow-ups with both the merchant and Citibank dispute team * Supporting documentation already provided * * Request for Immediate Intervention : * * Given the above, I respectfully request : 1. Immediate reversal of the duplicate charge of USD XXXX XXXX. Re-investigation and reversal of USD XXXX charged under coercion XXXX. A senior-level review of the dispute handling process in this case XXXX. Written confirmation of actions taken within an expedited timeframe This situation reflects not only financial loss but also a failure of protection against clearly questionable merchant behavior. As a long-standing Citibank customer XXXX I expect a fair and thorough resolution aligned with cardholder protection policies. \n\n\nI request your urgent attention and resolution. \n\nSincerely, XXXX XXXX Cell : XXXX Email : XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12108",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33143"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15890,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Re : Formal Complaint Against Macys Credit Services and Failure to Remove Fraudulent Charges Despite Written Confirmation of Resolution Dear Sir or Madam, I am submitting this formal complaint regarding Macys Credit Services for their failure to remove a clearly fraudulent charge from my newly opened Macys credit card account, despite issuing written confirmation that the matter had been resolved in my favor. Macys has provided contradictory statements, failed to honor its own investigation results, and refused to provide documentation supporting their reversal. I am requesting the CFPBs assistance in compelling Macys to correct my account and provide the evidence I have repeatedly requested. \n\nBackground of the Issue On XX/XX/XXXX, I purchased a mattress at the Macys store located in XXXX XXXX, XXXX, XXXX. Macys was offering a XXXX no-interest financing promotion and an additional {$100.00} discount for opening a new Macys credit card. I accepted the offer and opened the account. \nAt the time of the incident described below, I had not yet received the physical Macys credit card. \n\nFraudulent Charge On XX/XX/XXXX, a charge of {$520.00} appeared on my Macys credit account for childrens merchandise including XXXX sweatshirts, pajamas, socks, chocolates, and similar items. I did not make this purchase, nor did I authorize anyone else to do so. \nI immediately contacted Macys to report the fraudulent activity. \n\nMacys Written Confirmation of Resolution XXXX XX/XX/XXXX, Macys sent me a letter acknowledging receipt of my fraud claim and stating that they would investigate the matter. ( Attached as Exhibit A ) On XX/XX/XXXX, Macys sent a second letter stating that the investigation was complete and that the disputed charge along with any related interest had been removed from my account. ( Attached as Exhibit B ) Contradictory Reversal by Macys On XX/XX/XXXX, I logged into my Macys online account and discovered that the fraudulent charge had not been removed, contrary to the written confirmation I received. \nI contacted Macys Customer Service and was informed that an internal investigation dated XX/XX/XXXX concluded that the purchase was legitimate directly contradicting the XX/XX/XXXX letter stating the opposite. \nWhen I informed the representative that I had written proof of the resolution, they were unable to explain the discrepancy. \n\n\nFailure to Provide requested Evidence I have repeatedly requested : - The video surveillance footage of the individual making the purchase - A copy of the signed receipt for the transaction - Any documentation Macys relied upon to determine the purchase was legitimate and Macys has not provided any of this information.\n\nRequested Relief I respectfully request that the CFPB assist in compelling Macys to : 1. Permanently remove the fraudulent {$520.00} charge and all related interest or fees.\n\n2. Correct my account history to reflect that I was not responsible for this transaction.\n\n3. Provide copies of all evidence used in their investigation, including surveillance footage, signed receipts, and internal notes.\n\n4. Explain in writing why their XX/XX/XXXX letter contradicts their subsequent statements. \n\nConclusion I have acted promptly and in good faith at every stage. Macys has issued conflicting statements, failed to honor its own written determination, and refused to provide documentation supporting its reversal. This situation has caused significant stress and has undermined my confidence in Macys handling of consumer credit accounts. \n\nI appreciate the CFPBs assistance in resolving this matter."
+}

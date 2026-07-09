@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_244",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MO",
+    "complaint_zip": "63017"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13410,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had been same day in XXXX tagget, XXXX and some electronic store purchase changes which electronics store they mentioning to in my whole life I didnt gone to that store. I reported fraud and dispute but old XXXX company not resolved it after making couple times complaint. They are haraasing that customer will pay this because of credit score.\n\nBut I never make any transaction and 15 years history never miss any bills. So please mark this as complaint and if need any details happy to provide those cards was lost stolen some one use and make fraud. Id identity theft also may be."
+}

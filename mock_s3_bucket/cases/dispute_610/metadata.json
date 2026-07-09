@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_610",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "787XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27483,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/23 I made a {$16.00} charge at a pharmacy in the airport at XXXX XXXX in the XXXX XXXX. \n\nThe charge reflected on my credit card bill {$460.00} so I disputed the bill and Barclay Bank issued a provisional credit.\n\nBarclay Bank requested a copy of my charge receipt but I did not keep it due to the small amount so I requested they provide a copy from the merchant. They indicated they don't do that and reversed the provisional credit to my account. \n\nI contacted the merchant XXXX times who acknowledged the error and committed to correcting it but will not. \n\nI wrote another letter to Barclay Bank on XX/XX/23 disputing the charge and requesting they provide me proof that I actually made the charge as required under XXXX. XXXX # XXXX paragraph ( a ) ( XXXX ) ( vii ). \n\nThey sent a letter noting the case is closed since I can't provide them with proof of the charge. \n\nI spoke with a Senior customer service representative on XX/XX/23 asking what may be done and she indicated XXXX 's will not contact the merchant for the proof AND they will not issue another provisional credit. \n\nNot sure why they will not follow XXXX XXXX but it seems pretty clear to me."
+}

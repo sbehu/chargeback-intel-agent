@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5881",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "321XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4222,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Mishandling of {$5000.00} Dispute Citi Failed to Notify or Act Within Required Timeframes ( Follow-up to Case # XXXX ) XXXX filing a follow-up complaint regarding a dispute with Citi on a {$5000.00} charge XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXX/XX/year> ). \n\nCiti claimed my documents were illegible but failed to notify me before the submission deadline ( XX/XX/year> ), despite receiving XXXX submissions ( XX/XX/XXXX & XX/XX/XXXX ). No secure upload portal or re-submission path was provided. \n\nCiti also acknowledged initiating a chargeback, but admitted it was too late to process due to missed XXXX deadlines a failure on their part, not mine. \n\nThis appears to be a violation of my rights under Regulation Z ( Truth in Lending Act ), and I believe Citi is avoiding accountability for procedural mismanagement. \n\nI am requesting that the CFPB reopen this matter, investigate Citis delay and failure to notify, and hold them accountable for their obligations under federal law.\n\nPlease : Provide timestamps of all communication attempts Specify why the documents were illegible Explain why they didnt notify you that they were illegible until after the deadline passed"
+}

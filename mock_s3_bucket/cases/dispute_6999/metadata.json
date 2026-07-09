@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6999",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "91406"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29256,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or about XXXX XXXX I saw that my social security was on the dark web. Multiple companies, including Home Depot, were affected. \n\nOther banks have stepped up to secure my account ( s ) but NOT Home Depot.\n\nInstead, they are charging me multiple times all around stores in New York and adding that to my overall balance. They also REFUSE to cancel or block the card in question??? \n\nToday was the last straw when the suspect was able to call into Home Depot and use MY bank account to make a payment to lower the balance so that he could continue shopping.-WOW I notified Home Depot immediately , and they put me on hold, and then they hung up on me I have attached a Police Report also : # 1 The MASSIVE fraud that Home Depot is allowing to happen # 2 A screenshot that shows the service is unavailable for me to report my OWN card # 3 A screenshot where a payment was made by Home Depot customer service , that I did NOT authorize # 4 The suspect 's information listed on MY Home Depot portal Thank You"
+}

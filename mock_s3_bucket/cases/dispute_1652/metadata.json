@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1652",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60101"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14711,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I booked a hotel via the Amex XXXX XXXX ( XXXX XXXX XXXX ) Reservation dates ( XXXX ) I received a reminder email about my upcoming reservation on XX/XX/XXXX Upon arriving to my hotel for check-in on XX/XX/XXXX ( XXXX BCN time ) it was discovered that my reservation did not exist and the hotel was fully booked. Myself as well as the hotel were on call with AMEX XXXX  agents for about XXXX hours trying to resolve the issue. It was discovered that XXXX XXXX the hotel and AMEX had terminated their partnership. Therefore the hotel never received my booking and if they had, they no longer accepted AMEX as a valid payment. The Agent confirmed they would be processing a refund for the hotel booking that didn't exist. At this time I received another confirmation email for the same booking not a refund confirmation ( XX/XX/XXXX ) The AMEX XXXX agent tried to find me alternate accommodations as all of the hotels in the area were fully booked. They were able to find me accommodations at a significantly more expensive hotel that would not be available until XX/XX/XXXX until around XXXX. This is the only hotel that was available and would be able to accommodate XXXX people. I was told to retain my receipts for reimbursement as I would have to pay for this out of pocket. I was also told a case would be opened for this incident. \n\nWe ended the call and went to the second hotel where my parents, siblings, & I had to sleep un the lobby until a room could become available. \n\nOn XX/XX/XXXX I received the refund for the initial booking. \n\nI called to follow up when I got back and was told the case was closed as I had received a refund for the initial booking. I explained the circumstances and they reopened the case. I called to follow up once more on XX/XX/XXXX. Once again they added more information to the case and was told I would be contacted. I was never contacted. I received an email that night stating a dispute for my initial hotel charge ( XX/XX/XXXX ) had been opened. On XX/XX/XXXX, I received an email saying a credit to my account was already applied which was the refund for my initial booking. I called again and have not been able to get any resolution as they have noted it was a vendor issue. This is an AMEX agency issue not the vendor as the vendor does not work with AMEX."
+}

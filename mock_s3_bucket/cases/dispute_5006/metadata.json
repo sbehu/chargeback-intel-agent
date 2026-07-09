@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5006",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33143"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21209,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There are several charges for {$8.00} on my AMEX statement for \" travel insurance. '' I have called AMEX multiple times and they refuse to remove the charges because they claim these charges are AMEX approved charges. I don't know anything about these {$8.00} insurance charges. I don't want these AMEX insurance charges. I never asked for these AMEX insurance products. They just discriminate against minorities with these ridicolous charges."
+}

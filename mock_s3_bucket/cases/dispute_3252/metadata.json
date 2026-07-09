@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3252",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "94606"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32925,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was notified of a fraudulent charge on my credit card. I had not used the credit card a single time since receiving it. I made my case and was transferred to various Barclay 's departments including but not limited to Customer Service, Security, Fraud departments. They initially didn't believe me because they said that the transaction was made through a chip reader and they can not copy those and that I had the card in my possession. I appealed the decision and requested further investigation and won the case. I received a letter saying as much but then today I find out that there was still interest and late fees being applied to the fraudulent charge and that my credit was sent to collections. This led to a drop of XXXX points on my credit score. I just called again and they are \" waiving the late fees and interest fees as a courtesy. '' I requested to close my credit card account and an immediate correction to my credit score. There is a \" high level security block on the card '' and I was told that I still have to pay an annual fee but there is no way to access my card nor can I close the account because of this block. WHow are they allowed to do this?"
+}

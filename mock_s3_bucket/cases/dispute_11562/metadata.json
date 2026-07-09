@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11562",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85260"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31046,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged {$320.00} by XXXX on my American Express credit card. I requested a refund within the merchants stated XXXX refund period, as shown in my receipt. \n\nI submitted a refund request through XXXX support chat and received a confirmation that my request had been received. The refund policy provided to me referenced a XXXX refund window and did not disclose any requirement to complete a separate cancellation confirmation within a limited time in order for the refund to be processed. \n\nAfter submitting the refund request, the process required an additional confirmation step related to cancellation. This requirement was not clearly disclosed at the time of purchase or at the time I submitted my refund request. My request was later marked as expired and closed without the refund being processed. \n\nI filed a dispute with American Express and provided supporting documentation, including the receipt showing the XXXX refund policy and evidence of my refund request. However, American Express denied the dispute without clearly explaining how the merchants response justified the charge, particularly given the stated refund policy. \n\nI requested further clarification, including the specific evidence reviewed and the reasoning behind the decision. The response I received did not adequately address these issues. \n\nAs a result, I believe the dispute was not properly investigated or fairly resolved. I am requesting that this matter be reviewed and that the charge be refunded or corrected."
+}

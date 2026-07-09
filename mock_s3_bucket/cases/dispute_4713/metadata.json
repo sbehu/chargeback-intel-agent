@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4713",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a new account XXXX and purchased about $ XXXX {$400.00} of clothing. I have received some items in the mail with no invoice attached. I'm not sure if I have received all that I ordered. I was supposed to be given a 25 % discount on my first order. \nI can not access my account online. I have received nothing confirming my order. \nI have tried dozens of times resetting the password for access, using different computers. Still no access. I have spent hours on the phone with customer service that has offered no help. I don't have any way to see a receipt, pay my bill or verify what I have purchased and there seems to be no where to go in this company for help. \nI am receiving Macy 's advertising emails after i signed up for my account"
+}

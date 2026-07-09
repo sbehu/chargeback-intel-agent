@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10245",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97202"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47019,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In early XX/XX/year>, I purchased a sweater on XXXX for {$240.00}. When it arrived, the item had a strong mildew/mold odor and was in unsanitary condition. This was not disclosed in the listing and constitutes a textbook Not as Described / Damaged condition. I submitted photographs and a written report documenting the odor and contamination. \n\nXXXX refused to accept a return based solely on platform policy, not based on whether the item matched its advertised condition. Regulation Z requires the issuer to investigate whether the merchant provided the goods as describednot whether the merchant has a strict final-sale policy. \n\nAmerican Express denied the dispute twice despite the evidence. The merchant provided no rebuttal evidence addressing the odor or unsanitary conditiononly policy language. Amex relied on this instead of evaluating the actual condition of the item. \n\nThis constitutes an improper dispute handling process, as the determination was made based on merchant policy rather than defect evidence, contrary to Regulation Z requirements for a reasonable investigation. \n\nPreviously Uploaded Documents Screenshot XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_879",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MI",
+    "complaint_zip": "488XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been overcharged for a hotel stay and have two companies ( XXXX XXXX and XXXX XXXX ) pointing the finger as to who has overcharged me. As both merchants charged my Citi card, I have filed disputes with Citi. However, I only receive form letters back from Citi indicating they have found in the merchant 's favor because the amount billed appears to match the invoiced amount. This is a more complex and nuanced issue than a typical dispute and I can not get ahold of anyone at Citi that can sufficiently discuss the situation with me. Citi reps have instead told me to send in appeal letters to update the reason for appeal, etc. I initially sent dispute documentation on XX/XX/XXXXXXXX  and sent additional documentation on XXXX, XXXX, and XXXX. However, I keep getting the same type of form letters back from Citi with no indication that anyone has reviewed the nuance and details of this situation. The form letters indicate I'm only claiming there is a discrepancy in the amount charged versus the amount invoiced, which is not at all correct. \n\nIn summary : I relied on misinformation from a merchant, XXXX XXXX, when booking a pre-paid hotel stay at the XXXX XXXX. With this misinformation, I canceled an XXXX {$2800.00} order and rebooked on XXXX in the amount of {$3200.00} for the same exact hotel room and dates of service after a rep confirmed the higher cost avoided being charged fees by the hotel directly. \n\nAt check in, I provided my Citi card to the XXXX XXXX so a hold could be placed for any incidentals. There was no mention of any resort fees, tax charges, or anything other than a temporary hold. Upon check out, I received a bill for {$320.00} and my Citi card was charged on XX/XX/XXXX for a daily Service Fee, Service Fee Taxes, Service Fee City Tax. XXXX XXXX  own Terms of Sale state : With respect to hotel products, the rates offered on this Website are rates for pre-paid reservations. Your credit card will be charged the full amount immediately and the total price includes all tax charges and service fees. This amount was to be included in the payment to XXXX XXXX. \n\nI have tried disputing ( and appealing ) the XXXX XXXXXXXX XXXX charge as one XXXX  XXXX  rep indicated I should not have been charged the {$320.00} as it was paid to them. However, Citi found in the merchant 's favor. I have tried disputing ( and appealing ) a partial amount of the XXXX XXXX for the {$320.00} that their own terms state were to be handled by them. However, Citi found in their favor as well. \n\nIf Citi is fully investigating, I fail to see how they could find in favor of both merchants. I have certainly been overcharged by at least one of them."
+}

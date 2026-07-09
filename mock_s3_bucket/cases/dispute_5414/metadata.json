@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5414",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60462"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44468,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have the MACYS XXXX XXXX  card and someone took my card and charged on it and they told me they were taking it off and they closed my card and sent a new one now they will not help and they are ruining my credit i asked them to fix and they will not help"
+}

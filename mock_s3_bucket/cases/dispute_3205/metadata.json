@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3205",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NC",
+    "complaint_zip": "28208"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9468,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is related to communication that happened over this weekend - including Thursday and Friday of this week. My credit card number information was stolen without my knowledge for an unknown perpetrator to go on a spending spree. Three police departments ( my hometown police department, and the two police departments where the merchant has locations of business ) have opened up felony criminal credit card fraud investigations. Nevertheless, I was discouraged from Citibank staff to send in any written documentation proving my side. When I asked would this then just be resolved in my favor, I was told that was a loaded question. Well, if Im not allowed to submit the police reports and written documentation proving there was NO legal authorization, then is Citibank going to just flip a coin? So I did go ahead and submit all the relevant documentation- including proving the signature provided was NOT mine and the authorization was NOT made by me. I also submitted the 3 open police reports or case informations from the police departments. I was told I should do my criminal investigation against the merchant and contact them, but I do not want to dabble into vigilante justice. This is why we have the police, and FCBA requires Citibank to remove ALL fraudulent transactions- and I should NOT have to put my life in imminent jeopardy."
+}

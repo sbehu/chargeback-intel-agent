@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_834",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "030XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16591,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I missed the 60 day response window by one day for claim # XXXX ( attached ). I thought I had through XX/XX/XXXX. So I am starting a new complaint since the company 's response, which I have attached, is simply and unequivocally false. \n\nI did agree to the flex plans 5, 6, 7, and 8 as seen on my XX/XX/2023 statement and began paying them off in XXXX over a period of 6 months as proven by the subsequent monthly statements. I did not override any auto payment plan on XX/XX/2023 to result in the full repayment of my flex plans because if I had they would have all shown to have been paid in full in the next statement and not shown as having remaining balances on the subsequent statements. \n\nI did call to have the company explain to me why the {$4300.00} was added back to my balance when I requested the refund because it was set to be repaid in a 3 month repayment Citi Flex plan 6. I thought I was being double charged. They never clearly explained it to me, so I had to go to a third party to understand that it had to be added back to my balance. However, I reduced my autopay on XX/XX/XXXX by the {$4300.00} because they were trying to have me pay the full balance of {$4300.00} plus the monthly payment for flex plan 6, which was paying off the same amount of {$4300.00} over 3 months. Ultimately, I fully paid the {$4300.00} in Citi Flex plan 6 as seen on page XXXX of my XXXX statement. Starting with the XXXX statement, you can see a payment of {$1400.00} was made in XXXX, XXXX, and XXXX, resulting in a {$0.00} balance for the plan on the XXXX statement. I have attached the email from Citi stating I had paid off the plan. \n\nThen on the XXXX Statement, Citi added duplicate flex plans 10, 11, and 12, for the identical amounts as the plans 7, 8, and 9, which I had already made 4 payments, 4 payments, and 3 payments on, respectively. They completely restarted the plans to show 6 months worth of payments due. I never agreed to this and have no idea why it was done, but it is complete and blatant fraud. They are essentially stealing money from me. \n\nOn the XXXX statement, they continue with the errors by applying my XXXX payment to the fraudulent Flex plans XXXX, XXXX, and XXXX. They add another fraudulent flex plan XXXX for a full 6 month term, which is for the identical amount of {$1200.00} as plan XXXX and the fraudulent plan XXXX. They also cleared the remaining principal amounts on Citi XXXX plans XXXX and XXXX and put the amounts under balance transfer offers XXXX and XXXX. They also cleared the remaining principal amount on Citi flex plan XXXX and said they moved the amount to balance transfer offer XXXX, which doesn't even show up anywhere on my statement. Again, I have NOT AGREED to any these flex plans XXXX or balance transfer offers. \n\nTo reiterate from my last complaint have had multiple calls with an accounts specialist in Arizona named XXXX, but she has now stopped calling me back. They screwed up my XXXX statement so bad I can't even understand what they did or why. This has caused me great distress and anxiety that I should not have had to deal with. I've always been a customer that pays off the full monthly balance when due. They have provided no help or resolution in this matter. My balance should should never have had these fraudulent flex plans 10-14 added, and should be lower by {$5300.00}. Any funds applied toward those fraudulent plans 10-14 plans through from XXXX through XX/XX/2023 should be immediately refunded along with any interest paid as my balance has been in dispute this entire time. The fraudulent flex plans and any balance transfers should be completely cleared from my balance."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6541",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30517,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding dispute XXXX with XXXX. \n\nI ordered an XXXX from this company and only received the charging brick and cables. I WEIGHED the box and cables and it weighs slightly over what the merchant said it weighs at which proves it left their warehouse in the same condition, without the XXXX  inside and thats the point of this dispute. I received this box with a charging brick and accessories but no XXXX, thus I am owed my money back. \n\nSee photos of the items I received ( no XXXX merchandise ) and it weighs decently and close to what it weighed when it left the merchant facility, without the XXXX inside. \n\nAmerican Express is XXXX to XXXX customers like me and they think that are evidence is a lie but I have photos of the box on a weight scale and it weighs close to what it did when it left the merchant warehouse without the merchandise inside I am owed my money back."
+}

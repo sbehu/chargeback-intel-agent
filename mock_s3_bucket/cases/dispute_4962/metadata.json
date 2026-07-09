@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4962",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55379"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16009,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, I recently signed up for rocket money which allows you to see all your subscriptions. I noticed a subscription for a place called XXXX XXXX XXXX. I have no idea what that is but upon checking my citi bank statements i saw i have been being charged for over a year. This company doesnt appear to exist and i have no idea how my card number was used. Needless to say i filed a dispute as soon as i noticed it. I answered the questions once on the call with the citibank \" security '' team and waited for a resolution. I wasnt informed of an outcome but i just checked and they closed all my disputes as \" my fault '' and will not reimburse me. I have used citi for a long time and always pay my bill, my credit score is in the XXXX and the XXXX time i needed them to make things right for me they dont help... i have been a Law enforcement officer, a firefighter and have always tried to help others and when i needed this company to help they didnt. I will be canceling this card very soon. However i thought i would file this complaint in hopes of getting the money stolen from me by a company that doesnt even exist. I will upload screenshots of the charges as well and wrote them out below. I also explained to citi why i never notoced the charges. I will upload a screenshot of that as well.. the reason is because all my REAL charges are in my town of shakopee and most my charges say shakopee on them XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX... so i usually just pay my bill and dont read each charge especially when they say shakopee on everyone of them. As i said whoever got my number created a fake name \" XXXX XXXX XXXX '' which i can find no address, number or anything for. If citi actually looked into it i doubt they found anything either. However even trying to get my disputes asdressed was not easy as citi obviously outsources to XXXX and it was not easy communicating in XXXX fully. I hope you are able to help me get my money back. I also ahtever future customers see this and think twice about what credit card company they want to use i will be sharing this on every social media platform i know of soon as i get the time... thank you fornyour assistance ... as stated below are the random charges stolen from me over the last year..and i will upload screenshots i couldnt take some because the app wont allow screenshots but i got what i could from the disputed ones they seem to have left out XXXX to XXXX in my dispute..again the language barrier made it confusing... thank you. \n\nXX/XX/year> - {$33.00} XX/XX/year> - {$32.00} XX/XX/year> - {$27.00} XX/XX/year> - {$32.00} XX/XX/year> - {$27.00} XX/XX/year> - {$16.00} XX/XX/year> - {$33.00} XX/XX/year> - {$27.00} XX/XX/year> - {$27.00} XX/XX/year> - {$33.00} XX/XX/year> - {$27.00} XX/XX/year> - {$12.00} XX/XX/year> - {$22.00} XX/XX/year> - {$27.00} XX/XX/year> - {$27.00} XX/XX/year> - {$32.00} XX/XX/year> - {$27.00} XX/XX/year> - {$27.00} XX/XX/XXXX, XXXX {$28.00} XX/XX/year> - {$10.00} XX/XX/year> - {$5.00} XX/XX/year> - {$27.00} XX/XX/year> - {$37.00} XX/XX/year> - {$43.00} XX/XX/year> - {$22.00} XX/XX/year> - {$27.00} XX/XX/year> - {$27.00} XX/XX/year> - {$21.00} XX/XX/year> - {$27.00} XX/XX/year> {$37.00} XX/XX/year> - {$27.00} XX/XX/year> - {$21.00} XX/XX/year> - {$27.00} XX/XX/year> - {$43.00} XX/XX/year> - {$21.00} XX/XX/year> - {$27.00} XX/XX/year> - {$27.00} XX/XX/year> - {$22.00} XX/XX/year> - {$27.00} XX/XX/year> - {$27.00} XX/XX/year> - {$33.00} XX/XX/year> - {$27.00} XX/XX/year> - {$30.00}"
+}

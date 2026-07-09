@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_224",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MD",
+    "complaint_zip": "208XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42310,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX I was charged over {$6000.00} for purchases I did not make. These charges were exponged by Barclays. They however continued charging my account for other items I did not make. They refuse to exponge these charges!"
+}

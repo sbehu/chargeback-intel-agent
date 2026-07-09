@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2415",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90703"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10534,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I found XXXX charges on XXXX my unused citi credit card. I filed a dispute immediately. XXXX is solved easily. Then, I found that this {$10.00} from XX/XX/XXXX is back in XX/XX/XXXX. I called citi bank XXXX department immediately. I made it very clear that I had NOT used the card for more than XXXX year. I have XXXX other citi cards that I use daily. there is no incentive for me to use that card to pay any company. I am very worried about citi credit card security system. The staff asked whether I received anything from the vendor. I SAID NO. He told me that he will take care of this, and I do not need worry. \n\n\nI received a mail for the XXXX statement from Citi in XXXXXX/XX/XXXX week. Citi even charged me an interest for that {$10.00}. I was very disappointed. I called citi again. I asked to talk with a XX/XX/XXXX The person that I talked with is XXXX. I repeated the same thing. I did NOT do the purchase. I very worry about citi credit card system. That is why I check my account daily now. She told me that the used address in that purchase is not my current address. She said that she will take care of this and speed up the process. I did not get any response for XXXX weeks. \n\nAfter XXXX weeks, I sent an email to Citi ( XXXX ) to discuss my case. I did not get any response. The bottom line is that I DID not do the purchase. Someone definitely stole my personal information fromXX/XX/XXXXside system. Citi did not make any efforts to protect their customers."
+}

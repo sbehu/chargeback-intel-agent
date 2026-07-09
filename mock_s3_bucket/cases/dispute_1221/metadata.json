@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1221",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96822"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44608,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/ I got a call from a company called XXXX XXXX XXXX that said they got my name and credit card information from my XXXX XXXX subscription account, and they offer special vacations discounts to all XXXX XXXX XXXX members. The person I spoke to was named XXXX, and when I asked what they offered he said vacation packages to different places in states and internationally. When he told me the different places it sounded like a scam to me and at the end of the call I told him I wasn't interested. About XXXX  minutes later I got a fraud alert text from my credit card company. I called the number and informed the woman that I got a text from them with a fraud warning. I verified my account and I told her DO NOT let the payment go through, that it was a scam. She said OK. When I got off the phone I called the number on my phone the scammer called me from and asked him why he tried to make an unauthorized charge on my account. I immediately told him that I called my bank and told them not to pay it. He then said, \" The payment went through. '' I told him to give back the money right now and he said that I need to call back and speak with the manager the next day.\n\nI called and spoke with the manager named XXXX the next day who began yelling at me on the phone calling me names and told me if I want my money back it's between me and my bank then hung up on me. I immediately called my credit card company and told them what happened, and they opened a dispute case. A few hours after the call XXXX XXXX XXXX  sent an email to me stating that if I wanted a refund, I would have sign and attached form with a copy of my official identification that shows only my name and signature with all other information blocked out. They had a picture of an ID with everything blocked out but the signature as an example attached to the email. I knew they were trying to obtain my signature so they can forge it, so I didn't bother responding. I decided to let the credit card companies ' investigation take care of it. \n\nI got a letter dated XX/XX/, from Barclays stating that they got a response from the merchant and my signature was on the documents, so the merchant was able to \" validate '' the charges. I called Barclays fraud department and the person I spoke with told me that he heard the conversation on the phone and the signature is why I was rebilled the {$410.00}. I told him that I saw the documents that were sent to me and that was not my signature. I told him the merchant forged my signature. He told me that I would need to send a letter to the executive office of the president to see if they could do anything about the fraud charges and gave me the address and that office is the only one that can do anything about the charge back. So immediately wrote a letter and sent it to the executive office of the president. About XXXX  weeks later I got a call from XXXX who stated he got my letter and that they are siding with the merchant. When I asked why he said my signature was on the documents. I told him that those signatures were forged and that he could see that because I sent a copy of my ID, and the signature are completely different. He said, \" We are not signature experts. '' Then he said the merchant doesn't accept cancelations. I said that I sent him documents showing that they do and he responded with, \" We are siding with the merchant. '' He kept saying that over and over. He didn't want to answer my question and just said we are siding with the merchant and hung up on me."
+}

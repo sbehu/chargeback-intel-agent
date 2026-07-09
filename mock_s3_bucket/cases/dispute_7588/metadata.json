@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7588",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22312"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6512,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I attempted to extend a flight with XXXX by phone on XX/XX/year> for {$280.00}, but they said the transaction didn't go through. I saw the charge on my credit card statement anyway. I never received a confirmation or ticket, and I never used the flight. XXXX now claims it's non-refundable and denies responsibility. My bank which is Citi is siding with the merchant despite no service being delivered. This is a clear case of being charged for failed service. \nI'm attaching a letter from XXXX acknowledging the charge and stating the ticket remains \" open and unused, '' even though I had no access to it. This is a clear case of being charged for a service that was not provided. I had to purchase another flight with a different airline. \nI am requesting that the charge should be reversed or refunded as a matter of fair consumer protection."
+}

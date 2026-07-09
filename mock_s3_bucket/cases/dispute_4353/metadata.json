@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4353",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "72113"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42318,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wallet and phone were taken from me. Thieves used my card for nine transactions for {$41000.00}. This caused an overage of {$17000.00} from my credit limit. The thieves used my Face ID to unlock my phone and then approve the transactions that were sent by Amex through text. These purchases were far outside my normal spending and completed in the early AM hours. I am still awaiting resolution."
+}

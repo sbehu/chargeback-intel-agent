@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11952",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76051"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1074,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a {$150.00} charge with Citibank ( Case ID XXXX ) related to a merchant failing to honor a written refund agreement. \n\nThe merchant explicitly stated in writing that after I returned the item, they would issue a refund to either my gift card or my credit card. I selected my credit card ( ending in XXXX ) before returning the item and relied on that agreement. \n\nI returned the item using the merchants prepaid label. XXXX confirms delivery on XXXX XXXX, 2026. \n\nAfter receiving the return, the merchant refused to refund my credit card and instead issued a gift card. ' Citibank denied my dispute multiple times using incorrect reasoning, including : - Misclassifying the charge as return postage - Requesting a credit slip ( which does not exist because the merchant refused to issue the refund ) - Accepting a gift card as a valid resolution despite the prior written agreement The issue is not whether I received compensation, but whether the merchant honored the agreed refund method. \n\nI provided written documentation showing : - Merchant agreement to refund my credit card - My selection of refund to card ending in XXXX - Proof of return delivery - Merchant refusal to honor the agreement I am requesting that Citibank properly review the documentation and reverse the {$150.00} charge."
+}

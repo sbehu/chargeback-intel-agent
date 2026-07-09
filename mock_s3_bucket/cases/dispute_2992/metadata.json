@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2992",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39354,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Case # with Citibank is XXXX XXXX ) XXXX XXXX I saw a transaction on my Citibank phone app, which I did not recognized. The amount charged was XXXX for XXXX XXXX FL, dated XX/XX/XXXX. I contacted Citibank and alert them regarding this charge. Citibank immediately cancelled the card and send me a new card. At the same time, put the charge on hold while they investigate. \n\nI advise the customer service rep that I have recently cancelled a booking with Norwegian cruise line which also include airfare so this charge could be the agent forgot to cancel the air portion. \n\nXXXX ) XX/XX/XXXX, I received the XXXX paper statement from Citibank, showing a clear description of name and booking for the XXXX charge and I was alarmed, I called Citibank again and bought to their attention that this should be treated as fraud case going forward. \n\nXXXX ) XXXX XXXX - Received letter from Citibank with a copy of the merchant 's respond and the flight manifestation, showing XXXX airline reservation dated XX/XX/XXXX for flight from XXXX to XXXX with XXXX adult female and XXXX children. The flight was booked at XXXX and they flew out the same day at XXXX. Merchant stating that the charge is non-refundable, and the flight completed. In order to further the investigation, I have to submit additional documentations to proof that a refund is warranted. \n\nXXXX ) XXXX XXXX I contacted Citibank by phone stating this should be a FRAUD case, not a case for cancellation or refund of the airfare. I do not know the person who book the flight, she stole my card information, book the flight and flew out on the same day, clearly to avoid been caught. I am not requesting for refund ; this should be an investigation for fraud. \n\nXXXX ) XXXX XXXX I submitted a signed letter with above information to Citibank customer service and formally requested to continue the investigation as a fraud case, not a request for refund. \n\nXXXX ) XXXX XXXX Citibank again closed the investigation and revert the charge, stating they have made every effort to resolve the dispute with merchant but was not able to give me a refund, since my initial call to them is for cancellation, they are not able to treat this as a fraud case. as its the rule for XXXX. \n\nI have since reach out to both XXXX airline and XXXX without any success. Everyone agreed this is clearly a fraud case, including Citibank fraud team yet they are not willing to honor the XXXX XXXX liability protection policy. \n\nAttached you will find flight manifest provided by merchant to Citibank and my request for fraud investigation. \n\nApology for the long explanation. Looking forward to your advise. \nthank you XXXX XXXX"
+}

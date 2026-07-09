@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6721",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60047"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8601,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I discovered multiple fraudulent and unauthorized charges on my closed American Express credit card account. These transactions were not made or authorized by me. I obtained copies of the statements and attempted to file a formal dispute with American Express, providing details of the fraudulent activity. \n\nHowever, American Express refused to accept my dispute, stating that the account had been sold to a third-party debt collector and therefore they would not investigate or resolve the issue. Despite the fact that the charges occurred while American Express still owned the account, they directed me to contact the debt buyer instead. \n\nThis is unacceptable. Under the Fair Credit Billing Act ( FCBA ), American Express has a legal obligation to investigate unauthorized or disputed transactions that occurred while they still owned the account. \n\nFurthermore, the collections agency does not appear on my credit report the account is still listed as being held by American Express, meaning they continue to be the party reporting the debt and therefore bear responsibility for ensuring the information is accurate and lawfully reported. Their refusal to investigate and correct these unauthorized charges has a direct negative impact on my credit and violates federal consumer protection laws. \n\nI am requesting that the CFPB require American Express to accept and investigate my dispute, remove any negative credit reporting related to these fraudulent charges, and resolve this matter in compliance with federal law."
+}

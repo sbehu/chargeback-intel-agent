@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13226",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90024"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38893,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an airline ticket with XXXX for travel to XXXX on XX/XX/year>. On the day of travel, prior to heading to the airport, we attempted to check in online and discovered that the flight reservation was not showing.\n\nWe contacted the airline for assistance and were connected to what we believed was XXXX  customer service. However, we later determined that we had been connected to a fraudulent third-party operation posing as the airlines customer service, whose sole purpose appears to be scamming customers. The individual we spoke with falsely confirmed that the flight had not been canceled but claimed there was an issue with billing. They then requested an alternative credit card to process the payment so we could proceed with our travel. Relying on this misrepresentation, we provided our Citibank credit card information.\n\nWithin approximately 15 minutes of the call, we realized that the interaction was fraudulent. We immediately contacted Citibank, reported the incident, and explicitly instructed them not to process or honor the pending charge. Citibank acknowledged our report and indicated that they would note the transaction as fraudulent while it was still pending. We clearly communicated that we did not authorize the payment under any circumstances.\n\nAs a result of this incident, we were forced to purchase new airline tickets to complete our travel. Upon returning to the United States, we were surprised to receive a demand from Citibank for payment of the disputed fraudulent charge. We reiterated that the transaction had already been reported as fraud prior to posting and questioned why we were being held responsible.\n\nWe are now in our third round of communication with Citibank, and despite providing supporting documentationincluding screenshots of correspondence from the fraudulent party and our immediate cancellation requestthey continue to insist that we are liable for the charge, stating that they have already paid the merchant.\n\nThis situation is extremely frustrating. We have been Citibank customers for over 20 years and have acted promptly and in good faith to report and prevent this fraud. Despite this, we are being told to follow a process that repeatedly results in denial of our claim.\n\nWe respectfully request assistance in resolving this matter and ensuring that we are not held responsible for a clearly fraudulent transaction that was reported immediately."
+}

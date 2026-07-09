@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12480",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "032XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38235,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was called by a \" debt collector '' ( caller id showed experian as caller ) law office of attorney XXXX XXXX.WSithoit my knowledge or without my permission, over {$7000.00} was taken from my barclays JET BLUE credit card.on XX/XX/XXXX. I reached out to company upon realizing what had happened, I found out by viewing my statement. Barclays had no specific answers.talked to several people, transferred to different Departments and extensions. Waited for a follow up. there was none. After a month I called back .this same scenario went on for months, company ( had no previous knowledge of my complaint ) The reps at barclays i spoke with had no knowledge of a case or case number even. approx 6 months went by before i was officially assigned a case number. I received a letter 45 /60 days or so after i was assigned case # .This was at least 7 months after complaint was made. during this time I had inquired on the progress .I again was told i had no case pending. Multiple calls and transfers to correct dept (? ), i could not get answers.30/45 days later i get a letter, we are looking into this, and will let you know soon is basically the message in the correspondence. Finally i get a letter saying that the fraud is being ruled sas fraud and i should see an adjustment that could take up to 2 business cycles. when 3 months passed i call again ( over 40 hrs of phone calls ) they said wait one more month.no changes in statement, then I call and am told case had been closed! had to reopen, I did so.almost a year later i submitted another complaint /claim. received a phone call to write a letter to the presidents office.I did so. again another 30 = days i get a call from alleged presidents office letting me know my request had been denied. no real explanation, i asked for investigation results, what they had found etc, and was told there was no investigation .they didnt have to look further because it was \" keyed in \" and furthermore they do not compensate fraud .I then contacted presidents office, no call back .then i recieved a call in XXXX  XXXX ( XXXX now ) from someone in presidents office letting me no they are not going any further and that initial decision is final.Also mduring tis time a variety of charges made by XXXX XXXX  such as spokeo several times were investigated as fraud and removed from my account balance."
+}

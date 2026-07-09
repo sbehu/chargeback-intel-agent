@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_146",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84043"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16966,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My american express card was charged for a {$130000.00} on XX/XX/2023 transaction ref. # XXXX to XXXX. This transaction was not authorized by me, I have disputed this transaction with american express and XXXX, who processed the transaction. I have reached out to the merchant as well, who has been attempting to refund me the money but XXXX has frozen the funds and will not release the funds to either myself or the merchant. I need the funds released immediately from XXXX and refunded back on my american express card. OR, I need american express to reverse the transaction and remove the charge from my card. XXXX payment ID : XXXX"
+}

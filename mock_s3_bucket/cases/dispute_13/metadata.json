@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92019"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8661,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I hope this letter finds you well. I am writing to formally file a complaint against American Express for discrepancies and mismanagement of my credit card balance. \n\nNon-updated Credit Card Balance after a {$1300.00} Dispute : Sometime in XXXX XXXX XXXX, I disputed a transaction amounting to {$1300.00} on my American Express credit card. Despite the dispute process, my credit card balance was not updated or adjusted accordingly. This has caused undue stress and confusion, as my credit statement does not accurately reflect my true outstanding balance. \n\nErroneous Addition of {$1000.00} to Credit Card Balance after Dispute Rejection : I disputed another transaction with American Express, and when the resolution was rejected, they added an additional {$1000.00} to my credit card balance. This is perplexing since, to my observation, no initial credit was ever applied to my account during the dispute process. When I inquired about this discrepancy, I was informed by American Express that they had credited the amount initially, though I have closely monitored my account and can affirm that no such credit was made. \n\nThese instances not only show negligence on the part of American Express in maintaining accurate records but also pose a significant inconvenience and financial strain on me. I have made multiple attempts to rectify these issues directly with American Express, but have been met with either inconclusive explanations or lackluster attempts at resolution. \n\nDuring the second dispute process, I was wary of American Express 's handling based on my prior experience. As a precaution, I took a photo of my account balance before and after the dispute to have tangible evidence of any changesor lack thereof. Upon resolution of the dispute, I observed that my credit balance remained unchanged, contrary to the expected adjustment. When I contacted their customer support for clarity, they claimed that they had already credited the disputed amount to my account. However, the photos I took serve as proof that no such credit was made, thus highlighting a discrepancy in their claim. \n\n\nIn light of the above, I kindly request the intervention of the CFPB to investigate these discrepancies and ensure that my credit card balance with American Express is accurate and just. \n\nI am more than willing to provide any additional documentation or evidence to support my claims, and I earnestly hope for a prompt and favorable resolution."
+}

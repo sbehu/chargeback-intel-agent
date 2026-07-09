@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5887",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21234"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31512,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My XXXX XXXX is reporting fraud on this credit card account, XXXX is doing charge backs, which is causing my accounts to be suspended. This isn't fraud, we have a notarized agreement from XXXX, stating that she wanted me to manage her credit cards, which included this one."
+}

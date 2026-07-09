@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7493",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78250"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45141,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I AM A VICTIM OF IDENTITY THEFT, SO SOMEBODY IS USING MY INFORMATION TO OPEN CREDIT ACCOUNTS WITHOUT MY CONSENT. I RECEIVED IN THE MAIL A CREDIT CARD THAT I DID NOT APPLY FOR. THE CARD IS A HOME DEPOT CREDIT CARD. THE NUMBER ON THE CARD IS XXXX."
+}

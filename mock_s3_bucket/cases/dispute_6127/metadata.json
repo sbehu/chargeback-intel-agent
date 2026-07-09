@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6127",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "91706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2252,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>2025 I placed an order for Medical Equipment, called XXXX XXXX thru XX/XX/XXXXXXXX XXXX XXXX XXXX for the amount of {$990.00} but right after I paid this {$990.00} using Citi Bank Credit I opened XXXX and wanted to ask XXXX XXXX XXXX some questions and found out all conversation in text between me and XXXX XXXX were deleted. I then file a dispute with Citi Bank right away in the same day I placed this order, about a week later I received small package when It was an XX/XX/XXXX with XX/XX/XXXX language. I was asked to send all documents about this Fraud purchase and I did send it all to Citi Bank Dispute Center, Yesterday I called them more than one time and was told I have to pay for this amount of {$990.00}. I disagreed with them, I pay for the XX/XX/XXXX and received something else ( Cheap ) please help me to fix this problem, I am the Victim of this Fraud and I notified them right away They, CitiBand need to pull back this amount {$990.00}. Thank you in advance"
+}

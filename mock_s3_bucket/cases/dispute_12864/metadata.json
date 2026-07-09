@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12864",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26738,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint concerns Citibanks failure to conduct a reasonable and compliant investigation under the Fair Credit Billing Act.\n\nCitibank denied my dispute based on purported merchant documentation. However, the materials provided are not readable, not intelligible, and do not permit independent verification of the charge.\n\nCitibanks determination therefore rests on documentation that has not been meaningfully disclosed.\n\nAn investigation that relies on materials a consumer can not review or evaluate is, by definition, deficient. The absence of clear, legible, and verifiable documentation raises serious concerns regarding the adequacy of Citibanks investigative process and its adherence to applicable federal requirements.\n\nDespite these deficiencies, Citibank closed the matter and stated it would not respond to further inquiries. This effectively prevents any meaningful challenge to the basis of its determination.\n\nThis is not a dispute over outcome alone. It is a documented failure of process.\n\nThe record reflects that Citibank has relied on defective or inaccessible evidence while representing that its review was complete.\n\nRegulatory review is therefore warranted."
+}

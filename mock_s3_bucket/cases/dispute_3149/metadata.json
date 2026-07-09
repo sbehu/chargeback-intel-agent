@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3149",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "110XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39444,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed an amount XXXX XX/XX/year> with American Express from XXXX According to XXXX and there emails and phone conversations they refunded American Express American Express is stating they where never refunded and applied a provisional credit instead of a permanent credit I have asked Amex to contact XXXX they have not This should be a closed dispute with a permanent credit given by XXXX XXXX been no attempt from Amex to reach out to XXXX"
+}

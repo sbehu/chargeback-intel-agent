@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8103",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77450"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25300,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rented a car from XXXX for one day on XX/XX/year>. The payment was prepaid, and I used my AMEX card only as the security deposit. When I returned the car the next day on time, the drop-off location had very limited parking. I had to wait about 40 minutes outside the lot before a staff member could process the return. Despite this delay being entirely due to XXXX  lack of space and staffing, I was charged an additional {$77.00} as an extra hour fee. \n\nI immediately called XXXX customer service, and the agent confirmed that a refund would be issued. The following day, I also emailed XXXX, and their team replied in writing, promising that the refund would be processed within 5 business days. However, I never received the refund. \n\nAs a result, I filed a dispute with American Express. Unfortunately, AMEX closed the case after XXXX provided only the original receipt showing the {$77.00} charge, without reviewing or considering the email evidence from XXXX where they admitted and confirmed the refund. This outcome is unacceptable, as critical evidence was ignored."
+}

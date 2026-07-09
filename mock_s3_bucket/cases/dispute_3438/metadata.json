@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3438",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "808XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35513,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been engaged in a dispute with Barclays for over a year concerning incorrect charges related to payments made through XXXX. Specifically, I mistakenly transferred funds to an incorrect recipient using XXXX different Barclays cardsa business card and a personal card. XXXX transaction was for {$870.00} ( acct XXXX ) and the other for XXXX ( acct XXXX ). \nIn XX/XX/XXXX, Barclays refunded {$1000.00} for XXXX of these transactions but has declined to do so for the second charge of {$870.00}. This discrepancy appears unjustified. \n\nI disputed both charges this and received information from Barclays that the issue was settled in XXXX favor. So, XXXX my surprise when Barclays decided in my favor over a year and a half. I split up the payments I made to XXXX that day, XXXX amount went onto my business Barclays card and the other went on my personal account. \nAt the time of this mistake, I had XXXX Barclays cards. On the same day I accidently sent {$1000.00} to XXXX, I sent the same person, on my other Barclays card, {$870.00}. I wanted to break-up the charges owed to my XXXX tour guide, XXXX XXXX XXXX XXXX XXXX is a VERY common name in XXXX. \n\nI was in a hurry on that day, being pressured to get the money to my tour guide, using both of my Barclays cards, I accidently sent XXXX payments to the wrong person. The same wrong person, nonetheless, the wrong person, XXXX. I immediately contacted XXXX to inform them of the error and their advice to me was that I needed to simply dispute the mistake to my Bank. XXXX was not willing to look at my account and my history to verify my claim that I had sent the money to the wrong XXXX XXXX. I had previously sent the correct contact several payments. XXXX advised me to dispute the charges with my credit card company. Which I did immediately, XX/XX/XXXX. \n\nSo out of the blue, a couple of months ago, I get a letter from Barclays telling me they are refunding XXXX of the charges, but not the other. Then trying to defend their argument with illogical statements that defy the check they just sent me. Specifically, that I was out of the allotted time frame. Barclays refunded me the larger amount of {$1000.00}! Now they only send me a form letter telling me that they will not refund the {$870.00} dollars. It makes no sense."
+}

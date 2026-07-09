@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4211",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77075"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47557,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used a Home Depot Credit card to purchase lawn equipment ( XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ) which was supposed to be delivered on XX/XX/XXXX. After receiving a notification from XXXX that the package was delivered, I immediately called the XXXX XXXX XXXX center to inform them that I had not received my package and that the proof of delivery photo did not match my house. The representative said that they would contact the supervisor for the delivery driver and have them go back to the location where it was delivered. I waited XXXX business hours before calling for an update. I received a text notification that I should reach out to the shipper to file a claim. I called Home Depot to start a dispute and was informed that the investigation could take up to XXXX weeks to be resolved. I also reached back out to XXXX  to start a dispute on XX/XX/XXXX. On XX/XX/XXXX, I received a letter from Home Depot Services with the status update about the claim. As of XX/XX/XXXX, the claim was denied and they cited the XXXX  proof of delivery and documentation was provided with the letter. On XX/XX/XXXX I called XXXX to get a Case number to provide to Home Depot which could could possibly prove that I sent photos of my front door for XXXX  to compare to their proof of delivery photo in hopes that this would prove that the package never made it to my home. I was told that they needed a \" XXXX XXXX '' in order to launch an investigation on their end. I then called Home Depot to fulfill that request and was told that I should receive a credit to my account within XXXX to XXXX business days and that the \" Shipper waiver '' would not be necessary. On XX/XX/XXXX, I noticed that the credit was never issued on my Home Depot statement. XXXX also sent an email on XX/XX/XXXX to say that Under Terms and Conditions, the shipper did not request a signature to be required at the time of delivery and therefore they were unable to approve the claim. I called Home Depot to check the status of the refund and they asked me to call CITI Bank, which is the company who issues the card, to claim a refund. Citi Bank told me that they would launch their own investigation which would take an additional XXXX to XXXX business days. On XX/XX/XXXX, I called to check the status and was told that the claim was denied and they cited the same delivery information from XXXX. I reached back out to XXXX  and no one has responded. Citi Bank also said that Home Depot would have to approve the refund before they could issue a credit. I spoke to a supervisor at Citi Bank who started a conference call with Home Depot to possibly resolve the issue. After an hour of conversation, the result was that both Citi Bank and Home Depot told me that there was nothing that they could do since XXXX had the proof of delivery albeit to the wrong address. XXXX Tracking # XXXX XXXX  Case # XXXX"
+}

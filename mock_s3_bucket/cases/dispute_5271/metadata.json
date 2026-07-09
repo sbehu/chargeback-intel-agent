@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5271",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "95820"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42867,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was misled by the jewelry department during Christmas of 2024. I was told there was a special, that I would only be charged {$80.00} a month for XXXX months. Instead, I was charged the full amount thus over-extending my credit. When I got my statement and learned that I did not even have the credit limit available to purchase full price. I called Macy 's to learn that without my knowledge they increased my spending limit. \n\nI lost my job and knew I could not pay, so I contacted Macys to see what could be done. They closed my account with a balance listed. \n\nAlthough I have XXXX Macy 's accounts, they have locked the other one, even though there are funds available, and it is not closed. \n\nI do not believe I should be held responsible, when the store took it upon themselves to increase my limit without my approval. Now I am stuck with this debt."
+}

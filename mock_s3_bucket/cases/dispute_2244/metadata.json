@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2244",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "183XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20465,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "About a year ago, XX/XX/2023, I think, I started noticing fraudulent activity ( exceeding {$9000.00} at one point ) on my Barclays Navyist Credit Card. I immediately contacted them to let them know. Every month, my statement showed new fraud charges to the same XXXX XXXX XXXX  XXXX and others. The scammer also kept trying to change my address. I am XXXX XXXX XXXX. Barclay 's consistently changed my card number ( XXXX ) and each time they allowed the fraud to continue, only removing charges when I received my statement and called them. Each time, I had to speak with a new person and reiterate the issue. Finally they told me they put their highest security block on my card. And yet, the charges continued. Including interest and late fees!! I asked to cancel the card, but they told me I could not as it would impede their investigation. Later, they told me I could cancel, but their policy allows an account to be reopened within 3 months, no questions asked, so it would not be in my best interest to close it as theoretically, the scammer would be able to reopen it and I would not even know. They are now telling me that I owe them {$1200.00} because they made a mistake in charging back to the XXXX XXXX XXXX XXXX  and I must pay back for their error."
+}

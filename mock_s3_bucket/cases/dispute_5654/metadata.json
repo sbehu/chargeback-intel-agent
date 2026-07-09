@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5654",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20720"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35930,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a XXXX XXXX monthly bill statement from XXXX XXXX with charges from their credit card. I knew there was a mistake, because, my account had a XXXX balance. I called the company, they gave me the runaround having me to call back several times to provide the same information. I called multiple times to open the fraudulent case. They would open the case and then close it stating the card was in my possession. I did not know the card was lost or missing. I do not carry my credit cards. The company verbally provided dates that charges went against the account. I sent documentation sharing I was not in town during one of the transactions. After that proof, the company wants to whole me liable for {$6000.00} plus of damages that are ruining my credit report. I asked them to review the cameras. They told me they would not and for me to call the local police. I filed a police report. I did not have an account balance and I did not make the charges. I need help."
+}

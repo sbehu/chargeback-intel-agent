@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8866",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33462"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47817,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I rented a vehicle from XXXX XXXX XXXX at XXXX XXXX XXXX in North Carolina ( pick up and return at XXXX ). More than a month after the rental, XXXX charged my American Express XXXX XXXX XXXX card for an alleged tail lamp damage. XXXX has not provided ANY evidence that the damage occurred during my rental. I requested timestamped photos at pickup/return, inspection sheets, chain of custody, and proof tying damage to my rental period. They stated they do not have photos for minor damage and instead provided only a generic internal repair order created after the fact. They are repeatedly attempting to shift the burden of proof onto me as the consumer, which violates normal rental industry standards and the Fair Credit Billing AcXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX statutes, and this conduct appears to be an unfair or deceptive trade practice. I have many photos of the vehicle pickup and a video of the return though only part of the tail is in view in the video since the trunk was open. I am requesting that XXXX remove this fraudulent charge and that AMEX complete the chargeback reversal."
+}

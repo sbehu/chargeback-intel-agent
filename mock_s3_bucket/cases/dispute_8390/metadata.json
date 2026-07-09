@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8390",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "770XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43761,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted UPS about a fraudulant charge on my account. UPS admitted the shipper listed was not me and was shipped from a different address. They closed my account to prevent further fraud, created a new account and said they would refund the charges. I never received the refund so I opened a dispute with XXXX. They responded with a digital receipt for the charge that does not show my signature or the shipping lable that was bought. see attached. A receipt does not indicate I am the one who made the purchase. Its ridiculous."
+}

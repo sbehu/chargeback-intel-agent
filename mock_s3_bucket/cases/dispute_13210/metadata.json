@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13210",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93611"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32329,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding American Express Travel and American Express XXXX related to a failure to disclose a material limitation in trip insurance coverage during an agent-assisted itinerary modification. \n\nIn XX/XX/year>, I booked international airfare ( ~ {$6000.00} per ticket ) through American Express Travel and purchased trip insurance for the trip at that time. \n\nIn XX/XX/year>, American Airlines made a schedule change that rendered our connection unworkable. I contacted American Express Travel to correct the itinerary. The Amex Travel agent rebooked our flights at an additional cost of approximately {$1800.00} per ticket. \n\nAt no point during this rebooking process was I informed that : the additional fare would not be covered under the existing trip insurance policy, or separate insurance would be required to cover the modified portion of the itinerary. \n\nThis was not a new tripit was a modification of an already insured itinerary, handled directly through American Express Travel as a result of an airline schedule disruption. I relied on American Express as my travel agent to properly advise me during this process. \n\nThe trip was later canceled due to a covered medical reason. American Express XXXX approved coverage for the original ticket cost but denied coverage for the additional {$1800.00} per ticket, stating that separate insurance would have been required for that portion. \n\nThis denial is based on a requirement that was never disclosed at the time of rebooking. Had I been informed that the modified fare required separate insurance coverage, I would have purchased it immediately. That option was never presented. \n\nI have attempted to resolve this directly with American Express, including escalation to their Executive Office, but have received no response. \n\nThis constitutes a failure to disclose a material limitation in coverage at the point of sale ( rebooking ), resulting in financial harm."
+}

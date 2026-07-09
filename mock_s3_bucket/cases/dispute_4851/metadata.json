@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4851",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "352XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6568,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I prepaid a hotel reservation for {$290.00} using my AMEX XXXX credit card through AMEX Travel. Despite this prepayment, the hotel failed to honor it. As a result, I had to spend over two hours over 3 days resolving the issue with AMEX Travel, who had booked the reservation and charged the prepayment. \n\nEventually, AMEX Travel and the hotel promised to issue a refund, but it was only for {$260.00}, leaving a {$30.00} discrepancy that was never well explained. Additionally, they assured me the refund would be processed within 5-10 business days but refused to provide any written confirmation of this promise. \n\nThe stay was at XXXX XXXX XXXX XXXX from XXXX XXXX, 2024. The lack of transparency, accountability, and professionalism from both AMEX Travel and the hotel was frustrating and disappointing."
+}

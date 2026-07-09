@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-158034",
+  "invoice_date": "2026-03-07T00:00:00Z",
+  "amount_cents": 24567,
+  "currency": "USD",
+  "billing_address": "6850 Maple Ct, NY, 120XX"
+}

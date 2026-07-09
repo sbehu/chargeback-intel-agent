@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6002",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93906"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12058,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been disputing a transaction since XX/XX/year>. At one point during this time, a manager in the dispute department told me they could credit my account {$250.00}. I did not take the credit because the dispute was still open, and I had been told multiple times that there was a possibility that I would receive the full amount of {$1000.00} back to my account. I have been working with the executive office, and the latest representative told me she would do her best to give me the credit of {$250.00}. I received the resolution of only {$100.00}, which was added to my rewards account. The company should honor the {$250.00} that I was told I could get from a multi-billion-dollar corporation, and they can't afford to part with {$250.00} for a long-time customer who has never paid their bill late and spends a ton of money on their account. It is so completely frustrating to go through this process with a company that does not keep its word."
+}

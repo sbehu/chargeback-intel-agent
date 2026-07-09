@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3016",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85295"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42802,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a reservation with XXXX. As I approached the destination, I was nearly attacked by people in the neighborhood. I drove to a safer area and reported the incident to XXXX, prior to my check-in time. I told XXXX that I was not going back to the area of the reservation, that I expected a full refund ( not being charged any amount given the circumstances ). The next day, I also provided proof to XXXX that the host messaged me details which indicated that the listing was inaccurate. XXXX took three days to refund me, and they kept 3 nights of my original reservation payment, despite that I never officially checked in and spent those 3 nights in my vehicle. I was charged for services that I did not receive. I filed a dispute with Citi on XXXX XXXX given how XXXX was sluggish to simply refund me. After initiating this dispute, I spent almost XXXX hours across 5 months fighting for the refund I was rightfully owed. I provided them various proof of all that happened -- messages from the merchant 's platform, proof that the listing was inaccurate, and phone call logs of all of my attempts to resolve the situation. Citi was quick on several occasions to send me a \" canned '' response, and there were absolute indications that Citi did not exercise due diligence to protect me as a consumer, for a situation where my life was endangered. During one of my last attempts to address the dispute with Citi, a manager in the credit card department had the gall to debate with me about my dispute. I am certain that if the appropriate governing entity were to audit the investigation Citi performed, they would find obvious evidence that Citi failed to follow protocols to protect me under credit laws. This credit card has been open for at least 8 years, and I have spent hundreds of thousands on this card as my primary method of payment. I would close the credit card, but that would have a negative impact on my credit score. I will barely use this credit card going forward, since I can not rely on Citi to follow basic protocols that other credit card issuers follow to protect consumers. I already closed my Citi savings account."
+}

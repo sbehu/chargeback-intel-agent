@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2989",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "480XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49348,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went to bar in Arkansas and my American Express card was charged XXXX dollars when I did not authorize these charges. My wallet was taken, and all my cards were used for a lot of charges."
+}

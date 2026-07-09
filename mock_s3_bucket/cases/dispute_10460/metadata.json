@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10460",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78222"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25345,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased an XXXXXXXX XXXX XXXX from Best Buy using my Best Buy Credit Card issued by Citi. Shortly after purchase, the PC experienced serious and recurring hardware failures, including motherboard-related issues that made the system unreliable and not fit for its intended use. \nI worked in good faith with the manufacturer through the warranty and XXXX process. My PC was held by XXXX  for several weeks without a technician assigned, with no clear repair timeline, and without visibility into repair status. XXXX  ultimately refused to authorize a refund or provide any durable remedy, stated that replaced components would not receive extended warranty coverage, and acknowledged that post-warranty failures would not be guaranteed coverage. \nAlthough the PC was eventually returned to me, the underlying defect was not permanently resolved, and the repair does not provide reasonable assurance of long-term reliability given the history of failures. \nI disputed the charge with Citi, as the issuer and servicer of my Best Buy Credit Card. Citi closed and refused to reopen my dispute solely because Best Buys 15-day return policy had expired. Citi did not properly investigate the defective merchandise or the manufacturers failure to provide a lasting remedy and instead relied on a store return policy.\n\nThis is not a case of buyers remorse or a voluntary return. It is a dispute involving defective merchandise that was not fit for ordinary use. Citis denial failed to comply with the Fair Credit Billing Act by not conducting a meaningful investigation into the defect.\n\nI am requesting that Citi be required to reopen and properly investigate this billing dispute and provide appropriate relief for defective merchandise."
+}

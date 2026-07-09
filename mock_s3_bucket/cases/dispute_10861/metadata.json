@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10861",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "59714"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19998,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally dispute several unauthorized charges and report ongoing issues regarding my account. \n\nSince opening this account, I have experienced consistent technical failures with the online payment system. Despite my attempts to pay by phone, I have been charged multiple {$29.00} late fees due to internal processing errors between XXXX XXXX and Citibank. \n\nFurthermore, I am disputing the following unauthorized charges from XX/XX/year>, totaling {$730.00} : - {$160.00} ( Camera system ) - {$230.00} ( Camera system ) - {$190.00} ( Construction radio ) - {$130.00} ( XXXX ) I did not purchase these items, and I do not own a camera system or a construction radio. Although I filed a dispute on XX/XX/year>, and received an acknowledgment on XX/XX/XXXX, I was notified on XX/XX/XXXX that I was being held responsible. These amounts were subsequently added back to my statement in XX/XX/year>. Additionally, I discovered that two cards were issued in my name, though I only possess one. \n\nOn my XX/XX/year>, statement, I identified further suspicious charges totaling {$950.00} for which no information could be provided. Most recently, a representative refused to speak with my attorney and accountant, even after I provided verbal authorization. \n\nThese ongoing issues have prevented me from taking advantage of no-interest promotions. While I am hesitant to pay the balance in full as it may complicate the refund process, I am continuing to make payments to avoid negative impacts on my credit report.\n\nI am requesting a full investigation into these unauthorized charges, the removal of all associated late fees, and clarification regarding the second card issued in my name. I look forward to your immediate attention to this matter."
+}

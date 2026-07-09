@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4453",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23238"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6829,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I charged {$130.00} to my Shop Your Way Mastercard credit card. The vendor was XXXX. The vendor never sent the items I purchased. I contacted the vendor at least twice with no response. Then I disputed the charge twice with Shop Your Way. The credit card company denied my dispute, saying that I didn't provide them information they requested. I never found evidence that they requested anything from me beyond the initial indication that they were disputing the charge. Furthermore, I have no evidence to provide them other than the fact that the items I purchased never arrived. Shop Your Way is refusing to credit my account. I informed them that I would be contacting the CFPB on this matter, and they never responded."
+}

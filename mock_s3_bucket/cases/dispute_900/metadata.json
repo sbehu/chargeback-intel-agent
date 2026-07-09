@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_900",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "960XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1878,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Best Buy credit card through Citi charged me for services without my knowledge, request or approval. i wrote them requesting they correct their error, and they are not only refusing but threatening me and charging me penalties and fees."
+}

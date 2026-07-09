@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7321",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20147"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11203,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, I submitted a complaint with CFPB. \nMy XXXX  card company has closed a dispute with the merchant twice already and it seems Amex isnt responding or willing to look into the supporting documents submitted by me. \n\nAmex chooses to side with the merchant but its unfounded. \n\nI purchased an item online but never received it. \nThe merchant merely provides the purchase invoice, the terms and conditions of purchase and a proof of delivery from XXXX showing that someone named XXXX signed it. I dont know who that is, I dont recognise the signature nor have I given any authorisation to this person to receive my parcel. XXXX states that they have delivered it to the right address and refuses to refund. \n\nI have requested from the building XXXX to conduct a thorough investigation and received in writing that no XXXX  package was delivered for me. ( I have provided Amex with this email ) I also provided text messages from XXXX sent to me about the delivery of my package. \nXXXX texted that the delivery was \" delayed '' and they would try again next business day. However, tracking information on the XXXX website shows delivery that same day they texted me that the delivery was delayed and they would try again next business day ( they allegedly delivered it on Saturday ). \nI provided all these documents but Amex is refusing to review these. They are accepting that the merchant has provided evidence of proof merely by sending the XXXX  delivery document signed by this person and accepting it as sufficient proof. \nAmex closes my dispute and does not properly investigate the matter. \nMy complaint at CFPB doesnt seem to have any impact on this. \nCan someone please provide assistance? \nThank you. \n\nBest,"
+}

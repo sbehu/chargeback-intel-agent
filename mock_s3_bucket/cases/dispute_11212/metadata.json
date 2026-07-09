@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11212",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "787XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18586,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of last year, I applied for a Best Buy credit card issued by Citibank ; however, I never received the physical card. On XXXX I became aware of the issue when I received an alert regarding a past due balance on my credit report of my other Bank. This was the first time I realized the card had been used. I never received, activated, or used this credit card and did not authorize any purchases. \nAfter reviewing the limited information available to me, I found that multiple transactions had been made ( over XXXX usd ). The only purchases I could identify were those visible through my Best Buy account, there were purchased in person.The other purchases, I was not able to identify, as I never activated the card and therefore do not have access to any Citibank account associated with it. \n\nAt the time these transactions occurred, I was outside the United States on a family XXXX trip, so no way I could not get any alert. I believe the card may have been intercepted and fraudulently activated by an unknown individual who has used it. \n\nI also contacted Citi Bank to dispute and they can not block the card because they were not able to verify my identity, ( since I never open an account or activate that card ) and refuse to do anything else for this matter, just wait up XXXX  days. NO more options, no another way of verification, nothing. \nI Also found that the online activity was on XX/XX/XXXX at XXXX hours ( see screenshot of email I realized now ) and purchases were transacted XXXX hour later ( when we were out of the USA ) So far I dont know where to go for help, I went on Identity theft as well and submit my dispute, hope it can helps and get some other help to solve this soon."
+}

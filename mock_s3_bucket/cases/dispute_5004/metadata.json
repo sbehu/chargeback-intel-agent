@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5004",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91316"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26854,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The transaction happened with my Citibank credit card on XX/XX/2024 for the amount of {$110.00} and another amount for {$110.00}. \n\nI contacted my phone carrier XXXX on that day to upgrade my two telephones that I have on my account I wanted to order two new XXXX XXXX. \n\nI have their magenta plan which charges me {$35.00} per line each month because I am XXXX and over. \n\nThe salesman on the phone guaranteed me my plan would not change at all, but I would just get the two new phones and thats it. \n\nWhat I came to find out about a day later was that instead of my bill being combined with Internet and cell phones two of them {$110.00} a month I was going to be paying {$180.00} a month because he took me off of my plan. \n\nThis salesman was not truthful. He was a scammer. He was deceitful and he was lying. I contacted XXXX immediately and I have spent a couple of months going back-and-forth with them, begging them to please resolve this because they put the order through charged my card and sent me two new XXXX  of which I returned back to XXXX And I have a proof in my email that they received those phones. \n\nThe so-called upper echelon of the company kept telling me everything was resolved. We took care of it. your bill still XXXX a month the transaction was canceled. Your account was credited. But in the meantime what I did when I saw that it wasnt being resolved. I filed the complaint with the FTC. \n\nNow, today I received a copy of a letter from my credit card company stating that XXXX responded and is holding me responsible for those two charges of {$110.00} regardless of me canceling the sales transaction and returni\n\nng the two new XXXX back to them. I wan na know since when in this country is it not legal to return an item and cancel the transaction So of course Citibank believed XXXX over me and is holding me accountable for money for services and products. I dont have Citibank has no right to do this to me. This is credit card abuse Upon a senior and I dont care if Im a senior or not they dont have the right to do this to me. \n\nAgain I spoke to XXXX today again is giving me the runaround and telling me they wan na keep me as a customer and that theyll resolve it. \n\nI see no resolution in the future with this matter. \n\nI am being deceived and defrauded out of my money by XXXX which they claim theyre trying to take care of it and now Citibank credit card company Its really now Citibank that Im filing a complaint against and their credit card that they issued me and that credit card is connected to my Costco membership"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2063",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97303"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42459,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made two purchases from Best Buy totaling {$1600.00} and was supposed to receive both XX/XX/2023. I was not home and had instructed delivery drivers to leave my package on the side porch. I had received delivery photos and instantly started heading home since they left them on my front porch. By the time I got home ( about 30 minutes-1 hour after delivery ) my packages were not on my front porch. I had checked with all surrounding neighbors to see if they received my packages or seen anybody around my house and they all said no. I called Best Buy soon after and explained my situation and they had told me they could refund my money, or send me a replacement. I asked for my money back so I could go in store to purchase instead and they agreed. I was told to wait about 7 days for the funds to be returned back. I called every 3-7 days for the next month and was always told to wait because the money was coming back but it never did and they just kept pushing it farther and farther. I made a police report in XXXX after being ran around by this company for months and being told they can not do anything for me. Police officers told me there is not much they can do because it has been months. I had called and tried to dispute both charges twice and was told that the people I was talking to probably did not understand my situation and should not have told me I could get a replacement or my money back. Best Buy had also told me they had made claims with XXXX  ( the delivery company ), but I had called XXXX  to see if I could open my own claim and I was not able to since I was not the ones that sent the package. XXXX also had absolutely no record of any claims being made from Best Buy regarding my packages, which was extremely frustrating as I had been calling Best Buy 2x a week for months to check on my refund and I had made countless claims. Now I am being charged interest on my account as well and the purchases combined are now {$1600.00}. \nI had called them 12 times between XX/XX/2023 and XX/XX/2023."
+}

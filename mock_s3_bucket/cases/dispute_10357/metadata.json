@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10357",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "721XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21358,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CFPB SUPPLEMENTAL STATEMENT Scope Clarification American Express National Bank This supplemental filing is submitted to clarify the scope of my pending CFPB complaint against American Express National Bank.\n\nFor avoidance of doubt, the complaint concerns American Express National Banks handling of billing disputes and investigations across all applicable American Express consumer credit card accounts held by me, including but not limited to my American Express Gold Card and my other American Express consumer card accounts.\n\nThe procedural failures described in my complaint including same-day dispute closures, refusal to conduct reasonable investigations, improper reliance on cardmember agreements or merchant policies, and enforcement of disputed charges after notice of illegality are systemic in nature and not limited to a single account number.\n\nAmerican Expresss conduct reflects a pattern of dispute handling practices applied uniformly across my accounts, and this clarification is provided solely to ensure the record accurately reflects the intended scope of review.\n\nAll prior filings, exhibits, and requested relief remain unchanged and are incorporated by reference.\n\nSupplemental Evidence Note : Attached is an indexed exhibit packet demonstrating that American Express National Bank closed disputes on the same day they were opened and expressly stated it was unable to investigate based on internal cardmember agreement or merchant policies, despite prior written notice and uploaded evidence asserting illegality of the underlying transactions. The exhibits reflect a refusal to conduct a reasonable investigation rather than a substantive dispute determination."
+}

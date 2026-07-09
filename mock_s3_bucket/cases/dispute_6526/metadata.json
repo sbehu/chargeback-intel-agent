@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6526",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92130"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-29T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21339,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This letter is submitted in support of my ongoing fraud investigation, Case Number XXXX with Barclay Card US, regarding unauthorized charges made to my account. I have provided verifiable, system-level evidence that confirms my physical location and professional activity on both XX/XX/year>, and XX/XX/year>, thereby demonstrating the geographic impossibility of my involvement in either transaction. BarclayCardUS has denied this is fraud and has closed the claim despite XXXX XXXX Police Department opening a case file. \n( # XXXX ) Overview of Events The charges in question occurred on XX/XX/year> ( XXXX ) for {$98.00} and XX/XX/year> ( XXXX ) for {$98.00}, both processed at physical locations over XXXX hours from my residence. Barclay disputes this and says it was physical swipe. I am single and no one has access to the card. \nI reported these charges as soon as they were discovered, within the 60 day window and closed the card. \nOn each date, I was working from my home office developing materials for a national medical education course. \nXX/XX/year> ( XXXX ) File-Based Documentation of Course Development XXXX. Timestamped File XXXX XXXX XXXX XXXXecture file titled \" Introduction to XXXX XXXX with XXXX XXXXpptx '' was : o Created : XX/XX/year> o Last Modified : XX/XX/year> at XXXXXXXX XXXX XXXX Accessed : XX/XX/year> to show version history File properties show : o Exclusive authorship under my personal OneDrive account o Document created and edited locally from my home system XXXX. XXXXXXXX XXXX Version History Internal version tracking shows : o Edits on XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX and into the afternoon o Evidence of sustained interaction throughout the morning and early afternoon 3. Screenshot and Path Evidence File path screenshots confirm : o Document was created and stored inside a teaching folder named \" XXXX XXXX XXXX on my hard drive o No evidence of file syncing, editing, or access from any outside location ________________________________________ XX/XX/year> ( XXXX ) Timestamped XXXX XXXXranscript Activity XXXX. XXXX XXXX XXXX I use XXXX as a key component of my live course preparation process. \nOn XX/XX/year>, I engaged in multiple structured content drafting sessions tied to the same curriculum above. \nMetadata logs show : o A XXXX response created at XXXXXXXX XXXX on XX/XX/year> ( epoch time : XXXX ) o The data is taken directly from the raw export .json system file, not altered or edited post-download. I can reproduce this on demand. \nXXXX. Desktop File Capture Supporting screenshots show : o Export timestamps and session naming consistent with course content development o Content Redaction and Consistency The content of the XX/XX/XXXX transcript has been intentionally redacted in the included screenshots due to private clinical case structure, but the XXXX is intact. \nThe visual timestamps and machine-generated file paths confirm XXXX platform XXXX on XX/XX/XXXX during the same timeframe as the disputed charge. \n________________________________________ Conclusion The documentation submitted here confirms I was : Present and active on my home workstation during both transaction windows Engaged in a continuous curriculum development process for a published, live medical course ( verifiable online ). \nNot in proximity to the charge location, and never authorized the purchases in question All screenshots and metadata are available in high-resolution, if needed in digital or printed form as well as a copy of the police report."
+}

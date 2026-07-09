@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6463",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95823"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44641,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My wife and I have made XXXX purchases with XXXX by XXXX. The first in XXXX of XXXX and then again in XXXX of XXXX. On the first contract, XXXX opened a XXXX credit card for me and the down payment was charged to this XXXX. Little did I know they were also charging the payments and maintenance fees to this card also. On the second contract, XXXX charged a XXXX credit card of my wife, XXXX, and put the down payment on this XXXX. And again the payments and maintenance fees were charged to the XXXX monthly. \nNeither one of us agreed to the charges going on the credit card. When we looked through the contract documents, we found XXXX PreAuthorization for Autopay Documents but neither of us signed these authorization forms. There are signed receipts for each downpayment made, but no signed authorization. We have been trying to work with XXXX to cancel these contracts. It has become a very devastating financial hardship for us, We are struggling month to month and they will not help us at all. When we noticed these forms, we were appalled. XXXX has taken money without our authorization or consent since XXXX. They said we knew it would be charged to the card. How..... we didn't authorize the charges? So now we want our money back from this scam company."
+}

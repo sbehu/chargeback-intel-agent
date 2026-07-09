@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12039",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3820"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46734,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, my husband and I entered into a written contract with XXXX XXXX XXXX for custom quartz countertops. The total contract price was {$9700.00}. On XX/XX/XXXX, Citi posted a {$7200.00} deposit charge for this transaction. \n\nThe key issue began before installation. On XX/XX/XXXX, the scheduled installation did not occur after the merchant identified a shop-fabrication seam/adhesive problem. On the phone, the merchant described the issue as defective adhesive. The merchant then sent a photo and texted that the seam was much darker in person. The installation was rescheduled so the merchant could correct the seam/adhesive issue at its shop. \n\nOn XX/XX/XXXX, the merchant presented the countertops for installation. During that installation attempt, it became apparent that the shop-fabrication defects had not been corrected. The visible defects included dark/visible seam adhesive and mitered-edge veining/pattern misalignment by several inches. Installation was stopped before acceptance. The merchant then departed with the countertops that same day. We did not accept, keep, retain, or use the goods. I sent the merchant a written refund demand on XX/XX/XXXX. \n\nOn XX/XX/XXXX, in its dispute response, the merchant admitted that the fabricated product was still sitting completely fabricated in our facility. That admission confirms the countertops were not accepted by me and were not delivered as agreed. \n\nOn XX/XX/XXXX, Citi denied the dispute, stating it could not determine that a billing error occurred. XXXX rationale treated the issue as though the merchant was denied an opportunity to complete the work. That misses XXXX XXXX : the defect was a known shop-fabrication seam/adhesive problem identified before installation, supposedly corrected before the XX/XX/XXXX installation attempt, and then still visible when the product was presented for installation. \n\nUnder Regulation XXXX, a billing error includes property or services not accepted or not delivered as agreed. Regulation XXXX  also states that acceptance is determined by XXXX  law. Under New Hampshire law, if goods or tender fail to conform, the buyer may reject them ; rejection must be within a reasonable time after delivery or tender ; and acceptance does not occur until the buyer has had a reasonable opportunity to inspect and has not effectively rejected. Here, I rejected the countertops during the XX/XX/XXXX installation attempt, immediately after inspecting the visible fabrication defects, and the merchant left with the product the same day. \n\nOn XX/XX/XXXX, I requested XXXX documentary evidence, including the merchant submission, attachments, investigation notes or summaries, and XXXX basis for concluding the goods were accepted or delivered as agreed. On XX/XX/XXXX, I sent Citi a reconsideration package explaining that this was a non-acceptance / not-delivered-as-agreed billing dispute, not a quality dispute after acceptance. The package included the contract, photos, message screenshots, declarations, the merchants admission that it retained the product, and a point-by-point response. \n\nCiti later responded on XX/XX/XXXX that it could not assist further because the merchant had not agreed to accept the credit request. Citi appears to have treated my legal non-acceptance dispute as dependent on merchant consent rather than determining whether the charge was a billing error for goods not accepted or not delivered as agreed."
+}

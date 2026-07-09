@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2289",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11354"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3316,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX, XXXX, a {$100.00} cash transaction was unauthorized taken from one of my Citi credit card and saved to another Citi credit card. It gave me a highest alert because this is a cash advantage transaction with the interest rate up to XXXX XXXX or more, I immediately realized that this is a fraud transaction which I have not done and also have unauthorized anyone to do it. I immediately contacted Citi Bank Dispute Department to start the dispute. Until now I have filed at least 5 continuous disputes to Citi Bank Dispute Department, and also have repeatedly requested assistance from a personal banker form the local Citibank branch office to assist me to deal with this issue. We together have talked to at least 20 agents including a supervisor to dispute this transaction. Unfortunately, in the whole process of the past 4 months, these agents of Citi Bank Disputes Department have showed their extremely unprofessional working manners and very neglect working attitudes towards my disputes, their ignorant responses to my disputes have really surprised me : My phone calls have not only been transferred to different agents, I have been asked to repeatedly tell my experience again and again, but also I have been given different answers, responses and resolutions each time about the fraud including amount and the interests. They have not worked as a well-known professional financial institute employees, but a group of unlicensed and unauthorized street liars! \n\nEspecially after so many investigation, Citibank Dispute Department still have neither addressed my concerns nor found out who really made this fraud transaction, but reported the past due amount and interest to XXXX, XXXX and XXXX to seriously damaged my credit score and reputation, which have caused my credit score dramatically to be dropped down from XXXX to XXXX. \n\nAfter several agents and a local branch office supervisor suggested me to pay {$100.00} to avoid bad credit in different credit bureaus in the investigation process, I had to pay {$100.00} the fraud amount. However, not as those agents promised on the phone, the interests would be removed from my credit card, they have been remained on my credit card and be counted as past due, unpaid, etc ... Until today, it still has continuously caused my credit scores to be dropped down. Those agents sounded like a group liars. \n\nIn the past 4 months, regarding this fraud, I only received one mail from Citibank Dispute Department after the investigation finished which gave me a negative decision. Then, no matter how bad I requested, I have not received any mails to tell me the decisions. I can't trace the process at all. Each phone call made me so upset and consumed my valuable time unlimited. \n\nToday I just saw the result posted in my account that the investigation has been finished and no credit has been refunded to me. It means that the real fraud is not been addressed, but my money and reputation have been stolen and damaged. \n\nThinking back the whole process in the past 4 months, I feel that this decision is very unacceptable, very unprofessional, very incapable, very irresponsible and very disrespectful to my credits ' safety and benefits. Can Citibank agents really be capable to handle these dispute cases? I doubt that. The whole process is a big mess! \n\nDear investigator, I need your intervene to investigate this fraud traction and the investigation process how Citi Bank has made to my case. Thank you! \n\nXXXX XXXX XX/XX/XXXX"
+}

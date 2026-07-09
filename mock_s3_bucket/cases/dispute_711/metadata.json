@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_711",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45865,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My car was stolen on XX/XX/2023, and I have a rental car from XXXX. My XXXX XXXX Insurence paid for my rental but I need it to provide XXXX with my credit card. After returning the rental car at the end of XXXX I was charged by XXXX in XXXX on my credit card {$240.00}. When I called XXXX they told me that they can do anything about so I started a dispute on my credit card. On XX/XX/XXXX I received a letter to sign that I didn't authorize this charge. I emailed Citi credit card on XX/XX/XXXX, then I called them around XX/XX/XXXX and they told me they needed to process my documents. Then I waited and at the beginning of XXXX I called them back this time they told me that they did receive my letter so I ended another one on XX/XX/XXXX. After that, I called them on XX/XX/XXXX and they told me my case was closed and they couldn't resolve my dispute because I was late with my signed letter. On XX/XX/XXXX I got an official letter that I needed to pay {$240.00}. \nI followed all that they asked and I am not responsible for their unprofessional way of dealing with customers. \nPlease help me resolve that problem. \nI had so many problems from this thief who stole my car."
+}

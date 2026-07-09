@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8856",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20110"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28510,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "- INITIAL DISPUTE - On XX/XX/year>, I placed a {$32.00} order through the XXXX XXXX  app for items from a convenience store. The convenience store canceled the order because the items were out of stock. I received notification of this cancellation in the app and took a screenshot for my records. ( See Attachment A. ) However, despite nothing being delivered to me, XXXX XXXX  also did not refund me. I submitted a follow-up request to XXXX XXXX  through the apps help function and took screenshots of that process as well. ( See Attachment B. ) XXXX XXXX  customer service did not issue a refund and instead provided the following response : I understand how frustrating it can be to be charged for an order that was not delivered due to items being out of stock. Upon reviewing your order details, it appears that your order was canceled before the delivery time, which is why you were charged. ( See Attachment XXXX ) The response from XXXX XXXX  is illogical. I did not order a meal that needed to be prepared by a restaurant, but off-the-shelf items from a convenience store ( XXXX ). XXXX canceled the order because the items were out of stock. The time at which the order was canceled is irrelevant, and I dont understand how cancellation after the delivery time would have been better than cancellation before the delivery time, which is the reason given for a refund being denied. Nothing was delivered to me, yet XXXX XXXX  kept all my money even after I followed up with them. \n\nAs a last resort, I disputed the transaction with Citi. On XX/XX/year>, Citi resolved the dispute in my favor. ( See Attachment XXXX ) This was a completely appropriate decision for which I was thankful, and as advised by Citi, I considered the credit permanent. \n\n- FOLLOW-UP DISPUTE - XXXX weeks later on XX/XX/year>, in response to a promotional coupon code XXXX XXXX sent me, I placed a new {$13.00} order for XXXX  and paid using a different ( non-Citi ) credit card I have. XXXX XXXX  charged that card and the order was fulfilled normally. However, on the same day XXXX XXXX  also re-charged my Citi card for the {$32.00} dispute previously resolved in my favor. When I reviewed my Citi account I recognized the amount of the charge was the same as that from the initial dispute, but I gave no authorization for any repeat charge, was not notified one would happen, and immediately disputed the repeat charge with Citi. This time, however, Citi inexplicably decided that I am responsible for the transaction. This must have been a mistake, but no option was provided to appeal or submit additional information. \n\nCiti provided me a copy of the documentation XXXX XXXX  sent in reply to the follow-up dispute. ( See Attachment XXXX ) All this documentation says is that XXXX XXXX  created the transaction using credit card details they already had stored in my account. The documentation does not address why I was charged again for the dispute previously resolved in my favor. If the initial charge was unjustified, then any subsequent re-charges are also unjustified."
+}

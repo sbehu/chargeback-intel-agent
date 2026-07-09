@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6678",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17225,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The fact that the card was chip-activated does not prove that I authorized or made the transaction. I am currently in possession of my card, but that does not establish I had it during the disputed charges. Please provide your fraud investigation criteria and justification in writing. I also request reconsideration based on this evidence and my prior reports. \n\nWhile this dispute is ongoing, I was charged an annual fee. I request that this fee be waived or refunded until the dispute is resolved as well. It is inappropriate to assess ongoing charges while my account is frozen due to fraud. \n\nI will provide attach a copy here of each document I sent to Barclays Bank on XX/XX/scrub>XXXX XXXX XXXX"
+}

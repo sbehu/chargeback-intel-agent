@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6198",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "481XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29591,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Shop Your Way MC/CBNA Case Id : XXXX Security Investigation Phone number : XXXX Citibank toll free number : XXXX XXXX  XXXX XXXX XXXX XXXX, SD XXXX Discovered fraudulent charges of over {$30000.00} made in XXXX on my Shop Your Way XXXXXXXX serviced by Citibank around XX/XX/XXXX. I live in Michigan and have never been to Texas or XXXX. \n\nXX/XX/XXXX : Fraudulent address appears on credit report ( discovered this after requesting 3 credit reports after fraudulent charges were discovered ) Fraudulent address on credit report : XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX XXXX, TX XXXX, I have never lived here! \n\nThis Texas address was on the statements I ordered from CBNA after I discovered the fraudulent charges from XX/XX/XXXX through XX/XX/XXXX on my credit card of over {$30000.00}, all charges were made in XXXX with an actual card. \n\nI Had not used the card since XX/XX/XXXX. Had received no statements and was not notified of any address change. ( I live in Michigan ) Also, my credit rate was {$6000.00}. After they changed my address, CBNA per one of their reps told me they mailed a card out on XX/XX/XXXX, I did not receive or request this card. They mailed the card to the fraudulent address in Texas. My credit rate was then increased to {$15000.00} ( i did not request this ) and CBNA allowed over {$30000.00} to be changed fraudulently in XXXX without my knowledge from XXXX when I discovered the charges in excess of {$30000.00} by calling the back of the card to check balance ( on seldomly used cards I do this periodically ). \n\nXX/XX/XXXX through XX/XX/XXXX charges appeared on account ending in XXXX all made in XXXX. \n\nI live in Michigan. \n\nI immediately closed the account and disputed these charges End of XX/XX/XXXX. Twice XXXX XXXX did NOT RULE in my favor and said the dept was mine. I have not disputed these charges 3 times. \n\nDisputed charges again in XX/XX/XXXX, investigation is still pending. I sent them my police report and FTC report, check stubs, doctor receipts, showing I was in Michigan at time of charges. Sent them my cc report with the fraudulent address and a copy of their statements showing fraudulent address on statements. \n\nI requested to speak with the investigation team on XX/XX/XXXX when I called the XXXX XXXX number at XXXX. I am getting attempt to collect dept letters from Citi Bank. This dept does not belong to me. Citi bank is charging over {$1000.00} each month to this account ( which I closed in XXXX ) and my credit rating has dropped over XXXX points since this all began. My credit reports show payment is over 120 days late. When I call the Investigation number they say investigation is still pending. I emailed and asked if there was anything else they need. No response. I asked to have the investigation team call me, they never called me. I emailed supportive documents to them ( stated above ). I did receive a call from them at the beginning of XX/XX/XXXX after I sent the email and spoke to someone from the investigation team and told him I would submit the supporting documents. I did that the same day I spoke to him. I have not heard anything else back from them, only that this is still pending investigation since I reopened it again at the end of XX/XX/XXXX. Please assist in resolving these fraudulent charges from XXXX that do not belong to me!"
+}

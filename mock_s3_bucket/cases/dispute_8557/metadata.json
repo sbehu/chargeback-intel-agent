@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8557",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33625"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35071,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am the account holder for a business account ( XXXX relationship ) ending [ # # # # ]. On XX/XX/year>, while XXXX XXXX was still in Florida, I reported fraud to AmEx. Despite that notice, AmEx did not promptly stop or reverse pending items; multiple authorizations were allowed to settle. Later, after XXXX XXXX had traveled to XXXX, AmEx appears to have canceled only his return flightand I received no written notice from AmEx identifying what was canceled/credited versus allowed to post. I learned of the return-flight cancellation from other sources, not AmEx. \n\nA criminal investigation is active ( XXXX, XXXX. XXXX XXXX ) and is referenced in XXXX Report XXXX. XXXX. AmEx has filed a civil action ( American Express National Bank XXXX XXXX ; XXXX XXXX, XXXX, Div. XXXX, XXXX XXXX, XXXX ). I have moved for a stay and extension. \nTo reiterate the facts : XXXX XXXX was NOT an authorized account holder. He was issued a business card under my company, XXXX XXXX, but the account is solely under my name and linked to my personal Social Security Number ( SSN ). He was never granted full account access, yet he was able to make unauthorized personal charges on both his assigned card and mine. \n->I never authorized these charges. XXXX XXXX used my business account for personal, non-business-related expenses, which is a clear abuse of access and a fraudulent misuse of my account. \n->American Express failed to act on my fraud report. Upon discovering these unauthorized transactions, I immediately called American Express around XX/XX/year>, to report them. Instead of taking action to protect me, American Express ignored my report and has since attempted to shift the blame onto me. \n->American Express falsely claims I requested changes to account access. I have received letters from American Express sta ng that, based on my request, it removed XXXX XXXX full account access, concierge access, and travel access. This is a blatant lieI never made such a request, nor was I ever informed that XXXX XXXX had these accesses in the first place. How was he granted these permissions without my knowledge? Who approved them? This represents a severe breach of account security by American Express. \nAmerican Express wrongfully closed all my accounts. Instead of properly investigating the fraud, American Express canceled all my accounts under the false pretense of returned payments. This reckless ac on directly resulted from XXXX XXXX fraudulent transac ons, yet I am the one suffering the consequences. \n->I have paid a {$700.00} annual fee for fraud protec on that American Express has completely failed to provide. I paid this premium for the American Express Pla num Card with the understanding that I would receive elite service, fraud protec on, and account security. Instead, I have been le paying for fraudulent charges with no support from American Express.\n\n-> American Express failure to act has caused me severe financial harm. Your negligence has placed me in financial distress, forcing me to bear the burden of unauthorized charges, the unjust closure of my accounts, and ongoing damage to my financial reputation."
+}

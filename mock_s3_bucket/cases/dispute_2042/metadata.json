@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2042",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22150"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14986,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a complaint against XXXX XXXX XXXX XXXX XXXX due to a transaction for a real estate coaching that I requested. The company did not comply with the contract and took XXXX from me. I have been trying to get my money back by contacting American Express which was the bank that I used to pay XXXX to XXXX XXXX. American Express told me that they can't help me because of their policy, i feel this is unfair when other people in my situation are getting their money back. Please I need some assistance I'm a XXXX Veteran and this situation has contributed to my condition. \n\n\nI know people who submitted their complaints here and got their money back."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5949",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95301"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9794,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed two transactions billed by XXXX which were charged to my credit card. I explained to the Citi Card representative that my son, XXXX XXXX , made these transactions without my authorization. XXXX is not an authorized user on my account and he went through my purse a while back and used my card. I told him he needed to stop using it as he would not pay me the amounts that were being charged, so I requested a replacement card sometime in XXXX. My son did the same and got ahold of this new card number, and made two new transactions on XX/XX/XXXX, amount of {$390.00} & XX/XX/XXXX amount of {$770.00}. Im not disputing any transactions from XXXX, but absolutely will not be accountable for the ones XXXX charged in XXXX. I have kicked my son out of my home due to this and many other problems. Citi Card & XXXX need to go after my son for these charges, and not myself. If Citi Card needs to sue him, they should do that. The driver license # for my son is XXXX, Citi card can go prosecute him. If Citi Card refuses to resolve these disputes, I will not pay my credit card statement balance and the entire credit card bill can go to collection. I do not understand why Im being held responsible for these unauthorized charges when I'm giving Citi Card all the info required for the dispute and also advertises fraud protection, when clearly this is false advertising when I'm still being held responsible. *this letter was translated from XXXX to XXXX"
+}

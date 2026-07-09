@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11505",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "23503"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7863,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> For {$2500.00} XXXX. The merchandise was delivered damaged. I was trying to return it but they wouldnt allow me too"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_746",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "47401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29898,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Citibank about 58 charges made to my credit card account to XXXX XXXX XXXX XXXX XXXX XXXX XXXX. These charges were made by a XXXX XXXX XXXX who DID NOT HAVE PERMISSION to use my card to purchase online games.\n\nI communicated with Citibank through their online interface, through fax and phone starting XXXX XXXX  (when I first noticed the charges on my statement). (This wasn't a card that I used. I had the payment on auto-pay, paperless billing until the promotional balance was paid in full.)\n\nYesterday, XXXX from Citibank called to say that they were not honoring the dispute because I didn't make the dispute in time, I paid the balance of the charges in XXXX, and that I couldn't prove that my XXXX XXXX XXXX  made the charges without my permission. \n\n- I first disputed the transactions on XXXX XXXX and continued to attempt to communicate with Citibank agents. I was routinely passed to different departments who said I would need to contact different departments. One number that I was given was even disconnected.\n- I paid the balance of the charges in XXXX because Citibank was not responding to my claim and they were continuing to charge my account interest.\n- I did not give my child access to my account nor permission to use the card for XXXX, let along 58 charges totaling over XXXX dollars in just over one month.\n\nThere are 58 charges from XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX   for digital goods-games. I did not make these transactions to XXXX  nor did any authorized users on my account make these transactions.\n\nI've tried on several occasions to communicate this issue to Citi including by fax. I would like these charges reversed and my account fully credited.\n\nTransaction IDXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+}

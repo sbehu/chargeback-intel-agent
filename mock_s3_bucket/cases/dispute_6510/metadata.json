@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6510",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "074XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44363,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a {$150.00} XXXX gift card at XXXX using my American Express card. When I gave the card to the recipient, they attempted to use it but were told by XXXX that the card had already been redeemed online before they ever received it. I contacted XXXX, who confirmed it had been used but said they could not assist since they werent the seller. I contacted XXXX, who also refused to assist and told me to dispute the charge with my credit card company. \n\nI submitted a formal dispute with American Express for a charge involving a fraudulently used gift card. Despite providing all relevant details and evidence, AmEx sided with XXXX and closed the dispute without issuing a credit. This decision disregards the fact that I paid for a product ( a gift card ) that had already been compromised and used by someone else. This is a clear case of consumer fraud. Neither the merchant nor the issuer is taking responsibility, and I am being unfairly held liable for a product I never received the benefit of.\n\nIm requesting CFPB intervention to compel American Express to reopen the dispute and issue a refund. I am also concerned that XXXX XXXX have sold other compromised gift cards and that this situation could be affecting more consumers."
+}

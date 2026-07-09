@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_163",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CT",
+    "complaint_zip": "6066"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26930,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Holds from car rental companies totaling XXXX have not been returned to my available balance. XXXX hold from XXXX XXXX  has been sitting, since on my available balance since XX/XX/XXXX. This company is usually reliable, but something has dramatically changed."
+}

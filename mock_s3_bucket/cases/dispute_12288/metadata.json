@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12288",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32832"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1969,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had an astonishingly bad experience with a third party hotel booking website, called XXXX. They apparently have a reputation for booking hotel rooms that are not actually available, and I was no exception. I kept trying to confirm with the hotel, XXXX XXXX, in XXXX, AZ, that I had a XXXX XXXX XXXX XXXX, over the course of 10 days. Lot 's of fake assurances from XXXX, but no hotel room confirmation from the hotel. 2 days before my planned arrival, with still no hotel room, I attempted to cancel, but XXXX would not permit that. Still no hotel room.\n\nSo I canceled my flight and disputed it to my bank, Citibank. Citi dispute Case ID : XXXX. To add insult to injury I had paid {$260.00} for free cancellation, which I found out doesn't apply to me. ( sneaky legal loophole, to pocket more of my money ) I talked to the manager of the XXXX, XXXX XXXX, ( XXXX ) XXXX. He told me that my reservation actually finally became active at XXXX XXXX  ON THE NIGHT OF MY PLANNED ARRIVAL! Well that's not good enough. Only a XXXX would proceed to fly to XXXX with no reservation for a hotel room. So Citibank did an exhaustive investigation, and denied my request for a refund of my {$3500.00}. Citi didn't even care that I had paid {$260.00} for a refund guarantee, so they were using only {$3200.00} for me. This is ridiculous, and I can't believe Citi would not honor this request of mine. This is obviously wrong. XXXX XXXX ending in XXXX. I've uploaded the documents I have pertaining to my case. I want my money back.\n\nI have not tried to fight this with XXXX, as they are a company in XXXX with a questionable reputation. ( see attachments ). There isn't a snowball 's chance that they would do anything about it, believe me. But their email is XXXX."
+}

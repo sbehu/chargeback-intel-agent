@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_33",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7208"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40240,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a coat from jomashop on XX/XX/23 and returned the coat through usps XXXX. XXXX has confirmed that the package was delivered to an individual at the merchant address. The merchant however has refused to issue a refund. I have disputed the charge with my citi credit card however my credit card has said the company disputed the charge and will not respond to their calls or e-mail and cant resolve my dispute or refund."
+}

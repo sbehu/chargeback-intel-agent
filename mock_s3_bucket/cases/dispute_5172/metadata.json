@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5172",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17883,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a police report stating that my account had been fraudulently used. Charges on a card account that I do not recognize with XXXX. I had opened the account almost XXXX years ago but never used the card. Police Report # XXXX, XXXX  XXXX XXXX XXXX."
+}

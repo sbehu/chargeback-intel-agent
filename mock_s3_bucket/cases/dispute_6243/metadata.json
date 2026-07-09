@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6243",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95403"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46543,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a second complaint against Citibank because they refused to refund {$3300.00} in unauthorized charges from a merchant called XXXX XXXX XXXX, which were billed to my Citi credit card between XX/XX/XXXX and XX/XX/year>. I previously filed a CFPB complaint ( Complaint # XXXX ), but I was not able to submit a rebuttal to Citis response due to the limited response window. \n\nTo clarify : I authorized a few transactions with this merchant. The charges in question were made without my consent or knowledge. I did not agree to any recurring billing, subscription, or purchases made without my consent. These transactions were unauthorized, and I noticed them only after reviewing my statements. \n\nCitibank responded that because I had previously done business with the merchant and provided my card information, all the charges thereafter were valid. I strongly disagree with this position. Providing my card for a few transactions does not mean I authorized {$3300.00} in charges that were made without my consent. Citi did not perform a proper investigation or request proof of my authorization for each transaction. Citibank 's XXXX attempted to call me one hour before their closing time, of which I was unable to respond due to my obligations that I had during the time. Then, they \" completed '' their investigation the very next morning, without giving me adequate time to respond. \n\nThis handling violates my rights under the Fair Credit Billing Act ( FCBA ), which protects consumers from billing errors and unauthorized charges. Citi failed to meet its obligation to investigate my dispute in good faith. \n\nI am also filing a complaint with the Office of the Comptroller of the Currency ( OCC ), as Citibank is a nationally chartered bank and I believe this is a broader issue of unfair dispute resolution practices."
+}

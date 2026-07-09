@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5762",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43274,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, I am writing to formally dispute an incorrect charge on my account regarding a duplicate balance transfer that occurred between XXXX XXXX  and Barclays Bank in XXXX and XX/XX/XXXX. Below is a timeline of the events : XX/XX/XXXX I opened a XXXX XXXX  account to complete a balance transfer of {$4100.00}. \n\nXX/XX/XXXX A second balance transfer of {$3800.00} was posted, overpaying my Barclays account by {$4100.00}. \n\nI immediately contacted both banks, but was informed that the transfer could not be canceled as it had already posted. \n\nBarclays refunded me {$4000.00} via check, which I deposited and subsequently used to pay XXXX XXXX  on XX/XX/XXXX. \n\nUsing my tax refund, I fully paid off my XXXX XXXX  balance, reducing it to {$0.00}. \n\nXX/XX/XXXX Upon logging into my Barclays account, I noticed a new charge of {$4200.00}, which I do not owe. \n\nBarclays informed me that a check was cashed, and I needed to contact XXXX XXXX. However, XXXX XXXX  has no record of an outstanding balance or overpayment. \n\nAt this time, I am being incorrectly charged for a balance that I have already paid. \n\nI request an immediate investigation and correction of this issue. Please provide me with a written response within 30 days, confirming the resolution. \n\nI appreciate your prompt attention to this matter. You can contact me at XXXX or at XXXX XXXX"
+}

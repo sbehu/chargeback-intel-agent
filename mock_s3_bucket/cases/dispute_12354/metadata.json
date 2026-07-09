@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12354",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "079XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27398,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Items Charged with Barclays Card Master Card with following Merchants XX/XX/XXXX - XXXX  {$190.00} - Ordered from merchant cieling fan on XX/XX/XXXX, item arrived mid XXXX and was wrong item. We contacted the merchant via online form 3 times with no assistance. We opened dispute with Barclays that items was incorrect and we are attempting to resolve. Barclays reached merchant only to provide confirmation shipping which is correct. However we provided photos of the item different from order and several attempts to resolve the order. Barclays replies that timeframe is out of limits when dipsute was opened and provided details all within timeframe XX/XX/XXXX - XXXX {$520.00} - Placed special order for cabinet parts instore- Merchant was suppose to deliver the products on XX/XX/XXXX. After several attempts to reach the store, mercahnt confirmed the items were never delivered nor did manufactuerer provide any insight into delivery. The dispute was immediately created due to delay and no response. Evidence of items and email showing merchant could not locate or provide ETA of items to be dleivered with prompt reply to Barclays with evidence of emails, order, etc. Barclays failed to review detailed information and closed dipsute XX/XX/XXXX - XXXX {$100.00}. XXXX XXXX via XXXX on XXXX. After receiving merchandise items arrived damaged. Contacted merchant on XXXX they state XXXX issue a return label, XXXX reply was that merchant issue label. After weeks of trying to resolve the return. I opend a dispute with Barclays, providing them with evidence, emails, on the process and return label responsbility. Merchant XXXX replies with only a delivered confirmation and no other info as I provide detailed info to the merchant. However Barclays then state the claim is closed due to timeframe. However all communiation was replied within Barclays terms and conditions. \n\nXX/XX/XXXX XXXX {$130.00} - Ordered XXXX XXXX from Merchant with Barclays CC. XXXX  eceipt the battery was delivered with heavy leaks. Reporting the damage to merchant, merchant replies to dispose the battery and will refund. After waiting 21 days refudn never came. Merchant was contacted with no reply. After no reply we opened dispute with same reason, merchant replied to Barclays item was delivered not that it was damaged, we provided emails, and communication from the merchant that refund will be issued and dipsoe of the toxic battery. However Barclays replied back dipsute closed after merchant provided deliery info and confirmation. We provided different reason and leak photo along with email of dispose and refund. However Barclasy then replied with are out of time, while working within Barclays own timelines."
+}

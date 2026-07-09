@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7983",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33462"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4896,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> we were convinced to purchase a membership in a vacation club owned by XXXX using XXXX American Express cards -- the main one opened the day of the sales pitch. We were clearly lied to by the salesman about what the expenditure of {$24000.00} would entitle us to. We tried online and on the phone to make arrangements for vacations similar to what we expressed interest in at that meeting. We had no success and tried time and again to make a settlement with XXXX XXXX XXXX. \n\nGiving it further thought we realized without the use of the credit given to us by American Express, who partnered with XXXX in the sale and marketing of the vacation club, we would not have been able to make the purchase. So we communicated with American Express who initially refunded XXXX of the purchases which made up about 80 % of the total. A few weeks later they contacted us and put the charge back on our card saying we did not use the recission period to ask for a refund. But we did not know for months that we were never going to get what we thought we had purchased."
+}

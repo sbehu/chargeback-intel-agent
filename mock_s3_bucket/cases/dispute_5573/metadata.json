@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5573",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "87031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4353,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I booked a car rental reservation with XXXX in XXXX, XXXX. The problem was that I later found out from the car rental company ( by calling locally and internationally and their website where the provided confirmation number didn't even exist ) that there were no rentals available ( none were available anywhere due to ski season ). When I reached out to XXXX about this concern, they refused to cancel and lied that they could not reach the rental company XXXX XXXX XXXX ). It was an endless runaround where they refused to provide any evidence that confirmation number even existed. In a dispute with the issuer of the card I used, I relayed all these concerns but they completely ignored them in adjudicating my dispute by letting XXXX to use a form response ( including that I canceled for a partial refund after fighting with them for hours but the transcript and email chains I provided clearly show I had no choice after my concerns were ignored ). American Express is facilitating the commission of fraud by the dishonest customer support of this website and failing to protect and help exercise my rights under XXXX."
+}

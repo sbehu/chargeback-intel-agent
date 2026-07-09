@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12466",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15090"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25884,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank / Citi Cards for failing to properly investigate and resolve a billing dispute filed under the Fair Credit Billing Act.\n\nSummary of the dispute : On XX/XX/year>, I was charged {$940.00} by XXXX XXXX XXXX, XXXX ( XXXX, PA ) for a plumbing service call at my rental property ( XXXX, PA XXXX ). The work performed was described as clearing a blocked sewer main line using a cable snaking machine. I am disputing {$800.00} of this charge on the grounds that the service was not completed as expected.\n\nKey evidence of failed service : Only seven ( 7 ) days after the first visit, on XX/XX/year>, the same plumbing company ( XXXX XXXX ) was called back to the same property for the identical sewer blockage problem and charged me an additional {$420.00} ( Invoice # XXXX ). The second technicians own invoice notes confirm that the fresh air inlet the exact access point used on the first visit was still covered, and that the house trap was narrow filled with dirt and mulch. The technician recommended a hydrojet and camera inspection, which should have been performed during the first visit given the severity of the blockage. In other words, XXXX XXXX own documentation proves the first visit failed to resolve the problem. \n\nCitis handling of the dispute : I filed a dispute with Citi on XX/XX/year> ( Citi Case ID : XXXX ) on the grounds of goods/services not as expected. Citi issued a conditional credit of {$800.00} at that time. I subsequently sent Citi a detailed written dispute letter via certified mail, including both invoices and photographic evidence showing the severity of the initial blockage and the condition of the drain at the second visit. Despite this documentation including the merchants own second invoice as evidence of an incomplete first repair Citi sided with the merchant and reversed the conditional credit, holding me responsible for the full disputed amount. \n\nWhy I believe Citis decision was incorrect : Under the Fair Credit Billing Act, a billing dispute based on services not rendered as expected requires the card issuer to conduct a reasonable investigation. I provided Citi with two invoices from the same merchant one for the disputed charge and a second one, dated just seven days later, for the same work at the same location. The second invoice is not a separate, unrelated service : it is direct, contemporaneous evidence from the merchant itself that the first repair was incomplete. A reasonable investigation would have recognized this. Instead, Citi appears to have accepted the merchants response without adequately weighing this evidence."
+}

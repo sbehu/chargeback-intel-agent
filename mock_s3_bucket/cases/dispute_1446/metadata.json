@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1446",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "62704"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3840,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have tried to receive a refund regarding a purchase for {$20.00} on XX/XX/2023 that was not delivered by XXXX XXXX. I tried multiple times by chat and by phone to be refunded by XXXX XXXX  and was told the order was not eligible for a refund. I then started a dispute with Citibank. XXXX responded by sending Citi a copy of my receipt and no proof they delivered what was ordered. Citi now says Im responsible for the charge and to contact XXXX for a refund. I have photo and video proof that what I ordered was not delivered by XXXX driver. I also have copies of correspondence with Citi. \n\nThank you"
+}

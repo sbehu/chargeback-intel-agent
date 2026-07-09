@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5545",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "35803"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28246,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I ended up signing a contract with the company XXXX XXXX for resume bulding and advisor services. The contract is so stringent they do not allow refunds. They do not have any previews of what the services are about. To find out that XXXX  can do everything they do in a matter of seconds does not justify the thousands of dollars this company charges for the services they claim to provide. Therefore I requested to cancel because it is a legitimate legal scam that this company does, to lure the phDs through a satirical and narcissistic way to tell the other candidates that they're doing a poor job in managing their social media XXXX account, which again, everything can be improved as a subscribed account owner for a fraction of the cost. Therefore, the services they sell are a cheating scam for those who they can sell to. The company decided they did nothing wrong and that I signed a non-refundable contract so they get to keep their money, even though they stopped providing me the services when I requested the refund. Then, the credit card company Barclays XXXX XXXX, conducted their investigation after we requested a dispute of the charge, and they sided with the company 's response that they did nothing wrong and did not allow the refund or the charge dispute. And it was my spouses credit card and not mine, so that was another issue that the credit card company did not adhere to consider."
+}

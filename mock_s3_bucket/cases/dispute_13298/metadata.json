@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13298",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23793,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Debt validation Itemized accounting Itemized statement of charges Chargeoff calculation documentation Pastdue amount calculation Barclays only sent 12 months of statements, which does not satisfy any of the above. \n\n-- - Here is your full CFPB complaint text ( paste this into the box on your screen ) What happened : I disputed the accuracy of the balance reported by Barclays Bank Delaware on my XXXX  credit report. Before filing the dispute, I requested full debt validation, including an itemized accounting and chargeoff calculation showing how the balance, pastdue amount, and writtenoff amount were determined. Barclays did not provide this. They only sent 12 months of statements, which does not validate the balance or explain the chargeoff or pastdue calculations. \n\nI then disputed the account with XXXX. XXXX  closed the dispute with a generic verified as accurate response and later marked the account as Completed investigation of FCRA dispute consumer disagrees. XXXX  did not provide any documentation, did not explain how the balance was verified, and did not address the issues I raised. No validation was provided by either XXXX  or Barclays. \n\nWhy this is a problem : Under the FCRA, XXXX  is required to conduct a reasonable investigation and provide the results. They did not. Barclays also failed to validate the debt when I requested full documentation. The balance, chargeoff amount, and pastdue amount remain unverified. \n\nWhat I want : I am requesting that the CFPB require XXXX  and Barclays to : Provide full debt validation, including itemized accounting and chargeoff calculation Provide documentation supporting the reported balance and pastdue amount Conduct a real investigation Correct or delete the tradeline if the balance can not be validated"
+}

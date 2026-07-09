@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7858",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7920"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35716,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Was charged {$19.00} from XXXX and did not make these purchases.Filed a complaint with Citibank and received the detailed report. They did not back my complaint and when i received the report that was provided by XXXX through Citibank, it showed my name and address, BUT the email listed and phone number were NOT mine. Also noteworthy : I do not have any domain names at all! I am especially unhappy as i have been a loyal customer for over 30 years, and have always paid on time ( my credit score is XXXX )"
+}

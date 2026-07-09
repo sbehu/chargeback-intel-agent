@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5010",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98119"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24293,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Claim Regarding Unresolved Charge for Non-Received Item BestBuy XXXX XX/XX/XXXX I am submitting this claim regarding an unresolved issue with a charge for an item I never received, related to an order placed through BestBuy.com on XX/XX/XXXX. \nXXXX and XXXX XXXX : On XX/XX/XXXX, I placed an order with BestBuy. \nI received an email on XX/XX/XXXX notifying me that the order had been delivered, but when I checked, I could not locate the package. I suspect that XXXX delivered the package to an incorrect address, which has happened frequently in my area. \nXXXX XXXX : On XX/XX/XXXX, I opened a case with XXXX  regarding the missing package. However, on XX/XX/XXXX, XXXX redirected me to BestBuy as they were unable to locate the package. \nCommunication with BestBuy : On XX/XX/XXXX, I contacted BestBuy 's customer service, and the conversation was captured in text messages. I was initially offered a replacement, which I declined due to my travel plans.\n\nBestBuy subsequently issued a refund, which they indicated would be provided, in writing. However, I later received an email stating : \" We have completed our investigation and are unable to provide a refund or replacement. All items on this order that have not already been fulfilled have been canceled. We encourage you to work with local law enforcement regarding this matter. '' This response was surprising and unexpected. I then called and spoke with a representative, I was once again assured that a credit would be issued. \nBestBuys Inconsistent Responses : Despite the assurances, I received the same email response about the lack of refund or replacement.\n\nDispute with Citibank ( BestBuy Credit Card ) : On XX/XX/XXXX, I initiated a dispute on my BestBuy credit card issued by Citibank. \nOn XX/XX/XXXX, I received a letter from Citibank indicating that they had determined I was responsible for the charges. \nOn XX/XX/XXXX, I contacted Citibank to dispute their findings. I explained that I had been promised a refund in writing and submitted the text exchange as evidence. \nOn XX/XX/XXXX, I received another letter from Citibank stating : \" Based on a review of the circumstances surrounding the charge, we have no recourse available to recover the funds. You need to contact the merchant for resolution or to cancel. '' Summary of the Situation : Despite numerous attempts, including communication with both XXXX, BestBuy, and Citibank, I have been unsuccessful in resolving this issue. I am still being held responsible for a charge on my credit card for an item that was never received. \nI am extremely disappointed with the lack of resolution and the continued responsibility for this charge despite all my efforts. I am requesting your assistance in investigating this matter and helping to resolve this issue. \nThank you for your attention to this claim."
+}

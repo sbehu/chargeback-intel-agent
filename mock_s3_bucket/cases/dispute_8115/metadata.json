@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8115",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63366"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22698,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have filed a complaint previously but would like to amend my dispute to simplify my issue. American Express maintains that I elected to advance miles into my XXXX XXXX account but has not provided any proof that I did so. I am requesting proof of debt. At a minimum : 1. American Express should be able to provide the date and exact time that I logged into my account to advance/purchase these miles.\n\n2. American Express should provide me with the IP address that was used to login to my account.\n\n3. American Express should provide the email that they sent me stating that the miles were advanced.\n\n4. American Express should provide a written notice or confirmation that I approved this charge with a 3rd party authenticator like texting or emailing me a security code. Date & Time stamped for authentication. \n\nI maintain that I did not login to my online account to advance/purchase miles in XX/XX/year>. I was traveling internationally so it is possible that my account was hacked. \n\nI maintain that I did not receive an email alerting me of the advanced miles in XX/XX/year>, it is possible that this email went to junk. \n\nI have now requested this proof of debt twice and if I do not receive, I will be submitting a claim to small claims court for the maximum allowable amount. I request information from CFPB and American Express on the correct county and court to file, as American Express is a national company."
+}

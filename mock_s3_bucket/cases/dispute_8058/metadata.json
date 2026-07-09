@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8058",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44396,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, a charge of {$550.00} was posted to my Citi credit card by XXXX XXXX XXXX XXXX XXXX, XXXX XXXX, XXXX for an all-inclusive package. While I signed for the package, the services provided did not match what was advertised or promised. The resorts quality and inclusivity fell far short of expectations, and I did not receive the full value represented at the time of purchase. \n\nI disputed the charge with Citi under the Fair Credit Billing Act as services not delivered as agreed. Citi initially reviewed my dispute and then denied it, providing me only with the merchants response and a copy of the signed slip. Citi did not address my central concern that the services were misrepresented and not delivered as promised. \n\nI am requesting that Citi reopen this dispute and evaluate it based on misrepresentation and failure to provide services as advertised, rather than closing it solely on the presence of a signature. I ask for CFPBs assistance in ensuring this matter is given a fair review."
+}

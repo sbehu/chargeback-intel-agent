@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6244",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "982XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36906,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraud Team Barclays XXXX. XXXX XXXX XXXX, DE XXXX Dear Fraud Team, Ok, you denied my request.\n\nXXXX  said my request was Identity fraud. \n\nMy attorney says my request is also \" wire '' fraud because the transaction was interstate commerce. \n\nYour credit card application I never complete. The timeshare person XXXX XXXX completed and signed it. She probably used my DocuSign signature. I was never shown or given a copy of the application or the Truth in Lending Statement.\n\nThe DocuSign summary sheet says there were 35 signatures made. The document I received from XXXX had only 28 signatures. Where are the other 7 signatures. \nProbably on your application and other pages omitted by XXXX. \n\nAlso, XXXX 's name is missed spelled, which makes the entire document invalid. \n\nIn XX/XX/year>2025 additional credit was denied us by XXXX XXXX, XXXX XXXX XXXX XXXX, and XXXX XXXX XXXX, but you approved new credit. How did that happen? \n\nAgain, I am requesting a copy of our credit card application plus a copy of the credit report ( s ) used to approve your credit card. \n\nThank you,"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_76",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4525,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I reported that my card was stolen and that three transactions were made by someone else. The charges were {$630.00}, {$410.00}, and {$61.00} which were done back to back at the same MAcy 's on the same day. The fraud department said they would investigate. I however received a letter with no details on their findings, stating I'm responsible for these charges. I didn't make these charges and am a victim of fraud. In addition, I have been calling this company because they are expecting me to make a minimum payment which is extremely high because of the fraud charges. I am always on hold forever and this issue remains unresolved"
+}

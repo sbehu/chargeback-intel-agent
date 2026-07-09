@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4728",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "151XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18777,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I applied for a Macy 's credit card & used it that same day towards the end of XXXX to purchase my daughters homecoming shoes. I ONLY used it that day because the card never came in the mail. I call & complained that it never showed up. The person I talked to said there are charges of $ XXXX and XXXX other charges of $ XXXX. I explained I never made those purchases & the only purchase I made was the same day the card was opened. She claimed she updated my address ( not sure why it was different from what I typed in their machine at the store to apply for the card ) She then said they'd send a replacement card. I did get a card in the mail. & assumed everything was fixed. I went to use my card today ( XX/XX/16 ) & it was declined. I called & was told my total charges are $ XXXX when I never made ANY of these purchases! There was additional $ XXXX added onto my credit card account! They're telling me it'll take XXXX more months to get this fixed & I've had issues since XXXX!"
+}

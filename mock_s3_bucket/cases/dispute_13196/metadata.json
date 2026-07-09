@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13196",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11229"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26439,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Barclays Bank has engaged in inconsistent and unfair billing practices regarding a credit card mail theft incident. \nIn XX/XX/year>, replacement cards for both my wife and me were stolen from the mail. Fraudulent charges totaling {$2500.00} were made at XXXXXXXX XXXX XXXXXXXX in XXXX XXXX, FL ( {$1200.00} and {$1200.00}, respectively on two cards ). We reported the incident to the police ( XXXX Police Report ) and filed FTC Identity Theft Affidavits and XXXX Mail Theft claim. We provided these documents to Barclays along with copious evidence of our physical location ( in XXXX ) on the date of the incident. \nAfter numerous calls and submission of the above documents via certified mail, Barclays correctly identified the fraud on my wifes card and removed the {$1200.00} charge. However, they have refused to remove the identical charges from my card, despite receiving the same evidence. Furthermore, while the dispute was active, Barclays processed an unauthorized autopay deduction from my bank account for the full fraudulent balance of {$1200.00}. \nViolations : XXXX. Fair Credit Billing Act : The bank failed to properly credit a clear billing error after being provided with legal proof of fraud. \nXXXX. Unfair Practices : The bank acknowledged the fraud on one account while holding a second account liable for the exact same criminal activity. \n\nI further report that Barclays makes it incredibly difficult for consumers to dispute fraudulent credit charges. They do not provide a secure portal to upload relevant documents. Documents can only be submitted via fax or mailed to a XXXX XXXXXXXX. The fax almost never works- in the almost two months Ive been dealing with this issue, I have only once been successful in getting my fax through to the Barclays Fraud Investigations fax line, and the representative I spoke to on the phone denied receiving the fax although she confirmed that the fax number was correct.\n\nSending documents by mail has also proven perilous. My first mailed package, sent certified mail and receive on XX/XX/year> according to tracking, has been delivered to the XXXX. XXXX, and after that my wifes charges were removed. But when I called to inquire why the charges on my own account were not removed, I have been told the package was not actually received. When I sent the package via certified mail for the second time, it was lost in the mail and I had to open a missing mail report. I now have to wonder who has possession of my personal and confidential documents. \nBarclays needs to be held accountable for its insecure, inappropriate and deliberately complicated process for handling fraudulent transactions and unfair practices towards consumers. \nI am attaching all the documents I have provided to Barclays to illustrate this point. \nThank you in advance for any assistance with this matter."
+}

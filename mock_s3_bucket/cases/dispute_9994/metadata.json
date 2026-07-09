@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9994",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98008"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38019,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Citibank ( XXXX XXXX XXXX ) to dispute only a fraudulent charge made by a third-party travel agency that improperly modified my flight. I explicitly instructed Citibank not to dispute the XXXX XXXX charge, which represented my valid airline ticket. \n\nDespite these instructions, Citibank incorrectly disputed valid XXXX XXXX transactions. As a direct result of this payment reversal, XXXX XXXX voided my confirmed return flight, leaving me without a return ticket shortly before travel. \n\nMy original ticket included a return flight scheduled for XX/XX/year>, which was active and confirmed prior to the dispute. XXXX XXXX has since provided official ticket history confirming that the return segments were marked RF-REFUNDED ( voided ) and not flown. I did not cancel the ticket, and the airline did not cancel it for operational reasons. \n\nBecause the cancellation occurred close to the travel date, I had no reasonable alternative and was forced to repurchase the return ticket at a cost of {$1100.00} USD. The only amount returned in connection with the original ticket was {$190.00}, which represented a fare adjustment and not the value of the return flight. \n\nI contacted Citibank customer service and the fraud/dispute department multiple times to request correction of the dispute error and reimbursement for the replacement ticket. I was told there was nothing they could do, and no resolution was provided. \n\nThis financial loss occurred solely because Citibank disputed a valid airline charge against my instructions, causing the ticket to be voided."
+}

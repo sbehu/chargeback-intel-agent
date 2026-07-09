@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2822",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92154"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 955,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to you in desperate need of assistance. I have been calling citibank customer service since XX/XX/year>, trying to resolve a {$890.00} refund which was refunded by XXXX but customer service put it on my promotional balance instead. \n\nIts now showing on my account balance and since then I have been requesting them to remove it as it was already refunded, I shouldnt have to pay that and it shouldn't have to be added to my balance. It messed up my credit score and I tried to file a complaint but they just tossing me back and forth, wait 7-10 business day, 10-14 business day, 60-90 business day. \n\nHere I am 6 months later, still following up. Can I please get someone to help me, not some customer service overseas that doesn't care and don't know what they are doing."
+}

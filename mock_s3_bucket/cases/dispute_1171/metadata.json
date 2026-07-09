@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1171",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60181"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14101,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted a claim to Barclays Bank about an unauthorized charge of {$600.00}. On XX/XX/ XXXX I received a letter stating that the matter was with a dispute specialist, and it could take up to 45 days to resolve. \nOn XX/XX/XXXX I called to check on the progress of my claim and learned they closed the case citing that I did not answer a phone call from them. I was told to resubmit a letter requesting that the claim be reopened. \nOn XXXX XXXX I mailed a letter requesting they reopen my claim. \nOn XX/XX/XXXX I spoke to the dispute department, who transferred me to the fraud department who then transferred me back to the dispute department where XXXX assured me that a manager would call me within 48 as they do not have managers on site. I never received a call. \nOn XX/XX/XXXX I spoke to XXXX in the fraud department who sent my call to XXXX in disputes. XXXX said the manager would call me within 24 hours. Again, I did not receive a call. \nOn XX/XX/XXXX I spoke to XXXX who said a manager would call me within 48 hours. \nAs of today XX/XX/, I have still not received a phone call from a manager at Barclays Bank nor has the charge been removed from my account. \nI find their handling of my claim unprofessional and dishonest ; I would like this charge removed and reimbursement for the interest that I have been charged."
+}

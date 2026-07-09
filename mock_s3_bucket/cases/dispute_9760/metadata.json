@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9760",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "74820"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45461,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a hotel reservation was booked through Citi XXXX for {$540.00}. The reservation was canceled within 24 hours, on XX/XX/year>, as confirmed by Citi XXXX cancellation email. \n\nThe hotel ( XXXX XXXX XXXX XXXX ) later confirmed in writing that it authorized and processed a full refund through XXXX XXXX XXXX XX/XX/year>. However, the refund was never credited back to my Citi credit card. \n\nI contacted Citi multiple times and reopened a dispute specifically as a refund not received case, separate from the original transaction dispute. I provided written documentation from the hotel confirming that the refund was processed and that the failure to release the funds was on the booking platforms side. \n\nDespite this documentation, Citi closed the dispute and stated it could not assist further, directing me to resolve the issue directly with the merchant. Citi did not reconcile the merchants written confirmation of refund with the absence of the credit on my account. \n\nI am requesting that Citi properly investigate and resolve this refund-not-received dispute in accordance with the Fair Credit Billing Act and credit my account for the {$540.00} that was refunded by the merchant but never received."
+}

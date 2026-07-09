@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3937",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "10065"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46135,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I was charged {$200.00} from my credit card through an airline that was supposed to be an authorization since we had a membership bundle that included a free bag that we could claim for our flight. Come to learn the clerk accidentally charged me this amount. \n\nAfter contacting the airline two weeks later, we were told that we were indeed not supposed to be charged. However, they told us we could not refund us since the payment was made overseas and the best option we had was to contact our bank and get a refund. \n\nAfter an extensive back and forth and documents being sent from our end and an audio transcript of my call with the agent, Barclays Bank took about XXXX weeks for our case. At the end, they did not give us any reasoning into why my dispute was unresolved against my favor. We had a screenshot from the airlines support agent, and we sent Barclays an audio transcript of our conversation with an agent. However, they still did not give me any concrete reason or proof as to why they did not find me eligible for my dispute"
+}

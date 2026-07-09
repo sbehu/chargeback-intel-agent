@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8022",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75025"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3425,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My CITI Credit card was fraudulently charged over {$6000.00} on multiple transactions from XX/XX/XXXX - XX/XX/XXXX. I opened disputes on all of the fraudulent transactions and CITI did some investigation and says the merchant is declining to provide refund. And the dispute status shows resolved and it's a customer responsibility. Please see fraudulent the transactions below. \n\nXX/XX/year>2025 - {$76.00} - Not Refunded XX/XX/year>2025 - {$70.00} - Not Refunded XX/XX/year>2025 - {$830.00} - Not Refunded XX/XX/year>2025 - {$69.00} - Not Refunded XX/XX/year>2025 - {$4100.00} - Not Refunded XX/XX/year>2025 - {$80.00} - Not Refunded XXXX XXXX, 2025 - {$500.00} - Not Refunded XX/XX/year>2025 - {$66.00} - Not Refunded XX/XX/year>2025 - {$78.00} - Not Refunded XX/XX/year>2025 - {$220.00} - Not Refunded"
+}

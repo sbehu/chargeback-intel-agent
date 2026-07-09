@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6080",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "283XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18088,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I disputed three billing charges for {$500.00} each total of {$1500.00} for the same product by the Merchant that was charged by me on XX/XX/year>. The Merchant gave false deception of product and later became unreachable, then Merchant illegally contacted me on XX/XX/year> with inflated price of the Order to {$1000.00}, and never sent an amended order for me to sign. After several failed attempts from XXXX to XXXX to reach the Merchant, she stated on XX/XX/year>, she would now only do 1 of the 5 products ordered on XX/XX/year>, now at {$1800.00} which voided the contract which was agreed upon when the Contract was signed on XX/XX/year> when I used my Citibank Card for {$1500.00} to pay the Merchant. \n\nI cantacted Citibank regarding this matter and I also found that when I provided the billing dispute information, they later changed it around to state something else, which I also believe what has caused the the delays on the {$1000.00} credit owed back on my credit card Citibank. I called Citibank and I was given the run around about the {$1000.00} dispute credit, since one {$500.00} was credit back. Citibank\nSears only returned one of the {$500.00} charges to me. When I asked where is the other two charges of the total of {$1000.00} ( 2 x {$500.00} ), I was totally ignore by Citibank.\n\nI am asking for help with Citibank Sears with the refund return back as credit on my Sears Citibank credit card due to the Merchants misconduct and behaviors to include a scam.\n\nSears Citibank credit card is suppose to fight for its Consumers and since one of {$500.00} charges was returned and credited back to my account, I need help with Citi Bank to get the other {$1000.00} credited back to my account.\n\nI have received the complete run a round from Citibank Sears regarding the credit I am owed and need your help.\n\nCredit card company isn't resolving a dispute about a purchase on your statement"
+}

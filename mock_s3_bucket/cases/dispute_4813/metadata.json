@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4813",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19053"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42438,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a CITI credit card since XX/XX/2024. On XX/XX/XXXX fraudulent charges were placed on my credit card like XXXX different charges made on the same day. I never received a text message or phone call from them only one email asking me if I did one charge. I did call them immediately and I was on hold for like 1 hour disputing transactions. After 2 weeks I got message on my account saying that I was responsible for some of the charges even though I did not do cause they were from the website from foreign countries such as XXXX XXXX XXXX. The rest of the charges were reversed by the merchant so basically my credit card company never reversed anything. I stoped using my card I still received charges and I cancelled two credit cards in order to stop the fraud it still continues on my new card. I keep calling their customer service even they put on account supervisor still up to date my problem hasnt been resolved and to top it of their back office is on XXXX  and their customer service has a very heavy accent I dont understand anything what are they saying and they are very rude to me I even try to bring another family member to try to speak with them and they said the same thing they dont understand them when they talk over the phone. Im ready to go file a police report or go over to the news station to try to resolve this mess that is called CITI credit card."
+}

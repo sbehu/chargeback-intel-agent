@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8994",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85031"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20615,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing the remaining {$700.00} from a {$1000.00} engine purchase from XXXX XXXX XXXX XXXX on XX/XX/year>, made with my Citi / AAdvantage MileUp card. The engine arrived damaged, and I provided photo evidence. The merchant accepted the return but withheld {$700.00}, claiming a restocking fee that does not apply to defective merchandise. \n\nCiti has not fulfilled my rights under the Fair Credit Billing Act ( FCBA ). I submitted and sent out in mailnew evidence, including photos and communication showing the part was defective and that the restocking fee should not apply. Citi did not conduct a proper investigation of this new evidence. \n\nCitis denial letter indicates the dispute team relied solely on the merchants statement and terms and conditions, without performing a manual review of the evidence I sent. They did not address the defect, did not explain why the restocking fee applies to defective merchandise, and did not evaluate the factual proof I provided. \n\nThis is a failure to conduct a reasonable, good-faith investigation, as required under the FCBA for disputes involving defective or non-conforming goods. \n\nDetails : Total purchase : {$1000.00} XXXX issued only a {$340.00} credit, keeping {$700.00} as a restocking fee This fee was not disclosed verbally and does not apply to broken items I returned the item because it was damaged and unusable Citi closed the dispute without properly reviewing my evidence"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4802",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18819,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Few months back -- I did not recognized all the charges to my Home Depot card. I called Citi Bank the one issue this Home Depot card to tell them those are not my and I am not aware it or authorized any one to use it. The bank took those charge off my account, but around a month later there is a agent from Citi Bank asked me that I give my card to any one. I responded that I have two credit cards -- I give the one with XXXX to my son who lived in XXXX  for emergency case. I did not know why it translate to this agent to I give out my Home Depot card. After that I had been calling numerous times to the bank to fix the issue, but no response.Then certainly my Best Buy store card got charge $ XXXX something. This time I think the bank fabricated these charge or someone charged. I told the bank agent that I stop use this store card for a while and I had $ XXXX credit on this card. Nothing resolve just run around this issue."
+}

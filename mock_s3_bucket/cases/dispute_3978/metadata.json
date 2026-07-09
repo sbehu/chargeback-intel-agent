@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3978",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "554XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39312,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Mastercard from Citibank was charged {$1300.00} on XX/XX/year> by a merchant I have never heard of or done business with. On XX/XX/year>, I notified Citibank of the error. \nI have called them numerous times and gotten nothing but denials and non-answers to my requests for credit. \nI called the merchant who charged my card on XX/XX/year>. They said the charge could not be theirs as they do not accept credit cards! They also told me that a number of people have called them saying they had the same problem I do! \nI called the credit card company with this information. They said I should send an email with this information to their Security Service Manager which i did on XX/XX/year>. Citibank is still denying me a credit! \nHelp me please. This is a sizable amount of fraud by someone and Citibank is not honoring their commitment to protect me from fraud. \nThank you"
+}

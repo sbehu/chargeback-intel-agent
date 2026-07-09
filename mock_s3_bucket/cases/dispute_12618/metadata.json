@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12618",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85296"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36454,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding a fraudulent Home Depot credit card account opened in my husbands name without authorization. \n\nWe first became aware of this account on XX/XX/year>, when we received a billing statement showing charges totaling approximately {$5700.00} for a XXXX XXXX credit account that we did not open or recognize. We immediately contacted XXXX XXXX XXXX XXXX day to report the account as fraudulent and to dispute all charges. \n\nDuring that initial call on XX/XX/year>, the representative advised that the account would be closed and that we would not be liable for the charges. \n\nThe account reflects purchases described as electrical and lighting millwork fees and includes a XXXX XXXX store location in XXXX, Arizona. We did not open this account, authorize these transactions, or receive any benefit from the purchases. \n\nImportantly, we already have an existing legitimate Home Depot credit card account and had no reason or need to open a second account. \n\nWe acted immediately upon discovery of the fraud : Contacted the issuer on XX/XX/year> to report the fraudulent account Filed an IdentityTheft.gov report Filed a police report Disputed the account with all three credit bureaus Placed fraud alerts and froze our credit reports Despite these actions, on XX/XX/year> we received correspondence stating that XXXX XXXX determined my husband was responsible for the account and charges. However, we also received a separate letter dated the same day stating that the investigation remained ongoing. These contradictory communications raise serious concerns regarding the consistency and validity of the investigation and determination. \n\nAdditionally, all three credit bureaus have verified the account as accurate despite our identity theft reports and disputes. \n\nWe respectfully request : A full reinvestigation of this fraudulent account Removal of all liability associated with the account and charges XXXX correction and removal of the fraudulent tradeline from all credit reporting agencies XXXX of any collection activity related to this account Production of all application and verification records relied upon, including application method, identifying information used, contact details, and any supporting authentication data This account was not opened or authorized by my husband. We reported the issue immediately upon discovery and have fully complied with all identity theft reporting procedures. \n\nWe are requesting CFPB assistance to ensure this matter is properly and fairly resolved."
+}

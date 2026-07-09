@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4212",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "371XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11621,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was a victim of fraud in XXXX, XXXX in XX/XX/year>. A taxi agreed to charge me {$30.00} for a trip but it ended up charging {$3100.00} to my credit card account. I contacted Citi when I discovered this fraudulent charge in XX/XX/XXXX. They asked for a receipt but I couldnt furnish one. They said they would contact the merchant on my behalf. After not hearing any updates, I called Citi Master Card on XXXX XXXX which they told me the merchant would be given 45 days to respond which has lapsed. Last week they sent email to call for more information which I did but didnt receive any information about the investigation. I called yesterday, XXXX XXXX, as Citi is still trying to charge my account for this fraudulent transaction and havent received a letter in the mail regarding my case. Ive called several times and each employee has bounced my call around to various departments who arent able to provide any answers. Please help me. The charge is a fraudulent charge, one of well known Scams in XXXX, XXXX which I was not aware of until it happened to me. I XXXX and was surprised to see many people that had the same issue, XXXX XXXX XXXX XXXX does help their members but Master Card does not."
+}

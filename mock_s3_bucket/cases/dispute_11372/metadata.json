@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11372",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "401XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44800,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a gas station purchase for {$62.00}. I kid you not at first they had it listed in XXXX. Theyre gon na deny that but I know what I saw. I even went there in person to check things out from myself. Next time I looked at my app it said the purchase wasnt right email. However, I purchased gas at that gas station in XXXX using my citi XXXX  XXXX  card on XX/XX/XXXX at XXXX. I wouldnt have needed a gas again on XX/XX/XXXX and I didnt buy cigarette carton of cigarettes either because I bought those on XX/XX/XXXX and was finding them everywhere else in the meanwhile. Theres nothing that I couldve bought with this credit card that theyve got this charge on that would be valid. I dont even carry my city thank you. XXXX XXXX  around or use it. In the past two years, Ive never used it in public. I only used it for a balance transferring a phone purchase and some phone service. Everything was online. Never once except for this purchase they have for XX/XX/XXXX. Has that card been used at a physical location. I disputed it once and it was off my credit card for a while and then they put it back on and sent me some paper saying I bought journal merchandise. No way. Im not grocery shopping at the gas station. And it doesnt look like one of their receipts. I have plenty of XXXX receipts and thats not what they look like. Then I called and he said it was for gas. I said well it doesnt even cost that much to fill my vehicle up with gas. Plus, I had just got gas and I dont even use that card in public or carried around with me. He said he would take care of it and take it. Get it 5 to 7 days. I look later its still there. I call again once again they tell me they were going to dispute it. They have never done so. Its a fraudulent charge. It needs to be taken off. Im not supposed to be liable for fraud. I am attaching my XXXX XXXX  statement so you can tell that I made a XXXX fuel purchase this time a legitimate one on XX/XX/XXXX. I did not make a {$62.00} purchase on XX/XX/XXXX. I dont hardly drive anywhere unless Ive medical appointments. Or something for my kids. This is ridiculous."
+}

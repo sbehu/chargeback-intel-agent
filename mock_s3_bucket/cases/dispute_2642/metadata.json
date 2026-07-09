@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2642",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6451"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41727,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought a pair of XXXX sunglasses for the price of XXXX from Macys on XX/XX/2023 and I returned them on XX/XX/2023. I have the return receipt but the refund never posted to my Macys credit card. It has been 11 months since Ive been dealing with this matter. I have spoke to many people in the customer representative department and I have contacted there executive department. I have been told there is no record of my return transaction."
+}

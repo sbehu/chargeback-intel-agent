@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9109",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91344"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6113,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express is refusing to properly investigate a fraud case involving a {$46000.00} charge to XXXX XXXX. The merchant submitted forged and altered contract pages, as well as fake emails claiming I ignored them. These documents influenced AMEXs decision to deny my dispute. \n\nAMEX continues to treat this as a cancellation dispute, but the contract contains no cancellation policy at all and I provided proof of our attempt to cancel in my Sent Mailbox dated XX/XX/XXXX. \n\nAMEXs attorney, XXXX XXXX, told me that forgery is not AMEXs problem, even though the forged documents were submitted directly to AMEX. She has since stopped responding to my emails. \n\nI have been dealing with this for 5 months, suffering financial and emotional harm, and AMEX is ignoring clear fraud evidence. \n\nRequested Resolution : Reopen the investigation as a fraud case, not a cancellation dispute Reverse the {$46000.00} charge Require AMEX to address the merchants forged documents Assign a compliance officer Stop the rebill until the fraud investigation is complete"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5995",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95350"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21846,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American express has been ignoring my evidence regarding a dispute XXXX or 4 times now. I have even called in and escalated it, they told me over the phone that they see that the evidence has been ignored and they will make the merchant respond to the new problem. The resolution ended up being another copy and paste of the merchants response from XX/XX/2024 with zero context to the current problem and evidence. This is also my second attempt at doing this CFPB complaint as my last one was responded with a copy and paste of the same resolution that Amex had sent me, which has rendered me XXXX help. Please accurately review this. I have attached a full explanation that responds to all three points the merchant had made and American Express has all picture and photo evidence of all damages and problems."
+}

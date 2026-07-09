@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_546",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94555"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12202,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Representative, - XXXX : I found an illegal use of my credit card on XXXX account and reported it to Citi cards. The unauthorized transaction XXXX XXXX  ( XXXX XXXX  ) was occurred at at XXXX in XXXX on XX/XX/2023. The unauthorized charge was withdrawn a few days later. \n\n- XXXX : I received a paper letter from Citi cards that they had made necessary adjustment to my credit card account. \n\n- XXXX : I found the amount of the unauthorized transaction was reversed to my credit card account back, so I called City Cards customer service. I was told the issue was still under investigation and I should wait for the contact from Citi cards security center. My dispute report status showed it's under investigation on their website. I waited. \n\n- XXXX : I called a Citi cards customer and asked about the progress of the fraud report. The agent named XXXX, she told me the charge wasn't the final and the case was still under investigation. She told me that I should wait until I get a contact from the investigation department. \nCiti cards website still showed me my dispute report status was under investigation by the day. \n\n- XXXX : I found that I was charged interest for delinquency of the unauthorized transaction. \nI called Citi cards customer service and was told that the case was closed. I explained what happened and she said she would report to the Citi cards investigation department to ask to reopen the case. \nAfter hang up the phone, I searched my email box and found an email that an action required letter was sent to me by Citi cards. All I received the letter from Citi cards was the one page letter that Citi had made an action to my credit card account without any further information.\n\nI realized there was an online message center and found the notice and letter contained the statement I needed to submit and the transaction records from the merchant ( XXXX ). \nI called the number ( XXXX ) written on the statement form and reached out to an agent XXXX. After I explained to him about the case, he told me he would call me back on the same day or by the next day. \n\n- XX/XX/2023 : I emailed Citi cards billing dispute center ( XXXX ) with the statement what they asked me and details of the issue. \n\n- XX/XX/2023 : I didn't get any contact from them to be updated. I called them again but the agent repeat the comment that it's under investigation. After hang up the phone, I had done as below. \nXXXX ) Submitted the report to Federal Trade Commission 's XXXX. ( FTC report # XXXX ) XXXX ) Submitted the online report to XXXXXXXX XXXX XXXX ( Tracking # XXXX ) XXXX ) Reported the unauthorized charge dispute to credit bureaus. ( XXXX ) - According to the merchant 's transaction records, they got the result of CVV Response and AVS Response with no response and no match when the transaction was arisen in overseas. However, they approved it.\n\n- Citi cards was neglected to double check the unusual big amount transaction which was arisen in overseas to secure their customer 's credit account. I only used the credit cards account for small credit transactions for over years. Also, Citi cards didn't provide proper information that how I get the notices and letters and what I need to do during I contact them to check the dispute status.\n\nI believe it's grossly unfair to make the customer responsible for the consequences of a credit abuse incident caused by their insecure systems."
+}

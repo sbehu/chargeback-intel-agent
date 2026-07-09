@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5553",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96815"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12067,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXXXXXX XXXX Barclay 's send me the statements were XXXX dollars. I call them but their stations are in XXXX, XXXX. And XXXX XXXX. They say I buy t shirt in XXXX  on XX/XX/XXXX and XX/XX/year>, but I did not travel to XXXX for over many years maybe over XXXX yrs. I was worked on XXXX whole month I have my paycheck can proof..any way they keep send me a statement and add on with penalty now is close to XXXX dollars. \nCan you investigate this scams. \nXXXX"
+}

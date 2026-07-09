@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_103",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NY",
+    "complaint_zip": "10024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17523,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was staying at the. XXXX XXXX XXXX in XXXX, ME at room XXXX. I was told to leave. right away. I later found out that there was a fire at the hotel. I left many items in the room. And I there were other items that I ordered which I had to leave due to the fire I am now being charged for these items. I explain this to XXXX and XXXX who I ordered it from. And they told me I would not be charged. I also explain this to AAdvantage So told me they would not charge me, yet they are charging me. I had a conversation on the phone with XXXX who threatened to lower my credit score, which I. do not believe is illegal. I also had a conversation on the phone with someone named XXXX who I explained the situation to and I told him that in this situation. they are supposed to have an investigation and remove and remove the charge until the investigation is done. Yet I see these charges as valid. It's not pending, which is not what they are supposed to do. I'm going to I will list the total charges below which I'm being charged for. \n\nMy card number at the time was. XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Please investigate this and get back to me when you can. I appreciate your assistance in this matter. \nXXXX XXXX"
+}

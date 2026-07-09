@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13312",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34142"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9207,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding an improper and unsupported {$250.00} cleaning fee charged by XXXX in connection with a vehicle rental at XXXX XXXX XXXX, XXXX XXXX, XXXX ( Rental Agreement No. XXXX ). \n\nI rented the vehicle from XX/XX/year> through XX/XX/year>. At the time of return, I was not informed of any issue regarding the vehicles condition. No inspection report, photographs, or documentation were presented to me indicating that the vehicle required any cleaning beyond normal use.\n\nAfter the rental was completed, I was provided with conflicting invoices. One invoice reflects total charges of approximately {$320.00}, while a subsequent invoice reflects {$570.00}. The only difference between these invoices is the addition of a {$250.00} cleaning fee.\n\nThis discrepancy clearly demonstrates that the charge was added after the conclusion of the rental and was not disclosed or assessed at the time of return.\n\nI disputed this charge with American Express on XX/XX/year>. On XX/XX/year>, American Express closed the dispute in favor of the merchant, stating that the merchant provided documentation. However, I have not been provided with any verifiable, time-stamped evidence demonstrating that the vehicle required cleaning or that any such condition existed during my rental period. \n\nTo date, XXXX has failed to provide : Time-stamped photographs of the vehicle at the time of return A completed inspection report from the time of return Any employee incident or condition report Proof that cleaning services were actually performed ( such as a vendor invoice ) Evidence that the alleged condition occurred during my rental period The rental agreement permits a cleaning fee only in cases of excessive conditions such as smoke, odors, stains, or biohazard contamination. No such condition existed. I categorically deny returning the vehicle in any condition that would justify a {$250.00} charge.\n\nThis appears to be a post-transaction charge imposed without proper documentation, notice, or contractual justification.\n\nAdditionally, American Express failed to conduct a reasonable investigation by relying solely on the merchants unsupported assertions while ignoring clear billing inconsistencies and the absence of verifiable evidence."
+}

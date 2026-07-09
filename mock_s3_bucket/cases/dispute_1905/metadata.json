@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1905",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27530"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26680,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I applied for a Best Buy Credit Card to purchase a TV and Soundbox. I was under the impression that I would be getting a one-year card with no interest. I had the money to buy the TV, but I wanted to keep my money. \n\nI am still waiting to receive the credit card, and I am still determining what information is on the card because I never received the card. I am able to login to the Best Buy site and see the order and return. However, I can not get to the credit card site because I don't have a card. \n\nI ordered a XXXX XXXX and a sound box the first week of XX/XX/year>. The sound bar was shipped, but the TV was to be delivered and set up by the XXXX XXXX. XXXX was scheduled for XX/XX/XXXX. Best Buy XXXX XXXX arrived and tried to install the TV, but the TV would not connect. They spent over an hour trying to get the TV to connect. They determined it was best that they take the TV back. I asked if I needed to follow them back to the store, and they said yes. When I arrived at the store, the customer service center stated it would be 24 hours before they could credit the TV to my account. So, I was told I would need to wait. I decided I would not purchase another TV and took the sound bar back the following Monday. Best Buy is stating I owe them {$100.00} plus interest. They need to find out what the charge is for. They continue to harass me with mail, email, text, and cell phone calls. Every time I call, they tell me it is under investigation, but they keep harassing me. I have nothing in my home from Best Buy, and I want the balance credited and the credit card canceled. I will never do business with Best Buy again."
+}

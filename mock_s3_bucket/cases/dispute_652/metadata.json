@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_652",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7866"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13187,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/23 - I reported that the {$10000.00} charges on my card from XXXX XXXX were fraudulent. The charges were removed by Citibank. \nXX/XX/23 - XXXX of the XXXX XXXX fraud charges totaling {$5800.00} were put back on my account. I called Citibank again to report these charges as fraud again. Citibank claims XXXX XXXX sent proof that I made the charges, despite the fact that the telephone number, email address, and travel companion information provided by XXXX XXXX do not match any of my personal information. \nXX/XX/23 - I emailed Citibank to continue the dispute. \nXX/XX/23 - I reverse looked up the information provided by XXXX. The phone number of the person who made the fraudulent reservations was from a land line in XXXX  and the email address used by this person does not exist. \nXX/XX/23 - I called Citibank and was told the charges are still under investigation and can't be removed from my account. I also emailed them sending them the information I looked up about the information provided by XXXX. \nXX/XX/23 - I wrote a letter to the XXXX XXXX XXXX XXXX at XXXX XXXX to inform them of the fraud and someone intending to fly using my identity. I also emailed Citibank dispute center again. I was doing this almost every day. \nXX/XX/23 - I filed a police report regarding the theft of my credit card number. \nXX/XX/23 - I froze my credit on all XXXX credit agencies. \nXX/XX/23 - I was notified on my Citibank online credit card account that all XXXX fraudulent charges of {$750.00}, {$770.00}, {$1000.00}, XXXX, {$1100.00}, and {$1200.00} will have a security credit issued. This has not happened. \nXX/XX/23 - Only XXXX fraudulent charges were reversed. I spoke to XXXX different people at Citibank, XXXX in customer service, XXXX in fraud, and XXXX in security operations. Not one person could explain to me why only XXXX of the fraudulent charges were credited back to my account. \nAt this time the remaining fraudulent charges of {$1000.00} and {$1200.00} still remain on my account. No one at Citibank responds to my written correspondence. No one on the phone at Citibank in any department has a clue what is going on with my account. No one at Citibank can explain anything to me. All I am told over and over by Citibank since XXXX is \" it is still under investigation. ''"
+}

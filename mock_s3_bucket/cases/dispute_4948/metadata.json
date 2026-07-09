@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4948",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22153"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31648,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received the below alert on XXXX XX/XX/year> from Citi Bank. \nFree Msg Citi Card XXXX. Did you attempt {$320.00} at XXXX XXXX XXXX on XXXX? Yes=1, No=2, or Sign On to Citi Mobile App : Citi.comXXXX. Reply STOP to Opt-Out Free Msg Citi Fraud Dept : To secure acct, please sign on : Citi.comXXXX and open a dispute/replace card or call XXXX. \n\nPer the suggestion I sign in to my online account and mark the pending transaction as Fraudulent that I didn't do transaction with the merchant and request a replacement card to protect my account. But after couple days I saw the charge posted to my credit card and I dispute the transaction as Fraud. Citi resolve the dispute stating that I provide my account for this transaction. Then I ask them to reopen the dispute since I aware of the charge when I receive the Fraud alert from Citi. I ask based on their investigation to provide me what good or service I transact with the merchant and send me evidence which they ignore my concern. When I ask to reopen and investigate the case again Citi put a remark on my credit card report. I feel I am not fairly treated and Citi not protecting my account from fraudulent activity and I need help on this matter. \n\nThanks"
+}

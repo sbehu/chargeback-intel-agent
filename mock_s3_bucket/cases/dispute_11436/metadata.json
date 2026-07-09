@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11436",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2305,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is a supplemental submission to my existing CFPB complaint ( XXXX XXXX. XXXX ) regarding an unresolved missing refund from American Express .. Please associate this information with the existing case.\n\nAfter reviewing American Expresss response, I would like to clarify the core issue, as the transactions alone may not fully reflect the outstanding balance.\n\nAlthough multiple transactions appear on my accountincluding a refund, a dispute credit, and a subsequent reversalthe net result is that I have only received one actual refund for two separate cancelled hotel nights.\n\nSpecifically : I cancelled two hotel nights, each eligible for a refund of {$500.00}. \n\nOnly XXXX refund of {$500.00} has been successfully received. \n\nA dispute credit that was applied to address the missing refund was later reversed ( rebilled ), effectively canceling it out. \n\nAs a result, I am still missing one refund of {$500.00}.\n\nThe issue is not the presence of individual transactions, but rather that the overall reconciliation of charges and credits does not reflect the full refund owed.\n\nI respectfully request that CFPB assist in ensuring a full and proper reconciliation of all related transactions and that American Express issues the remaining refund of {$500.00}.\n\nPlease let me know if any additional documentation is needed.\n\nThank you for your assistance. \n\nSincerely, XXXX"
+}

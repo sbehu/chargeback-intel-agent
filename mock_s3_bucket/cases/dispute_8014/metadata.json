@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8014",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97080"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47959,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I filed a fraud dispute dating back to XXXX, XXXX. My card was apparently used by someone for all those months. I don't use the card a lot and my wife makes the payments, so we didn't notice that the transactions WERE NOT MINE. I have waited nearly 3 months and called Citi over and over to see what was going on with the dispute and was told over and over to just wait it was being investigated. Then i recently got a letter from them saying they tried to reach me to provide additional informatioin that they never got from me so they closed the dispute making me responsible for all of the transactions I DID NOT MAKE. I called today and they said no, the fraud case is still open ( even though my online account says it is closed with me responsible ) and that they would send a note to the XXXX asking what info they needed that I didn't provide. Again, uintrue. She also said all the transactions have been reversed and I should receive the money back very soon. I checked again online and it says it is closed and I'm responsible for those charges."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7491",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "086XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25457,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> - XXXX wrote Barclay 's Card Services requesting action against XXXX XXXX XXXX ( ACL ) for a refund of {$490.00} for airfare, which ACL received a refund from XXXX XXXX and {$6900.00} for cruise as ACL failed to provide the services to get me to the cruise departure site. Airfare was booked by XXXX. I provided Barclay 's will the letter and documents I sent to ACL. \n\nXX/XX/year> - Barclay 's letter to XXXX stated \" ... unable to obtain credit on your behalf because we were not provided with the nature of the dispute prior to the charge being disputed. '' XX/XX/year> - XXXX called Barclay 's and was informed that ACL would not cooperate and that they could not refund the {$8300.00} charged. I informed the agent I did not request {$8300.00} and only the amount noted in XX/XX/year> letter. Agent advised XXXX to send a letter to reopen dispute. \n\nXX/XX/year> - XXXX again sent a letter to Barclay 's as instructed stating the same request in the XX/XX/year> letter. \n\nXX/XX/year> - Barclay 's letter to XXXX again said they can not refund {$8300.00}, WHICH WAS NOT REQUESTED, for the following : \" Insufficient proof that the merchant has violated the invoice/contact 's terms of service. Merchant has not violated the terms of the contract. ''"
+}

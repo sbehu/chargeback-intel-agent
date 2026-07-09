@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9015",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33634"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49461,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding CitiBanks mishandling of a credit card dispute for a {$2200.00} transaction with XXXX XXXX XXXX on XX/XX/year>. Citi has provided inconsistent explanations, no documentation, and has failed to identify where the funds ended up after reversing a dispute they previously marked as permanent. \n\nFull Timeline ( Supported by my attachments ) : XX/XX/year> I opened a dispute for {$2200.00} ( Goods/services never received ). Citi confirmed the case was under investigation. \n\nXX/XX/year> Citi contacted the merchant and stated the merchant had until XX/XX/year> to respond. \n\nXX/XX/year> Citi closed the case as Resolved in your favor permanent credit. My Citi app clearly stated the credit was permanent. ( Screenshot attached. ) Important : At this point, the case was finished. I had no reason to believe the issue was still being evaluated. \n\nLater on XX/XX/year>, the Citi app still displayed a Withdraw Dispute option even after showing the permanent credit resolution. I pressed it assuming this meant the process was complete and no further action was needed. Citis later letter calls this a mistake, but the mistake was caused by Citis user interface still showing a withdrawal button after a case was permanently resolved. \n\nXX/XX/year> According to Citis letter ( attached ), Citi states the dispute was withdrawn and can not be reopened. However, Citi provides no evidence, no reversal record, and no documentation showing where the {$2200.00} went. \n\nMajor Problems : XXXX. Citi claims to be investigating but also claims XXXX rules prevent them from reopening the case. \nThese statements contradict each other. \nXXXX. Citi failed to provide ANY evidence that the merchant ever received the money after the withdrawal. \nThe merchant confirmed they never received a chargeback reversal. \nXXXX. I requested proof from Citi over XXXX phone calls, speaking with multiple representatives and supervisors. \nEach time I was told something different : We are investigating. \nThe merchant has the money. \nWe cant reach the merchant. \nWe cant provide documents. \nXXXX rules prevent reopening. \nContact the merchant yourself. \nXXXX. Citi refuses to provide basic documentation, including : Evidence of a reversal Where the funds were sent Confirmation the merchant received the money Any internal case notes beyond their generic script XXXX. Citis XX/XX/year> letter claims they attempted to contact the merchant but were unsuccessful. However, Citi presented no logs, no proof, no message sent, and no response from the merchant. \nXXXX. Citis system is inconsistent : Case marked permanent credit User still allowed to withdraw afterwards No clarity on whether withdrawal actually reversed funds Citi refuses to show proof of any reversal transaction My request to CFPB : I am asking for Citi to provide : XXXX. Documentation showing where the {$2200.00} actually is. \nXXXX. Proof of any reversal transaction to the merchant. \nXXXX. Proof of merchant receipt of funds. \nXXXX. Internal investigation logs confirming their attempts to contact the merchant. \nXXXX. A correction if Citi reversed the credit in error due to their system design ( showing a withdrawal button after a permanent resolution ). \n\nCitis responses so far have been contradictory and unsupported by evidence. I am simply trying to understand where the funds went, and Citi has not provided a single document confirming the status of the transaction. \n\nI am including : Full dispute timeline screenshots from Citis app Citis XX/XX/year> letter Screenshots showing Case resolved in your favor permanent credit Thank you for reviewing."
+}

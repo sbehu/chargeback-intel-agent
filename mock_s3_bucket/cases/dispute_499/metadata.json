@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_499",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48073"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24342,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a company ( XXXX ) come to my home to perform a service that was not fulfilled. I paid {$100.00} for the services that day and that service was not fulfilled either but I paid. I disputed the cancellation charge for any further services stating that this company broke their agreement when they clearly broke their terms. I won the dispute and Citi Bank Visa refunded my money. The cleaning company then went into my credit card and took another {$250.00}. I have changed my card numbers 3 times, put a block on, a privacy onI have done everything I can to prevent this company from breaking into my account and I keep being assured they wont break in but they do. This last time, very cleverly, they first took {$45.00} when they realized they could get in my credit card again they took an additional {$250.00} more. I feel CitiBank Visa is not protecting me and my money from these people. I can not cancel the card because I would lose {$280.00} in Costco money/ points if I cancel before XXXX. I am on a fixed income and the reason I hired this company was I was having my husbands memorial service at my home and needed their servicehuge mistake! Thank you for your time."
+}

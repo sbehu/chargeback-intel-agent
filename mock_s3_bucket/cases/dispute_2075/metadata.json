@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2075",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "83642"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41538,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX opened a credit account when purchasing an item in store. The credit account was charged. The item was subsequently returned to the store within 24 hours of purchase and to our knowledge the account was credited and never used again. \n\nOver 6 months later, we received our first notification that there is a debt on the account. Apparently there was a purchase charged to our account made online from a state and city we have never been to. Barclays bank racked up hundreds of dollars in interest and late fees without ever notifying us of the issue. Once we were finally notified, they denied any attempt to correct the mistake blaming us for taking too long to address the issue. I have spent several hours on the phone trying to fix the issue and they have done nothing but gaslight us, lie to us, and threaten to further harm our credit if we don't agree to make payments on debt we were completely unaware of. They initially admitted that they failed to communicate the debt with us. They later tried to blame us for not knowing about the debt and lied to us about sending us statements. They refuse to acknowledge their failures and continue to harass us. It is blatant extortion. They could have easily helped us resolve this issue by giving us proper and timely notice of the debt. Now they are just continuing to damage our credit report and harassing us constantly with mail and phone calls."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9016",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11373"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16842,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to you today regarding a serious issue of identity theft that has significantly impacted my financial standing and credit score. In the first week of XX/XX/year>, an unauthorized individual utilized my identity to open a Gap Rewards Card account under BARCLAYS. Upon discovering this fraudulent activity, I promptly contacted your company to report the unauthorized transaction. \n\nFollowing your initial investigation, I was unfortunately deemed responsible for the payment. I immediately challenged this finding, providing evidence in the form of my time card to demonstrate that I was at work during the time of the alleged purchase, thus proving I could not have made the transaction. After a subsequent three-month investigation, BARCLAYS ultimately concluded that I was not responsible for the payment, which I believed had resolved the matter.\n\nHowever, my credit score has since declined, and I have begun receiving billing statements for the Gap Rewards Card, labeling me as delinquent for non-payment. Upon contacting Barclays again, I was informed that a reinvestigation was conducted in XX/XX/year> without any prior notification to me, either by phone or mail. I am currently awaiting the results of this latest investigation. \n\nI am a victim of identity theft, and the manner in which this situation has been handled by Barclays has been both unfair and frustrating. I urgently request your assistance in rectifying my credit report and resolving this matter definitively."
+}

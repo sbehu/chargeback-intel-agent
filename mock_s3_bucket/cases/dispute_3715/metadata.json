@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3715",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "GA",
+    "complaint_zip": "30157"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17509,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened multiple disputes with a merchant due to me returning items on XX/XX/year> and not receiving a refund. Items were picked up by the merchant 's private shipping company ( images were submitted as proof ). I provided very detailed information about my returns supporting my claim and I was denied because \" we were not provided with proof that the merchant agreed to refund the credit card account ''. \n\nI'm not sure what new practices are going on with other businesses, but it is common knowledge that when customers return items with a business 's return window, a refund should be provided. \n\nI purchased the items on XX/XX/year>. The items were returned within the XXXX  day return window ( document attached ) and were confirmed received by the merchant 's customer service when I contacted them. The detailed documentation I provided also states that I was to return items by XX/XX/year>, which I clearly did. \n\nThis is very shady behavior from Barclay and I can't believe they tried to get away with this."
+}

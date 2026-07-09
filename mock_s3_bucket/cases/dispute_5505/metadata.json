@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5505",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WY",
+    "complaint_zip": "824XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31974,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased a computer monitor as a XXXX present for my grandson. On XXXX morning he connected the monitor to his computer and the monitor didnt work. On Friday, XX/XX/XXXX, I sent the monitor back to Best Buy via XXXX. On Monday, XX/XX/XXXX the XXXX package was received and signed for in the Best Buy XXXX, Wyoming facility. The XXXX tracking number of the package is : XXXX. I have to date not received a credit for the returned merchandise. The purchase price with tax is {$110.00}. Best Buy is expecting me to pay for the monitor that I returned to them."
+}

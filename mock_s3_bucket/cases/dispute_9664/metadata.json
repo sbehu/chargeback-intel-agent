@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9664",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19103"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Barclays has improperly denied a credit card dispute twice, failed to apply appropriate dispute protections, and repeatedly routed me between internal departments without resolution. Barclays has relied solely on the fact that chip-card technology was used, while failing to address clear evidence of an incorrect amount, merchant misrepresentation, and services not rendered. \n\nOn XX/XX/XXXX, while arriving at XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX, I was the victim of a well-documented scam involving individuals operating inside the airport terminal who impersonate airport employees and direct travelers to fraudulent taxis. An individual representing themselves as airport staff directed me to what they claimed was an authorized airport taxi. This type of scam has been widely reported at this airport and occurs openly within the terminal, including in view of security personnel. \n\nI was quoted a taxi fare of XXXX XXXX XXXX XXXX ( approximately {$15.00} USD ) and agreed to that amount. At the time of my payment, the card terminal displayed this fare. During the transaction, the driver tilted the card reader away from my view and altered the amount without my consent. I did not authorize any higher charge, any lodging charge, or any merchant other than a taxi service. I was not provided a receipt, and the driver departed immediately after payment. \n\nDespite this, a charge of approximately {$1400.00} USD later posted to my Barclays XXXX XXXX under the merchant name XXXX XXXX XXXX, categorized as lodging. I did not receive lodging or locksmith services, and the merchant name and category are wholly inconsistent with the service I believed I was purchasing. I was dropped off at my hostel, and a separate hostel charge posted afterward, further confirming that I did not purchase lodging services from this merchant. \n\nBecause of the drivers suspicious behavior, I immediately contacted Barclays to report the transaction and cancel my card. Barclays initially opened a fraud investigation but subsequently denied the claim twice. I was later informed by customer service that the fraud department does not investigate scams, despite their having initiated the investigation. I was then redirected to the disputes department, which stated it could not investigate the transaction because it had already been reviewed as a fraud claim. \n\nAs a result, Barclays has repeatedly transferred me between departments without providing a path to proper review. I was also instructed to contact the merchant directly, despite the merchant appearing to be fraudulent. The contact number provided ( XXXX ) is a XXXX phone number that does not correspond to any legitimate lodging business and appears unrelated to any taxi service in XXXX XXXX. \n\nI have reported this incident to XXXX XXXX XXXX XXXX authorities, and the airport has confirmed that the matter has been logged and is subject to their internal investigation. I was informed that this incident is not an isolated case, but part of a broader pattern of fraudulent taxi activity occurring within the terminal. \n\nBarclays has failed to meaningfully investigate this dispute under the appropriate criteria for incorrect amount, merchant misrepresentation, and services not rendered, and has instead relied exclusively on chip-card usage to deny the claim. I am requesting regulatory review of Barclays handling of this dispute and reversal of the improperly upheld charge of {$1400.00} USD."
+}

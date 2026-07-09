@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11936",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "40504"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5650,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint as an employee of a business that is being incorrectly identified on credit card transactions associated with Citibank. We don't have a Citibank account. That is the account of the transactions involved though. \n\nFor over one year, our business website and phone number has been appearing on customer credit card statements for charges that we did not process, authorize, or receive. As a result, we receive multiple calls each month from individuals who believe we charged their account. These calls are frequently hostile and include profanity and verbal abuse directed at staff. \n\nThis issue has caused ongoing disruption to our business operations, reputational harm, and significant distress to employees who are required to answer these calls. \n\nWe have attempted to contact Citibank directly to report and resolve this issue. However, we have been unable to reach the appropriate department. Calls are routed through automated systems requiring account information we do not have, and repeated transfers have not resulted in resolution. \n\nWe are not affiliated with these charges in any way. This appears to be a merchant descriptor or billing identification error within Citibanks system or one of its payment processors. \n\nWe are requesting that Citibank investigate and correct the incorrect merchant descriptor immediately to prevent further harm to our business and staff. \n\nI would be happy to provide more information about our information and the correct information It seems to be a merchant descriptor/billing identification error within their system or a connected payment processor."
+}

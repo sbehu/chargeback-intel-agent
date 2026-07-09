@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1342",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18218,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding dispute XXXX opened with American Express against the XXXX merchant for XXXX order # XXXX. \n\nthe issue is quite simple but I think American Express is discriminating against me because I am XXXX and not taking my word for honest word. I did not receive any of the items I ordered in this order, all the XXXX trackings say the merchandise is missing from the packages, and even the XXXX merchant via email acknowledged the items were lost in transit and i am OWED a full refund. \n\nI don't know how american express could deem the charges valid when the merchant themself says the items were lost in transit and I am owed a refund ; further, ALL the XXXX trackings for the order state the merchandise was missing from the package. Thus I am owed my money because i did not receive any items i paid for..quite simple."
+}

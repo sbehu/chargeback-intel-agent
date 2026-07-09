@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8101",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10019"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19479,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024, I purchased one ticket through XXXX for {$690.00} to attend the XXXX XXXX XXXX game between the XXXX XXXX XXXX and XXXX  XXXX at XXXX XXXX XXXX. The game was scheduled to start at XXXX XXXX. \nI arrived at XXXX XXXX XXXX on time for the XXXX XXXX  start. However, due to a security issue at the venue, I was not permitted to enter the arena until XXXX XXXX  - nearly 2 hours after the game had begun. I remained on-site the entire time waiting to be admitted. \nBy the time I was finally allowed to enter at XXXX XXXX, I was only able to watch the final 10 minutes of the game. I immediately complained to both XXXX and XXXX XXXX XXXX staff about missing virtually the entire XXXX XXXX XXXX  game I had paid {$690.00} to see. \nDespite paying full price for a premium ticket to experience a complete XXXX  game, I received essentially no value from my purchase due to the venue 's security issue - circumstances completely beyond my control. \nI have disputed this charge twice with American Express, but both disputes were denied with Amex stating the ticket was \" not refundable. '' However, this is not a refund request for buyer 's remorse- this is a complaint about complete failure to deliver the goods and services I paid for."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8974",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80005"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I paid off my entire balance on my XXXX XXXX in XXXX. On XX/XX/year>, XXXX charged me for XXXX miles, a transaction I did not make. I called to have the charge remove, and they said they reported it as fraud. I asked for the card to be closed. They closed it, but are continuing to charge me late fees for the fraudulent charge, and they have not removed the charge from the account. They said for fraud, it can take XXXX billing cycles to resolve. In the meantime, they are continuing to charge late fees. I have had to call multiple times to get these removed, and I keep getting a different person with a different procedure. The company has not provided me any insight either verbally or in writing, of their fraud investigation. I have no idea who made this charge, or why. It was not my annual fee, it was an unexplained, random purchase of miles not made by me nor anyone in my household. I want this removed, all late fees removed, and this account cancelled."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2094",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "77433"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2897,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called to the fraud department and reported that I didn't purchase any gift card. I called them multiple times for them reporting, I have been frauded with both Macy 's card and Macy 's XXXX card. Macy 's fraud happens in the XXXX XXXX XXXX. Ironically, it shows that it was the same day when I purchased ring for my gf on XXXX XXXX  sale. \nI am writing to you ; they are not admitting their fraud mistake at store level. They are putting on me. They have updated my information in my profile which is not related to me at all. I have requested to verify my security code. they don't verify at all, Then I have decided to close my account. Customer report told me to destroy the card. last 4 digit of the card XXXX. I cut the card. I have been going back and forth with them. I am getting any resolution. Calls go to XXXX ; they customer service rep is not doing anything besides just give me an excuse of 2 billing cycle. But I have been calling in XXXX, and XXXX, and XXXX. \nI need your assistance on resolutions on this matter."
+}

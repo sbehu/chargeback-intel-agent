@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8524",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94565"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48985,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, my American Express account was charged {$250.00} by a vendor with the following name \" XXXX. '' I have no such vendor relationship and reported the fraud to American Express on XX/XX/XXXX. Amex provided the vendor contact information to dispute the calll. According to the information provided the company is in XXXX XXXX with a phone number of ( XXXX ) XXXX. However, calling the number revealed that this is phone number in XXXX, and only a voice recording answers the number. \n\nThis in the second time my household has been victimized. On XX/XX/XXXX, the same company changed {$100.00} to my wife 's American Express account. She refuted the charge, but AMEX refused to refund her the amount. \n\nAMEX acknowledged that this company is not affiliated with AMEX, but they continue to process charges from this likely fraudulent entity."
+}

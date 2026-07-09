@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3037",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75013"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41855,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi failed to declined a charge on my credit card in which I disputed less than 24 hours from the charge date/time and while it's still in pending status, Citi fail to handle this issue as a result of relaying on automated systems and/or AI rather than a human review of the disputed charge when first reported, and now Citi reporting the charge to credit reporting services as a late and/or unpaid payments, and I keep getting alert from XXXX that there is late unpaid payment reported by Citi."
+}

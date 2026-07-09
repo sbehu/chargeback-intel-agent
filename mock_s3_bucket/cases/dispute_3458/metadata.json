@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3458",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22759,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally dispute a charge on my Barclays XXXX XXXX XXXX, that my credit card company has as a chargeback denial. Below are the details of the disputed charge : - Charge Amount : {$330.00} - Charge Date : XXXX XXXX, 2024 - XXXX : XXXX XXXX On XXXX XXXX, 2024, I purchased round-trip tickets for XXXX individuals using my Barclays XXXX  XXXX XXXX XXXX On the day of our return flight, XXXX XXXX, 2024, my son became severely ill and was unable to fly. Due to his condition, he needed immediate medical attention and could not travel to the airport. As he is a minor, an adult had to stay back with him. \n\nI contacted XXXX XXXX and requested that the return leg for XXXX individuals be changed to the following day. We were assured by XXXX XXXX that we would receive a refund of {$330.00} for the return leg of the journey for the XXXX individuals. New tickets for the following day XX/XX/2024 were purchased using a different credit card. \n\nAfter a week, I noticed that the refund had not been issued to my Barclays XXXX XXXX XXXX. I contacted XXXX XXXX, who confirmed that the refund had been processed on the same day and suggested that I check with my credit card company if the refund had not been received. \n\nUpon contacting Barclays, I was informed that there was no record of the refund and requested I contact XXXX XXXX to obtain a transaction ID. After providing Barclays with the transaction ID I initiated a dispute. However, after XXXX  days, Barclays informed me that XXXX XXXX stated the charge was legitimate and that my child had traveled on the original date, providing an itinerary as proof. \n\nI appealed this decision, clarifying that it was another child who traveled on the original date and provided the new flight information for the child in question, which was purchased with another credit card. As well as chat correspondence between myself and XXXX XXXX XXXX agent who confirmed the date, amount and confirmed the last XXXX of the XXXX the amount was refunded to as well as provided the transaction ID. Despite this, Barclays denied my appeal, stating that they could not issue a refund. \n\nGiven the circumstances and the evidence provided, I believe the charge of {$330.00} should be refunded. I request that Barclays review this case once more, considering the documentation from XXXX XXXX confirming the refund and the new flight information proving the change in travel plans. \n\nThank you for your attention to this matter. I look forward to a prompt resolution. \n\nSincerely, XXXX XXXX"
+}

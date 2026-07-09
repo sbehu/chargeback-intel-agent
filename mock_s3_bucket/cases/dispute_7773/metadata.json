@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7773",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "850XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29466,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This dispute concerns a charge of {$2400.00} from a hotel booking processed through a third-party travel company. The hotels General Manager has confirmed in writing that the full refund was issued to the third party, and the hotel provided a XXXX-balance folio confirming no charges remain. Despite this, the third party has refused to process the refund and continues to misrepresent its position by claiming it could not contact the hotel a claim the hotel has explicitly denied.\n\nBarclays twice denied my dispute, first citing the hotels non-refundable policy and later claiming I acknowledged the charge over the phone. When I requested proof, Barclays refused to provide a transcript, stating it could only be obtained via subpoena. Additionally, the agreement Barclays provided as evidence contains incorrect personal information, listing my state as Alabama instead of Arizona, undermining its validity.\n\nThe facts and documentation clearly demonstrate that the merchant is wrongfully retaining funds that were refunded by the hotel. Barclays has failed to conduct a reasonable investigation, as required under the Fair Credit Billing Act ( FCBA ), and has ignored evidence favorable to the consumer.\n\nI respectfully request that the CFPB direct Barclays to reverse the charge and issue a refund of {$2400.00}."
+}

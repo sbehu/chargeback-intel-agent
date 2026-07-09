@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2980",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "930XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20829,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary My wallet was stolen on XX/XX/year>. In addition to my drivers license, medical cards and cash, the wallet contained XXXX credit cards, and XXXX was my XXXX XXXX XXXX card issued by Citibank. The thieves charged {$3500.00} to XXXX XXXX in XXXX XXXX within minutes of stealing my wallet. \n\nI reported the theft to Citibank in less than an hour after realizing that the charge had been made. See timeline below for details. Citibank is now holding me liable for the entire charge, even though by law I reported the theft in a timely manner and should not be held liable. \n\nOn XX/XX/year> I spoke to XXXX different employees at Citibank. All three of them ignored me when I brought up the fact that I am protected by the law. Your company is breaking federal law by not following consumer protection laws. \n\nInstead of treating me as a loyal customer, Citibank is treating me as if I am the criminal. Please review my records and you will see that I always pay my balance in full each month and have been doing so for years. \n\n\nSee attached timeline for details Also attached : police report, police email, letter from Citibank informing that charge was reinstated due to \" a billing delay ''"
+}

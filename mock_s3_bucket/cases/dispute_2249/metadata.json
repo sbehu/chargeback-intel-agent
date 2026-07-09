@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2249",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8094"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33713,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024 I ordered an item from my Macys app and using my macys credit card for payment. Item was a XXXX XXXX XXXX portable air conditioner, 3-1 air cooler with remote control for {$260.00}. Order # XXXX. About an hour later, I saw same item for sale at XXXX for {$230.00} ( see attached pics ). I called Macys on three ( 3 ) occasions on XX/XX/2024 and each time was told that macys does not do price matching. I explained on each occasion Im not asking for a price match but a price adjustment, which under macys on store policy is allowed and even providing instructions on sending information relating to the price adjustment documents needed, ie receipt of original sale from macys and documents of lower price found. Eventually, I spoke with a supervisor who consistently stating that macys does not do price matching. I have to explain several times to this supervisor, who is still unfamiliar with macys store policy of Price Adjustment policies and how to request such an adjustment, Not a price match! Unfortunately, supervisor would not assist me nor even look online of Macys store policy on price adjustment requests that I would provide or she can look up herself. I then informed the supervisor I would just fill a complaint with Macys, the XXXX and the department of consumer affairs. Supervisor did not care and just replied fine, ok. Im asking that, per the attached pics of macys online policies, that the XXXX intervene and have the original price of {$260.00} that was charged on my macys credit card through the macys app be credited, given the price adjustment of {$28.00} credited back on my macys credit card. This would be the difference of original payment of {$260.00} and the request of price adjustment per macys own policy to ask for. This is absolutely ridiculous to file a complaint like this for something like a price adjustment of {$28.00} which Macys own policy allows customers to request on their website. You follow this instructions for the request price adjustment and provide the appropriate receipt and lower price its referred to in order to receive the price adjustment not price match as the supervisor seems unwilling to accept or even view on macys own website policy."
+}

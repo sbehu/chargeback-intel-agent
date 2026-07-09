@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-51553807-US
+Shipment Date:   2025-10-30T00:00:00Z
+Delivery Date:   2025-11-06T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     4398 PINE WAY, TX, 78413
+============================================================

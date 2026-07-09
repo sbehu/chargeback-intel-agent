@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2207",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "070XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48721,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX I purchased a TV at Best Buy and they said I would get a discount if I signed up for a Best Buy credit card, so I did. I paid off the TV immediately and never used that card, neither online nor in person. In fact, I never even brought that card out of the house, just stuck it in a drawer. \n\nThen in XXXX of XXXX, I received a bill showing a {$690.00} purchase was made on XX/XX/XXXX. I did not make that purchase. The only detail on the bill was \" BESTBUY.COM ''. I disputed the charge but then on XX/XX/XXXX BEST Buy added the charge back to my account saying it was valid. I called again and they said XXXX iPads were purchased online and picked up at the XXXX NJ store. I did not make this purchase. The store should be able to pull surveillance and see who picked up the item, because it was not me or anyone I know. \n\nI have a credit score of over 800 and would never try to get out of paying a legitimate purchase. This is theft. Best Buy did not protect my data ( I can assure you my junk drawer wasn't hacked ) and then they did not verify who they handed the items to. Best Buy should be able to resolve this but so far they have not and instead, by denying my dispute, are accusing me. \n\nPlease assist as I don't know what else to do ( involve police? )"
+}

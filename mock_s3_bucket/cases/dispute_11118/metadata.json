@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11118",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90036"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7923,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Mastercard ending XXXX I am submitting this complaint regarding unauthorized fraudulent transactions that occurred on two Barclays credit card accounts issued in my name. These transactions were not authorized by me and were the result of fraud. Despite reporting the matter, Barclays has failed to properly resolve the issue and continues to hold me responsible for balances related to these fraudulent charges.\n\nBarclays responded to my prior complaint stating that certain credits were applied. However, the balances remain on the accounts and I am still being held responsible for charges related to the fraudulent activity. This violates my rights under the Truth in Lending Act and Regulation Z, which limit cardholder liability for unauthorized transactions.\n\nThe following transactions were fraudulent and were not authorized by me. \n\nAccount ending XXXX XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXX XXXX : XXXX USD XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXX XXXXAmount : XXXX USD XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXX XXXX XXXXAmount : XXXX USD XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXX XXXX XXXXAmount : XXXX USD XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXXAmount : XXXX USD Total unauthorized charges on this account : XXXX USD Account ending XXXX XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXX XXXX XXXXAmount : XXXX USD XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXX XXXX XXXXAmount : XXXX USD XX/XX/XXXX XXXXMerchant : XXXX XXXX XXXX XXXX XXXXAmount : XXXX USD Total unauthorized charges on this account : XXXX USD Total fraudulent charges across both accounts : XXXX USD These transactions occurred with merchants located outside the United States and were clearly inconsistent with my normal purchasing behavior. I did not authorize these transactions, did not receive any goods or services related to these charges, and immediately reported the issue when I became aware of it. \n\nDespite this, Barclays has continued to maintain balances on these accounts and has failed to fully remove the fraudulent charges and associated fees. Their response indicates that some credits were applied, but the accounts still show outstanding balances and interest related to these transactions. \n\nUnder federal law, cardholders are not responsible for unauthorized credit card transactions. Barclays has an obligation to properly investigate and correct these errors"
+}

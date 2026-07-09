@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4953",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78746"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36696,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I first called Sears and talked to the operator for complaints. She understood my concern and reversed the charges. Three weeks or one billing cycle I receive a letter regarding reversing the charges in favor of XXXX including a letter from the manager stating that the work was done.\n\nI followed up with a phone call and was instructed to summit my complaint. I faxed and mailed receipts showing how I was treated and dismissed. \n\nAfter a week or more I called to see if they had reviewed the information. I couldn't tell from what I was told if they looked at the information as she told me the case was closed. She reopened it and told me to summit receipts and any other information that would explain what I had explained now two times. \n\nAnd now I called again after a week to see if they had received my info. I was told it had been closed. I asked if I could talked to someone that might have read what I had sent. So she sent me to a upper agent. That agent told me that it had been closed and I needed to talk to XXXX. I think I have 15 phone calls to XXXX still of record without any success. \n\nI won't be using XXXX for anymore work on my partners jeep."
+}

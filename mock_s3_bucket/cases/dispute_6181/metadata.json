@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6181",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85718"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43107,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I signed a contract for the installation of a solar hot water generating panel. Half of the required downpayment, including the Citi credit card fee, was {$5100.00}. The salesperson said it would take XXXX weeks for the panel to arrive. \nAt least XXXX  times following this, I attempted to contact the company to find out the progress. I was unable to reach anyone who could tell me when the panel would arrive. No one was able to tell me. On XX/XX/year> I verbally informed the company that I was cancelling the contract. \n\nOn XX/XX/year> I hand delivered a letter to the President of the Company, XXXX XXXX, advising again, that I was cancelling the contract. I had a pleasant chat with XXXX XXXX, XXXX XXXX 's XXXX, who signed and dated receipt of the cancellation letter. \nNotwithstanding this, Citi XXXX continues to deny a final credit back of the {$4100.00} to my card. The fact that the XXXX XXXX has acknowledged receipt of the Notice of XXXX apparently means nothing to it. \nIt is worth noting that XXXX XXXX does not and is not, contesting THE CANCELLATION. Further, the remainder of the downpayment, paid with an XXXX card, has been resolved with XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13355",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "024XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36610,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Formal Complaint Regarding Unresolved Dispute with American Express To the financial regulator, I am writing to request formal assistance in resolving a dispute with American Express. Despite receiving confirmation from the merchant, XXXX XXXX XXXX, on XX/XX/XXXX that a chargeback of {$650.00} was approved and processed on XX/XX/XXXX, American Express has failed to credit my account and continues to demand payment. I have contacted American Express multiple times regarding this credit, but the issue remains unresolved as of XX/XX/XXXX."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8832",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11211"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36180,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I was charged {$81.00} by XXXX XXXX at XXXXXXXX XXXX XXXX XXXX ( XXXX ) for what they described as a luggage fee. I am disputing this charge because I was traveling on a XXXX-issued ticket ( confirmation XXXX ) that already included one standard carry-on bag at no additional cost. I did not have any checked baggage. \n\nAt the XXXX XXXX XXXX, I was told I could not board unless I paid this additional luggage fee. I paid under pressure so I could board my return flight to New York. On my outbound flight from New York to XXXX with the same ticket and fare class, I was not charged any luggage fee, so the return-leg charge was inconsistent and unexpected. \n\nI opened a billing dispute with Citi ( Dispute ID XXXX ) explaining that the fee was improper and not consistent with the fare conditions. Citi first requested more documents, which I providedincluding my XXXX ticket, fare rules, and evidence that no fee was charged on the outbound flight. Citi then closed the case stating my correspondence was conflicting, claiming I had said the charge was unauthorized, even though I clearly stated that the charge was authorized but improperly assessed under duress.\n\nI am requesting CFPBs assistance in having Citi review this dispute correctly as a billing dispute for an improper charge, not a fraud dispute. I believe the bank mishandled my claim by focusing on a technical classification error instead of reviewing the merits of the case and the evidence I provided. I am seeking reversal of the {$81.00} charge and a fair review of the documentation."
+}

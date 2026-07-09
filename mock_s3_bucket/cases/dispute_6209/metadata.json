@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6209",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11701"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15857,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a formal complaint against Barclays Bank for inaccurately reporting late payments on my credit reports with XXXX XXXX, and XXXX. Barclays has reported 30-day late payments for the months of XX/XX/XXXX and XX/XX/XXXX, which I dispute as inaccurate. \n\nDespite my disputes, Barclays continues to report these late payments without providing adequate verification or correcting the inaccurate information, in violation of the Fair Credit Reporting Act ( FCRA ). \n\nKey Issues : 1. Inaccurate Reporting of 30-Day Late Payments : Barclays reported a 30-day late payment for June 2023 and another for July 2024 across XXXX, XXXX, and XXXX. \n\nI dispute the accuracy of these late payments because my records show that payments were made within the terms agreed upon. \n\nReporting a late payment when the consumer was not actually late is a clear violation of federal law and consumer rights. \n\n2. Failure to Properly Investigate Disputes : I have previously disputed these late payments through the credit reporting agencies, but Barclays has failed to conduct a reasonable investigation as required by 15 U.S.C. 1681i ( a ) ( 1 ) ( A ).\n\nThe comments on my credit report show \" consumer disputes investigation completed consumer disagrees, '' meaning Barclays simply verified the debt without properly examining the evidence or circumstances.\n\n3. Violation of the Fair Credit Reporting Act ( FCRA ) : 15 U.S.C. 1681e ( b ) Duty to Assure Maximum Possible Accuracy : Barclays is required to report only accurate information and to maintain procedures that ensure maximum possible accuracy.\n\nReporting late payments that are not valid violates this duty.\n\n15 U.S.C. 1681s-2 ( a ) ( 1 ) ( A ) Duty to Provide Accurate Information : Furnishers like Barclays must not report information they know or have reasonable cause to believe is inaccurate.\n\n15 U.S.C. 1681i ( a ) ( 1 ) ( A ) Duty to Reinvestigate Disputes : Once a consumer files a dispute, furnishers must conduct a proper and reasonable investigation. Barclays failed to do so. \n\nLegal Precedent Supporting This Complaint : XXXX XXXX XXXX XXXXXXXX, XXXX XXXX XXXX ( XXXX XXXX. XXXX ) Credit furnishers must go beyond a mere cursory review and conduct an actual investigation when a consumer disputes information. Barclays did not. \n\nXXXXXXXX XXXX XXXX  XXXX XXXX. XXXX, XXXX XXXX XXXX XXXX XXXX ( XXXXXXXX XXXX XXXX. XXXX ) Furnishers and credit bureaus can be held liable for failing to correct inaccurate late payments after a reasonable investigation. \n\nXXXX XXXX XXXXXXXX XXXX XXXX  XXXX XXXX, XXXX XXXX XXXX ( XXXX XXXX XXXXXXXX ) A creditor who continues to report misleading or inaccurate information after a dispute can be held liable under the FCRA. Barclays ' actions fit this pattern."
+}

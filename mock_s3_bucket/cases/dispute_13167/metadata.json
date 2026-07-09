@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13167",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38931,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting a series of unauthorized ACH transfers from my business checking account ( XXXX ) to pay a debt belonging to a former owner on an American Express card. I discovered the charge for {$1200.00} on XX/XX/XXXX. I immediately contacted my local branch. They gave me a print out of all Amex ACH debits from my account. I found a total of XXXX that were fraudulent : XX/XX/XXXX - {$1200.00} XX/XX/XXXX - {$1000.00} XX/XX/XXXX - {$1600.00} XX/XX/XXXX - {$10000.00} XX/XX/XXXX - {$1000.00} XXXX refused to credit any of the charges, even the one that was reported while it was still pending on XX/XX/XXXX per the XXXX XXXX policy. They were notified within the mandatory window of 48-hours. Additionally, under UCC 4A-204 the {$10000.00} transaction is considered concealed theft and was also not authorized. The merchant ( American Express ) is pulling funds for a personal SSN account from a corporate XXXX account. XXXX failed to perform mandatory Name Matching and is incorrectly applying consumer statute-of-limitations ( Reg E ) to a business account protected by the Uniform Commercial Code ( UCC ). The person who authorized these pulls is not an authorized signer on our account. Furthermore, Amex would not remove our XXXX XXXX checking account information from the fraudulent Amex account to prevent future withdraws and payments."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9643",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70056"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30166,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank has been neglectful in repairing this problem for months now. If you look before any of this happened, l would pay my bill a week or two ahead. This company blocked me from looking at my account much less paying my bill. In fact, the block was only removed after default and my card was restricted. I sent many correspondences to this company with 0 help. I have screenshots and phone recordings for months on this matter. I have been bounced around and mistreated, hung up on, never given the right person to fix this. This is no way to treat a customer, this is no way for a business to act. I tried to compromise with 0 results. I never want to use Citibank or Best Buy again on they're lack of customer service"
+}

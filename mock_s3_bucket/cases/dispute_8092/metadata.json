@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8092",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78526"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39995,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I filed a dispute with Barclays for a charge of {$4300.00} on XX/XX/year>, related to a vacation membership program with XXXX XXXX XXXX. My dispute case number was XXXX. The reason for my dispute was non-receipt of promised services, including access to a travel booking platform ( XXXX ) that was contractually guaranteed within 90 days but was never delivered. I also received member discounts that were significantly below the 25 % rate promised in writing. \n\nI formally requested the merchants documentation used to deny my claim on two separate occasions. I was told the documents would be sent within 10 business days ( reference number XXXX ), but I never received anything. On XX/XX/year>, at XXXXXXXX XXXX, I spoke with a representative named XXXX in Barclays dispute department who confirmed that : He could not escalate my call to a supervisor, The documents could not be sent through their secure portal, There was no guarantee they would be sent at all, The case had already been closed after 10 business days. \n\nThis is a violation of the Fair Credit Billing Act ( FCBA ) and Regulation Z, which gives me the right to review the merchants evidence used to deny a dispute. Barclays closed the case without providing the documentation or properly re-investigating based on my rebuttal. \n\nI am asking the CFPB to investigate Barclays ' failure to meet federal consumer protection requirements and to compel the company to : Provide the requested merchant documentation, Re-open the dispute, Conduct a proper review based on non-delivery of services and breach of contract."
+}

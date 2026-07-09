@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4710",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29910"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5123,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing you in a last ditch effort to have {$770.00} credited back to me for XXXX  ticket number XXXX back to my citicard ending in XXXX. This was for a flight that did not occur due to the XXXX XXXX in XXXX. I have been trying since XXXX to get a refund. I have spoken to multiple people at XXXX  and Citibank. Being told that money is stuck somewhere and there is nothing that can be done. MULTIPLE HOURS involved in this. \n\nInitially I requested a refund from XXXX XXXX- they offered flight credit, which i disputed. Then I filed a dispute with Citicard- who found in favor of the airlines- could be because they have an XXXX XXXX Citicard. I then returned my complaint to XXXX, which resulted in a refund that citicard is saying they didnt receive. At one point I had both citi and XXXX  on the phone with me and neither could figure out where money is??? \n\nI am BEYOND FRUSTRATED!!! I have since closed XXXX citicard accounts and will not EVER do business with XXXX XXXX ever again! I have been a loyal citi customer for over 20 years, without XXXX late payment or filed dispute! \n\nFor a CITICARD with XXXX  XXXX  BOTH companies should have a clue how to fix this. \n\n\nReps at CITIBANK I have worked with : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX My last correspondence from XXXX  stated I needed to contact citi once more - after reaching their executive services department, I was told there was nothing they could do. I have paper correspondences saved."
+}

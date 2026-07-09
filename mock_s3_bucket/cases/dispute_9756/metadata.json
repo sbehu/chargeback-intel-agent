@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9756",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32216"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27107,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I prepaid for a car rental through XXXX using my Citibank credit card. When I arrived at the rental location ( XXXX ), the company had no vehicles available and could not provide the service I paid for. \nI disputed the charge as service not rendered. Citibank initially issued a provisional credit but later reversed it after accepting the merchants non-refundable policy. \n\nA non-refundable policy does not apply when a merchant fails to provide the contracted service. I did not cancel or no-show ; I arrived and was refused service due to lack of availability. \nI am requesting Citibank correct this error and honor consumer protections under the Fair Credit Billing Act. \n\nThe car rental was scheduled from XX/XX/XXXX though XX/XX/XXXX. The XXXXXXXX XXXX XXXX  was booked as part of a XXXXXXXX XXXX XXXX XXXXXXXX did not itemize or separately disclose the specific dollar amount allocated to the rental car portion of the charge. As a result, the exact rental car amount is not available. However, the service itself was not provided because the rental company had no vehicles available at pickup. The amount I am seeking is what it cost me to rent the car because XXXX was not able to provide the service I paid for. {$340.00} is the amount."
+}

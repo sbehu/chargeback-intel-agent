@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12250",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33558"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41726,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of 2025 I disputed multiple fraudulent charges on my Citi Mastercard. After several hours attempting to reach someone that could help me, I thought we had the situation resolved. The representative assured me that all of the charges would be reviewed and that card had been canceled, but for some reason they couldnt block charges from the same fraudster. I discovered a couple of weeks afterwards that only some of the fraudulent charges were disputed. I went through the same gauntlet to dispute the remaining charges and cancel the account. That agent assured me that the remaining charges would be dealt with and cancelled the account. The next statement showed more charges on the new card that I had not even received yet and the other charges that were supposed to be in dispute were still pending. \nI have tried multiple times to correct this situation with Citi, but it seems there level of incompetence in this area is astounding. \nNow they have added late fees and foreign transaction fees to this account. I have paid them what I am liable for. \nI need help repairing my credit from their reporting and somehow getting this situation resolved."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10083",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "721XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29642,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased a product from Best Buy and on XX/XX/year> I logged in to the account to make a full payment for the product. On XX/XX/year> I realized that a transaction was made in the amount {$540.00} that was not made by me, sole authorized buyer, from a differing state. I attempted to report through the site but was rerouted to call instead. On XX/XX/year>, I called the Best Buy credit line to report the fraud purchase, call lasting approximately XXXX minutes. I was told they would report the transaction and would be notified on further updates, none were received. On XX/XX/year>, I called Best Buy credit line to inquire on the fraudulent charge, call lasting approximately XXXX minutes. I was told they would notify me of any further updates, none were received. On XX/XX/year>, I called the Best Buy credit line to inquire again on the updates of the fraudulent charge, call lasting approximately XXXX minutes. I was told that they had no record of me reporting the transaction or any prior conversation held with the Best Buy credit line. I attempted to close the account, customer service denied the request. They attempted to issue a new card, I denied. By the end of the call, the Best Buy credit line promised that I would not receive a new card and that the transaction was reported as fraudulent, and the account would be closed post resolution of fraudulent charge. On XX/XX/year>, I called the Best Buy credit line after viewing the negative points on my XXXX XXXX report, call lasting approximately XXXX minutes. Once again, I was told that there was no dispute on the transaction. Customer service claimed they reported the transaction as a fraudulent charge, no further updates were given since. Customer service was in fact able to close the account but now the fraudulent charge remains. The phone number provided by customer service to check on the status of the dispute is an automated system that does not provide information and ends the call after notifying the caller that if information is needed, Best Buy would reach out. No further updates were given. I do have screenshots of the calls length with phone numbers and dates attached."
+}

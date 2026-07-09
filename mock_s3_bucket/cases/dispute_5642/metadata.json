@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5642",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43537"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15226,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX gift card for {$200.00} on XX/XX/year> from Home Depot using my Home Depot credit card. I tried to use it and the card declined. I called the issuer and was told the balance never loaded from the store. I went to the store and spoke with the manager who said I would need to dispute the charge. I did so the same day. I received a letter on XX/XX/year> saying I would need to go to the store. I called the credit card issuer Citibank again. I spoke with a manager who said they reached out to the store who acknowledged that no load took place but there was no indication that the store would fix the issue. I was told to file a complaint thru any channel I could."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8336",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77040"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2727,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was offered a credit card for Macy 's from customer service. I did not receive my first credit card ( ending with XXXX ) nor do I remember activating it. On XX/XX/2024, I received an email with the title \" XXXX, XXXX did you think about your recent in-store XXXX? \" The email ( associated with Macy 's credit card ending in XXXX ) showed a picture of XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXurchased from XXXX XXXX XXXX in XXXX, TX. There were no further details and my shoe size is XXXX and there are no tXXXX XXXX XXXX XXXX XXXX have not been to XXXX XXXX XXXX since XXXX XXXX. I did not buy anything from XXXX XXXX XXXX nor did anyone in my family. I am XXXX XXXX XXXX, and live with my XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. All have claimed and written a statement that they did not use my Macys credit card.\n\nI immediately called the fraud department number listed on my Macys account. \n\nOver XXXX third of the calls to the fraudulent department were difficult to understand, many times I had to say that I would call the number back. I was always very polite and calm during these calls. \n\nThe person on the fraud line said that they would begin the investigation and that it takes XXXX billing cycles ( approximately 2 months ). The result of the XXXX investigation ( XX/XX/2024 ) said : ' You received benefit from the disputed charges made on this account. The facts and/or information reviewed as part of the investigation does not substantiate the claim of unauthorized use. ' I called again and asked to talk to a XXXX. I was told that they could not do that. I was told that they would investigate a second time. After the XXXX investigation ( XX/XX/2024 ), the result was the same as the first investigation. \n\nI called and was told they would begin a third investigation, and that they would only do XXXX investigations. The third investigation ( XX/XX/2024 ) said the same as the XXXX previous reports. ( now 5 months have passed with interest and penalty accruing ) I asked if I could talk to Citibank, which issued the credit cards. I was told yes and was given a number to call. I talked to XXXX XXXX in the fraud investigation department ) who sounded interested in finding out what happened and would check the security tape of the purchase. ) After about a month I received a message from Citibank saying that on a recording of the fraud investigation department conversation, I had verified the purchase. I called and talked to someone in the Citibank fraud department and she said the discussion happened either XX/XX/XXXX or XX/XX/XXXX of 2024. I was shocked. I asked if I could hear the recording. She said that they could not do that. She said they would not investigate any further. I do remember talking to XXXX from Macy 's XXXX XXXX and he asked me \" is the amount {$470.00}? I said \" Yes! That's it! Then XXXX said \" I will verify it. \". I understood that to mean that he would verify that it was a fraudulent charge. I remember thanking him over and over. \n\n\n\nI have many questions that have never been answered : Why could I not see a receipt of the purchase?\n\nWas there a signature on the in-store purchase?\n\nWhy did this fraudulent purchase occur almost immediately after I was issued my first credit card?\n\nWhy was there no explanation for the reason for my denial besides an unclear message.\n\nWhy was there no manager I could talk to when talking to the fraud department?\n\nWhy was it impossible to listen to the telephone recording saying that I 'verified \" the purchase?"
+}

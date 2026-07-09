@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6522",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "331XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2416,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint arises from Complaint # XXXX filed XX/XX/year>. American Express limited response was that they were attempting to resolve the dispute. CFPB closed the complaint. No substantive issues have been addressed. \n\nAmex gave me until XX/XX/XXXX to submit additional documentation where I requested the refund from the merchant ( see attached ) On XX/XX/XXXX at XXXXXXXX XXXX, I submitted such documentation ( see attached. ) On XX/XX/XXXX at XXXXXXXX XXXX ( or 25 minutes after my submission ) Amex denied my dispute using the exact same boilerplate language it used to deny the claim on XX/XX/XXXX providing none other but the initial response from the merchant from XXXXXXXX XXXX ( see attached correspondences from American Express using the same language. ) Simply put, Amex is not even considering my evidence. They asked for proof of communication that I requested the refund, and clear convincing evidence was submitted. Why would they request such proof to simply deny the claim almost IMMEDIATELY using the EXACT SAME LANGUAGE? \n\nI have submitted substantial evidence on the complaint # XXXX. \n\nFirst, I request that complaint # XXXX is addressed substantively ; Second, I request that Amex review my evidence in accordance to consumer protection laws ; Third, I request that the charge be reversed and be refunded in it's entirety ; and Fourth, an investigation is opened regarding American Express XXXX preference on merchants to have them continue accepting their cards and lack of review of evidence submitted by users."
+}

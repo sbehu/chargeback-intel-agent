@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6103",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "NC",
+    "complaint_zip": "27516"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44320,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am urgently seeking help regarding a serious case of identity theft and mismanagement by Barclays Bank involving a fraudulent credit card opened in my name. \n\nOn XX/XX/XXXX, just XXXX days before moving back to North Carolina, I was alerted that a XXXX XXXX XXXX XXXX XXXX Barclays Bank XXXX been fraudulently opened in my nameat a store in Texas XXXX where I have never lived. This occurred shortly after Barclays had already flagged suspicious activity on my XXXX XXXX credit card account. Despite this red flag, Barclays still approved the new fraudulent application and even emailed me to congratulate me on the new profile. \n\nI immediately contacted Barclays on XX/XX/XXXX, reported the application and charges as fraudulent, and was assured the card would be suspended and that an investigation would begin. I also filed a police report with the XXXX XXXX, CA Police Department ( report # XXXX ), where I was residing at the time. \n\nBut on XX/XX/XXXX, a full month later, I logged into my Barclays account and was shocked to find a statement showing a balance due. When I called Barclays, I was told that the person I spoke to on XX/XX/XXXX never submitted the investigation request and failed to document anything on my account. I was again told the card would be suspended and that an investigation would begin. \n\nThen, on XX/XX/XXXX, I received a letter ( dated XX/XX/XXXX, postmarked XX/XX/XXXX ) stating that the investigation had been completed, and the charges were deemed valid because it was determined you benefited from the use of the account. They removed the fraud alert and reactivated the carda card that I have never had in my possession. \n\nTo make matters worse, Barclays claimed the account is valid simply because the fraudulent address used \" matches an address on your consumer report. '' This is deeply concerning, as that address XXXX have been added by the identity thief. Barclays somehow had my current North Carolina address, even though I had not updated the account myself. \n\nWhen I called again, I requested to speak with a supervisor. I was told none were available and that one would call me within XXXX hours. I never received a call back. On the same day, I was charged a late fee for a fraudulent balance. \n\nI am exhausted, frustrated, and at a loss for what to do next. I have done everything I can to prove this account was opened fraudulently, yet I am being held responsible for charges I did not make. \n\nPlease, I need your help. I am trying to protect my credit and my identity, and I feel completely failed by Barclays lack of due diligence and customer support. I fear this situation will only continue to spiral without immediate intervention."
+}

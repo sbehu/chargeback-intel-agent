@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3209",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "891XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28045,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX {$700.00} Home DepotXXXX I returned the refrigerator bought on XX/XX/XXXX as agreed with Home Depot . It is a ball of confusion as to whether or not I received a refund of the {$700.00}. I asked Citi to clear this up. It appears that there are \" reversals '' that actually show as a charge to my account. For the love of XXXX I was never given a partial refund. At one point I was given {$160.00} Customer Satisfaction credit for a scratch on the frig. A day later, due to the noise of the frig, Home Depot agreed to take it back for a full refund. That leaves {$530.00}. Which I told Citi that Home Depot returned to me in cash ( on a recorded line ). \nI asked Citi to have a human being go through all of the credits, conditional credits, and debits to my credit card account and explain to me simply and clearly how it all balances out. The losers replied that they would be re-contacting the merchant. That is unnecessary and does not answer my question. \nAlso, the losers ( Citi ) sent me a \" XXXX page document '' on XX/XX/XXXX which only included pp. XXXX, not XXXX & XXXX."
+}

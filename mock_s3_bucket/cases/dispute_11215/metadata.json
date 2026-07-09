@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11215",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85750"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26152,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There is a charge on my account for {$1000.00} on XX/XX/year> for \" PP Credit Coach '' that I did not authorize. I have never engaged in debt counseling, credit coaching, or marriage counseling services, nor did I consent to any transaction with this merchant. \nAccording to the investigation summary, Citi concluded that the transaction was valid because my chip was used and additional purchases occurred after a magnetic strip transaction. However, this conclusion does not align with the actual transaction details on my account.\n\nThe {$1000.00} PP Credit Coach charge occurred at the exact same date and time as a legitimate car wash transaction on XX/XX/year>. XXXX separate merchants can not legitimately process transactions at the same exact time using the same physical card. This alone raises serious concern about the validity of the PP Credit Coach charge. Additionally, the car wash and it's charge statement is located in XXXX, AZ while the PP Credit Coach charge is reported to be in XXXX, AZ, in which I was not present in XXXX that day. When I originally looked at the transaction history, the charges were timestamped for the same exact time. \n\nPP Credit Coach does not appear to be a legitimate or verifiable business, and we have confirmed it is not a Pay Pal charge. There is no clear company information, no identifiable physical address, and no valid customer service phone number available.Citi Bank has been unable to locate or contact the merchant directly, this strongly suggests a fraudulent or scam operation. \n\nI have been disputing this transaction with Citi Bank since the fraudulent charge in XXXX with no resolution. Citi Bank has not fulfilled their due diligence in investigating this charge. They repeatedly just state they have \" reopened the fraud dispute '' but has not provided any resolution with a complete stall for the lastXX/XX/XXXX months. This was a charge that was paid in full by me, unfortunately unknowingly due to autopay."
+}

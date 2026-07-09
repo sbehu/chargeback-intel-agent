@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-58131985-US
+Shipment Date:   2026-03-06T00:00:00Z
+Delivery Date:   2026-03-12T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     2743 OAK WAY, TX, 782XX
+============================================================

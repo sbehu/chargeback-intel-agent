@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_662",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55912"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13191,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2021 precisely, I got alert from American Express credit card that I made purchased of American Express gift card of about {$34000.00}. Immediately, I called American Express to cancel the transaction that I wasn't the one making that transaction of huge amount. Thereafter, they credited part of the money and balanced {$14000.00}. I have called them several time to credit the balanced, but they are adamant to do so. The said amount is hurting my credit. Please, I want this amount credited to my card and remove from my credit report. \nI am looking forward to hearing from you soonest. \n\nSincerely XXXX, XXXX XXXX."
+}

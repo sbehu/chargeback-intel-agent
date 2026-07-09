@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13664",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MD",
+    "complaint_zip": "20772"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34890,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a room with XXXX through XXXX for XXXX. The email and receipt ( both are attached ) clearly state that there are no mandatory fees. The only mandatory charge when I arrive should be the deposit. When I arrived they illegally forced me to pay a housekeeping fee for the stay at check in. This is illegal drip pricing because this mandatory fee was not disclosed. I complained to XXXX who said they contacted XXXX and they refused to refund. I then filed a credit card complaint with Barclaycard. Barclaycard closed my complaint without ever contacting me or asking for any documentation."
+}

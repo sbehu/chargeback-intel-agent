@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1385",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95060"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48169,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I received an alert from the credit card company Barclaycard US that potentially fraudulent transactions had been charged to my account. I logged into the app to check recent transactions and confirmed that the pending charges were not purchases I had made. I also noticed another transaction from a week prior, XX/XX/XXXX that I had not made. I immediately called the company and confirmed that the flagged transactions were fraudulent and that the other transaction from XX/XX/XXXX was also fraudulent. This transaction was from a merchant called \" XXXX '' in XXXX  and was for {$2500.00}. The XXXX transaction, as well as the other fraudulent charges, were reversed. My current card was cancelled and a new card was mailed out. \n\nThis month, on XX/XX/XXXX, I was checking my transactions in the app when I noticed that the XXXX transaction had been charged to my account again on XX/XX/XXXX. I immediately called the company and was notified that they had determined that I was at fault for the transaction based on records that the merchant had provided. I was never contacted for details about this transaction, nor to confirm or dispute the supposed evidence the merchant had provided. This charge was indeed fraudulent. I have never purchased anything from this merchant, and have not received any goods or services from this merchant. During this phone call with customer service, I requested that any documents they used to make their determination be mailed to me. As of today, XX/XX/XXXX, I have not received anything. Additionally, I was told that this case would be re-opened and reinvestigated, however the charge is still on my account, and I am being charged interest on this charge, for which I am not liable."
+}

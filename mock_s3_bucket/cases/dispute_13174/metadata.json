@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13174",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91302"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30783,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order for over {$500.00} in merchandise from Best Buy. They sent out part of the order via their horrible service XXXX, which is not a real package delivery service. I was home at the time of delivery, but the driver said delivery could not be made. She told my {$500.00} package and for XXXX days has neither returned it to Best Buy nor has Best Buy cancelled the order as I requested multiple times. Im tired of playing this game, I just want a refund so I can take my money to XXXX who is actually competent in dealing with these matters"
+}

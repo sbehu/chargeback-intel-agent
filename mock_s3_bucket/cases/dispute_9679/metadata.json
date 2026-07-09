@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9679",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8638"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6649,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is my XXXX complaint, and it remains unresolved. You are requested to stop closing my complaints without resolution. As referenced in the attached company letter dated XX/XX/XXXX, which I have not yet received, the company has failed to acknowledge the {$400.00} paid for the XXXX statement. \n\nIn XX/XX/XXXX, I called your customer service team regarding a payment I thought had been applied to my Macy 's account. I informed the representative that I would check with my bank, as the payment was made through online bill pay. I called back the next day and confirmed that the payment had been misdirected to another payee and that I would go to a Macy 's store to make the payment myself. I also requested that any late charges be waived, which the representative agreed to. However, without my request or authorization, the initial representative created a dispute on my account, which led to significant confusion and complications. XXXX months later, I was informed by a family member that her Macy 's payment was reversed and her account debited, with the explanation that her payment had been applied to my account-which is entirely false. To make matters worse, your representative allegedly asked my family member to verify my personal information-while I was not on the call, and without my knowledge or permission. This is a serious violation of my privacy rights. Since then, my account has been wrongfully debited, and I have been attempting to resolve this situation for XXXX year without resolution."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5611",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "060XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have had an outstanding and unresolved credit card dispute with Citibank since my original claim filing on XX/XX/XXXX in the amount of {$320.00} for concert tickets I purchased on XX/XX/XXXX. The concert event was scheduled for XX/XX/XXXX at the XXXX XXXX in XXXX NY. Upon arrival to the venue at XXXX, I was informed that the artist canceled last minute. We were given a form that the show was canceled and no refunds would be given. This was a XXXX XXXX XXXX for me XXXX way and I also took 2 days off from work to go to this show so my losses are substantial when including the ticket cost. I have contacted the ticket vendor, XXXX XXXX, on multiple occasions to no avail. I also contacted the management group for the XXXX requesting a refund with no responses after several attempts. This prompted me to submit a claim to Citibank on XX/XX/XXXX as I did not receive the services I purchased. I did not hear anything back on my claim until XX/XX/XXXX notifying me that they processed a conditional credit of {$320.00} on XX/XX/XXXX. This credit was retracted by them 3 days later on XX/XX/XXXX and I received a notice in the mail on XX/XX/XXXX notifying me of the declination. I called that same day to voice my concerns, and the case was reopened on XX/XX/XXXX. I have not received a provisional credit while the reopened case is under investigation thus paying interest on this amount since XX/XX/XXXX ( with the exception of the 3 days in XXXX that I had the provisional credit ) and with no resolution or communication. It shows on my mobile app that they contacted the merchant on XX/XX/XXXX and received a response on XX/XX/XXXX with a note \" We're reviewing details from the merchant. We received a response from the merchant about this dispute and will get back to you after we complete our investigation. Remember to hold all documentation for 90 days from the date your dispute was opened. '' Today is XX/XX/XXXX and have still have no decision on this claim and the balance is still outstanding accumulating interest. As of today, it has been 148 days since my original claim and 98 days since appealing and reopening the claim on XX/XX/XXXX. I have called and used the mobile chat for updates to no avail. I am requesting your assistance in receiving credit back for my original purchase of {$320.00} and all accrued interest charges. The claim reference ID with Citibank is XXXX."
+}

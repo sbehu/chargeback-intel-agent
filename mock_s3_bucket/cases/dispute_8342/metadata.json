@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8342",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11207"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16082,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I visited XXXX XXXXXXXX XXXX XXXX XXXX DC XXXX XXXX between XX/XX/XXXX and XXXX 2025. I presented my American Express Delta skymiles credit card. After my visit the hotel charged me extra {$250.00} and then went ahead to charge another {$250.00} on my American Express Business platinum credit card, I never presented this card as a form of payment. How did they get my credit card information."
+}

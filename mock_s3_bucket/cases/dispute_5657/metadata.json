@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5657",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60634"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30601,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "What Happened : On XX/XX/year>, I ordered a XXXX  - XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX for store pick-up at Best Buy. \n\nOn XX/XX/year>, my boyfriend went to pick up the TV, but Best Buy ended up canceling the order because it would not fit in our van. Instead of processing a normal cancellation, the cashier mistakenly entered it as an exchange & scheduled the delivery for XX/XX/year>. When I found out what the cashier had done, I told the cashier to cancel that exchange, which they did. I then placed a new order myself ( on that same day ) XX/XX/year> from my laptop at home, again setting the delivery for XX/XX/year>. \n\nThe Issue : On XX/XX/year>, instead of delivering the XXXX TV I ordered, Best Buy 's delivery team left a {$200.00} XXXX XXXX at my home. \n\nMy XXXX XXXX XXXX daughter was home to receive the delivery, as I was at work. She was unaware the wrong item had been delivered at the time. She said one of the delivery truck drivers took XXXX different photos of the delivered TV in our living room from his work device before they left. I came home within the hour and immediately saw that this was not the TV I had ordered online. \n\nI called Best Buy multiple times that day and the next day to report the issue. Several agents told me to return the XXXX XXXX to a Best Buy store and to speak with the store manager to help me resolve the issue. \n\nOn XX/XX/year>, I followed their instructions and returned the XXXX XXXX to a Best Buy store. The store manager, XXXX XXXX, accepted the return and assured me he would communicate with Best Buy on my behalf to make sure I got my refund since I was now left with no TV at all. \n\nOn XX/XX/year>, the store manager emailed me ( screenshot available ) confirming that : The original {$1800.00} charge had been refunded ( from the canceled in store pick-up order ). \n\nThey were still investigating the XXXX '' TV delivery issue and had contacted the warehouse and drivers. \n\nHowever, they never followed up again, and the charge for the undelivered TV was never refunded. \n\nThe Problem : Even though Best Buy never delivered the TV I actually ordered, Citi has wrongfully kept the charge on my account under my promotional balance as if I received it. \n\nIn addition to this, there is another separate charge under the same promotional balance category : I was wrongfully charged {$200.00} which later changed to {$180.00} without explanation. I was never refunded for this charge, and Best Buy has failed to explain what it is for. \n\nBoth charges are under my promotional balance, even though I never received the TV I ordered and returned the incorrect delivered one. \nOn XX/XX/year>, I filed a fraud dispute with Citi, explaining both issues -- that I never received my ordered TV and that there was an additional incorrect charge under my promotional balance. \n\nDespite this, Citi has not even removed either charges nor have they issued a temporary credit while investigating this fraud. \n\nBest Buy 's store manager confirmed in his XX/XX/year> email that they were still investigating the issue, but he never followed up. Neither Citi nor Best Buy has contacted me since, and no refund, credit or chargeback was ever issued."
+}

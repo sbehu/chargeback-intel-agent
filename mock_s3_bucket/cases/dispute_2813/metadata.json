@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2813",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90044"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35734,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had previously filed a complaint against Citi Bank/Best Buy XXXX Complaint # XXXX. In Citi Bank 's Response to that complaint, they provided you with incorrect information. They are saying that I only disputed XXXX Fraudulent Charges totaling {$2100.00} that were made with XXXX of my Authorize User 's Card with the name of ( XXXX XXXX XXXX. That is not true, they are very much aware that I am disputing a Total of XXXX Fraudulent Charges that were made with XXXXXXXX XXXX Card, Totaling {$9500.00}. I also filed XXXX Police XXXX regarding this matter, but they obviously didn't take them in to consideration. Why they are denying the facts it's totally unfair and I believe that Citi Bank is now acting in Bad Faith towards me. The Charges that were made with my other Authorize User 's Card ( XXXX XXXX ) have absolutely nothing to do with this Fraud Matter! Citi Bank is picking and choosing what I can and can not get back from this, their decision is very contradicting and doesn't make sense! The XXXX Fraudulent Charges that I was credited for were for XXXX Airline Tickets that were made on XX/XX/2023. There are more Fraudulent Charges before and after that date. In order for their decision to make sense, I would of had to make some valid charges before XX/XX/2023, then lost my card or had it stolen and then found it again and continued making more valid charges. When I originally reported this matter to Citi Bank on XX/XX/2023, Citi Bank told me that call was being Recorded, but yet they have never taken the time to review that call. I have also asked CitiBank numerous times to provide me with a copy of all the information and or documents that they used to come to their decision. Although they've told me I have a right to that information, over half a year later I still haven't gotten nothing from them. I need this information because I do plan on taking them to Small Claims Court."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7201",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92865"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29002,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I would like XXXX to look at their surveillance camera to catch this thief who I think have done it a few times because it looks like they are very comfortable using my card, at their XXXX XXXX location # XXXX XXXX XXXX XXXX, XXXX XXXX in Southern California on XX/XX/year> at XXXX ( XXXX ) for receipt # XXXX. This person charge {$1000.00}. \n\nLater they went to the food court to get food at XXXX XXXXXXXX XXXX XXXX XXXX XXXXXXXX XXXX They also tried to use my credit card to on XXXX online for over {$2000.00}. They also tried to use my card for XXXX many times. Luckily I caught it the first time. This person needs to be arrested because I feel like he/she did this many times before."
+}

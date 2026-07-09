@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9100",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46818"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5755,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I went to utilize my credit card from Barclays and it was denied due to me being over my credit limit. There was no way this was possible as I had just paid down my card the month before substantially. I went to review the transactions and realized that there was purchases made on my account during XXXX that I had not authorized. I called the company as soon as I realized and they opened a fraud claim. The lady on the phone even agreed that someone or something was happening with my account. The account was closed and credit issued during the investigation. I also inquired about how a credit card company would allow a {$26000.00} dollar charge to may account without even notifying me of flagging the transaction. Not to mention that this charge amongst the others put me over my credit limit. How does a company not protect its consumers? \nI received a notification in my app from the company that they have reviewed my claim and found it not fraudulent because it was \" consistent '' with other purchases. I do agree that I have bought from this merchant frequently and also recently. However, never in an amount that would even be remotely close to XXXX, highest was maybe XXXX. \nI also immediately cancelled and flagged every single card I had with any company. The app that was used to make the purchase, I logged in, changed my password that same day and then deleted my account to never log in again. Which was frustrating as I was building a social platform for myself. I NEVER authorized a purchase of this amount. Also, i had just paid down my credit card the month prior by XXXX or more as an effort to reduce interest and payments. \nI called the company again on XX/XX/2025. The individual told me to final an identify theft report. However, I didn't feel like the XXXX instance of my account getting hacked would prove I had identity theft as it only related to the card i had linked through the application. Another letter was received that they denied any fraudulent charges. I called back and reasserted to have the claim re opened and reviewed. Not even XXXX  days later they closed my claim again. All while I'm trying to make payments so that my credit does not get impacted even more than it already has with this fraud charge. The company can not even provide me with any other information other than it was \" consistent. '' I do not understand how an outrageous amount is consistent seeing as though it was never done before."
+}

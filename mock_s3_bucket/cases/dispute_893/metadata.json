@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_893",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44001"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27035,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My dispute is with Delta Skymiles American Express.A vaction club in XXXX called me and asked me to sign up for a vacation club. I told them I needed to talk it over with my wife who wasn't home. They said no problem I could sign up and provide my credit card info but nothing would go through if I didn't send back the authorization form and a copy of my ID. After my wife got home we decided not to do it so I didn't sign anything and I didn't provide my drivers license. We got a call from AMEX a little later that night because of possible fraudulent activity. It was the company trying to put the charge through. I told AMEX that I did not authorize the charge and to not let it go through. I was told by AMEX not to worry that they would not let it go through. On my next statement the charge was there. When I called and questioned AMEX they said the company tried XXXX separate times and that they ( AMEX ) let it go through the XXXX time. The company then supplied forged documents to say that I had approved the purchase. AMEX has accepted the documents as proof that I authorized the transaction. They are also saying that they have not reviewed the recording where I was told the charge wouldn't go through because they say that doesn't matter. AMEX now says nothing further can be done - 9 months of waiting! I have included some documents to support my story as well as the forged documents the company used to support their story."
+}

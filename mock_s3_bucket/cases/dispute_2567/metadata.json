@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2567",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "838XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This a continuation a complaint I generated with Citi Card. The original complaint was ID # was XXXX. Citi responded and attempted to close the dispute again, with blatant ommision of facts and the timelines of communication. All responses I made were prompt and within their timeframe place. They are stating that I opened a dispute in XXXX and didn't respond until XX/XX/XXXX, which is not true. I originally initiated communications via their chat box back in XXXX, being reassured that things were moving behind the scenes. When the refund of {$1200.00} was not processed by the end of XXXX of XXXX, I opened up the dispute of XXXX XXXX of XXXX. I provided all information they requested by XX/XX/XXXX and allowed them to do their investigation. There was an initial resolution handed down on XX/XX/XXXX, which I disagreed with and contacted them to reopen the dispute. Additional information was requested of me on XX/XX/XXXX which I promptly resubmitted. Citi Card stated that they requested information on XX/XX/XXXX and that it was received until XX/XX/XXXX is false. I have been in communication with representatives from Citi over the entire duration of this process. This also concerns me that through this process I have been reassured that things are moving behind the scenes and with my most recent conversation in XXXX that once documents were received they \" would expedite a response within 15 days. '' Clearly this response did not happen within 15 days as it took until XX/XX/XXXX for their response. This entire process has made me doubt their ability to handle things internally, question their training of employees, and more importantly have distrust with any good faith communications I have with them directly. \n\nI am including the original script form the initial complaint ID # XXXX here as well : I had a refund of a purchase ( {$1200.00} ) I made from the XXXX XXXX occur on XX/XX/XXXX for an accidental renewal that occurred on XX/XX/XXXX. The vendor, XXXX XXXX, was extremely communicative and understanding and issued the refund. After a sometime of not receiving funds I contacted the vendor and they provided proof of financial return. I contacted Citibank Card and opened a dispute on XX/XX/XXXX for not receiving funds and provided information to them. They responded in XX/XX/XXXX stating I am responsible for the purchase, even though the refund was initiated from XXXX XXXX. I reopened a dispute and provided further details to Citibank Card on XX/XX/XXXX. They responded on XX/XX/XXXX stating that I am responsible for funds with no further explanation. I am writing this for aid in a complaint against Citibank Card for gross negligence, mishandling, and misappropriation of my money. I have reached out multiple times to Citibank Card. I have also had amazing, transparent commination with XXXX XXXX and they have stated that the funds are also out of their account and they confirmed with their bank that the refund went through on their end. I have exhausted all attempts on my end and I am now pursuing this avenue. \n\nI will be including all document uploads again as well. I will also be including a screenshot of the timeline from my app as well showing the timeline omissions from Citi. I also I highly encourage Citi to look into their chat archives as well as all communications I will be having moving forward will be through here as I do not trust their record keeping."
+}

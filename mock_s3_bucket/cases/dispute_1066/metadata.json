@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1066",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11209"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41217,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX replied that I have signed the service contract XX/XX/2023. \n\nI contested that it was a voidable contract to the most : a ) XXXX XXXX never informed me orally that the dentist was out-of-network, b ) nor included in the contract the fact that the fee charged will be {$2800.00} ( {$1800.00} more than I would be charge from an in-network dentist based on a reply from XXXX XXXX in a follow-up inquiry ) , c ) XXXX XXXX misrepresented the service contract for excluding the description of an out-of-network service- and demanded an extra {$1800.00}. \n\nBarclays Credit Card sided with XXXX XXXX ( Barclays did not admit/accept my argument of the misrepresentation of the service contract presented by XXXX XXXX ) Barclays Bank DE XXXX Case ID : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Fax : XXXX"
+}

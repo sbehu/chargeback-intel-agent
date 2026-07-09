@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11824",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20017"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16004,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am looking to dispute a transaction on my credit card from a travel agency. The travel agency made several promises and planned excursions that were not delivered upon. They also booked incorrect flights and then stated we were responsible for the incorrect flights. We were seeking a partial reimbursement. Citibank is refusing to provide further information regarding the dispute or merchant information stating we are responsible. Below I have pasted the initial dispute email. \n\nI am looking to dispute a partial charge from XXXX. \n\nThis is a trip planner company that we utilized to plan a trip for myself and a client to the XXXX. The trip was planned as a 5 day 4 night trip with all 5 days including excursions and meals. ( XXXX XXXX XXXX ) We were in charge of flight to XXXX and the company was in charge of all flight in country. Throughout the planning process they were difficult to get in touch with an continually provided itinerarys that said all information was confirmed in country Despite our flights into/out of XXXX being on the XXXX and XXXX, they arranged in country travel on the XXXX and XXXX. Leaving us with day long layovers on both ends. We were also told we would be booked on the most direct and convient flights, yet were booked on late flights with long layovers despite having direct options that were affordable. \n\nDay one in the XXXX we were promised a tour and that lunch and dinner would be provided. ( XXXX XXXX XXXX XXXX XXXX ). We were not provided a lunch, tour, and when we attempted to attend the planned dinner we were told we had no reservation. \n\nDay 2 in the XXXX we were instructed to go to the plaza for a meeting spot for an excursion. After waiting for 20 minutes and attempting to contact the tour company we were told this was the wrong spot ( despite XXXX  tours transportation taking us there ) and the boat was across the island and was leaving. So we did not attend this excursion. At this time I wrote the attached email detailing our experience and received no follow up. \n\nDay 5 ( XX/XX/XXXX ) we were booked on a flight at XXXX so were told we were not eligible for a tour that day ( despite our itinerary given to us detailing we have a tour ). These were flight booked for us and there were many other options we could have taken that would have allowed time for an excursion. Our return flight to the states was late on the XXXX. So we had an overnight connection and could have easily been booked on a later flight. \n\nWe are seeking a refund for the following items. \n\nTours on day XXXX, and XXXX. The average tour on the XXXX is XXXX. The company never provided a detailed itinerary so we are unable to confirm exactly what tours were suppose to be provided those days. We are also seeking a refund for the dinner we had to pay for despite being told all dinners were provided. we are seeking a refund for our return flight. We were told the flight would be the most direct and convenient ; however, we chose to book a secondary flight to allow us to attend a private tour on day XXXX in the XXXX. While we are unsure what the breakdown of the flight were, I have attached a screenshot of the most up to date booking price ( XXXX ). And finally we are seeking a refund of dinner on day XXXX. As our itinerary and early emails stated, we would have XXXX meals a day provided in country. \n\nWe feel they booked flight that allowed them to not provide the services promised despite there being other options that would have allowed the services we paid for to be provided."
+}

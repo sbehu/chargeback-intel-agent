@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4234",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "152XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 549,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX four fraudulent charges were placed on my XXXX account with Barclays Bank. \nThree of the charges were from XXXX XXXX : {$610.00}, {$700.00}, {$690.00} One charge fromXXXX for : {$8800.00}. \n\nOn XX/XX/XXXX I called Barclays and reported the fraud. I have called them numerous times for information. \n\nThe charges from XXXX XXXX have not been removed although I was told they would be removed no later than XX/XX/XXXX. Barclays sent me a new card. The dispute remains. Barclays has not contacted me to discuss."
+}

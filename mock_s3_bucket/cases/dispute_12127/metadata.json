@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12127",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30024"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41090,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I paid {$2100.00} for a Turkish airline plane ticket using XXXXCitibank Credit Card XXXX XXXX XXXX XXXX XX/XX/year> for XXXXXXXX XXXX XXXX XXXX XXXX. Once I arrived at airport to fly from XXXX XXXX to XXXX XXXX XXXX and I was told by XXXX XXXX gate agent I could not fly or board plane since they were unable to confirm payment for my plane ticket. I was refused service even though I had confirmed payment on my online access to XXXXCitibank Credit Card XXXX XXXX XXXX had paid in full and my account in good standing. \n\nI called XXXXCitibank Credit Card XXXX XX/XX/XXXX and they in turn said I needed to call XXXX XXXX and it was their fault and problem to provide paid for service so I contacteXXXX XXXX XXXX XXXXd they in turn said contact XXXX/Citibank Credit Card XXXX and XXXX XXXX XXXX and Credit card company said XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX back and forth and back and forth. Getting NO HONEST ANSWERS who could solve this!"
+}

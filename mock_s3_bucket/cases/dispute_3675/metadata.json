@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3675",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77354"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "After a review of my BestBuy Visa Citibank credit card XXXX statement I noticed XXXX large charges of products bought on XXXX XX/XX/XXXX {$550.00}, XXXX & XXXX XXXX {$880.00} XXXX XXXX using my Bestbuy Visa card. I have called their consumer department over the issue many times starting in XXXX. Each time the customer rep acts like I never called before. Then I received a letter in mid XXXX saying my charges were valid and they were purchased on my card and sent to XXXX XXXX of XXXX  XXXX, XXXX. I then wrote a 3 page letter explaining I did not and I do not know who XXXX is. I was provided her complete address if u would want it. My letter is dated XX/XX/XXXX. No response ever. I did send it via XXXX with receipt verification too. It was received XX/XX/XXXX. With no response by XX/XX/XXXX I contacted XXXX XXXX Consumer Help line. They showed me XXXX where I looked up Best Buy XXXX VPs I then emailed both those ladies on the same day. I heard back within 48 hours from XXXX who supports one of the Executives with Consumer credit issues. Spoke to him and emailed him copies of my letters and my notes. He stays in contact with me and says it has been elevated to Citibank for resolution. Nothing yet as of XX/XX/XXXX. I surely need assistance to get this resolved soon. My credit rating dropped XXXX points this month due to % of credit used. What more should I do? I never purchased these items. When I do buy products on XXXX I use my XXXX XXXX  XXXX  never Best Buy. I have no idea who XXXX is I looked her up and she works for a XXXX  XXXX  in XXXX. I live in XXXX XXXX. My last phone encounter with Best Buy was with XXXX on XX/XX/XXXX consumer protection # as I received an email from XXXX stating there was a letter. I could not open with any of my prior credentials. She said my card was canceled. Thats is why and my account summary reflected those XXXX XXXX purchases were ordered by me but sent to the wrong address. I explained again and she said Id get a new card in the mail. I explained I have not used my card since the fraud charges. Once again she said someone will contact u. Then as of XX/XX/XXXX nothing. Please help me."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12463",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "42303"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13926,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX In XXXX, XXXX sent me a collection letter for Citi Bank credit card that I did not open. \nBefore the 30-day response time had ran out, XXXX sent me a civil summons XX/XX/XXXX Case XXXX XXXX , Kentucky XXXX I have since sent.\n\nResponse to the summons.\n\nIncluding.\n\nIRS ID theft affidavit XXXX XXXX Police Report Affidavit to Citi Bank Cease and desist letter.\n\nCopy of Letter to Comptroller of the Currency.\n\nCopy of CFPB report. \nOn XX/XX/XXXX, I received a request for documents. \nThis is not my account, and they know it is not, because XXXX has already dismissed another case for the same issue."
+}

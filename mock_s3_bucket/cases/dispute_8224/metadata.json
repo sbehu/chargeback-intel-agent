@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8224",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20586,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Complaint Regarding Unauthorized Credit Card Charge for Non-Delivered Item ( Order # XXXX ) To Whom It May Concern, I am filing this complaint against Citi Bank and the merchant, XXXX XXXX XXXX XXXX XXXX regarding a purchase I made on XX/XX/scrub>XXXX XXXX XXXX for {$8100.00} ( XXXX XXXX XXXX XXXXXXXX ). \n\nThe merchant and shipping XXXX ( XXXX ) have failed to deliver the product to me, and Citi Bank has refused to provide permanent relief despite clear evidence of non-delivery : XXXX own documents confirm the package was scanned and signed for at my neighbors house, not mine ( see XXXX investigation documents, Appendix XXXX ). \n\nNo valid signature exists. The Proof of Delivery provided by XXXX does not contain any actual signature image. The only entry is XXXX, which is not mine, nor did I authorize anyone to sign on my behalf ( Appendix XXXX ). \n\nI have supporting evidence, including a police report filed with the XXXX Police Department ( Appendix XXXX ), Citi Bank dispute confirmation ( Appendix XXXX ), and surveillance footage confirming no delivery occurred at my residence. \n\nDespite my repeated attempts, the merchant has refused a refund or replacement, and the bank has declined to reverse the charge, citing the sellers claim of delivery. I believe this constitutes an unfair and unlawful practice under the Fair Credit Billing Act ( FCBA ), as I never received the goods I paid for. \n\nI respectfully request the CFPB to : Require Citi Bank to permanently reverse this charge. \n\nHold the merchant accountable for failing to deliver the product. \n\nInvestigate XXXX failure to follow required delivery and signature procedures. \n\nThank you for your attention to this matter. \n\nSincerely, XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8696",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90292"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27163,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary : American Express refused to reverse an unauthorized automatic renewal charge from XXXX on XX/XX/XXXX. \nI was not provided any advance notice or clear consent for this renewal, which violates the Restore Online Shoppers Confidence Act ( 15 U.S.C. 8401 ) and California Automatic Renewal Law ( BPC 17600 ). \n\nWhen I disputed the charge, Amex dismissed my case, claiming it was an authorized recurring paymenteven though I never agreed to or received any notice of renewal. \n\nIm requesting that Amex reopen this dispute and credit my account for the unauthorized charge. The merchants billing practices were deceptive, and Amexs refusal to act leaves me without protection as a consumer."
+}

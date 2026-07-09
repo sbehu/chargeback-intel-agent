@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6425",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60659"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21487,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank regarding their improper handling of my billing dispute for services not as described related to purchases made from XXXX \n\nMy dispute was initially misclassified by Citi as services not delivered. I contacted Citi and the case was correctly reclassified as services not as described ( billing error ). Despite this, I later received XXXX contradictory decisions from Citi dated XX/XX/XXXX and XX/XX/XXXX, indicating internal mishandling of my case. \n\nWhen I attempted to provide my supporting documentation, a Citi supervisor informed me I would not be permitted to submit additional evidence and that no further escalation options were available. This violates both XXXX chargeback procedures and my rights under the Fair Credit Billing Act ( FCBA ). \n\nAfter I initiated my chargeback, the merchant permanently banned my account and revoked my access to services I had paid for. This is a direct violation of XXXX regulations, which prohibit merchants from retaliating against cardholders for filing disputes. \n\nOver the past XXXX weeks, I have made repeated and documented attempts to resolve this matter directly with the merchant. I am submitting my complete evidence packet showing the merchants conduct and my efforts to resolve the situation. \n\nI am requesting that Citi be required to reopen my billing dispute, review my evidence, and process my case properly under services not as described per XXXX and XXXX guidelines."
+}

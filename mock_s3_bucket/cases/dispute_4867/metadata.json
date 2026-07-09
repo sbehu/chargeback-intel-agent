@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4867",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60406"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32425,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint relates to Bloomingdale 's order XXXX, placed on XX/XX/XXXX and paid for with my Bloomingdale 's credit card. \nXXXX of the packages from this order were routed to a XXXX XXXX for pickup, which I was unable to do. On XX/XX/XXXX, the packages were returned to sender ( Bloomingdale 's ) by XXXX. I never had either package in my possession. \n\nBloomingdale 's refunded me for XXXX of the returned-to-sender packages, but not the second. The second package ( XXXX ) was returned to Bloomingdale 's on XX/XX/XXXX, evidently delivered to the return address Bloomingdale 's had entered on the shipping label on XX/XX/XXXX, and evidently rerouted somewhere else -- presumably at Bloomingdale 's direction -- on XX/XX/XXXX. There have been no further scans since XX/XX/XXXX. I can not file a claim for this package since I am not the shipper ; Bloomingdale 's is ( and since the tracking number indicates it was delivered back to the XXXX, Bloomingdale 's, on XX/XX/XXXX ). \n\nI have tried repeatedly to resolve this with Bloomingdale 's and their card issuer directly, but they still refuse to refund me for the item below, which again was never in my possession, and is corroborated as having been returned by XXXX to the sender ( Bloomingdale 's ). I am attaching the relevant tracking records evidencing this. The affected item is : XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX  Price : {$180.00} + tax ) https : //www.ups.com/track? XXXX & XXXX & requester=ST/trackdetails It is, of course, illegal to charge a consumer for merchandise they do not receive, which is exactly what Bloomingdale 's has done here. I must be reimbursed for the jeans AND ALL INTEREST ACCRUED for this merchandise I did not receive. Again, Bloomingdale 's needs to refund me the full item amount, including tax, plus all interest they have charged me on my Bloomingdale 's card since XX/XX/XXXX."
+}

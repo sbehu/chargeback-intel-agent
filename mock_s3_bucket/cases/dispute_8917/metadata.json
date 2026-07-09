@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8917",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77346"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35952,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, my XXXX account got hacked and 2 purchases were made for tickets to basketball games using credit card that I had saved on file. XXXX sent me transaction events via email immediately. I contacted XXXX right away and they were able to cancel one of the transactions but not the other. XXXX instructed me to call my credit card and file a dispute with them. I called Barclays the same day and filed the dispute over the phone. On XX/XX/year>, I received a letter from Barclays stating that they had completed their investigation and determined the transaction to be valid. I called them back on XX/XX/year>, and requested documentation provided by merchant to determine the outcome. On XX/XX/year>, they mailed me documentation from XXXX showing that the account did belong to me. I never stated to Barclays that the XXXX account did not belong to me. The account does belong to me, but someone hacked it and made purchased using the credit cards on file. Barclays reopened the dispute but came back with the same results. On XX/XX/year>, I contacted Barclays via telephone and was instructed by their representative to contact XXXX and get something in writing stating that this transaction was unauthorized. I contacted XXXX that same day and they emailed me a letter confirming that the transaction was unauthorized. XXXX stated that Barclays needs to initiate the dispute process on my behalf. Once the dispute is filed and have received the official notification from Barclays, XXXX will proceed with the refund. I sent the email to Barclays via fax on XX/XX/year>, at XXXX CST. I called Barclays on XX/XX/year>, to follow up. Per XXXX ID # XXXX they would submit dispute to XXXX. XXXX has not received the dispute as of XX/XX/year>."
+}

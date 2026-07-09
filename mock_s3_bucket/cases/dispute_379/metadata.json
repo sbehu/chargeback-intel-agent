@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_379",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "73135"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25164,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Two days ago, I received an email from Home Depot thanking me for purchasing {$1000.00} of lumber in XXXX, CA. However, I live in Oklahoma. I logged into my Home Depot Pro Account to find that nearly {$4000.00} in purchases is associated with my account, using a card I DID NOT OPEN and DO NOT OWN. I attempted to call and remedy this situation, but their credit department requires a social security number ( mine was not accepted ) or an account number ( for an account I Dont Have. ) I am at an impasse and refuse to fight with their automated system just to try and counter what is either some very foolish fraud, or a glitch in their systems, any longer. Needless to say : DO NOT OPEN A PRO ACCOUNT. Do not trust Home Depot with your information."
+}

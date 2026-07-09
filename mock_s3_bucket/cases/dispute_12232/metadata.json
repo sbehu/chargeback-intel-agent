@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12232",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33993"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21589,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citis handling of my credit card dispute. \n\nThe transaction from XXXX XXXX for {$520.00} occurred on XX/XX/year>. I submitted my dispute on or about XX/XX/year>, within the timeframe required under the Fair Credit Billing Act. \n\nCiti accepted the dispute and issued a provisional credit, confirming that the dispute was valid and under investigation. The credit was later reversed after the merchant responded. \n\nI then submitted a written request for reconsideration. Citi states they received my correspondence on XX/XX/year>, and refused to investigate further, claiming the dispute was received too late. \n\nThis is incorrect. The dispute was mailed within the required timeframe, and Citi had already accepted and processed the dispute. My follow-up was not a new dispute, but a request for reinvestigation of a timely dispute. \n\nThe underlying issue remains unresolved. The airline service was never used, the cancellation was processed with a {$0.00} fee, and I was issued only a limited credit instead of a refund despite purchasing cancellation flexibility. \n\nI am requesting that Citi properly investigate this matter and resolve the billing error in accordance with the Fair Credit Billing Act."
+}

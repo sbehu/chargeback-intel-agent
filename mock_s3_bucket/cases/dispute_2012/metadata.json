@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2012",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98223"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44396,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have fraudulent charges on my Citibank card from an XXXX company. I have never used XXXX. I do not have an account with XXXX. I tried contacting XXXX and they dont know me they dont have my email they know mean they dont know me at all. Citibank texted me with the charges that were pending from XXXX saying in the text that they looked fraudulent. I responded and said yes they are. They are not me, it took them a while to stop the charges because the card was in my digital wallet for Costco Citibank card and then it wasnt until the Monday following XX/XX/XXXX and XXXX that they Citibank pulled the card out of my wallet with me on the phone with them and I okayed that and then that stop but since then Citibank has trouble verifying me as the person calling to try to figure out whats going on They text me at my phone number and I dont get it. They text my husband at his phone number and he dont get it and theyve given up trying to resolve it so all I can do is go online and look at my app I may not talk to anybody about my Citibank Costco card account though because they cant verify me. Dont ask me why Ive had the same phone number. Ive been a customer Since XXXX there should be no reason why they cant verify who I am and Im not happy with their service because they told me right after it happened on a Monday that it was pulled. Somehow it was charged on my in my digital account."
+}

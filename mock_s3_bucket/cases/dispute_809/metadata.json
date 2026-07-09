@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_809",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92240"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30419,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Originally dated XX/XX/ ( sent via email ( w/attachments ) To whom it may concern : I am including documents related to my continued dispute of a charge for a reservation, which I had to cancel. If there are any other documents needed, please email me with instructions. If you need a doctor 's letter, explaining my physical condition as to why I cancelled, please let me know because I have a debilitating XXXX condition that has gotten worse, and can not walk without help or a wheelchair. I am XXXX XXXX XXXX and on a fixed income and have never made a hotel reservation in my life where it had to be paid up front ( always at check out at the hotel ). I was with major corporations where I travelled extensively, and never heard of this type of cancellation policy, let alone agreeing to it! \nI also am skeptical of something which prompted me to dispute this charge. When I checked into it on the Citi Bank website, I saw dates differing from my already planned XXXX XXXX XXXX reservations. It was for mid XXXX, which was incorrect & I thought it could be a scam, either from the hotel or XXXX... but now, mysteriously, it has disappeared from your site. I originally questioned it with my first Chacontact yet did not know I was to copy & paste the entire conversation! If you could please investigate that, I know I am not losing my memory or going crazy, for I still have excellent cognitive thinking & perception skills! \nThank you for following up on this critical issue, I will await your response or any further follow-up needed. Going forward, if I make hotel reservations, I will only use XXXX, which I have used for many years and never had to pay up front but pay the hotel upon check out! If they are, in fact, affiliated with Citi Bank, I would change their policy before recommending that your customers use your travel site for points, why I used it, in the first place. \nI believe in excellent customer service, having had a successful career dealing with customers and I hope your company feels the same. \nYours truly, XXXX XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2084",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44143"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36670,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This Fraud account has been ongoing for a year or so! I've repeatedly called XXXX attempting to resolve this issue to no avail! Most of the charges are interest. I paid and closed all other XXXX XXXX accounts and have refused to do business with them! I found this account backtracking automatic payments made to them. I called to have them to send verified charges. They sent me the statements and as I thought, I had not made any of the charges! They said that I probably authorized a contractor to and therefore was responsible for them. Entertaining that possibility, I checked w/another Real Estate client who had used the only Contractor who'd fit such a scenario. She'd sued him and won the judgement. He was deemed \" uncollectible ''. I told XXXX. They told me that unless I could produce a similar judgement or police report I'd still be held liable. I called back again. They hung up on me twice! They warned me that if I discontinued automatic payments my ( good ) credit would be ruined. I'm cancelling further payments!"
+}

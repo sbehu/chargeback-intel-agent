@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_976",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94117"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46419,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/, I filed a dispute with American Express related to an incorrect charge. I was significantly overcharged by XXXX for a car rental ( in which the car broke down and I was without transportation for several days ) and provided extensive documentation to American Express ( including my original XXXX contract, copies of my communication with XXXX, and photographic evidence ). I did not even dispute the entire amount, simply the amount I was overcharged. ( The charge on my card was XXXXXXXX XXXX XXXX  I asked for a refund of XXXX euro. ) On XX/XX/XXXX I received a letter from American Express, written in broken English, saying that my dispute was denied. They provided no meaningful explanation and the only supporting documentation they sent was an invoice from XXXX with incorrect charge amounts, and a copy of a pre-rental damage inspection report ( XXXX is not claiming that I damaged the car ). \n\nI called American Express back on XXXX  and spoke to a representative who agreed that the dispute did not seem to have been resolved correctly and offered to re-open the dispute. \n\nI received a follow-up letter on XX/XX/, stating ( again in broken XXXX ) that my dispute was again denied. They again provided no meaningful explanation and simply included the same supporting documentation from XXXX that was nonresponsive to the dispute. \n\nI called again on XXXX to ask for further explanation of why the dispute was denied. The representative stated that there was no point in further pursuing the dispute as XXXX already had the money and there was no way American Express could get it back."
+}

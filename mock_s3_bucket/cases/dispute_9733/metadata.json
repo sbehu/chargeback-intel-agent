@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9733",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "967XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42376,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I reported my credit card ending in # XXXX lost or stolen to Citi. I did this as I was missing an additional card I had requested and not received. I also had suspicions about a landscaping vendor I had hired to mow my lawn 4 times who seemed obsessed with having my credit card number on file so his app could schedule my lawn.This guy quoted me {$170.00} per mow.The only charge for {$170.00} was the first time and it escalated after he stored my credit card. Second charge {$190.00}, third {$210.00}, fourth {$220.00}. This vendor was XXXX XXXX and XXXX XXXX, essentially a one man show with an app. On XX/XX/year> I met XXXX XXXX in my driveway and reminded him that he had provided the 4 mows I had requested and that I would pay him with a different credit card as I had to report my Citi Card lost or stolen. I paid him {$220.00} using my XXXX credit card. I hired XXXX XXXX around XX/XX/XXXX to mow my lawn 4 times as my house was scheduled to be sold in aprox. 4 weeks and I believed I was very clear about 4 mows and the house was being sold. I actually breathed a sigh of relief getting rid of this guy who just kept increasing the bill as the grass grew less and less in XXXX On XX/XX/XXXX I noticed two charges on my new credit card ending in # XXXX, XXXX on XX/XX/year> from XXXX XXXX in the amount of {$230.00} and one on XXXX XXXX from XXXX XXXX in The amount of {$250.00}. I called Citi to report these unauthorized charges made on my Credit card ending in # XXXX that are now showing up on my new card # XXXX before I had even received my replacement card in the mail. I had reported card number # XXXX lost or stolen on XX/XX/year> to protect myself from the very vendor that was now still using my card on XX/XX/XXXX, and XX/XX/XXXX. He went to a house I no longer owned and mowed it twice and charging the very card number I reported stolen or lost. My suspicions about this vendor were confirmed as he intended to defraud me. The new owners confronted him on XX/XX/XXXX asking what he was doing there and he lied to them and told them that this was a gift from me the previous owner and he was there to mow the lawn. Citi responded by closing card number ending in # XXXX and reporting this vendor to the fraud department of Citi. They issued conditional credits on my account ending in # XXXX. On XX/XX/XXXX Citi 's XXXX  department sided with the vendor and put these two charges on my new Citi credit card ending in # XXXX. \nI requested a second review of how I could be held financially responsible for unauthorized charges made on a credit card subsequent to the date I had reported it lost or stolen. Citi 's XXXX  department has insisted that although the charges are after reporting the card lost or stolen I am still responsible to pay these fraudulent unauthorized charges. I disagree and believe that I did everything I was supposed to do to protect myself from fraud. I am requesting a permanent credit from Citi totaling {$480.00} for these two fraudulent unauthorized charges."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3445",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "983XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22031,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had an account/subscription with XXXX which I canceled in XX/XX/year>, but XXXX still charged my credit card ( master card Athleta ) {$430.00} for the next year 's subscription. I called the credit card company ( XXXX ) and asked them to remove this charge since my account was canceled and I did not authorize it. The credit card company removed the charge and issued a new credit card in XX/XX/year>. I received a new credit card but did not use it. On XX/XX/year> the credit card company sent me a summary statement that shows the amount of {$430.00} on the new card. \nWhen I called XXXX they stated that \" their investigation '' determined that this charge was not fraudulent and they put it back on my card. I wanted to be clear that my concern is that this charge is unauthorized, not fraudulent. They opened a new investigation ( case # XXXX ). I asked them to cancel my card. \nI have an email from XXXX that my account was canceled."
+}

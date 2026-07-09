@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11214",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "128XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45966,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, a charge for {$170.00} appeared on my Best Buy / Citibank credit card for a XXXX XXXX  protection plan renewal that I did not authorize. The computer associated with this plan was not mine ; it belonged to my father, and while I had previously helped with the purchase, I never agreed to an annual renewal of a XXXX XXXX protection plan on my credit card. \n\nAfter the charge posted to my statement, I contacted customer service to dispute it. I was transferred multiple times but was ultimately told that the account was noted and that the charge would be reversed. That reversal never occurred. \n\nInstead, Citibank continued to add finance charges and late fees to the disputed amount. The balance grew significantly and was eventually placed with XXXX XXXX XXXX XXXX, a debt collector stating that it is attempting to collect a debt owed to Citibank. \n\nI have now been told that my dispute does not count because it occurred after the charge posted. However, the charge was disputed as soon as I became aware of it, and I did not authorize the renewal of this XXXX XXXX protection plan. \n\nBecause Citibank failed to resolve this dispute properly, the balance has grown from {$170.00} to approximately {$440.00} and has severely damaged my credit in only a few months."
+}

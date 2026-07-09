@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12905",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33411"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47778,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked and paid in advance for accommodation at XXXX on XXXX XXXX and XXXX, a XXXX hotel located at XXXX XXXX XXXX XXXX XXXX. Upon arrival, I was not offered any room at XXXX on XXXX XXXX and XXXX. I was instead directed to a different property at a different address. \n\nThe property I was sent to was XX/XX/XXXX, XXXX XXXX XXXX, a wedding venue. This a different property, with a different name, at different address, a different business category ( wedding venue ), and with its own separate XXXX XXXX listing and rating ( a lower rating ). \n\nThis was clear and apparent fraud under US and XXXX law. I did receive any services. The charge is therefore invalid."
+}

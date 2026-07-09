@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2988",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92025"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26174,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged for furniture purchases I did not make from Macy's.com. First in XXXX of XXXX. I reported the fraud and was issued a new card. Then there was a charge on the new card for {$2700.00} twice on XX/XX/XXXX. I reported this fraud and only XXXX of the {$2700.00} was credited. I called Macy 's today XXXX XXXX. I was informed that only XXXX of the {$2700.00} charges was credited and that fraud investigation was closed. I informed the call center my balance should be {$0.00} as I have made no purchases. I was informed there is a new charge on XXXX XXXX for {$3600.00} made online. I then opened a new fraud investigation and canceled the credit card since this is the third fraudulent charge made since XX/XX/XXXX. I have no confidence in Macy 's fraud investigation division. \nTank you, XXXX XXXX"
+}

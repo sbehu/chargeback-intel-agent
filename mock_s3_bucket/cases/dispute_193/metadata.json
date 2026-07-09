@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_193",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "012XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38965,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recently purchased XXXX XXXX XXXX XXXX from XXXX. The items were not as they were described. I provided XXXX pages of relevant information to my credit card company. Citi rejected my dispute, ( which I am in the process of appealing now ). The information the merchant provided Citi was \" Per our policy we can not issue a refund as the items were in the condition as described. The customer knew the condition he was purchasing this order in. '' This is false. The listing of the item was intentionally misleading and deceptive. Citi should have been able to see that, because I provided so much relevant information. I provided pictures of the listing, my initial request for a refund through the merchant 's customer service, what I received, how much I paid, tracking information, what the cost is to replace the earmuffs, and more information, too. The answer the merchant gave to Citi is not enough to determine if I am responsible for the amount or not. It is literally two sentences without any elaboration. I sincerely hope Citi recognizes this and overrules the dispute in my favor.\n\nThe files I've attached are some information on what happened. \" XXXX  '' is what I submitted to Citi for the dispute. \" XXXX, XXXX, XXXX, XXXX and XXXX '' are screenshots of my dispute portal on Citi 's online banking website. \n\nAlso, it is worth mentioning that the merchant is a BestBuy affiliated website. They sell returned and other BestBuy items. My credit card through Citi is a BestBuy card. There may be a conflict of interest there as well."
+}

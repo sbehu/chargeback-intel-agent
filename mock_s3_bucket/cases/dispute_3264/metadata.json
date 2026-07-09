@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3264",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "333XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24247,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The supervisor XXXX and the rep XXXX a at Citi dispute center are unprofessional, incompetent, lazy cause they dont want to look for any into, they want everything provided to them each time and its a complete waste of time dealing with them. \nThe attached disputes need to be remove from my statement They do from food that had health risk as per the Florida department of health to cramming charges that I did not agreed when renting a car. \nHow is it possible that citi is allowing these fraudulent charges knowing that the people working at the dispute center dont do their work? This needs to be investigated. They purposely delay claims, until the point that the customer will get fustrated and tired or simply will forget about the dispute. That is fraudulent activity that Citi is allowing. Additional complaints with the Florida State attorney will be filed if these issues are not fixed a week from today."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5799",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28405"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39341,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX I received a text message from Barclays about transaction code while I was at work. I immediately noticed something must going wrong in my credit card because I didnt use it that day, first I checked my account realized there were 2 unauthorized transactions total over {$7000.00}, first one : XX/XX/XXXX {$4300.00} ( I didnt know it until XX/XX/XXXX ) and second transaction : XX/XX/XXXX {$3100.00} they both came from XXXXXXXX XXXX XXXX XXXX XXXX \nI was really shocking and worried, I immediately call the number behind the credit card company and let them know those are fraud charges and cancel them and cancel my credit card. I thought thing is over by that, but two month later on XX/XX/year> Barclays put these amount to my credit card account said after investigation those transaction are valid. I dont agree with it and I request the report, I never shop at XXXX XXXX ever online or in store, also those charge already way over my credit limit. Barclays failed to protect the card holder even I already reported to them those fraud charges, they still billed me and add up the late fee and interest, also hurt my credit score. This company is lack of support to help the victims. I truly wish government or Federal agencies should step in and check it out this whole company itself its a fraud, they transferred to so many different people on the phone, but not helping you. I feel helpless and hopeless. It ruined my life now."
+}

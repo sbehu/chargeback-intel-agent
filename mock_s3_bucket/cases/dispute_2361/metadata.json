@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2361",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92508"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29190,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I noticed an unauthorized charge on my credit card from XXXX XXXX via XXXX  pending on XX/XX/XXXX. It was a charge coming from XXXX ( charged in XXXX ) that I have never made online. I was in the U.S. the entire time and have no plans to visit XXXX this year. I double checked my booking.com account ( updated my password ) and there was no such charge made under my name. I called Citibank immediately to report a \" fraudulent charge ''. The gentleman from Citibank said I do not need to worry about the charges while this charge is under investigation for fraudulent dispute. He canceled my old credit card and issued a new credit card that day. \nI do not know how long Citibank takes to investigate this item ; however, I think it is only reasonable that I be issued a \" conditional credit '' in the meantime while Citibank conducts its investigation. \nOn further research, it appears XXXX has been hacked in XXXX. \nI have attached the disputed item from Citibank. ( In general, I do not use my Citicards for international travel due to their foreign transactions fees )."
+}

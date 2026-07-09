@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5792",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11421"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38614,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am filing a complaint regarding Citis refusal to reverse fraudulent transactions on my Citi credit card, despite clear evidence proving that I was not responsible for them. Below are the details of the situation : Dates of Unauthorized Transactions : XXXX XXXX XXXX XXXX XXXX XXXX Location of Fraudulent Transactions : California Total Amount in Dispute : [ Specify total amount ] Date of Discovery : XXXX XXXX XXXX Actions Taken by Me : Immediately locked my credit card upon discovery.\n\nFiled a fraud dispute with Citi on XXXX XXXX XXXX\n\nFiled a police report in Pennsylvania, XXXX XXXX XXXX\n\nProvided Citi with supporting documentation, including : A police report and officer contact details. \nMy paystub proving I was working in Pennsylvania during the time of the fraudulent transactions. \n\nXXXX XXXX : On XXXX XXXX XXXX, Citi denied my dispute, claiming that my card was skimmed and used in California, despite the fact that my physical card has always been in my possession. \n\nI believe Citi has failed to properly investigate this matter and has unfairly held me responsible for transactions I did not authorize. I am requesting the CFPBs assistance in ensuring Citi reverses these fraudulent charges and properly adheres to consumer protection laws. \n\nPlease let me know if further information is required. Thank you for your time and assistance. \n\nSincerely, XXXX XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXXXXXX Phone : XXXX Email : XXXX Citi Double Cash Card - XXXX"
+}

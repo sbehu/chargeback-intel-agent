@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-21471804-US
+Shipment Date:   2026-03-12T00:00:00Z
+Delivery Date:   2026-03-14T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     678 SUNSET DR, NC, 28205
+============================================================

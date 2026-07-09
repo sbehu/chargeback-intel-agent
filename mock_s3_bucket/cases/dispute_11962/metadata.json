@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11962",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10014"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14498,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express denied a valid {$3000.00} chargeback dispute ( Case XXXX ) three times by misapplying the digital goods evidentiary standard to a live, cohort-based coaching program ( XXXX XXXX XXXX XXXX XXXX operated by XXXX XXXX ) scheduled XXXX XXXX XX/XX/. I canceled in writing on XX/XX/XXXX  21 days before program start with zero services delivered. The merchant 's own checkout evidence confirms the total price of {$4500.00} was never disclosed as a consolidated amount prior to authorization. The merchant issued a {$1500.00} partial refund acknowledging a billing irregularity, then invoked a no-refund policy against the remaining {$3000.00}. American Express failed to distinguish a forward-scheduled live service contract from a static digital product, ignored evidence that the merchant provisioned platform access to my canceled account on XX/XX/XXXX and XX/XX/XXXX without my knowledge or consent, and issued denial decisions that failed to address the substance of my claims as required by Regulation Z, 12 C.F.R. 1026.13. Amex 's stated denial reason across all three rounds was \" the cardholder was refunded '' referring only to the {$1500.00} partial refund, not the {$3000.00} in dispute. This does not constitute a legally adequate written explanation under Regulation Z. I am requesting XXXX XXXXXXXX review under billing misrepresentation and non-performance of a forward-scheduled live service contract."
+}

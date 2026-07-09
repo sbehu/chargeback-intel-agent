@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1091",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10016"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3469,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary of the issue : The order : Order # XXXX was not received by me. There are numerous reports online of issues with orders not being delivered but being marked as delivered by the carrier XXXX ( which Macy 's used to deliver this order ), which I suspect might have happened here. \n\nI believe both Order # XXXX and Order # XXXX were shipped together as one package but the entire package was not received by me. I have already received a refund for the non-receipt of Order # XXXX. But for Order # XXXX I have raised the issue twice now and I have been denied a refund by Macy 's. \n\nTimeline : Before XX/XX/2023 - I tried to mark item as not received thru Macy 's online account. Denied issue of credit. \n\nXX/XX/2023 - Phone call to Macy 's Customer Care to raise a non-receipt of item complaint XX/XX/2023- Inquiry submitted directly to the carrier XXXX. Details : Case number : XXXX Tracking Number : XXXX XX/XX/2023 - Second Phone Call for the same issue. Denied refund of credit. \n\nXX/XX/2023 - Email sent to \" XXXX '' with subject \" Non-Receipt of order number : XXXX. Final attempt '' XX/XX/2023 - Disputed charge thru Macy 's online portal with below details : Case ID : XXXX STATUS Open Amount : {$130.00} Date Submitted : XX/XX/2023 XX/XX/2023 - Received postal letter from Macy 's ( XX/XX/2023 ) resolving the dispute by refusing to issue a credit for the non-receipt of items after their investigation. \n\nNo reply from the carrier \" XXXX '' yet. \n\nMacy 's has not furnished me with any video or a photographic evidence that the package was delivered. Instead, on the letter dated XX/XX/2023 from Macy 's they have included a screengrab from XXXX of the item delivery, which can be easily falsified. \n\nMacy 's should also take into account of the numerous reports online of issues with orders not being delivered but being marked as delivered by the carrier XXXX, which is most likely to have happened here. \n\nI am attaching a report of XXXX reviews from online where numerous customers and a news report have all complained about XXXX. \n\nMacy 's should also look into my account history and verify that I have been a customer for many years and not a single time was a dispute raised with them except for these items marked as delivered by XXXX."
+}

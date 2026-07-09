@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5582",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77089"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39127,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "During mid XXXX I received a credit card and bill statement from Home Depot. I never opened a credit card account with Home Depot. The bill statement showed that someone made charges to the account for {$1500.00}. On the bill statement showed that {$860.00} was spent on hardware and {$640.00} on hardware as well. Stated on the bill shows that the purchase was made on XX/XX/year>. When I seen the bill statement, I called XXXX on XX/XX/year> to make a claim or fraudulent activity on an account I never authorized to be opened. A claim was created and is now being looked into. After getting off the home with transunion, I proceeded to call Home Depot to say that I never opened the account nor used it and that the account was fraudulent. They proceeded to close the account and replied that they are going to look into the matter. After that I contacted my local police department and made an identity theft claim. The officer that was in charge of my case was officer XXXX XXXX and I told him all about the situation I had at hand. He proceeded to start the case with the information I provided and gave me a case number, # XXXX."
+}

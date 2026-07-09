@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11080",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "305XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49072,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'I entered into a contractual agreement with XXXX  to manage my retirement funds. The funds would be professionally managed in foreign exchange XXXX trading, a marketplace investment program. Below are the charges which we never received any service. American express continues to resolve the complaint in the favor of XXXX  as they are informing AMEX that \".. where the Card Member is an employee, owner, family member of the Merchant, or is an authorized signer on the Merchant account.\" Even though I am aware of who the owner, XXXX XXXX, is I have never met him. I have never been an employee of the that company, never an owner in that company or a family member of it, nor as an authorized signer on their Merchant account. IF AMEX received that information from XXXX, it is fraudulently provided. XXXX XXXX, and his family, are being investigated by the FBI for the theft of funds and services for over XXXX XXXX dollars across at least XXXX XXXX. I have attempted contact with XXXX  many times and could not make contactXXXXChargesXXXX XXXX XXXX XXXX XXXXPlease attachmentsXXXXThank youXXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6496",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7306"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted XXXX XXXX back in XXXX over an unauthorized charge I noticed on my account! XXXX XXXX claimed they would do an investigation and would fix the issue! 3 weeks later I receive an email saying I benefited from the purchase and would be re-billed for the purchase of {$360.00}. I called again and they said they would open another investigation! NOT EVEN 2 DAYS LATER I received the same letter saying I benefited! THEY DID NOT PERFORM ANY INVESTIGATION!!! Before I can call I notice ANOTHER fraudulent charge on my card this time of {$530.00} dollars, ON THE SAME ITEM I WAS FRAUDULENTLY CHARGED ON THE FIRST TIME ( XXXX XXXX  XXXX ) So now its the beginning of XXXX and I make a THIRD call to speak with the supervisor and Im told the reason I benefited from the purchase was because the purchase was made online by someone using my OLDER SISTERS NAME, and that the new fraud charge would be disputed! So I have my older sister speak with the supervisor and they requested that she shows any proof that she has to show she didnt make the purchase! KEEP IN MIND THE PURCHASE DOESNT SHOW UP ON EITHER ONE OF OUR ACCOUNTS!!! After providing all they asked for AND more the supervisor assures me that it is enough proof to dispute the charge and that she would open a new investigation! 4 DAYS LATER XXXX XXXX  ONCE AGAIN SENDS THE SAME LETTER!!! ONCE AGAIN A 60 day investigation took a couple days even with all the new proof that was provided!! LEADING ME TO BELIEVE XXXX XXXX IS LYING AND NOT CONDUCTING ANY INVESTIGATION AND NOT TRYING TO WORK WITH ME AT ALL!!! SO now im calling once again to try and resolve this issue cause now Ive been making minimum card payments on this false charge just so my credit score isnt affected but instead XXXX XXXX decided they would lower my credit limit by {$2500.00}???? Im fed up with this, no company has ever treated me this way!"
+}

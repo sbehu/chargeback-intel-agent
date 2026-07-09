@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5901",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "080XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27469,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding an unresolved dispute on my American Express account in the amount of {$20000.00} ( Dispute Reference Number : XXXX ). The charge relates to a merchant named Tribe Windows ( XXXX XXXX XXXX ) for large windows, doors, and cladding installation at my residence in XXXX. The merchant failed to complete the contracted work and did not deliver several key components. He has been unresponsive to all follow-up attempts. \n\nI submitted extensive documentation to Amex, including : A professional engineering report confirming the merchant 's failure to meet contractual obligations Scope of work documentation, photos, and marked-up drawings Numerous attempts to contact the merchant ( texts, emails, calls ) Despite this, Amex has repeatedly closed and reopened the dispute without providing clear reasoning or explanation. I have requested escalation to a XXXX on at least XXXX occasions via chat and formally escalated to their XXXX XXXX XXXX team via emailbut received no acknowledgment or follow-up. \n\nThe dispute remains open but the decision date has been pushed out repeatedly since XX/XX/year>. The lack of communication, transparency, and action by Amex has made it impossible to resolve this through their internal process. \n\nI am requesting that the CFPB assist in prompting a full and fair review of the dispute, along with a formal response from American Express, including : XXXX A full and fair review of the complete evidence package > Provide a transparent and well-documented decision XXXX Resolve the dispute fairly given the merchants breach of contract"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4112",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20744"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10276,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I booked a round-trip flight # XXXX to XXXX, Minnesota, to the XXXX XXXX for medical attention . The booking was made through American Express XXXX XXXX using their website. Tickets were issued for flights ( # XXXX ) on XX/XX/XXXX from XXXX and for a return flight on XX/XX/XXXX from XXXX [ one stopover at XXXX ]. American Express booked the flights on XXXX and billed my AMEX card for {$510.00}. \nI discovered that I would not need to stay in XXXX for the full period from the XXXX through the XXXX, so I changed my reservation to get a return flight on the XXXX. This led to an increase in the ticket price, which added {$160.00} to my bill bringing the total to {$670.00}. I selected a flight that left XXXX at XXXX XXXX. and was routed through XXXX ( XXXX ) for a return flight to XXXX. The next day, I received an email from American Express showing that my XXXXXXXX XXXX flight routing had changed, and the flight would now take me from XXXX. \nI received notice on XX/XX/XXXX that my XXXX XXXX visit was no longer necessary, so I called AMEX and initiated efforts to cancel the trip. After spending at least 20 minutes on the phone with an AMEX agent, assuring him that I needed to cancel the booking, he apparently did nothing. I checked back on XX/XX/XXXX to find that the booking had not been canceled. I called AMEX again and told them to cancel the flight. They refused to cancel the booking unless I verbally agreed to give XXXX the {$680.00} for some future flight. I again requested cancellation and emphasized that giving XXXX my money was not part of any agreement I saw or agreed to when I booked. \nMy plans were not finalized when I initially booked the trip to the XXXX XXXX, and I only booked then because the American Express website said the booking could be canceled up to 24 hours before the flight. Nothing on the website informed me that the ticket was non-refundable and that I would only be given a credit on the airline ( XXXX ). If, in fact, this was the case, this should have been displayed on the webpage. \nI have personally had no interactions with XXXX, only AMEX. AMEX should be responsible for returning my {$680.00}, and they should not give it to XXXX. \nThis is my second bad experience with AMEX in less than a year. In XXXX, AMEX booked me with an unscrupulous rental car company in XXXX XXXX operating under over 20 names. They ( AMEX ) advertised the rental company as the lowest-price provider. Although I already had car rental insurance, the company refused to accept it ( I have a rider on my AMEX card ) and insisted that I buy insurance from them at the cost of {$500.00}, for they would not rent me a car. Stranded in a remote location without transportation because of this shady rental company AMEX was pushing on its website."
+}

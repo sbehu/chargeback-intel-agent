@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2404",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33073"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41821,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing about a charge that was on my statement and paid that was posted to my Citibank Double Cash account in the amount of {$990.00} posted XX/XX/2023. This was for a software subscription service that was nto provided by the seller. Soon after the amount was paid the provider ( XXXX XXXX, XXXX FL ) shut down his website and disappeared. He did not resond to emails. I notified Citibank and initiated a chargeback of this amount since the service was not provided. The dispute was filed online. It is my undertsanding if the service is not provided I am entitled to a chargeback. Citibank later refused that chargeback which I still dispute. I provided links to the closed wesbite and emails to the operator. As far as I am concerned this is pure fraud. \n\nThis is the website. Shuttered for many months. \nXXXX XXXX XXXX? XXXX & XXXX & XXXX"
+}

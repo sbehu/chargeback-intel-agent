@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9748",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90504"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39917,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im writing to appeal the decision on my dispute for the charge of {$170.00} from XXXX ( XXXX ) on XXXX ( on my citi bank cc ) This is not a non-receipt claim. I received the item, returned it, and the merchant never processed my refund. They also stopped answering my messages. I asked to reopen and reclassify my dispute as Returned Merchandise / Credit Not Processed ( refund not received ), but they ignored my email and later on i wasn't able to send emails to them and i'm devastated. \n\nTimeline : XXXX XXXX XXXX  : Purchased item on XXXX ( amount {$170.00} ). \n\nXX/XX/scrub>XXXX XXXX XXXX XXXX Notified seller the item was defective/damaged and requested a return.\n\nXXXX XXXX XXXX : Shipped return to the sellers provided return address ( tracking XXXX ). \n\nXX/XX/scrub>XXXX XXXX XXXX  : Tracking shows Delivered to the sellers address.\n\nAs of today : No refund has posted to my account. \n\nI attached evidence, such as : 1. Return shipping label/receipt showing the sellers name and XXXX delivery address and the tracking number 2. Carrier tracking page showing Delivered ( tracking XXXX ) 3. Message history with the seller confirming the return was sent and received status was discussed The merchants claim that the item is still in my possession is incorrect and contradicted by the delivery confirmation. \nI asked citi bank to send a confirmation that my appeal was submitted with the evidence but, again, received no reply."
+}

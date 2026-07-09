@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8343",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98335"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39055,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a charge of {$2200.00} from XXXX XXXX posted to my American Express account. The order included XXXX XXXX coverage through the XXXX XXXX program. After billing, XXXX automatically canceled the XXXX coverage but still charged the full {$2200.00} and delivered the devices. \n\nI contacted XXXX directly. After going back and forth in emails, XXXX agreed to issue a {$400.00} refund to price match the hardware against a promotional price that became available days after my order. However, they have not fulfilled the second part of my complaint : the XXXX insurance for XXXX devices was canceled, and XXXX has admitted they can not reinstate it. \n\nI disputed the charge with Amex. Amex initially credited me but later reversed the credit after XXXX contested, relying only on proof of hardware delivery and tricking Amex to think the {$400.00} price match refund was compensation for care+ insurance being cancelled, which is not true per my email conversation with XXXX XXXX executive support agent XXXX XXXX This ignored my evidence that part of the contracted service ( XXXX ) was removed after billing. \n\nI provided Amex with an email from a XXXX representative explicitly admitting : XXXX was automatically canceled by their system. \n\nI did not request to cancel this and keep the devices ( I would of returned to sender if I knew they wouldn't give me back my insurance that I agreed to have at checkout ) They can not reinstate the coverage. \n\n\nThis shows the transaction was materially altered and that a contracted service was not delivered. The replacement cost of XXXX  coverage is {$370.00}, including my local sales tax, which I should not have to pay out of pocket for me to have insurance on my devices. \n\nI am requesting CFPB assistance to ensure Amex resolves this dispute fairly and provides a credit of {$370.00} for services not delivered as agreed."
+}

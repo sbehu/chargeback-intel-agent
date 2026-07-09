@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11542",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44124"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17619,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I sold some tickets on XXXX XXXX, I sent the tickets XXXX  satisfactory proof that they asked for. They called me and said there was an issue XXXX  asked if I could resend them with new proof, I said no problem XXXX  complied. The rep said \" yes you sent It correctly everything is good on your end ''. Then they called me again, AFTER the event started, saying they were having issues again, I told them the event started but even so I complied. They never accepted my tickets so I lost the tickets XXXX  did not get paid. \n\nTHEN THEY CHARGED ON MY CREIDT CARD WITHOUT AUTHORIZATION AS A FINE on top of not paying me.. \n\nper XXXX policy they say they can issue these charges/fines if the seller backs out of the deals. However, I have submitted all proof XXXX  XXXX exactly as they had asked for it, each time they have asked for it, as well as AMERICAN EXPRESS. I have been very diligent XXXX  ensure I have done everything correctly from XXXX XXXX  within XXXX policy XXXX  everything I entered was correct. \n\nI want XXXX  be clear that the order was not canceled on my end XXXX  the tickets were not accepted at no fault of my own."
+}

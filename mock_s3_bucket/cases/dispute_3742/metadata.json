@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3742",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29577"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43430,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "First I have been working for hard to improve my credit so I can purchase a place hopefully summer of XXXX. I fortunately have raised it from below XXXX to XXXX since XXXX. I noticed some charges via XXXX of which I am a member but did NOT make. I don't know if an employee was trying to make a vacation for theirselves or someone but I did NOT make these charges. It was also very strange the way the charges were made : XX/XX/XXXX {$350.00} XX/XX/XXXX {$350.00} XX/XX/XXXX {$350.00} credit XX/XX/XXXX {$350.00} credit XX/XX/XXXX. {$350.00} XX/XX/XXXX {$350.00} So the way these were charged, credited, then charged again on the same day doesn't even make since unless someone was trying to somehow work a scam on a vacation. I contacted my credit card company. But because I am a member with XXXX they found the charges legit, but I did NOT make these charges and I am on a fixed income of SS {$1200.00} a month and can not afford to pay these."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13094",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "79912"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3212,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is about Citibanks inconsistent handling of XXXX identical disputes from the same transaction with the same merchant, XXXX XXXX, on XX/XX/XXXX. \nThe purchase was split into XXXX charges : {$600.00} ( approved by Citibank ) {$420.00} ( denied by Citibank ) Both charges are part of the same transaction, same merchant, same date, same product, and same evidence. \nThe merchant advertised XXXX XXXX XXXX XXXX tickets but delivered only a PDF ticket via email. This is not a valid ticket. \nI provided evidence including XXXX official ticket delivery policy, which states that XXXX XXXX XXXX XXXX tickets are mobile-only and not delivered via email or PDF. This directly contradicts the merchants delivery method. \nCitibank reviewed the {$600.00} charge and determined it was misrepresentation/not as described, and approved the dispute. \nHowever, Citibank denied the {$420.00} charge despite identical circumstances, identical evidence, and identical delivery. \nI requested reconsideration and submitted additional evidence, but Citibank has not provided a clear explanation for the inconsistent outcome or addressed the evidence provided. \nI am requesting that Citibank reopen and properly review the denied charge and apply consistent dispute resolution across both transactions."
+}

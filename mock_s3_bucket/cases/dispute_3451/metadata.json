@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3451",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "PA",
+    "complaint_zip": "19406"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27219,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Pursuant to 15 U.S. Code 1681s2 - Responsibilities of furnishers of information to consumer reporting agencies, American Express has been inaccurately reporting credit information to XXXX, XXXX and XXXX resulting in my denial of credit in various instances. \n\nIn XX/XX/year>, I made timely payment via autopay. After I made my timely payment via autopay, American Express proceeded to debit my entire balance of {$11000.00} from my XXXX XXXX account. When I called to complain, American Express told me that they CAN NOT STOP AUTOPAY!! After I threatened to go to the XXXX XXXX XXXX, American Express reversed the charge of {$11000.00}. WITHOUT MY KNOWLEDGE OR CONSENT, American Express then added {$9500.00} to my XXXX XXXX  account. It was clearly a computer error os very ignorant representative that added this {$9500.00} to my checking account. This {$9500.00} was not a credit line increase because IT NEVER APPEARED ON MY CARD NOR DID I MAKE THIS REQUEST. This {$9500.00} was SOLELY DUE TO MULTIPLE ERRORS MADE BY AMERICAN EXPRESS. \n\nI have tried to REPEATEDLY sort this matter out with American Express. American Express has REPEATEDLY refused to correct this error and update the credit reporting agencies in violation of 15 U.S. Code 1681s2. American Express continues to report my CREDIT LIMIT ON MY CLOSED BALANCE AS {$13000.00} AND MY BALANCE AS {$19000.00}. This means my credit utilization ratio is well over 100 % SOLELY DUE to errors by American Express. I have made {$5000.00} in payments which should have reduced my original and agreed to credit limit. However, American Express has refused to adjust my original balance with the payments that I have made on my original balance. I agree to an American Express card balance NOT to pay for American Express ' clerical error."
+}

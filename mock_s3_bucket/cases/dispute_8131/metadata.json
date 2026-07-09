@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8131",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34231"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28616,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/year> i tried to book auto train with XXXX XXXX a representative of XXXX, transaction was turned down by gm card which was serviced by Goldman Sachs even though i had a XXXX line of credit with XXXX or XXXX XXXX dollars charged i called their manager who then said it was a mistake put it back in and it would go thru XXXX XXXX said it went thru gave us reservation number XXXX, due to depart on XX/XX/XXXX for Florida on auto train, on XX/XX/XXXX we called XXXX to make sure all was ok they told us original reservation had been turned down and we had no reservation i then gave them a debit car fro XXXX XXXX for {$430.00} that went thru and XXXX gave us a new reservation number of XXXX, which we used when we got to Florida i called gm card which on the XXXX of XXXX had switched banks to XXXX i have called almost every day from XX/XX/XXXX to now XX/XX/XXXX filled a complaint with XXXX and XXXX talked to merchant and none will give me my money back for first charged transaction which was charged on the credit card .their case number was XXXX, registered a complaint with XXXX fraud division as their representative called us to say first transaction never went thru and to use second reservation number, have never heard back from them."
+}

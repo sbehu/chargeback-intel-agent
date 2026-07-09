@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6662",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "72764"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32691,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "1 ) On XX/XX/XXXX I booked the 2nd of 2 reservations with XXXX XXXX ( XXXX ) on my Citibank credit card ( Citi ) 2 ) On XX/XX/XXXX XXXX XXXX charges began to show up on my Citibank card twice - # 1 for {$1500.00} ( XXXX ) and # 2 ( XXXX ) for {$1700.00} for my wife XXXX XXXX ( XX/XX/XXXX ). \n3 ) On XXXX I opened a Citi dispute to the {$1500.00} charge after XXXX XXXX could not find where they double-charged me 4 ) On XXXX Citibank sent the letter stating that they were closing the dispute for {$1500.00} because XXXX XXXX had rejected the claim. \n5 ) XX/XX/XXXX I opened a second dispute, this time for the {$1700.00} 6 ) On XX/XX/XXXX I was able to get XXXX to verify that they were accepting my dispute, and they sent the verification email with the reference number XXXX after they realized they had made a mistake. This email was from XXXX XXXX XXXX ( XXXX ). I had to get the XXXX XXXX resolution team ( XXXX XXXX, XXXX ) involved to get this far. \n7 ) Also on XX/XX/XXXX, I forwarded the email from XXXX XXXX to Citi for claim XXXX 8 ) On XX/XX/XXXX XXXX  XXXX XXXX XXXX XXXX called me to inform me that they had already paid the dispute. There was nothing else they could do for me. I then called Citibank customer service and was on the phone with them for more than XXXX minutes, and they refused to do anything else to resolve the issue. They claimed that XXXX rejected the claim and the case was closed. They had no record of XXXX accepting the dispute nor refunding the {$1500.00} claim. I replied to both parties on a single email stating my frustration about the situation and that I would be filing a complaint with CFPB. I got no response from either party. \n9 ) The {$1700.00} claim remains open, but XXXX said they will reject that claim because they already paid {$1500.00} claim. \n10 ) I have paid over {$5000.00} for a {$3400.00} cruise."
+}

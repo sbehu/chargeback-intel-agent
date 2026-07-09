@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1071",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "915XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21403,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On the first week of XXXX of this year, I received an email from Macy 's to review my purchases made last month, however, I have not made any purchases since XXXX of XXXX, because I only use the card when my family is visiting me from my country. Multiple purchases were made on XX/XX/, in different locations totaling {$1500.00}, purchases of {$450.00} in XXXX XXXX, one of {$780.00} in XXXX XXXX, and another purchase of {$280.00} in the XXXX all on the same day. I haven't had my Macys card since I took my car on XX/XX/, to a car wash in XXXX, California. When I noticed these purchases I immediately called Macy 's to report fraud because I did not get any fraud alert of multiple charges being made nor did I make them myself. For 4 months I had to wait for Macy 's to get back to me, meanwhile also having to be responsible for paying a higher minimum monthly payment because my total balance was past its limits, I was furious because I was being made responsible for making these payments on a balance that is incorrect because of the fraud that was committed. Afterward, I received notice that my claim was denied because the person who made it, made it incorrectly, this XXXX I called and re-filed a claim for fraud because I did not want to be made responsible for such a high balance I was not responsible for. And now on XX/XX/, my claim was denied due to insufficient information, and now it is affecting my credit but also my livelihood because I work hard for my money and struggle financially. It hurts to see that his company did not send any notice to make sure I was responsible for these purchases and normally when you purchase an item in person using the store credit card they check ID in person. I need to report that this is a violation of my rights as a consumer because i am not being assisted with the proper help I require as a loyal customer that I have been for years."
+}

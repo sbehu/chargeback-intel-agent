@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2288",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "UT",
+    "complaint_zip": "84601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24044,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Request for Reinvestigation of Multiple Disputed Claims with American Express Dear Consumer Financial Protection Bureau, I am writing to request your immediate intervention and assistance in the reinvestigation of XXXX separate disputed claims that have been denied by American Express. Each dispute involves a clear case of service not rendered, unauthorized charges, and a severe breach of privacy. \n\nDispute Details : XXXX XXXX XXXX I returned items to XXXX, following the merchant 's agreement to a refund by providing a return label. Despite shipping the items back and the merchant receiving them, I have not received the promised refund. \nXXXX XXXX XXXX Unauthorized Charge A vehicle purchase from XXXX XXXX XXXX XXXX a series of unauthorized transactions, including a failure to refund an initial down payment of {$5000.00} and an additional unauthorized charge of {$2500.00}. The purchase agreement was eventually canceled by the merchant due to their inability to repair the vehicle, which also necessitates a refund. \nRef. XXXX XXXX XXXXXXXX, a XXXX Property Privacy Violation During a stay at XXXX XXXX, which was confirmed to include an awarded suite night upgrade, I encountered not only a retraction of this upgrade but also a serious violation of privacy. A spy camera was found in my hotel room, and the issue has been largely dismissed by the hotel and inadequately addressed in my dispute with American Express. \nXXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7721",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "IL",
+    "complaint_zip": "604XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43781,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I filed a dispute with Citi regarding XXXX order # XXXX and the related transaction of {$1200.00} from XXXX XXXX XXXX XXXX XXXX WA XXXX dated XX/XX/year>. I returned the item from this order on XX/XX/year> via XXXX XXXX. \n\nCiti Case ID : XXXX Citi reviewed my dispute, received a response from XXXX, and on XX/XX/year>, issued a decision in favor of XXXX. \n\nIn the documents XXXX provided to Citi, they claim that I did not return the item. However, they themselves included the XXXX return tracking number XXXX, which clearly shows that the item was delivered to an XXXX warehouse on XX/XX/year>. \n\nTherefore, I do not understand how Citi decided in favor of XXXX when the XXXX tracking history clearly confirms the return. \n\nI am requesting that Citi issue the refund to me. XXXX has not provided any valid evidence to support their claim that the item was not returned. On the contrary, they provided Citi with the very XXXX tracking number that proves the item was successfully returned."
+}

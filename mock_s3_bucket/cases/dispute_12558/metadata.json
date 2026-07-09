@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12558",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "024XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4807,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am the victim of a persistent household-wide merchant fraud exploit by XXXX * XXXX XXXX XXXX XXXX XXXX XXXX XXXX This is the sixth unauthorized charge of XXXX my family across multiple banks. Despite my husband notifying Citibank of this specific fraud in XXXX, my account was targeted on XX/XX/XXXX, myaccountwastargetedonXXXX XXXX XXXX XXXX XXXX90.00}. \nTechnical Evidence of Negligence : During a recorded call on XX/XX/year>, Citibank Fraud XXXX XXXX admitted that the merchant utilizes a 'digital account number ' ( token ) that 'can roll over from new card to new card under the same account ' if not manually deleted. This charge proves that Citibanks standard security protocols are failing to stop this specific merchant 's tokenization exploit, which allows them to bypass physical card replacements and 'follow ' us to new account numbers"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7150",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11417"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3219,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A fraudulent charge in the amount of {$1600.00} that was posted to my Best Buy Store credit card issued by Citi Bank on XX/XX/XXXX, in XXXX, NY. An additional charge of {$1500.00} was made the following day, XX/XX/XXXX, at the same location. I did not authorize or conduct either of these transactions. \n\nAt the time of both charges, I was working from XXXX XXXX  to XXXX XXXX in XXXX XXXX. Additionally, I am a resident of XXXX, NY, and have no ties to the XXXX locations where these purchases were made. \n\nUpon discovering the charges, I immediately contacted Citi Bank to report and dispute both transactions. While the XX/XX/XXXX charge of {$1500.00} was successfully reversed and removed from my account, the XX/XX/XXXX charge of {$1600.00} remains unresolved and has not been credited back to my account. \n\nFor further clarification, my previous card was lost in XX/XX/XXXX. A replacement card was issued, but I did not activate it until XX/XX/XXXX. Since activation, I have not made any purchases with this card."
+}

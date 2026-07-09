@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4328",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26126,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My name is XXXX XXXX. I used the America Express Platinum Card ending XXXX to purchase a XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX for {$1700.00}. I received the camera from XXXX XXXX XXXX XXXXXX/XX/XXXX, however, the whole shipping box is squeezed and wet damaged. To keep evidence, I recorded the entire process to open the original box. I filed the return request at XXXX XXXX on XX/XX/XXXX, and returned the camera on XX/XX/XXXXXXXX XXXX XXXX tracking number XXXX, as shown in the XXXX return instruction email. XXXX received the returned product on XX/XX/year>. However, XXXX refused to issue the refund, because it stated that I returned the camera with a different SN number. I filed a dispute with an AMEX credit card, with dispute ID XXXX on XX/XX/XXXX, after communication with XXXX without a solution. I have provided the AMEX dispute team with the video recording showing the SN on the camera I received, the screenshot picture of the SN on the camera I received, and the XXXX return instruction email showing the SN of the camera I should return, which all match the camera I received and returned to XXXX XXXX, which the SN number is XXXX, model number XXXX. All this evidence shows that I returned the original item I received from XXXX and XXXX should be refunded in full. However, the AMEX dispute team has not examined the evidence I sent to them carefully but closed my dispute two times side with the merchant, and just provided me the information that XXXX sent to AMEX saying the returned camera SN is not right. Still, XXXX has not offered any proof of the actual camera XXXX originally shipped to me. I believe I have provided sufficient evidence including video, pictures, and also the email from XXXX indicating that I returned the correct product that I originally received. The way AMEX handles the dispute I filed with XXXX XXXX is not reasonable. As a credit card company and as an XXXX AMEX customer XXXX I believe AMEX should consider the benefit of customers and protect customers from such incidents."
+}

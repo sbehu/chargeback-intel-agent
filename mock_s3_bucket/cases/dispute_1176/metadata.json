@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1176",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "334XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30960,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I paid for postal services at the XXXX XXXX, FL post office on XX/XX/2023 at a cost of {$63.00} with a Citibank Mastercard charge card XXXX XXXX XXXX XXXX XXXX  XXXX. When I received my bill, there was a duplicate charge for another {$63.00}, which I did not authorize or receive any services for. The transaction number for this duplicate and incorrect charge is XXXX XXXX, showing that it was entered immediately after the original legitimate charge as it bears the number XXXX single digit higher than that of the original legitimate charge as you will note. \nI sent a complaint to Citicards Customer Service on XX/XX/2023. I received a reply dated XX/XX/2023 from Citicards verifying the {$63.00} charge with a USPS receipt stating that there was only XXXX transaction and they were closing the investigation. The charge that was verified was the original charge ( # XXXX ). My credit card invoice, which I had submitted to them clearly shows XXXX transactions for the same amount, XXXX after the other as noted above. Citicards ignored this point. I have sent XXXX more letters dated XX/XX/2023, XX/XX/2023, XX/XX/2023 and most recently XXXX pointing out Citicards ' error. Each time, they have responded that the investigation is closed, and they can not ask the merchant for verification! However, their focus continues to be on the original charge only and not the subject of my complaint, which is the duplicate charge with the different transaction number! This is completely unacceptable as I'm sure you will agree."
+}

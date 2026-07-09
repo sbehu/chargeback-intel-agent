@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1683",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30233"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32700,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Apparently I am the victim of identity theft. \nSomeone made approximate {$8000.00} worth of charges on my card. \nThis happened between XXXX and XX/XX/2022. \nI was told to continue making the minimum payment that I originally was paying while they ( Citibank ) investigated. \nOver one year has gone by and nothing has been done. But Citibank has reported this to the credit bureau.my minimum bill is over {$3500.00} dollars. What regular person can make a minimum payment like this."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5230",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "210XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5615,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I received XXXX e-mail notifications from American Express of charges that I had not initiated on my credit card ( {$210.00} and {$820.00}, both to XXXX XXXX PURCHASE ). Within minutes of receiving the notification, I called the number on the back of my card ( the card is in my possession ) to report that I had not made these charges. I also placed a freeze on my account to ensure no further charges would be able to get through. American Express did agree to cancel my card and issue me a new card/number -- however, it took some time to convince the person on the phone that I had not made the charges and some of the statements that were made were not helpful ( \" we would hate for you to jeopardize the long relationship you have had with American Express XXXX XXXX. \n\nSubsequently, I got e-mail notifications ( due to freezing the account ) that there were at least XXXX other attempts to use the cancelled number on XX/XX/XXXX and XX/XX/XXXX. I have called American Express XXXX times ( twice on XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX ) to report the original and subsequent fraudulent attempts and to request that the {$210.00} and {$820.00} charges be marked as fraudulent. I also sent a letter on XX/XX/XXXX ( see attachment ) making this request. The customer service representatives I talked to on the phone have told me that the charges are being investigated and could take up to XXXX days, and they would request written confirmation of the disputed charges. They have assured me that I do not have to pay the disputed charges -- however, those charges are still listed on my statement, and my attempts to dispute them through my online American Express account were rejected. Therefore, I would be more comfortable receiving something in writing. So far, I have heard nothing on the progress of the investigation."
+}

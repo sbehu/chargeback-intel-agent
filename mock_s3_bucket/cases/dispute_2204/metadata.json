@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2204",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19207,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am an XXXX  victim of Identity theft. On XX/XX/23 Citibank card services call center told me all my contact information on the credit card account had been changed and that transactions of {$48000.00} had been put on the card. I confirmed what my contact info should be with the call center and they said my account had been taken over. I reported I made none of the transactions on the card, that they were fraud and the balance should be {$0.00}. She closed the card, ordered a new one and said she would forward our complaint to their fraud department.Their fraud department denied my dispute saying the transactions were made to a 'valid ' XXXX XXXX  XXXX credit card in my name. However, that card was also taken over by fraudsters and was not valid. We explained this to Citi who persists in this explanation. Citi will not explain how they are determining the XXXX XXXX XXXX card is valid. Citi never addresses the fact that their own call center noted the contact information changes and that the Citi account was an account takeover. No matter who they paid because it was taken over, they must acknowledge the transactions were not authorized by me. Further, the XXXX XXXX XXXXXXXX has sent them a letter stating the account they paid was taken over and had many fraudulent transactions on it at the time Citi paid them. XXXX XXXXXXXX XXXX has a check issued to Citi to return the {$44000.00} including check number which Citi has not credited back to my card. Citi is adding late fees, penalties and unauthorized transfer fees to the account, reporting it to the credit bureaus, severely harming my credit score. I ask the Citi card be credited back to the {$0.00} balance it had before the fraud and restore our credit bureau data."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1987",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22180"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14192,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was an error with the AMEX app on XX/XX/XXXX. I keep my credit card balance to XXXX DAILY meaning, I calculate and cross check to see that each transaction matches each payment. When the system went down on XX/XX/XXXX, I was charged XXXX times for the same payment. I was reimbursed for XXXX, but the other XXXX was taken out of my bank. That's fine but that additional duplicate payment WAS ( IS ) not reflected on my current statement. I therefore am being overcharged for XXXX  that was taken out of my bank account without my permission. No one has gotten back to me yet about this. It's very easy to cross check my credit card payments to my transactions. This is a human error and can easily be reviewed to see that they are charging me more than I paid for. This has never happened to me with any other company. It happened because of a system outage and now I have wasted so much time and energy to figure out what happened. No apologies yet either. If I hadn't checked one by one, I would've paid more than I needed to. I don't trust AMEX now because I feel this could've happened to me before but I just was too busy to keep track of it. This would've also gone unnoticed if I had to pay every month 's statement in full. Luckily I pay by transaction so I can see what exactly I'm paying for."
+}

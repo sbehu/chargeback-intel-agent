@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1789",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ND",
+    "complaint_zip": "58102"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1633,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed on my Barclays XXXX XXXX statement dated XX/XX/XXXX a charge for {$29.00} for XXXX XXXX car wash that I didnt recognize. I contacted XXXX XXXX car wash on XX/XX/XXXX and asked about the charge and I was told it was a monthly charge for unlimited car wash. I informed the representative from XXXX XXXX that I didnt sign up for a monthly car wash and she told me I signed up in XX/XX/XXXX and they had been charging me monthly for the service since then. I told her I only authorized the {$10.00} charge on XX/XX/XXXX for their promo of thirty days of free car washes -I hadnt authorized anything else. She told me she would cancel the monthly subscription. I requested credit for ten months worth of transactions they had been charging me without authorization ( XXXX XXXX ) and she told me she could only credit me for three months worth. I said that was unacceptable as I didnt authorize any transactions but the {$10.00} on XX/XX/XXXX. I then contacted Barclays billing disputes and spoke to someone regarding this and she said that since the merchant said they would credit three months, she would dispute the remaining seven months unauthorized transactions. On Wednesday, XX/XX/XXXX, I received a letter from Barclays disputes department saying they were unable to obtain credit on my behalf because they did not receive the notification within two statement cycles after the charges appeared on my monthly statement and they are past the timeframe to assist. I called Barclays disputes department that same day and spoke to a gentleman and told him the charges were fraudulently made by XXXX XXXX XXXX XXXX so asked how I would know to notify them within two statement cycles? He said they are unable to assist so I requested to speak to a supervisor to which he took down my number and said I would receive a call back in 24 hours. I never received a call back. On XX/XX/XXXX I called the company and requested proof of authorized signature for the monthly charges and I was told my message would be passed along to someone who would call me back. Never received a callback. \nOn XX/XX/XXXX I received communication from Barclays saying they can not assist with obtaining credits since I cancelled the services with the merchant after the charges were made and that they do not have dispute rights because of this. This makes no sense because I contacted the merchant, XXXX XXXX, on XX/XX/XXXX after seeing the additional monthly charges on my credit card to ask them why they were charging me and it was then that the merchant told me that the charges were for a monthly car wash subscription. I told the merchant I didnt authorize these charges and the merchant told me they would cancel the reoccurring charge since I never authorized the monthly charges. Again, I only authorized one single charge for {$10.00} on XX/XX/XXXX for thirty days of free car washes promo. The merchant used my information to make additional charges without my authorization in a fraudulent manner. And the companys response is a violation of my cardholder rights because they used my card information to make monthly charges to my card without authorization and arent providing proof otherwise. Then they said I cancelled the service they were fraudulently charging me for and now they cant obtain credit for the fraudulent charges. This makes no sense and corruption - I didnt authorize the merchant to charge me monthly in the first place! \nThe merchant used my information to make additional fraudulent charges monthly, I never used their service after the thirty day promo so they need to provide credit to my card for all ten months worth of unauthorized charges, not just three. \nYour attention to this matter is much appreciated. \nSincerely, XXXX XXXX"
+}

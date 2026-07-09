@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_618",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "431XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2502,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In early XXXX I contacted my credit card company, Barclays, to dispute a charge with XXXX XXXX regarding a downpayment for a barn that was cancelled and XXXX wasn't refunding my deposit for. On XX/XX/XXXX Barclays sent a letter stating that it was past the timeframe to assist. I later contacted XXXX and they provided documentation that Barclays contacted them on XX/XX/XXXX and the charge was reversed through the third party billing company XXXX. I have faxed documentation to Barclays showing the transaction number for the charge reversal and they continue to refuse to credit my account. Every time I call, all they will say is that the claim was denied on XX/XX/XXXX. I have a fax confirmation that they have received the documentation on the charge reversal on XX/XX/XXXX."
+}

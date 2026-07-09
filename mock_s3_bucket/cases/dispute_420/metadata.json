@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_420",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93117"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44812,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, XXXX XXXX, a website hosting company, posted charge on my Sears credit card using credit card information stored previously without my consent. I tried to contact the merchant but got no response. The credit card issuer declined to investigate the improper use of my credit card information."
+}

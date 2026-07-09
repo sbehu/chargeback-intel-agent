@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2624",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36878,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Attention : Consumer Financial Protection Bureau XXXX XXXX XXXX XXXX, Barclays XXXX XXXX [ last name undisclosed ] Dear XXXX XXXX [ last name undisclosed ], Thank you for your letter of XX/XX/2024. \n\nUnfortunately, contrary to your belief, the issue remains unresolved. \n\nI kindly ask once again that you please explain why/ how Barclays pays a merchant XXXX amount and charges its client a higher amount? \n\nSuch is the fundamental question underlying the dispute at hand. \n\nIt may be more expeditious to have a conversation with you or another Barclays representative. I have left multiple messages at the number included in your letters with no response to date. I would most sincerely appreciate a return call. \n\nAs repeated before, I am very interested in resolving this dispute and ensuring that my health insurance coverage is not placed at risk. \n\nThank you, XXXX XXXX"
+}

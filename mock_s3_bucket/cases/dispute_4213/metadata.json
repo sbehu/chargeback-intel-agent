@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4213",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85255"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1748,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Monday, XX/XX/XXXX, around XXXX XXXX PT, my card was fraudulently used for multiple small charges of less than XXXX dollars for XXXX and XXXX XXXX XXXX. I call within an hour of the charges being posted. If you type in these names into XXXX, there are a lot of threads discussing fraudulent charges with those names. These charges were not from my self or my wife, and we both had the cards in our hands at the time of the charges. \n\nOur card was cancelled, and a new card was issued, however, when I called today ( XX/XX/XXXX ), Citi stated they would not provide a credit or refund for the fraud charges or fees for fraud charges ( including cash advance fees ) until the investigation is complete. This is absurd. \n\nCiti 's website ( XXXX XXXX XXXXXXXX ) states \" At Citi, you will not be responsible for unauthorized charges ( charges which were not made by you, or anyone allowed to use the account ). '' This is not an accurate statement if I am not given credit as a fraud investigation is pending. \nIn this situation, I have to float Citi the entire amount plus the cash advance if I do not want unintended consequences ( late notices to credit bureaus, late charges and interest racking up, as well as the negative hit to my credit score if my card is not paid off in full ). The advertising is not consistent with not being responsible and having {$0.00} liability as Citi can take as long as it needs to complete the investigation. In the 26 years that I have had credit cards, I have always had suspected fraud activity immediately credited to my account."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6278",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "019XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16460,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding a disputed charge of {$200.00} from XXXX XXXXXXXX XXXX  on XX/XX/year>, for a vehicle rental originally prepaid through XXXX. This amount was charged at the rental counter for optional insurance and fees that were neither disclosed during booking nor agreed to knowingly. \n\nDespite numerous attempts to resolve the issue with both XXXX and XXXX XXXXXXXX XXXX, I have been met with denial and evasive responses. A signed estimate recently shared with me by the rental agency contains what appears to be a forged or altered signature, falsely stating that I agreed to the charges. This has raised serious concerns of deceptive business practices and possible document falsification. \n\nBarclays initially denied my credit card dispute due to timeliness, despite my diligent efforts to seek resolution through proper channels before filing the dispute. I respectfully request that CFPB investigate these misleading and potentially fraudulent billing practices, and assist in pursuing a refund and correction of my account."
+}

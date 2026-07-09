@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5650",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "31721"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8717,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I think it was around XX/XX/year> I booked a hotel room at the XXXX XXXX online I had one price. But after I booked the room it stated XXXX for XXXX nights for a XXXX XXXX so when I saw that I cancel because that was the wrong price. I then stay at other hotel. Then I started getting information from the XXXX XXXX and I was telling them that it was canceled but they won't give me my credit back. I filed a deput but they say the room was booked by a third party and they can't do nothing about it. So I closed the card and they continued adding late fees on the card."
+}

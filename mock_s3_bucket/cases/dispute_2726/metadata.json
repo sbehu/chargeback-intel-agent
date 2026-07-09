@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2726",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "953XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23155,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Fraudulent transactions occurred on my extended credit card for 7 charges from the one hotel booking website ( XXXX ) on XX/XX/year>. A fraud alert was raised and the credit card was cancelled, 6 of the 7 transactions were removed from my account except for one. I called 4x at different dates to resolve the last transaction that I was charged fraudulently, but after talking to the supervisor on the 4th call ( lasting at least 20-30 min per call ), all the previous calls done prior were actually not in the system. Every phone call I made, I always asked for confirmation and/or emails for proof that I called to resolve my dispute, but I never received confirmation code for the calls nor email. The {$210.00} + charge remains on my account and I was told that it would remain that way until 2 billing cycles from the 3rd time I called. Hence the 1st 2 phone calls were useless.\n\nWhy would a customer take the burden for paying a fraudulent charge when I have made several attempts to address it? Why would I be responsible to pay it while the investigation is ongoing?\n\nWhy I never received confirmation such as email or text about telephone encounters done many times to resolve the issue?? The level of difficulty resolving problems with this credit card is incomparable to any credit card company experience I had and I always pay full every month without miss. It is very frustrating."
+}

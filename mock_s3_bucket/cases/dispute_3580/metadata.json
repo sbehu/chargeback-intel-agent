@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3580",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16817,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I PURCHASED A BED FOR {$1300.00} WITH NO INTREST IF PAID IN 12 MONTHS..I I DID PAID FULL AMOUNT WITHIN THE THE YEAR. TODAY I STILL OWE XXXX THAT I HAVE NO IDEA WHERE IT CAME FROM? I TRIED TO STOP PAYING THEM, THEY HURT MY CREDIDT SO BAD. AFTER THAT I HAVE NO CHOICE OTHER THEN PAYING THEIR MINIMUM. I WAS FORCED TO PAY A LOT OF MONEY BECAUSE I HAVE NO HELP FROM NO BODY. S SO, I DECIDED TO KNOCK MY GOVERNMENT DOOR FOR HELP. THANK YOU."
+}

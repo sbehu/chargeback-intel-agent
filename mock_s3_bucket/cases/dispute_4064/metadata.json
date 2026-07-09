@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4064",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10075"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41837,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern : I am writing to appeal a negative finding by the Citibank Fraud Unit on an investigation that has been ongoing since XXXX. I am extremely frustrated and annoyed by the service I have been receiving and hope that you will see this issue with some clarity which has been lacking. \nThe issue began when I received a text message from Citibank on XX/XX/year> with a fraud alert and a request that I contact the bank, which I did. The representative told me that there were several charges to a store named XXXX on XX/XX/XXXX and XXXX in different states and asked if I had made them. I confirmed that I had not. I was in XXXX, NY with my daughter at the time and had not recently left. I have never traveled to some of the states the Fraud Unit mentioned. \nThe Citi fraud rep suggested that I cancel my card which I did. A new card was sent to me. I spoke with the Fraud Unit again on XX/XX/XXXX and confirmed again that I had not made those charges. All the charges were for a uniform amount {$200.00} except one which was for {$300.00}. I have never shopped at XXXX and I live in an XXXX  where the management company makes all repairs. Therefore, I do not need home equipment. When I followed up, I was told the claim was denied since I made the charges on my XXXXXXXX XXXX/ phone wallet. I checked with XXXX XXXX  myself and they confirmed that those charges had not bee made on my XXXX XXXX. \nWhen I reported that to the Fraud unit they said the case would be reopened. I spoke to several supervisors who confirmed that the case had all the hallmarks of fraud. \nMost recently, my claim was again denied on the grounds that I had used the physical card in all these many locations! That is impossible and my location on those days can be confirmed by my charges in XXXX where I live. \nI am not an expert on how my data can be stolen but I know that I am the victim of fraud on my card in the amount of {$2300.00}. I have also been negatively affected since I have not paid off my card as I usually do and am concerned about the negative impact on my credit ratings. Since I was the victim victim of this scam, I have had to change all the autopay for all the legitimate charges that I regularly incur.\n\nThe next thing your the Fraud unit said to me was to set up a fraud alert so I should get text messages about potential fraud. That is exactly what I already have set up and to which I responded on XX/XX/XXXX! \nIn sum, I demand that Citibank honor this fraud claim and reimburse my account the {$2300.00} based upon : XXXX the banks own suspicion/finding that it was fraud when I was texted on XX/XX/XXXX and told to cancel my card >> the multiple and ERRONEOUS the bank made for how this occurred from it was XXXXXXXX XXXX to you used the card in person. \nXXXX XXXX supervisors themselves indicated that the charges had all the elements of Fraud >> The bank refused to actually check that that I was in New York going about my business and couldnt have been in all those other states where the fraudulent charges took place"
+}

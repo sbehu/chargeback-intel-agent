@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13016",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "LA",
+    "complaint_zip": "70506"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48186,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> at with XXXX credit card called CITI charge to XXXX XXXX XXXX and I was out of town for work in Florida. I told the representative and I was never credited for the charge of {$700.00}. \nXX/XX/year> XXXX XXXX XXXX XXXX  I was charged XXXX and I was out of town for that charge as well {$100.00} CITI changes my credit limit whenever they feel like it for things on my credit which are inaccurate. When I call and write to report that I have called the bureaus to correct my credit report it is never resolved. I have a person problem with being charged for purchases that the agreement with the store policies state that I would not be charged for things I did not purchase. They can roll the camera footage at the store and see I was not at the location at the time of the purchases."
+}

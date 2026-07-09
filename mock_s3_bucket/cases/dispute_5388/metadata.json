@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5388",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30180"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21128,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I got a pending transaction for {$440.00}, I immediately notified Barclays that I did not make any purchases from XXXX XXXX and it was a fraudulent charge. They told me it would be taken care of and not to worry as it would be removed from my statement. On XX/XX/year> the charge is added once again to my account. I contact them immediately once again and am told sorry they will look into it and get back to me and only to pay the statement balance minus the fraudulent charge. I hear nothing back and stop using the card while waiting. Finally on XX/XX/year> I get a late fee charge and finally open a dispute since they would never get back to me after telling me they were going to send me information on the charge twice when I tried calling and getting an answer. This goes on for another XXXX months while they tell me sorry you are now responsible for the charge as well as XXXX of dollars in late fees and a {$99.00} annual fee for a card I cant use. Now I see I have a hit on my credit report for past due which has lowered my score by over XXXX points."
+}

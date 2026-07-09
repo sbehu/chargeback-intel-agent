@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7507",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78626"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26719,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To : Consumer Financial Protection Bureau ( CFPB ) & XXXX XXXX XXXX  ( XXXX  ) Complaint Details : I am filing this urgent complaint against American Express ( Amex ) for systemic violations of Regulation Z ( Truth in Lending Act ) and failure to maintain legally required dispute records. This concerns Amex 's deliberate concealment of a valid dispute ( Reference XXXX ) after I initiated small claims litigation against them. \n\nChronology of Violations : Original Dispute Closure ( XX/XX/year>XXXX  ) : Illegally closed my {$1400.00} dispute for \" Oceanpayment * XXXX XXXX  '' despite valid grounds ( Cancelled Service/Non-Delivery ). \n( Evidence : XXXX XXXX showing closure ) Reopening & Second Closure ( XX/XX/XXXX - XX/XX/year>XXXX  ) : Re-opened case on XX/XX/XXXX with Resolution Date XX/XX/year>. \nClosed again on XX/XX/year>XXXX  without justification. \n( Evidence : Screenshot 3 with Resolution Date ) Evidence Tampering ( Current Status ) : Upon filing small claims litigation, Amex DELETED THE DISPUTE FROM ALL PORTALS ( Screenshots XXXX ) : Not listed under \" View Open Disputes '' Absent from \" View Closed Disputes '' Violation : 15 U.S.C. 1666 requires retention of dispute records for 24 months. \n\nKey Violations : 12 CFR 1026.13 ( c ) ( 2 ) : Failure to provide written explanation for closure 12 CFR 1026.13 ( e ) : Refusal to correct billing error 15 U.S.C. 1692f ( 8 ) : Concealing/falsifying records related to consumer disputes Evidence Spoliation : Removal of critical evidence post-litigation filing Demands : Immediate reinstatement of Dispute XXXX in my online portal Written confirmation of the dispute 's full history {$1400.00} credit + statutory penalties CFPB investigation into Amex 's systemic deletion of disputed transactions Attached Evidence : [ Screenshot 1 ] Closed disputes list ( no XXXX ) [ Screenshot 2 ] Open disputes list ( no XXXX ) [ Screenshot 3 ] Original dispute details and resolution date This pattern confirms Amex is intentionally obscuring evidence to undermine my small claims case. I demand regulatory intervention to preserve these records as evidence for my lawsuit. \n\nSigned, XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5593",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94538"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7344,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dispute XXXX Regarding this dispute, I would like to sincerely express my feelings. \n\nThe bracelet was not in the package I received. Since I received the package on XX/XX/XXXX, it was meant to be a XXXXXXXX XXXX gift, and I planned to give it to my wife on XX/XX/XXXX. However, when we opened the package, there was no bracelet inside. I immediately contacted XXXX to request a return. On XX/XX/XXXX, I returned the package After reviewing the delivery confirmation provided by XXXX, I found that the person who signed for the package was not me. BTWI have confirmed with XXXX  that the person who signed for the package used a driver 's license. Only I have a driver 's license in our householdmy wife doesnt have a driver 's license. \n\nLater, because I returned to my home country, the dispute has been dealt with intermittently for some time. I have kept the evidence, filed a police report, and received the report as well. Once again, I hope American Express can process my request. Thank you."
+}

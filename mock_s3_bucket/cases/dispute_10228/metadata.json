@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10228",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48221"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46714,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a denied credit card dispute for merchandise not received. \n\nI purchased merchandise in the amount of {$1200.00} from XXXX XXXX XXXX. The item was never delivered. XXXX conducted an investigation and confirmed the package was lost. \n\nXXXX approved the claim ; however, reimbursement was limited to {$110.00} because the merchant failed to declare or insure the shipment for its full value. \n\nThe merchant has refused to issue a refund despite confirmation that the merchandise was never delivered. \n\nI disputed the charge with my credit card issuer. The dispute was closed before the carrier investigation concluded. After the loss was confirmed and the merchant refused to refund, I requested reconsideration. The credit card issuer denied the dispute and instructed me to resolve the matter with the merchant. \n\nI believe my card issuer failed to properly apply consumer protections for merchandise not received, despite documented carrier confirmation of loss and merchant non-fulfillment.\n\nI am requesting that the credit card issuer review this matter under merchandise not received and provide appropriate relief."
+}

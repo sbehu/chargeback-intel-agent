@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11549",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "341XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1147,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB Consumer Response Team, I am writing to file a formal complaint against Citi Visa for failing to properly investigate and resolve XXXX chargeback disputes filed in connection with a fraudulent {$22000.00} purchase from XXXX XXXX XXXX, XXXX XXXX, Florida. \n\nIn XX/XX/year>, my mother, XXXX XXXX ( age XXXX ), and I were approached by a salesperson from XXXX XXXX XXXX, located at XXXX XXXX XXXX XXXX XXXX, XXXX XXXX, Florida XXXX. The salesperson demonstrated and sold us the XXXX XXXX XXXXXX/XX/XXXX for approximately {$22000.00}, charged to our Citi Visa credit cardXXXX ( Dispute No. XXXX and XXXX ). \nThe salesperson was informed that my mother is XX/XX/XXXX. Despite this knowledge, the salesperson proceeded to sell the device and represent it as safe and beneficial for her health. This was a deliberate and deceptive misrepresentation. \nThe manufacturer 's own User Manual, under \" PRECAUTION & WARNING, '' explicitly states in bold : \" Do NOT use product if : You areXX/XX/XXXX '' This contraindication was never disclosed by the salesperson. Had we been informed of this warning, we would never have purchased the product. As a direct result of this omission and misrepresentation, my mother is physically unable to use the device. The {$20000.00} machine is sitting unused. \nWe attempted to return the unit to XXXX XXXX XXXX and were refused. We filed disputes with Citi Visa ( dispute numbers listed above ) and were denied relief. We contacted XXXX XXXX consumer help and did not receive assistance. \nWe are requesting a full refund of {$22000.00} and ask that your office investigate XXXX XXXX XXXX for deceptive and predatory sales practices targeting elderly consumers. \nWe filed chargebacks with Citi Visa under dispute numbers XXXX ( XXXX XXXX XXXX and XXXX ( XXXX XXXX ) . Citi denied both disputes despite clear evidence of misrepresentation and an unusable product. Under the Fair Credit Billing Act ( FCBA ), consumers are entitled to dispute charges involving goods or services that were misrepresented at point of sale. This product was sold to a consumer with a disclosed medical condition that the manufacturer explicitly states disqualifies use of the product. \n\nWe respectfully ask the CFPB to investigate Citi Visa 's handling of these disputes and require the disputes be re-examined under the XXXX. We are prepared to submit all supporting documentation. \n\nSincerely, XXXX XXXX ( On behalf of XXXX XXXX )"
+}

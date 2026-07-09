@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3349",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "20001"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7666,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "See letter. I made an order for multiple items from XXXX on XX/XX/XXXX. Some of the parts were canceled by merchant because of \" XXXX inventory '' ( XXXX : XXXX and XXXX ). The merchant agreed in writing to refund me but never issued the credit. Another item did not show up in a box sent from the merchant ( SKU XXXX ), the box had a large hole in it ( see photo ) ). I was offered a refund for this item but the merchant also never refunded me. I disputed the case with Amex and they found in the merchants favor, citing the merchant shipped out a box. Amex did not consider the details in my claim, and just used the tracking number to decline my whole claim."
+}

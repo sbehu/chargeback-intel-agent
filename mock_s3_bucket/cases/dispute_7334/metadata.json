@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7334",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90066"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37610,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Citibank Product : Credit card Issue : Unauthorized transactions/ Billing dispute Submitted by : XXXX XXXX XXXX I am filing a formal complaint against Citibank for failing to resolve a valid credit card billing dispute for charges related to a fraudulent and unsafe XXXX  stay. The reservation ( Confirmation Code : XXXX ) was booked for XX/XX/XXXX to XX/XX/year>, and charged in full ( ~ {$2500.00} ) to my Citibank Mastercard ending in XXXX. \n\nAfter multiple complaints and photographic documentation of the XXXX health and safety issues ( XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX ), XXXX refunded {$1100.00} on XX/XX/year>, confirming the property was uninhabitable. \n\nI am now disputing the remaining balance of ~ {$1200.00} with Citibank, which includes an unauthorized charge for extended dates I never approved. \n\nHowever, Citibanks fraud team : Refused to escalate the matter to any department Evaded direct yes/no questions about my consumer rights Claimed there was no other team to speak with Hung up on me XXXX, despite being calm and asking legally relevant questions I have now escalated this to the Citibank Executive Response Unit , and submitted all documentation, including : XXXX partial refund confirmation Booking dates Citibanks call behavior and internal acknowledgment I am requesting : XXXX. Full reversal of the remaining XXXX charges ( ~ {$1200.00} ) XXXX. Investigation into XXXX mishandling of my dispute call XXXX Review of the recorded phone call by XXXX XXXX or compliance team This has caused severe emotional distress, and I feel that I am being retaliated against or dismissed due to being a woman asserting her rights over fraudulent merchant behavior. I am a professional, Ive documented everything, and I expect full accountability."
+}

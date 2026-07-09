@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12393",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75078"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18299,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Purchased a system for online investments in stocks and other contracts. Week after week their system 's dashboard showed gains while my real account showed big losses. There are no tools in their system to track the trades, results, balances or anything else, just my account balance going down ... After asking for explanation and solution, they stopped replying my emails and just sent another advertisement email saying they made a mistake and offering to sell another system. Their contract prevent refund before XXXX  months, but their system does not work and their fake results are misleading. \nUnder the XXXX XXXX Credit Billing Act ( XXXX ), my legal rights to dispute misrepresentation supersede a merchant 's contract terms Citi Bank decided to decline my dispute to get the system fee back"
+}

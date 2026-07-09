@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5410",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "76208"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8318,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX someone stole my credit card number and booked a flight from XXXX XXXX XXXX XXXX XXXX XXXX in the amount of {$130.00}. I notified Citi about this and reported it as fraud. They opened a dispute. Citi contacted the airline, and the merchant responded. They sent the entire flight manifest, the name and contact information for the person who made the charge ( XXXX XXXX ) with cel phone number and address. However, Citi then reversed my credit and closed the dispute although this information proved that I DID NOT purchase these tickets. \n\nI've now reopened the dispute, and they've reached out again to the merchant. When I called Citi today, they said they couldn't guarantee any resolution and couldn't provide any information. When I asked if they had reviewed the information from the merchant which proved someone else made the purchase, they said they couldn't verify that. As a customer and victim of fraud, it seems there is no way to prove this, although the printed evidence shows that I was not on the flight manifest and I did not make the purchase. I'm very concerned and feel that Citi does not care about my rights as a customer, because they are choosing to ignore the printed evidence from the airline. \n\nMy XXXX XXXX  card customer agreement states that I'm not responsible for charges that I didn't make. I've submitted emails and signed statements to Citi, but they still have not resolved this issue. Furthermore, they sent the contact information for the person who stole my card directly to me, which does not match any of my information. \n\nI plan to close my Citi card, but need this dispute resolved immediately. I do not trust this credit card company to protect me or my personal information."
+}

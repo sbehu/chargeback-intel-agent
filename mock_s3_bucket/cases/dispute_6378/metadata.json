@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6378",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6510,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding American Express dispute XXXX. Its been open for many weeks now and they wont close it despite me providing ample evidence. It says they are waiting for the merchants response but the merchant emailed me already acknowledging they are sorry for the order issue and they want to make it right. Ive requested a refund in full from them many weeks ago and reiterated that request. I uploaded proof the company responded to me acknowledging the order issue and they want to make it right but American Express has kept it open with no estimated end date because they are racist towards XXXX customers like me."
+}

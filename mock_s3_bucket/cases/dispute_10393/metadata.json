@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10393",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "430XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4599,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint as a final attempt to obtain clarity, accountability, and resolution regarding a fraud claim that has been severely mishandled by American Express. \nI traveled to XXXX from XXXX through XX/XX/XXXX. My American Express card was kept in a dedicated travel wallet that I only use while traveling. That wallet also contains other travel-related items, including my XXXX drivers license. After returning to the United States, I did not use that card again. \nIn XX/XX/XXXX, my husbandwho is an authorized user on the accountnoticed unauthorized transactions being made in XXXX using my card number. He immediately notified me. When I searched for the card, I realized it was missing from my travel wallet. \nWe contacted American Express immediately to report the card as lost or stolen and informed them of my prior travel to XXXX. American Express promptly canceled the card and issued new card numbers. A fraud investigation was initiated, and several fraudulent transactions were initially credited back. At that point, we believed the issue was being properly handled by the Fraud Department. \nDue to a recent military change of station and a new job, we relied on American Express to manage the investigation appropriately and in good faith. \nOn XX/XX/XXXX, without warning or explanation, American Express withdrew {$9600.00} from our checking account. With the exception of a few legitimate charges made by my husband totaling less than {$500.00}, all of these charges were fraudulent and should have been covered under the original fraud investigation. \nWe contacted American Express immediately. Since then, we have spoken with and chatted online with numerous representatives across both Customer Service and the Fraud Department. Unfortunately, no one has been able to explain : Why these charges were re-applied, Why funds were withdrawn while the fraud claim was allegedly still under review, or Why we were not notified prior to the withdrawal. \nInstead, we were given conflicting and unhelpful explanations, including : We are still working on your claim ; customers should turn off automatic payments while claims are filed. \nThere must have been a computation error ; Customer Service should be able to help. \nCustomer Service then stated that unless Fraud reissues the credit, we are responsible for the chargesdespite them being fraudulent. \nOn XX/XX/XXXX, after chatting with at least ten different representatives via the American Express app, an agent refiled the fraud claim, stating it was being done to ensure nothing was missed. \nOn XX/XX/XXXXXXXX my husband and I again spoke with a Fraud Department agent who was kind and professional but admitted he could not determine what went wrong. He stated a supervisor would contact us within 24 hours. As of today, we are still waiting for meaningful follow-up or explanation. \nWe were also informed that American Express is now treating XX/XX/XXXXXXXX as the dispute origination datedespite the fraud being reported promptly in XX/XX/XXXX. \nI am filing this complaint out of a genuine cry for help. We have been loyal American Express customers for many years and trusted that fraud would be handled fairly and transparently. Instead, we have been left confused, financially impacted, and without answers."
+}

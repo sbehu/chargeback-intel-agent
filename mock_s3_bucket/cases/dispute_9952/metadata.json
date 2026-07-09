@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9952",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25437,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased airline tickets through an online travel agency, XXXX, using my Citibank credit card. When issues arose with the booking, I attempted to resolve the matter with the merchant and later opened a chargeback with Citibank. \nCitibank closed the chargeback in the merchants favor. However, after the chargeback was closed, the airline ( XXXX XXXX ) confirmed to me in writing that they issued a refund to XXXX, not to my credit card. \nDespite this confirmation, I have not received any refund. XXXX is refusing to investigate or release the refunded funds, stating that they will not take action due to the prior chargebackeven though Citibank has already closed it. \nCitibank has also declined to reopen or further investigate the dispute, even though this is a post-chargeback refund scenario and the refunded funds were never credited to my account. \nI am requesting that Citibank : Reopen the dispute, or Investigate the airlines refund to the merchant, or Credit my account for the refund that was issued but never received I have documentation from the airline confirming the refund to the merchant and can provide all supporting evidence."
+}

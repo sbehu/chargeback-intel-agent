@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2651",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11236"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6421,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Early XX/XX/2024 Someone from Macy 's called me to inform me they notice some suspicious activities in my account when asked more details I noticed there's a lot purchases I never made nor authorized, I disputed those charges the same day She had told me Macy 's will investigate the matter after more than a month they send me a letter explaining to me because these transactions were made with my card even it wasn't me I'm responsible for those charges. The worst part about this matter they went above my credit limit, Macy 's let that slide I never have {$12000.00} credit limit with Macy 's, they let them buy {$9000.00} marchandises"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2704",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "VA",
+    "complaint_zip": "22304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34913,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Thursday, XX/XX/XXXX, I was traveling to XXXX, XXXX for leisure. While at the airport in XXXX XXXX, I took a cab that quoted me {$7000.00} XXXX  pesos, or roughly {$7.00} USD ( I was charged {$7400.00} USD ) I agreed to pay that amount. After a short ride, I presented my card to the driver while I unloaded the bags from the trunk, once the nags were out, I was handed my card back and I did not ask for a receipt nor one was offered by the merchant. Once at my hotel, I reviewed my transactions on the Citi app and noticed that I had been overcharged by a significant amount and I proceeded to call Citi immediately to dispute the charge. Over the phone, I was informed that there was nothing myself of Citi could do until the transaction posted, and even after explaining the situation to the agent on the phone, I kept getting reassured I wouldn't be responsible for that charge. Once the transaction posted a couple of days later ( XX/XX/XXXX ), I formally disputed the charge. Unable to contact the merchant, given that it was a cab, I have no way of obtaining a receipt or dispute the charge with them directly. \n\nOn XX/XX/XXXX, Citi informed me that the case was closed and that I was responsible for the full amount, since I was not able to provide them with a receipt, despite me twice speaking with agent on the phone and explaining the situation in detail over the phone and over email. I spoke with Citi again on XX/XX/XXXX to appeal the decision and the agent on the phone let me know that they would be reopening the case and reviewing all the information, since the email I had sent detailing the situation had not been reviewed properly. \n\nOn XX/XX/XXXX I called Citi again where an agent informed me that the investigation was still pending and that it had been escalated on XX/XX/XXXX and should had a resolution in the coming days. \n\nOn XX/XX/XXXX I called Citi again and I was informed that the investigation had been closed, for the same reason as before ( lack of receipt ) and after explaining the situation on the phone with the agent, they agreed that this should not have happened and that they would be contacting the merchant. I was led to believe that they would be contacting the merchant to confirm the amount for the service provided. \n\non XX/XX/XXXX I called Citi again and the agent on the phone informed me that this was being handled as an irregular billing dispute, since a card was present, and there was nothing Citi could do anymore since I had not provided a receipt for the transaction. I was also informed that the merchant was never contacted, and it wouldn't be contacted. and that Citi had no reason to continue to pursue this investigation anymore."
+}

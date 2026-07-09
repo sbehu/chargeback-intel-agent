@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5159",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DC",
+    "complaint_zip": "200XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23003,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase on XX/XX/XXXXXXXX The merchant messaged me at around XXXX that their truck broke down and that they were delivering later that night. I emailed them back that I was already in bed to deliver the next day. They responded and apologized for the delay. \n\nTo my surprise, when I saw an email sent at around XXXX the next morning when I woke up letting me know that the items have been left at my door. There was nothing at my door when I looked at around XXXX. I immediately messaged the merchant. They did not respond. \n\nI filed a dispute with Sears XXXX. I followed up 30 days later, I was told that they were still working on it- to give it 60 - 90 days for resolution. I just logged into my account and noticed there was a letter dated XX/XX/XXXXXXXX  to let me know that they have closed my dispute because \" I didn't respond to their inquiries ''. Which wasn't true. Nothing was sent to me. \nI reached out to them and I was rudely told that my dispute had been closed. This is not the first time they'll do this either. They're not very helpful when it comes to helping card holders."
+}

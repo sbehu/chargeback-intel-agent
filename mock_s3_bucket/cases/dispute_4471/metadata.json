@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4471",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10940"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14229,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> at XXXX, I received a mobile alert on my phone from Citibank regarding my credit card account. The message on my phone states : Free Msg Citi card Did you attempt {$260.00} at XXXX # XXXX on XXXX? XXXX, XXXX. I immediately responded XXXX. I log online to my account and discovered another transaction that I did not make was made on the same day at XXXX XXXX for {$46.00}. I spoke with XXXX XXXX ( not sure of the name ) and I informed her that neither of those transactions were mine. I also informed her that I never lost my card or loan my card to anyone. She stated the reason we contacted you was because these transactions were suspicious. She further states we can close this account and send you another credit card. She also said due to the suspicious activity, this charge will not be on your account. I received a letter yesterday on XX/XX/year> from Citibank security operation service team. The letter states my dispute is closed and because I stated that the card was in my possession, the remaining balance of {$310.00} will remain on my account. I am requesting a more thorough investigation how this happen and my account return to zero balance."
+}

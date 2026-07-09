@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10318",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "981XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7273,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding American Expresss handling of multiple credit card disputes involving merchandise that I did not receive.\n\nI made two separate purchases with XXXX using my American Express card. In both instances, the merchandise was never delivered to me, and I did not receive the goods or any benefit from the transactions. I timely disputed both charges as goods not received.\n\nDisputed Charge # 1 Merchant : XXXX XXXX Transaction Date : XX/XX/XXXX Amount : {$290.00} Merchant Address : XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX Cardmember : XXXX XXXX Dispute Reference Number : XXXX Dispute Received : XX/XX/XXXX Resolution Date : XX/XX/XXXX Status : Closed ( Denied ) Disputed Charge # 2 Merchant : XXXX XXXX XXXX Date : XX/XX/XXXX Amount : {$330.00} Cardmember : XXXX XXXX Dispute Reference Number : XXXX Dispute Received : XX/XX/XXXX Resolution Date : XX/XX/XXXX Status : Closed ( Denied ) American Express initially issued provisional credits for these disputes but later reversed them after accepting documentation from the merchant that does not substantiate delivery. The merchant provided only carrier tracking information a copy of my purchase and a XXXX  XXXX  photo. That photo does not show my residence, does not display my address, does not show the package in my possession or that of any authorized recipient, and contains no identifying information tying the package to my orders. The image could depict any package belonging to any person. Tracking data alone does not prove receipt.\n\nDespite the absence of proof of delivery, American Express has denied these disputes repeatedly. I have reopened the disputes four separate times, and this complaint follows the most recent denial. At no point has the merchant provided evidence demonstrating that the merchandise was delivered to me.\n\nBecause I did not receive the merchandise, the merchant did not fulfill the transactions. Charging me under these circumstances forces me to pay for goods I never received and improperly shifts delivery risk to the consumer without proof. I believe American Express failed to properly apply its dispute resolution standards and buyer protection obligations.\n\nI am requesting that the CFPB review American Expresss handling of these disputes and require American Express to : Correct my account by issuing\npermanent credits for the disputed charges, and Ensure compliance with credit card dispute obligations and cardholder protection standards.\n\nI have retained all supporting documentation, including dispute correspondence, carrier delivery images, and account statements, and can provide them upon request.\n\nThank you for your review of this matter."
+}

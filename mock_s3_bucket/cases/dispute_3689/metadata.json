@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3689",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60453"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44412,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "first complaint on XX/XX/XXXX a fraudulent charge from XXXX 's in the sum of XXXX was made, The card never left my possession, first week or so into XXXX I noticed and I closed my card and called American express. a couple weeks later I get a letter saying my card was used in the terminal via chip however its simply impossible because I had the card. American express stated that the actual card was used via chip but simply not true. my XXXX works in XXXX XXXX and tells me that chip fraud is possible and its not impossible, I was told by American express that the only way to take information out of a card was via the magnetic strip but a simple google search and having a son who deals with these kinds of situations from time to time in a new form of fraud called shimming. \n\n\nUpdate : Second complaint American express has not helped in any kind of way I still owe XXXX dollars of something i didn't purchase. this article is proof my son sent me that copying a persons card matching its unique XXXX XXXX can be done and is new while American express told me it is impossible. I am a victim to what seems to be a new form of fraud. \n\nXXXX XXXX XXXXXXXX"
+}

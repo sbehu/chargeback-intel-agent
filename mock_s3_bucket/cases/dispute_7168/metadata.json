@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7168",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94043"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28877,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint Regarding Mishandled Fraudulent Transactions Citi Credit Card Dear CFPB, I am writing to formally file a complaint regarding how Citibank has handled a series of fraudulent transactions on my Citi credit card between XXXX and XX/XX/year>2025. \n\nI do not use this credit card frequently. In late XXXX, after relocating from XXXX XXXX to the XXXX XXXX, I logged into my account to update my address and noticed multiple unauthorized charges. These transactions were all made at gas stations, with unusually high amounts that I would never authorize. \n\nI immediately contacted Citi customer service on XX/XX/year>2025, to report and dispute all transactions from XXXX through XXXX. After reviewing the charges in more detail, I realized that only a few parking fees were legitimate ; the restall fuel purchaseswere fraudulent. I called Citi again to clarify this and to confirm that I had not authorized those gas station transactions. \n\nOn XX/XX/year>2025, I followed up again as instructed by Citi. During that call, I was asked several questions, and I clearly stated the following : I did not make any of the disputed purchases. \n\nNo one else has access to my card. \n\nNo family member used my card without my knowledge. \n\nNo one has access to my PIN. \n\nDespite providing all this information, I was shocked to find that Citi has labeled these charges as customer responsible in my accountwithout notifying me, without requesting additional clarification, and without providing any supporting evidence for this decision. \n\nThis experience has been deeply frustrating and humiliating. My physical card has remained in my possession at all times, and I have never visited the gas stations where these charges were made. Despite this, I am being held responsible for thousands of dollars in fraudulent transactions. Citi has failed to provide any meaningful communication, transparency, or explanation for this decision. Furthermore, they appear to have disregarded their own XXXX Liability policy, which is meant to protect customers from unauthorized charges when fraud is promptly reported, as I did. \n\nHere is a list of the disputed transactions : XX/XX/year>2025 XXXX # XXXX, XXXX XXXX, CA {$170.00} XX/XX/year>2025 XXXX XXXX XXXX, XXXX XXXX, CA {$200.00} XX/XX/scrub> 2025 XXXX XXXX XXXX, XXXX XXXX, CA {$190.00} XXXX XXXX, 2025 XXXX XXXX XXXX, XXXX XXXX, CA {$130.00} XX/XX/year>2025 XXXX XXXX XXXX, XXXX XXXX, CA {$110.00} XX/XX/year>2025 XXXX XXXX XXXX, XXXX XXXX, CA {$99.00} XXXX XXXX, 2025 XXXX XXXX XXXX, XXXX XXXX, CA {$54.00} XX/XX/year>2025 XXXX XXXX XXXX, XXXX XXXX, CA {$100.00} XX/XX/scrub> 2025 XXXX XXXX XXXX, XXXX XXXX, CA {$140.00} XX/XX/scrub> 2025 XXXX XXXX XXXX, XXXX XXXX, CA {$190.00} I am seeking your assistance in holding Citi accountable for the mishandling of this fraud investigation. I expect a fair and thorough review of my case, clear communication from the bank, and the reversal of these unauthorized charges. \n\nThank you for your attention to this matter. \n\nI will call them again, but I am also eager to get help from CFPB. I have also filed a police report, the number is XXXX from XXXX"
+}

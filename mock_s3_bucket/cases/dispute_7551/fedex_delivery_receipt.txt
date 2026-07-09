@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-40526496-US
+Shipment Date:   2026-03-11T00:00:00Z
+Delivery Date:   2026-03-18T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     8811 MAPLE DR, FL, 328XX
+============================================================

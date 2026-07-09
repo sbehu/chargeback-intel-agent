@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6518",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11418"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2828,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Someone got my Macy 's credit card and activated it without me knowing. Spent over {$600.00} on my card."
+}

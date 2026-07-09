@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8887",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "UT",
+    "complaint_zip": "84405"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15523,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "What happened : I am disputing a fraudulent balance transfer that was moved from my former XXXX XXXXXXXX XXXX XXXX to my current Citi credit card. The underlying debtoriginally {$12000.00} and now $ XXXXwas created through forged documents submitted by a third party named XXXX XXXX XXXX \n\nIn XXXX I authorized a purchase for a property service that was never completed. When the merchant failed to deliver, I disputed the charge with XXXX as goods and services not provided. \nAfter that dispute, the merchant submitted a forged DocuSign lease agreement and completion report. These documents contain a copy-pasted image of my DocuSign signature and were never executed in my DocuSign account ; they have no valid audit trail or Certificate of Completion. \n\nDespite my police report ( XXXX XXXX Sheriff # XXXX ) and my FTC Identity-Theft Report, XXXX reinstated the charge using the forged paperwork. I later transferred the balance to Citi to secure a 0 % APR promotion while continuing to contest the fraud. The balance therefore originated from identity theft, forgery, and an unresolved billing error under the Fair Credit Billing Act ( 15 U.S.C. 1666 ). \n\nXXXX has now closed its CFPB case ( # XXXX ) without producing verifiable authorization records such as the original DocuSign envelope metadata or audit trail. Citi now holds and reports this same fraudulent balance. \n\n\nSupporting documents provided : Police Report # XXXX FTC Identity-Theft Report ( XXXX ) XXXX XXXX XXXX DocuSign comparison XXXX correspondence ( XX/XX/XXXX ) Certified-mail receipts and timeline summary This complaint is not about payment delinquency but about a fraudulent transferred debt that originated from forged merchant documents. I am asking Citi to conduct a reasonable, verifiable investigation and remove the invalid balance if authenticity can not be proven."
+}

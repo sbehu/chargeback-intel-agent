@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3383",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90069"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40001,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Our company citibusiness credit card number ( not physical card ) was stolen and used to make several fraudulent purchases in XXXX ( we are in the USA ) between XX/XX/year> and XX/XX/year>. We called Citibank and reported the charges to be fraudulent. They conducted an investigation and determined that these charges are customer responsibility even though they are clearly fraudulent. Citibank even cancelled and replaced the card. When we called to follow up on why there would be no fraud credit the agent refused to give any further information and said nothing could be done. We have never had this experience before so just seeing if there is something else we can do."
+}

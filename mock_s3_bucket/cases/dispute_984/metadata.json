@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_984",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78739"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31067,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My name is XXXX XXXX XXXX and this is regarding charges to a Citi XXXX credit account account. \n\nThis is in regard to XXXX tickets for a rebooked flight on XXXX XXXX. Instead of the rebooking fee and fare difference, I was charged the full amount of both the initial flights AND the full amount of the new flights even though I only took the second flight and even though what I agreed to was a \" rebooking ''. \n\nHere is what I was charged on XX/XX/XXXX : {$220.00} XXXX XXXX cost of the original flight from XXXX XXXX XXXX XXXX XXXX XX/XX/XXXX : {$66.00} x XXXX rebooking fee {$310.00} x XXXX cost of the new flight from XXXX to XXXX I took the flight from XXXX to XXXX. \n\nXXXX XXXX XXXX position always has been that that {$310.00} is the difference ON TOP the old flight of {$220.00}, which would make the new flight {$530.00} per person for their basic math to make any sense. In reality, the new flight was only approximately {$83.00} more than the old flight. There was never a flight that was {$530.00} for me to even agree to on that day between those cities. Every invoice and receipt they have sent me says the new flight was {$310.00} ( or {$83.00} more than {$220.00} ) and NOTHING they have given me has had this {$530.00} number on it which is the only way their math would make sense. \n\nI have contacted XXXX XXXX over XXXX times. I have also emailed and sent paper copies of my issue to Citi. XXXX XXXX responded to the Citi about the rebooking fee, which was not even the charge under dispute. XXXX XXXX has never responded about the actual charge. \n\nI contacted Citi again after Citi closed the dispute. Citi says the terms and conditions allowed the merchant to charge whatever they want as long as I said I agreed to it. I did not agree to it, but XXXX XXXX  claims I did. \n\nCiti accepted the merchant 's rebuttal and sent me a letter saying \" We have determined that the services for which you contracted were provided ''. They are not letting me continue this process any further. This is absolutely unacceptable."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1622",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89178"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13901,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/2023 : I purchased from XXXX ( the company ) FOR {$110.00}. \nXX/XX/2023 : I contacted the company through live chat to inform them I received my order, the flowers ( goods ), requesting for a full refund on order XXXX. I sent them photo evidence of the goods. They offered a redelivery and a coupon. I ended the conversation. \nXX/XX/2023 : I contacted the company again, hoping for a different answer. This time I indicated I was not interested in a redelivery because the occasion has passed. I was only interested in a full refund. They returned with a 50 % credit and a coupon. Again, I was only interested in a full refund, so I did not take their offer. \nXX/XX/2023 : I filed a dispute with my credit card, American Express ( the credit card ), in hopes of getting a full refund. Reference Number : XXXX. The credit card issued a provisional credit of {$110.00} while they investigated. \nXX/XX/2023 : The credit card rebilled my account and issued a letter to me. In the letter, the credit card said \" the merchant [ ... ] provided documentation indicating, if product delivered was defective, it could've been denied the delivery or returned it, however no such action was taken and item was not returned. '' Flowers are perishable goods that were delivered in a cardboard box. I can not see into the box without opening it, thus, there's no way for me to return delivery. Additionally, the company did not offer to have me return the perishable goods nor agree with the full refund though their website and the product page indicated \" Satisfaction Guaranteed ''. I was not satisfied. \n\nI have made XXXX attempts to resolve the issue with the merchant, XXXX. They were contacted via live chat, as provided with the opening of the dispute, on XX/XX/2023 XXXX hours and again at XXXX hours. In both occasions, the representative of the merchant did not request for the return of the flowers and instead, offered a re-delivery along with coupons. Additionally, nowhere on their website or live chat showed an address to return the flowers. Since the merchant has made no requirement nor expectation on the return of the flowers with their absence of a return address in any form of communication, it is a moot argument to be used to re-bill the transaction. \n\nThe recipient of the flowers can not refuse delivery of the flowers because they are a perishable item and the box has already been opened. XXXX does not allow deliveries to be refused if they are opened. Since the flowers were packaged in a cardboard box, there is no way for the recipient of the flowers to know the quality without opening it. \n\nThe merchant has not made good faith in upholding their promise of fresh flowers or their 100 % Smile Guarantee. Because of that, I implore you to reverse the charges on my account since they do not have a viable argument and have not kept their promises."
+}

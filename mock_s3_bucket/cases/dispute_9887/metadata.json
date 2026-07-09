@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9887",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11210"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10698,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased the following items under Invoice # XXXX : XXXX XXXX Qty XXXX {$3300.00} XXXX XXXX Qty XXXX {$1500.00} Total : {$4800.00} I did not receive these items. I contacted the merchant 7 days after the expected delivery date ( XX/XX/year> ). After a delay, the merchant responded via email stating that the items were discontinued and no longer available, and that they had accepted the loss associated with the dispute, effectively leaving me without the goods or a refund. \nI have submitted all correspondence and supporting proof of this issue to AMEX. Despite this, my dispute remains unresolved."
+}

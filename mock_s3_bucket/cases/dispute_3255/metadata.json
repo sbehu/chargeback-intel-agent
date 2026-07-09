@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3255",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94607"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37590,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX They had remove the money off of my account the original dispute. \nWhen I went to my account somedays later, it reappeared on my account I inquired what's going on, they said they did an investigation determine I was responsible I wrote them a letter explain to them I never been to Kentucky nor the XXXX XXXX XXXX XXXX I dont gamble, They did not do a thorough job of looking into the matter, didnt check with the airlines to see if I had traveled there.You can see on the documents sent to me, the wrong phone number and e-mail address are not mine."
+}

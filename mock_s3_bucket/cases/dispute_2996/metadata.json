@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2996",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "194XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9651,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I went to XXXX XXXX XXXX  located at XXXX XXXX XXXX, XXXX XXXX, LA XXXX ( phone : ( XXXX ) XXXX ) on XX/XX/XXXXXX/XX/XXXX with an initial pretip charge of {$45.00} on my CITI bank credit card. The final charge from the merchant on my card was {$500.00}, which is greater than any reasonable tip. \n\nI tried contacting the merchant, XXXX XXXX XXXX, via phone call, email, XXXX, and XXXX for resolution or a copy of the receipt for the purchase. I did not receive a response from them through any form of communication. \n\nFollowing that I disputed the charge with CITI bank online and through certified mail. The company decided that I was responsible for the charge since I can not get a receipt despite my communication about the noncooperation of the original merchant to provide a receipt. The bank did not contact the merchant themselves for more information."
+}

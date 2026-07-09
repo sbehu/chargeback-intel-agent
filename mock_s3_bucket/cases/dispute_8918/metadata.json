@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8918",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "346XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45946,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased XXXX sets of doors at XXXX. I had an issue with the XXXX x XXXX door after my handyman installed it. I noticed damage on each corner, which did not appear to be from shipping but rather from how the doors were molded, since the same damage is on the same corner of each panel. I tried to resolve this by filing a dispute with XXXX XXXX, processed by Citibank. I received a call, but I dont recall the exact date, from XXXX XXXX stating they had no record of my complaint and offered to let me return the doors. The problem is I paid the handyman, and I would have to pay him again to remove and reinstall new doorsan unfair situation. The product was damaged, and I want to file a dispute since the service was not delivered. I havent received any response from XXXX XXXX or a denial of my dispute. I believe Citibank is violating Reg XXXX because I did not receive a provisional credit, nor was I offered any alternative except to return the doors and get a replacement, which is unreasonable because I would have to pay XXXX times for removal, replacement, and installation."
+}

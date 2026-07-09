@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12134",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "011XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46598,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a charge of XXXX. XXXX on my Macys card that I reported to Macys as fraud. After I made the report in XXXX, XXXX, it took the company from XX/XX/year> when I reported to the end of the year to sent me their decision after multiple calls from me. When Macys finally got the case resolved, they wanted me to pay the late fees and interest on the unresolved amount during the investigation period. I told them they told me to wait while they resolved the fraud so why am I paying late fees and interest. They have reported my account to the credit bureau and send the Account to collections currently.they are not willing to do anything about it. All I wanted this whole XXXX was for the company to resolve the fraud purchase and let me pay the actual amount I owe them on the card. Now I am being charged for their delay and incorrect information provided to me."
+}

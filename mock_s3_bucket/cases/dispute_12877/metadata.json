@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12877",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77089"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8511,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding my regular Macys card. I have been unable to view my transactions online for the current billing cycle, and my online statement is not reflecting my most recent activity. I am attaching screenshots showing the online account activity errors, including messages stating You have no transactions to view at this time and We encountered a problem processing your request. Please try again later. \n\nBecause of this, I can not properly verify charges, monitor my balance, or confirm that my account is accurate. This is especially concerning because I have previously found billing errors on my account. Access to current transaction information is essential so I can review my charges before making payment. I contacted customer service on XX/XX/year> regarding this issue, but it still has not been resolved. \n\nMy bill is due on XX/XX/year>, and this issue is still lingering as that due date approaches. I want this matter resolved well before my bill is due and before I make payment, so I can verify the accuracy of my account. \n\nI am requesting that the company restore accurate online transaction visibility for my regular Macys card, ensure that my online statement and account activity reflect recent transactions correctly, investigate and correct any related billing or account servicing issues, and provide a prompt written response before my upcoming payment due date."
+}

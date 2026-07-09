@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1811",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98531"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40179,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Disputed charge for concert tickets in XXXX- took several months before charge was reversed - letter was sent confirming this, so this is not in dispute any longer, though this was more work than it should have been. In the meantime, interest was accrued and late charges were applied for XXXX, XXXX, XXXX. Called every month and were assured that interest and charges would be reversed, but to-date statements continue to be sent with increasing balances and a collection agency has now started to call. This is distressing for consumers in their XXXX and beginning to affect their health when clearly they did not buy concert tickets in a foreign country. One agent tried to state they would waive the interest and late fees as a courtesy, when it is a regulatory requirement, not something that should be done in courtesy. \n\nInterest and late charges need to be reversed, and the Sears/CitiBank credit card closed XXXX it has not been used- the only charge was verified as fraud and reversed."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1214",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7205"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46119,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I disputed fradulent charges by XXXX on my credit account that occured in XXXX. These charges were fradulent because I did not receive the services for which the charges were for. There were two fradulent charges for the same exact reservation for {$1200.00} and {$1000.00}. \n\nAs of today, XX/XX/XXXX my billing dispute is still not resolved after countless calls, emails back and forth, collecting of evidence, and more. \n\nFurthermore, I recently called Citibank this week and they told me it is too far past the date of the transaction to continue the dispute, when it has been actively been disputed since XXXX. Every request for information or evidence from Citibank, I have responded to. \n\nIt is absolutely ridiculous for a dispute process to not be resolved after almost XXXX  months from the transaction date. As a consumer, I did everything in my power to ensure this process went as smoothly as possible. Citi Bank has totally failed me as a customer, and made me lose trust in them, as they did not appropriately protect me from fraud."
+}

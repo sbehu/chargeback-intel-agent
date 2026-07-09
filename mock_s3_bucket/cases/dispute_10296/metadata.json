@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10296",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30328"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19221,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Citis handling of a billing dispute that was denied multiple times despite clear merchant nonperformance. \n\nI purchased two nightstands from XXXX using my Citi credit card. After delivery and assembly, both items were visibly damaged and scratched. I immediately contacted XXXX customer service and spoke with a manager, who acknowledged the damage. The manager offered a partial discount if I kept the items, which I declined because I purchased new furniture and did not want damaged merchandise. \n\nXXXX then arranged for a freight pickup to retrieve the damaged items due to their size and weight. A pickup was scheduled, but no carrier arrived. I contacted XXXX again and was told another pickup would be arranged ; again, no one came. Despite repeated attempts on my part, XXXX failed to retrieve the defective merchandise. \n\nImportantly, I remained within XXXX return window throughout this process. The return deadline had not expired, and I can provide a screenshot showing that the order was still eligible for return. XXXX  failure to retrieve the items prevented me from completing the return. \n\nCiti denied my dispute, classifying the issue as a manufacturers warranty matter. This is incorrect. I am not seeking repair or replacement under a warranty. This dispute involves defective merchandise and the merchants failure to perform an agreed return pickup. \n\nI acted in good faith and made reasonable efforts to resolve the issue directly with the merchant. Citis denial reflects a misapplication of chargeback protections related to merchant nonperformance. I am requesting executive-level review and appropriate correction of this billing decision."
+}

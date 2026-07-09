@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13524",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90028"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16608,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding American Expresss improper handling of a billing dispute related to a hotel booking made through XXXX. \n\nThe charge in question is dated XX/XX/year>, for a stay at XXXX XXXX XXXX. \n\nDuring this stay, I experienced significant service failures, including denial of basic accommodations, lack of housekeeping, and hostile treatment by hotel staff. I was also pressured to sign documentation that did not accurately reflect my checkout date. Due to these conditions, I was forced to check out early on XX/XX/XXXX, despite having a confirmed reservation through XX/XX/XXXX. \n\nI reported these issues in real time ( including on XX/XX/XXXX and XX/XX/XXXX ). However, XXXX later provided information indicating that no such contact occurred, which is factually incorrect. \n\nAmerican Express denied my dispute while relying on this inaccurate or incomplete information and without conducting a fair and thorough investigation.\n\nI believe this constitutes improper dispute handling and a failure to meet reasonable standards of fairness and consumer protection.\n\nThis matter is not only about the financial loss for the unused portion of the stay, but also about the principle of fair treatment and accurate evaluation of disputes.\n\nI am requesting : 1. Immediate reopening and reassessment of the dispute 2. A full refund for the unused portion of the charge 3. A clear explanation of how the dispute was evaluated and denied I expect this matter to be reviewed properly and resolved in a fair and reasonable manner."
+}

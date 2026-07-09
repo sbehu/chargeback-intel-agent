@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2058",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95120"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34579,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My citi card was charge {$7.00} by XXXX on XX/XX/XXXX and {$220.00} by XXXX XXXX transfer and {$360.00} by XXXX XXXX XXXX both on XX/XX/XXXX. I was on a Airline flight to XXXX on XX/XX/XXXX. I called the credit card from XXXX on XXXX and disputed the charges. The dispute did not show up on my account so I called again on XX/XX/XXXX and was told I did not dispute the charges so I then disputed the charges again. On XX/XX/XXXX I again called citi card fraud to ask why they had not opened a dispute and the told me again I had to call fraud and dispute the charges. They now show that they will not overturn the charges online and whenever I call I get the runaround from one phone number to another with no resolution. I have had this credit card for 25 years and have never transferred money in any way and these are not my charges."
+}

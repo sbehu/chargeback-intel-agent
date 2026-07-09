@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7824",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95111"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20497,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had fraudulent transactions and have been issued permanent credit which total {$960.00}. I stopped using the card and gave the negative balance on my account for over 2 months. I called in to request and was transferred from customer care to security fraud department and back and forth with a waiting on hold for over 2 hours. I requested for a manager and they out me on hold over 30 minutes and came back the line disconnected. I called back in yo go through all the process again with verifying my account with multiple questions and transferred me back and forth, refused to offer service. My account is in good standing and I paid my bill on time. With automatic payment, I wasnt awarded of the fraud activities and was billed monthly. Investigated and permanent credit, not honoring my right by law to get a refund so I could pay my bill from another credit card. I was bullied from technical support and have waited over 3 hours. How can a company have unethical business practice to aggravated the stress I already endured with their part to failed to protect cardholder. I did not get a text for any purchases made on my card as I setup alerts for it, and having to deal with this cruel customer services.\n\nI am desperate need your help. \n\nSincerely, XXXX XXXX"
+}

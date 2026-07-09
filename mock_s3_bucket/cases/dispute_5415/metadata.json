@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5415",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32259"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29984,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, my Home Depot card was used fraudulently while I was several XXXX miles away in XXXX XXXX, GA. I was contacted by Citigroup about it, and informed them that I was not XXXX XXXX XXXX, and they began their fraud process. I have called in several times requesting they remove the charges while they are processing the fraud, and have several times been assured it would be removed in XXXX hours. It has now been almost 2 months. I am attaching receipts showing I was in XXXX XXXX between XX/XX/XXXX and XX/XX/XXXX."
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-85257879-US
+Shipment Date:   2026-03-13T00:00:00Z
+Delivery Date:   2026-03-19T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9000 HERITAGE AVE, OK, 74133
+============================================================

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9630",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48375"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28083,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "EVERYTHING BELOW HAS BEEN CHARGED TO MY MACYS CREDIT CARD AND I CAN NOT GET HELP CREDITING THE CARD ( s ) ... I have 3 concerns with Macys ... 1st Concern is I ordered 17 days ago ( XX/XX/XXXX ) a coat that has been delayed 3 times, there is no information as to where the coat is other than a XXXX tracking which tells me nothing and customer service and the credit card department will not do anything to find the product or credit my card on file {$68.00}. 2nd Concern is foreign customer support told me to discard the robe I received that was defective, no one has refunded this amount to my credit card {$31.00} and Macys keeps sending emails stating if I do not return the product, I will be charged, the robe was thrown away as I was told to do by XXXX  customer support. 3rd Concern is air purifiers I ordered on XX/XX/XXXX, when they arrived, I refused them and there were received back to the third party warehouse on XX/XX/XXXX. Since this time I have sent at least 3 emails to the CEO XXXX XXXX, called customer service several times 6-8, called the credit department several times 3-5 to include XX/XX/year> for 38 minutes and no one is doing anything to give me the refund back to my Macys credit card in the amount of {$170.00}. In the emails sent to Macys corporate I expressed problems with customer support and I needed help from corporate resolutions so what do I get, any email from them telling me to reach out to customer service after I told them in detail of the problems. Macys owes me a total of {$270.00} that I know of and I need to talk with someone that will go over all my credits back to the card ( s ) to make sure I am not missing anything other credits. THIS IS A REAL PROBLEM WHEN THE CEO IGNORES ALL OF THESE CONCERNS AND SENDS NO ONE TO HELP OTHER THAN TO TELL ME TO GO TO THE VERY DEPARTMENTS THAT ARE PROBLEMATIC. I have two Macys card and they are also not crediting the cards correctly, they pick at random and put a credit where ever they want. I am also getting charged interest for these mistakes. I HAVE A MACYS CREDIT CARD AND A MACYS XXXX XXXX XXXX XXXX, THEY ARE BOTH WRONG AS TO WHERE THE CREDITS WENT, MOSTLY TO THE REGULAR MACYS CARD."
+}

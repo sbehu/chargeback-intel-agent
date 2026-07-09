@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1141",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1960"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28116,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX and XXXX, There were 2 unauthorized charges on my goodyear credit card. \nThis account had been hijacked and a hacker used it to make unauthorized purchases. \n\nI notified XXXX on XX/XX/XXXX when I noticed these bogus charges and told them what happened. I also closed my account with them on that same day. \n\nCiti Goodyear decided I was at fault and refused to dismiss the charges.\n\nI've attached the letter I was sent. \n\n\n\nI can not afford to pay this fraudulent charge. What recourse do I have?"
+}

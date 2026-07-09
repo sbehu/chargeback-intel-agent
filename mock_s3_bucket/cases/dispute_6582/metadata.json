@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6582",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13807,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was contacted by my credit card 's fraud department ( Barclays, Aviator Aadvantage Mastercard ) about a charge that seemed suspicious. It was for XXXX XXXX, which I did not authorize, and I was told the charge was declined. However, there were also 2 other pending charges that I did not initiate. One was for XXXX ( {$1500.00} ) and one for XXXX XXXX ( {$190.00} ). I reported both as fraud and was told they would remove them from my account temporarily while they investigated. On XX/XX/XXXX, I noticed the XXXX XXXX and XXXX charges were back on my statement, and the XXXX charge was now listed 2 times for that same amount of {$1500.00}. I called the fraud dept but they were closed for the holiday weekend. I reached out today, XX/XX/XXXX, for an update. They told me they could delete the second XXXX charge because it was a mistake ( why did this happen in the first place? ) but that the XXXX and XXXX XXXX charges were denied with no reason given into the investigation. I have been a customer for years and have always paid promptly and never had an issue until now. They did not even send me a message to state that the investigation was complete, or what the findings were. I had to call and ask, and also point out their mistake of listing the XXXX charge twice, a charge I did not even make! These charges were also made in XXXX, DE, according to my statement. I live in XXXX. I attempted to dispute both charges again and it looks like only the XXXX XXXX charge is under investigation again, but no word on the XXXX charge. I am now on the hook for {$1700.00} in charges I did not make or authorize."
+}

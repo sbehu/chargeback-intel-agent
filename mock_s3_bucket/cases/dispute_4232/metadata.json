@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4232",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90723"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1145,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Account Ending # XXXX Disputes ID # XXXX {$1000.00} Disputes ID # XXXX {$2800.00} Subject : Dispute of Merchant Response for Transactions XXXX a n d XXXX Dear Citibank Dispute Resolution Team, I hope this letter finds you well. I am writing to formally contest the merchant 's response regarding the disputes associated with the following transactions : XXXX and XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. Despite the merchant 's assertion, I have not received any goods or services related to these transactions. Furthermore, I did not sign for any items, nor have I received any communication from the merchant confirming the delivery or fulfillment of my order. \n\nTo support my case, I am enclosing a copy of the police report I filed, which clearly indicates that the merchant has failed to uphold their end of the agreement. This document serves as evidence of my claim and underscores my position that these transactions were not authorized as I did not receive the promised items. \n\nI kindly request that you review the evidence provided and reconsider the decision based on the merchant 's response. I believe that the facts clearly demonstrate that these charges are invalid and should be reversed. \nThank you for your attention to this matter. I look forward to your prompt response and resolution of my dispute. \nPlease feel free to contact me at XXXX or XXXX if you require any further information. \nS i n c e r e l y, XXXX XXXX"
+}

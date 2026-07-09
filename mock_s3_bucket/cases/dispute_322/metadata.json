@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_322",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "20105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37481,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have filed a transaction dispute with CitiBank for the case where I returned the item to the merchant and the merchant did not refund the money back to my credit card. \nCiti Reference Number : XXXX for the dispute XXXX I opened with XXXX vendor in XX/XX/2023 for the amount of {$3900.00} despite. \n\nI have provided all required documentation to CitiBank that the device was returned within the return period in compliance with return policy. CitiBank did not even attempt to resolve the dispute and just informed me that the merchant is not willing to credit back the money to my credit card. CitiBank did not protect my rights as the client, disregarded all submitted proof and did not hold the merchant accountable for dishonest and fraudulent behavior!!!! It seems that no one at CitiBank even went through the documentation and relied on the merchant unwillingness to refund the money back, which is illegal as per the terms and conditions of the credit card! I request CitiBank to hold the merchant accountable and debit the full amount back to my credit card, which the bank should comply with."
+}

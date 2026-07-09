@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5103",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21237"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43902,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a formal complaint against American Express regarding two disputed charges with a merchant \" XXXX XXXX '' that have not been adequately resolved. \n\nI recently disputed two charges made by a merchant due to the fact that I did not receive any goods/services for my money and have since got blocked and ignored by this merchant. The two charges were {$25000.00} ( charged on XXXX ) and {$9000.00} ( charged on XXXX ) and were for mentorship programs/courses for XXXX XXXX XXXX XXXX XXXX XXXX XXXX I disputed these both XXXX and American Express later informed me that the merchant allegedly responded to their inquiry regarding these charges. However, the merchant has ceased communication with me entirely, and I have been unable to reach them myself. At first, when I chatted with an American Express representative on their app their reasoning was \" merchant stated that they have delivered your item '' but, on the actual dispute letter they stated that they have taken the side of the merchant claiming that no goods/services were involved, despite again the merchant not responding to me and all the evidence I provided to prove it. Their reasoning for not giving me the refund was very inconsistent to me, but I provided evidence to prove any and all of their reasonings wrong. \n\nWhen I requested the details of the merchants response from American Express, I was told that they could not disclose this information to me. This lack of transparency is frustrating and prevents me from fully understanding the basis of their response and exploring further options if necessary. Since, there was no action or justice being served there, I then, became desperate and asked the payment terminal \" XXXX XXXX '' which the merchant used to see if they could help. But, I was also ignored and neglected by their customer service which was so hard to reach to begin with since they only have a number, no email, as most agents claimed that this was an issue with my creditor now. \n\nI am requesting that the CFPB investigate this matter and assist in resolving this issue, as I believe my ability to reach a satisfactory resolution with both American Express and the merchant has been compromised. \n\nThank you for your attention to this matter. I look forward to your assistance in resolving this complaint. \n\nAll Documents Will Be Attached Below, Including Timelines and Attempts of resolving this through AMEX and the Merchant."
+}

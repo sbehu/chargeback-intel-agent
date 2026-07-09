@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10190",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "75206"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23466,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am formally escalating an unresolved refund that has now been pending for over XXXX months, despite repeated follow-ups ( XXXX calls with American Express XXXX XXXX XXXX Travel . I was charged for a reservation on XX/XX/2025 at The XXXX Hotel in XXXX through American Express Travel. I canceled the reservation within the cancellation window in XXXX of 2025 and I was told by American Express I would see the refund in XXXX days. When the refund did not process in XXXX days I called and was told XXXX weeks. Ive proceeded to be told the refund in is process, been asked to file multiple claims with American Express that have repeatedly denied within less than XXXXXXXX XXXX due to the timeframe from The original charge. It has been 8 months since I canceled this reservation and American Express has still not refunded me the over {$1000.00} I am owed. American Express has failed to exercise reasonable care in handling this matter, resulting in prolonged non-resolution and financial harm.This is terrible customer service for a company who claims membership has its privileges. After over XXXX years as a loyal American Express user, I am questioning whether my loyalty is warranted. \n\n\nTransaction date : XX/XX/2025 Merchant name : XXXX XXXX Amount : {$600.00}, {$600.00} ( total of {$1200.00} ) Dispute / case number ( XXXX ) : XXXX, XXXX"
+}

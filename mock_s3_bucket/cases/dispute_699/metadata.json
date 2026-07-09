@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_699",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "17036"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5432,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Best Buy card didnt use it and I didnt receive any statements on my address for more than XXXX years. XXXX sent me message saying Best Buy closed with balance XXXX $ and Im not responsible for these transactions. I tied to open my account and I found different address not my new address and didnt phone number. I tried for more than two month calling the bank but no one solve it and they ask me making a payment for something I didnt use."
+}

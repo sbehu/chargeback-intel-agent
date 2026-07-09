@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11508",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98107"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12340,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Re : Amex Dispute Ref. XXXX XX/XX/XXXX : I filed a billing dispute with American Express regarding a {$5100.00} charge from XXXX XXXX  XXXX XXXX. The charge was a prepayment for alleged vehicle damage following an accident. Despite repeated requests over approximately three months, XXXX XXXX failed to provide documentation showing the actual repair costs or a final invoice. I initiated the dispute to remove the charge and avoid ongoing interest accrual. \n\nXX/XX/XXXX : American Express initially resolved the dispute in my favor and issued a credit. However, they later reversed the decision and re-billed the charge, stating that I had an open rental car insurance claim through my American Express XXXX card benefits. This insurance claim had been filed only as a contingency in case XXXX ultimately provided repair documentation, which never occurred. I was not seeking duplicate reimbursement. \n\nXX/XX/XXXX Present : I reopened the billing dispute on XX/XX/XXXX. Since then, American Express has repeatedly delayed the stated resolution date first from XX/XX/XXXX to XX/XX/XXXX, and most recently to XX/XX/XXXX. Despite multiple calls requesting clarification ( most recently on XX/XX/XXXX ), American Express has provided no substantive explanation for these delays. The original dispute was resolved in approximately one month, and I have been given no clear reason why this refiled dispute remains unresolved."
+}

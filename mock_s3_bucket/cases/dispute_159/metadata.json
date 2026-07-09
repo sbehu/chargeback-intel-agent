@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_159",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30022"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11404,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I attempted to return a phone to XXXX for a refund. I received an e-mail from XXXX that the refund was denied because the box was empty ( which they had a picture of ). I called XXXX customer care and the agent reviewed the video and the shipping details and assured me that a refund would be provided because the shipping weight of the package showed that the phone was stolen in transit. On XX/XX/XXXX, I received an e-mail from XXXX saying they would not refund due to it being an empty box. I mentioned to them the shipping weight conversation, but they declined to refund and told me to file a claim with XXXX. When I contacted XXXX, they told me the payor of the shipping label had to file the claim. When I responded to XXXX with this information, they no longer responded. \n\nI filed a dispute with American Express with documentation that included evidence of the shipping weights. Despite this, American Express ' response was that I was responsible due to the empty box, and that if I had any proof I had shipped the phone, I should provide it. \n\nI reopened the dispute with American Express and once again provided documentation of the shipping weights. This time, American Express response was that I was responsible because the shipping weight was heavier than XXXX expected. This is in direct contradiction to the first response that it was an empty box! \n\nI reopened the dispute once again pointing out that these XXXX responses were in direct contradiction. American Express responded that I was responsible unless I had proof that XXXX had promised a refund ( alluding to the initial call I had with XXXX ). \n\nAmerican Express did not investigate my dispute in good faith, and keeps changing what proof I need to provide, and has put the onus on me as a single customer to prove that I had returned the phone despite XXXX being a XXXX XXXXXXXX company that has the ability to file a claim with XXXX, and also the ability to track/brick stolen phones."
+}

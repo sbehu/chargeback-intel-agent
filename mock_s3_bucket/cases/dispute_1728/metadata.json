@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1728",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33905"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42888,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am being billed by Citibank/Wayfair for items which had been promptly returned. They also have tried to ruin my credit rating by daily submission of reports under different logos of theirs to credit agencies that II owe them money to bring down my credit rating. My rating It was always in the middle XXXX 's, as I always paid my bills on time, & now is in the XXXX 's because of only their daily false charges. They had removed some these charges but still are reporting this & billing me for items that were returned. I believe they were parts of items on their invoice XXXX. \n\nI am XXXX and my husband has just passed away & I really need your help in resolving this matter. The items ordered had to be canceled because I had go out of town on an emergency last XXXX. The items that were delivered & returned before I left were not opened as I did not know whether they were the parts of either a bed or dresser & could not be there to receive the rest of the order. I returned them via XXXX  # XXXX, XXXX & XXXX."
+}

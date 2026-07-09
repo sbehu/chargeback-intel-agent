@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9654",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "11235"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39640,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this statement to formally dispute a re-charge that appeared on my American Express account on XX/XX/XXXX related to XXXX Order # XXXX, for merchandise that was never delivered to me. \n\nBelow is a chronological summary of events : 1. XX/XX/XXXX I placed an order with XXXX. The order confirmation email indicated an estimated delivery date of XX/XX/XXXX. \n2. XX/XX/XXXX I received a notification from XXXX stating that Order # XXXX was delayed. \n3. XX/XX/XXXX After not receiving the merchandise, I filed a Merchandise Not Received claim with XXXX. A case was opened under Claim Number XXXX. \n4. XX/XX/XXXX XXXX notified me that the Merchandise Not Received claim was approved for Order # XXXX. \n5. XX/XX/XXXX I received confirmation from XXXX that the case was complete, and a refund was issued for the undelivered items. \n6. XX/XX/XXXX I noticed a re-charge for this order on my American Express account. \n7. Upon contacting American Express, I was provided with a tracking number indicating that the package was allegedly delivered on XX/XX/XXXX at XXXX XXXX. \n8. I reviewed footage from my XXXX security camera covering the alleged delivery time. The footage clearly shows that no delivery driver and no delivery vehicle appeared at my residence at that time. I have image evidence from my XXXX camera to support this. I provided this image to Amex when I submitted my last dispute and the dispute was denied the same day it was submitted. \n9. On XX/XX/XXXX, I also contacted XXXX  directly regarding this shipment ; however, XXXX advised me that they would only discuss the matter with the shipper and that only the shipper is authorized to file a claim with XXXX  for this delivery. \nAdditional details : The tracking information does not include a signature confirmation. \nThe merchandise was not delivered to my provided home address. \nI checked with my neighbors, and no one received the package on my behalf. \n\n\nTo be clear, this is a non-receipt of goods, not an assumption of theft. I did not receive the items, and no proof of receipt ( signature, delivery photo, or confirmation to me ) has been provided. \n\nUnder applicable consumer-protection and FTC regulations XXXX the merchant is responsible for delivery of goods until they are actually received by the customer. A carrier delivered scan alone does not constitute proof of receipt. \n\nGiven the approved merchandise-not-received claim, the lack of signature confirmation, the absence of delivery evidence, and the security camera footage disproving delivery, I am disputing this re-charge and respectfully request that it be reversed."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11869",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "GA",
+    "complaint_zip": "30458"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44278,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a charge of {$240.00} from XXXX dated XX/XX/2026. The merchant instructed me to return the item, which I did. The return was shipped and successfully delivered on XX/XX/2026 and signed by XXXX, and I have proof of delivery. \n\nI provided this documentation to Citibank during the dispute process. I was initially informed that my case would be reopened and resolved within XXXX business days. However, after following up, I was told the timeframe had passed and the dispute would not be reconsidered. \n\nDespite returning the item and providing proof, I did not receive a refund. I am requesting that the dispute be reopened and the charge be credited based on the confirmed return and delivery."
+}

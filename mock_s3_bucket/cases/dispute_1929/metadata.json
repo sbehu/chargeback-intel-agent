@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1929",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22006,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I submitted complaint XXXX. I am now filing a new complaint to follow up on the same matter given that Banana Republic Rewards MASTERCARD - BARCLAYS has NOT adjusted the OVERCHARGE. It sent a letter with an opaque and unsatisfactory explanation. A merchant charged and provided a receipt for a particular amount and Mastercard Barclays is charging {$280.00} in excess of such charge with no explanation. In addition, Mastercard Barclays is charging {$410.00} as an additional foreign transaction fee. The communication of such excessive charge is far from clear or evident in its credit card agreement. In Mastercard Barclays ' last letter dated XX/XX/XXXX, it provides a contact number should one have questions. I have called this number, and unfortunately no person answers. I have left messages and am awaiting a response. I fear that I will receive more of the same type of opaque response. I have been following up on this matter since XXXX XXXX, XXXX. The institution makes it very hard for a client to resolve a dispute. I can not help but ask what is its true intention! PLEASE HELP. Thank you, XXXX XXXX XXXX"
+}

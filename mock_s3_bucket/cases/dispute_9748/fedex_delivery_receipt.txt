@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-94739378-US
+Shipment Date:   2026-03-07T00:00:00Z
+Delivery Date:   2026-03-12T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     3528 SUNSET WAY, CA, 90504
+============================================================

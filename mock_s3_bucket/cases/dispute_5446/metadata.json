@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5446",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19147"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30406,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I attempted to resolve a dispute with the Merchant, XXXX XXXX, a resort I booked using my American Express card. The resort advertises itself as a five-star establishment, but the accommodations and services provided were severely misrepresented and failed to meet basic hygiene and safety standards. \n\nDuring my stay from XX/XX/XXXX - XX/XX/XXXX, I encountered serious health hazards, including : Bug infestation in the bed, which resulted in severe bites requiring medical attention. \nMold in the room and unchanged dirty sheets, despite multiple requests. \nLack of clean towels, inedible food, and failure to provide essential services. \nOn XX/XX/XXXX, at XXXX XXXX, my partner and I spoke with a resort employee, XXXX XXXX, who was in the management office. We detailed our concerns, but he stated that he could not issue a refund, despite the resorts failure to provide a habitable environment. Instead, he offered us a dinner reservation at the XXXX  inadequate response given that the resort is all-inclusive and the restaurant had already provided poor service. \n\nSince the resort refused to take action, I filed a dispute with American Express for the amount of {$1400.00}, citing breach of contract and misrepresentation. However, AmEx denied my dispute without addressing the core issues. XXXX XXXX response failed to acknowledge any of my serious health and hygiene concernsinstead, they only referenced the XXXX  closing early and even misgendered me, demonstrating a lack of proper investigation into my complaint. \n\nAs a loyal American Express cardholder since XXXX, I expect my credit card company to protect me from merchants who fail to uphold their contractual obligations. I pay a significant annual fee for this level of service, yet I was left completely unprotected despite clear evidence of misconduct by the merchant. \n\nI am filing this complaint to formally escalate my issue, as American Express failed to advocate for me and did not provide a satisfactory explanation for their decision. I would like a full review of my dispute and an acknowledgment of the failure to properly investigate my claim."
+}

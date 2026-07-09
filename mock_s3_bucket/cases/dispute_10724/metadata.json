@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10724",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60431"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36565,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been in contact with the institution 6 times since I saw the unauthorized transactions on XX/XX/XXXX. Filed a claim. They missed charges. Called back. Said it was all done. Now I have a charge that appears to have been omitted from the claim even though I specifically mentioned it. I now have a payment due on this. Not my charge. Tried to call yesterday. Disconnected twice. No callback. Hours and hours spent on something relatively simple and its clear someone obtained my card info. My husband works for a financial institution and has never seen anything like this. This needs to be resolved and your internal processes evaluated. The charge is from XXXX for approx XXXX XXXX."
+}

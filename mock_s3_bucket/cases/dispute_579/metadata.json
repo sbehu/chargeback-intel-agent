@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_579",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "284XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43677,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "It was brought to my attention the charges from XX/XX/XXXX ( XXXX XXXX ) and XX/XX/XXXX ( XXXX XXXX XXXX XXXX ) have been charged back to my account after your internal investigation. I have provided evidence that I was in fact home those two days and was NOT in XXXX, Georgia. Evidence includes XXXX XXXX camera still shots ( of me and my wife ), dated and timestamped, my stay history with XXXX and XXXX, text messages from XXXX who was onsite purchasing a vehicle from my family, and emails showing I was working with a contractor in my town regarding fieldwork. \n\nFinally, I personally called both hotels who verified the card was NOT physically used at the locations. \n\n\nCharges include the following : XX/XX/2023 {$190.00} @ XXXX XXXX  XXXX GA XX/XX/2023 {$190.00} @ XXXX XXXX  XXXX GA XX/XX/2023 {$320.00} @ XXXX XXXX XXXX XXXX XXXX XXXX GA XX/XX/2023 {$220.00} @ XXXX XXXX XXXX XXXX XXXX XXXX GA"
+}

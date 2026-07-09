@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3024",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93561"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11220,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order on XXXX for {$200.00} for birthday party decor for my son XXXX  birthday. On XX/XX/year>24 the tracking number stated that my package had been picked up. I contacted usps and they could not confirm a signature of the person who picked up my package and all the information that they could Provide was that their system indicated the package had been picked up. I contacted XXXX and they were unwilling to reship or refund me. I then opened a dispute with the credit card company that I used to make this purchase, thinking that I would be covered under Federal Trade Commission since I DID NOT RECEIVE products that I purchased. Citibank investigated and based off of what the merchant ( XXXX ) provided them, they ruled that I am still responsible. I am not sure what else to do, Im extremely frustrated that i am out this money and nobody will help. I also dont know what more I can do to prove that I did not receive my package. HORRIBLE customer service from Citi bank as well as XXXX. The tracking number states delivered, but if it was truly delivered to the correct person like the tracking number shows I wouldnt be disputing any charges!!!!! So much for protection!!!"
+}

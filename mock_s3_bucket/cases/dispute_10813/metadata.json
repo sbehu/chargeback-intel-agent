@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10813",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30319"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45307,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased event tickets totaling {$1300.00} using my American Express Delta XXXX XXXX for a XXXX XXXX XXXX yacht event scheduled for XX/XX/year>. \n\nThe event promoter hosted two separate yacht events occurring simultaneously on the same date and time. Upon realizing the ticket purchased was for the incorrect yacht, I contacted the merchant on XX/XX/year>. During that call, I was advised to purchase the correct tickets and was told the original tickets would be refunded. Relying on that representation, I immediately purchased replacement tickets totaling {$1400.00}. \n\nThe merchant later refused to issue a refund for the original {$1300.00} transaction and classified it as a no-show, despite it being impossible to attend two simultaneous events. \n\nI filed a dispute with American Express under services not rendered. The dispute was resolved in the merchants favor. I requested reconsideration ( Dispute References XXXX and XXXX ), but American Express maintained the denial , stating that written confirmation of a refund was required. \n\nMy complaint is not based solely on a refund promise. The core issue is merchant misrepresentation and impossibility of performance. The original service could not be rendered because the merchant directed me to purchase alternate tickets for a concurrent event. Even absent a written refund confirmation, it is factually impossible for a consumer to attend two simultaneous events. \n\nI believe American Express improperly categorized and evaluated this dispute under a refund/no-show framework rather than under services not rendered or merchant misrepresentation. I am requesting regulatory review of American Expresss dispute handling and a reversal of the {$1300.00} charge."
+}

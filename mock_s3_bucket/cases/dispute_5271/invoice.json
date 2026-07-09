@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-101284",
+  "invoice_date": "2026-03-10T00:00:00Z",
+  "amount_cents": 42867,
+  "currency": "USD",
+  "billing_address": "2897 Cedar Ave, CA, 95820"
+}

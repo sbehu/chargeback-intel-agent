@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8053",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34232"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21333,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I used my XXXX American Express card at an XXXX gas station in XXXX, XXXX ( XXXX XXXX XXXX ). The station uses a pre-authorization system. \n- XXXX, a XXXX pre-authorization failed. \n- On the second attempt, I successfully fueled once for XXXX ( {$40.00} ). I have a pump photo showing XXXX liters dispensed. \n- However, an additional XXXX ( {$59.00} ) pre-authorization was incorrectly captured as a final charge, even though no fuel was dispensed for this transaction. The system does not issue receipts for failed/unused pre-authorizations, so no receipt exists for the XXXX error. \n- My rental car ( license plate XXXX ) was returned immediately after fueling, confirming I only needed to refuel once. \n\nI submitted this evidence to American Express multiple times ( pump photo, transaction comparison, written explanation, rental car number, card statement ). Despite this, American Express rebilled me for both charges and told me to contact the merchant myself. \n\nThis is not a merchant dispute it is a billing error under the XXXX Credit Billing Act and Regulation Z. My agreement is with American Express, and they are required to investigate and resolve billing errors on my behalf. \n\nI accept the XXXX charge as valid. I am disputing only the XXXX duplicate charge, which remains unresolved."
+}

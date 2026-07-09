@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9039",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "55414"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8778,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX 2025, I was a XXXX monthly subscription customer. XXXX incorrectly charged me an unexpected increase of {$200.00} for the Loss Damage Waiver ( LDW ). I immediately contacted XXXX and was told by their customer service that this amount would be refunded and that the billing issue was a system error, not my fault. \n\nHowever, XXXX never issued the refund they promised. Since the overcharge remained unresolved for weeks, I filed a legitimate dispute with American Express, which was later resolved in my favor by Amex after their investigation. \n\nAfter the dispute was resolved, XXXX placed me on their internal Blocked List, refused to renew my subscription, and demanded that I reverse the chargebackeven though the chargeback was the result of their own billing error and failure to issue the refund they promised in writing. \n\nXXXX also provided conflicting explanations to different parties : In emails to me, they acknowledged the charge was a system error and promised a refund. \nIn their XXXX response, they claimed the charge was valid and insisted I owed them money. \nThey also told XXXX that they had a discount workaround, but they never communicated this to me before the dispute and never applied any recurring discount on my invoices. \n\nTheir actions appear retaliatory, misleading, and harmful to consumers. Blocking my account and demanding reversal of a valid chargeback is inappropriate and has disrupted my transportation plans. Their accounting department has ignored my emails for weeks. \n\nI believe this behavior constitutes unfair billing practices, retaliation for filing a chargeback, and misrepresentation of charges."
+}

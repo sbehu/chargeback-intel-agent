@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3834",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "MN",
+    "complaint_zip": "550XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41252,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX My family & I went on vacation to XXXX. When leaving the airport we were randomly picked for a Property search by customs They said we had items that we were bringing in their country that we had to pay tax on. They said an enormous amount of money like XXXX and some dollars, my husband was trying to Communicate with the custom officer that spoke barely any XXXX we asked to talk to a supervisor. The supervisor ( XXXX XXXX ) came and told us that we were only to pay {$49.00}. While my husband was talking to the supervisor our XXXX XXXX  daughter was playing on her phone the other officers start yelling at her no phone no phone demanding to see the pictures & video she took she & I both tried to explain she did not take pictures or a video she was on XXXX. They said if anyone took out a phone again, we would all go to jail. \nThe supervisor said the tax charge, it was all in misunderstanding. My husband took out cash to pay him & tried to hand him a XXXX bill and he said no no, you cant pay with cash .My husband said OK then so theyd be no problem Writing on the sales receipt only valid for {$49.00}. XXXX XXXX XXXX said absolutely you can so my husband wrote it on our receipt and their receipt after we were rung up but before we were rung up XXXX XXXX talk to the gentleman that spoke very little English ( the 1st officer that told us XXXX and some dollars ) and then left bf we were rung up. In the meantime, there was a couple standing behind us that they were trying to charge {$600.00} because they brought two laptops into the country. One was a personal laptop and one was a work laptop. There was someone else coming to talk to them too. This was a very uncomfortable situation. There was all kinds of officers around.We felt Uncomfortable there was no cell phones allowed signs everywhere. There were cameras everywhere It felt like we were being booked to go to jail. I explained all this to Citi over and over again that anything over {$49.00} was a fraudulent charge that we only agreed to {$49.00} being charged on the card because that is what the supervisor told us, anything over that was fraud. we could not use our phone to look up a conversion rate I did not realize what we were actually charged until I was in the cargo van on the way to the hotel which I called Citi immediately and told him it was fraudulent. I have worked with Citi since XX/XX/XXXX. It is now XX/XX/XXXX and the dispute is still not resolved I think its very important that you offices see the document I have. The last time I spoke with Citi was by phone and that was in numerous times in XXXX and they said they were going to give me a conditional credit because I ask, how can they make me pay on a balance that is in Dispute when that is the only amount due, the amount was back in dispute as of XXXX and has never left the Dispute title on there website, I believe XX/XX/XXXX is the last day I physically sent an email and more documentation But back to the phone Conversations between Citi XXXX card and I in XXXX Citi XXXX card told they were waiting on XXXX XXXX to contact them And that they would put the disputed amount back in a conditional credit. And like I said its still showing that its disputed that the dispute is in progress and then it also says on their website that it should be resolved no later than XX/XX/XXXX and they never gave me the conditional credit by law how long do we have to wait for XXXX international to contact them and how long does Citi XXXX card have to resolve this dispute.Can they just leave it in dispute status forever. This was a fraudulent charge. I am not paying interest on the charge at least only because the card is still on a promo of interest-free, but soon interest will start accruing."
+}

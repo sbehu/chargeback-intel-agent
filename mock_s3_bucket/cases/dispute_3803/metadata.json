@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3803",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46222"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41228,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX, I did open this account with Wyndham for a Barclay 's Credit Card due to plans to possibly upgrade my contract. Well, I chose not to upgrade and I left the presentation. My newlywed husband stayed on for the rest of the presentation to learn more about Wyndham.\n\nMy husband ended up signing a contract with Wyndham by scamming him into thinking he was getting a great deal, yet what they did was put a {$11000.00} charge on this new credit card I didn't even have yet. I was not even there at the time the contract was signed.\n\nI disputed this charge with Barclays and they denied and said I would have to reach out to Wyndham. I wrote them back and demanded that they show me evidence that I authorized this charge. That was in the beginning of XXXX and I have not heard back from them."
+}

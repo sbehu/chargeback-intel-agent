@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4090",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "847XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a refrigerator from Home Depot in XXXX XXXX  on XXXX XX/XX/year> using the Home Depot credit card. The refrigerator was brand new, but did not work upon delivery. The Home Depot sent a repairman twice and scheduled a third repair visit over the next four weeks. I contacted the store assistant XXXX, XXXX, who arranged for a return and full refund. The refrigerator was picked up by a XXXX XXXX crew by XXXX XXXX. The first payment for the returned refrigerator was due on XXXX XXXX. I received a notice on XXXX XXXX that a payment was past due for the refrigerator that was returned the end of XXXX. I immediately went to the XXXX store and XXXX contacted the credit card company. He assured me that the issue was fully resolved and apologized for the inconvenience. I then received another past due notice by email on XXXX XXXX for the refrigerator that was returned the end of XXXX. I again went immediately to the store and a store associate contacted the credit card company. The Home Depot credit card company waived one late fee but insisted I pay a {$29.00} late fee for a purchase that was returned prior to the billing due date. They also would not assure me that no adverse credit reporting occurred as a result of their delayed crediting of the returned refrigerator."
+}

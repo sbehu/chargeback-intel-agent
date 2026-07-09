@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2183",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "064XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49565,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My family was traveling to XXXX, XXXX where the incident took place. My sons were enjoying the local nightlife when, in the early hours of the morning on XX/XX/2023 at XXXX  XXXX XXXX, my sons credit cards were stolen and used without their permission. They were in a satchel attached to their waist and they do not know how it happened. The amounts in question are below : XXXX  XXXX XXXX {$550.00} on my son XXXX 's card {$130.00} on my son XXXX 's card {$33.00} on my son XXXX 's card The credit card company itself was the one who alerted me, the account holder, to possible fraudulent activity when this happened, and they called me. I did not know what was going on at the time and may have said the purchases were okay initially because I assumed my sons were just purchasing things while they were out on vacation and we could not get a hold of each other due to the limited cellphone service while abroad. Once we spoke as a family and understood the situation some days later, we reported the fraud to Barclaycard and they conducted an investigation and found us responsible for a transaction we DID NOT AUTHORIZE OR EVEN KNOW ABOUT. \n\nI have made it crystal clear thru subsequent repeated conversations to Barclays Bank Fraud Investigations Unit that these purchases were made without our authorization or knowledge and this is plain fraud. \n\nThey asked for a police report and I was not able to acquire one while there due to our travel schedule and also due to the fact that we did not immediately know what was going on. Once we left XXXX and the area, it was impossible to attain one as we do not speak XXXX  and XXXX police officers do not speak XXXX. Also, the long distance calling charges we would incur would probably equal the amount of the claim. If Barclays wants to facilitate a police report for us, we would be happy to report the incident. I am at the end of my rope. They have not responded to repeated requests to speak with the individual conducting our investigation and I am tired of them making this complicated and wasting my time. My sons also had their other credit cards, XXXX, used fraudulently, and those fraudulent transactions were refunded immediately with just a quick phone call and explanation of what transpired."
+}

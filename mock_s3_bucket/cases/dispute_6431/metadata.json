@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6431",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "804XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28619,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX I reported 4 unauthorized charges on our Citi bank credit card account. This was 4 hours after the fraudulent charges were made. It was a case of Identity theft. The charges were still pending. The amount of these charges came to {$17000.00}. They said they would take care of them. However, nothing was done on their part. \nI filed a report with the XXXX XXXX police department, the XXXX credit bureaus, XXXX, Identity Theft, and States Attorney Office. I also contacted all XXXX places of business of the purchases. \nXX/XX/XXXX was notified by Citi bank that the dispute was closed and we are responsible for the charges as we provided your account number for the transactions. In no way did I provide my credit card information to the XXXX businesses-they were unauthorized transactions. \nCiti Bank policy stars when unauthorized transactions on your Citi consumer debt or credit cards are promptly reported, you wont be held responsible for those purchases."
+}

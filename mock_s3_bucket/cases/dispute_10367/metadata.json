@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10367",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7164,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citis handling of a dispute on my Citi credit card account related to XXXX  XXXX in the amount of {$30.00}. Timeline : XX/XX/2026 : I opened a dispute because I paid XXXX XXXX but the service was not provided. Citi opened the dispute and issued a conditional credit. XX/XX/2026 : XXXX  XXXX temporarily restored the service, so I withdrew the dispute in good faith. XX/XX/2026 : XXXX  XXXX  stopped the service again even though I had prepaid for the month. I contacted Citi and asked Citi to reopen the dispute/case. XX/XX/2026 : Citi sent a letter claiming Citi credited my account twice by mistake and therefore rebilled {$30.00} to correct Citis error, and stated the conditional credit was reversed because the investigation was complete. This explanation is not accurate for my situation, because Citi also charged me twice related to this transaction. I did not receive the prepaid service, and Citis dispute handling and billing adjustments have been inconsistent and incorrect. I have tried to resolve this in good faith, including withdrawing the dispute when the service was restored. I am requesting that Citi correct the billing, properly review the dispute based on the fact that the prepaid service was not provided for the month, and fix any duplicate charge/credit postings."
+}

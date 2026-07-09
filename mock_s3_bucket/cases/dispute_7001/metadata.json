@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7001",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38045,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a {$5000.00} charge on my Citibank credit card ( last four digits : XXXX  ) from a company called XXXXXXXX XXXX XXXX XXXX. \nI canceled the service in writing before it began and requested a refund on XX/XX/year>. I never accessed any platform or services. \n\nCitibank accepted my dispute under Case ID XXXX, but no reversal was issued. I was told it wou\n\nld resolve in 7 business days. Its been longer, and Im now being pressured to pay a charge for services never rendered. I have supporting documentation including email cancellation, merchant refusal, contract terms, and screenshots. I believe this delay violates my rights under the Fair Credit Billing Act and am requesting immediate CFPB intervention."
+}

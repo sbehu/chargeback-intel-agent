@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6438",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11554"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32371,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "While on the way to the XXXX XXXX airport to return our rental car, we stopped at a gas station to refill the tank as required. A gas station attendant asked how much fuel we wanted ; the cardholder requested a full tank and handed over the credit card for payment. The attendant processed the transaction manually, took the card, and inserted the card into a chip reader from what I believe, then returned the card along with a receipt of the charge in the amount of {$18.00}. Please note the attendant wasnt in eye view when processing the charge. No further purchases were made with the card, as we headed straight to the airport for our flight. \n\nWhile returning home, we noticed a charge that immediately appeared to us as fraudulent. We promptly initiated a dispute, which was unfortunately overturned by Barclays twice. \n\nAfter the card was closed, multiple attempted charges appeared, which indicate efforts to test the cards activity and usability. These attempts were acknowledged by the Barclays fraud representative I spoke with when reopening the dispute, though they are no longer visible on my transaction screen. \n\nI did not authorize the charge of {$520.00} from XXXX XXXX XXXX XXXX XXXX and XXXX presence does not equal my authorization. Barclays did not provide evidence that proves otherwise other than saying my chip was present. \n\nPlease let me know if any further information or documentation is required. I appreciate your help in resolving this matter promptly and fairly. \n\nSincerely, XXXX XXXX"
+}

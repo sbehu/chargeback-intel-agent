@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1315",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "3060"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19273,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, while on vacation in XXXX XXXX, I purchased a vacation club membership from XXXX XXXX XXXX XXXX. For the purchase I used four different credit cards and the rest was put on a new credit account ( {$4000.00} ) through Barclays Bank in XXXX DE. \nAfter doing some research on the vacation club I decided that this was not a good purchase for me and under XXXX consumer protection act I had five business days to return the club membership. \nI returned to the office XXXX XX/XX/XXXX and had everything credited back to my accounts. However at the time Barclays Bank had not processed the account yet. \nXXXX XXXX XXXX XXXX XXXX up a letter stating that I had terminated the purchase agreement and returned all of my charges. \nAfter returning back home I called all of my credit lenders stating that I had terminated the agreement and that they should be removed. After the investigation all charges were removed except for Barclays Bank. \nAfter receiving my account information I called them ( Fraud dept. ) immediately to let them know that this account should not have been created. At the time I did not realize it was going to be an issue so I did not write down the actual date. I called again about three weeks later and they said it was still under investigation. I waited another three weeks and made another call and the representative suggested I speak to the charge dispute dept. \nUpon speaking with them they requested any information that supported my claim. I faxed them the letter stating that I had terminated the agreement that was written by XXXX XXXX. \nAbout 2 months later I received a letter stating that my claim was declined because it was past their 90 day policy. They suggested I reopen the claim and fax any relevant information to support my claim. I did as requested and received the same letter about a month later. \nI called them back again and they refused to help me any further because the company policy states they can not support a claim past 90 days. I informed them that I did call before that 90 day window, I was just put in the wrong dept. For claims processing. The representative said they can see that I filed a fraud claim on my account but was not able to help me any further and suggested I take them to court despite sending them receipts and a letter from the actual company making the initial charge."
+}

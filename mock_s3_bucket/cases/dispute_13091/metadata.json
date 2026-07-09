@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13091",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "786XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20758,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I reported three fraudulent charges on my Citi credit card ending in XXXX : XXXX XXXX XXXX XXXX {$48.00} XXXX XXXX XXXX XXXX {$60.00} XXXX XXXX XXXX XXXX {$60.00} After I reported the fraud, I received provisional credits and the card was closed. Citi then issued me a replacement card ending in XXXX. \n\nOnce I activated the new card, these same three fraudulent charges appeared again on the replacement account for whatever reason XXXX $ less per transaction. Because of this, my account now shows a balance of {$170.00} for transactions that I did not make and have already reported as fraud.\n\nOver the past month, I have called Citi customer service three separate times trying to get this resolved. Each time, I was told that I am not responsible for these charges. The problem is that the balance is still on my account. I have also tried submitting disputes through both the Citi mobile app and the website, but nothing has been corrected. I have also emailed them at XXXX hoping to get a resolution as well.\n\nAt this point, it has been more than a month since I first reported these charges. I have done everything I can on my end, and I should not have to continue spending time following up on fraudulent transactions that were already reported and credited once before.\n\nThank you for your time, and I look forward to a prompt resolution."
+}

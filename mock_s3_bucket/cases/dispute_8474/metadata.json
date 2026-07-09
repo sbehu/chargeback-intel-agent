@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8474",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "242XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30845,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a hotel stay for 2 nights in advance while traveling for a funeral. XX/XX/XXXX - XX/XX/XXXX. Upon arrival, my card was charged {$270.00} for the room which included a {$100.00} room deposit. The room was uninhabitable ( non locking windows, dirty floors, sheets, etc. ) and immediately asked for another room or refund. No other rooms were available, so a refund was requested. The front desk receptionist stated that it would be in the morning when the manager arrived, but the refund would be honored. At this point, I went across town and booked another room with the same card. After the check out time on XX/XX/XXXX i received my {$100.00} deposit back, but not the remaining XXXX. I contacted the hotel and asked about the refund and was told that \" She didn't leave us a note, so we didn't know you left and cant refund you ''. So i contacted my credit card company ( Citi ) and disputed the charge. Citi credited XXXX back account to the account for the entire charge. After roughly 2 months of dispute work on the credit card side, they sided with the merchant without any explanation other than the rental agreement attached. I contacted Cit and went over the agreement with them. The rep could not find any reason why i would have been charged, however said she couldn't help me unless they had something else to upload to the case, as it was handled by a 3rd party and they would just close it again. I explained that due to the nature of the fraudulent charge, i had no supporting evidence of a cancelation. So in order to have something to submit for a rebuttal I filed a police report with local PD and emailed that info to Citi. The next business day the charge was added back to my account. I have since paid the {$100.00} I owed and left the remaining {$170.00}, and closed the account at this time."
+}

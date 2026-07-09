@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6316",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46300,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was apart of an elaborate scam by a company called XXXX or XXXX that affected thousands of people and millions of dollars were stolen in total. I submitted many disputes for SERVICES NOT RECEIVED. My main concern is with 7 charges of {$1900.00} each. XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX \n\nI submitted disputes for all charges against this merchant on XX/XX/XXXX. Citi closed my disputes on XX/XX/XXXX due to \" not responding to a letter asking for more information ''. I NEVER received a letter in the mail, online, over the phone, or through the app asking for this information. I told Citi this and they said I can send in evidence and they MIGHT re-open the dispute. \n\nI submitted the evidence on XX/XX/XXXX and XXXX and Citi said they will \" look into it ''. \n\nOther disputes I had against this merchant were closed in the merchant 's favor by Citi due to LIES AND FRAUD and not the reason why I submitted a dispute for. There are thousands of people being affected by this and Citi has been nothing but UNHELPFUL during the process. I would like them to actually sit down and read the EVIDENCE that I ( and thousands of others ) have been SCAMMED for thousands of dollars."
+}

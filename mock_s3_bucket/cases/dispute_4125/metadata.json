@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4125",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "352XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46345,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I paid XXXX online for a prepaid non-refundable hotel booking for XXXX XXXX XXXX using my Citi Aadvantage credit card. It cost me {$520.00}. The day I was to arrive, I contacted the hotel and found out they had closed down due to the crowdstrike outage. They could not take clients. They told me they would refund the amount but all of this conversation was not written down. I never received a refund after contacting XXXX multiple times. I disputed on my Citi credit card ( Dispute Reference : XXXX ) for services not rendered. XXXX responded by saying that the original booking was non-refundable. And provided evidence of it. Which is true. However, it is irrelevant because the booking was cancelled by the hotel. I have called the citi dispute time multiple times. Every time the agent assures me if I just provide a written statement or something else it will get resolved. I have provided them a written statement. The receipt for the hotel I had to stay in over the same dates as an alternative. I also included an email from the hotel accountant who acknowledged they need to refund me. Every time the dispute people come back and say I have not proven to them it was not non-refundable. It's like there are two different teams, the one I talk to who assure me in the dispute resolution call center that it will be fine, and the people who send me the letters saying it isn't fine. Citi have closed the dispute and are refusing to refund me the money."
+}

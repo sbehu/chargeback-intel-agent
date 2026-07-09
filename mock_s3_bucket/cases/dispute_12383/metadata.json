@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12383",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90019"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2535,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks handling of a credit card dispute involving a merchants refusal to honor its published return policy. \n\nI attempted to return merchandise within the merchants stated 30-day return period and complied with all requested conditions, including providing photos of the original packaging. Despite this, the merchant refused to provide a return label or permit the return process to proceed. \n\nCitibank denied the dispute because I still possess the merchandise and because the merchant declined to issue credit. However, I only retain possession because the merchant refused to facilitate the return after my timely request. \n\nMy concern is that neither the merchant nor Citibank addressed the central issue : the merchant prevented the return from occurring while simultaneously relying on my continued possession of the item as justification to deny the refund. \n\nCitibank also stated that no further options are available due to elapsed time, despite the fact that my return request was made within the merchants stated return period. \n\nI am requesting a supervisory review of whether Citi reasonably evaluated the merchants refusal to facilitate a timely return under its advertised policy. \n\nAdditional documentation attached to this complaint directly contradicts the merchants representations made to Citibank during the dispute process. \n\nThe merchant stated to Citibank that return labels had been provided and that they were willing to process a refund upon return of the merchandise. However, the attached live chat screenshots from XX/XX/year> show the opposite. \n\nIn the screenshots : I informed the merchant that I had the original packaging and provided the requested packaging photos The merchant stated they would not be processing a return The merchant closed the request entirely No return label was provided These communications occurred within the merchants published 30-day return period. \n\nMy concern is that Citibank relied on inaccurate or incomplete merchant representations during the dispute review process, while disregarding evidence showing that the merchant denied the return outright during the valid return window."
+}

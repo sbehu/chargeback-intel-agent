@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6156",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90640"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11687,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a {$360.00} charge from XXXX on XX/XX/year>, made on my American Express credit card ( account ending in XXXX, reference number XXXX ). The item, an air purifier, was never received. \nAmerican Express has denied my dispute five times, claiming the merchant provided proof of delivery. However, the provided delivery documentation is factually impossible : The item is too large to fit in my community mailbox. I uploaded photo evidence showing the mailbox size and the product dimensions. \nUSPS claimed the item was delivered into the mailbox and obtained a signature, but the signature is not mine and appears to be an electronic forgery. \nI live in the XXXXXXXX XXXX XXXX ( developed by XXXX XXXX XXXX XXXX ), where all mail is delivered to a centralized mailbox station 3 minutes away from my home. I was home the entire day of the supposed delivery and never received the package. \nDespite providing full documentation, Amex keeps instructing me to open a new dispute each time, only to reject it again. I feel this is dismissive, and no fair investigation has taken place. I am now escalating this case to the CFPB in hopes of a proper review and resolution. \nI am requesting a full refund of {$360.00}."
+}

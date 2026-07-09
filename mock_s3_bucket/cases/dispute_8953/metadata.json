@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8953",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "GA",
+    "complaint_zip": "30062"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39757,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary ( full document with proof is attached ) : XXXX cancelled my reservation without my permission rather than fix the air conditioning. \nI have proof that they cancelled - both written/chat and phone call recordings. \nCiti Bank was provided this information within XXXX weeks of the dispute and never properly reviewed this information. They sided with XXXX, saying that I did not cancel according to policy but I never cancelled. They are the ones that cancelled and left me stranded in a foreign country. \n\nI have made repeated calls to Citi Bank and initially they claimed I submitted too much information and that was why it was not reviewed. The second call the representative claimed it was not processed correctly. The third call they claimed that I had not submitted enough information in a timely manner and that is why I was turned down. I have proof that it was gathered and submitted in a timely manner and recordings of all the calls with Citi Bank providing me with conflicting information. \n\nIn both situations I followed all policies and did everything I could to remedy this situation but neither XXXX nor Citi Bank has assisted me in reclaiming the thousands of dollars lost due to XXXX 's error, let alone the extra costs of hotels and food while I was stranded."
+}

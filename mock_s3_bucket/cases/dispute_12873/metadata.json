@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12873",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96822"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41283,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding a billing error dispute involving approximately {$5000.00} in unauthorized credit card charges that the issuer has improperly classified as authorized without conducting a reasonable investigation. \n\nOn or about XX/XX/XXXX, I was contacted by the companys fraud department regarding suspicious transactions at XXXX XXXX and XXXX. During that call, I clearly stated that I did not authorize or make any of those transactions. I have always maintained physical possession of my credit card, and it was never lost, stolen, or shared with any third party. \n\nThe company closed my card and opened a dispute. Shortly thereafter, they issued a provisional credit for the disputed amount, indicating that the activity was potentially fraudulent. \n\nHowever, within several days, the company reversed the provisional credit. The sole justification provided was that the card contains a chip and therefore the transactions must have been authorized. No specific evidence or documentation was provided to support this conclusion, such as whether the transactions were card-present or card-not-present, authorization or response codes, merchant verification, or any technical or forensic data. \n\nI subsequently filed a complaint with the CFPB, before which the company reopened the investigation. Despite this, their most recent response dated XX/XX/XXXX again denied my claim, relying on the same unsupported assertion that the transactions were authorized, without providing any evidence or demonstrating that a reasonable investigation was conducted. \n\nI was not present at the merchant locations, did not participate in these transactions, and received no benefit from them. I also filed a police report ( Report XXXX. XXXX ), regarding this matter. \n\nUnder the Fair Credit Billing Act ( FCBA ) and Regulation Z, once a consumer reports unauthorized charges, the issuer is required to conduct a reasonable investigation and can not rely solely on the presence of chip technology or an authorization code to determine liability. The company has failed to meet this obligation."
+}

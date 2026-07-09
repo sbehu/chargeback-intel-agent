@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4126",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "OH",
+    "complaint_zip": "441XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46373,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to file a complaint against Citibank regarding their failure to resolve a dispute concerning an unauthorized charge from XXXX XXXX. \nOn XX/XX/year> I rented a vehicle from XXXX XXXX. I returned the vehicle on XX/XX/year>, as agreed. However, I was subsequently charged in the amount of {$58.00} for an additional day, Saturday XX/XX/year> which was incorrect as I had already returned the vehicle. \nUpon discovering the unauthorized charge, I contacted XXXX XXXX. Staff members XXXX and XXXX confirmed the error and assured me that a refund would be issued. Despite their assurances, I did not receive a refund from XXXX. \nI then filed a dispute with Citibank, explaining the situation and providing documentation of my communication with XXXX. However, Citibank concluded that the dispute was my responsibility, without providing a clear explanation or evidence to support this decision. \nI requested that Citibank provide me with the response from XXXX to their dispute investigation. To date, I have not received this information. \nI have attempted to resolve this matter directly with XXXX today on XX/XX/year>. I visited the XXXX location where I rented the vehicle and spoke with XXXX. She acknowledged the error and stated that she would issue a refund. However, this matter hasnt reached a resolution as of today yet. The phone number of this local XXXX XXXX  at XXXX Oh branch is ( XXXX ) XXXX. Citibank could call this number directly to verify my circumstances while their ongoing investigation. \nI believe that Citibank has failed to conduct a thorough investigation into this matter and has not acted in good faith. I have provided all necessary information to support my claim, and I have been consistent in my explanation of the situation. \nI am requesting that the Financial Consumer Protection Bureau investigate this matter and take appropriate action to hold Citibank accountable for their failure to resolve this dispute.\n\nThank you for your attention to this urgent matter. \nSincerely, XXXX"
+}

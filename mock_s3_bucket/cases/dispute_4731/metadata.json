@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4731",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91913"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32586,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have returned the watch and the sale associate confirmed the returned. I still did not receive my refund. The company responded saying I sent coffee and cup which was a surprise gift I even gave to the store personally. The XXXX label also says watch on my shipment."
+}

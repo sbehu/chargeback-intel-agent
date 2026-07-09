@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1572",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "18702"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5139,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Back on XX/XX/23 my credit card was used for about a week multiple times for unknown user and unauthorized. Took the credit cards company about a week to realize that the use on my card was suspicious. After two months of investigation they came up with I was responsible for those transactions because my card was used at the time of the transaction. My card maybe cloned because I didnt do does transactions. I requested to speak with a supervisor an its been a month and I still waiting, I filed a police report and the credit card company its getting back to me with that information. I have been trying to get in touch with the person investigating unsuccessfully despite my multiple tries."
+}

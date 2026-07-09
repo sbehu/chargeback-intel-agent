@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3202",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33928"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39443,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a transaction from XXXX XXXX XXXX XXXXXXXX FL that was made on XX/XX/year> in the amount of {$290.00}. Citi closed the dispute stating that the merchant already gave me a credit for this transaction. I contacted Citi seven times, explaining each time that the credit issued was for a different transaction that was made on XX/XX/year>, and that credit was issued on XX/XX/year>. The disputed charge was made on XX/XX/year>, twenty days AFTER the credit was issued for the prior charge. I have called Citi twice, chatted on their website twice, and sent three emails. That is a total of SEVEN times I have contacted Citi about their mistake, and the charge is still on my account. I even sent Citi the return confirmation for the XX/XX/XXXX charge, proving I am entitled to my refund, and they still have not re-opened this dispute. This is a common occurrence with Citi, and it should not be tolerated."
+}

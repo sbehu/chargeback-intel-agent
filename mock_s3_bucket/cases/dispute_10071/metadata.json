@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10071",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92563"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19485,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Citibank , N.A . \nProduct : Credit card Issue : Billing dispute / credit card charge dispute Dispute ID XXXX Account ending : XXXX I am filing a complaint regarding Citibanks handling of a credit card dispute involving an airline-canceled flight. \n\nI purchased an XXXX XXXX XXXX ticket on XX/XX/year> for {$5200.00}. XXXX XXXX later canceled flight XXXX ( XXXX  ) on my itinerary. I did not travel o\n\nn the canceled flight, and the transportation service I purchased was not provided.\n\nI disputed the charge with Citi. During the investigation, XXXX XXXX submitted only a generic transaction record proving that the charge was authorized. The merchant did not dispute that the flight was canceled, did not claim the flight operated, and did not provide evidence that I was transported or that I accepted rebooking. \n\nDespite this, Citi denied the dispute and reversed the conditional credit, stating that the merchants cancellation/return policy was not followed. This applies an incorrect standard. Once an airline cancels a flight, refund eligibility is governed by merchant non-performance and U.S. Department of Transportation rules, not fare-based cancellation policies.\n\nI submitted written rebuttal explaining this and documenting the airlines cancellation, but Citi reversed the credit without addressing merchant non-performance or responding to the rebuttal.\n\nI am requesting that Citi : Reevaluate the dispute under the correct standard ( merchant failure to provide services due to carrier cancellation ), and Reinstate the credit of {$3200.00}, representing the unused portion of the ticket after prior partial credits.\n\nI am not disputing authorization of the charge. I am disputing non-delivery of the purchased transportation service after airline cancellation."
+}

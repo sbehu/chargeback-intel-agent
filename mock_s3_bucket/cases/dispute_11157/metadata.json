@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11157",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10098,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Escalation of Case # XXXX Citi Reference Number : XXXX I am filing an escalated complaint against Citibank for failing to conduct a reasonable investigation into my disputed charge of {$160.00}. Citi wrongfully denied my dispute based on easily disprovable factual errors regarding my return to XXXX ( XXXX # XXXX ). \n\nCitis denial letter stated XXXX incorrect claims, which my provided evidence clearly refutes : - Citi 's Claim : \" The return was sent to \" XXXX '', not a XXXX facility. '' \" XXXX '' on the provided return shipping label stands for \" XXXX XXXX XXXX XXXX ''. The shipping label explicitly lists the delivery address as XXXX XXXX XXXX XXXX, XXXXXXXX XXXX XXXXXXXX. This is a verified, official XXXX XXXX XXXX. \n\n- Citi 's Claim : \" The order numbers on the documentation do not match. '' All documentation, including the original receipt, return authorization, and the physical XXXX  label, reference the exact same order number : XXXX. XXXX  internal system occasionally prints the number without the hyphen ( XXXX ), but it is unequivocally the same transaction. \n\n- Citi 's Claim : \" The merchant did not receive the returned merchandise. '' XXXX tracking number XXXX confirms the XXXX package was successfully delivered to the XXXX XXXX XXXX XXXX XXXX, XXXX  on XX/XX/year>, at XXXX AM. \n\nI utilized the prepaid return label provided directly by XXXX. My obligation as a consumer ended when XXXX successfully delivered the package to XXXX 's designated facility. Citis failure to verify basic merchant facility abbreviations does not invalidate my documented return."
+}

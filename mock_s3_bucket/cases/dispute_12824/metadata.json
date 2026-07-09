@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12824",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92107"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40699,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am an active-duty XXXX military XXXX currently stationed in XXXX. I do not have access to XXXX XXXX services from my overseas location. On XX/XX/year>, a charge of {$30.00} appeared on my Platinum Card from XXXX XXXX XXXX, XXXX XXXX, WA XXXX. \n\nI did not recognize this charge and did not authorize it. Because I am stationed overseas and can not access XXXX XXXX services, I have no basis on which this charge could be legitimate. \n\nI opened a dispute through the American Express app. The dispute was assigned case number XXXX with a stated reason of \" transaction not recognized. '' The app indicated the expected resolution date was XX/XX/year>, the same day the dispute was logged, which is the same day I checked the status. The status at that time read \" Investigation in progress. '' American Express subsequently closed the dispute without providing me any substantive written explanation, findings, or basis for closure. I received no notification of outcome, no provisional credit, and no opportunity to provide additional supporting documentation before the case was closed. \n\nUnder Regulation Z and the Fair Credit Billing Act, American Express is required to conduct a reasonable investigation of disputed charges and provide written notice of its findings. Closing a dispute without substantive communication, particularly where the cardholder is an overseas military servicemember with no access to the merchant 's services, fails to meet that standard. \n\nI am requesting that American Express reopen dispute XXXX, conduct a proper investigation, issue a provisional credit pending resolution, and provide written findings as required by law. I am also requesting that the CFPB review whether American Express is systematically closing disputes without adequate investigation or required written notice to cardmembers."
+}

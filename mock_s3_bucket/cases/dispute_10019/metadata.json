@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10019",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84117"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37100,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A transaction was shown in a credit card on which I have reported to the credit card company that the credit card was stolen. The company have sent a new card to replace the stolen card. But the company didn't take any action to protect my account and let the stolen card transaction went through."
+}

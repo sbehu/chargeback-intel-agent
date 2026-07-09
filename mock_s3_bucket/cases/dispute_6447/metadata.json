@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6447",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19147"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29062,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX Report Date : XX/XX/year> Total amount disputed : {$840.00} [ XXXX XXXX or {$430.00} and XXXX XXXX or {$430.00} less {$20.00} ( actual transportation cost ) ] From XX/XX/XXXX to XX/XX/year>, my friends and I traveled to XXXX, XXXX, for a vacation. We had pre-booked our airport transfers with a company named XXXX XXXX XXXX XXXX XXXX for both arrival and departure as recommended by XXXX XXXX XXXX XXXX, where we stayed during our trip. On XX/XX/XXXX, at the end of our trip, the airport transfer representative picked us up but mistakenly dropped us off at XXXX XXXX instead of XXXX XXXX, which is the terminal for XXXX XXXX. This mistake left us with less than an hour to check in for our flight. In an effort to resolve the situation quickly, we sought assistance from airport security, who helped us arrange a taxi to take us to the correct terminal. We were escorted to the drivers vehicle and arrived at XXXX XXXX in under 10 minutes. The agreed payment for the taxi was {$35.00} in cash or a reduced fare of {$20.00} if paid by credit card. \n\nUpon arrival at XXXX XXXX, we agreed to pay through credit card since we did not have enough cash on hand. The driver showed us a small credit card terminal connected to his phone, which initially did not display the amount he was entering. Concerned about potential overcharging, we insisted he show us the amount before we provided our credit card. After some hesitation, he agreed and showed the transaction amount on his phone amounting {$20.00}. We proceeded with the transaction, believing we were paying the agreed amount. However, the first transaction was declined. I checked my phone for a notification from American Express to approve the transaction. After a few minutes, I received a notification indicating a Fraud Alert, which I then approved, thinking the initial transaction had not gone through. After approving the alert, the driver attempted to process the transaction again using the same amount on his phone. Due to a delay in internet service and time constraints, I was unable to confirm the transactions on my American Express App. After checking in for our flight, I reviewed my pending transactions and noticed two unexpected charges : XXXX XXXX or {$430.00} and XXXX XXXX or {$430.00}. \n\nUpon returning home to the US, I contacted American Express customer support to report these charges as fraudulent. However, I was informed that I would need to wait to file a formal complaint until the charges were fully processed. As soon as the charges appeared on my statement, I promptly called American Express customer support to explain the situation and file a dispute. After two weeks, I received a resolution letter indicating that the vendor, XXXX, had provided invoices for the transaction, and the charges would be processed. I contacted American Express again to contest this resolution, providing an email from XXXX confirming that the receipts were not issued by them and that they do not offer taxi services, indicating that these transactions were invalid."
+}

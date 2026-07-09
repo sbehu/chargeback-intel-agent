@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1247",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MT",
+    "complaint_zip": "59718"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5864,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made hotel reservations in XXXX XXXX  through XXXX Once we arrived at the hotel, we were told that two reservations were made through XXXX XXXX which I did not use ). One charge came through my credit card as XXXX  and the other came through as XXXX  The hotel, XXXX XXXX has been very helpful and refunded XXXX for the second reservation. XXXX promised to reimburse my card in XXXX. I have yet to get reimbursed, nor have I gotten a response from Citibank after multiple emails and phone calls. I have given Citibank all prudent information including the emails between XXXX XXXX and XXXX"
+}

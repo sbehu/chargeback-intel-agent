@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10880",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "628XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8540,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a computer online on the best buy website on XX/XX/XXXX using my best buy credit card through Citi. The computer was supposed to be delivered XXXX XXXX. They said there was a delay in the shipping, and it would take longer. Finally on XX/XX/XXXX, XXXX, and XXXX I was given a window of time for the computer to be delivered each day. The computer was never delivered on any of the days, or ever. The best buy website was then changed to delivered on the XXXX, and the tracking information showed it was delivered to a best buy facility in California, which is on the opposite side of the country to where it was supposed to be delivered. I spoke with Best buy, and was told someone would be in contact with me to get it straightened out. Nobody ever reached out. Best Buy Citi reached out about making my payment. I explained the situation to them, they put me on a XXXX way call with someone from best buy the store, and we all agreed I did not get the computer, the payment would be removed, and best buy would reach back out to me to make it right. Now it is XX/XX/XXXX, and I am on my XXXX best buy card rep trying to get this resolved. The card is reporting to my credit. I would like the payment removed from my card, and the report to my credit removed as fast as possible."
+}

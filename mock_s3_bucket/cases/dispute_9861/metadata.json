@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9861",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94103"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30932,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibank 's handling of a billing dispute on my Best Buy Citi Credit Card. \n\nOn XX/XX/year>, a laptop charged to my account in the amount of {$600.00} was stolen and never received. I did not take possession of the item at any time. I promptly filed a dispute with Citibank and submitted a police report documenting the theft. \n\nDespite this, Citibank denied my dispute. The denial did not properly apply the Fair Credit Billing Act protections for goods that were never received, nor did it adequately consider the police report and supporting documentation I provided. \n\nI am requesting that Citibank : 1. Reopen and properly review this dispute 2. Apply Fair Credit Billing Act protections for merchandise not received 3. Reverse the {$600.00} charge I am seeking the CFPB 's assistance to ensure this matter is reviewed fairly and resolved correctly. \n\nThank you!"
+}

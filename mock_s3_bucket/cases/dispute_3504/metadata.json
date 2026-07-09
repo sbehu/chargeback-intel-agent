@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3504",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "321XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37048,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/24, a fraudulent purchase was made on my Citi credit card at the ticket company XXXX. The credit card was still attached to this old XXXX account that had not been used for nearly two years. It had not been used because I had created a new account with a new email. On this new account, on XX/XX/24, I made a legitimate purchase at XXXX with this same credit card, requiring me to enter my CVV number. I believe somehow this number was taken and used to purchase tickets on my old account where the card was still saved. Note : XXXX does not implement basic security practices. For example, at the time I originally signed up, \" log in with XXXX '' was the only option. You could not sign up with a username and password. They also, to this day, do not offer any XXXX options. \n\nBecause of the digital nature of the item that was fraudulently purchased, the tickets were delivered immediately. I contacted XXXX within minutes of the notification email telling them this was fraud and they could have their tickets back. XXXX refused to engage and told me to contact my bank and file a dispute.\n\nI contacted Citi and opened a case. On XX/XX/24, I received a notification that my dispute had been rejected and that the merchant had provided documentation confirming the charge was valid. I reviewed this documentation, which actually only proved that I could not have made the charge. For example, it showed that the IP address used to make the fraudulent purchase was in XXXX XXXX XXXX ( the tickets purchased were for a basketball game in XXXX that same night ). I live in Florida and was in Florida at the time. It showed the purchase was made from an iPhone using XXXX. I have a XXXX and use XXXX. I contacted Citi again to reopen the case and provided Citi various evidence showing I was in Florida on that day ( I sent my XXXX location history ) and that this was a zombie account that I don't even use anymore. \n\nOn XX/XX/24, Citi rejects my fraud dispute again. They continually harp on the fact that I had made a purchase at this merchant a couple days prior as if that verifies the fraudulent charge was legitimate. This is, of course, ridiculous logic.\n\nI do not notice this update for a while. On XX/XX/24, I contact Citi again. They repeat that the merchant provided evidence it was authorized ( again just harping on the fact I had made a charge there recently ) and that they will not reopen the fraud case. Of course, the \" merchant provided evidence '' line is nonsense, but the phone reps just read from scripts and are unable to think for themselves about the facts of the case. I'm unable to speak to someone with any authority that I could walk through the specifics of the situation. If I were able to speak to anyone with common sense, it would be very clear to them this was fraud. After reminding the CSR of federal law regarding unauthorized charges under the FCBA, the CSR says she will forward the case to be reopened as a \" regular dispute '' instead of a fraud dispute. At this point I have had enough and after doing my best to resolve through XXXX and Citi, I am reporting to the CFPB."
+}

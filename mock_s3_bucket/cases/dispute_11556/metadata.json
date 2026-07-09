@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11556",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85711"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45389,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was charged {$2300.00} by XXXX XXXX & XXXX for XXXX work that was never completed. After payment, the XXXX falsely claimed the work was done, but an inspection confirmed it was not performed. \n\nI filed a dispute with Best Buy Citibank and submitted supporting documentation. Related charges from the same project were investigated and resolved in my favor. However, this specific dispute ( XXXX ID XXXX ) was closed in XX/XX/XXXX without any notification to me. \n\nCitibank later claimed they needed additional documentation by XX/XX/XXXX, but I was never contacted or informed. I only discovered the closure when I called on XX/XX/XXXX. I re-submitted a detailed letter with evidence and a police report against the merchant. I also resent the documents via fax and mail on XX/XX/XXXX and requested the dispute be reopened. Additionally, when I called on XX/XX/XXXX, Citi refused to reopen the dispute. During that call, the representative XXXX XXXX case id XXXX ) refused to assist further. \n\nBecause the services were never provided and the dispute was improperly closed without notice, I am requesting a full refund of {$2300.00} and that this case be reopened and properly reviewed."
+}

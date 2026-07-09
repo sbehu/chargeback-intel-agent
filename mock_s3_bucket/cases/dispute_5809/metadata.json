@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5809",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27410"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27325,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "ATTENTION : This is an ADDENDUM to COMPLAINT XXXX. \nThis is NEW INFORMATION!!! \n\nBELOW SENT TO Barclays XXXX XXXX Aviator Advantage Card XXXX on XX/XX/2025 in re Case XXXX Credit Required I have had an experience with Barclays XXXX XXXX XXXX XXXX XXXX that I find appalling. I expect you will agree. Heres the saga. \n\nWhen I filed the dispute back in XXXX, I attached a Proof of Delivery ( PoD ) copy. I thought this would be a quick permanent credit. However this was not to be as your dispute department choose to ignore the facts presented and continually misplaced the PoD. I eventually spoke with Lily ( TIFLB1 ), who confirmed that the Disputes Department always had multiple PoD copies in my case file! As this was what you required to issue the permanent credit - case closed!, right? \n\nNo. I then received a snail mail letter that stated that If you only had received the PoD, the long-overdue permanent credit would have been issued long ago. Yes, thats what it said. I immediately faxed it again. At this point, I had faxed it to disputes eight times and emailed it to the Office of the President five times. Case closed! Permanent credit finally issued! Right?\n\n( BtW, the merchant has never disputed receipt of the merchandise or that he promised to issue the refund! ) Ha! No! A cynic would certainly be justified in thinking that your people have little interest in your customer but instead are actually bending over backwards to desperately find a way, anyway to please the merchants bank! I later receive a new snail mail letter that states that you would have issued that permanent credit long ago if you had only had in your possession a copy of a document showing that the merchant was going to issue a refund. I would have LOL if I wasnt so furious! I am certain that someone there rubbed their hands together and said XXXX never have that! Who has that! ( Witches cackle. ) Well, because this particular merchant does not always require an actual return of the merchandise ( its underwear ) it just so happened that he had sent me an email stating just that, that he was going to issue the refund. I faxed it to disputes and emailed it to the Office of the President.\n\nSorry but your effort to thwart my dispute by moving the goal post fails just as the ongoing misplacing of seven PoDs did! \n\nNow, I hope, as a human being, you can clearly see how egregious, unfair, and biased your peoples obstructionist efforts have been. As you can imagine, I have been forced to spend an inordinate amount of time and effort on what should have been a quick and easy solution. I must emphasize that to-date no one at Barclays has been positive or proactive in seeking to resolve this in my favor.\n\nI hope that you will be the exception and issue the long-overdue permanent credit for {$240.00} today. And, please, no more snail mail or newly created goal posts. \n\nThank you. \n\nXXXX XXXX XXXX XXXX"
+}

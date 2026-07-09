@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5732",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2144"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21741,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was charged {$220.00} for a one-night stay at a hotel in XXXX. I did not receive the service that I paid for because the hotel had XXXX XXXX, so I couldn't stay there. I left the hotel without checking in and spent the night at a different hotel. The hotel desk manager refused to issue a refund. \n\nOn XX/XX/XXXX, I disputed the charge with Citi. On XX/XX/XXXX, the merchant responded to the dispute and falsely claimed that I was seeking a \" free night stay. '' The case number on the merchant 's response form didn't even match my dispute case number. \n\nOn XX/XX/XXXX, Citi 's disputes team notified me via email that they found me responsible for the charge. The same day, I appealed Citi 's decision and provided detailed information refuting the merchant 's response, including XXXX  receipts, a receipt for the other hotel I stayed at, and photos of XXXX XXXX XXXX on the hotel mattress. On XX/XX/XXXX, I called Citi to confirm receipt of these documents and to reiterate that the merchant 's response contained false information. \n\nOn XX/XX/XXXX, the disputes team notified me via email that they had again found me responsible for the charge because I didn't provide \" a credit slip or chargeback approval letter from the merchant to prove they agree you are due credit for this charge. '' If the merchant agreed that I was due credit for the charge, I would not have needed to file a dispute in the first place, so it was not reasonable for Citi to mandate a credit slip to process this chargeback. \n\nOn XX/XX/XXXX, I called Citi, and a representative said she'd ask for the dispute to be reopened. She offered me a partial credit of about {$100.00} ( less than half of the amount disputed ) for being a longtime customer. I thanked her and said I'd still like the dispute reopened. I never received the credit that I was offered. \n\nOn XX/XX/XXXX, after receiving no follow-up from Citi, XXXX called again, and a different representative said my dispute was denied because it was miscategorized as Goods/ Services Not as Expected rather than Goods/ Services Not Received. After recategorizing it, he told me the dispute would be reviewed again. \n\nOn XX/XX/XXXX, the disputes team notified me a third time via email that they still found me responsible for the charge because they needed \" documentation showing the merchant agreed to credit your account. '' Again, this was not reasonable documentation to require, given the circumstances. \n\nOn XX/XX/XXXX, I called Citi and explained that the request for a credit slip was unreasonable. The representative said Citi would \" make this right '' for me by issuing a credit for the full amount of my disputed charge, which would post to my account in 3 to 5 days. I never received this credit. \n\nOn XX/XX/XXXX, I called Citi again to ask about the status of my credit. The representative that I spoke with said there was no record in my account that anyone had agreed to give me a credit. She told me the dispute was open again and I should hear back in, once again, 3 to 5 days. \n\nI did not receive the service that I paid for on XX/XX/XXXX, and I have now been disputing this charge for over two months. I have sent Citi extensive documentation via email and have spoken to representatives five times. Citi keeps finding me responsible for the charge for reasons that don't make sense, and a Citi representative outright lied to me about resolving the situation with a refund."
+}

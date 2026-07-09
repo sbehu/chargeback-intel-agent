@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2486",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37867,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I requested a statement credit for {$180.00} today. For a stolen payment to my credit card company, and the bogus {$29.00} fee their customer service automation added. \n\nThe other bank ( XXXX ) says there is no record of the payment being returned. The AMEX record consists only of their self-substantiated claim, with no confirmation number from the other bank. {$160.00}, taken on XX/XX/XXXX. The claim it was returned was post-dated on XX/XX/XXXX. They also have to return the {$29.00} returned payment fee, because they lied. Unethical and unfair."
+}

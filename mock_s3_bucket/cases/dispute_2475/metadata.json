@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2475",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "145XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10488,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, my Citi credit card number was used to make 3 fraudulent purchases at XXXX online. Each purchase was for {$250.00}, for a total of {$770.00}. \n\nI noticed these charges on XX/XX/year>, and reported them to Citi as fraudulent purchases. Citi said they would refund the {$770.00}. \n\nLater, I learned that XXXX told Citi that the online order was picked up ( in XXXX ; I live in New York ), and therefore was a legitimate purchase. Citi provided me with the information that XXXX provided them. ( See attached file XXXX ) The purchase was made using a fake email address. The items, large boxes of flooring, were picked up in XXXX XXXX, where I do not live. \n\nCiti reversed their decision, and charged me the full {$770.00} again. They didn't contact me to tell me this, I discovered it myself later when my credit card statement seemed too high. \n\nI have since called Citi multiple times over the past 2 years, explaining that this was obviously a fraudulent purchase, based on the evidence they already have. Every time, they tell me that they have to re-open the account and re-start the investigation process. Citi assures me they have all the information they need ( which is true ), they can see it was a fraudulent purchase, and will contact me when the investigation is complete. \n\nThen, nothing happens. Multiple times, I have called Citi back a couple of months later, and they tell me the same thing again ; they have to re-open the account and start the investigation, etc... They can see it was a fraudulent charge and they will contact me when the investigation is complete, etc... \n\nI have been doing this every few months since 2022, when this first began. I have files the dispute forms Citi requited, and provided them with all the information they have asked for. I would like Citi to finally resolve my fraud dispute case and refund me the {$770.00} I am owed."
+}

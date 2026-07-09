@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8553",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "333XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15139,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Item was never delivered XXXX XXXX did not delivered the item cause the delivery company said it was the wrong model. XXXX XXXX indicated they will issue the refund and it has not occurred. \nXXXX was XX/XX/year> amount XXXX"
+}

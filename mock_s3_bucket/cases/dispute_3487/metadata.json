@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3487",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "805XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33131,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We had fraudulent use of our American Express card on the dates of XX/XX/XXXX, XX/XX/XXXX, XX/XX/XXXX. It was a card that is and has been in our possession and has remained unused for years. We were not present in the state it was used in supposedly with card present. I reported it as soon as I noticed the auto pay out of my account to AmEx. This is obvious fraud, it was used for a cash advance at a place called XXXX XXXX. American Express has supposedly investigated but they send a copy of a receipt with a signature that is clearly not correct and again reiterate we are responsible for the charges. They will not even look at our proof that we werent in that state, or ask for a signature or acknowledge that this was extremely atypical use of the card that should have been flagged as suspicious immediately. In our user agreement American Express states the card holder is not responsible for fraudulent charges appropriately reported, yet they will not investigate this matter deeply enough to understand whatever card was present was not the one issued to us. We also are checking into whether we can file a police report on this matter to help document the situation."
+}

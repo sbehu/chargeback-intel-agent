@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7399",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MA",
+    "complaint_zip": "1930"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17230,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "\" I disputed a charge of {$820.00} from XXXX on my Barclays Aviator Mastercard ( Case ID XXXX ) for a rental car service that was never delivered. The company does not operate at XXXX XXXX XXXX where the rental was to occur. I contacted Barclays within minutes of the charge posting and followed all instructions. Despite this, Barclays closed the case twicewithout giving me a chance to submit evidence, without written notice, and despite representatives telling me the case was still under investigation. They claim they called me twice but left no voicemail. I am now being repeatedly transferred by phone with no resolution. ''"
+}

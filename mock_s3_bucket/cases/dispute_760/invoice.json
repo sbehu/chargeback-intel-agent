@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-789738",
+  "invoice_date": "2025-11-03T00:00:00Z",
+  "amount_cents": 42755,
+  "currency": "USD",
+  "billing_address": "3141 Greenwood Dr, NJ, 088XX"
+}

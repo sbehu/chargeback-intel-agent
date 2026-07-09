@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11247",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "330XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37943,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought a tourist package in XXXX using my American Express Cardholder : XXXX XXXX XXXX : Tourist XXXX Reservation # : XXXX Charge Amount : {$4700.00} Transaction Date : XX/XX/year> American express resolution : XXXX, XXXX Dispute Reason : Services Not As Advertised / Misrepresentation Summary of Dispute I am disputing this charge because the services provided by XXXX XXXX were materially different from what was advertised at the time of purchase. I cancelled the booking within hours of purchase due to these discrepancies. \n\nTimeline of Events XX/XX/year> XXXXXXXX XXXX ( XXXX XXXX ) I purchased the 7 Day Best of XXXX XXXX XXXX package. \nThe package was advertised as including : - Private airport transfer - Hotel pickup - Private guided tour experience - Hotel accommodations included Immediately after payment, I received a confirmation email containing details that contradicted the advertised services. \nAfter payment, the merchant confirmed the following : 1. Airport Transfer Instead of a private transfer, I was told I would receive subway tickets and must travel to the hotel on my own.\n\n2. Daily Pickup -Instead of hotel pickup for a private tour, I was told I would need to independently travel by taxi or subway to a meeting point to join a group tour. \nThese services are materially different from what was represented at the time of purchase.\n\nImmediate Cancellation Request On the same day of purchase ( within hours ), I emailed the company and clearly requested cancellation and refund because the services were not as advertised. ( see emails ) I also attempted to contact the company via XXXX multiple times. ( see whatsapp communications ) The company acknowledged my concerns but refused to provide a refund, stating the booking was non-refundable. \nI cancelled well before travel and within less than XXXX hours of booking. \n\nXXXX XXXX XXXX XXXX The merchant claimed hotel arrangements were already made and therefore nonrefundable. \nTo verify this, I personally called the XXXX XXXX XXXX hotel. The hotel informed me they had no reservation under my name and did not recognize the booking or the company. \nCheck my bill from XXXX XXXX that I called the hotel to check. \n\nThis raised further concerns regarding the validity of the services being provided. \nNo Services Were Used I did not use any part of the merchants package : - I independently booked all hotels myself. Check expenses, hotel bookings - I independently arranged all transportation. \n- I independently purchased train tickets. \n- I hired a local guide separately. \nThere was XXXX usage of the merchants services. \nBasis for Dispute This dispute is not based on a change of mind. \nIt is based on : - Material misrepresentation of services. \n- Significant differences between advertised services and confirmed services. \n- Immediate cancellation request within hours of purchase.\n\n- Refusal to refund despite discrepancies.\n\nThe merchant relied solely on a non-refundable policy, even though the services provided were materially different from what was advertised. \n\nRequested Resolution : I open a dispute with America Express Reference Number : XXXX and they analyzed and I lost, Again I open a dispute and yesterday they again considered that provider was right to don't refund. \nI respectfully request CFPB to help me with American Express reverse this charge due to : Services not as described. \nImmediate cancellation after discovering discrepancies.\n\nFailure of the merchant to provide the advertised services. \nI would like to upload all documents Thank you for your review. \nSincerely, XXXX XXXX XXXX"
+}

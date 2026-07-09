@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1585",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AK",
+    "complaint_zip": "996XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11440,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased what was supposed to be XXXX XXXX XXXX XXXX from a company XXXX XXXX I received the XXXX and they were not XXXX products, they had no part numbers and were not as described. I reached out to the company to return the item and they agreed to send me a shipping label. I shipped the products back, 2 of the products shipped to an undeliverable vacant warehouse according to USPS tracking, and the other 2 were returned to me stating the other address was undeliverable. I reached out to XXXX and have not gotten a single response or did I receive a refund. So I disputed the charge with my credit card company, CITI, on XX/XX/XXXX. After a month of review they decided that I was held responsible for this charge, so I reopened the dispute and sent them every email, pictures and tracking information stating that both return addresses were undeliverable. I typed a letter stating exactly what happened, it is clear as day that I have truly been scammed by this company and I am now out {$360.00} and I dont even have 2 of the 4 hubs because they are still sitting at a vacant warehouse in XXXX according to usps tracking. On XX/XX/XXXX CITI has stood by their original response and stating I am held responsible for the payment. I am reaching out to you to see if I can receive assistance in this case, I have been a victim of fraud and my credit card company that I have been a loyal costumer to since XXXX is not helping me in my time of need. Thank you for your time."
+}

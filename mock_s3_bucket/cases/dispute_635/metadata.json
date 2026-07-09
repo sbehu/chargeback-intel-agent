@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_635",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94107"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23055,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I made a purchase from XXXX for worth XXXX. This was marked delivered by XXXX but sadly I never got the package. I reached out to XXXX saying the package could maybe lost/stolen and they asked me to reach out to my credit card company, American Express , and open a dispute. After doing so, amex keeps closing my dispute in the favor of the merchant saying they have provided the necessary proof that my package was handed over to me. This proof is just the tracking information that is available to me already, which, in my opinion, is not enough. The burden of delivery should be borne by the merchant as they are the shipper and should be the ones liaising with the shipping company to track my package, or file a claim. However, Amex believes I should reach out to shipping company but they want the shipper to raise a claim. I have even raised a police complaint with XXXX XXXX XXXX regarding my missing package and they have ruled it as lost. I am not sure what else is needed for me to prove my case? \n\nI have reopened the dispute three times and every single time, it's the same proof that is given to me, which is nothing more than a screenshot of a publicly available tracking information."
+}

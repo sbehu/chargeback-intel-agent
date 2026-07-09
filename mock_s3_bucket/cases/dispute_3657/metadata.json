@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3657",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "601XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44525,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX is the previous complaint that was opened regarding a purchase with Home Depot for replacement windows. The complaint was closed and Citi issued a full refund with a letter stating the issue was resolved in my favor in XX/XX/year>. XX/XX/year> Home Depot reissued the billing and has been sending multiple letters weekly demanding payment. Home Depot has reissued the billing that is effecting my credit score. Home Depot is in violation of Regulation Z banking regulations. \n\nI have attached the finality letter provided by Citi showing the refund and previous decision in my favor.\n\nPlease advise management at Home Depot that reissuing this billing is illegal.\n\nThank You"
+}

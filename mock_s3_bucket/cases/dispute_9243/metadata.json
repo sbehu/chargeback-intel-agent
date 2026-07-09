@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9243",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "287XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34189,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern : I have been an XXXX XXXX Citibank credit card holder for several years and spend, on average, over {$30000.00} per year on this card. I also hold two additional Citibank credit cards. One of the main reasons I use credit cards is for the protections they are intended to provide, in addition to rewards that virtually all cards now offer. \n\nI am writing because I do not feel that Citibank is protecting me in this situation. Instead, it appears that the merchant attempting to take advantage of me is being prioritized over a long-standing customer. I attempted to resolve this matter directly with the vendor and, when that failed, I sought Citibanks assistance. Unfortunately, the core issue has not been addressed. \n\nI made an online purchase from a vendor advertising a 30-day money-back guarantee. At no point did the website disclose that the company was located outside the United States. I verified the website carefully to avoid this exact problem. The return policy stated that I would be responsible for return shipping, which I accepted, especially since the package was shipped from New York. \n\nHowever, when I attempted to return the product, the vendor informed me that the item could not be returned to the U.S. address it shipped from and would instead have to be returned to XXXX XXXX, XXXX. The cost to ship the item internationally is nearly equal to the price of the product itself. This is clearly a deceptive tactic : by omitting the fact that returns must be sent to XXXX, the vendor ensures customers will be discouraged from returning items and refunds will rarely be issued. \n\nCitibanks position has been that because I still have the product, I am responsible for payment. This misses the point entirely. I still have the product only because the merchant is refusing to accept the return at the location from which it was shipped. I am more than willing to return the itemjust not under unreasonable and undisclosed conditions. \n\nIf Citibank can not or will not protect cardholders from tactics like these, it undermines the very purpose of using a Citibank credit card. I exercised due diligence, yet the vendor withheld material information and is now using that omission to avoid issuing a refund. Without intervention, they will continue to do the same to others. \n\nThis is my final attempt to seek Citibanks assistance before I close all my Citibank accounts. I never expected to be considering this, especially over {$110.00}, but I need to feel that my credit card issuer supports and protects its customers. I have other airline credit card options, and I hope it does not come to switching. \n\nAdditionally, I would like to note that the last representative I spoke with was extremely rude. If I were running a company, I would not want someone with that demeanor interacting with customers. \n\nThank you for your time and consideration."
+}

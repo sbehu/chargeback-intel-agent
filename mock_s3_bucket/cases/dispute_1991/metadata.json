@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1991",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85142"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47979,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased some goods online on XX/XX/XXXX with order number XXXX for a total of $ XXXX.After reviewing the orders upon delivery I kept some and used the Macy 's website to initiate a return that was dropped off at a XXXX  fulfillment center on XX/XX/XXXX. Return label details include 1. Estimated Refund - {$3600.00} XXXX Tracking # XXXX XXXX. Order # XXXX 4. Reservation # : XXXX On XX/XX/XXXX at XXXX XXXX, I got an email stating the package was delivered and my refund will be processed within 3-5 days. I waited a week, called the customer service line, and was told due to the amount it would take 28 business days to get credited. After a month I called again and then I was told they never got the package. After a few calls again I was then told that they got the package but there was nothing in it. I went to XXXX  site to file a claim however, the system will not let me stating ONLY THE RECIEVER CAN FILL A MISSING PACKAGE CLAIM. \n\nI tracked the package on the UPS site and under proof of Delivery it shows the package was delivered at the Macy 's XXXX at XXXX Arizona on XX/XX/XXXX at XXXX XXXX, It showed the weight of the box at \" XXXX '' and \" MACYs XXXX '' received it. I honestly don't understand how a XXXX box is \" Empty '' after delivery. No one at Macy 's has been helpful or shown concern about my money. \n\nI called the Macy 's store card and filed a claim to no avail as the card stated they were siding with the store. \n\nPlease note : Because all the goods could not fit into the box, 3 of the initial items were returned to the store ( Macy 's XXXX ) in person. A total of {$310.00} was refunded. Total pending credit is XXXX - XXXX = {$3300.00}"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1068",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11710"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2753,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I submitted a billing dispute for a charge on my statement that was not authorized. Billing dispute was closed and I was provided only a copy of an online receipt with the last XXXX digits of my card number. No other information was provided that supported the closure of the investigation or denial of my claim. I did not authorize this charge."
+}

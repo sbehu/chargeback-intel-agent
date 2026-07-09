@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_557",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "967XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22895,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Card was used on XXXX to make $ XXXX in fraud purchases. XXXX confirmed the fraud and told me I have to charge back through Amex. Submitted a fraud claim with Amex. Amex refused the fraud claim, they said that XXXX said the goods were shipped to me, but they won't let me see any evidence, they won't tell me what was shipped, they won't share tracking information, and I know that these goods were not shipped to me. In processing the claim, Amex doubled the fraud. They charged me twice for each fraudulent charge."
+}

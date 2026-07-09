@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7253",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77084"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27370,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "\" I have recently attempted to contact Barclays XXXX XXXX but have not received a response or a call back. '' \" It is extremely frustrating that we have been disputing these charges for over XXXX months, only to ultimately receive once again an email, requesting a payment for the same charges Barclays is AGAIN sending me emails regarding this payment. \n\nBelow is a statement from the letter of the office of the president at Barclays. \nOur records reflect that on XX/XX/XXXX, a fraud claim was created for the transaction from XXXX XXXX for {$32.00} from XX/XX/XXXX, which was posted to the account on XX/XX/XXXX. \n\nIT IS RIDICULOUS, this is another statement on the letter from the office of the president at Barclays : A permanent credit for the transaction amount of {$32.00} has been applied to your account. In addition, I verified that all the associated late payment fees and interest charges have been waived on the account. These adjustments will reflect on your XX/XX/XXXX billing statement. \n\nA resolution letter was sent on XX/XX/XXXX. However, I am still unclear as to why there are XXXX accounts associated with me. I have only ever had XXXX account from the beginning. In XX/XX/XXXX, I requested for my account to be closed, but it was not properly handled by the companys staff. Instead, a second accountnumber XXXX apparently created in XX/XX/XXXX, as it had never been mentioned prior to that time. My original and only legitimate account is number XXXX. \n\nThe inconsistency displayed by Barclays has been extremely concerning. There appears to be a pattern of negligence, lack of accountability, and poor communication. The staff do not seem to be adequately trained or knowledgeable about their roles and responsibilities within the company. This situation has become deeply frustrating and emotionally exhausting. \n\n\" According to the resolution letter, customer service is a top priority for them. However, their actions suggest otherwise. Their own words from the resolution letter state : '' Customer service is very important to us. I'm sorry we did not meet your servicing expectations, and I would like to assure you that feedback and coaching have been given to our fraud team. \nAdditionally, I confirmed your card has been closed as of XX/XX/XXXX. \n\nPlease refer to your own resolution letter dated XX/XX/XXXX, issued by the XXXX XXXX XXXX XXXX at Barclays. I urge you to take responsibility for the commitments made in that correspondence and resolve this matter once and for all. \nIt is deeply concerning to witness how unfairly this company treats individuals who have chosen to spend their money on your products and place their trust in you to manage their credit responsibly. \nThis situation feels like a recurring nightmare. Barclays has now initiated a new claim for the same amount that was previously disputed, but under a different account number and with a transaction date matching last year 's. They are also adding late fees and other charges, labeling the account as delinquentdespite the unresolved nature of the original dispute. This is deeply concerning and appears to be an attempt to damage my credit again without justification."
+}

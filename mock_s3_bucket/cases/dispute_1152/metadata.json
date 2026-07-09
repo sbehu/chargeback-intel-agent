@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1152",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "440XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11129,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "( Dates are best estimates as my account has been closed by the store by their choice ) I opened a Wayfair credit card in XXXX with Citi Bank. I received my credit card and proceed to make a large purchase of ~ {$2500.00}. Immediately after the online purchase I received communication my order had been canceled. \n\nI contacted the merchant and had to verify my identity and my credit card information. I was then notified they will redo the purchase on there end. They came back on the phone line, and told me they can not complete the order as it has been canceled and to complete it myself again I completed the same purchase yet again the total price this time was slightly more this time though. Immediately after checkout, I received communication my order was canceled. I contacted the merchant who made me verify my identity and my credit card information. They put me on hold. They came back again this time and told me they would not be processing my order and that I was not permitted to shop with them anymore and I needed to shop elsewhere. \n\nStill on my card statement to this date is a charge for each one of the attempted transactions for a random amount of money less then the total. Which happens to be the cost of the toilet for the first order and the price of the vanity for the 2nd order. \n\nI had filed multiple disputes using the online process with citi. After filing the report, I have never received any form of communication other then my dispute has been submitted. I continued disputing it up til the date that I received my statement for the 2 charges that should not exist even though the dispute confirmation letter stated the charges would be put on hold and not be due pending completion of an investigation. \n\nI then contacted citi using the messaging link in a text message I received stating my account was late. The customer service disregarded the information ( all of the above ) and told me they can not help me with this."
+}

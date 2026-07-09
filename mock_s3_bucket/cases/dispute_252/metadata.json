@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_252",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19229,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX XXXX XXXX I disputed five charges on my Citibank credit card by one merchant ( XXXX XXXX XXXX ) regarding two XXXX units the merchant admits they never installed. Citi asked for additional information which I provided in full XXXX The 5 charges totaled {$31000.00}. \n\nCiti reversed the {$7600.00} charge on XX/XX/XXXX and the {$7100.00} on XX/XX/XXXX in my favor. I discovered recently that Citi rescinded the {$7600.00} they'd previously credited to me on XXXX  They can not provide a reason because the files are \" so old ''. I've followed up with Citi 's Dispute Dept. 8X over the span of a year while they pretended to process my dispute until they aged it out into irrelevancy, then tried to blame me for their failure. \n\nOn XX/XX/XXXX, I called Citi who told me the claims were all closed. In addition to the {$7600.00} they reneged on, Citi refuses to reverse the {$6900.00} and {$1800.00} charges for my alleged failure to respond to another request for info which they inadequately posted to my account without notifying me. The information was unnecessary in any event, as evidenced by the fact all the same information I provided XXXX XXXX XXXX allowed them to reverse two other identical charges ( and the reneged charge ). All five charges relate to the same merchant for the same transaction. The merchant admits they defrauded me by taking money for services they never rendered. All five charges should be treated the same and all should be reversed in my favor. Citi reversed charges for {$15000.00} but refuses to reverse {$16000.00}."
+}

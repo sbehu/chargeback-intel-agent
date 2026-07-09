@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12050",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11224"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38214,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks failure to properly investigate and reconcile a disputed credit card balance, resulting in inaccurate charges, negative credit reporting, account closure, and a pending lawsuit based on an unresolved and unverified amount. \n\nIn XX/XX/XXXX, I made a purchase of {$4900.00} at Bloomingdales using my Citi Double Cash XXXX via XXXX. I subsequently returned merchandise totaling {$4600.00}, leaving approximately {$350.00} in retained charges. Bloomingdales confirmed the return and refund processing. \n\nCitibank failed to properly apply the full refund. Although partial credits were issued through a chargeback investigation and later made permanent, an estimated remaining discrepancy of approximately {$1000.00} {$1100.00} based on my records and available statements has not been fully explained or reconciled in Citibanks account records. Citibank has not provided a clear accounting of how this remaining amount was calculated or how prior credits and adjustments were applied. \n\nOver the course of nearly a year, I made repeated attempts to resolve this issue, including phone calls with customer service and written disputes beginning in XX/XX/XXXX, as well as submission of dispute forms requested by Citibank. From approximately XX/XX/XXXX through XX/XX/XXXX, I also engaged with Citibanks social media support team regarding this matter. During this period, Citibank acknowledged the complexity of the case and stated that a supervisor from the Disputes team would contact me to provide an update and review the remaining disputes ; however, the issue was not resolved despite these assurances. I subsequently sent a formal certified dispute letter on XX/XX/XXXX, but the issue remained unresolved. \n\nCitibank issued contradictory correspondence during this process. XXXX letter confirmed that my Citi Flex Loan had been paid in full and current. Another letter stated that adjustments were made to my account, but no corresponding changes appear in my account statements, and Citibank has not provided any explanation or accounting of those adjustments. \n\nDespite the unresolved dispute and lack of transparent accounting, Citibank : A ) continued reporting negative information to credit bureaus B ) assessed charges on a disputed balance C ) closed my account while the billing dispute remained unresolved D ) filed a lawsuit seeking {$2500.00} based on an unresolved and unexplained balance Citibank has not provided a clear, consistent, or verifiable accounting showing how the current alleged balance was calculated or how prior credits and adjustments were applied. \n\nI have maintained an excellent credit history over XXXX  years, with a credit score exceeding XXXX prior to this issue. I have consistently made timely payments on all Citibank accounts, including a Citi Flex XXXX of approximately {$9300.00}, which was paid in full on schedule. Citibank has previously confirmed this in writing. This issue is inconsistent with my long-standing payment history and arose solely due to Citibanks failure to properly reconcile refund credits and provide a transparent accounting of my account."
+}

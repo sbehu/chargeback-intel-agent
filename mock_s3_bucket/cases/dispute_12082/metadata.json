@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12082",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "775XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30750,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding American Expresss handling of my dispute for a {$4200.00} charge from XXXX XXXX XXXX XXXX XXXX/ XXXX XXXX XXXX XXXX XXXX. \n\nAfter purchasing the XXXX, the seller publicly admitted in XXXX  messages, XXXX videos, and a pinned XXXX comment that he had misrepresented his trading profits and advertised himself dishonestly. These profit claims were the primary basis for the XXXX  value and were used to induce the sale. \n\nIn his pinned XXXX comment, the seller stated : I am around net break-even. \nThe majority of money I made trading has been lost. \nI have not made $ XXXX. \nIt was extremely dishonest of me to advertise as someone that I was not. \nAnyone can reach out directly for compensation. \n\n\nImmediately after these admissions, the XXXX  paused and shut down the XXXX  program, hid chats, stopped live sessions, and removed access. He also stated publicly that people will be refunded, but no refund was issued to me. \n\nThe seller also launched a new XXXX  called XXXX XXXX, changing the structure of the XXXX  and XXXX  sessions, which was not what I paid for. This occurred after shutting down the original program. \n\nThere is also a XXXX  XXXX XXXX  report from another victim documenting the same misrepresentation and the same {$4200.00} loss. \n\nI submitted all of this evidence to American Express, including : The sellers written and video admissions The pinned XXXX confession XXXX  messages showing program shutdown Refund promises Evidence of nondelivery XXXX XXXX XXXX report A full timeline and documentation package Despite this, my dispute was denied the first time. I reopened the dispute and submitted all evidence, but I am concerned that the evidence may not be fully reviewed."
+}

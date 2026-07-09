@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7746",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91739"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1090,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a Macys Citi credit card in XX/XX/2024 and made a single purchase with the card. Shortly afterward, my mailbox was broken into and the card was stolen. The individual who committed the fraud changed my account information, including my mailing address, phone number, and other contact details. \n\nBecause of these unauthorized changes, I never received any billing statements by mail or email, and I did not have the account information needed to view or pay the bill online. On multiple occasions, I attempted to pay the outstanding balance at Macys, but was told that there was no bill to pay. \n\nI only discovered several months later that fraudulent charges and interest fees had been accumulating on my account. I immediately disputed these charges, beginning in XXXX, and explained that they were the result of fraud. Despite this, Macys has done little to resolve the issue. I have already paid for my original purchase, yet the account continues to show only fraudulent interest charges. \n\nNow, I am being threatened with collections for charges that stem entirely from fraud. I am requesting that Macys and Citi remove all fraudulent charges and interest, correct the account, and provide written confirmation that the debt will not be sent to collections."
+}

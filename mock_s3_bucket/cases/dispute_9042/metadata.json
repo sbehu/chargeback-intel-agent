@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9042",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19136"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13758,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a complaint regarding an unfamiliar and unexplained charge that appeared on my American Express account under the name XXXX XXXX XXXX XXXX XXXX. \n\nI have no idea what this charge refers to, and I did not authorize any transaction with that description. Although it appears that American Express may have issued a credit afterward, the situation is unclear and concerning. The presence of this unknown charge makes me worry about the security of my card information and the possibility of future unauthorized charges or improper credits.\n\nI contacted American Express, but I did not receive a clear or detailed explanation of : what this charge represents, why it was posted, or why a credit was issued afterward.\n\nThis lack of clarity makes me feel uncertain about the safety of my account and whether this issue could happen again.\n\nI request that the Consumer Financial Protection Bureau assist by asking American Express to : Thank you for your assistance."
+}

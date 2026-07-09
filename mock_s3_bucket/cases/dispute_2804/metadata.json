@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2804",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33071"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33048,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a dress from XXXX and XXXX online using my Barclay 's XXXX XXXX. The cost was {$420.00}. On XX/XX/XXXX, I recieved the dress. On XX/XX/XXXX I started the return process, as the dress didn't fit. XXXX and XXXX 's system was having trouble generating a return label and that made me nervous. I reached out to Barclay 's regarding my difficulty returning the item and started a dispute/chargeback. After multiple attempts to reach XXXX and XXXX regarding the return, I finally received an email from them stating their system had been dysfunctional. The email included an apology, return label, and instructions on how to return the item. I mailed the item on XX/XX/XXXX. They confirmed receipt and XXXX sent delivery confirmation on XX/XX/XXXX. I was promised {$410.00} would be refunded to my credit card. That did not happen. I had thought when it did, Barclay 's would reverse the charge back. Instead, on XX/XX/XXXX after returning from being out of town, I opened a letter from Barclay 's dated XX/XX/XXXX. It stated that XXXX and XXXX claimed the charge was valid, the return was not allowable and that I had the dress in my possession. XXXX 's stated I had XXXX  days to dispute this. I called immediately, as the XXXX days had already passed before I opened that letter. I spoke to a representative who assured me there was actually XXXX  days and that if I had further documentation, I could submit it for the dispute team to review. I mailed the supporting documents via XXXX As WELL AS faxed them, as per instructions from Barclay 's. I had not heard back from the bank, so I reached out twice more. The first time I was told I would get a response from the dispute team in XXXX hours. That did not happen. The second time, I was again deferred to a manager who returned my call the following day. He stated that my supporting documents were received by Barclay 's on XXXX, XXXX days after the phone call with the Barclay 's representative, but they were not viewed because the number of days to submit them had expired. I attempted to explain the situation multiple times to the manager, but he told me he could not help me, even though he saw the notes from my phone call regarding the conflict on XX/XX/XXXX. He informed me that no one from the banknwould even look at the documents because the number of days was too many. He told me to reach out to XXXX and XXXX, who is unreachable, as I believe they have since gone out of business. I explained again that I have emails stating they recieved the returned item and that I should expect a refund, but he was unable to resolve the issue or allow me to speak to anyone above him. He told me there were no supervisors above him. I have been very proactive in this process, reaching out to resolve the issue both with the merchant and the bank, calling and emailing several times to be sure the issue was resolved. The lack of support from the bank is astounding."
+}

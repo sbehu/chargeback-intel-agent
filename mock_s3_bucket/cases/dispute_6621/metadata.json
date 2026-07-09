@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6621",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77382"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6653,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint against Citibank regarding failure to protect against fraudulent transaction Dear Consumer Financial Protection Bureau, I am filing this complaint against Citibank due to its failure to resolve a legitimate dispute involving a fraudulent transaction of {$1100.00} USD charged to my XXXX Visa card ( last XXXX digits : XXXX ). \n\nOn XXXX 2025 I made a payment to a company named XXXX, which never provided the service promised. I attempted to contact the merchant multiple times, without success. After realizing this was likely a scam, I immediately submitted a dispute through Citibank. \n\nDespite presenting all evidence and supporting documentation, Citibank denied my claim, stating that the merchant refused to issue a refund. This is unacceptable. The merchant did not deliver the service, did not respond to any communication, and clearly acted fraudulently. \n\nCitibanks refusal to take further action and protect me as a cardholder is a clear violation of consumer protection rights under the Fair Credit Billing Act. Their handling of this situation has left me financially harmed and unprotected against a scam. \n\nI formally request the CFPBs assistance in reopening this case and compelling Citibank to fulfill its obligations by reimbursing the {$1100.00}. I am attaching : - The original dispute letter sent to Citibank - Any correspondence received - Screenshots/emails documenting the merchant 's lack of response - Proof of payment and transaction details Please help me resolve this matter and hold Citibank accountable for failing to protect its customer from fraud. \n\nSincerely, XXXX XXXX XXXX Phone : XXXX Email : XXXX XXXX"
+}

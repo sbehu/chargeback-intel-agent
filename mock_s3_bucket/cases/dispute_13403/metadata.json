@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13403",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11237"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24717,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "SUBJECT : FORMAL DISPUTE UNDER THE FAIR CREDIT BILLING ACT ( FCBA ) UNAUTHORIZED CHARGES To Whom It May Concern, I am writing to formally appeal the denial of my fraud claim dated XX/XX/year>. I am exercising my rights under the Fair Credit Billing Act ( FCBA ) and Regulation Z ( 12 CFR 1026.13 ) to dispute {$3300.00} in unauthorized charges appearing on my account.\n\nI am disputing the banks determination that these charges are valid based on the following facts : Unauthorized Activation : On Tuesday, XX/XX/year>, my credit card was activated by an unauthorized party in Florida. I did not authorize this activation, nor was I in the state of Florida on that date.\n\nGeographic Impossibility : The fraudulent transactions occurred between XX/XX/XXXX and XX/XX/year>, in Florida. During this entire period, I was physically present in New York. I have attached documentation proving my presence in New York.\n\nPhysical Possession of Card : Their \" Bot '' determination that a \" physical card '' was used, is proof of cloning or skimming. I have been in continuous physical possession of my legitimate card in New York at all times.\n\nAttempted Fraud while Locked : An unauthorized online attempt at XXXX occurred while the card was locked around XX/XX/XXXX. This further proves the account was compromised by a third party.\n\nTimely Reporting : I contacted the bank immediately on Saturday, XX/XX/year>, to report the fraud and secure the account. \n\nPhone call from Barclay : On XX/XX/year>, Barclays own fraud department contacted me via phone to alert me that an unauthorized individual was attempting to access my account over the phone. This proves the bank had internal knowledge that my account credentials were compromised. Despite their own records of an attempted account takeover on XX/XX/XXXX, they are erroneously holding me liable for the Florida charges from earlier that month. ''"
+}

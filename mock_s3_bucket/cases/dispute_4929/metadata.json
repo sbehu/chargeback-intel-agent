@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4929",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27295"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31443,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted AMEX on several occasions : XX/XX/XXXX ( exact date unknown ), XX/XX/XXXX, XX/XX/XXXX, and XX/XX/XXXX. Each time, I requested to cancel my card to prevent further purchases. Despite this, a purchase was made each month, and I received a different excuse each time. One representative mentioned that a \" hard block '' was needed and that the previous rep hadn't done it, so they did. The following month, when I was charged again, they claimed that recurring merchant charges needed to be marked as well. It was one excuse after another. In my XXXX years, I have never been so frustrated that I felt compelled to file a complaint. The incompetence is staggering. Does AMEX not properly train their employees?"
+}

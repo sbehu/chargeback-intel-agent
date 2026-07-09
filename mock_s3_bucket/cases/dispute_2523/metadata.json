@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2523",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "333XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28999,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi bank with out my authorization enrolled my account in XXXX credit card protection program. Once I realized this I terminated the program and requested a refund for the total amount charged to my account based on the 2015 settlement Citi was ordered to pay. Citi bank only refunded me for XXXX month. I have filed a claim with the better business bureau and have heard nothing from Citi and still have not been refunded for the monthly charges that Citi charged to my account."
+}

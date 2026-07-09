@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3107",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "WI",
+    "complaint_zip": "54902"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1523,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX, CO XXXX XXXX a reservation in my name and automatically charging my credit card on file with XXXX. I called the property to inquire why this was done. The merchant informed me that their XXXX, XXXX, had fraudulently made multiple reservations for multiple guests and, when discovered, XXXX was fired. The merchant informed me that my reservation would be canceled and not charged. However, instead of cancelling the reservation, the merchant changed the reservation to a shorter period at a higher daily rate. XXXX notified me that my reservation was changed, not cancelled, so I complained to the merchant, a private franchisee of XXXX, again. The merchant assured me that it was a mistake, and that they would cancel my reservation. The merchant again changed my reservation instead of cancelling it, so I complained to the merchant again. The new XXXX, XXXX, stated that she is not responsible for XXXX 's criminal behavior. I explained to XXXX that I was disputing her fraudulent activity after XXXX was fired, and I asked for written records of who made these reservations in my name, and who made subsequent changes in my name. XXXX refused to comply. Therefore, the XXXX records that verify that someone other than me made this reservation plus XXXX subsequent changes to this reservation are in the merchant 's system, and also the XXXX system, but I have been denied copies of these records. I disputed XXXX charges with Citibank. Citibank states that I can not contest the charges without written sales receipts. However, the merchant never gave me any receipts, and the merchant refuses to disclose their documentation, so Citibank 's request is unreasonable."
+}

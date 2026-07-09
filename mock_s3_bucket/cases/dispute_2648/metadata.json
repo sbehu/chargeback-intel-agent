@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2648",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93065"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22832,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "DISPUTE WITH BARKLEY BANK - XXXX XXXX XXXX XXXX XXXX\n\nVENDOR - XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX.\n\nDISPUTE TRANSACTION DETAILS:\n1) CHARGED FOR MERCHANDISE NEVER PROVIDED.\n2) COMPANY PROVIDED A FAKE TRACKING AND FAKE SHIPPING COMPANY.\n3) COMPANY PROVIDED FAKE CONTACT INFORMATION - UNREACHABLE\n4) COMPANY ADDRESS IS A FAKE ADDRESS.\n5) COMPANY HAS \"F\" XXXX XXXX XXXX RATING.\n6) XXXX XXXX XXXX WAS ONLY A COMPANY USED BY XXXX XXXX TO PROCESS PAYMENT.  VENDOR IS XXXX XXXX"
+}

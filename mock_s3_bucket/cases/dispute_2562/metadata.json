@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2562",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44134"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36705,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024 I was alerted by Citibank of a charge made with my card for {$310.00} while I was traveling in XXXX XXXX. I immediately called Citibank and told them of the fraud and was assured not to worry they would keep my card open and upon returning to call and file a dispute. When I returned to the XXXX on XX/XX/2024 i called Citibank as directed to report the fraudulent charge. I was asked a series of questions by Citibank and was told I was responsible for the charge since the chip on the card was used for the transaction. I told XXXX at fraud Citibank that I never made that transaction. I asked for a signature or some other proof and was told they didnt have anything. Since I still had the card I was told I must of made the transaction since the chip was used. I explained I used my card throughout my trip, giving my card to restaurants, shops, hotels .I did not make that transaction. I always pay my charge bills in full and did so with Citibank excluding the fraudulent charge of XXXX. Now I received a letter from Citibank stating XXXX responsible for the charge and will be reported to consumer agencies as past due. I am at my wits end and have an excellent XXXX XXXX, I feel Citibank has not protected me. I did exactly what I was told when first reporting the charge received in the alert on XX/XX/XXXX. I was a new customer to Citibank and got the card because they didnt charge an international fee. I have closed the account because of this and am no longer a cardholder with Citibank even having to forfeit my airline miles. Please help me."
+}

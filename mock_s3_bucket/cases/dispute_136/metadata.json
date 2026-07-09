@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_136",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "IL",
+    "complaint_zip": "60073"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21385,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX We purchased 2 separate upgrades to international flights on XXXX XXXX. Issue at the airline and documentation provided showed the flight was no actually upgraded as the issues with the services at the time prevent the seats from working and not being upgraded. \n\nWe attempted to resolve with XXXX while in XXXX and then again upon our return. The only thing we received was a {$25.00} voucher as an apology. We spent {$1900.00} times 2 for these upgrades and that is not acceptable. \n\nWe disputed the 2 charges and provided numerous amounts of documents and signatures within he 60 days of the initial charge. They closed out the dispute because CItiBank is too big to research and resolve anything. \n\nBreak up Citibank!!!! \n\nI want my dispute resolved ASAP."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8151",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30909"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26874,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My XXXX statement had a charge posted on XX/XX/XXXX XXXX XXXX  XXXX XXXX Iin the amount of {$19.00}. \nWhen reviewing my account online I also saw other DoorDash charges that had recently posted : XX/XX/XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX} I mailed a letter to AMEX disputing these charges and filed a dispute online as well ( See attached ). After mailing the letter another fraudulent charge posted on XX/XX/XXXX : XXXX XXXX XXXX XXXX XXXX CA {$43.00} Will appear on your XX/XX/XXXX statement as XXXX XXXX XXXXXXXX XXXX XXXX CA I contacted XXXX and based on their records I have not utilized there service since XX/XX/XXXX. ( see attached ) On two of the dates I was not in the United States - XXXX I was in XXXX and XXXX I was in XXXX XXXX. The AMEX card in question was in my possession. \n\nAMEX did send two letters two me ( see attached ) which do nothing but prove that fraudulent XXXX  transactions were entered/ordered via the internet and posted fraudulently to my account. These charges were unauthorized and fraudulent yet AMEX has reposted them to my account."
+}

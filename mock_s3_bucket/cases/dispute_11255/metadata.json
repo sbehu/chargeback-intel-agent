@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11255",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33324"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46757,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding a billing dispute with American Express that has been ongoing for more than six months. \n\nThe charge in question was billed by XXXX after the expiration of a six-month prepaid service agreement. I did not authorize any renewal or recurring billing beyond the original term. \n\nAmerican Express initially accepted the dispute but later denied it after the merchant submitted screenshots and internal records instead of valid proof of authorization. \n\nThe merchant documentation contains multiple issues : No signed authorization for renewal or recurring billing Screenshots and internal system records rather than a valid authorization record Incorrect business address associated with the transaction Verification information referencing a geographic location inconsistent with my residence and business Additionally, XXXX sent communications offering renewal pricing, confirming that renewal required affirmative consent.\n\nDuring my most recent communication with American Express, a representative acknowledged that the dispute was incorrectly classified and attempted to reopen the case under Unauthorized/ No Authorization. However, I was told the system would not allow the change at that time and that I should reconnect later.\n\nBecause the dispute was evaluated under the wrong classification and the merchant has not produced valid authorization for renewal billing, I am requesting regulatory assistance to ensure that the dispute is reviewed correctly."
+}

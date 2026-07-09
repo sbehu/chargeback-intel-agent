@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3008",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75056"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9169,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, a charge of {$10000.00} was made on my American Express Card that I did not make or authorize. The attached document shows the amount and illustrates that it does not align with my spending habits or location. The purchase was made in XXXX, FL, while I reside in Texas. This purchase was set up for \" pay over time '' When I did not set this up and did not make this purchase. I am the only authorized user on my account and have reported this fraud to American Express."
+}

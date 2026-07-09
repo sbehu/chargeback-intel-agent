@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8624",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80249"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30316,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I attempted to reserve a room with a Bed and pull-out bed for the XXXX XXXX XXXX in XXXX XXXX XXXX California. I needed to add a day. I called the hotel, and they informed me that I booked through a third party and that they can't edit the reservation. So I just asked If they can make a new reservation for the same room for the additional day. They then told me that they don't have rooms with pull-out beds and that my reservation is for a single bed only. My receipt does say 1bed and 1pull-oout. The hotel gave me the number for the merchant whom I called. They said the room is non-refundable and that there is nothing I can do. \nSo I repurchased the rooms but with two beds since a pull-out isn't something the hotel offers. \nI disputed this through my credit card ( Citi ). Citi doesn't have any way to upload documents I've called multiple times, asking how to do it why is my dispute finding me at fault. This is clearly the fault of the merchant since the room I bought isn't available. \nI'm told I need to prove what I purchased, and I have the receipt, and I can see on the Official Hotel Website that the room I bought isn't one that they option. They give me no way to upload anything and still say that I need to comply with the merchant 's refund policy. \n\nI can't access any of the dispute information on Citi websites and I'm on the phone for hours to try to get answers."
+}

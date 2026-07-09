@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9274",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77373"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26993,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I received a credit card statement for the amount of {$1600.00} via email from my Best Buy Credit Card. However, I thought it was a phishing attempt, given the fact that I have not used this store card since XXXX. I went to check my account on XX/XX/XXXX and did see the charge, and I saw via my account that the purchase was made at the XXXX XXXX on XXXX, XXXX, TX, on XX/XX/XXXX. I did not go into that store on that day, so the purchase was not from me. I do not have any authorized users, and the card was secured in a safe in my home. The person who committed the crime used my information to look up the card and purchase the item. The item was later returned to XXXX XXXX in Delaware on XX/XX/XXXX, and the money was used to purchase another item and get store credit. \n\nI reported this fraudulent activity to the company on XX/XX/XXXX and XXXX. They have opened an investigation into this activity, and I have also closed the account. This was a fraud crime was committed on a \" My Best Buy Credit Card '' managed by Citibank."
+}

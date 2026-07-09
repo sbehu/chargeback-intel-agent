@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_861",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33952"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 606,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I enrolled in an online employment site called \" XXXX XXXX '' phone # XXXXXXXX  about two years ago. I used my Best buy credit card to make the purchase. XXXX. \n\nAfter about two months and unable to get employment with \" XXXX XXXX  '', I attempted to disenroll from the service and stop the use of my credit card. \n\nI contacted both \" XXXX  XXXX '' and \" Best buy ''. Both promised to cancel my enrollment and Best buy promised a refund. \n\nI would like Best buy and XXXX XXXX to cancel my enrollment and refund any funds due me."
+}

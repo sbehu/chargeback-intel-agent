@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1269",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "11375"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48988,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX  Event was oversold, a safety hazard, delayed start and the tickets were not as described. Citi never sides with me and I had to reach out multiple times to the CFPB for them to give me a proper response. This time when they responded I was in XXXX XXXX  and was unable to provide the evidence they required. I would like to be able to provide the evidence required so I can get a refund."
+}

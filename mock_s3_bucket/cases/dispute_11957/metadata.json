@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11957",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "80504"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28602,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Product : Credit card Company : Citibank , XXXX XXXX \nCard : XXXX XXXX XXXX XXXX ________________________________________ What happened I did not request closure of my XXXX XXXX XXXX XXXX account. \nOn XX/XX/XXXX, Citibank closed the account, stating the reason was XXXX or more late or returned payments. That characterization is inaccurate. \nThis is a business credit card, and I am not a personal guarantor on the account. \nIn XX/XX/XXXX, my computer was compromised, requiring a business banking change. During that transition, I continued making payments. \nFor example : A payment of {$10000.00} was initiated on XX/XX/XXXX The payment appears as paid on my XXXX statement Citibank posted it internally on XX/XX/XXXX Citibank treated the payment as late because the due date was the XXXX This reflects an ACH posting delay, not a failure to pay. Any timing issues were isolated to a short transition period and do not represent late payments over a 12 month period. \n________________________________________ Why this is a problem Citibank closed a business account without request based on an inaccurate and overstated characterization of payment history. \nI have been a XXXX member since XXXX, reflecting a long standing and stable business relationship, which makes the sudden account closure based on a short, isolated posting issue particularly disproportionate. \nAs I am not a personal guarantor, any implication that this account reflects personal credit risk is inappropriate."
+}

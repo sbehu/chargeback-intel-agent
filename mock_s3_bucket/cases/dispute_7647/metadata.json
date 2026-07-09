@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7647",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7208"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12457,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To whom it may concern, I am submitting a regulatory complaint against the Consumer Financial Protection Bureau ( CFPB ) regarding an unresolved dispute with the merchant XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX in the amount of {$640.00}, charged on XX/XX/year>, to my account ending in XXXX. \n\nThe dispute was initiated under Ref. XXXX XXXXXXXX using the dispute reason : Cancelled/ Returned/ Refused Delivery for Goods or Services/ Expected credit not received. \n\nI have provided American Express with sufficient documentation showing that a refund was both warranted and promised. The car rental booking, scheduled for XX/XX/year> in XXXX, was cancelled in advance. Despite my repeated attempts to contact XXXX to confirm the cancellation, I received no timely response. Which the merchant has yet to provide written, which is a breach of contract. \n\nOn the date of the scheduled booking, I was informed by a XXXX employee to escalate the matter to corporate, at which time they acknowledged that a refund was still due. This acknowledgment is reflected in the attached documentation. \n\nFurthermore, there is a clear discrepancy between XXXX  advertised no-hassle full refund policy and the terms and conditions they have attempted to enforce in this case. I also provided American Express with additional evidence referencing applicable consumer protection laws under XXXX, XXXX regulations, as well as U.S. federal regulations governing contractual and consumer rights ; both of which apply to American Express operations. \n\n\nPlease find all supporting documentation attached for your review. \n\nSincerely, XXXX XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11980",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90720"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11731,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'Subject: Formal Complaint  Unauthorized Credit Card Charges and Improper Dispute Handling\\n\\nTo: Consumer Financial Protection Bureau (CFPB)\\n\\nDear Consumer Financial Protection Bureau,\\n\\nI am submitting a formal complaint regarding the handling of disputed credit card charges by Citibank (credit card issuer) on my account.\\n\\nI am disputing charges totaling approximately XXXX and XXXX from XXXX XXXX XXXX These charges were not authorized by me, and I did not agree to be financially responsible for them.\\n\\nUnder the Fair Credit Billing Act (15 U.S.C.  1666), a cardholder is not liable for unauthorized use of a credit card, defined as use without actual, implied, or apparent authority. I did not provide authorization for these charges, and I did not receive the benefit of the services billed.\\n\\nDespite this, Citibank has indicated that the charges may be considered valid based on the assertion that I had knowledge of the transactions because the individual involved is a family member. I was informed that this relationship and awareness alone may be treated as authorization. I do not agree with this determination, as knowledge of a person does not constitute legal authorization under the Fair Credit Billing Act.\\n\\nAdditionally, I have requested documentation showing my authorization of the charges or any agreement making me financially responsible. No such documentation has been provided.\\n\\nI am requesting CFPB assistance in reviewing whether the creditor properly:\\n\\nInvestigated my dispute under the Fair Credit Billing Act\\nApplied the correct legal standard for unauthorized use\\nImproperly treated knowledge of the user as authorization\\nFailed to require proof of actual authorization before holding me liable\\n\\nI am seeking correction of the account, removal of the disputed charges, and a full review of Citibanks handling of my dispute.\\n\\nThank you for your time and assistance.\\n\\nSincerely,XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX CA XXXX"
+}

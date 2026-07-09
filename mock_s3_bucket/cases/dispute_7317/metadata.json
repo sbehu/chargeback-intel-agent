@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7317",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IA",
+    "complaint_zip": "52402"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2017,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My line of credit was used by an identity thief to open up a Home Depot Citibank credit account. I reported this to XXXX and to Home Depot. When I finally managed to get a hold of a live person and explained the situation, they said it would be investigated and the charges would be taken care of. A month later, I got a bill. I called back again, and they said it takes a while after the investigation to erase the account.\n\nToday I got a letter with two erroneous statements. They said that 1. Their investigation found that I was indeed responsible for the charges ( despite the fact that I wasn't in the area of the purchases at the time ).\n\n2. That I did not dispute the charges ( despite calling them twice to dispute it.\n\nI contacted Home Depot Citibank because I am unable to log on to the account online. I do not have the phone number associated with the account as I did not set it up. They said they have the number, but even though I am supposedly the one responsible for it I'm not allowed to be given it. They also did not tell me how their investigation came to the conclusion it did."
+}

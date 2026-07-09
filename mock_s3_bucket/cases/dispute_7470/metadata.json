@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7470",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "535XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9942,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/scrub>/2025, I was approved for a XXXX CitiBank credit card in-store. The Costco employee asked if I would like to use my card that day. I said I would, but I was not provided with any method of paying with my new card that day. Instead, I made my purchase with my debit card.\n\nOn receiving my new card in the mail, I activated it and noticed there was already a charge for {$170.00} on the card. On XX/XX/scrub>/2025, I went to the XXXX location and inquired about the charge at the customer service desk. They asked me to speak with CitiBank, and provided me with their phone to make the call.\n\nI spoke with CitiBank 's fraud department, who opened a dispute case. While the dispute was open, CitiBank provided me with a credit of {$170.00}. According to the dispute details, CitiBank contacted XXXX on XX/XX/year>2025, CXXXX replied on XX/XX/scrub>/2025, and CitiBank closed the dispute on XX/XX/year>2025, with a decision that I was responsible for the charge of {$170.00}, and that the credit applied to my account would be removed. \n\nWhen XXXX replied to the dispute on XX/XX/year>2025, they provided a receipt for the {$170.00} purchase, which shows that a different name and membership number from my own made the transaction with my credit card."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11749",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30078"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31506,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear XXXX Customer Relations, I am writing to formally demand resolution regarding a defective Masterbuilt smoker purchased from XXXX XXXX in XXXX XXXX my repeated efforts to resolve this matter through both XXXX XXXX and the manufacturer, I have been left with a non-functioning product and no meaningful assistance. XXXX sent out a control panel on XX/XX/year>, however the smoker is still inoperable. Since my purchase, the smoker ceased operating properly.Because the unit remains under the manufacturer 's warranty, I contacted XXXX for XXXXThey provided a control panel ; however, the smoker is still malfunctioning even after installation.I was then explicitly advised by XXXX that they do not replace smokers under warranty and that I should seek resolution through the retailer XXXX XXXX, as the product XXXX have been defective at the time of sale.Following that guidance, I contacted XXXX XXXX and was informed that the item falls outside the standard return period and that I must instead pursue warranty remedies through the manufacturer.As a result, I am being directed back and forth between XXXX XXXX and XXXX without any party accepting responsibility, leaving me without a working product. This situation is unacceptable.Under applicable consumer protection laws and implied warranty standards, products sold must be fit for their intended purpose.A smoker that fails within such a short period-combined with unsuccessful repair efforts-strongly indicates that the unit was defective. Given these circumstances, I am requesting that XXXX XXXX step in to resolve this matter.Accordingly, I am requesting immediate resolution in the form of a replacement smoker of the same model, or a comparable product of equal value.Please consider this letter a formal request for remedy.I would prefer to resolve this matter directly and amicably.Please respond within XXXX business days of receipt of this letter with a clear plan to resolve this issue.I have attached the proof of purchase and prior correspondence is available and will be provided upon request. \nThank you for your prompt attention to this matter.i look forward to your timely response. \nSincerely,"
+}

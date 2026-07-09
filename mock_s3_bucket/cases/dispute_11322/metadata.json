@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11322",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "983XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21092,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was the victim of a scam involving a fraudulent merchant that collected payment through a payment link. Two charges totaling {$1100.00} appeared on my American Express account on XX/XX/year> ( {$99.00} ) and XX/XX/year> ( {$1000.00} ). When I discovered the fraud and contacted American Express, my dispute was denied because it fell outside the 60-day billing dispute window. However, this situation involves a fraudulent merchant and misrepresentation rather than a normal billing dispute. I have reported the matter to the payment processor and the FTC. I am requesting that American Express reconsider this case as a fraud investigation rather than applying the billing dispute time limit. Instead they have been giving me the run around and being unhelpful when I request for it to be reviewed as fraud by a supervisor."
+}

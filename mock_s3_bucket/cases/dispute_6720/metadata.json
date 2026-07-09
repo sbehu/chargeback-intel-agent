@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6720",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98030"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36736,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "From XX/XX/XXXX to XX/XX/XXXX someone used my bestbuy credit card in the XXXX to purchase random products and food i called in bestbuy customer service to report the problem but they said that the purchase was valid so i asked for full report on how they determine that the purchases was valid but they just give me the mail saying that i made the purchase."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_875",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89118"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5318,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a purchase from XXXX XXXX XXXX on XX/XX/2022 in the amount of {$6000.00}. This merchant had an \" Anytime Refund Guarantee '' stating they would offer a full refund at anytime. When i requested a refund from this merchant, they stopped communicating with me and are no longer responding. Apparently, they have scammed quite a few consumers. I reached out to my credit card company to dispute the charge and sent over supporting documentation to them. However, and unfortunately, they only sent me a letter with a vague response stating that the documentation i provided \" did not support '' my claim- with no further explanation of their findings. This was the second time i opened the same dispute, with the first one being denied as they needed documentation."
+}

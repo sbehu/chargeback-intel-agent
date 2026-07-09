@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11274",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48203"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7423,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, I am filing a formal complaint regarding the handling of a billing dispute on my Best Buy credit card account issued by Citi. \n\nI disputed a charge from XXXX XXXX XX/XX/year> in the amount of {$450.00} ) for a sewer camera inspection because the company charged me for the service but failed to provide the video footage associated with the inspection. The video documentation is the primary deliverable of a sewer camera inspection. \n\nDuring the dispute process, the merchant claimed that they offered me an application to download the inspection video. This statement is false. I was never provided with an application, instructions, or any method to obtain the video footage. \n\nDespite this, Citi ruled in favor of the merchant. What concerns me is that the merchant did not submit any proof supporting their claim. Specifically, they did not provide : The name of the application they claim I was asked to download Documentation showing instructions for downloading the application Proof that this information was provided to me The actual sewer camera inspection video they claim was recorded A legitimate sewer camera inspection generates video footage. If the service was performed and accessible through an application, the merchant should easily be able to provide the recorded video or documentation showing how it was shared with the customer. \n\nInstead, Citi accepted the merchants statement without requiring evidence to support it. \n\nAdditionally, the merchant has provided conflicting versions of events to other agencies regarding this same service visit. These inconsistencies further raise concerns about the credibility of their claims. \n\nFirst they lied and tile the better business bureau they gave me the option to record the live video which they didnt. \n\nThen they told Citi Best Buy they gave me an application to download the video. Another lie. \n\nAs the credit card issuer, Citi has an obligation under the Fair Credit Billing Act to conduct a reasonable investigation into disputed charges. Accepting unsupported statements from a merchant without requiring documentation does not constitute a thorough or fair investigation. \n\nI am requesting the following : A review of the dispute investigation conducted by Citi. \n\nVerification of the evidence submitted by the merchant. \n\nA request that the merchant produce the actual camera inspection video or documentation showing how it was provided to me. \n\nReconsideration of the chargeback decision if the merchant can not provide proof that the service documentation was delivered. \n\nConsumers should not be held responsible for charges when a merchant can not provide evidence that the service was properly delivered. \n\nI appreciate your review of this matter and look forward to a response."
+}

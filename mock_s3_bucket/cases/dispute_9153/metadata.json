@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9153",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46368"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47168,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged for damage ( XXXX EUR ) on a rental vehicle for the time period of XX/XX/year> - XX/XX/year> in XXXX, XXXX and the amount was charged to my credit card. I have not been provided a written copy of the damage report that justifies the charge. The rental company is XXXX XXXX XXXX. I attempted to have my credit card company ( CITI ) dispute the charge, but they did not include a copy of the damage report in their dispute letter. I am continuing to dispute these charges until I have seen a copy of the damage report that details the justification of the damage charges. The rental company has not responded with documentation of a written damage report, despite attempted emails on XX/XX/year>, XX/XX/year>, and XX/XX/year>. My credit card company has not made any effort to receive this documentation either. I am not disputing the charge of the rental car, but rather the charge for the damages."
+}

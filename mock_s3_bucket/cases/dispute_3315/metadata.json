@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3315",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10547,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX # XXXX Ordered a jacket online on XX/XX/XXXX. Was supposedly delivered on XX/XX/XXXX via XXXX ( originally shipped via FedEx ). Never received item. Reached out to XXXX ( via phone ) and was told to wait XXXX days, as XXXX marking an item \" delivered '' may simply mean that it was on the truck for delivery. XXXX days went by and I reached out to XXXX again XXXX via phone ) and was told I needed to wait 5 days to file a claim. Filed a claim online for \" Item Not Received. '' XXXX business days go by and it was denied. I called XXXX again ( via phone ) to appeal the claim. Another XXXX business days go by and I got an email that it was denied. \n\nI then opened a dispute with American Express. This dispute was opened/closed XXXX separate times. The first time, it was simply closed. The second and third times, American Express sided with XXXX and provided documentation with XXXX things ( XXXX ) proof that I initiated the order ( not disputed ) ; XXXX ) XXXX  tracking showing that the item was delivered ( no signature, photo, or proof of delivery ) ; 3 ) return policy stating that since 30 days had elapsed, XXXX would no longer accept a return ( I can't return an item I never received ) ). Since XXXX provided those documents, AmEx refuses to honor the dispute. I've even spent days and weeks on the phone with AmEx 3-way calling XXXX to try to get XXXX to share a proof of delivery or proof that they had opened a claim with XXXX. I never got proof that they opened any inquiry with XXXX. XXXX will not open a claim for me, as I am not the shipper. \n\nAt various times, American Express disputes team told me : - That I could file a \" XXXXhase Protection '' claim. Their purchase protection terms state that items in the possession of a \" common carrier '' are not covered. As I never took delivery of the item, I could not say it was stolen from me.\n\n- American Express requested multiple times via 3-way calls with XXXX that they provide proof of delivery ( signature or photo ) or proof that XXXX initiated a claim with XXXX. XXXX never provided either. \n- American Express told me that they would write off the charge. Then at another point they told me they would offer me half of the charge as a gesture ~ {$380.00}. Ended up offering me nothing. \n\nI am at a complete loss at this point. This was an expensive item that I bought myself for my birthday. I don't know what other recourse I have. I thought XXXX would have opened an investigation with FedEx and replaced the item. I thought AmEx would have my back once I filed a dispute. Please help."
+}

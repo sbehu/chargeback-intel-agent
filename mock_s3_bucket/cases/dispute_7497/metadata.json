@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7497",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10463"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36801,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays Bank JetBlue XXXX opened a dispute as per my request and then shortly after a few days later closed the dispute without contacting the Merchant failed to get proper documentation but closed the dispute based on how they felt without investigating the matter. Also they failed to ask the merchant for a signed copy of me agreeing with the service in which I did not agree to the charge because service was not rendered."
+}

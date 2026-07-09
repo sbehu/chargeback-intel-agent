@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7698",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "974XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29551,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im a XXXX XXXX XXXX man on XX/XX/year> I was scammed and fraudulent charges were issued to my credit card. I contacted the company on the same day XX/XX/XXXX. Told him I was scammed had fraudulent charges and I did not want them to go through. Citibank told me to wait until the charges appear and then file a dispute. I filed a dispute they said it was gift card charge, and the dispute should never have been filed to begin with. They checked into it and told me I was responsible for the charges the same scammer Got me on another bank XXXX XXXX  when I contacted XXXXXXXX XXXX they canceled my card put a hold on it and I did not get charged any of the chargers that were on the XXXX XXXX card because they stopped it immediately. Why didnt Citibank do the same thing when I told them they were fraudulent"
+}

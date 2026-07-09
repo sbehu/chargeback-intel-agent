@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_350",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46037"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 969,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX XXXX XXXX XXXX, IN XXXX Tel : XXXX Account # XXXX XXXX XXXX XXXX XXXX XXXX Credit Card, I have unauthorized charges on my card. I filed the fraud disputes and sent an online message on XXXX. I closed the cards online and requested new cards. I have already received the new cards. I wrote a letter on XXXX and faxed it to Barclay on XXXX and XXXX. \n\nXX/XX/20XXXX XXXX XXXXXXXX XXXX XXXX XXXX {$100.00} XX/XX/2023 XXXX XXXX {$75.00} I had two Barclay cards in XXXX XXXX The Barclay website has a button to order a duplicate card. Only one of my cards was stolen. The second card was in my home. Thus, I had a card, and both were not stolen. \n\nI am reporting Barclay to the Consumer Financial Protection Bureau and the XXXX XXXX XXXX  for not providing fraud protection. The charges are fraud and are not authorized by me. Barclay should know that I had two cards in active use and used the duplicate button. \n\nAlso, it is possible to have a card stolen and used, and then replaced in your home, hotel, or wallet. It that situation, the thief had access to your home, wallet, or hotel. A thief can be a co-worker, employee, guest, maid, intruder, hotel manager, or family member that made unauthorized charges. Barclay is not considering all of the possibilities for fraud. \n\nPlease reverse the charges on my account due to fraud. If I need to sign paperwork, please mail it to me. Please send me a confirmation letter that you received this notification of fraud. I prefer to receive status updates by paper mail. \n\nThanks, XXXX XXXX"
+}

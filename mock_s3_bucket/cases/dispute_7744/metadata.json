@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7744",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25367,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I request that dispute XXXX is sided in my favor per the agreement with the merchant. The merchant did not provide services and stole my funds."
+}

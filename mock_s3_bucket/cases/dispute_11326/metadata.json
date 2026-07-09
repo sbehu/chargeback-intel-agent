@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11326",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92054"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18539,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX improperly charged a monthly insurance fee on insurance that had been cancelled. After a few months, it was discovered, and the charges were disputed. XXXX  could not dispute the cancellation because other new insurance was purchased because they could not provide the coverage. They paid some of the funds but not all, claiming that the credit card company ( Citi ) had funds due. Citi sent me a check for {$520.00} that I cashed. In XX/XX/XXXX, a statement was sent wherein Citi debited my account for that amount, which created an incorrect balance. I called them several times, and on one occasion went over the XXXX statement, asking how the credits, debits, and the listing of the {$520.00} as a credit, but actually was a debit on the statement. I disputed the balance on all three credit reporting agencies, but none of them could get the problem resolved. This is simple math that the Citi employees are not able to work with. I am uploading the XXXX statement. Under the Account Summary, there is a credit section showing \" XXXX Refund as Requested {$520.00} '' and XX/XX/XXXX CitiBank Conditional Credit {$250.00} ( the monthly amount XXXX  was charged for several months. The next subsection shows two reversals of XXXX XXXX charges. Going back to the top of the statement, there is another Account Summary of the previous balance payment, credits, and purchases. That purchase amount of {$1000.00}, when reviewing the rest of the statement, includes the {$520.00} that was the report of the check they sent to me. They will not properly account for and acknowledge the system 's improper debit of the {$520.00}."
+}

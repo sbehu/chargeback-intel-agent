@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2505",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "079XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10044,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I've been disputing a {$10000.00} credit card charge with American Express for months now, as this issue has been going back and forth with the dispute team for quite sometime. I had finally received a secure message on their website in XXXX regarding the inquiry indicating that the dispute had been resolved in my favor and it will be credited on my next billing statement in XXXX. While this was going on I had a revolving pay over time balance but because they didn't recognize the credit for the disputed charge they claimed my account had to be paid in full with a balance to include the {$10000.00} charge as it was now included into the balance and not recognized as a credit and was now overdue. They wanted to put me on a payment plan as I was not able to pay all this upfront in addition to the disputed amount that they claimed I didn't owe as per the secured message but now said they didn't recognize. I called and had many conversations with different customer service representatives about this and couldn't get anyone to make sense of it."
+}

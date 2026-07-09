@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10020",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33180"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38907,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a service for {$450.00} on XXXX. The merchant charged my card and immediately locked my account, preventing me from receiving the service. I contacted XXXX asking them either to refund the service that I don't have access to or to restore access. They refused to unlock the account and also refused to refund the service, claiming it is non-refundable. \n\nI then reached out to Amex to dispute the transaction. Amex is upholding the non-refundable clause despite the fact that the merchant refused to provide the service I paid for, which is a violation of the Fair Credit Billing Act."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3841",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98059"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44561,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX, I ordered a pair of diamond earrings and charged it to my Macy 's store card for {$750.00}. I received the package on XX/XX/XXXX and the box was empty. I immediately called their customer service. They canceled my existing card and reissued me a new one, due to fraud. In addition, they sent out a replacement pair of earrings. I have a XXXX XXXX XXXXXXXX transaction payment to Macy 's of {$750.00} dated XX/XX/year>, paying for the earrings I received. I filed a police report with our XXXX XXXX XXXX. Their determination for the empty package was Macy 's whether intentional or accidental. I have repeatedly disputed this with Macy 's each month, to no avail. They consistently deny my case even though I've presented the documents to prove I have indeed paid for what I did receive. I have not had a blemish on my credit report until now. At XXXX XXXX XXXX I think that's quite an accomplishment and I was a platinum member with Macy 's if that says anything. Now I'm charged 34 % interest on each month the account is past due. I would like my account cleared of all charges."
+}

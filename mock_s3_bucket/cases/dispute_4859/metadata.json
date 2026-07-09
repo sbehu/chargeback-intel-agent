@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4859",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92880"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29278,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hello, on XX/XX/year>, I received notification in my email that I was charged {$1600.00}, {$1200.00}, and {$560.00} on my employee card from XXXX. I never let my employee make any purchase without my authorization, which I also confirmed with my employee. I immediately called American Express to ask them to replace the card number and dispute the amounts. but after a few days, I checked online banking to check the disputed status and I did not see any disputes, so I went back to the above transactions and filed the dispute online this time. Still, they rejected my disputes and made me liable for the transaction that I never made or authorized."
+}

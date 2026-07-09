@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5915",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "TX",
+    "complaint_zip": "757XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36848,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I made an online purchase of male enhancement pills to help me regain strength. I received that order, but never received a receipt from that company XXXX. I made the purchase through my citicard that ended in XXXX. Citicard offered me a rewards card to replace the XXXX card in XX/XX/XXXX which I accepted. That card number ended in XXXX. I never received a statement from CitiCard showing that anything was was purchased or transferred. I had selected autopay for that card to be withdrawn from my XXXX XXXX XXXX account, here in XXXX In mid XX/XX/XXXX as I checked my account with my XXXX XXXX XXXX, I saw that over {$300.00} had been withdrawn from that account. The fraudulent charge of {$290.00} from XXXX was transferred from the old XXXX card without my knowledge. I contacted CitiCard to find out why they withdrew that money without my knowledge. At that time they sent me a statement that showed the fraudulent charge was transferred from my account.. I also learned at that time, that Citicard was preparing to withdraw another fraudulent charge of {$270.00} from my XXXX XXXX XXXX account in XXXX of XXXX. I told them that it was fraudulent and they removed it from my statement after a couple weeks. I cancelled that card ending in XXXX and received a new one ending in XXXX. I submitted written information and called their fraud division numerous times and spoke with many people, only to find out that they did nothing to recover my {$290.00} They mistakenly reduced the {$290.00} to {$260.00}, but said that they would do nothing to recover my loss because I did not have a receipt. XXXX did not send a receipt. \nAfter filing a complaint with BBB, only to find out that numerous people had fallen victim to that same company and that BBB could do nothing because that company was not a member. \nWhen I received my card from Citicard, their published information stated that they safeguarded cardholders from fraudulent charges, but they failed to do that, even though numerous complaints had been filed against that company. They passed the charge through and should have some verification of that charge, although the asked me for a receipt that was never sent to me."
+}

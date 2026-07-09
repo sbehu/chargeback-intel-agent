@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8243",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "73107"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4639,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Charges were made onto my card starting XX/XX/year>. This number XXXX contacted me claiming to be Citi fraud. They had a new card sent to me from Citi bank and wanted me to approve charges I didn't make. I contacted Citi bank about it and they reported that it wasn't right."
+}

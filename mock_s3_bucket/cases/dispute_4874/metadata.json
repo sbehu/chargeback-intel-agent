@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4874",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91709"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49157,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I pre purchased a rental from XXXX for XXXX weeks. However on, XX/XX/XXXX I called XXXX XXXX XXXX and inquired that I did not need this car for this entire time period. I was instructed by XXXX to bring the car in and I would only be charged for the amount I used the car which was {$210.00}. I noticed that on my credit card statement it was still showing I was charged the full amount of {$400.00}. I opened my dispute with CITI on XX/XX/XXXX, where I was provided a conditional credit and they requested additional documents that I did not submit in time and closed my dispute and reversed my conditional credit on XX/XX/XXXX. When I called CITI on XX/XX/XXXX the representative informed me that she will reopen my dispute and for me to submit the documents needed to which I submitted the documents requested on XX/XX/XXXX. In the app it was showing that my dispute was still being processed. On XX/XX/XXXX when I called CITI about the status of my dispute as I have not heard from them they said on XX/XX/XXXX I was emailed a letter stating I was not overcharged and they closed the dispute without notifying me only that they sent an email. It should be noted that this whole time there dispute center in the app was still showing this claim was still in progress and no mention that it was closed or that a decision was made. Further, I submitted my receipts to CITI to show how much I was supposed to be charge and they can see in my account how much XXXX had charged me to and informed them I was not overcharged for my rental vehicle and I asked how they came to that decision, they could not provide an answer to me only that I missed the deadline to inquire anymore about this dispute and that I would need to settle it with the merchant and offered me a {$20.00} credit as a show of good faith. I was still overcharged for my purchase and CITI is not doing anything to rectify the situation."
+}

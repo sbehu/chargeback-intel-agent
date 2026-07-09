@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1188",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60611"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1826,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2020, I used Citi Credit card to purchase XXXX XXXX laptops for a total of {$3600.00}, {$450.00} for each. \n\nOn XX/XX/2020, Tracked shipping and XXXX tracking showed orders been delivered. However, I did not receive the products. I have filed the Police Report and informed the merchandise of the missing goods. And I disputed all the XXXX transactions with Citi. I called Citi multiple times, but they did not help to dispute the transactions. I provided the Receipt, the policy report to Citi, but Citi did not do the investigation and Citi still charged me the amount."
+}

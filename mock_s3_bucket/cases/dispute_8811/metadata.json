@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8811",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27617"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/2025, I ordered a product from XXXX in the amount of {$470.00}. The product was sent with XXXX tracking # : XXXX. The address it was being delivered to has a XXXX mile driveway which these companies always deliver to the front porch. In this case, the package was marked as delivered with a picture on the delivery statement showing a box in the back of a truck ( not at front of home ). I never received the package any where on the property. I filed a dispute with Citi with the above details, and they've claimed I'm responsible. I asked for the supporting information over the phone and they didn't send it to me. Citi claimed I am responsible for the purchase. I'm not sure how I'm responsible for a purchase that was never delivered."
+}

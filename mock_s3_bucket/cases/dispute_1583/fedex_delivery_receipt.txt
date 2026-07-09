@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-70432288-US
+Shipment Date:   2026-03-05T00:00:00Z
+Delivery Date:   2026-03-12T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     9436 HERITAGE BLVD, CA, 94526
+============================================================

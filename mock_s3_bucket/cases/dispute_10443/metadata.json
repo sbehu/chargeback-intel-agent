@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10443",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10710"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7135,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a formal complaint against American Express regarding their handling of a dispute involving misrepresented goods totaling approximately {$25000.00} in purchases made through XXXX from the seller XXXX XXXX. \n\nI bid on XXXX XXXX phones in reliance on the sellers written condition report. XXXX XXXX typically indicates cosmetic wear but complete devices. The shipment I received contained phones missing internal components, rendering them salvage units. Missing internal components were not disclosed anywhere in the condition report. This is not buyers remorse or auction variability ; it is material misrepresentation and goods not as described. \n\nTo support my claim, I provided American Express with : - photographs showing missing internal components - the sellers condition report contradicting the actual items delivered - XXXX XXXX and additional documentation showing the discrepancy Despite this clear evidence, American Express has repeatedly declined my dispute and instructed me to resolve the issue directly with the merchant, even though I have already pursued that channel. The merchant has only offered a {$3900.00} partial refund on a {$37000.00} purchase, which I rejected because it does not address the scope of misrepresentation of grade and condition. \n\nAmerican Express is treating this as an auction purchase or buyer dissatisfaction case, rather than as goods not as described / material misrepresentation, despite the fact that the phones delivered were fundamentally different from what was represented in the sellers listing and condition report. \n\nI believe American Express has not fulfilled its obligation to protect consumers from misrepresented purchases under its dispute resolution process. I respectfully request the CFPBs assistance in ensuring this dispute is reviewed appropriately under goods not as described / material misrepresentation, and that proper chargeback protections are applied. \n\nThank you for your attention to this matter."
+}

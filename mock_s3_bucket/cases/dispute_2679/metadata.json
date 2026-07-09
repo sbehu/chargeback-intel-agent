@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2679",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "381XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40109,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Citibank after my family 's cards ( XXXX XXXX & XXXX XXXX ) were lost during our vacation. Upon checking my account, I discovered that my sons card had been stolen and used. I promptly notified Citibank about the fraudulent charges. They apologized for the inconvenience and assured me that cardholders have XXXX liability for fraud, and a temporary credit would be issued while the claim is processed. However, no action has been taken since the claim was filed. Despite being a loyal customer and continuing to pay my bill, this situation has created a hardship and is negatively impacting my credit and credit line. This issue needs to be resolved and updated immediately."
+}

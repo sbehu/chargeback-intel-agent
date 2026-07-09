@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2616",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97306"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17543,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was waiting to receive my Best Buy credit card ( through Citibank ) in the mail and my mailbox was broken into while it was in there. I didnt know when it was supposed to arrive. I received a text message from my landlord telling me that my box had been broken into, not knowing that the card was in there yet. The thief immediately, the same day, went to a Best Buy store and purchased items. A receipt was sent to my email, which is how I found out in the first place. I called Citibank and disputed this and reported my card stolen. This purchase was for {$1000.00} on XX/XX/2024. The representative on the phone told me that they attempted to make another purchase as well but it was declined due to being over my limit, because the thief obviously didnt know my limit. After a few months of the fraud department investigating this, they sent me a letter stating that they determined it wasnt fraudulent. When Ive inquired about how they could be determining that, they never give me a real answer. Just that they have ways of determining these things. I called again to dispute it again and received a letter electronically that I cant even open but the title says its been resolved. Considering I dont have my money back, its safe to assume they resolved it again, not in my favor. Which was only days after I opened the second dispute. I reported my card stolen as soon as I found out. I did not make that purchase. The thief was very obviously not asked for ID in store, which is strange considering that is a very large purchase, and a new credit card, and not signed. The store also didnt seem to find it strange that the thief then changed the phone number on my account to what I can assume was theirs. It notifies me of this as well, which could have been problematic in the further because identity and purchase verification codes have been sent through text message. I believe this has been mishandled greatly and would appreciate a resolutions. Thank you."
+}

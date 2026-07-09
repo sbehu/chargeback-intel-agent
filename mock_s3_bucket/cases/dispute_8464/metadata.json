@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8464",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27516"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-26T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38292,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I signed up for a free trial with FuboTV in early 2025 and believed I had canceled before the trial ended. The service was never used after the trial period, yet my American Express card was billed for about a year, totaling roughly {$1000.00}. When I discovered the charges, I contacted XXXX, which issued a partial refund for XXXX month but refused to refund the remaining {$680.00}. \n\nI filed a dispute with American Express on XX/XX/year>, but they closed it immediately, stating they could not investigate because the subscription was created online and that I should contact the merchant directly. I later spoke with an AmEx dispute specialist who confirmed they could not reopen the case for the same reason.\n\nI believe these charges qualify as a billing dispute under the Fair Credit Billing Act since I did not receive or use the service for which I was billed. I am asking American Express to review this dispute properly and issue a credit for the remaining unused charges."
+}

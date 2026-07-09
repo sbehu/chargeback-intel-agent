@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11385"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35425,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We booked a moving company \" XXXX XXXX '' - prior to the move date my wife fell ill ( documented by medical visits/doctors ) We attempted to seek a resolution with this company but were instead berated, threatened and then forcibly disregarded, as the \" CEO '' XXXX XXXX would not work out a resolution but instead cancelled our move, and is attempting to keep {$790.00} for services not rendered. This is simple extortion and should not be allowed. This person keeps providing false claims and excuses to my credit card company and they are rebilling my account. There are numerous low/bad reviews on XXXX, XXXX & XXXX against this company that indicate XXXX XXXX does this quite often. He should be investigated. \n\nI have been dealing with this nightmare for 2 months now and I just wish it would be resolved already."
+}

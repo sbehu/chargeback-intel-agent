@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6497",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MN",
+    "complaint_zip": "567XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24236,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express agrees with me that i was scammed by a company called XXXX but says that i am responsible to pay the charge of {$4500.00} anyway because the company abided by FTC guidelines. They say that I signed a XXXX agreement which i do not remember signing. I am a woman XXXX XXXX XXXX and am angry and embarrassed that I find myself in this predicament, but I am now in the position of having to pay the original cost of XXXX XXXX airline tickets for {$4500.00} and ALSO pay for the scammer who supposedly rebooked them for another {$4500.00}. I thought I was talking to a XXXX XXXX agent who was helping me apply XXXX to my purchase. He lied to me that he had done that and canceled the previous booking I had made. Instead he left that booking so now I have over {$9000.00} to pay."
+}

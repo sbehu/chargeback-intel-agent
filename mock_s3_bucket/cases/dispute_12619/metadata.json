@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12619",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29730"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1441,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am a victim of consumer fraud who paid {$10000.00} on XX/XX/year> to XXXX XXXX XXXX XXXX XXXX XXXX, a company that used fraudulent verbal misrepresentations to induce me to sign a contract and authorize payment. I filed a dispute with my credit card company alleging fraud in the inducement specifically that I was verbally promised a XXXX money-back guarantee during a high-pressure Zoom sales call, a promise that directly contradicted the written contract 's no-refunds clause and was used to induce my authorization. \n\nI submitted extensive documentation supporting my fraud claim including the signed contract, a business entity research summary showing the company has no verifiable legal existence, a contemporaneous email to the company at 40 days documenting failed performance that went unanswered, BBB complaint records showing an F rating and identical pattern of fraud against other consumers, and an audio recording of the sales call capturing the verbal promises. \n\nMy credit card company has twice failed to properly evaluate my fraud claim. Their most recent determination letter stated only that the merchant confirmed I authorized the transaction which I have never disputed. My actual claim that the authorization was obtained through fraudulent misrepresentation was never addressed or evaluated. The credit card company is treating this as a simple authorization dispute rather than a fraud claim, which misrepresents the nature of my complaint and fails to provide the consumer protection I am entitled to under my cardholder agreement. \n\nI have been a customer for nearly 10 years and pay my balance in full every month. I have never filed a frivolous dispute. I am asking the CFPB to require my credit card company to properly evaluate my fraud and misrepresentation claim, review the documentation I have provided, and provide a substantive written response that specifically addresses the fraudulent inducement argument rather than simply confirming that a transaction was authorized. \n\nI also want to note that the credit card company 's determination letter is itself undated the only date visible is the date of the disputed charge. Both letters were made available in my online portal on XX/XX/year> and XX/XX/year>. The letter makes no reference to my fraud claim whatsoever and addresses only whether I authorized the transaction. \n\nI have also filed complaints with the FTC, the Florida Attorney General, and the Texas Attorney General regarding the underlying fraud. The credit card company 's failure to properly investigate has left me bearing {$10000.00} in charges plus accruing interest at 27 % APR approximately {$220.00} per month as a direct result of their inadequate dispute handling."
+}

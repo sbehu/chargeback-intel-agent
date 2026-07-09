@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8607",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32817"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39365,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, I am writing to formally dispute an unauthorized charge in the amount of {$420.00} from XXXX XXXX that appears on my XXXX XXXXXXXX XXXX XXXX Credit Card ending in XXXX. I did not authorize or make this purchase. \n\nIt has now been almost XXXX ( XXXX ) years, and despite my multiple attempts to resolve this matter, Citi has neither protected me as a consumer nor reimbursed the disputed funds. Additionally, Citi has failed to provide any proof of the alleged transaction or evidence of my authorization. \n\nI respectfully request that your office investigate this matter immediately and issue a full refund of the {$420.00}. \n\nThank you for your time and cooperation. \n\nSincerely, XXXX XXXX"
+}

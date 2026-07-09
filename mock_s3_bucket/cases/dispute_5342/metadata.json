@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5342",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90018"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-28T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35459,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased razors from target on XX/XX/24 for {$170.00}. They were supposed to deliver them to my home but they never arrived despite tracking indicating that they had. I complained that I did not receive the goods and target, without investigating anything at all, just immediately deemed that they were delivered and even attempted to claim I was some sort of scammer because I had newly created an account on their website for this purchase. \n\nI filed a dispute with American Express regarding this matter and they did not take my dispute seriously at all. XXXX did not provide any evidence of the item being delivered other than the tracking saying it was. This includes no picture of delivery or any sort of evidence at all that the items were in fact delivered to the correct place other than the driving just clicking delivered on their ipad. American Express ruled against me in this dispute. \n\nI re-opened the dispute claiming no actual evidence of delivery was provided. XXXX re-submitted the same tracking number information which proved nothing and even started making claims that I had said I returned the item and THEY never received it. I of course, never returned this item because I never received it in the first place. It just goes to show target never actually took this complaint seriously, they just figured if they kept sending nonsense paperwork over the fence to Amex, then Amex would side with them. It appears they were right. \n\nI never received these goods and I should not be billed for them. Furthermore, a credit card company should provide diligence in investigating claims rather than just siding with big retailers that send nonsense paperwork over the fence without trying."
+}

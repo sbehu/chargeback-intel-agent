@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3427",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29526,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2021, a charge was made to my account with Barclays, XXXX XXXX XXXX XXXX, for {$10000.00}. This was double the amount that I approved for the charge of {$5100.00}. I immediately contacted the vendor over the phone and online. When the charge did not get corrected, I had no choice but to dispute the charge with the credit card company. I immediately provided all of the necessary information, including all of the correspondence with the vendor about the charge. This transaction was done online, so I did not have a receipt such as would be provided in a store face to face transaction. I did provide the credit card company with the original online transaction amount and everything indicating the correct amount to be charged, and did this all within the appropriate timeframe. I received little to no response from Barclays, the credit card company, as well as no request for additional information. In desperation, I did an online CHAT in which I asked for the government regulatory agency for the credit card program and was told it was the XXXX  ( XXXX XXXX XXXX ) and the FDIC. I have this chat in writing as I printed it off. I pursued these options to no avail as obviously they are incorrect and I was misled. This amount of {$5100.00} that I was overcharged is significant to me, and I feel because of my trouble and the extreme XXXX  this has caused me, Barclays should refund me the entire amount of {$10000.00} as settlement. I realize the date of this complaint being over 2 years since their denial of cooperation may seem a long period, but as I said Barclays sent me down rabbit holes for the complaint process, I am assuming intentionally to avoid responsibility for their misdeeds. I have attached both the CHAT that I had with Barclays where I was directed to contacted both the XXXX  and FDIC as regulatory agencies, and also the letter ( the only letter ) sent to me about my dispute, in which Barclays chooses not to investigate my issue in any way."
+}

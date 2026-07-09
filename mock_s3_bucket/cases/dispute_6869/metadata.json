@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6869",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94404"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45216,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because Citibank mishandled a fraud dispute despite my full cooperation and submission of a police report. \n\nIn XX/XX/2025, I was deceived into purchasing {$2900.00} in Best Buy gift cards on my Citi Best Buy credit card. I was manipulated by someone posing as a trusted representative who claimed urgent action was needed to protect my account. The gift cards were sent digitally to my email, and I was instructed to provide the card codes to the caller. I later discovered this was a scam and reported it to the XXXX XXXX Police Department in XX/XX/ 2025. I never redeemed or benefited from the purchases they were used by the scammer immediately. \n\nDespite submitting a police report and explaining the situation in detail, Citi denied my dispute twice in XXXX ( on XX/XX/XXXX and XX/XX/XXXX ), stating I had not submitted documentation even though I had. On XX/XX/XXXX, Citis Executive Office acknowledged receipt of the police report and informed me in writing that no payment would be due on the disputed balance while their investigation was ongoing. \n\nHowever, on XX/XX/XXXX, Citi re-billed the full {$2900.00} in direct contradiction to that letter. Then on XX/XX/XXXX, I received yet another denial letter regarding one of the {$900.00} charges. It falsely stated that the merchandise is still in your possession. This is untrue the merchandise ( gift cards ) was handed over to the scammer and used immediately. This statement demonstrates Citi 's continued failure to consider the facts and their own documentation. The investigation appears either incomplete or willfully negligent.\n\nI believe Citi is violating several consumer protection laws, including : - Fair Credit Billing Act ( 15 U.S. Code 1666 ) for re-billing during a formal dispute process and failing to suspend the charges.\n\n- Regulation Z ( 12 CFR 1026.13 ) for not conducting a fair and timely investigation.\n\n- Fair Credit Reporting Act ( 15 U.S. Code 1681s-2 ) if they report this debt as valid without indicating it is disputed.\n\n- Truth in Lending Act for holding me responsible for unauthorized use from which I received no benefit. \n\nIve experienced similar fraud cases with other institutions like XXXX and XXXX  XXXX XXXX. Once I submitted a police report, they quickly reversed the charges. Citi has refused to do so, despite receiving all documentation."
+}

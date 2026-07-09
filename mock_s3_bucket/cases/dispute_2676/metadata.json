@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2676",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97080"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43666,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reaching out due to 3 different disputes with 2 being from XXXX XXXX XXXX XXXX, on XX/XX/year> ( {$1100.00} ) and XX/XX/year> ( {$1200.00} ) The investigation of the dispute was not clear and did not end properly and AMEX denied my claim. I got my some work done to my car including a new radiator and oil change, etc, and a couple days later my car broke down and I called the shop to see what happened but they couldn't resolve my issue and said it was my fault. I used my AMEX card and AMEX couldn't resolve this issue either. The other one is another dispute with AMEX and it was on XX/XX/year> for XXXX XXXX XXXXXXXX XXXX ( {$2700.00} ). I bought a set of XXXX XXXX and I returned it a couple days later to the exact same store. The store said the issued credit will come onto my card but till this day it has not yet been received. I called AMEX and XXXX XXXX XXXX trying to get this resolved but neither parties could not help me. Please, it's been a while since these issues have happened, but this is causing me a headache and my only hope is to contact the CFPB."
+}

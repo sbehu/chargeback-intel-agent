@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10420",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20910"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38504,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased a XXXX  GeForce RTX 5090 Gaming OC for {$2000.00} from Best Buy with my Best Buy credit card, issued by Citi. After it arrived via mail, I discovered that the RTX 5090 was nonfunctional. \nOn XX/XX/year>, I went to a physical Best Buy location to ask about the issue, and the XXXX there told me to call customer service to resolve the issue. \nOn XX/XX/year>, I called customer service, and they told me to go to a physical Best Buy store to resolve the issue. \nOn XX/XX/year>, I went to a different physical Best Buy location, and the XXXX there told me to call customer service to resolve the issue. \nOn XX/XX/year>, I called customer service again, and they told me to go to a physical store to resolve the issue. This is when I realized that Best Buy 's customer service was structured to not render service to the customer. \nOn XX/XX/year>, I started a Return Merchant Authorization with XXXX, the manufacturer of the RTX 5090, to get the item diagnosed or repaired. \nOn XX/XX/year>, XXXX Customer Service called to tell me that the RTX 5090 was nonfunctional because it was missing components. Someone at Best Buy removed the GPU core and memory chips before the RTX 5090 was delivered. The serial number sticker was tampered with and moved to a different model by Best Buy, so even the visible product looks incorrect. Due to the physical damage that was present on the RTX 5090, the warranty was voided by the manufacturer. This is when I realized that Best Buy sold me a nonfunctional item with a voided warranty due to the actions from someone at Best Buy. I have attached pictures from the email by XXXX Customer Service. \nOn XX/XX/year>, I filed a dispute with my Best Buy credit card that was issued by Citi. The creditor denied the dispute. I disagree with the resolution because selling me a nonfunctional item that was tampered with is fraud."
+}

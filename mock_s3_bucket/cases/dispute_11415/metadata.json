@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11415",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "017XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2062,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX American Express XXXX XXXX XXXX I am filing this complaint against American Express for failing to properly investigate and resolve a legitimate billing dispute involving XXXX Advertising charges. \n\nI enrolled in XXXX XXXX after being promised a {$900.00} promotional credit over a three-month period and assurances that the service would increase my business sales, particularly during the holiday season. Based on these representations, I agreed to move forward with the service. \n\nHowever, the service was never properly delivered. My account was not fully set up, no meaningful onboarding or follow-up support was provided, and no representative contacted me to ensure the campaign was functioning as promised. Instead of increasing, my business sales declined during this period. \n\nDue to the lack of service and results, I canceled the advertising within XXXX weeks. Despite this, XXXX continued to charge my American Express business card. I attempted to resolve the issue directly with XXXX but was unable to reach a resolution. I have also since learned that other businesses have experienced similar issues with XXXX advertising practices. \n\nAs a result, I filed a billing dispute with American Express and provided detailed documentation, including proof of cancellation, lack of services rendered, and evidence of misleading promotional representations. \n\nAmerican Express denied my dispute multiple times without providing a clear or sufficient explanation. It appears that my submitted evidence was not properly reviewed or considered. Additionally, I recently received a warning from American Express stating that continued filing of billing disputes could result in the closure of my account. \n\nThis is deeply concerning. I have been an American Express customer since XXXX and pay over {$600.00} annually for a XXXX XXXX XXXX, which is marketed as offering strong purchase protection and customer support. Instead, I am being discouraged from exercising my rights to dispute unauthorized or improperly charged transactions. \n\nI believe American Express has failed in its obligation to conduct a reasonable investigation under applicable consumer protection laws and has unfairly penalized me for filing a legitimate dispute."
+}

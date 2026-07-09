@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4347",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78717"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-25T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4426,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a fraudulent charge on my credit card back in XX/XX/year>2024 in the amount of {$1200.00} at a XXXX 's superstore. The Citi Credit card didn't even send me a notification whether I recognize this charge or not and the charge went through. Next day, the fraudster charged another {$0.00} at an unknown gas station. Now, the Citi ( Mastercard ) sent me a text asking whether I recognize this charge or not. Immediately, I said that I didn't make that charge. Then, I went to my online account and I found out that the previous amount of {$1200.00} was also a fraudulent charge, which I didn't do. So, I cancelled my old card immediately and asked for a new card and recorded a dispute for that transaction. Now, after 6 months from that and after talking to Citi dispute department over 10 times ( and over 10-12 hours ), they still haven't refunded my money yet. I have talked with their security department, their fraudulent department etc - but of no use. They kept saying that they would let me know their findings. But, not only they never returned any call- they still hasn't resolved the matter. At this point, I am totally frustrated and ready to take a legal action against my credit card company. At a last resort, I wanted to notify this to CFPB with the hope that CFPB will be able to resolve this for me and I can get my {$120000.00} ( and with interest ) as soon as possible."
+}

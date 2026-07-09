@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-200006",
+  "invoice_date": "2026-02-06T00:00:00Z",
+  "amount_cents": 39600,
+  "currency": "USD",
+  "billing_address": "6741 Maple Blvd, ID, 838XX"
+}

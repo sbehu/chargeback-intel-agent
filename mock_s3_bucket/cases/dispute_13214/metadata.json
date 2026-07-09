@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13214",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22405"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34427,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I stayed in the XXXX XXXX in XXXX Va on XX/XX/year> for work related due to bad weather. I was charged on XX/XX/year> in XXXX XXXX XXXX XXXX at same hotel for {$480.00} for a stay. I was XXXX in XXXX! I can prove thru work records that I was in VA during these days charged at XXXX XXXX XXXX XXXX! I have requested Citi to provide proof by signature and Id proof for this charge. I have disputed with citi but for a XXXX time they refuse to refund my money stating the merchant verified my stay.! I did stay in the hotel in XXXX Va NOT XXXX! \nI have requested as of XX/XX/year> to Citi to reopen this dispute to escalate complaint."
+}

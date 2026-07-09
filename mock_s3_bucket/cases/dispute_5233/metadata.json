@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5233",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "953XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47254,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX I was advised there were purchases on my CitiBank account. The purchases were made in XXXX and were not made by me or anyone connected to me. These fraudsters also got into my bank account! \n\nCitibank Fraud Department worked the case and advised me I wasnt responsible for the purchases. The first time I received a past due bill I called CitiBank and they advised me there was not balance on my account and because of the fraud, Id be wise to lock my account. Since I only use that account for my XXXX membership fee, I got off the phone and locked my account."
+}

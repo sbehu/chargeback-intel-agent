@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_827",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60525"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8221,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I initiated a dispute with Citibank regarding a defective item purchased from a merchant on XX/XX/2023 for {$1200.00}. I attempted to return the unit multiple times to the merchant who would not supply the necessary address/authorization ( XXXX ), despite acknowledging that the unit was defective and being within their stated return policy. \n\nIn a letter dated XX/XX/2023 Citibank stated that I must provide by XX/XX/2023 either ( 1 ) evidence that I have returned the unit to the merchant or ( 2 ) a letter showing that merchant refused to accept the return. I replied on XX/XX/2023, along with extensive documentation showing ( 2 ) that I had asked the merchant XXXX times ( XXXX via email, XXXX via phone ) to return the unit which the merchant did not provide the necessary details in response to to any of those XXXX requests. Citibank customer service confirmed receipt of these documents. \n\nIn a letter dated XX/XX/2023 Citibank stated that by XX/XX/2023 I must provide either ( XXXX ) evidence that I have returned the unit to the merchant or ( XXXX ) a letter showing that the merchant refused the return. I replied on XX/XX/2023 with a letter describing the merchant 's refusal to accept the return, referencing the previously-sent evidence. Customer service confirmed receipt of this documentation. \n\nIn a letter dated XX/XX/2023 Citibank stated that I did not provide valid proof of returning the unit to the merchant and the dispute was closed. I responded on XX/XX/2023 that I have sent documentation on XXXX prior occasions, showing the merchant 's refusal to accept the return. I included a summary of my interactions with the merchant supporting this claim, and appealed the decision. Customer service confirmed receipt of this documentation. \n\nIn a letter dated XX/XX/2023, Citibank stated that the matter was closed although XXXX be able to help if I could provide documentation that the merchant agreed to a credit. On XX/XX/2023 I forwarded an email to Citibank from the merchant agreeing to credit my account, but the dispute remained closed. On XX/XX/2023 I sent additional emails from the merchant showing that they withdrew their objection to my dispute after reviewing the same documentation sent to Citibank, but the dispute remains unresolved by Citibank. I also noted that I had provided the requested information XXXX times and that I have not received a reason and documentation for the denial of my dispute as required under the Fair Credit Billing Act, and reiterated my request to appeal the decision. \n\nBased on Citibank 's multiple letters asking for proof of returning the merchandise, it appears that either no investigation was conducted, or the documentation ( which clearly shows the merchandise could not be returned ) was not read or considered as part of the investigation. In addition, no explanation or documentation has been provided for the denial. I believe these XXXX issues show that Citibank is not meeting their obligations under the Fair Credit Billing Act. \n\nThe case is currently pending as of XX/XX/2023."
+}

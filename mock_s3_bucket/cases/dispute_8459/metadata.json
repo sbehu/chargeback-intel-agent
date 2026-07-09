@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8459",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2125"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18943,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this complaint regarding a billing dispute with American Express concerning a transaction on my credit card account. I initially disputed the charge with AMEX, and they twice issued resolutions in my favor with a refund and closed the dispute. However, AMEX subsequently reopened the dispute twice and then canceled it without providing any proof or clear explanation as to why. \n\nDespite the clear evidence I provided showing a breach of contract, AMEX declined my dispute without adequately addressing my documentation. I submitted all relevant proof to AMEX, yet they have taken no further action to resolve the matter. \n\nThe rental car in question was in XXXX. The official XXXX  consumer agency reviewed my case and confirmed that the merchant must issue a refund because the car provided was not the one I rented and was also damaged. The merchant falsely claimed they never received any complaint from me, although I spent approximately 15 minutes on the phone with them on the day I picked up the car to report the issue. I also sent AMEX proof of this communication. \n\nI am requesting the CFPBs assistance in investigating this matter and ensuring that American Express follows fair and transparent procedures in evaluating consumer disputes. This situation has caused me significant XXXX  and financial hardship, and I am seeking a full reversal of the unauthorized charge, as well as any related fees or interest that resulted from it."
+}

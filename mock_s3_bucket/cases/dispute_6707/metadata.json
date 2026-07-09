@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6707",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96813"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24987,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> - notified XXXX XXXX XXXX of over charge of {$7300.00}. This was done over the phone and letter sent to XXXX Cruises XX/XX/year> - called Barclays XXXX Credit Card XXXX ) to notify of unauthorized charge case ID # XXXX ; faxed letter sent to XXXX cruises to Barclays as documentation. \nXX/XX/year> - called Barclays to notify them of credit via my online account. \nXX/XX/year> - called Barclays as charge in question was REBILLED to my charge card on XX/XX/year> ( posted ). Need to research and call back XX/XX/year> - XXXX informed me that I did not provide any documentation to show this was an unauthorized charge, and case was closed due to no documentation. XXXX Barclays representative I need to send a letter to request case be re-opened. \nXX/XX/year> - XXXX faxed to Barclays per representative instructions to request to re-open case id XXXX. \nXX/XX/year> Called Barclays to follow up, per representative my letter was received to re-open, but was denied due to no documentation. Representative offered to open a complaint, case # XXXX. Someone would return my call within XXXX hours. \nXX/XX/year> - received call from Barclays ( XXXX ) asking why I am filing a complaint. She said there is nothing she could do as no documentation was provided. Told me if I want to dispute this I would have to write a letter to the \" XXXX of the XXXX '' provided mailing address. XXXX informed me she could not transfer the call, there was no one else to speak to and there is no XXXX or XXXX to speak to."
+}

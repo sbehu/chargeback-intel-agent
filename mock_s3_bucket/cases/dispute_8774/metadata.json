@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8774",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1040"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5273,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I called Citibank Mastercard multiple times about specific fraudulent charges on my card promptly on receipt of the bill. Citi replaced card and told me they'd send an updated statement with fraud charges removed. Bill didn't come, called again, twice, and a week later it showed up, with even more fraud charges and disputed amounts still on it except one. More phone calls, bounced around, hung up on, reps you can't understand due to thick accents stating some charges not disputed, so about a month into this, frustration level is maxed out. All charges not done by me or my wife disputed multiple times on multiple calls. They keep asking if we use XXXX XXXX, we do NOT. I received a letter stating late charges removed but last statement has interest on it {$51.00}. My bill is paid off monthly and on time, so I never pay interest. More calls and told to pay bill and dispute charges already disputed. That's another {$1000.00} plus the interest that I don't have to send a totally inept company with the worst customer service of my lifetime. Charges include XX/XX/XXXX XXXX XXXX Ca. {$470.00} ... XX/XX/XXXX XXXX XXXX, NY {$270.00} ... XX/XX/XXXX XXXX XXXX, NY {$230.00} ... XX/XX/XXXX XXXX XXXX XXXX XXXX, NY {$91.00}. My last statement includes credit item under investigation {$270.00} and no mention of the other charges. I'm paying charges that are mine and nothing else. I never received a fraud alert or question if these charges are mine as they've asked in the past. I've paid my bill on time and in full since XXXX on this card."
+}

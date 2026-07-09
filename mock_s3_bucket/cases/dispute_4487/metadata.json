@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4487",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39563,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau ( CFPB ), I am writing to bring to your attention a serious matter concerning the unprofessional behavior I have experienced with my credit card provider, CitiBank. As a long-time customer for over seven years, I am deeply disappointed by the level of service I have encountered, particularly regarding a recent dispute I had with a merchant. \n\nOn XX/XX/2024, I made a purchase through XXXX XXXX XXXX XXXX website for a pair of sneakers. After waiting several days for my order, I discovered that it had been canceled without my knowledge, and I was never issued a refund. After trying to resolve the issue directly with Citibank for nearly two months, I learned that they had closed the case in favor of the merchant, despite my clear evidence that my order was canceled. \n\nCitiBank allegedly sent a notice regarding this decision through the app 's notice section ; however, I never received any such notification. Additionally, I submitted all proof demonstrating that the order was indeed canceled and that I was entitled to a refund. Despite this, CitiBanks dispute department failed to take my side or handle the situation appropriately, siding instead with the merchant.\n\nI have uncovered issues with CitiBanks dispute handling that extend beyond my individual case ; many other customers have voiced similar complaints concerning their disputes with merchants. This pattern of unprofessionalism and poor service is unacceptable. The dispute department appears to lack the necessary competence and commitment to fairly resolve customer issues. \n\nI am requesting the CFPB 's assistance in addressing this matter. It is crucial that consumers are treated with respect and that credit card companies like CitiBank are held accountable for their actions. We deserve a banking experience that prioritizes customer service and transparency. \n\nThank you for your attention to this serious concern. I look forward to your response and any actions you can take to improve the situation for myself and other consumers facing similar challenges. \n\nSincerely, XXXX XXXX"
+}

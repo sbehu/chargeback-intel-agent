@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10074",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32901"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11115,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I placed an online order with Best Buy totaling {$710.00}. The order was later marked as delivered, but I never received the package. \nAfter noticing the non-delivery, I contacted Best Buy multiple times and requested proof of delivery. The merchant was unable to provide any delivery photo, signature confirmation, or XXXX-based evidence showing the package was delivered to my address. \nI then filed a billing dispute with Citi Bank, the issuer of the Best Buy credit card, stating that the merchandise was never received. I fully cooperated with the dispute process and provided all requested information. I also filed a police report regarding the non-delivery on XX/XX/year>. \nDespite this, Citi Bank denied the dispute, stating that the product was delivered, without providing any verifiable evidence that the package was delivered to me or my address. No explanation was given regarding the lack of signature or delivery confirmation. \nAs a result, I am being required to pay monthly charges for merchandise I never received. I am requesting a proper reinvestigation of this dispute and either documented proof of delivery or reversal of the charge"
+}

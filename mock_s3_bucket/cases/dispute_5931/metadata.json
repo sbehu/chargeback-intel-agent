@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5931",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "115XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32532,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX  XXXX charged my American Express card on XXXX separate occasion : XX/XX/XXXX ( {$190.00} ), XX/XX/XXXX ( {$200.00} ), and XX/XX/XXXX ( {$220.00}, after I had attempted to cancel the subscription following the first charge. I did not intend to renew this subscription and did not authorize these recurring charges. \n\nEach year, I tried to resolve the issue. After the XXXX charge, I attempted to cancel the subscription and submitted a dispute to American Express. I selected transaction not recognized as the dispute reason, because I was not aware the subscription had renewed and had never consented to auto-renewals. The dispute was denied. In XXXX, after another charge posted, I again attempted to cancel the subscription and disputed the charge, but was told AMEX could not investigate the transaction due to the merchants policies. In XXXX, a third charge went through. Despite all my previous efforts and having flagged this same issue in prior years, American Express again allowed the charge. \n\nEach year I attempted to contact XXXX  XXXX and cancel, but I either received no response or encountered dead ends in the process. Additionally, I asked AMEX to prevent future charges from this merchant, but they failed to do so. These repeated, unauthorized charges over XXXX years constitute a pattern of billing that is both unfair and avoidable. \n\nUnder the Fair Credit Billing Act ( 15 U.S.C. 1666 ), cardholders have the right to dispute charges and require their credit card issuer to conduct a reasonable investigation. My repeated disputes clearly indicating this was an unapproved renewal should have triggered meaningful review. Furthermore, under FTC guidelines related to automatic renewals, XXXX XXXX had an obligation to clearly disclose renewal terms, obtain my affirmative consent, and provide an easy way to cancel. These requirements were not met."
+}

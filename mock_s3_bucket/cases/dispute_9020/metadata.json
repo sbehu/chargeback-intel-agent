@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9020",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11219"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1832,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recently noticed multiple fraudulent charges on my card in XXXX when I was signing on to pay my statement. Citibank had flagged XXXX charges dated from XX/XX/year> to XX/XX/year> ( totaling {$2100.00} ) as possible fraudulent charges. Unfortunately, with the slip of a finger I selected \" I recognize the transactions '' instead of \" I do not recognize '' resulting in the fraudulent charges to be posted. I immediately went in and individually disputed each XXXX and called customer service right away. At the time, I provided all necessary info and cancelled the card and received a new one. \n\nFor the past month, I have been back and forth with customer service and the fraud/investigations line. My charges which were flagged as suspicious by Citibank would not be reimbursed after investigation. I tried to appeal but don't seem to be getting anywhere. The XXXX department simply told me that since I never lost the physical card and the fact that I clicked I recognize the charges, that it would not be ruled in my favor. I tried explaining that the physical card does not have to be lost in order for someone to steal the information and use it online or via mobile wallet options. I have tried going to the local police precinct, but was turned away as this was a simple credit card company issue that should be resolved by the bank. \n\nI have been a loyal customer of Citibank for about 30 years. I have excellent credit and never ever made a late payment, nor have I ever had to call in for any kind of dispute. It can be clearly seen that the last few years, I have only used my card at my local gas station and my spending amounts are relatively the same ( under {$200.00} ). I don't ever really even make online purchases as my kids will assist with that. The fraudulent charges were all made out of state in XXXX within XXXX short XXXX of 3 days. I have never stepped foot outside of XXXX  the last few months. This is clearly not my spending habit nor do I spend money I do not have available to pay back. I am now forced to pay the minimum payment and risk having my credit affected negatively. I find that it's unfair for Citibank to use the reasoning that since I clicked \" I recognize '' that these charges ( which were flagged as suspicious ) won't be reimbursed, despite reporting immediately about this issue. \n\nI have called multiple times to the fraud investigation dept but all they tell me is a generic customer service response that they will look into it further with no response back."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8160",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48085"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-30T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40477,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I prepaid $ XXXX at XXXX XXXX XXXX XXXX XXXX XXXX for XXXX XXXX tires for my XXXX XXXX because the manager offered a special discount if I paid in advance. I had already planned to replace the worn XXXX tires around XXXX so this seemed like a good opportunity to secure the discount. He assured me the system would record the purchase and that I could return anytime for installation. \n\n\nXXXX : XX/XX/year> : I visited XXXX for a leaking tire on my XXXX. XXXX XXXX store manager ) said the rim was damaged and offered a discount on tires. I decided to prepay for XXXX XXXX  tires for my XXXX, specifying all-season tires, to secure the discount since I was planning to replace the XXXX  tires XXXX due to heavy wear. \n\nLater that day : I noticed the invoice listed XXXX XXXX XXXX summer tires. \n\nXX/XX/year> : I returned to the store, told XXXX I needed all-season instead of summer tires. He agreed to look for all-season options. \n\nXXXX XXXX XX/XX/year> : I was out of the XXXX for XXXX  XXXX. \n\nXXXX XXXX  : I texted XXXX ( XX/XX/XXXX message ) asking about the tires. No reply. I visited the store and found it permanently closed. No installation was ever performed. \n\n\n\nWhy the charge is invalid : 1. Tires were never installed or delivered. I have photos of my current tires that match earlier photos in my text thread with XXXX and do not match the tires on the invoice.\n\n2. The invoice has only my signature. The merchants Company Authorized Representative signature line is blank, showing work was not completed.\n\n3. Although the invoice lists an odometer reading ( XXXX ), this was verbally provided by me at the counter the vehicle was never brought into the shop, and there is no signed work order, no balancing/torque/retorque record, no evidence of installation activity.\n\n4. Regarding my signature : the invoice has small print stating that the work was completed, but I signed it at the time of payment believing it was a standard credit card signature not a certification that the tires had been installed. The absence of the merchants countersignature further supports that no service was completed.\n\n5. The merchant stopped responding and the location is permanently closed. \n\n\nActions taken : I submitted XXXX disputes with my credit card company, attaching evidence ( invoice, photos, text messages ). Both disputes were denied, claiming service provided, which contradicts the record. \nI am seeking a refund of the $ XXXX charge because no service or product was ever provided. \n\n\nI value my credit history and would not dispute a charge if I had received the goods or service. This dispute has cost me significant time and effort, and I am asking for CFPB assistance to have this charge reversed."
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-69176453-US
+Shipment Date:   2025-10-24T00:00:00Z
+Delivery Date:   2025-10-27T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9431 WASHINGTON CT, NY, 11722
+============================================================

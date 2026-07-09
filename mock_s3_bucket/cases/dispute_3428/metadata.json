@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3428",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "35802"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28624,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citibank Costco VISA is overcharging me for the amounts of {$140.00} and {$310.00}. These are Citibank charges, not a merchant. Citibank applied these as \" Reverse '' charges, but never had issued a temporary credit for these amounts. The {$140.00} charge was on my XXXX XXXX statement, and the {$310.00} charge was on my XXXX statement. I had a dispute case open, but Citibank stated it was resolved without removing these charges. They provided a letter with the statement of resolution that contained an audit report that clearly shows this is still an issue. In addition, their customer service is terrible. I have made nearly a dozen phone calls to their customer service number. Each time I must spend approximately 20 minutes explaining the situation. I have discovered these are agents that can only send a message to the billing center, they can not resolve anything. Their supervisors have no authority either. I have sent several letters and emails directly to the billing center and have never received a direct reply. I only received a letter that says the dispute is resolved, allowing me no opportunity to interact, explain, or question the process or results."
+}

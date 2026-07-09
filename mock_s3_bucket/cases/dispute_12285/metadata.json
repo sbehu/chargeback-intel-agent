@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12285",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10304"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31393,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I hired a permit /contractor Permits in no XXXX XXXX NY to do cement work at my house. He was unable to secure a licensed contractor so he decided not to take the job after the deposit via credit card was given Of XXXX. The credit card company got credit receipts from the contractor showing refunds of {$1400.00} and {$450.00} dollars via XXXX  and a statement noting he was not taking the job and that i was on my own but Barclays refused to credit back my money. I sent numerous letters also to the presidents office but it seems some type of fraud is ongoing and I am out XXXX dollars and they refuse to open up my case to get this resolved never saying why just that time has expired but i been disputing this since XX/XX/year>. The contractor restated he sent over the credit receipts and they took back the money from him but no one knows where it went into any account. XXXX  will not discuss anything with me as I am not a customer. XXXX bank who paid my credit card bill has no pending credits to my account. This is an Ongoing dispute for months now with no resolution"
+}

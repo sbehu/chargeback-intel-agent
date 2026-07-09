@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10304",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97062"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6865,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint because American Express closed my billing dispute without properly reviewing my evidence and relied entirely on several false merchant statements and documents. \n\nI rented a vehicle through XXXX from XXXX XXXX XXXX XXXX. The merchant claims that I was a no show and that I arrived after business hours at XXXXXXXX XXXX This is false. \n\nI arrived at approximately XXXX XXXX  during business hours to pick up the car. At the address provided, there was someone at the front desk who stated that the business operating there was a XXXX office suite location that rents office virtual and co-working and teleworking spaces. They stated there was no car rental business operating there. There was no signage or evidence in the suite or in the public areas of the building lobby that XXXX XXXX XXXX XXXX operated at that location. \n\nI submitted the following evidence to American Express during the dispute : - time- and date-stamped photos that I took on my cellphone camera showing that I was at the location at XXXXXXXX XXXX \nXXXX  messages showing I contacted the merchant during business hours and notified them that the occupant inside the suite at the address they provided stated that the merchant was unknown and not a tenant in the suite nor in the building XXXX chat message documenting that the merchant only responded much later in the evening, near midnight time-and-date stamped photos that I took on my cellphone camera showing that there was no signage or other physical evidence of merchant XXXXXXXX XXXX presence in the building in the primary areas open to public access. \n- time-and-date stamped photos from my cellphone camera showing that XXXXXXXX XXXX name was not listed on either of the two tenant rosters in the lobby and entryway at the building at the address The merchants claim that I arrived at XXXXXXXX XXXX is contradicted by my timestamped photos and communication logs. \n\nAmerican Expresss investigation response simply repeated the merchants version of events. It did not address any of my evidence or explain why it was ignored or rejected. It appears my documentation was not reviewed at all. \n\nI am requesting that American Express be required to : conduct a supervisory-level reinvestigation review the evidence I submitted explain how the decision can stand despite contradictory timestamped evidence credit back the disputed charge because services were not provided I have been an American Express customer in good standing for over 20 years. I have a habit of paying my full balance monthly. My XXXX credit rating is \" Exception '' in every score category. I believe American Express mishandled my dispute and disrespected me by prematurely ending my chat contacts and hanging up during my phone conversations. I hope the communications were recorded by American Express as they will provide evidence of that the final call and chat conversation were conducted unprofessionally."
+}

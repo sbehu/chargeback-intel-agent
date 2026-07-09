@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2413",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90069"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35610,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I live in XXXX XXXX and while on a trip to XXXX had paid for a one day pass. Later on XX/XX/year> XXXX XXXX  began charging me for a membership at the XXXX XXXX branch. Initiation and monthly charges. I googled XXXX XXXX and found out that over XXXX fraudulent charges were made by the same person I saw at the XXXX XXXX branch. I told Citibank XXXX XXXX XXXX that I never signed anything for membership. They removed all XXXX XXXX charges and told me they would investigate. Eventually Citibank reinstated all my charges and sent me a fraudulent membership document with a different signature than mine. I told Citibank and they moved my dispute to the Fraud department. Meanwhile for the second time Citibank canceled my account and reissued a new one for me. The second was because Citibank gave XXXX XXXX my new account number after telling me not to. I wrote to XXXX XXXXXXXX XXXX as well as other officers after no one from branch would respond to me. Never heard from XXXX XXXX. My fraud entries that were put on my Citibank app disappeared the day after I finally got a call from someone at XXXX XXXX accounting who told me she would correct this problem and I would have no following charges. I just called Citibank credit card fraud/security department and they told me that my case went back to the dispute department which I was told was NOT what my case was since fraudulent documents were created and not a billing dispute. None of this makes sense. Citibank is now not being helpful or offer any information. \nAll charges from XXXX XXXX started XX/XX/year> including additional initiation and monthly charges in XX/XX/year> with monthly charges to present."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5102",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NM",
+    "complaint_zip": "871XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26871,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have made dozens and dozens of calls to both Citibank andXX/XX/XXXXto try to get this resolved. \nI am owed {$730.00} by Citibank for a plane ticket I purchased on my XX/XX/XXXX Citibank credit card. AA inadvertently cancelled this ticket on XX/XX/year> for suspected fraud. \nMy {$730.00} charge was credited back to me as a result. \nI then called Citibank and asked them to send the payment of {$730.00} thru a second time for the ticket since there was no fraud and I had made this purchase. \nI paid a {$730.00} payment to Citibank for this plane ticket in XXXX, 2024. \nSometime in XXXXXX/XX/XXXX had cancelled my ticket due to the suspected fraud and never received the second payment of {$730.00} from Citibank. \nI have no idea where this money went. \nThe plane ticket attached to the {$730.00} payment was null and void by XX/XX/XXXX in XXXX, 2024 and these services were not rendered. \nXX/XX/XXXX did not advise me of the cancellation and I didn't learn that my ticket had been voided until XX/XX/XXXX, when I attempted to check-in for my trip to XXXX on XX/XX/XXXX. \nXX/XX/XXXX has denied my claim ( see letter attached ) because they did not receive my {$730.00} payment. \nCitibank denied my claim in XXXX 2024, stating that I had been credited the {$730.00}. But this was incorrect. You only need look at my XXXX statement ( attached ) to see that I was charged {$730.00} TWO times. One charge was credited back but the second charge of {$730.00} was NOT. \nI have been trying since XXXX to get my appeal reopened to resolve this. I have attached voluminous records to this complaint. \nI'm tired. I need the {$730.00} refund. Not only have I been out this money since XXXX, 2024, my vacation to see a dear friend in XXXX was cancelled. My ticket was VOID and UNUSED. \nPlease help me. I call Citibank ever 2-3 weeks ( since XX/XX/XXXX ) and each time am assured that this matter will be resolved.\n\nIt's not rocket science. I just need someone to take 60 seconds to see that I was charged a 2nd time for {$730.00} for a void ticket. \nPlease someone help."
+}

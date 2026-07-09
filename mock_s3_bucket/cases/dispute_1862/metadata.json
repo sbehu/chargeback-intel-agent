@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1862",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33324"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36779,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "AMERICAN EXPRESS XXXX COMPLAINT On XX/XX/XXXX, my XXXX XXXX XXXX husband who is an XXXX, who is not proficient in reading or writing in English, attempted to book a hotel stay at the XXXX XXXX at XXXX XXXX XXXX through his phone. He was misled by the advertisement and unknowingly booked his reservation through XXXX The reservation was for 1 room for 2 nights and was represented for a total of {$1800.00} for the 2 nights. After accepting that represented charge he got the RESERVATION CONFIRMATION which was {$1800.00} for EACH night and an additional {$1300.00} in Tax recovery charges and service fees! Grand total {$5100.00}!!! Immediately we received from AMEX a notification via email of this LARGE PURCHASE {$5100.00}. He and I called AMEX to stop the charge from going through. It was very frustrating as the automated system could not understand that he needed a representative. Finally reaching a representative ( recorded for security purposes? ) we told AMEX to stop the charges, that this was not a legitimate charge. The representative told him that we had to wait until the charge posted in our account. ( Why would they not deny the charge straight ahead, protecting us from this nightmare of a charge. They are the first line of defense. Why would AMEX send you a Notification if you can not do anything about it? ). My Husband contacted AMEX on XX/XX/XXXX or XXXX. Told them the same story. That representative told him to wait until the Statement comes out on XX/XX/XXXX to see if the charge had been removed. He called on XX/XX/XXXX and then and only then does the dispute of the charge show that it was initiated. The dispute was closed on XX/XX/2024! Our daughter helped us to get it re-opened as a fraud case, finding out that XXXX in a simple XXXX search shows that many consumers have been scammed by this XXXX AMEX could have stopped these charges from the beginning. AMEX has closed the disputes and fraud investigations and have re-charged us the {$5100.00}. \nWe cancelled the Hotel Reservation immediately. We requested our money back from them. They sent us canned emails every 2 days and then would say they could not contact the third-party hotel partner. \nXXXX XXXX has been with American Express for over XXXX years. During this process of getting this ridiculous charge resolved, a representative convinced my Husband to agree on a NEW SECURE card for an additional {$260.00} a year annual fee! \nWHAT SYSTEM DOES AMEX HAVE TO PREVENT THIS FROM HAPPENING AGAIN. WE CALLED IMMEDIATELY. THEY DID NOT STOP OR HELP TO GET OUR MONEY BACK"
+}

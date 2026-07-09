@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1651",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "333XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1542,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I dispute the charge amount {$170.00} cause it was not recognized and the company after several requestes removed it then added back in Charge XXXX amount XXXX date XXXX needs to be removed cause its not recognized I called several times regarding this issue I spoke last with rep XXXX dept of early prevention fraud who he was extremely sarcastic just like most reps in that company. He did not resolve the issue and he is aware of the issue.mcharge is on the acct ending in XXXX business account"
+}

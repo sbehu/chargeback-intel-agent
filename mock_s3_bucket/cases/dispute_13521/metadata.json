@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13521",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95125"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12907,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a formal complaint against Citibank regarding both a fraudulent transaction on my credit card account and the banks repeated failure to provide adequate customer service to resolve the issue. \n\nOn XX/XX/year>, a balance transfer fee and related transaction were posted to my account without my authorization. I reported this as fraudulent within three days. The amount is {$3700.00}.\n\nShortly thereafter, I received a phone call from an individual identifying himself as XXXX from the fraud division ( South Dakota ), stating that checks were being deposited. I was instructed to call back, but despite repeated attempts, I have been unable to reconnect with him or any representative capable of addressing my case.\n\nOver the past two days, I have made multiple attempts to contact Citibank by phone as directed. These attempts have been unsuccessful due to : - Calls being repeatedly dropped - Transfers between departments without resolution - Inability to reach a representative who understands or can act on the dispute - Poor call quality, with representatives stating they can not hear me while I can hear them clearly I also attempted to resolve this through online chat support and was again instructed to call, despite the ongoing phone access issues. \n\nOn XX/XX/year>, I received an email from Citibank requesting that I call to provide additional information regarding the dispute, with a deadline of XX/XX/year>. This is unreasonable given that I have made repeated, documented attempts to comply but have been unable to reach a functioning support channel. \n\nAdditionally, I want to emphasize that I do not have physical checks associated with this credit card account. The reference to checks being deposited raises serious concerns of fraud, potentially involving stolen mail or unauthorized account access, which I am actively trying to report. \n\nCitibanks failure to provide a reliable communication channel is preventing me from resolving a time-sensitive fraud issue and exposing me to further financial harm.\n\nResolution Requested : 1. Immediate reversal of the unauthorized balance transfer and all associated fees 2. Removal of any interest charges related to this fraudulent activity 3. Written confirmation that my account has been secured and investigated for potential fraud involving unauthorized check activity XXXX. A direct and reliable point of contact to resolve this matter without further delay Given the urgency and my repeated unsuccessful attempts to comply with Citibanks instructions, I am requesting full resolution no later than XX/XX/year>. \n\nThis situation reflects both a failure in fraud prevention and a breakdown in basic customer service access for a consumer attempting to report fraud in good faith. \n\nI expect prompt attention to this matter."
+}

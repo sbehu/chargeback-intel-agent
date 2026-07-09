@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11285",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85029"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36838,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged for a yearly subscription of {$400.00} with XXXX XXXX XXXX in XX/XX/year> that I never agreed to. I immediately contacted the company and requested cancellation. They confirmed that the plan was canceled and that the {$400.00} charge was refunded to my card. I also received multiple emails from them confirming the cancellation and refund. \n\nWhen I contacted my bank to resolve the issue, they stated that they never received the refund from the company and that I am still responsible for the {$400.00} charge. I filed a dispute and provided all the proof they requested, including emails from XXXX XXXX XXXX confirming the cancellation and refund. \n\nDespite providing this documentation, the bank continues to deny the dispute. Each time I call the bank, I receive different information, and the explanations keep changing even after I submit the documents they request. This has made the process extremely frustrating and confusing. \n\nFor the past three months, I have been trying to resolve this issue with both the company and the bank, but neither side has resolved the matter. I have clear proof that XXXX XXXX XXXX confirmed the refund, yet the bank continues to deny the dispute. \n\nI respectfully request assistance in reviewing this matter and helping me recover the {$400.00} that was wrongly charged."
+}

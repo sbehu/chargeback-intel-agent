@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_878",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "540XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24097,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX received a call from AmericanExpress, it was during a meeting but next day I missed another call. on XXXX I called AmericanExpress, after 20 minutes I learned that a previous issue where I had accidentally paid closed corporate Amex account rather than personal account which I thought had resolved had created a new problem - and now I had a debit on my closed corporate account. I was told to reach out to my expense department. They confirmed they had not received any funds from the Amex \" overpayment. '' I continued to receive daily calls from Amex asking when I was going to pay my balance ( which was now overdue as I had not received a notification of the issue until the balance was past due ). Each time I speak with them I have to retell the whole story as apparently they never check the notes ( or no notes are taken, as they tell me they are recording the details ). On XXXX, I reached a \" XXXX '' and he said that he had figured out the issue and that it would take about a week for the transaction to take place and the issue to be resolved. When I received the daily collections call they had not knowledge that the issue was a Amex error ( when I had made the erroneous payment in XXXX, they transferred funds to my personal account twice ). I continue to call, and am promised that they will fix the issue, and that the late payment fee will be removed. My last call to Amex was on XXXX, where I was told it would just be another day. The collections caller tells me then that I should just pay the balance, but then there will be a credit on my account, and that will be yet another issue. Today I received yet another call from them, so the issue has not yet been fixed. Tomorrow is the day in which I will be charged yet another late fee ( last week I inquired about this and was told by the customer service agent that it was ok and that all late charges will be rescinded ). I want this problem gone. It has been almost a month since I learned about it, and every time I am on the phone with someone we have to repeat the whole story and it is a 20-30 minute phone call. While I admit that what started the whole issue was an error on my part, in XXXX, this last issue was an Amex error."
+}

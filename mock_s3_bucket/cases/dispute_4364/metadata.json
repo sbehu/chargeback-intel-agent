@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4364",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11373"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20106,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I noticed an unauthorized charge of {$45.00} on my American Express card, listed as XXXX XXXX XXXX XXXX XXXX, XXXX - XX/XX/year>. This charge is incorrect, as I am currently not in XXXX and did not rent a vehicle in late XXXX. I immediately contacted XXXX, but I was unable to obtain any information from their overseas representatives about this transaction. \n\nIn response, I initiated a dispute with American Express ( Dispute ID : XXXX ), expecting their support in resolving what is clearly an unauthorized charge. American Express informed me that they sent an email on XX/XX/XXXX regarding the outcome of their investigation ; however, I never received this email and, to date, have not been provided with any explanation or documentation justifying the charge. \n\nIn addition, American Express suggested that I follow up on my own, which is not feasible given that I am not in XXXX and have not rented a vehicle. This response is unsatisfactory and fails to address my need for a resolution. The charge is both unauthorized and incorrect, and I have taken all reasonable steps to notify American Express of this issue. \n\nI am seeking the CFPBs assistance to ensure that American Express provides a full refund of the {$45.00} charge, along with a complete and transparent explanation of how this charge was allowed to occur despite my lack of involvement and absence from XXXX."
+}

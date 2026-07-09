@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11127",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60613"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45362,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint regarding Citibank 's handling of a disputed credit card change. \nAmount : {$250.00} Transaction Date : XX/XX/XXXX Statement Period : XX/XX/XXXX - XX/XX/XXXX This was an online transaction that I disputed on XX/XX/XXXX after realizing I had mistakenly submitted payment to the wrong rental company. \nDuring the investigation, the merchant provided as evidence a lease agreement signed in XX/XX/XXXX. \nThat lease : 1. Predates my relationship with the person who signed it 2. Expired several years before the XX/XX/XXXX transaction 3. Does not reference my credit card 4. Does not demonstrate authorization for any transaction in XX/XX/XXXX Despite this, Citibank ruled against me on XX/XX/XXXX. \nI reopened the dispute on XX/XX/XXXX, specifically explaining that the lease does not establish authorization of this transaction. I was not contacted during the reinvestigation. On XX/XX/XXXX, Citibank closed the case stating that the time limit had passed and that no further action would be taken. \nThe statement containing the charge covered XX/XX/XXXX through XX/XX/XXXX. I disputed the charge well within 60 days of that statement. \nCitibank has not explained how a XXXX expired lease agreement constitutes authorization for a XX/XX/XXXX online XXXX transaction XXXX \nI am requesting that Citibank : 1. Conduct a proper reinvestigation of this billing error.\n\n2. Provide a written explanation detailing how the documentation relied upon establishes authorization of this specific transaction.\n\n3. Correct the account if authorization can not be demonstrated. \nI believe Citibank improperly relied on irrelevant documentation and then closed the reinvestigation on procedural grounds without addressing the substantive issue of authorization. \nI have submitted a formal written billing error notice under the Fair Credit Billing Act to Citibank 's designated Billing Inquiries address."
+}

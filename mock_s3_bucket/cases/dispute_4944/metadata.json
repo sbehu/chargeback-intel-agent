@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4944",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33463"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32835,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a dishwasher from bestbuy online on XX/XX/scrub>XXXX XXXX XXXX  and canceled it the next day. However I received the delivery the next day and was told by delivery drivers it was cancelled. They forced me to let them in and insisted it was never cancelled. After they installed it, I called bestbuy to see why my order wasnt cancelled. I was told it was cancelled but was delivered by mistake and someone from another department will call me back in 7 days to let me know the solution. No one called me but end up charging my cards for the cancellation. I opened a claim with city bank who is the insurer of the bestbuy credit card so I could get my money back because bestbuy keep refusing to come get the dishwasher so I could be refunded. City bank and Best Buy are fraudulent companies that are forcing customers to buy products that they dont want."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2828",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IN",
+    "complaint_zip": "46037"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2978,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I purchased a commemorative dollar bill from XXXX XXXX. \nAfter the initial order I received more of the same items in the mail that I did not order. I contacted XXXX XXXX at XXXX but was unable to get an agent on the phone. \n\nOn XX/XX/XXXX I disputed a charge with citi for transaction XXXX XXXX XXXXXXXX IL {$200.00} on XX/XX/XXXX. \nCiti requested Actions on XX/XX/XXXX. \nI provided Documents to Citi on XX/XX/XXXX. \nCiti said Resolved - Customer Responsible on XX/XX/XXXX The letter stated After reviewing your dispute and the information you provided, we're unable to resolve the dispute in your favor. The information wasn't enough to support your claim, and you are responsible for the disputed charge. If you'd like to pursue this matter further, please contact the merchant directly On XX/XX/XXXX I disputed a charge with citi for transaction XXXX XXXX XXXXXXXX IL {$200.00} on XX/XX/XXXX. \nCiti requested Actions on XX/XX/XXXX. \nI did not see this request and I dont know what extra information they need, I have no record of this. Citi did not make a reasonable request to call and ask me for more information. \nCiti said Resolved - Customer Responsible on XX/XX/XXXX I cant get a copy of this letter, i get Looks like were experiencing a temporary technical issue. Please try again later. \n\nI have tried multiple times to contact the merchant XXXX XXXX and i am not able to get a customer support agent on the phone at XXXX. \n\nI called citi dispute center on XX/XX/XXXX XXXX XXXX to explain what was wrong with the submission. They said they could not help out with the matter due to the age and then hung up the call without giving us a full explanation of why I was responsible. \n\nCiti notified me in non apparent ways, such as mail with no tracking number, emails that i dont check everyday and notifications in the citi app that has notifications turned off. I am over XXXX XXXX XXXX and I feel this treatment is XXXX  abuse."
+}

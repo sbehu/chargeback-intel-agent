@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5450",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60073"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2192,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Recently I opened an account with Barclays USA just before my scheduled trip to XXXX. On XX/XX/year> I have received a notification of a statement however the Barclay Card USA is blocking the access to my online account as I am using a foreign IP address and apparently the site also doesn't recognize my XXXX device. \nTo that effect on XX/XX/XXXX ( XXXX time ) I called the Barclays customer service and first the agent in the XXXX hang up on me when transferring the call to the \" specialist '' to help me with my request. \nThen on the second call I received a US CSR who was unable to offer assistance ( it was very noticeable that her speech was slurred showing impairment ). When I requested to speak to the supervisor I was told that nobody is unavailable and to call early in the morning US time ( middle of the night here ) to get a customer service supervisor to help me. The way this issue is being handled by the Barclays shows an utter and complete contempt for the US customers using their cards as their customer service set up is dysfunctional and not able to provide a basic service. I am only asking for a credit card statement so I can pay it. The bill is uncharacteristically high that's why I want to review it before the payment. Yes this request is that simple and for whatever reason Barclays is unable to comply with it. According to the US Federal laws the customer is entitled to the credit card statement before payment so I do not understand why Barclays is unable to comply with my request as it blocks the access to its own website."
+}

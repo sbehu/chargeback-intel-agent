@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1794",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91321"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44176,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Someone XXXX purchased items from Best Buy using my account sometime in XX/XX/2023 I noticed this and immediately called to cancel my card and notify best buy that this was an XXXX purchase, they knew it wasnt me who made it authorized this purchase and said they would remove it from my account and may take up to XXXX XXXX cycles for it to clear and its been XXXX of constant calling all to be told every time that its still under investigation with no resolution in sight"
+}

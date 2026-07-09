@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9148",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "MI",
+    "complaint_zip": "48346"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46008,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was on XXXX  and message came up that I was on the dark web and needed to respond to their telephone number immediately. I noticed a pending charge of {$7500.00} on AE credit card and got scared and called number and fell right into their hands. Told me to buy these gift cards and relay numbers on back of card. Dont watch news so wasnt aware of this type of scam out there."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4841",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94538"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46766,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Reference Number : XXXX I submitted a dispute with Amex that XXXX didnt receive the merchandise. \nThe merchant provided a photo of the return, which showed that they did not receive the bracelet. Therefore, the merchant concluded that I took the bracelet. \nThen the merchant provided the receipt of my purchase and XXXX 's signature. Ironically, the signatory is not me, and this person signed with an illegal ID. \nThe merchant was sure that I didn't return the goods, because I didn't receive the goods at all. \nIn the week when the incident happened, the merchant contacted me and said that he had not received the goods. And the merchant mentioned that they had filed a claim with XXXX, and I also provided the police reports. \nIn the face of so much evidence I provided, Amex still rejected my dispute. \nSum up, package was signed by an invalid XXXX is not responsible for this purchase. \nAnd the merchant doesnt have evidence that XXXX XXXX the package and have the merchandise in XXXX XXXX. \nPlease ask for certificate of receipt signed by the XXXX from the merchant. XXXX indicates that the merchant has an image that shows who signed for it. The merchant has not provided this document. Please ask the merchant to provide this document!! \nI won't pay this bill. I will fight until the end."
+}

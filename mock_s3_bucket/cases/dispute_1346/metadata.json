@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1346",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33020"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34667,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "account : Barclays XX/XX/XXXX this account was opened fraud under my name I've reached out numerous times to Barclays to dispute transaction and to close account due to fraud activity under my name. An investigation was opened and recently received a letter from Barclays XX/XX/XXXX saying that I am still liable for this account. I just added credit monitoring service to my credit to avoid this in the future"
+}

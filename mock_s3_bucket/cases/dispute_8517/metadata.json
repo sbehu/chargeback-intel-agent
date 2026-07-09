@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8517",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "330XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48594,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Updated CFPB Complaint Reopening/ Incomplete Resolution Original Complaint ID : XXXX was not resolved Fully Dear CFPB, I am writing to reopen and supplement my original complaint regarding American Expresss handling of XXXX related disputes concerning the same merchant : XXXX XXXX XXXX \n\nThere were XXXX charges/disputes involved, both filed on XX/XX/year> Dispute XXXX : {$100.00} Deposit Dispute XXXX : {$5400.00} Program Balance ( re-Opened on XX/XX/XXXX ) Total : {$5500.00} Both disputes were initially denied by Amex due to being past 60 days, even though I submitted documentation explaining that the harm was not discoverable until after that period due to merchant deception and a third-party whistleblower. \n\nWhat happened next : On XX/XX/year>, I recieved an email from Amex that they are to credit my account for the {$100.00} deposit ( XXXX ) without reopening the dispute or asking for further information. However, as of XX/XX/XXXX, this credit still does not appear on my account. \n\nFor the {$5400.00} balance ( XXXX ), I reopened the dispute on XX/XX/XXXX. On XX/XX/XXXX, Amex closed the case again, now citing a tort claim exclusion under consumer credit law and stating they can not process the claim further. \n\nWhy this response is inconsistent and unreasonable : Both charges are for the exact same service and merchant. If the {$100.00} was refunded, it logically follows that the $ XXXX of the same transactionshould be treated under the same standard. \n\nAmerican Express has not explained why the lower-dollar dispute was credited while the higher-value dispute was denied under an unrelated legal theory. \n\nI am not pursuing a tort claimI am seeking relief for a misrepresented and deceptively marketed service, which is absolutely within the scope of credit dispute protections. \n\nI respectfully request that CFPB investigate : Why Amex inconsistently applied different legal standards to the same dispute. \n\nWhy the {$100.00} credit has not yet posted, despite written confirmation. \n\nWhy a documented pattern of merchant misrepresentation is being dismissed under a tort claim label without proper justification. \n\nThank you for your continued attention to this matter. I am happy to resubmit all supporting documentation if needed. \n\nSincerely, XXXX XXXX"
+}

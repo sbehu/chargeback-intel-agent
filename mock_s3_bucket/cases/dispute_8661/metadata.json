@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8661",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91706"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28277,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Summary of Issue On XXXX XXXX XXXX, I was charged {$55.00} for a Best BuyXXXX XXXX membership that I did not purchase or renew. \n\nSince then, I have spent extensive time attempting to resolve this issue with both Best BuyXXXX XXXX and Citi Bank XXXX but the situation remains unresolved. As a result, I have incurred additional late fees, interest charges, and credit score damage due to this unauthorized charge.\n\nTimeline of Events XXXX XXXX XXXX : {$55.00} charge posted to my Citi Bank credit card for a membership I did not authorize.\n\nLate XXXX XXXX : Contacted Best Buy, XXXX XXXX, and Citi Bank multiple times. Each referred me to the other. Best Buy could not locate the charge, but Citi Bank confirmed it. XXXX XXXX XXXX XXXX Visited Best Buy in p\nerson. After 2+ hours with a representative and phone calls to XXXX XXXX and Citi Bank , I was promised a resolution and a follow-up call which I never received.\n\n\nXXXX XXXX XXXX  : Contacted both Best Buy and Citi Bank again. Citi Bank agreed to open a dispute, remove late fees, and close my account upon my request. XXXX XXXX XXXX  : Citi Bank sent a letter stating that they successfully disputed only {$11.00}, completing their investigation.\n\nXXXX XXXX XXXX  : Spoke with Citi Bank and Best Buy again. Citi Bank refused to remove the late fee. A Best Buy representative ( XXXX ) admitted the error, apologized, and promised reimbursement of the remaining amount within 50 business hours, providing reference number XXXX\n\nXXXX XXXX XXXX : No reimbursement has appeared. After another lengthy call, Best Buy representatives claimed the charge was on my husbands card, which is incorrectour accounts are separate. XXXX XXXXXXXX Supervisor XXXX XXXX confirmed he could not see any charge and directed me back to Citi Bank. \n\nCurrent Status As of XXXX XXXX XXXX my Citi Bank account shows a balance of {$75.00}, including : {$45.00} past due amount {$1.00} in interest Continued late fees despite previous assurances these would be waived My credit score has been negatively impacted due to this unresolved issue. \nEvery time I call Best Buy, different representatives provide different answers. \n\nAttachments Three Citi Bank statements showing the charge and current balance Letter from Best Buy Credit Services, dated XXXX XXXX XXXX XXXX"
+}

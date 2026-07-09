@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11935",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "40214"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7744,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Subject : Billing Error Item Not Received {$900.00} Dispute Improperly Denied Complaint : I am filing a complaint against American Express regarding a billing dispute that has been repeatedly denied despite clear evidence. \n\nOn XX/XX/XXXX, I made a purchase from XXXX totaling approximately {$900.00}. The order was shipped via XXXX. \n\nThe tracking information showed the package as delivered, however, I never received the item. \n\nI immediately reported the issue to both XXXX and XXXX. While XXXX continued to rely solely on the delivery scan, XXXX opened an investigation into the shipment. After completing their investigation, XXXX determined that the package was lost and not delivered to me. \n\nI provided American Express with all relevant documentation, including : Confirmation of non-receipt XXXX  case number and investigation details Evidence that XXXX determined the package was lost Records of my attempts to resolve the issue with the merchant Additionally, the purchase was split between two different credit cards. The other financial institution involved reviewed the same evidence and resolved the dispute in my favor, acknowledging that the item was not received. \n\nDespite receiving the same information, American Express has denied my dispute multiple times without properly addressing the key fact that the shipping XXXX confirmed the package was lost. \n\nA delivery scan alone does not constitute proof of actual delivery, especially when the XXXX itself has determined the package was lost. \n\nUnder the Fair Credit Billing Act, this situation qualifies as a billing error for merchandise not received. \n\nI am requesting that American Express : 1. Reopen and properly investigate this dispute 2. Provide a clear and detailed explanation for the repeated denials 3. Reverse the charge of {$900.00} I have acted in good faith throughout this process and should not be held financially responsible for merchandise that I never received."
+}

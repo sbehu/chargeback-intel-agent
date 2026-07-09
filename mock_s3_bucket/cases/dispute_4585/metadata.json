@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4585",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27613"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41601,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Credit card was linked to an XXXX XXXX XXXX account. This account was closed in XX/XX/XXXX, however, charges were recurring from XXXX XXXX. When this was noticed, XXXX was contacted without response. Amex chat services suggested a dispute under the reason \" recurring transaction has been cancelled. '' Today, XX/XX/XXXX I received notice that Amex is refusing to \" investigate '' charges from XX/XX/XXXX to XX/XX/XXXX because it is outside of their 60 day claim window. \n\nI would like further assistance obtaining these funds back from the merchant, XXXX, who is refusing to cooperate or assist. Amex has consumer protections in place for purchases made without consent, or continued purchases after a service is canceled. I could really use their assistance reclaiming these funds."
+}

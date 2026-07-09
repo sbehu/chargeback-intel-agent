@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_301",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90280"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16271,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This letter is in response to your letter dated XX/XX/XXXX XXXX  signed by XXXX XXXX by the America Express XXXX XXXX XXXX XXXX XXXX. The letter is in response to the following CFPB complaints : CFPB XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX Per the letter, although I have the correct address in the letters I mailed out disputing multiple charges, you are not going to place those charges into dispute because American Express can not find a record of those letters. Your response states that I need to call XXXX to dispute the charges. Per the cardmember agreement, I chose to mail out my request to dispute the charges. Per US Postal Service records, each letter was delivered to the correct address. As such, I demand that I receive credits for each transaction I am disputing along with a refund of the interest charges that I was charged to this day. If you refuse my demand, I request that this issue be settled through mandatory arbitration. Thank you."
+}

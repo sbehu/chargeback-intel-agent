@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12846",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "AZ",
+    "complaint_zip": "85295"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45199,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "COMPANY NAME : Citibank / Citi Cards COMPANY PHONE : XXXX PRODUCT TYPE : Credit Card XXXX XXXX Visa Card by Citi -- - COMPLAINT NARRATIVE -- - I am filing this complaint against Citibank for reversing two legitimate dispute credits despite documented written evidence of a merchant 's agreement to refund, and then telling me there is \" nothing more they can do '' to recover my money. \n\nSUMMARY OF FACTS : 1. ORIGINAL CHARGES : In XX/XX/year>, I was charged by XXXX ( XXXX ) for two hotel bookings : - {$2200.00} on XX/XX/year> ( Booking XXXX ) - {$1500.00} on XX/XX/year> ( Booking XXXX ) XXXX. LEGITIMATE CANCELLATION : When we checked in, we noticed that The hotel ( XXXX XXXX, XXXX, XXXX  ) had unproper conditions for us to stay in the hotel, We immidiately contact both the hotel and XXXX, they all agreed in writing to cancel and refund all bookings despite a non-refundable policy. \n\n3. KEY EVIDENCE CITI HAS NOT PROPERLY CONSIDERED : - XX/XX/year> : XXXX 's own support agent sent a written email confirming : \" I've processed a refund to your original payment method. The refund is initiated immediately. '' - XX/XX/year> : The hotel confirmed in writing : \" Yes, you are all set. You can give the XXXX nights refund. '' This written evidence proves the merchant agreed to refund this is not a disputed cancellation. \n\n4. CITI 'S DISPUTE HANDLING : - I filed two disputes in XX/XX/year> : Case XXXX ( {$2200.00} ) and Case XXXX ( {$1400.00} of {$1500.00} ) - Citi initially issued conditional credits in XX/XX/year> - In XX/XX/year>, Citi reversed both credits based on XXXX 's chargeback response, despite XXXX 's own written confirmation of an agreed refund - XXXX only partially refunded {$2000.00} of the {$2200.00} charge, and refunded nothing on the {$1400.00} dispute - Citi characterized the resolution as a \" partial credit '' from the merchant without recognizing that the merchant 's own documentation proved a full refund was owed 5. CITI 'S REFUSAL TO ACT : When I contacted Citi after the reversals, they stated they had tried to communicate with XXXX but XXXX refused to cooperate, and that Citi had \" nothing else they could do. '' They directed me to contact XXXX directly. This is inadequate as a Visa card issuer, Citi has chargeback rights and obligations under Visa 's dispute resolution rules, including the ability to escalate when a merchant has confirmed a refund in writing and then failed to deliver it. \n\n6. CURRENT HARM : I am currently out {$1600.00} money that both the hotel and XXXX 's own agent confirmed in writing would be refunded. I paid for 24+ nights of hotel accommodation that I never used due to unsafe conditions, and I can not recover this money because Citi has closed the dispute and XXXX refuses to engage. \n\nRELIEF REQUESTED : 1. Citi should reopen both dispute cases ( XXXX and XXXX ) and properly consider the written merchant confirmation of agreed refund 2. Citi should issue credits totaling {$1600.00} : {$160.00} shortfall on Case 1 and {$1400.00} on Case 2 3. Citi should exercise its rights as a Visa issuer to pursue the merchant for failing to deliver a promised refund DOCUMENTATION AVAILABLE : - XXXX  agent email ( XX/XX/year> ) confirming refund - Hotel 's written confirmation ( XX/XX/year> ) - Citi dispute case letters for both cases- All booking invoices and hotel folio"
+}

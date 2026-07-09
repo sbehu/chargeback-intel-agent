@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9770",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28306"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28824,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express allowed someone to fake my identity and make changes to my account allowing another persons to charge XXXX to my account. Then they allowed the person to falsify legal documents to close the dispute, criminal investigations and recharge my account the {$11000.00}. The person literally called up, faked my identity and reauthorized the charges."
+}

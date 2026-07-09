@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11880",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11301,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX : Online reservation made from residence within XXXX via XXXX ( Review Citi letter dated XX/XX/XXXX, XXXX paragraph ) XX/XX/XXXX : Arrived at XXXX XXXXXXXX XXXX XXXX counter at XXXX XXXX ( XXXX ) - Reservation found Car Rental Agent swiped Citi XXXX Card. Immediately declined Rental Agent tried a second time Citi XXXX XXXX declined Rental Agent asked if I had another card. I presented XXXX XXXX. XXXX XXXX accepted. \n( XXXX XXXX documents- checkout/returned ) XX/XX/XXXX : XXXX returned. XXXX damage, verified in my presence and annotated by Rental agent verbally and on invoice. Additional fee ( accident deposit ) removed from XXXX XXXX actual rental amount charged ( XXXX XXXX documents - checkout/return ) XX/XX/XXXX : Initial complaint filed via telephone using XXXX number. Referred by Citibank agent to XXXX XXXX  XX/XX/XXXX : Submitted all requested information ( rental invoices and summary of events ) to XXXX XXXX  XX/XX/XXXX : Received letter from XXXX XXXX  stating charges are not mine and have been declined ( Review letter dated XX/XX/XXXX ) XX/XX/XXXX : Letter received dated XX/XX/XXXX, from Customer Service stating, We were not contacted in a timely manner and are unable to assist. As a result, were unable to honor your billing dispute and you are responsible for the disputed amount ( s ). \nOn XX/XX/XXXX ( XXXX XXXX  ) I spoke with XXXX ( Citi XXXX XXXX Dispute Team ). I was verbally told I did not contact Citi XXXX XXXX timely but to resubmit documents originally submitted to their XXXX XXXX. I was provided both a FAX number and a physical mailing address. I submitted again previously submitted documents via XXXX. \nXX/XX/XXXX : Letter received dated XX/XX/XXXX, from Customer Service stating again, We were not contacted in a timely manner and unable to assist. \nDISPUTE TIMELY FILED Deceptive business practices. As noted above, I timely contacted the XXXX that is listed on the back of the credit card. After explaining the issue and the disputed charge I was referred to XXXX XXXX by their ( Citi XXXX ) agent. After their investigation Citis XXXX XXXX determined the charge was not mine. \nThe rental car charge has been paid via XXXX XXXX. The additional charge ( accident fee ) at the time of rental was removed when the car was returned ( XXXX XXXX ) undamaged and only the actual rental fee for XXXX week was charged to my XXXX XXXX. \nCiti Mastercard was contacted regarding my overseas travel and the countries I would be visiting. The failure resides with Citi Mastercard for refusing to honor my card at the rental counter in XXXX. \nPlease see attached documents. I DO NOT owe XXXX XXXX XXXX XXXX XXXX CITI Master Card or their subcontractors (? ) any money. I did everything correctly. The problem was/is with Citi Thank You Master Card. The Account Statement is additional proof that I filed my complaint timely.\n\nThe dispute was filed timely. The problem is internal not my issue."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1304",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30309"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6934,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX I purchased theater tickets on a website that I thought was the official ticket agent of the theater. The company is XXXX XXXX XXXX XXXX, website XXXX. I purchased these on my American Express card, account ending in XXXX. The charge was {$250.00}. Transaction reference number XXXX. The purchase was 2 seats for a performance of XXXX, the musical. \n\nOnce purchased I wanted to access the tickets to give as a gift - have something to print out. I was given no way to do this and tried to contact the company to ask. There was no way to get anyone on the phone, chat, email, etc. - zero customer service with this company. I even googled how to contact someone there. I feel this on purpose, they don't want anyone to be able to reach them. \n\nI opened a dispute with American Express immediately, on that very same day. I did so on the AMEX app and then feeling I wasn't able to fully describe the situation I called Amex customer service. The dispute as opened under 2 dispute numbers : XXXX and XXXX. \n\nI purchased other tickets for the event and felt confident AMEX would resolve the matter, given the lack methods to communicate with this sham merchant. \n\nToday, I found out Amex closed both disputes saying they were unable to investigate the charge, for me to contact the merchant directly. There is no one you can simply just contact at this \" merchant. '' That was the issue from the get-go. \n\nI never received the dispute resolution letter from AMEX. It is not in my account when I look in the message folder, where it is suppose to be, if sent. \n\nI will pay disputed amount and not withhold funds to AMEX for this. Frankly, it's not about the amount of money, it's the principle of this merchant being disreputable and having no way to contact them, and in my view an unscrupulous merchant. I want to do what I can to stop this company from duping other. \n\nI've been a AMEX account holder since XXXX  and always paid on time and carry no balance. It is my go-to credit card as their customer service is typically top-notch and they are known to back you up if and purchases need to be disputed. The only other dispute I had, in XXXX, was easily resolved. I felt confident this one would be easily resolved as well, and was shocked when it wasn't."
+}

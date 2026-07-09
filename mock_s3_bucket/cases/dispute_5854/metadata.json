@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5854",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10452"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30881,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX  XXXX XXXX sport from XXXX XXXX XXXX XXXX using my Citibank Credit card to pay {$13000.00} of the cost. AT the time for the sale the dealership XXXX XXXX XXXX in XXXX Texas provided me with a bill of sales and a title for the vehicle. I went to register the vehicle in my name and also to get the title of ownership in my name as well and I was told by the Motor Vehicle that the title that the dealer presented to me is not valid it is voided and I can not get a title for the vehicle issue in my name because the title that was sold with the vehicle is the not last title that was issued for the vehicle. I reached out to the state where the title was issued and I was told to contact my attorney general and my bank that I used as payment because the vehicle was sell with a fraudulent Title and the vehicle was not suppose to sold with a voided title. The dealer is not longer in business. I contact Citibank Credit card and they are advising because the vehicle is sold AS IS they can not issue a refund unless I get something in writing from the business stating they are issuing a refund. I explain to Citibank that the AS is only for the mechanical aspect and not the overall sales. I also have previously tried disputing the charges with Citibank and they are not providing any proper resolution. AT the present moment I have a vehicle I purchased for the bulk of the payment of {$13000.00} and I don't have a title to show that I own the vehicle and I can not obtain a title to show that I own the vehicle. The sales with XXXX XXXX was not Valid because they have not provide me with a valid title for the vehicle purchase. As per law I am suppose to get a valid title for the purchase of the vehicle not a voided title. The voided title was not valid for the sale and as of date I can not get a valid title and the dealership is no longer in business so I am left to pay citibank {$13000.00} for an illegal sales."
+}

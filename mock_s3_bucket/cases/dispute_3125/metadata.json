@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3125",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60062"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46620,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My previous employer open credit card under his business and put me as co-sign on account, so now he stop pay and credit card American Express chase me for money, i need help for this to be remove from my name and from my ss. \nso they pay from this card for their company needs, so when i resign from this company, they add my bank account to Amex credit card on auto pay, so XXXX months Amex charge my bank account for payment for this card, so i call Amex and they tell me that payments are taken for XXXX XXXX, so i told them that i dont have XXXX XXXX open with them, so since then XX/XX/year> they open investigations and still is on, but they keep telling me that im responsble bcoz im co sign on acc, i told them that previous company they use my informations use my SS and put me as co sign, plus they have my bank XXXX and use my XXXX as auto pay for this car, so they try to XXXX me up maximum as possible, so they dont wan na remove my name from this account bcoz was done XXXX payment from my account, but im telling them they add my bank XXXX as autopay, i did not, plus im telling them to investigate who make first payment from this account, they dont wan na check who did first payment and where money was spend, this is nightmare for me for 18 months, i want this to be over and my name to be clear from this account!"
+}

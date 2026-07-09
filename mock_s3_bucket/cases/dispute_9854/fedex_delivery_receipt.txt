@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-93170189-US
+Shipment Date:   2025-10-19T00:00:00Z
+Delivery Date:   2025-10-26T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9420 HILLSIDE DR, TX, 75093
+============================================================

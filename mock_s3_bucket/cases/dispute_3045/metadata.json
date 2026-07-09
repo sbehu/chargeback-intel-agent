@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3045",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "925XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16837,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I Had A Credit Of XXXX $ On My Account Before This Fiasco Started. I Was A Victim of A Scam XXXX XXXX  on XXXX. I purchased Some Items Total of XXXX $ Due To Some XXXX Issues I Was Having I Inadvertently Purchased A Duplicate Order In The Amount Of XXXX $ I Tried To Contact The Merchant To Cancel One Of The Orders. No Response. I Get My Credit Card Company citi.XXXX Involved. I Guess Their Computer Algorithm Is Programmed To Throw Their Customers To The Wolves. In Order To Protect My Credit Score I Ended up Paying For Both The Fraudulent Orders. I Never Received any Of The Items I Ordered From Both Orders I Feel So Unappreciated As A Customer I Close my Account"
+}

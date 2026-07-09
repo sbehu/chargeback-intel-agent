@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4712",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "906XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22690,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear whomever it may concern, I am writing this message today because I don't believe I am getting the right treatment with Home Depot Credit Services. On XX/XX/XXXX, another account was opened under my name and was charged {$2300.00}. I reached out the 1st time to get it solved but was then given a letter stating that I was the one responsible for the charges. I have contacted the number provided on the bill ( XXXX ) and appealed and was told it would take 30-60 days to reinvest the case. About 2 weeks later, I received a letter denied my appealed. I have also filed a police report on XX/XX/XXXX and was told that the police were going to investigate the situation as well."
+}

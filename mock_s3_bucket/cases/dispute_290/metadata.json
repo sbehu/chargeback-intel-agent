@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_290",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34772"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24227,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got scammed on XX/XX/, the charged appeared on my card on XX/XX/2023. The scammers used XXXX website to book fake reservations and asked for credit card to be paid directly. The reservation request is done directly through booking.com but they give instructions to contact them directly, you even receive a confirmation number from an email from booking, I learned later that booking.com provides a reservation number and a pin number, the email you get does not have a pin number. \nI called the credit card company immediately to dispute the charge and change the card number, rendering the previous number obsolete. The credit card company eventually took the charge off, however later put the charge back on claiming they didn't have enough proof and that the merchant didn't violate the terms. I faxed the screenshots and email indicating the merchant had written they would refund, but they say there is nothing else they can do and they have re-charged me the amount."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10054",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92647"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44683,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Since XX/XX/year>, my Citi XXXX XXXX has been repeatedly provisioned into XXXX XXXX without my authorization. I have never enrolled any Citi card in any digital wallet, and XXXX confirmed no wallet is or was ever linked to my name or devices. \n\nDespite multiple written and verbal requests to block digital wallet enrollment, Citi continues issuing replacement cards that automatically attempt provisioning. Citi has issued at least five cards and closed four due to repeated fraudulent XXXX XXXX token attempts, yet the underlying issue continues. \n\nIn one CFPB response ( XXXX XXXX ), Citi confirmed the account was locked, had no digital wallet tokens, and credited the unauthorized charges. In a later response ( XXXX XXXX ), Citi reversed its position, removed the credits, and blamed me and/or my devices, stating activation attempts suggest someone knows your credentials. Both written responses contradict each other and ignore Apples documented confirmation that no wallet is active."
+}

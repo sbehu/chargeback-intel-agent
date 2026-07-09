@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_19",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "314XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47955,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a citi card that was issued around XX/XX/XXXXXXXX  the thing is the card was sent to a different adress than where i reside ... .Once they corrected that issue and i received my card i began using it at the costco XXXX XXXX XXXXXXXX  XXXX I only used the card 3 times within a day or 2. Once i recived the bill i paid for the purchaes that i made, but i was told that the card was used in many locations and different states. I told them that i had the card in my posession and I did not make the purchaes that were attached to my account. I disputed it with the credit card company, and they denied the claim because they said i still had the card in my posession. I told them that the original card was sent to a different location and that could be why other charges we added to my account ... ... ..I asked them to look up the initial adress where the card was first mailed to and thet told me they do not see any other address on file ...."
+}

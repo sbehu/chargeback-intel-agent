@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2104",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34482"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13302,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "American Express National Bank is the sponsor of the card who issued me the credit card ; however, since then they have sold my account to American Express XXXX XXXX XXXX XXXX XXXX, and then again to American Express Credit Account XXXX XXXX. When American Express National Bank transferred/sold the account to American Express XXXX XXXX XXXX , they no longer have the authorization to collect on my accounts.\n\nWhen American Express National Bank transferred my account to American Express XXXX, they securitized that account, turned it into a book entry\nsecurity and began to trade my securities on the secondary market without my knowledge. They are supposed to send me the interest on that account each month, but they have failed to do so. I mailed American Express, XXXX different book entry securities ( aka statements ), stamped and endorsed for them to take the funds and credit my account and they failed to do so. I have attached the XXXX securities that they did not credit to my account or return them to me, which is a theft of my security. I have given American Express at least XXXX chances to make this right, but they have refused to contact me to rectify this situation. I also sent correspondence to the Legal Department in reference to this issue, attaching pages of the forensic audit showing their fraud, and no one ever called me back.\n\nAmerican Express has committed theft of my securities, as well as securities fraud as they are trading my security on the secondary market even though they state in their Prospectus dated XX/XX/2018 ( b ) Security Interest, that they will not the securities on the secondary market, showing the breach of contract with the SEC and the securities fraud, since they are not reporting those earnings to the SEC."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1769",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75208"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5216,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There was a transaction on my Citi credit card for {$470.00} that has been under different dispute statuses since XXXX of XXXX. Initially it was disputed as fraud and I was then informed it was disputed incorrectly. I sent all documents, including an authorization form that was emailed to the hotel on my behalf prior for the amount to be charged that I was approved for by a third party \" XXXX '', which is a online lending service that is used as a loan and they provide you with a XXXX virtual card. It stated the transaction amount and the last four of the credit card that was used for the purchase.They opened another under another form of payment used. I have called in almost everyday to check the status of my credit as this was affecting my use to utilize my credit card for a transaction that I did not authorize on my Citi card. I spoke with a representative in the billing dispute department that stated they had all the documents they needed from me and once that was filled out and completed that they would credit my account for that amount and would have everything they needed. That did not happen. I received a notification on XX/XX/XXXX that the dispute was resolved and I was responsible. The representative today in the billing dispute department stated something contradicting everything that was stated prior and that now the documents are from screenshot and they would now need physical statements. This is an online loan provider and there are no physical statements. Everything I provided showed the amount that was charged on the XXXX  virtual card, the loan agreement, and the authorization form that was signed and given to the hotel on the form of payment that was used. There was no authorization form that I ever signed to charge my Citi card."
+}

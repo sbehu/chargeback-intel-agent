@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13145",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2136"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10200,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased a digital study guide and flashcards for {$400.00} from The XXXX XXXX using my American Express card. The product was advertised as a structured, syllabus-based, exam-focused study system with prioritized, high-yield content and flashcards designed to highlight key concepts. \n\nAfter accessing the materials, I found that they were not organized by syllabus, lacked prioritization of key topics, and contained repetitive summaries. The flashcards did not distill key concepts but largely restated the same content without narrowing scope or focusing on exam-relevant points. \n\nI filed a dispute with American Express under not as described ( misrepresentation ). However, the merchants response only addressed delivery, usage, and a no-refund policy, and did not provide any evidence that the product matches its advertised features. American Express closed the dispute in favor of the merchant without addressing whether the product meets the advertised claims. \n\nI requested a proper evaluation of whether the product matches its advertised features, but this issue was not addressed in the dispute resolution."
+}

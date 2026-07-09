@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6758",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90045"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19886,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to report that I have been a victim of identity theft, which has led to significant unauthorized financial activity across my credit and bank accounts. Over the course of several years, thousands of dollars were fraudulently charged to my credit card ( s ) and withdrawn from my bank account ( s ) without my knowledge or consent.\n\nDue to my habit of consistently making minimum payments on my accounts and trusting that my finances were in order, I did not immediately detect the fraudulent activity. It was only after a thorough personal financial review that I became aware of these unauthorized transactions.\n\nSince discovering this issue, I have taken steps to secure my accounts and report the fraud to the appropriate institutions. I am requesting assistance from the CFPB in addressing the financial damage and helping to resolve any disputes that may arise as a result of this identity theft. I believe the extent of the fraud was exacerbated by how long it went undetected, and I am seeking fair remediation.\n\nPlease let me know if any further information or documentation is needed."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6772",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "195XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16403,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> a call from Barclays bank credit card and text about a possible fraud charge of {$310.00}. I did let them know this was not my charge. Barclays bank approved the charge anyway. I spoke with an agent and said that we were both have our cards in our possession and we were both at work at the time the charges were being made at XXXX. I disputed the charges and closed the account and had a new card issued. on XX/XX/year> they notified me that the XXXX verified the charges were mine. They are NOT mine. Barclays refused to provide the \" documentation '' that XXXX claimed proved it was my charge. I do not have a XXXX account. They would not provide deliver address, items ordered or where it was ordered from. They are not showing proof that this is INDEED my charge. I re-opened the claim and disputed the claim again, asking for a copy of the receipt. Reference number XXXX from Barclays bank credit card. Barclays Bank refusing to send me proof that this charge is mine. It is not mine so they can't have anything that says I placed an order with XXXX .. com Pulled statements from last 3 months no charges showing on any statement or that there was a provisional credit made."
+}

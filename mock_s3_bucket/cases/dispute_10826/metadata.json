@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10826",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28504"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36923,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, a charge for {$1200.00} posted to my Citi Drive Card account for an alternator and related services/service plan purchased from XXXX XXXX in XXXXXXXX XXXX \n\nSoon after purchase, my vehicle developed major electrical issues ( flickering dash, speedometer, and other components ). The XXXX XXXX XXXX location closed permanently shortly thereafter, preventing me from returning to that store for resolution. I continued troubleshooting through other service providers. I was later referred to XXXX XXXX in XXXX XXXXXXXX XXXX after it was determined the issue was alternator-related. XXXX XXXX ( XXXX XXXX ) was unable to resolve the issue. I then purchased a different alternator from another source to be installed, which fixed the problem. \n\nWhen I retrieved my vehicle from XXXX XXXX ( XXXX XXXX ), I did not receive back the alternator I originally purchased. On XX/XX/XXXX, I contacted the merchant in person and spoke with the store XXXX. The XXXX acknowledged that I was owed a refund but stated their store could not process it and that corporate would have to correct it. \n\nBecause the merchant did not provide the product I paid for ( the alternator was not returned ) and did not provide the promised refund, I filed a dispute with Citi in XXXX XXXX for {$1200.00}. Citi issued a provisional credit ; the account reflected - {$1200.00} and I received and cashed a check for {$1200.00} representing the credit balance. \n\nIn XX/XX/XXXX, Citi reversed the credit and the {$1200.00} balance reappeared as owed. Citi did not provide me a clear written denial reason or a description of the evidence used to make this decision. I requested details and supporting documentation ( including what information the merchant provided ), but Citi would not provide a meaningful explanation or documentation. \n\nI am requesting that Citi : ( 1 ) provide a written explanation for the reversal/denial and all documentation relied upon ( including any merchant submissions ), ( 2 ) reconsider/review the dispute based on the facts ( defective/not as described and the merchant retained the alternator and did not refund ), and ( 3 ) treat the amount as disputed and pause collection/negative credit reporting while the matter is reviewed."
+}

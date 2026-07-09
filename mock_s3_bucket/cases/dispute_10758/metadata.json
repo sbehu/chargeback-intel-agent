@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10758",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "40207"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40203,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On or about XX/XX/year>, I rented a vehicle from XXXX XXXX XXXX XXXX. I returned the vehicle around XX/XX/year>. After returning the vehicle, I saw a miscellaneous charge to my credit card in the amount of XXXX including taxes and fees. I brought this to the attention of the general manager of the location, and he willingly adjusted the amount and gave me a new receipt. \n\nThe new receipt reflected original charges without the miscellaneous fees. However, after disputing these charges with Citi Cards these charges remain on my account which has brought me over the credit limit and has incurred interest over an 8-month period.\n\nI provided documentation for proof to Citi, but Citi is stating I owe this amount."
+}

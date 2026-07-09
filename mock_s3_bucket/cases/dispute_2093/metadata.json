@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2093",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "025XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12137,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I got the card for 0 % APR for 18 months and got a letter that it will be extended. I didnt receive the card until XXXX after i applied in XXXX. They have been charging me interest and it shouldnt be charged. I want them to remove interest."
+}

@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-780123",
+  "invoice_date": "2026-02-08T00:00:00Z",
+  "amount_cents": 5011,
+  "currency": "USD",
+  "billing_address": "5477 Washington Way, FL, 33076"
+}

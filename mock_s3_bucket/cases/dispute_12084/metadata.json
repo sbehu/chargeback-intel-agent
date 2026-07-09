@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12084",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85020"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23202,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I did not receive a service that was advertised and offered to me, according to the website for XXXX, written communications and a phone call with one of the owners ( XXXX XXXX ). I paid them {$4700.00} to provide boarding/training to my dog, with the specific goal of building her confidence to help with her reactivity. For this purpose, I made the single payment in that amount on XX/XX/XXXXXXXX pending the next available spot in the program. \n\nI brought the dog to them on XX/XX/XXXX once they did have an opening. There were several concerns I had during the time she was there ( XXXX weeks ) but the owner continued to try to reassure me. My dog was \" finished '' and I was able to bring her home XX/XX/XXXXXXXX \n\nOver the next few weeks, I attempted to arrange additional training with them in my home because neither I, nor family or friends were seeing any improvement in her confidence or reactivity. When I ultimately was not hearing back as of XX/XX/XXXXXXXX I filed an Attorney General complaint, and when this and an additional letter to the training company yielded no movement, I filed the credit card dispute with AAdvantage Citicard on XX/XX/XXXX. \n\nOriginally, Citicard responded XX/XX/XXXXXXXX  simply stating that they had \" completed ( our ) investigation and the documentation or facts provided don't support the billing error/dispute. '' I sent a letter the following day asking for further detail on their investigation and formally requested an appeal. \n\nXX/XX/XXXXXXXX  Citicard sent me an email to say they were working on it, then XX/XX/XXXXXXXX  they posted a letter to my account stating \" Since too much time has passed since this transaction was billed to you, we aren't able to investigate this dispute... ''"
+}

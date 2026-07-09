@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4149",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89139"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6519,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ref. No. XXXX Ref. \n\nXX/XX/XXXX I was fraudulently billed {$7800.00} by a professional group of scammers. The scammers manipulated me to wait to dispute the transaction until the dispute window closed. Dispute XX/XX/XXXX XXXX I submitted my dispute to Amex. Amex rejected my case due to the length of time outside their policy. XX/XX/XXXX I requested Amex to reopen the dispute as an exception to my cause. \n\nWith clean hands and good faith, XXXX XXXX"
+}

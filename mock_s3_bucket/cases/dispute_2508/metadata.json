@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2508",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "223XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47442,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I noticed an email from XXXX saying I purchased something with my credit card at a Florida location ( I live in VA ). I immediately contacted Barclaycard to notify them of the fraud and cancel my card. They provisionally credited my account for the disputed transaction. Last week, I received a letter that Barclay had concluded their investigation and determined that the transaction was not, in fact, fraudulent and therefore were charging my account, again. I've contacted Barclay to express my dissatisfaction with this development, but they have not withdrawn the charge. I was not told precisely what Barclay learned to reach the conclusion that my fraud report was inaccurate, but they did mention that XXXX 's ( a national retailer whom I occasionally purchase from, although not this location/state ) had my name, billing address and email on file. The implication was that because I had used XXXX 's in the past, then this transaction wasn't fraudulent. I was told they were opening a new investigation. \n\nI'm extremely disappointed in the manner in which Barclay has handled this relatively routine problem. I have used credit cards for XXXX years, and over that time had a relatively small ( certainly under XXXX ) number of fraud issues. It is an enormous pain to cancel a credit card and change the number on file with a variety of companies. The notion that I would go through that hassle just avoid a {$300.00} charge at a XXXX 's is laughable. Over the years I've put over {$100000.00} of transactions on this card. Barclay 's \" process '' for resolving this dispute seems designed to placate the customer in the beginning, then send them a letter a month later ( that they hope nobody ever opens ) saying \" we changed our minds, we think you are lying to us, '' and keep the money. I'm very disappointed in Barclay and in the customer service I've received to date from them on this issue."
+}

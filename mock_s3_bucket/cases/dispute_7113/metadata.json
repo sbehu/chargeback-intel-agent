@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7113",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85086"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41734,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Since I have now been evaluated with XXXX XXXX  I have given my brother-in-law, XXXX, authorization to help me resolve a {$3500.00} plus fraudulent credit card issue with CITI Card. In XXXX of XXXX a CITI Premium credit card was activated in my name without my authorization. I have since determined, with help from my brother-in-law, that {$3500.00} plus had been charged to this credit card account without my authorization. I personally have never activated this charge account and have never made a single charge to this unauthorized account. \n\nAfter the first of the year XXXX I moved in with my sister and brother-in-law due to my medical condition. At my request my brother-in-law was successful in updating a change of address, contact phone number and email address with CITI Card. At the same time CITI was advised that the aforementioned account activated in my name was fraudulent and all purchases or charges on the account are fraudulent and not authorized by myself. \n\nI have regularly been receiving account statements indicating that there is an outstanding balance in excess of {$3500.00} with numerous penalty charges continuing to be added to the past due balance. I also receive what I consider threatening text messages from CITI Card indicating the same thing. My brother-in-law with my permission and in my presence has telephonically talked with CITI fraud representatives numerous times emphasizing with them that this account is fraudulent and all charges were of fraudulent origin. He was successful in getting them to close the account which stopped further fraud charges. With each call to CITI Card fraud we have been told the account is assigned for fraud investigation and to wait for follow up by this operational unit. When asked how do we stop the threatening texts and past due account statements were are told there is nothing that can be done until the fraud investigation is resolved.\n\nMy brother-in-law has been able to resolve my other credit and bank account fraud attacks with cooperation from the respective companies. With CITI Card it continues to be a very difficult, stressful and extremely frustrating effort to resolve what is fraudulent criminal activity.\n\nIn closing, this notification is to alert anyone interested that from my experience with CITI Card anyone can become the VICTIM of fraud and find themselves fighting an uphill battle to get just resolution. \n\nXXXX XXXX XXXX"
+}

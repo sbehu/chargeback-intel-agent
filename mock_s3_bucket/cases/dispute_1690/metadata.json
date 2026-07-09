@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1690",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43270,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I believe American Express is discriminating against me because I am XXXX and the merchant is white owned. this is regarding dispute XXXX. \n\nThey previously had the case closed with no indication their would be any rebill. the investigation was closed. but today i look and they re-opened it without telling me. Almost as if my word and my photos of the damaged product did not mean anything. \n\nI also submitted today a new update from XXXX, an email from XXXX  Investigations team where they CONFIRM the product and box were damaged when they received it from the merchant and they also confirmed the damaged product was returned to the merchant in the origin city of XXXX, FL. The XXXX team also confirmed it was returned to the exact address the merchant gave me and them. \n\nI am owed my money on this transaction, because I received a damage product when it was advertised as \" Excellent '' ; I also had it returned with their carrier and XXXX confirmed it was damaged and that they returned it to the merchant in XXXX, FL."
+}

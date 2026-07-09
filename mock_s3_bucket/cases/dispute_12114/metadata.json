@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12114",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33186"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3854,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Complaint against Citibank , N.A . Failure to Conduct Reasonable Investigation ( Dispute ID : XXXX ) [ INTRODUCTION THE IMPACT ] I am filing this formal complaint because the bank has failed to fulfill its legal obligations under the Fair Credit Billing Act ( FCBA ). I purchased furniture for my XXXX sister, who suffers from XXXX XXXX. I was physically present at the delivery location ( XXXX XXXX ) specifically to receive and assemble the item for her on XX/XX/year>. The item never arrived. This ordeal has caused significant and unnecessary distress for my elderly sister and myself. \n\n[ EYEWITNESS ACCOUNT & IMMEDIATE ACTION ] On the day of delivery, I was waiting inside the apartment. The moment I received the delivery notification on my phone, I immediately went outside to the hallway and entrance. The furniture was not there. There was no one in the hallway, and no knock had been made. I called the merchant immediately to report that the item was missing despite the \" delivered '' status. Please see the attached \" Communication and Evidence Log '' PDF, which documents my immediate attempts to resolve this and the photographic proof I gathered at the scene showing the discrepancy between the correct building and the misdelivered building. \n\n[ THE SPECIFIC ERROR : WRONG BUILDING, SAME UNIT ] The dispute for {$210.00} stems from a clear driver error. While the destination was XXXX XXXX in the correct building, the merchant 's delivery photo matches XXXX XXXX at a neighboring building. I provided the bank with side-by-side photographic evidence proving the location in the delivery photo is the wrong building : Permanent Door Features : The door at the correct address has a XXXX vertical stainless-steel plate near the handle ; the door in the delivery photo is missing this feature. \n\nXXXX XXXX : The door hardware at the correct address is on the opposite side of what is shown in the misdelivered photo. \n\nSurrounding Amenities : The delivery photo shows a bench next to the door that exists at the neighboring building but does not exist at the correct delivery building. \n\n[ PROCEDURAL FAILURE BY THE BANK ] I made XXXX good-faith attempts to resolve this with the merchant. A supervisor admitted the misdelivery on a recorded line and promised a refund within XXXX hours, which never arrived. \n\nThe banks investigation was not \" reasonable '' as required by the XXXX. I submitted the photographic proof and detailed explanation on XX/XX/XXXX and XX/XX/year>. Instead of reviewing this material evidence, the bank issued a final denial on XX/XX/year>, claiming the \" timeframe has passed. '' A bank can not use a technicality to ignore proof that a merchant 's claim is factually incorrect. Misdelivery to the wrong building is legally a \" non-delivery. ''"
+}

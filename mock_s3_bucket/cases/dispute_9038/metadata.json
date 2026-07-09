@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9038",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28451"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5174,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>XXXX  I purchased {$140.00} of merchandise from a XXXX XXXX website that clearly stated store that is located in XXXX, South Carolina and that they have in business for 30 years. As soon as I received my email confirmation I realized that the website was false and the merchandise was coming from XXXX and the manufacturer had no connection to any store in XXXX. I tried to immediately cancel the order with the vendor but they would not accept it so I disputed the charge with American Express who ultimately denied my dispute because the vendor said no cancellations once the order was in process. So when I received the merchandise it was not as pictured or as described on the website ( XXXX XXXX  ). I tried to dispute with Amex a few more times but they denied the dispute because the merchant says I could return the merchandise but the cost to return would be more than the amount I paid for the merchandise. American Express continues to deny my dispute because the merchant said I was informed of their policies. However, the merchant did not advise me that they would be shipping poor imitations of the merchandise. Also their website mentions easy returns but no mention that the return would cost more than the cost of the merchandise. \n\nI have been trying to explain these two factors to Amex but they refuse to submit a dispute with this information. Apparently my dispute does not fall into the standard options their customer service reps have to chose from when they take my complaint. \n\nI should also mention that I have been a customer of American Express for over 30 years."
+}

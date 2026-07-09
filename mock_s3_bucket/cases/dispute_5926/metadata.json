@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5926",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4978,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "BARCLAY DOES NOT PICK UP THE PHONE. I CONTACTED THEM MULTIPLE TIMES AND EVEN TRIED GETTING IN CONTACT WITH XXXX AND EVEN EMAILED HER WITHO NO RESPONSE. IT SEEMS LIKE THE ONLY THING SHE RESPONDS TO ARE THESE COMPLAINTS WHICH SHOULD NOT BE THE CASE AT ALL. I FIND IT COMPLETELY UNFATHOMABLE HOW SOMEONE CAN LIE, ESPECIALLY ABOUT REACHING OUT TO A CUSTOMER WHEN PHONE RECORDS AND EMAILS STATE OTHERWISE. \n\nDear Barclay Vice President, I am writing to express my concern regarding the ongoing lack of communication and clarity surrounding the documentation needed for my claim. Since initiating this process, I have not received any instructions or requests from your team on submitting any necessary documents. This has caused unnecessary confusion and delay. Furthermore, I would like to address an inaccurate statement made by Barclayview. A representative I spoke with on XX/XX/XXXX, informed me that calls were being recorded. However, in subsequent voicemails, I was told that failure to contact you within two days would result in my case being closed. Yet, I have not been provided with any clear instructions or requests for documentation, which I believe has prevented me from responding within the required timeframe. Additionally, I would like to personally thank XXXX, the Vice President of Barclayview, for making a false statement regarding the substantiation of my claim. In your correspondence, you stated that the dispute representative I spoke with assured me my case would not be closed due to my contact. However, you then mentioned, I have reviewed the telephone interactions that you had with our representatives. Unfortunately, I can not substantiate this claim. I can substantiate this claim, and I am confident in the accuracy of my records. I am also highly concerned about the errors in your recent correspondence. You stated, Our records show on XX/XX/XXXX, you submitted a digital dispute claim for the transaction XXXX XXXX in the amount of {$50.00}, posting on XX/XX/XXXX, for the reason of an altered amount. The claim was completed on XX/XX/XXXX, and a letter was sent to you acknowledging receipt of your dispute. However, I am genuinely confused by this as the transaction in question clearly occurred in XXXX, yet your records show a claim completed in XXXX. This discrepancy needs immediate clarification as it directly impacts my ability to address the situation properly. Given these ongoing issues, I would appreciate immediate clarification on the following : What specific documents are required from my end to process this claim? How can I properly submit these documents to ensure my claim is handled correctly and not closed due to miscommunication? Confirmation that future communications will be clear and accurate and provide actionable steps to avoid further confusion."
+}

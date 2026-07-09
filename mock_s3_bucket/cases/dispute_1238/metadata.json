@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1238",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "270XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29446,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX purchased gas with XXXX credit card in the amount of {$60.00}. We ended up being double charged, same amount, same day. Logged on site XXXX  XXXX each time unsuccessful in any physical contact-all auto answers. Called phone number on card XXXX XXXX, followed prompts and each time hit a dead end and unable to reach live person. Pulled up on line and found different number, after XXXX minutes actually talked with a live person and was told needed to go to the gas XXXXthey would have to correct. I tried to argue that made no sense but got no where. \nReturned to statin and of course there was nothing they could do, t they were very nice and called the credit card number they had. We went thru at least three people and were finally told to fax the disputed charge to them in spite of the fact that they were the ones who sent the statement!\n\nWith the help of the station manager we faxed to disputed charge to them on XXXX. \nWe received confirmation of receipt on XX/XX/20. nothing since"
+}

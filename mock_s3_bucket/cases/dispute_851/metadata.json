@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_851",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "303XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16604,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The following disputes require further review by a government agency. \n\nCitiBank disputes : XXXX - {$440.00} XXXX {$130.00} XXXX {$320.00} Dispute XXXX was resolved in my favor, the above disputes were raised for the exact same reason but for some reason they are being treated differently ; for some reason Citi keeps asking me to go back to the merchant to resolve an issue I already tried to resolve with the merchant. I would not be raising the dispute if the merchant was adhering to the policy stated in customer service chat. \n\nHere are the in depth details. \n\nI raised multiple disputes for charges with a merchant called XXXX XXXX XXXX XXXX citing they are refusing return of many items that were eligible for return. \n\nDispute was raised because I asked the merchants customer service chat system if I was allowed to return sale items. In the chat the merchant customer service responded yes that I could return sale items. \n\nI have screenshots of that chat confirming all sale items could be returned. \n\nI proceeded to make many purchases on this website based on the ability to return sale items. \n\nUpon receipt of goods when I tried to return the items that did not fit, the merchant cited some sale items could not be returned which was not what was explained to me at the onset PRIOR to purchasing. \n\nAt the point of purchase, and at the final purchase window FINAL SALE was nowhere to be found. \n\nAfter reaching out to the merchant and trying to resolve it with them directly ; the merchant said some items could not be returned. \n\nAfter merchant refused return, I called CITIbank customer service and explained the issue. The Citi agent told me to raise disputes for all orders where the refusal of return was taking place, and keep the items they would not let me return until the dispute was resolved. The CITI agent told me to keep the items that were not allowed to be returned, file disputes and ship back what was allowed to be returned. \n\nSo I followed the direction of the Citi agent. \n\nI raised the disputes and now CITI is asking me for proof of return, which is counter to what th agent told me, I returned the items eligible for return and raised disputes for the items that the merchant refused although I have in writing from the merchant that ALL items were eligible for return. \n\nCiti is asking me to go back to the merchant and resolve something I tried to already resolve ; thus Citi is not making the concerted effort to resolve the problem. \n\nI still have the items the merchant refused to allow me to ship back and will ship them back when I am able to generate a return label, and the merchant gives me a Prepaid label that I do not have to pay for."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7415",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33027"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46850,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, XXXX charged my Citibank credit card ending in XXXX in the amount of {$130.00} for orders XXXX and XXXX. \n\nHowever, on XX/XX/year>, XXXX charged me again for the exact same transaction, resulting in a duplicate charge. This was not a new order it was a duplicate billing for the same purchase. \n\nI immediately contacted Citibank, my card issuer, who confirmed that both charges were processed by XXXX. But XXXX denies this. Despite my repeated attempts to resolve this with both companies, I have not received a refund, a proper explanation, or any assurance of corrective action. \n\nI made a payment for {$130.00} on XX/XX/year> to cover the first charge. \n\nThis duplicate charge constitutes an unauthorized billing under the Fair Credit Billing Act ( 15 U.S.C. 1666 ). Both XXXX and Citibank have failed to properly investigate or resolve the issue within the required timeframe, leaving me with no choice but to escalate this to the CFPB."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7448",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "54016"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21943,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX. This is regarding Citibank XXXX XXXX account ending in XXXX XXXX XXXX XXXX  in the name of XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX The account has always been in good standing, paid in full at least monthly. \nXXXX. On XX/XX/year>, I saw a XXXX page that advertised XXXX XXXX sales of discounted sewing machines. THE PAGE REPRESENTED ITSELF AS XXXX XXXX. ( see attachment ) XXXX. I purchased via this link XXXX machines : XXXX XXXX XXXX XXXX XXXX XXXX XXXX ( # XXXX ) and XXXX XXXX XXXX XXXX Sewing Machine ( # XXXX ). Attached are the emails with the information. \nXXXX. The company chose to run one purchase through XXXX when I did NOT choose XXXX as my payment method ( see screenshot ) but not the other. Yet BOTH purchases came through my Citi card and XXXX does not have that card on it. \nXXXX. The website is NOT XXXX, it is XXXX, it represents itself as XXXX when it is not, the email for issues is swiftpro.com. \nXXXX. The entry on my card is a company out of XXXX that is a dealer in watches and jewelry. ALSO not XXXX. \nXXXX. I called Citibank right away when I saw the entry on my statement and disputed the two entries. I told the CSR that I feared fraud and that I wanted to have a new card issued with a new number. I would not have asked this had I not feared I had been scammed. A new card was issued with a new number that is submitted with this complaint. \nXXXX. MULTIPLE pages online show that this is a fraudulent site/scam. The following XXXX news stations and XXXX XXXX XXXX are reporting this scam ( at least a dozen more stations can be found, I just did not list them. ) XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX. I logged on to find a notice that Citi says that their investigation is complete and that the merchant contacted them and said I am liable/responsible. IT IS A SCAM AND I NEVER RECEIVED A THING! \n10. I want this taken off my account."
+}

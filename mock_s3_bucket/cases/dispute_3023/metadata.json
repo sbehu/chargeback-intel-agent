@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3023",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75078"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49143,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year> I discovered that my online bill pay account to my husband 's Citi account of {$250.00} was credited to MY Citi account XXXX, giving me a credit balance of {$250.00} and hitting my spouse with a late payment of {$35.00}. It happened again in XX/XX/year>, so I called Citibank customer service with my spouse to rectify the issue. I asked if my balance of {$500.00} could be applied to his credit card balance via a transfer. They said yes. In XXXX, we both received our statements, and I now had a balance of {$1100.00}, and he had another late charge. We called Citibank back. Citibank had refunded ( sent me a {$500.00} check ) and did not transfer any monies to his account. Instead, they charged me {$550.00} for the transfer and {$500.00} for my refund. \nI've called each month since to correct this problem, sometimes on hold as long as XXXX hours. I've been through the customer service department, XXXX XXXX department, supervisors, and client focus customer accounts to no avail. Each time I've spoken with someone, they said, \" Oh, I see the problem, '' and no one has known how to fix it. Someone even gave the account credit of {$200.00} for abandoned property, and then the following month, when I mentioned it, they took it away. The account is still showing that I owe $ XXXX of which is overdue, and I receive harassing phone calls XXXX  times per day. This is unacceptable harassment, which takes a considerable amount of my time. Each time I call I am told the call is recorded, so this should all be on record."
+}

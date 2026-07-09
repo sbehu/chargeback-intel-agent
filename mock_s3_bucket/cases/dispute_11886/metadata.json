@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11886",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "852XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42436,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks handling of a disputed {$2500.00} charge from XXXX XXXX XXXX  / XXXX dated XX/XX/year>. \nCase # : XXXX I did not authorize this transaction, do not recognize the merchant, and did not receive any goods or services from this merchant. \n\nWhen I first filed a complaint they cancelled my credit card and promised to look into it. \nThen I received a letter saying case closed. \n\nI called again and complained. They apologized and was told by a supervisor that the case had not been well handled. They re-opened the case and said they would get back to me in a a few days. This was XX/XX/XXXX. I heard nothing. \nI emailed the fraud department and heard nothing as well. \nI called today and reached a supervisor who told me the case is now officially closed. \nAll they can tell me was that my phone authorized the charge. \nI told them, I have no idea who this merchant is, there is no agreement with them. So I asked Citi for proof from the merchant. IP address. Etc. And they provided none. And will not send me any evidence of their case. \n\nI followed proper procedures by reporting the charge, reopening the dispute, and submitting a written statement. Citibank has denied my claim without providing sufficient evidence of authorization.\n\nI am requesting : 1. A full copy of all evidence used to deny my claim 2. A proper investigation under the Fair Credit Billing Act 3. Reversal of this unauthorized charge This matter involves a significant amount and appears to involve fraudulent or misrepresented billing. \nThe {$2500.00} is a lot for me and it is causing undo hardship on myself and my family. \n\nI request immediate review and resolution. \nThanks for your help! \nXXXX"
+}

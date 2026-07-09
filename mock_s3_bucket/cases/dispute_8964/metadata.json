@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8964",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32047,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "on XX/XX/year> I made the last payment on a purchase that I made at Best Buy located in XXXX XXXXXXXX California. On XX/XX/year> someone made XXXX purchases of {$25.00} at a store in Kentucky. I called the number on the back of the Best Buy credit card and spoke to a person in another country. We had some language issues and I don't believe he fully understood the issue. He said that if I had the card I had to pay. I later learned that he had filed the claim as an application fraud. instead of a transaction fraud. I have contacted the fraud unit I contacted the Citi Bank fraud unit on XX/XX/year>, XX/XX/year>, and XX/XX/year>. They usually said that they would reopen the file or resolve the matter in XXXX to XXXX  days. They have not corrected the account and continue to add interest and charges to the account. They have also reported this matter to the credit reporting companies as a past due account which has had an adverse effect on my credit score. These purchases made at a store in the state of Kentucky are NOT mine. This mistake by Citi bank was caused by the person in the Citi Bank fraud unit ( which is located in a foreign country ) mishandling my complaint. I want the charges to be removed from my account and the false information given to the credit bureau be corrected."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3022",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "1824"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-23T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16150,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Around XX/XX/2024 we noticed our Costco Citi Visa credit card was being charged at various XXXXXXXX XXXX  around XXXX  and XXXX  for similar value charges ( ~ {$99.00} each time ). There were 14 charges going back to XX/XX/2024 for a total of around {$1400.00}. It appears that our credit card was skimmed at some point, since we were still in possession of the card. \n\nCiti investigated and responded with \" Customer Responsible ''. We believe Citi 's fraud detection algorithms should have caught this in XXXX, since there were 3 charges on 3 consecutive days at 3 different XXXX 's for the same amount and that we should be reimbursed for the charges."
+}

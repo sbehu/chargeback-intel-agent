@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-80227734-US
+Shipment Date:   2026-03-08T00:00:00Z
+Delivery Date:   2026-03-14T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     2620 MAPLE AVE, FL, 33445
+============================================================

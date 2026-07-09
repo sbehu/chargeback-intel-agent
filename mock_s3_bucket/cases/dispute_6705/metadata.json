@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6705",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "TX",
+    "complaint_zip": "770XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39160,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a follow-up complaint related to a disputed charge of {$1700.00} on my American Express card . The original CFPB case number was XXXX. That complaint was closed based on inaccurate information provided by American Express, and I am requesting this new complaint be reviewed in full. \n\nThe charge in question was for a 5-night apartment booking in XXXX made through Homes and XXXX by XXXX XXXX XXXX The property was advertised as peaceful and luxurious. However, upon check-in on XX/XX/year>, we discovered ongoing construction next door. On the morning of XX/XX/XXXX, we were woken up by loud industrial drilling and banging starting at XXXX AM. The neighboring building had scaffolding and a banner in French stating \" XXXX XXXX XXXX XXXX '', which translates to \" Businesses Open During Construction ''. This indicates the merchant knew of the construction but failed to disclose it at the time of booking. \n\nWe left the apartment at XXXX XXXX  on XX/XX/XXXX. I made multiple calls to the host, XXXX of which went unanswered. I later had a XXXX call where the host acknowledged the issue but offered no resolution. That evening, we checked into another hotel and paid XXXX out of pocket. \n\nXXXX issued XXXX partial refunds of {$160.00} and {$540.00} without my consent. I rejected both in writing and continued to request a full refund. I submitted a dispute to Amex with all supporting evidence. Amex denied the dispute, citing the partial refunds. \n\nOn XX/XX/year>, I contacted Amex via chat to escalate the matter. I was transferred to a supervisor who said she would review the case. I remained active in the chat for over XXXX minutes and sent multiple follow-up messages. My last message, sent at XXXX XXXX, stated I would proceed with a CFPB complaint. I received no response after that point. \n\nIn their response to my original CFPB complaint, Amex falsely claimed that I became unresponsive during the chat. I am submitting the full chat transcript again, which proves that I stayed engaged and was the one who was ignored. This false claim by Amex directly led to the premature closure of my case. \n\nI am requesting a full refund of the remaining {$1000.00} that I paid for this misrepresented and uninhabitable stay. I have attached all supporting documents and transcripts again with this complaint."
+}

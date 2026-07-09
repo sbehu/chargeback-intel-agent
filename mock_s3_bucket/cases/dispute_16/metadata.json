@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_16",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30058"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 962,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My account at XXXX XXXX had a XXXX balance. Then on my statement, there was a charge of {$1100.00} On the next statement, a fee of {$29.00}. was charged for LATE FEE. Now my balance is {$1200.00}. The next statement. Two months later, my balance is XXXX with a credit that says XXXX and purchases of {$2400.00} giving me a new balance of {$1700.00}. I have called so many times, I could not even begin to remember the dates. I filed a fraud complaint, and they always came back saying I owed the money. This has been going on for 4 months. I am afraid that they will report this to the credit bureaus. I had an excellent payment record until this. I am a senior citizen and feel that I am being taken advantage of."
+}

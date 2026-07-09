@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_234",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "RI",
+    "complaint_zip": "2816"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31647,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 there was a charge made to my citicard credit card for {$63.00} fraudulently.Citicard has refused to fix this. I WANT PROOF THAT I MADE THIS CHARGE. Citicard wants me to bend over backwards and do all the work, I have filed reports with my local police dept, RI attorney general, CFPD, FTC, all 3 of my credit bureaus, and reached out to an attorney. Citcard continued to charge me late fees while being disputed and reported that i was merely being delinquent in payment. It dropped my score XXXX point and continues to affect my score negatively and impacting my natural order of impeccable credit that i worked 27 years to establish. i finally paid the fraud charge in order to stop the process and take legal action the right way. Again, i demand the proof that i made a subscription charge to XXXX on XX/XX/203. \n\nXXXX Police report filed XXXX dispute filed and fraud alert placed on credit CFPD complaint XXXX # XXXX Report fraud FTC Report XXXX : XXXX Consultation with XXXX XXXX"
+}

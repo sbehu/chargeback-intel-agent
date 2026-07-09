@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1848",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "604XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38040,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "THE END OF XXXX I CLICKED ON A SALE LINK FOR XXXX XXXX  % off XXXX sale. I shopped for about an hour. I purchased {$66.00} worth of items. \nI never received tracking or an email from XXXX. After a couple weeks I went searching through XXXX for a receipt. I found nothing for that amount except a charge from a company called XXXX. I searched back in my email and found a receipt for charges with no description of items, or shipping information. I never received any other contact from XXXX. I immediately sent a message through their support email. NO one ever answered back. I went to Citibank and found the charge and disputed. I didn't realize I should have clicked Fraud. They tell me since I willingly gave my credit card to XXXX it wasn't a fraudulent charge. Citibank/Citi card has been sent pictures of the fake support emails that bounced back because it does not exist. They received a letter signed by myself and my husband about what had happened. They received several complaints about this company stealing money from people around the world not just the country. \nI was told I had to pay {$66.00} they had reversed the temporary credit they had given me. \nI made XXXX more calls pleading with them to go to a site and look at the people that had the same problem as me and other people that actually shopped on Risetor.com Which I NEVER SHOPPED ON! I was one of many people who clicked a link on XXXX taking us to a site so very well organized no one would have known. There were pictures from several stores at the time I had no idea of that either. XXXX, XXXX, XXXX XXXX, XXXX XXXX and more. All those pictures of items on that fake site were stolen from those stores. XXXX I did a search on XXXX XXXX scam. I found several other people complaining about the same thing that happened to me. Citibank Fraud department after weeks has not done anything. Citibank hires their fraud department from XXXX. Seriously? All I get is don't worry I will investigate this, and they have done nothing but tell me I owe XXXX {$66.00}. I never went on XXXX. This is a FRAUD CASE This company is making millions off the back of American citizens and others across the world with their bad selling techniques of ripping people off and fake websites."
+}

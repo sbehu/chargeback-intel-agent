@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6335",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "287XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 39008,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a {$22000.00} charge from Home Depot on my Home Depot-branded Citibank credit card for a kitchen renovation that was not properly completed. I submitted a formal billing dispute and uploaded documentation through Citis online dispute portal, including : A letter from Home Depots legal department dated XX/XX/year>XXXX  acknowledging problems with the installation and offering compensation for inconvenience My formal written refund request dated XX/XX/year>XXXX  A PDF containing photo evidence of poor workmanship ( off-center faucet hole, broken cabinetry, scratched tiles, uneven cabinets ) On XX/XX/year>, I received a denial letter from Citi stating that the charge was upheld because services were provided. This ignores the core dispute : the service was defective, incomplete, and acknowledged by Home Depot as unacceptable. I gave them more than three months to resolve the issue and ultimately declined any further contractor access after repeated failures. \n\nOn XX/XX/year>, I spoke by phone with XXXX from Home Depot Corporate Support from XXXX XXXX  to XXXX XXXX. In that call, I clearly reiterated that I was no longer accepting remediation and was only seeking a refund. Citis denial failed to reflect this fact. In addition, a Citi representative previously confirmed that my email address had been incorrectly entered in their dispute system, and that documentation or follow-up may have been attempted but never reached me. This procedural failure denied me the opportunity to respond or clarify before the dispute was denied. \n\nI am requesting that the CFPB require Citibank to reopen this dispute, review all submitted evidence, and confirm that the process followed meets the standards of the Fair Credit Billing Act ( FCBA ). The handling of this dispute appears to have been procedurally flawed and substantively unjust."
+}

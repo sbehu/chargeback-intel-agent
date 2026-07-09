@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8096",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91732"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28860,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased two XXXX XXXX products from XXXX. XXXX delivered them to the wrong address, but I managed to locate the package myself and contacted XXXX. XXXX promised me that I could keep the items and receive refund as an apology. When I opened the package, I found that the products were near expiration. I contacted XXXX again, and they agreed to send me replacements. However, the second shipment also contained near-expiration products. Because their customer service was polite and I had not been charged, I decided not to pursue the issue further, although I did not use the near expiration products. \nOn XX/XX/XXXX, I discovered that my AMEX credit card had been charged twice by XXXX, {$26.00} each, without my authorization. I immediately contacted XXXX, and they promised me a refund. By XX/XX/XXXX, only one {$26.00} refund was returned to my credit card. I contacted XXXX two more times, and each time they again promised a refund, but I never received it. \nI then contacted AMEX to dispute the missing {$26.00} charge because XXXX had repeatedly promised me a refund but failed to return the money. On XX/XX/XXXX, AMEX confirmed that a dispute case had been opened. I uploaded detailed chat records immediately showing XXXX  clear promise to refund me as an apology for their mistake. These records included multiple confirmations from XXXX representatives. \nHowever, on XX/XX/XXXX, AMEX hastily closed my case and determined that my dispute was not valid. I was not given a clear explanation, and it seemed the case was concluded without properly reviewing the detailed evidence I had submitted. I believe the decision was rushed and did not reflect the facts I provided. \nI am extremely frustrated and confused by AMEXs  handling of this matter. XXXX explicitly promised me refunds multiple times, and I provided AMEX  with proof of those promises. By closing the case without explanation, AMEX failed to protect me as a consumer and left me unfairly responsible for a charge that XXXX itself admitted should be refunded. I strongly believe that AMEX should have honored the evidence I submitted and pursued the refund on my behalf."
+}

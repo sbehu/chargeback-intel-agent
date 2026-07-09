@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11961",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77433"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31740,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Citibanks handling of a billing dispute for a {$2400.00} credit card charge that involved fraud and services not rendered. \n\nOn or about XXXX XXXX, 2025, my Citi credit card was charged {$2400.00} by a merchant identifying as Rich Travels/ Richflights. The merchant falsely represented themselves as an airline booking agent affiliated with XXXX XXXX. Based on that misrepresentation, I authorized the charge, believing an airline ticket would be issued. \nNo airline ticket was ever issued. XXXX XXXX XXXX later confirmed there was only a reservation in my name, not a paid or ticketed flight. When I arrived at the airport on XXXX XXXX, 2025, XXXX confirmed no valid ticket existed, and I was forced to purchase a new ticket out of pocket in order to travel. \n\nThe merchant failed to provide the service that was charged. This transaction therefore, qualifies as both services not rendered and fraud based on misrepresentation and impersonation. \n\nI timely disputed the charge with Citibank and provided extensive documentation, including confirmation from XXXX XXXX that no ticket was issued, correspondence from the merchant, and proof of my replacement airfare purchase. \n\nDespite this evidence, Citibank closed the dispute and marked the case as permanently closed. The dispute was not resolved in accordance with card network rules governing fraud and services not rendered, and I was left financially responsible for a charge tied to a service that was never delivered. \n\nI am requesting that Citibank reopen this case as a fraud and services-not-rendered dispute and issue a permanent credit for the {$2400.00} transaction."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3750",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "6776"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6208,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Starting on XX/XX/year>, I was fraudulently charged by a merchant named XXXX XXXX XXXX XXXX XXXX XXXX I initially purchased a software package for {$1.00}, but I was charged {$56.00} without my authorization. Following this, I was charged twice per month for varying amounts : {$19.00} and {$98.00}, on the same day each month. These unauthorized charges continued on XX/XX/XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX I did not agree to any of these recurring charges beyond the initial {$1.00} offer. I did not receive the \" {$1.00} '' software package, and I was never charged {$1.00}. \n\nI have contacted the merchant multiple times via email and phone but have received no response. They provided my credit card company, Barclays, with fake documentation, including a fabricated Terms of Service and refund policy, which I can prove through screenshots showing the URLs provided by the merchant lead to 404 errors ( pages that dont exist ). Additionally, they have not provided any valid proof of authorization for these recurring charges. \n\nI filed disputes with Barclays three times, but they have sided with the merchant each time, despite the clear evidence of unauthorized charges and the fabricated documentation. I have also submitted complaints to the Wyoming Attorney General 's office about this merchant. \n\nI request that all these unauthorized charges be removed from my account and that Barclays conduct a thorough investigation."
+}

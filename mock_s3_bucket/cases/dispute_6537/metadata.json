@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6537",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "303XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22326,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I purchased flight tickets through XXXX XXXX for my sister and her XXXX XXXX  to travel from XXXX, XXXX to XXXX, XXXX, with a scheduled departure date of XX/XX/year>. Upon arrival at the airport, the airline staff refused to allow them to board the flight, citing vague and unclear reasons. Despite my attempts to escalate the issue to supervisors at the airport, boarding was still denied. \nI subsequently contacted XXXX XXXX customer service, but they were unable to provide a clear explanation. Later, I discovered that the flight had been overbooked, and it appeared that passengers were being arbitrarily removed. Eventually, the reason given was that my sister and her children did not have the proper entry documents for XXXX. \nThis claim is incorrect. As XXXX  nationals, my sister and her children only require valid XXXX  passports to enter XXXX visa or additional documentation is necessary. This requirement is confirmed by official information published by the Lebanese government, which we presented to the airline staff at the airport. However, this information was disregarded. \nIt is well known that XXXX  citizens can enter XXXX with just a valid passport, and there were no travel restrictions or visa requirements in place at the time. I have attached the relevant documentation from the Lebanese authorities that confirms these entry requirements. \nFurthermore, upon disputing the charges with American Express, the airline falsely reported that my family were no-shows at the airport. This is a misleading and inaccurate statement. We provided confirmation of their transportation to the airport, and based on this, American Express reopened the case. When prompted again, the airline provided another vague and unsatisfactory explanation for why my family was denied boarding. \nDespite providing all relevant documentation, including official documents confirming our eligibility to travel, proof of our presence at the airport, and official entry requirements from the Lebanese government, Amex has failed to resolve this dispute fairly and has closed the case without proper communication or a clear explanation of the reasoning."
+}

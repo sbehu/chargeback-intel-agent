@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33458"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44255,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a Citi Diamond Preferred card on XX/XX/XXXX. I never received the card. After trying to get through to speak with someone on their service number which consistently disconnected my call, I decide to close the account. I spoke with Citibank on XX/XX/XXXX to close the account. I received confirmation on XX/XX/XXXX via email and subsequently a letter that account was closed with a XXXX balance. \nOn XX/XX/XXXX, I received an email stating there was a balance with a minimum payment due. I immediately called to question this as I had confirmation of my closure with a XXXX balance. They stated the transaction was pending when I requested closure. Yet they allowed the fraudulent transaction to go through even when I stated I never received the card. The representative told me it was taken care of and I would not have any issues. \nI subsequently received emails saying the fraud dispute was being reviewed and that a new card is being sent. This is despite the fact I stated on XXXX I wanted the account closed. I then received an email on XX/XX/XXXX saying my minimum payment was being reduced due to the fraud dispute. The minimum payment referenced was exactly the same as the minimum payment referenced in the email of XX/XX/XXXX when I first became aware Citibank negligently allowed a fraudulent charge on a closed account and a card I never received. I called again today on XX/XX/XXXX and was again told it is taken care of and to disregard their emails. I asked for this in writing and was told they can not do that. The representative attempted to pawn me off on their security department. \nI am requesting written confirmation from Citibank that the fraudulent charge on the account I closed is not my responsibility and any emails they send referencing a balance and/or minimum payment due is erroneous, and that Citibank is fully responsible for any balance they reflect on the card. It is incredulous that they state they send erroneous emails but can not send me information that has been relayed to me verbally in writing as confirmation of their representatives statements."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3124",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84601"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-29T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15622,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX XXXX XXXX, Attorneys at Law American Express Customer Advocate Services Team XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX FL XXXX Dispute Clarification and Resolution for XXXX XXXX Dear American Express Customer Advocate Services Team, I am writing on behalf of my client, XXXX XXXX, regarding several unresolved disputes on his American Express account ending in XXXX. Below are the details of each dispute : Dispute XXXX : XXXX XXXX provided diagnostic reports from three separate mechanics indicating that the car was not repaired as claimed. Despite submitting new information in XXXX, XXXX, XXXX, and XX/XX/year>, AMEX did not contact the merchant after XX/XX/year>. \nWhile XXXX XXXX accepted the goodwill compensation of {$1800.00}, this was not intended as a final settlement. We seek clarification on why the dispute was not resolved in his favor, given the substantial evidence provided. \n\nDispute XXXX : The merchant allowed XXXX XXXX to return the item after 30 days due to his being out of the country. Evidence of this exception was provided in the email sent to AMEX. \nHowever, AMEX confused this dispute with XXXX. We request that AMEX reviews and corrects this oversight. \n\nDispute XXXX : XXXX XXXX paid a total of {$10000.00} ( {$5000.00} down payment and {$5000.00} towards the loan ) but received a refund of only {$7500.00}, leaving {$2400.00} unaccounted for. \nAMEX stated that the merchant refunded {$2400.00} more than what was billed, but this does not align with XXXX XXXX payment records. We request a review and correction of this discrepancy. \n\nBy failing to properly investigate XXXX XXXX disputes and not contacting the merchant after receiving new information, AMEX may be in violation of the FCBA. This law is designed to protect consumers from inaccurate billing and ensure that disputes are handled thoroughly and fairly. We kindly ask that you re-evaluate these disputes with the provided evidence in this CFPB report and correct any errors. \n\nPlease examine the enclosed documents thoroughly and contact XXXX to discuss and resolve these issues promptly. Failure to address these disputes adequately will leave us no choice but to pursue further legal action. \n\n\nThank you for your prompt attention to this matter. \n\nSincerely, XXXX XXXX XXXX, XXXX. \nXXXX XXXX XXXX, Attorneys at Law"
+}

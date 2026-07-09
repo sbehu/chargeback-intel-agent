@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3030",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19454"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46918,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I used my Citi Double Cash credit card to purchase 4 copies of a special edition of XXXX XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX on CD for a total of {$86.00}. When I received the order, XXXX of the items was damaged. I reached out to the XXXX XXXX site I purchased from with details including at least XXXX photo of the damage. I was told to initiate a return request through the website. After entering what I felt was an excessive amount of information, I got to a page that said I needed to agree to some sort of legal terms to process the request, however, I could not figure out how to view those terms. I replied to the e-mail describing the issue, and I got an almost identical response telling me to initiate the return request online at the same link that was provided before, with no attempt to address the problem. I opened a dispute through Citi for {$21.00} ( 1/4 of the purchase price ), and was given a conditional credit while a decision was being made. On XX/XX/XXXX, I logged into my Citi account online and noticed that the credit was reversed. There was a message that stated, \" We've concluded our investigation of your dispute, and provided details about the resolution in your Statements and Documents [. ] '' This is untrue. Besides my monthly statements, the most recent document in that section is from XXXX of XXXX. I tried to call Citi at the number on my card, but as is typical for them lately, their AI system can not understand XXXX, and takes me around and around in circles before eventually hanging up on me."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4861",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28540"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32976,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This incident includes the Old Navy at XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXXXXXX It also includes Barclays Bank and their fraud investigation unit On XX/XX/XXXX XXXX a credit card was opened in my name fraudulently at the Old Navy in XXXXXXXX XXXX. The original charge was for XXXX but has since gained interest. I have made several requests for an investigation and my investigation results keep coming back as determined not fraudulent. I do not live in XXXXXXXX XXXX and frankly I did not know it even existed until this happened to me. I have filed a police report, I have reported the incident to the credit bureaus, I have filed an identity theft report. This incident is causing my credit score to drop, it has caused me emotional distress on many levels. I personally would like the Old Navy and the employees as well as Barclays to be investigated for their practices."
+}

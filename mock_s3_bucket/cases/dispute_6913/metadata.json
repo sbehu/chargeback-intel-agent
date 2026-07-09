@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6913",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NY",
+    "complaint_zip": "108XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14328,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To Whom It May Concern, Case ID : XXXX I am writing to formally express my dissatisfaction with how my dispute has been handled regarding two unauthorized or erroneous charges totaling {$460.00} dated XX/XX/year> on my JetBlue credit card issued by Barclays. \n\nImmediately upon identifying the issue, I contacted Barclays to dispute the charges and submitted the required supporting documentation. This included : My bank statements showing the amount was already paid to the establishment by personal check, Email correspondence with the establishment confirming the charges were posted in error. \n\nDespite my timely action, the case was closed twice without proper resolution : The first closure was attributed to insufficient documentation, although after speaking with a representative and confirming receipt of the necessary documents, the case was reopened. \n\nAfter nearly three months of no updates, the case was closed again, this time citing it was outside of the permitted timeframes to continue this claim. I strongly contest this, as I have been diligent in following up on this case monthly since the initial dispute and was consistently denied any meaningful updates. Additionally, manager escalation requests were ignored or deferred every time I called. \n\nAdding to the frustration, late fees were assessed from XXXX through XXXX during the pending dispute, bringing the current disputed amount to {$490.00}. This situation is not only financially unjust but reflects extremely poor customer service and procedural breakdowns. \n\nI am now requesting the following : A full reversal of the {$490.00} in disputed charges and late fees, An official explanation for why the dispute was closed under a timeframe violation, despite my prompt action and continued follow-up, Removal of any negative credit reporting that may have resulted from this issue."
+}

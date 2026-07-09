@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5304",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77406"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31439,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2024. I was not at the Macy 's store at the XXXX area, XXXX Tx, yet my Macy 's card was used to shop for a charge of {$100000.00}. These are charges that I never used, and it's a fraud, I contacted Mac'y and the supervisor that called me back told me it is denied because you had your card with you. I believe Macy 's should do a thorough investigation to find out who used this card, I requested the store to generate the original receipt and I was denied. Macy 's also threatened that they will report this to credit bureau. I think this is not ethical and I am requesting the CFPB to investigate this further."
+}

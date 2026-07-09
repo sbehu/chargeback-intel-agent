@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8638",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "15010"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20455,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I prepaid for gratuity on an all exclusive cruise with XXXX XXXX on the week of XX/XX/XXXX thru XXXX XXXX. I was then billed on my Citibank XXXX credit card on XX/XX/year> a charge of {$140.00} per cabin. I purchased two cabins and was charged the {$140.00} per cabin. On the credit card statement, XXXX labels the gratuity as XXXX XXXX XXXX. This is also known as gratuity which is very misleading to the credit card company but if you go to XXXX XXXX webstite it will state XXXX XXXX charge is the same as gratuity due to they are a XXXXXXXX XXXX XXXX. When I saw the charge, I the same day went to the concierge on the cruise but I was told they could not do anything about it and can call my credit card company. I also called XXXX customer service directly and was told the same. I then called Citbank and started a dispute claim. After several weeks, I received a litter from Citibank that I was denied and that I was responsible for the charge. I then called to reopen the claim and resent in the paid invoice that I had. I also found out that XXXX never responded to the dispute that Citibank sent which should have been in my favor."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7851",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30252"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38895,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "CFPB Complaint Summary Barclays mishandled my fraud dispute, reinstating the same fraudulent charge twice to make it appear as multiple charges ( {$110.00} x2 plus interest ). My replacement card ( ending XXXX XXXX XXXX XXXX XXXX was stolen and never received. Barclays reversed my provisional credit citing a chip transaction, which is impossible since I never had the card.\n\nWorse, my account was reactivated without my consent. On XX/XX/year>, I received a fraudulent call from XXXX by someone posing as XXXX from Barclays Fraud Department. She had specific account information, including my closed account number and details of an alleged authorized user application, which proves Barclays suffered a catastrophic failure of customer data security. \n\nNumerous calls have been made throughout this traumatic ordeal. I have spoken with so many different individuals at Barclays. XXXX, XXXX, XXXX, XXXX, XXXX, XXXX, XXXX, XXXX, XXXX, XXXX, XXXX..."
+}

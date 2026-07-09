@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5837",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "77584"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29561,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been getting daily harassing automated calls from Citibank stating I have an unpaid bill. I have called them two times and told them that the transaction in concern has not been made by me and I don't even have a Citibank card. Both times, they mentioned that they will investigate the transaction and as opposed to giving me an update started making the daily automated calls again."
+}

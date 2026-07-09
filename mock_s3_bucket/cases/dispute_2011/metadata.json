@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2011",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94109"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15863,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged for a purchase from XXXX that I did not make. \n\nAfter receiving many email solicitations fom XXXX, sometimes several in one day, I contacted them and asked them to stop. After that, I received an invoice from them by email. I did not subscribe to their service. I have never used their service.. After their charge appeared on my card bill, I contacted American Express and told them this. They said they would look into it. About a week ago, they sent me a letter saying the dispute had been resolved in my favor. But yesterday I received a letter saying thy were making the charge!"
+}

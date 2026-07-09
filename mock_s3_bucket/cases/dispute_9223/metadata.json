@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9223",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11377"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14057,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a reservation online for the XXXX XXXX resort on their website on XX/XX/XXXX. My JetBlue Mastercard was charged and the transaction posted on XX/XX/XXXX. When I arrived to the hotel on XX/XX/XXXX the hotel said they did not receive the payment but was able to locate my reservation. I was told to pay again on site at the hotel, I did not have enough money on my JetBlue Mastercard, so I payed with my XXXX credit card and td bank debit card. After my stay the initial payment on the website was never refunded and I disputed the transaction with JetBlue Mastercard. They claimed that the merchants name on the website and the merchants name for the hotel payment did not match so they can not move forward with a dispute. It is not my fault that the hotel has two different merchant names for the website and instore payment terminal. JetBlue did not attempt to investigate the issue and try resolve the issue which was that I was charged for a service or product that I did not receive. I have attached proof of the initial payment from the JetBlue card and the two payments that I made at the hotel with my td bank debit card and discover credit card. The JetBlue payment is {$1500.00} and the merchant is XXXX XXXX XXXX. The discover charge is {$1200.00} merchant name is XXXX XXXX. The td bank payment is {$380.00} and the merchant name is XXXX XXXX. To make my issue clear, I was charged for a product I did not recieve because the hotel said they did not recieve my payment. And the JetBlue credit card company did not look into the matter and refused to dispute the payment. I have already contacted the hotel and they said they have no way to resolve the issue, that I should contact the credit card company but the credit card company is not helping me either."
+}

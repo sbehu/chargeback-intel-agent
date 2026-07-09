@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12878",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "PR",
+    "complaint_zip": "610"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4220,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I hereby formally dispute the charges made to my Citibank Visa credit card, which were the direct result of a fraudulent scheme in which I was induced through deception to provide my personal and financial information. The transaction originated from an offer published on XXXX, after which I was contacted by phone by an individual calling from XXXX who, through false and misleading representations, offered me a travel package that included accommodations in the XXXX XXXX, allegedly associated with a XXXX XXXX. Relying on these representations, I provided my information ; however, two charges were subsequently processed through a merchant identified as Bold in XXXX, XXXX, an entity that was never disclosed to me and bears no relation to the original offer. This constitutes a material misrepresentation and a clear case of fraudulent inducement, as any purported consent was obtained under false pretenses, thereby rendering the authorization legally invalid. Pursuant to the Fair Credit Billing Act, these charges must be treated as billing errors, as the services were not provided and the transaction was conducted under fraudulent circumstances. I categorically reject the prior determination that these charges were authorized, as such a conclusion disregards the fundamental fact that the consent was vitiated by fraud and therefore lacks legal validity. Accordingly, I demand the immediate reopening of this investigation, the full reversal of both charges, the removal of any associated interest or penalties, and the classification of this matter as fraud. I further request a comprehensive investigation of the merchant involved and note that this matter has been escalated to the Consumer Financial Protection Bureau, and I expect a resolution in compliance with all applicable regulatory obligations."
+}

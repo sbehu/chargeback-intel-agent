@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4583",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "NJ",
+    "complaint_zip": "8109"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27116,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a fraud alert on or about the evening XX/XX/XXXX from AT & T Universal, Citibank. I called on the morning on XX/XX/XXXX, and disputed the charges and directed the card bearing last 4 digits ( XXXX ) be cancelled. After the card was purported to be cancelled, credit card company continued to report fraudulent transactions and I continued to contact them and dispute the charges. Nevertheless, when I received my XX/XX/XXXX statement, 4 disputed charged that were processed on XX/XX/XXXX appeared on my statement. Those 4 charges were made 1 day AFTER the card was cancelled. \n\nAT & T Universal, Citibank, issued me a new card ending in XXXX. I did not activate the card. Nevertheless, AT & T Universal, contacted me about charges being made on the old card ( XXXX ) and the inactive new card ( XXXX ). \n\nAfter numerous attempts to resolve matters, I cancelled my AT & T Universal account ; having been a member since XXXX."
+}

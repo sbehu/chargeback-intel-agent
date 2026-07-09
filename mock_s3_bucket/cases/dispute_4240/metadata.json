@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4240",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33484"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We are writing this inquiry to request to file a complaint on a dispute with Costco Citi Cards with Citibank Corporation for not reimbursing our funds back on a Disputes Claim that was made on our card, this transaction is from XX/XX/year>, with merchant, XXXX XXXX. In regard to this case there was a large transaction in the amount of {$21000.00} divided and charged on 4 Citibank cards and totaling 5 transactions occurring with this merchant. All together these. 4 of these 5 transactions were investigated for months all by Citibank. And were ruled in our favor as Citibank ruled it as there being an error. We will attempt to Attach the banks decision & copies of all four disputes and the correction and acceptance of our claim through Citibank. However, on this card in the transaction amount of, {$2700.00} our claim and request for our funds back was not granted. We believe there has been an error on whatever investigation was completed on this specific card as we used four different Citibank cards on this large transaction and all of them conducted their own investigations, and all have mutually agreed there has been an error. This transaction is in the amount of {$2700.00} .We have sent documents, we have sent proof, all our other cards through Citibank have agreed this has been fraud however we believe whatever investigation occurred with this card was not completed correctly, which the others were. The claims made were all for the same matter with the same merchant and with the same bank. We are asking for this to be resolved, revised and urge you to refer to anyone else that looked into this matter through Citibank 's investigation which we are attaching all other case numbers affiliated with this specific transaction that amounted {$21000.00} in fraud all together. Citibank has returned close to {$18000.00} so far and we are hoping Citibank can recuperate the full amount of the fraud that occurred with this merchant. Below is the last message we sent. \n\nDispute/Case # XXXX : {$2700.00} The purpose of this letter is to request to send back the dispute listed above and to please review it. The dispute was submitted on the same day along with another 4 disputes for the amounts listed below : Dispute/Case # XXXXAmount : {$5200.00} XXXXAmount : {$7000.00} XXXXAmount : {$6000.00} XXXXAmount : {$250.00} The five disputes are related to the same matter against XXXX, XXXX XXXX XXXX  ( XXXX XXXX XXXX ) . Unfortunately Costco Visa Card did not approve our credit back for the amount of {$2700.00} stating the merchant bank refused to give us our money back, however we received a letter letting us know Citicards were going to review our dispute again. After multiple calls Citicards continue denying the credit of the transaction of {$2700.00}, despite of all evidences and proofs submitted in the last few months.\n\nPlease see along to this letter, the outcome of the 4 disputes were submitted on the same day and related to the same matter ( listed above ), all of them were approved and resolved successfully getting our money back.\n\nWe want you to know, all of these disputes and also the # XXXX for the amount of {$250.00} that was approved on your end also getting our credit back gratifyingly, are all about the same event happened with the fraudulent merchant XXXX XXXX XXXX XXXX ( XXXX XXXX XXXX ). \n\nW\n\ne sincerely request to you to review again the only dispute has not been resolved since all of them are related to the same episode. We truly appreciate your hard work on our end to make this credit happen. Thank you for your attention in this matter. \n\nXXXX and XXXX XXXX We have also attached the status of the claims that were approved for the same transaction."
+}

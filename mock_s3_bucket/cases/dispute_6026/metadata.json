@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6026",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "280XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4301,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a XXXX XXXX XXXX with the accumulated points earned on this card. I also paid a security deposit with this same card when picking up the vehicle on XX/XX/XXXX. On XX/XX/XXXX a few hours after picking up the vehicle, we had an accident in the car. The rental car company charged {$4500.00} to my card 2 days after the accident without my approval and has refused to provide documentation on appraisal damages. \nI filed a XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX, on XX/XX/XXXX with : XXXXXXXX XXXX XXXX XXXX XXXX XXXXXXXX at XXXXXXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX \nXXXX XXXX XXXX XXXX, Ohio XXXX I provided all of the requested documents for filing the claim. \nThey are not honoring the Guide to Cardholder Guide to Benefits BAR-9570-1 that clearly states To get coverage : You must charge the full amount of a Covered Trip to your Covered Card or in combination with your Covered Card and accumulated points on your Eligible Account or redeemable certificates, vouchers, coupons, or discounts awarded from a frequent flyer program or similar program. XXXX claims management is not responding to emails. The last email they sent stated that the charge was not covered because the rental car was not paid for with my card or accumulated points. That is incorrect, the entire XXXX XXXX XXXX  with points accumulated on that card. Documentation was provided to them to show the use of the points for the reservation."
+}

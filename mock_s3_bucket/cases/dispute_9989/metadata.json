@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9989",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "49201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37995,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hotel from XX/XX/year> unacceptable conditions so desk clerk offered refund for XXXX and we accepted and left. I called Citi Simplicity card to verify refund next morning and they said it was refunded but charged again for XXXX on XX/XX/year>. I opened dispute and received email it was conditionally credited back. Then Citi said they had refund for first amount and charged it back. I explained the 2nd charge was made without my permission and I was not present and the hotel owner admitted he charged it because he was mad the clerk gave us refund. A fraud dispute was opened. I was told to close the purchase dispute because they couldn't proceed with 2 disputes over same transaction. This turned into a 5 month nightmare of customer service associates never telling me the same thing, assuring me it was dealt with and it wasn't. Now they say because I closed the dispute ... AT THEIR REQUEST... I can not get my refund and they can only offer a partial courtesy refund of XXXX. They haven't even done that yet. I ended up XXXX  with a possible XXXX XX/XX/XXXX over the stress this has caused. I have XXXX  XXXX XXXX and have had XXXX XXXX XXXX. This has taken a horrible emotional financial and physical toll on me. I just want Citibank to take responsibility for their horrendous service and failure to do what they say they will."
+}

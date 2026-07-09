@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13191",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33327"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11454,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing a charge of {$650.00} from BUDGET RENT A CAR ( Case ID # XXXX ), which Citibank has XXXX to correct despite clear evidence of Merchant 's billing or clerical error. \n\nOn XX/XX/XXXX, a XXXX agent ( XXXX ) created duplicate rental agreements ( # XXXX and # XXXX ) for the same vehicle ( Plate : XXXX, Vehicle No : XXXX, Vehicle : XXXX XXXX XXXX XXXX ). XXXX 's own system closed the agreement with # XXXX on XX/XX/XXXX at XXXX PM, acknowledging the vehicle was returned and generated receipt for {$120.00} and charged my card ( Please refer to attachment \" XXXX '' ). However, XXXX erroneously kept the second agreement ( # XXXX ) open until XX/XX/XXXX, charging me {$650.00} for a 'late return ' with receipt showing return time of XX/XX/XXXX XXXX pm. ( Please refer to attachment \" XXXX '' ) Despite providing these details, Citibank denied my dispute, stating they found no evidence the charge was 'paid for by other means ' ( Please refer to \" XXXX '' ). This is a failure to investigate the actual issue - \" Duplicate Billing ''. Furthermore, I have photo of vehicle dashboard showing the mileage and fuel status ( please refer to \" XXXX '' ), and a physical return slip where the agent, XXXX, hand-wrote Agreement # XXXX at checkout, and I personally documented the return date & time as XX/XX/XXXX XXXX PM on that same slip when I dropped the car off on XX/XX/XXXX ( Please refer to \" XXXX '' ). Citibank is ignoring the physical impossibility of a merchant charging for a 'late return ' on a vehicle their own records show was returned days earlier."
+}

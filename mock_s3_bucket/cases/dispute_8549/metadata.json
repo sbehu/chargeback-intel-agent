@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8549",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63129"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16204,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "After returning from our trip to XXXX XXXX I noticed that XXXX XXXX XXXX had charged me {$310.00}. I spoke to them shortly after that and they put back {$150.00} onto my citi credit card ending in XXXX for a total of {$160.00}. This is the total I confirmed with XXXX that the rental car cost for the week. Next, I noticed that there were XXXX charges for {$160.00} on my card. XXXX from XXXX XXXX XXXX  ( see above ) and XXXX from XXXX. I did not rent XXXX cars and assumed the charge from XXXX XXXX XXXX  was in error because XXXX charges the trip as a package and the hotel was charged through XXXX also. So, I then opened a dispute with XXXX XXXX XXXX  for the amount in error. Citi concluded, without ever consulting with me for proof, that XXXX XXXX XXXX somehow was supposed to charge me for the rental car. After that I assumed I was wrong and that XXXX was not supposed to charge me for the rental car, since the flight was separately charged through XXXX XXXX, outside the package. Then, I opened a dispute with XXXX for the amount for the rental car. I spoke with them and they confirmed the amount for the car and I provided the documents to Citi. Citi also came back and said XXXX was supposed to charge me for the rental car. I was shocked, since this is a double charge for the same rental car. I asked Citi for an appeal and provided my credit card statements as they requested, which I thought was odd, since they are the credit card company and I get the statements from them. Since then, I have never received an open case displayed online to designate my appeal and have only received documents stating my original XXXX disputes were resolved and services were rendered. I also received advice to wait XXXX days, which just so happens to be how long they wait to see if you have abandoned your dispute. I feel that there is some sort of conspiracy among the companies blaming the customer and Citi not caring about resolving a duplicate charge. At least, that is all I can determine at this time based on the process so far. On a side not, both XXXX XXXX XXXX XXXX XXXX  claim I added on some extra services in regards to the rental car, which is not the case. The only amount in dispute and charged is for the rental car itself for the week as seen on both receipts. I have XXXX receipt from XXXX XXXX XXXX XXXX XXXX XXXX XXXX which further proves I was charged twice."
+}

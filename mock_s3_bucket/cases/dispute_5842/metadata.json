@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5842",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93906"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24418,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My husband was charged for an additional ticket by XXXX XXXX. His flight was delayed for over an hour. Then they closed the gate 30 minutes early even though they had over XXXX passengers from the delayed flight. The staff at the gate told my husband he would need to pay {$140.00} for the next flight. While he was upset he agreed. Before that staff charged my husband they had a staff change and the next guy charged my husband {$1000.00}. When we declined the charged the airline lied and said the charge was due to my husband requesting a seat upgrade. We have been disputing this charge since XX/XX/XXXX. The XXXX team is supposed to be reviewing my case but when I first called to inquire XXXX told me that it was declined because the purchase was made in XXXX. I had to explain again to her what happened and that the charge was made in XX/XX/XXXX and we began the dispute the next day. I have called 3 times for an update and no one will return my call. The airline has a responsibility to have gotten my husband to his final destination. They failed and then charged him another ticket. He had no control over the delay or them closing the gate early. As a consumer we should have some protections against this blatant fraud."
+}

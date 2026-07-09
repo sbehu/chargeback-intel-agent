@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1003",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20646"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24697,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a Best Buy credit card through Citi and experience XXXX fraudulent charges on my account at XXXX. XXXX XXXX XXXX unauthorized charges on XX/XX/2023 for {$290.00}, XX/XX/2023 for {$290.00} and XX/XX/2023 for {$290.00}. I filed a fraud dispute on XX/XX/2023 with Citi. I was credited for all three fraud charges and was told there would be an investigation. XXXX months goes by and I receive a letter telling me I would not be liable for the {$290.00} charge but would be responsible for the other XXXX fraudulent charges. Received a copy of the report from XXXX which showed the IP addresses, and shipping addresses were no where near me. They were on the other side of country. No idea who the people were. Somehow XXXX and Citi determined XXXX was responsible."
+}

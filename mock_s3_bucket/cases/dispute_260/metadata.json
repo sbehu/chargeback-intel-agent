@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_260",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CT",
+    "complaint_zip": "060XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28952,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Our XXXX business account was accessed by someone unknown to us on XX/XX/23. At this point our permissions were removed from editing the credit card information or removing it from the account. The unknown, unauthorized user then used our stored credit card information to run advertisements directed to their businesses and websites. \nWe reached out to XXXX  as soon as we discovered the issue - that same day that the unknown, unauthorized user gained access. \nWhen we reached out we were told that the charges would be flagged as fraud but that was the only way to dispute it through our credit card. \nWe have previously done business with the merchant, XXXX, but in these cases the services were purchased by the unknown, unauthorized users, not us. We did previous business with the merchant but these charges that were accrued by the unknown users were in no way authorized by us. \nOur disputes with Barclay were not accepted because we previously did business with XXXX. \nWe have had extensive conversations with the XXXX support team where they have acknowledged that our accounts were in fact accessed by someone unknown and they were using our credit card that was tied to the account. It took XXXX almost a month to remove the unknown, unauthorized users from the account and return our access.They confirmed that someone else was in our account using our credit card information to purchase services. \nWe have been extremely proactive in trying to prevent further charges from day 1. We contacted the vendor first, then your team. We literally were stripped of any access to stop the charges from being made. \nWe provided extensive documentation and acknowledgement from XXXX to Barclays showing that these were in fact unauthorized charges by unknown, unauthroized users. \nThe dates these charges were incurred on our Barclays account were XXXX in the total amount of {$18000.00}"
+}

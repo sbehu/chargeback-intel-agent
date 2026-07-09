@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5121",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2050"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38514,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX and XX/XX/XXXX our Barclays XXXX XXXXXXXX credit card was charged {$1400.00} and {$1300.00}, respectively, by XXXX XXXX XXXX in XXXX. As neither my husband nor I made the charge or have been to XXXX  in the last XXXX  years, we immediately contested the charge with Barclays. In XXXX, we received notification from Barclays that upon investigation the charge was determined to be valid. Again we contested that this was not our charge and Barclays opened a second fraud case. My husband called XXXX XXXX XXXX and spoke to the owner who said that we were one of many to call and that the charges were fraud. XXXX XXXX sent an email stating they were fraudulent charges. The charges were through XXXX which XXXX XXXX has never used. We provided this information to Barclays. In late XXXX, Barclays denied our request a 2nd time and we opened a 3rd fraud case. Barclays also denied this case. We filed a police report with XXXXXXXX XXXX Department and filed with the XXXX  Attorney General 's Office in XXXX, XXXX. The AG was unable to help as they stated that scams are too numerous and perpetrators are too difficult to catch. \n\nThe {$2700.00}, now with added interest, is a significant amount of money to us especially for a service we did not receive. The money along with the countless hours we have spent trying to have the charge reversed are VERY frustrating. Thank you in advance for any guidance you can provide. \n\nWarm Regards, XXXX XXXX"
+}

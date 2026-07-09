@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1314",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NH",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4016,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Background I have been a card holder with American Express for 44 years. \nThe company that once claimed a world of service has become the worst credit card company of the many I still use. They generally ignore problems figuring that the customer- card holder will give up, which I usually in fact do with them. \n\nHowever, this matter is so outrageous, I forwarded my formal demand for arbitration directly to their legal counsel. I received the identical form rejection letter dated XX/XX/23 refusing to do anything to remedy the obviously fraudulent bill. \n\nThe facts I charged a XXXX XXXX  to my XXXX XXXX card. I declined all extras. I tried to pay a cash toll, but the attendant told me my XXXX  transaction already was charged. \nI tried to pay the $ XXXX total of tolls online after my rental as I always do, but the XXXX  website rejected my payment because it was already paid. \nThere was NO XXXX  on the windshield, although some tape remained from something that was once attached. XXXX had left an unlocked, unprotected XXXX  hidden in the back of the closed center console which evidently was able to communicate with the toll facility. \n\nMy investigation with a XXXX XXXX XXXX XXXX  representative informed me that while she had seen many rental car XXXX  scams THIS was a first. XXXX charged me 15x the actual toll."
+}

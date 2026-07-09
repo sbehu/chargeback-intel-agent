@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9122",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28562"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2242,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was notified on my statement of payments that I owed {$630.00} on my Citibank Credit card for XX/XX/year> purchase. It noted it was XXXX internet payment. When I called, they said it was between me and my bank. I went to the bank and of course was told it was a credit card issue. I called the company and she said the same thing again and I demanded a response. I got a letter about XXXX weeks later saying in print what she said the first time. I paid everything on my card but that amount since it was in dispute. I then called the North Carolina Department of Justice and they told me to contact your agency first."
+}

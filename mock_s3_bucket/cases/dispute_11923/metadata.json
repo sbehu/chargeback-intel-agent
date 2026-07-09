@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11923",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "33029"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20925,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> To : CFPB RE : Follow up about Citibank Complaint # XXXX Today, XX/XX/year> I received a letter from Citibank stating that I needed to refund them a second payment of {$5000.00} to my sons account. \n\nAttached please find all the proof that this second payment to my sons XXXX Credit card did not happen. The only other transfer to my son 's account was a balance transfer from XXXX XXXX XXXX for {$2000.00}. \n\nI have attached my statement from my Citibank XXXX Account that states the transfer made. \n\nAlso attached are all the screen shots from my sons XXXX account. \n\nI believe that Citibank is engaging in unfair business practices and are causing extensive emotional distress to my family. \n\nPlease investigate. If you need to contact me, I prefer it be via email at XXXX. \n\nThank you for your help. \n\nRespectfully, XXXX XXXX"
+}

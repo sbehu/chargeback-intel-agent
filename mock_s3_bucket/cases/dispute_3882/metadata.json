@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3882",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60515"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18155,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I traveled to XXXX, XXXX XX/XX/year>. On this day, I drove my XXXX rental to gas station. They are full service only there. The gas attendant asked for payment, He swiped my card and said it did not work. He requested cash payment. I paid the small amount, approximately XXXX  dollars US. The next day we flew home and I noticed a charge for XXXX from clipmex. This was not a charge I authorized, and it was not a charge for any service or goods. I immediately contacted Citi credit card to report and they sent me a new card. For 5 mos I have been trying to clear this up and have credit card company credit back my account. They have denied my claim 3 times. They are now saying I need to show proof of a receipt to prove I did not make the purchase. This makes no sense. They also said vendor responded and said services were delivered for the XXXX. I have no receipt from the merchant specifically stating what this purchase was for. \n\nThis is a very clear and common scam performed in XXXX. Gas station swipes card, says it does not work, accepts cash, then charges large amount of money. It cant be classified as fraud since I gave merchant credit card. In addition I was told card didnt work, so I have no receipt, which makes a credit dispute difficult to fight. \n\nCitibank billing dispute told me I should be more responsible and I should contact my local police for resolution. \n\nThis was obvious theft and fraud and credit card company is stonewalling and gaslighting."
+}

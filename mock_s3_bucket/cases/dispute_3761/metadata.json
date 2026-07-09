@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3761",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14224"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45902,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Barclay ( Jetblue credit card ) on XX/XX/XXXXXXXX  to dispute a {$150.00} charge from UBER and they temporarily credited this charge from my master charge while they investigated this erroneous \" cleaning fee. Case ID XXXX. \n\nThe reason that I deemed the cleaning fee erroneous is that on XX/XX/XXXX I used UBER ap and was charged the SAME erroneous {$150.00} cleaning fee on an unrelated credit card. I disputed with the XXXX  and also with\n\nUBER via the ap and everything was resolved and I did not have to pay for this cleaning fee. In fact, UBER gave me a {$5.00} apology credit to my account. In the interim, I attached my Jetblue credit card to my UBER ap and used UBER o\nn XX/XX/XXXX while I was taking a trip from XXXX XXXX. For some unknown reason, this SAME {$150.00} erroneous cleaning fee ( from the XX/XX/XXXX ) trip appeared on the trip that I took on XX/XX/XXXX! \n\nI tried to dispute with UBER directly but it is impossible to deal with a \" live person '' at UBER as the ROBOT keep telling me the trip was over \" 90 days old and I can not dispute '' Barclay in the meantime, advised me that UBER contends that \" fee was valid and they put the {$150.00} charge back on my account ''. I contacted Barclay bank yet again, faxed all my pertinent proof that this was the SAME charge and escalated to manager of dispute department and they continue to refuse to credit this charge from my credit card account. \n\nPlease review my proof and you will clearly see that this is the SAME charge and XXXX ( my driver ) from XX/XX/XXXX trip did not assess an unrelated cleaning fee from this trip."
+}

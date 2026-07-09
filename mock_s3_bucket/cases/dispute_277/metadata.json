@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_277",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98012"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26253,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023, I was a victim of a XXXX  where I was forced by two XXXX  to purchase jewelry at XXXX XXXX and XXXX, XXXX XXXX XXXX XXXXy in XXXX and XXXX, Washington, respectively. \n\nThe total was {$14000.00} At XXXX XXXX, {$13000.00} of jewelry was purchased using my Juniper/Barclays Bank credit card. \n\nAt XXXX, XXXX XXXX XXXX XXXX XXXX$1100.00} of jewelry was purchased using my Juniper/Barclays Bank credit card. \n\nOn XX/XX/2023, I called the XXXX financial institutions involved to inform them that the purchases were under duress. \n\nBarclays Bank reversed the charges and began an investigation. \nXX/XX/2023 : I faxed my notarized statement with the XXXX, XXXX XXXX report number XXXX, signed Barclays Statement of Fraud , and signed Barclays Affidavit of Fraud to the Barclays Fraud Department . \n\nXX/XX/2023 : I received a letter dated XX/XX/2023, saying that the charges were deemed valid and that I would be responsible for them. \n\nXX/XX/2023 : I called Barclays, and they confirmed my investigation was still ongoing, but they wanted me to pay the balance. \n\nXX/XX/2023 : A representative who identified themselves as XXXX, operator identification XXXX, called me and informed me after further review that I was responsible for the charges and that Barclays does not consider duress when reviewing fraud claims. \n\nXX/XX/2023 : I received a letter dated XX/XX/2023, from Barclays again informing me I was responsible for the charges. The letter was identical to the one I received on XX/XX/2023."
+}

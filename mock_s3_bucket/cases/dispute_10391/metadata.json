@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10391",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24813,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The last four digits : XXXX I am being charged by Macys Credit Card for merchandise I never received. \n\nI placed an order through the Macys app in XXXX of XXXX. The item was never delivered to me. Tracking information shows the package was returned to Macys warehouse and never received by me.\n\nDespite this, Macys continues to bill me for the purchase, add late fees and interest, and report the balance as delinquent to the credit bureaus. This has caused damage to my credit score even though the merchandise was never delivered.\n\nI have contacted Macys, but the issue has not been resolved. I am requesting : Reversal of the charge Removal of all late fees and interest Correction of any negative credit reporting related to this charge Charging and reporting a balance for merchandise not received is unfair and inaccurate.\n\nProduct : Credit card Issue : Billing dispute / Charged for merchandise not received Company : Macys Credit Card"
+}

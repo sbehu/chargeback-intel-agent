@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12857",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2169"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41935,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I received an email about a suspicious charge. {$81.00}. \nI disputed the charge via the phone and in a response to the email. I was told to destroy my existing card ending in XXXX, and I'd be issued a new one. \nAs I rarely, if ever used that card in a few years... I didn't give it much more thought. I got an email stating my credit limit had changed XX/XX/XXXX. \nIn XXXX we were preparing for a XXXX  month stay in XXXX  ... at which time my mail was forwarded to XXXX. \nI then called to inquire my balance and payed off 98 % of it, still waiting for a result regarding the disputed charge. \nAfter getting to XXXX  I mentioned to my better half I never received that new card. \nFast forward to the end of XXXX and I received a letter via XXXX. This letter informing me I owed {$180.00} on a card ending in XXXX. PAST DUE. \nI immediately got on the phone to Citi Bank. After almost XXXX hours of being passed around from this department and that department, I informed each representative about half way through the call they were being recorded. I was MORE than frustrated by this point. \nI finally spoke to a rep that agreed to drop the late fees and I'd just pay the disputed charge, close the account. I was then transferred AGAIN to customer service. \nWhere I was then told the late fees couldn't be overridden. I again requested the disputed charge be investigated. And ended up at square 1. I received another email stating I now owe $ XXXX including the fraudulent charge and all late fees. To avoid any derelict marks on my credit report I wrote a check for the minimum due with \" under duress '' on the memo line. At this point I don't think I should be responsible for the original disputed charge/late fees/penalties. \nCan you please help me resolve this in a timely manner? My credit score has now dropped XXXX because of this delinquent account Thank You, XXXX XXXX XXXX"
+}

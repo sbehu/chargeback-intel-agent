@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3339",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43235"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14779,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX XXXX from the XXXX XXXX on XX/XX/year>. When I authorized the charge on the app, I applied a promo code that reduced the original amount from {$130.00} to XXXX for a {$13.00} discount. This item does not have a return option. When I received my email receipt, it was {$13.00} higher. I attempted to resolve the issue with the XXXX, and they offered me a {$13.00} discount on a future purchase. I rejected the offer. \n\nI filed a dispute with my credit card company on the website and in writing. I explained it was a fraudulent charge and provided emails between me and the vendor proving they knew of the problem with the promo code and only offered a discount and not return the money they stole from me. \n\nThe credit card company denied my chargeback request because I had received the item. I again explained why that {$13.00} was a fraud, and they only said they could reopen the case. I'm hoping you can force them to review it again."
+}

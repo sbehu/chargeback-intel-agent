@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4552",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "085XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41789,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "condense into complaint ending XXXX new issue barclays i have requested to SPEAK to someone to explain why reduction in my credit and raising aprs is not justified violates my rights and now they are not crediting my payments... they are on hold wont accept i can explain and its not based on a bad record payment wise. so i will expect someone in authority not a ROBOT. to request times to speak to me i wont accept all this especially since any conclusion made about me is likely inaccurate as to my credit or standing. \nor more info is needed so i let them know and like XXXX the ball is dropped its a ONE SIZE fits all world i requested appeal reconsideration of reducing my credit. and everything else holding payemtns all of a sudden after XXXX  years when i have no bad record. Further i have emailed written letters i just get ROBOT letter responses to call. \ni have. i get the run around as to the email customer service its a JOKE. it it horrid its like talking to the wall. they do nothing refund my interest. WHY>>>> all the misinformation i got froXXXX XXXX XXXX XXXX to being lied to about my card being sent in 2 days.\n\nthis bank does not adovcate for its customers and as such i am reducing my use considerably. do all and add to complaint as to XXXX  first i am told its in FRAUD since most of the money charged was unauthorized no consent then i hear nothing i get no response from the company who are CROOKS and who will be used on breahc of contract and decepitve business practices then i get letter charging me back for it.no no no no not in a world with rules like ours. pls add to complaint dont send useless script one size fits all deepending my cynicism in the human race. resolve all i wont let XXXX charge go further i need to know nj courts and XXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX  needs to be refunded but this bank operations are poor and there is no advocacy request appeal of holding payments increased apr and taking my credie if you SPEAK to me since you have no basis to do this REALLY you would know more sometimes AUTOMATICITY fails why do i have typos? XXXX XXXX made worse by this."
+}

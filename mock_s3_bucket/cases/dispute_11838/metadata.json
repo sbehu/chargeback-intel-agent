@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11838",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8876"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30597,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "An {$800.00} dispute was submitted to Citi due to a canceled purchase that the vendor confirmed would be refunded. Despite this confirmation, the vendor has failed to provide a refund after an entire month. I submitted evidence to Citi, including vendor confirmation and receipts, but the dispute was decided in the vendor 's favor. \n\nWhen I contacted Citi, I mentioned that evidence had been provided and asked for confirmation of receipt. According to Citi, they never received it, despite multiple emails sent to their designated address with the case number in the subject line. I then asked the representative to verify if evidence had ever been received from me for any dispute, regardless of outcome. The representative confirmed that evidence had never been receivednot once. \n\nThis reveals a disturbing pattern : either Citi 's dispute email address is not actively monitored or is not functioning properly. Worse yet, Citi appears to close cases without allowing proper information to be received. I've contacted the disputes department multiple times but have never received clear answers about processing times or proper procedures for reopening cases. Additionally, during my entire relationship with Citi, I've never been asked to provide additional information, suggesting that proper investigations are never conducted. \n\nI receive conflicting informationfrom \" cases can not be reopened '' to \" the case has been reopened ; feel free to send evidence '' to \" the case will take XXXX weeks to reopen, and evidence can only be submitted when prompted. '' This indicates that Citi lacks a proper process for handling customer disputes and consistently sides with vendors when it offers the path of least resistance, even in cases involving fraud or incorrect charges like mine. I've escalated this matter to their XXXX relations team but have still not received a response."
+}

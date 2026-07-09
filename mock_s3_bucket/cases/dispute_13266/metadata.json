@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13266",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AK",
+    "complaint_zip": "995XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18853,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged for an airline ticket ( XXXX XXXX, XXXX XXXX. XXXX ) booked through Barclays affiliated travel service ( XXXX XXXX XXXX XXXX XXXX XXXX  ). \nOn XX/XX/year>, XXXX XXXX cancelled my flight ( XXXX from XXXX to New York ). I did not cancel this trip ; the airline cancelled the service. \nFollowing the cancellation, XXXX notified me that I may be eligible for a refund and instructed me to contact the travel agency that issued the ticket. I followed these instructions. A refund request was submitted through the travel agency, and XXXX confirmed receipt of the refund request ( Refund Request No. XXXX ). \nBetween early XXXX and the dispute filing, I contacted Barclays/XXXX XXXX XXXX XXXX XXXX. Representatives repeatedly confirmed that the refund was being processed and that everything was in order. \nHowever, I never received the refund. \nI then filed a dispute with Barclays. The dispute ( XXXX XXXX. XXXX ) was denied on the basis that the ticket was non-refundable. \nThis reason is not applicable. The flight was cancelled by the airline, and the service was not provided. Under standard airline policy and U.S. Department of Transportation guidance, passengers are entitled to a refund when a carrier cancels a flight and the passenger does not travel, regardless of fare type. \nDespite : The airline cancelling the flight A refund request being properly submitted and acknowledged The service not being provided Barclays denied the dispute and did not issue a credit. \nThis reflects a failure to properly investigate and resolve a billing dispute involving services not rendered. \nI am requesting that Barclays reopen the dispute and issue a full refund for the cancelled flight transaction."
+}

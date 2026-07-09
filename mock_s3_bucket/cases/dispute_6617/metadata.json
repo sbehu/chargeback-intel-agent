@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6617",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "770XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47310,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear CFPB Representative, I am writing to formally file a complaint regarding unresolved disputes I have submitted multiple times to American Express concerning unauthorized charges from two companies : Wix and Motive.\n\nI canceled services with both Wix and Motive several months ago and contacted American Express to request that all related automatic payments be stopped. Despite my repeated requestssubmitted over five timesAmerican Express has failed to take appropriate action. As a result, I was billed for the following charges : XXXX : {$350.00} and {$180.00} Motive : Two charges of {$240.00} each I have since provided American Express with copies of emails that include the cancellation confirmations and corresponding dates. I have also communicated directly with both XXXX  and Motive, and representatives from both companies acknowledged the cancellations.\n\nIn addition to these unresolved disputes, American Express recently decreased my credit limit after I was a victim of identity theft, which caused a temporary drop in my credit score. Despite never having a late payment with American Express, they penalized me by lowering my limit, which I believe is both unfair and damaging to my financial standing. I respectfully request that my original credit limit be reinstated. \n\nI am seeking your assistance in holding American Express accountable for : Failing to honor dispute submissions and stop unauthorized autopayments Not properly investigating and resolving repeated billing complaints Reducing my credit limit despite a solid payment history and extenuating circumstances"
+}

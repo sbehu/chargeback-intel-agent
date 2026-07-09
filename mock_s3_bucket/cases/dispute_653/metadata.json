@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_653",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "145XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48312,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX XXXXXXXX XXXX earlier this year in XXXX using my Barclays credit card. In late XXXX XXXX, we found that my wife was pregnant. According to XXXX XXXX policy listed on their WEBSITE - XXXX XXXX XXXX  - XXXX  people can not board the ship afteXXXX XXXX XXXX XXXX  ( which my wife would be at the time of boarding the cruise ). According to the policy, you are to contact them and they will assist in resolving the situation. \n\nBased on this policy, I contacted XXXX XXXX to try to work with them on the situation. They wanted proof of the XXXX with letterhead from a physician THE SAME DAY ( at the time of calling, it was a Sunday, all medical offices are CLOSED ). I can provide all documentation but the lady at XXXX XXXX would not extend the dates, would not work with us on giving us time to gather the information required, and basically told us if we didnt provide it in their timeframe, we would lose over 50 % of our amount paid to XXXX XXXX which was like {$2300.00}, so we would end up losing {$900.00} + {$500.00} ( this math didnt make sense to me either but XXXX XXXX was such a hassle to deal with, I moved forward ). \n\nSince XXXX XXXX was no help, I asked them to cancel the cruise so that I could at least recover {$1800.00} of my purchase and not lose a substantial amount of money. \n\nThe same day ( again, this was late XXXX XXXX ), I contacted Barclays and asked them for help with disputing the remaining {$500.00}. I provided all of the information, including what is listed above ( policies, situation, etc. ). I had to explain multiple times to the person at Barclays what the situation was, the policies, what was going on, etc. About 10 days ago, I get another phone call from Barclays stating that XXXX XXXX has disputed my {$500.00} dispute and if I had anything more to provide to Barclays... XXXX? I provided everything originally about the dispute to Barclays. I had to yet again explain to a new dispute agent about what is going on and the policy etc. \n\nI guess Barclays didn't do much or planned to do much with that information because literally a few days later, Barclays reversed my {$500.00} credit on my credit card, indicating that I lost the dispute. \n\nMy issue is not so much that I lost the dispute, its that I fully expected a company I've been using their credit card for over 7 years to at least do their due diligence in giving me a fair chance at a dispute. The entire dispute process with Barclays seemed negligent : 1. I had to explain my issue to several people. Due to this, I don't think Barclays fully understood the situation despite several attempts at discussing it, therefore, I don't think I was given a fair chance at the dispute process. XXXX XXXX policy is clearly on their website. I made all attempts to resolve it and XXXX XXXX was not helpful. \n2. It seems I lost the dispute, NO INFORMATION HAS BEEN PROVIDED AS TO WHY OR THE OUTCOME, I can just see it on my statement clear as day. \n\nEither way, I don't expect anything to come out of this, I'm not even a customer anymore, after this- I closed all my Barclays cards. I refuse to give a company money that has this poor of customer service."
+}

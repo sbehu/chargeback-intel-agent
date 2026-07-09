@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8021",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63385"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8856,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased tickets to a concert via XXXX on XX/XX/year>. I worked deliberately to select tickets that would have a clear view of the stage and be close enough for taking some memorable photos. The tickets were not marked \" limited view. '' I also referenced \" aviewfrommyseat.com '' to try and confirm I would not have any obstruction between my seat and the stage. Furthermore, I was assured by XXXX 's policy on their website that specifically calls out that they offer limited refunds and exchanges. \n\nOn the day of the event ( XX/XX/year> ), the tickets arrived in my mobile app and were marked \" limited view. '' When I saw this prior to leaving for the event, I called XXXX support at XXXX and spent XXXX minutes on the phone with them trying to resolve this dispute. I offered multiple possible solutions ( including an exchange or to accept different tickets with no refund of the cost difference. ) I was told twice on the phone that the app was incorrect and my seats were not limited view, so there was no cause for concern. I expressed additional concerns, pointing to social media posts where users had similar issues at the same venue the day before ( XX/XX/XXXX ), and was told my ticket would be escalated to a supervisor and that they would contact me back before the start of the event. They did not contact me back, and I arrived at the venue to find out that my seats were, in fact, limited view. \n\nI filed a dispute via American Express once I returned home ( on XX/XX/XXXX ), and provided them my receipt, screenshots, call log, and a photo from my seat. They approved my dispute. \n\nXXXX contacted me on XXXX XXXX to ask for further details to resolve the dispute. I provided the details over the phone and sent them photos from my seat to show I did have an obstructed view. \n\nOn XXXX XXXX, American Express reversed their decision and rebilled me. They stated that they had been in contact with XXXX, who told them that \" all sales are final. '' I called American Express and spoke with a representative. To them, it did not matter that I had been baited and switched, and that the tickets I received were not as described at the time of purchase. They sided with XXXX, stating that while XXXX does offer limited refunds and exchanges per their terms and conditions, XXXX had stated that my sale was final. They believed that \" all sales are final '' policies gave the merchant significant leeway in what they were allowed to deliver to the buyer, even allowing them to deliver a good or product that did not match the original description."
+}

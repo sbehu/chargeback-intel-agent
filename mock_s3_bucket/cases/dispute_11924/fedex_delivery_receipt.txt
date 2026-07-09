@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-94541951-US
+Shipment Date:   2026-03-21T00:00:00Z
+Delivery Date:   2026-03-25T00:00:00Z
+Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
+Destination:     9747 HERITAGE BLVD, AZ, 85351
+============================================================

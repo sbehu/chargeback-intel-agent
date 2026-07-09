@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13115",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "FL",
+    "complaint_zip": "34119"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43315,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding Barclays XXXX XXXX Banks handling of a XXXX merchandise dispute. \n\nOn XX/XX/XXXX, I paid a {$6500.00} deposit for a custom furniture order. The remaining {$6200.00} was charged on XX/XX/XXXX prior to delivery on XX/XX/XXXX. \n\nAt delivery, the home was closed with hurricane shutters and lighting conditions were extremely limited. A full inspection was not reasonably possible at that time. A visible crease in the leather was noted at delivery. \n\nAfter reopening the home for the season, additional defects were discovered on XX/XX/XXXX, including a cut in the leather and other nonconforming issues. The merchant was notified and refused to provide a full refund. \n\nI notified Barclays on XX/XX/XXXX 32 days after discovering the defects and explicitly reported the merchandise as defective and not as described. \n\nBarclays denied the dispute stating that notification was not received within two statement cycles after the charges appeared on the monthly statement and that the timeframe to assist had expired. \n\nThis dispute involves defective merchandise with delayed discovery, not a billing error. Barclays applied Fair Credit Billing Act billing error timing rather than XXXX merchandise dispute provisions. \n\nI am requesting written clarification of the XXXX reason code and timeframe applied to deny both related disputes and reconsideration under XXXX defective merchandise/ not as described provisions."
+}

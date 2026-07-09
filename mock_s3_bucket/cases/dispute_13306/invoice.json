@@ -1,0 +1,7 @@
+{
+  "invoice_id": "INV-456607",
+  "invoice_date": "2026-03-10T00:00:00Z",
+  "amount_cents": 27245,
+  "currency": "USD",
+  "billing_address": "7878 River Ave, FL, 33445"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9703",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98038"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12125,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "b'Dispute and Financial Harm (XXXX XXXX XXXX)}\\nTo\\nCitibank, N.A.\\nXXXX XXXX XXXX XXXX\\nXXXX XXXX XXXX\\nXXXX XXXX, SD XXXX\\n\\nCC: Consumer Financial Protection Bureau (CFPB)\\nCase # XXXX\\n\\nRe: Citi / AAdvantage Platinum Select Account ending in XXXX\\nCiti Reference Number: XXXX\\nDisputed Amount: XXXX (XXXX)\\n\\nDear Sir or Madam,\\n\\nI am writing this formal complaint to report serious mishandling, negligence, and unfair treatment by Citibank regarding my dispute for a XXXX charge from XXXX This matter has caused me severe financial hardship, stress, and business loss, despite the fact that I am not at fault.\\n\\nTimeline and Facts of the Case:\\n1. I purchased an XXXX XXXX XXXX  from XXXX. Initially, the seller failed to provide a tracking number and delayed shipment information.\\n2. Due to the lack of tracking details and uncertainty, I timely filed a dispute with Citibank.\\n3. Only after I opened the dispute did XXXX  provide a tracking number and ship the items.\\n4. The LED screens arrived approximately 20 days late and were completely broken and unusable upon delivery.\\n5. I immediately notified Citibank and submitted clear photographic evidence proving the items were damaged on arrival.\\n6. I also contacted XXXX  and requested a UPS return label so I could return the damaged goods to XXXX and receive replacements.\\nXXXX never responded and provided no return solution.\\n7. Despite all evidence submitted, Citibank refused to issue a refund.\\n\\nUnfair Delay and Financial Harm:\\n\\nCitibank took over 90 days to respond, which caused me to miss the opportunity to file an insurance claim. This delay directly harmed me financially and removed all other recovery options. This conduct amounts to unfair practices and negligence.\\n\\nBecause of Citibanks failure to act responsibly:\\n My business is currently suffering.\\n I am facing serious financial difficulty.\\n Making payments has become extremely hard.\\n I have been left without funds for no fault of my own.\\n\\nLegal Notice:\\n\\nDue to this unjust handling, I am now preparing to take legal action in court. Please be advised that I will seek recovery of:\\n The full disputed amount\\n Attorney fees\\n Court costs\\n Any additional damages caused by Citibanks negligence\\n\\nCitibank will be held responsible for all legal expenses, as this situation occurred entirely due to your failure to protect your cardholder.\\n\\nI respectfully request:\\n Immediate reversal of the XXXX  charge\\n A written explanation of why my evidence was ignored\\n Immediate resolution of this matter to avoid further legal escalation\\n\\nPlease treat this matter with urgency. I expect a written response without further delay.\\n\\nSincerely,\\nXXXX XXXX\\nXXXX XXXX XXXX'"
+}

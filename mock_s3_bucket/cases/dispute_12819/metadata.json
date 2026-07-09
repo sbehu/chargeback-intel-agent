@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12819",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11003"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42433,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "\" I am seeking a permanent reversal of both unauthorized charges of {$200.00} ( totaling {$400.00} ) made by XXXX XXXX ' on XX/XX/year>. As the banks own investigation indicates a geographic discrepancy in IP addresses and unauthorized ticket printing, Below is the statement that send. \n\nSubject : Formal Dispute of Unauthorized Charges - JetBlue Card Account XXXX To Whom It May Concern : ID # XXXX Case # XXXX I am writing to formally dispute XXXX unauthorized charges on my JetBlue Credit Card account XXXX XXXX, which I believe are the result of identity theft and fraud. I did not authorize these transactions, and I request that you investigate and permanently remove these items from my account. \nThe basis of my dispute is that the purchases were unauthorized. As confirmed by your investigations department, the purchase and delivery methods were for tickets printed at home by an unknown party. \nI have evidence demonstrating that this transaction did not originate from me : 1. The IP address used to complete the purchase and print the tickets was XXXX, which is located in New York ( XXXX ). \n2. My actual IP address is XXXX, and my address is, XXXX ( XXXX XXXX ), XXXX, located on XXXX XXXX, which is a significant geographic discrepancy. \nI have enclosed a copy of my IP address information and request that you compare this with the internal documentation already received regarding Case # XXXX. \nUnder the Fair Credit Billing Act, I request a full investigation and provisional credit for the disputed amount. \nPlease contact me if you require further information. I look forward to your prompt attention to this serious matter. \nSincerely,"
+}

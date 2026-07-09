@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5142",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "29609"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-24T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12225,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed a negative mark on against me on my credit report today. \nI noticed it was Citibank/home depot . I have never been late, so I called and they told me we did not pay XXXX. I told them I did not pay XXXX because of hurricane helena impacting us. We were displaced from our home and could not move back in for weeks. They told us we could miss 2 months of payments at Citibank, so we did. They marked us late when they should have been helping my family. I was also in the hospital and could not make the payment. Citbank said there is no record of them talking to us, so they could not remove it. I told them that is not our fault. The phone cut off because of the bad weather and I did not call back, but thought they had us taken care of. Surely they can remove this late mark. The BIGGER problem was a charge for {$1600.00} which was ALL interest. That charge showed up on my card in XXXX. They told me I had not paid an item off in the 2 yrs given so they added interest on. I asked them which item did I buy that I had to pay off? They told me they had no record of an item but it was {$3600.00}. I told them that is a fraud charge as I never bought anything for {$3600.00}. I called Home Depot to see if they could look up what someone bought for {$3600.00} and they said nothing is on record. They told me at home depot to file a fraud charge with the credit card company and it will go away because they have no record of anything purchased for {$3600.00}. Also, Citibank could not tell me what it was but thought it was a computer. Home Depot does not sell computers, so this is a big mistake. That being said, they need to credit my account the {$3600.00} + the {$1600.00} interest fee. Which will also remove the {$1600.00} interest charge. Please remove asap."
+}

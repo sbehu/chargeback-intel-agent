@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8225",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CO",
+    "complaint_zip": "804XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36225,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "We purchased a floor lamp from XXXX XXXX XXXX XXXX XXXX XXXXXX/XX/XXXX, for {$790.00} and added on a Worry Free Warranty from XXXX company for {$14.00}. When the lamp arrived via XXXX, the package was damaged ( photo attached ), and the heavy base and all the hardware to assemble the product were missing. We contacted XXXX, who said they would file a claim with the shipper and offered a refund of {$150.00}, which they said was the cost of the base or a replacement product. Based on the poor quality of the packaging, we did not feel a replacement would arrive intact either. We expected our {$790.00} to be refunded based on the warranty purchased from XXXX, advertised as Protects shoppers for product and delivery issues. XXXX is saying that the product was shipped from XXXX with a ripped box, which is not logical. Why would FedEx accept a broken box? Worry XXXX ended up not being the case. \nAfter multiple emails with both XXXX and XXXX, we contacted Citi bank, who issued the credit card we used to buy the lamp. Citi initially issued a conditional credit for {$790.00} to our account on XX/XX/XXXX, but then reversed the credit and closed the dispute on XX/XX/XXXX. Initially, Citi said we should return the product. We had told XXXX they could pick it up for a return, but we didnt feel we should have to pay the high cost of sending a heavy floor lamp back to XXXX XXXX XXXX never agreed to ship back the lamp at their cost. If they really filed a claim with XXXX  like they said they did, it shouldnt matter and XXXX should honor the warranty. We tried 3 more times with Citi and supplied the additional information attached here, and every time, they closed the issue as customer responsible."
+}

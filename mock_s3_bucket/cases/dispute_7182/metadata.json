@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7182",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OK",
+    "complaint_zip": "74011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43737,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>XXXX  I had seen an unauthorized charge for {$110.00} from a merchant XXXX. I immediately notified the credit card agency about the unauthorized charge. On or about XX/XX/year>XXXX  I received a letter under case ID XXXX XXXX which stated that Barclays had reached out to me regarding the charges. I have no record of any call being placed or any message related to such an inquiry. Additionally the letter requested additional information on the unauthorized charge which is difficult to prove as to any documentation. \n\nDespite the ongoing issue I went ahead and made a payment on the account so it would not affect me negatively however despite receiving a payment and a dispute the Barclays reported late payment on my account which negatively impacted my account. \n\n\nBarclays building You made contact billing dispute XXXX XXXX XXXX XXXXXXXX XXXX XXXXXXXX or speak to them over the phone at XXXX. \n\nthank you for your attention to this matter you may also contact me at XXXX or email me at XXXX."
+}

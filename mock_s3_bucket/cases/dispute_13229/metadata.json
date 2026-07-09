@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13229",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "342XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40349,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a complaint regarding how American Express handled a dispute involving a {$7500.00} charge for a coaching program that was materially misrepresented and ultimately not delivered. \n\nI have been an American Express cardmember for 36 years and have rarely needed to file disputes. This is not a routine complaint, but a significant issue involving misrepresentation and loss of access to services. \n\nI purchased a coaching program from a company called XXXX XXXX XXXX XXXX XXXX. Prior to purchasing, I clearly explained that I have 17 years of experience in XXXX XXXX and confirmed with multiple representatives that the program was appropriate for an XXXX XXXX I was assured that it was. \n\nAfter gaining access, it became clear that the program was basic and designed for beginners. I raised this repeatedly with my assigned coach, who instructed me to skip from module to module in an attempt to find content that applied to my level. I was directed through multiple modules ( up to module XXXX ), but the material remained introductory and not as represented. \n\nThe live coaching calls further confirmed this, as they were geared toward beginners with little to no experience. \n\nI later spoke with the founder, who acknowledged that the program was not a fit for me and attempted to move me into a completely different program that I did not purchase. \n\nAfter I raised concerns and disputed the charge, the company removed my access to all components of the program, including coaching, XXXX  channels, and XXXX groups. At that point, I no longer had access to any services, despite having paid {$7500.00}. \n\nI submitted extensive documentation to American Express, including : * Evidence of misrepresentation * Documentation showing the level of the program did not match what was sold * Proof that I was removed from access after disputing * A detailed explanation of my experience Despite this, American Express denied my dispute, relying solely on the merchants contract and not addressing the underlying issue of misrepresentation and non-delivery of services. \n\nThis is not a matter of dissatisfaction. This is a case where : * The service was misrepresented at the time of sale * The service delivered did not match what was promised * Access to the service was revoked after the dispute American Express failed to properly investigate these facts and did not provide the level of consumer protection I expected after 36 years as a cardmember. \n\nI am requesting that this dispute be reviewed again based on the full facts and that appropriate action be taken."
+}

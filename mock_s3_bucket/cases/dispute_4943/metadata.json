@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4943",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "28405"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22218,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I used my American Express Credit Card to purchase a dress for {$XXXX} from an online vendor ( XXXX ) on XX/XX/year>. Unfortunately I encountered a dispute with the vendor that remains unresolved. As a cardholder, I expected American Express to fulfill its obligation to protect me from wrongful charges and advocate on my behalf, as the company claims to do when disputes arise. However, American Express failed to adequately challenge the vendor and did not apply a credit to my account for the disputed amount. Instead, I have been charged ongoing interest, further compounding the issue. This failure to protect me from an unresolved, disputed transaction contradicts the assurances provided by American Express regarding customer protection in such situations."
+}

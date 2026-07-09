@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3051",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "IDENTITY_THEFT_FRAUD",
+    "complaint_state": "CA",
+    "complaint_zip": "91504"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29964,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made an online booking using my credit card for traveling. on Sat, XXXXXXXX XXXX XXXX XXXXXXXX I went on CitiTravel.com and used my points ( XXXX points ) to book a 2-week stay from XX/XX/year> - XX/XX/year> When I arrived at my hotel, the booking was inaccurate. I specified a Deluxe Suite for my stay but on the hotel 's booking confirmation, it showed as a standard queen room which is not what I booked. \n\nI showed them my confirmation and it was very odd that whatever I booked did not show on the hotel 's confirmation. Nevertheless, I could not stay in that room and immediately booked another hotel in person. \n\nThis will all be resolved once I contacted the Citi Travel Department, who assured me that this would all be resolved. One year later with all my follow-up and evidence of incorrect confirmations, I still don't have my XXXX points or cash equivalent refunded to me. \n\nAfter countless amount of times that I reached out not one representative of CitiTravel told me to file a complaint and I had to be referred to CFPB by an attorney that is handling a case against CitiBank for other matters."
+}

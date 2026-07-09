@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7487",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "63303"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32101,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The beginning of 2025 around XXXX ( I am A co owner to my fathers account ) we owed citi card somewhere around {$16000.00} to which I wrote a check for {$17000.00}. They contacted us and said we overpaid by {$3900.00} and they even wrote us a check for that amount and then they closed our account. This was back in XXXX. So we owed money we overpaid they wrote us a check for the difference and now XXXX  Months later theyre claiming we owe them {$11000.00} somehow even when it says in XXXX we owed nothing because the account was closed then in XXXX all of a sudden its {$9000.00} that they magically added {$2000.00} too. Its laughable. I will contact my old bank ( I dont bank with XXXX anymore ) and I will upload photos of the payment being made. I demand this be removed from both mine and my fathers credit report as we have already resolved this!"
+}

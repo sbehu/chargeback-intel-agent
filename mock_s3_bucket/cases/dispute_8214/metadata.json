@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8214",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "HI",
+    "complaint_zip": "96826"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37390,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a XXXX TV from Best Buy for {$1600.00} using my Best Buy credit card. I returned this TV on XX/XX/XXXX and exchanged it for a different model, as documented in my XX/XX/XXXX receipt. \n\nDespite the return, my account was billed for both televisions. The original {$1600.00} charge was never properly reversed, leaving me responsible for two TVs when I only kept one.\n\nIn my prior CFPB complaint, Citi responded by claiming I received an {$840.00} refund applied toward a new purchase of {$2500.00}, leaving a balance of {$1700.00}. This explanation is incorrect and misleading : My account still shows the {$1600.00} charge, unreversed.\n\nThe documentation clearly shows a return and exchange.\n\nI am not disputing the {$1700.00} balance for the TV I actually kept only the duplicate {$1600.00} charge.\n\nThis is a clear billing error under the Fair Credit Billing Act ( 15 U.S.C. 1666 ). Citi failed to investigate and resolve the duplicate charge properly.\n\nRequested Resolution : Remove the {$1600.00} duplicate charge from my account.\n\nCorrect my billing statements to show only the TV I retained.\n\nProvide written confirmation that my account balance and credit report are corrected.\n\nBottom line : I returned one TV and should not have to pay for two. The {$1600.00} charge must be removed."
+}

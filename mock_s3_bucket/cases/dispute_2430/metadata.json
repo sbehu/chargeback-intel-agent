@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2430",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "94114"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-19T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4241,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is following up on my previous complaint- I have now compiled a spreadsheet detailing the payments and credits and proving that American Express is overcharging me by over XXXX. Essentially, on XX/XX/XXXX, I booked an XXXX- I used the \" XXXX XXXX '' feature to pay for it, on XX/XX/XXXX, I canceled the XXXX, but as of XX/XX/XXXX, Amex was still charging me fees associated with the XXXX  ( the underlying asset of which was refunded to my card ). Also, I had an active XXXX as of XX/XX/XXXX - and the statement balance was never adjusted to reflect the end/refund of the XXXX  Now, the XXXX is technically over, and Amex has simply added the entire XXXX balance to my statement balance, and they are refusing to adjust the XXXX balance. Here is an XXXX spreadsheet detailing the discrepancy- American express thinks that my statement balance as of XX/XX/XXXX was {$11000.00}, which based on the credits/payments downloaded from Amex ( which I have compiled in a spreadsheet ), the difference between my payments and credits is {$8500.00}. This is a discrepancy of {$3200.00}, which I must have refunded immediately."
+}

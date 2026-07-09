@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6015",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85741"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1047,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Today, XX/XX/XXXX, I received a text indicating a purchase was made on my XXXX account for an amount totaling over {$700.00} ( XXXX controller, XXXX accesory kit and a tv ). I contacted XXXX and the charge was cancelled but my account had been compromised and my email was then inundated with over XXXX emails subscribing me to various places. I requested my XXXX account be cancelled."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6520",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33313"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22480,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had fraudulent charges on my Citi best buy card. I called to report it. They did not take the claim accurately only one charge and gave me credit. Called back again they had to start all over. I am trying to get a mortgage I am not suppose to be using credit cards. They tell me today another 7-10 days. Basically they did nothing for all the charges the firs time. They do not care thye messed up They will not send me an email for the mortgage company ony a letter that will take 7-10 business days which I do not have. They saty we are sorry about your situation. This is terrible for consumers. I need the credit immediatelyh and something for my mortgage company immediately they do not care one bit."
+}

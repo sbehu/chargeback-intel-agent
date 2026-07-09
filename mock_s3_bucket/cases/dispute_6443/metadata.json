@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6443",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11722"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-22T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 48182,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I understand there is no email to add screenshots for the following complaint if I previously filed : XXXX however I want to show you what I sent to Citibank and they still refuse to refund my account from XXXX. \n\nThe screenshots of my conversation with the merchant XXXX from today XX/XX/XXXX where they say Citibank blocked the refund because I had a dispute regarding the charge. Citibank Disputes Department REFUSES to credit my account even though I have all this proof. Even today I spoke with 2 different supervisors who both disregarded the proof and they said I have to contact the vendor. \n\nAlso I was told there is no other person above Disputes who will help me. When I told the supervisor I filed a complaint with your department he told me go ahead and theyll respond to but not me their customer of nearly 40 years. ( I spoke with a man named XXXX  ) I have received XXXX separate notices since XXXX that I closed the dispute and it is my problem to deal with. \n\nEven after the supervisors looked at the email and the XXXX conversations today again they told me its my problem to deal with."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1515",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32401"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41107,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have contacted XXXX and they are denying any charges or flights under my name in XXXX or XXXX of 2023."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5047",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "34689"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-27T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46296,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "There were XXXX charges from XXXX XXXX for XXXXXXXX XXXX  XXXX on XXXX. I have documentation from merchant who received merchandise back of refund confirmation. XXXX XXXX refuses to acknowledge documentation issued by the Merchant contractual partner of theirs. As demonstrated documentation alleviates the consumer of items, resolution is being sought to refund both charges. Both Barclays US dispute case numbers XXXX & XXXX reference a singular refund posted on XXXX XXXX XXXX. This is unacceptable. Please accept my condolences however Barclays US proves to be unreachable and I have no more possibilities to dispute any charges as both were disputed and both their resolutions on separate charges from XXXX reference the same XXXX refund. The phone number provided on voicemail for callback, XXXX number is unreachable. This is unacceptable."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5993",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "43201"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40368,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Date of Incident : XX/XX/year> Time of Incident : XXXX XXXX  ( timezone : XXXX XXXX XXXX ) Place of Incident : XXXX, XXXX Citibank Dispute Case ID : XXXX At the end of a Taxi ride, the driver showed me the amount as XXXX XXXX XXXX ( equal ~ {$9.00} ). He then proceeded to swipe my credit card on his machine. He gave me a hand written receipt for the same amount. This was suspicious so once I exited the taxi, I immediately checked my account for the transaction and saw a charge of {$1000.00} USD. \n\nI contacted citibank within 30 minutes of the incident and asked them to block the transaction. They said they can't do anything as it was still a 'pending charge ' and I should call back after it posts to the account. I filed a police report in XXXX, XXXX at XXXX XXXX same day. \n\nI've been working with Citibank 's billing dispute since XXXX and have provided them the receipt, police report and all the details multiple times. They keep closing and re-opening the case without any explanation and openly lie about not being able to read the documents I've send both electronically and physical mailed originals. They are clearly stalling and at this point it's clear they are not issuing a refund for the excessively charged amount {$1000.00} or have made any attempts to get the money from the merchant. A taxi merchant can't possibly charge {$1000.00} for a ride so this should've been an easy recovery process for Citibank. \n\nHope the CFPB can help get a refund here."
+}

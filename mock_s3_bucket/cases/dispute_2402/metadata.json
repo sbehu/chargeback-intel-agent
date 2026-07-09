@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2402",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98367"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1189,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have an Exxon Mobil personal credit card, since XXXX. I saw on my statement had many ( XXXX to XXXX or more ) small charges from XXXX locations that I assume maybe gas stations. In one day there were over 20 small charges under {$10.00} each at one location in XXXX. Next day over 20 small charges at a XXXX XXXX location. Exxon Mobil will not talk about it, they just send me to virtual locations for help. When I tell the computer what the problem is, it tells me they don't understand my words ( when I say, 'I need help with unauthorized charges ', they hang up. I sent them an email to cancel my card and they stopped my access to the my statements. I paid for many unauthorized charges to stop my bills. I need to get paid back for those charges."
+}

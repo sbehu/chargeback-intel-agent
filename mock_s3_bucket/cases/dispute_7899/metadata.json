@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7899",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32720"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38679,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I noticed emails and stuff showing up from XXXXXXXX XXXX I never signed up for XXXXXXXX XXXX I did stay at a hotel of theirs in XXXX and apparently thats when XXXX who is the owner of the XXXXXXXX XXXX  card. Did a credit search on me. I never applied for a XXXX card I never made purchases with a XXXX card. Ive never gotten a XXXX card until after. I reported the fraud. I immediately called explained to them, I did not open the account and that it needed to be closed immediately and placed in a fraud alert. I also locked up my credit as well. All three credit reporting agencies are locked. Needless to say they never told me that there was {$1000.00} charge made or when the charge was made or what the charge was for, they would not give me that information. They said that I received statements in the mail which I never did, and I never received the card until after I reported the fraud When they confirmed my address is when they sent me the card. They said they did an investigation this was Barklay XXXX card and told me that they concluded that I benefited from the card and that I needed to pay the {$1000.00} and that interest would accrue as long as it wasnt being paid."
+}

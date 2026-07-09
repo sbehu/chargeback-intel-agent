@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_384",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20853"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43520,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "General issue : Credit card company determined a large charge was fraud but did not remove the charge from my balance. \n\nThis is in regards to a Best Buy Citi Platinum Visa. On XX/XX/2023 I received a fraud warning that originated ( I believe ) with the card issuer 's Consumer Protection Dept. about potential fraudulent charges on my card. I confirmed I did not authorize the charges and had no knowledge about them. They terminated my card and sent me a new one while investigating {$720.00} in charges from XXXX XXXX and XXXX at a hotel in XXXX XXXX, XXXX, while I was in another state. \n\nOn XXXX, XXXX, I received a letter from \" Security Operations '' delivered to my Best Buy Visa account that says \" We recently spoke to you about suspicious activity that was attempted on your My Best Buy Visa Platinum. We have good news! After completing our investigation, the attempted authorization ( s ) have been determined not to be yours and have been declined. None of these charge ( s ) have posted to your account. '' I then activated the new card they sent me. \n\nOn XXXX XXXX, I checked the card balance and the {$720.00} in fraudulent charges were posted to the account as due by XXXX XXXX. I called the customer service number and they were unable to explain the discrepancy and, after a long interval, transferred me to the Security Operations Department. I spoke with \" XXXX '' who gave me an employee number of XXXX ( she would not tell me her full name ), and described the Security Operations as a \" middleman '' working on my behalf to address my concerns. She said it was now necessary to launch an entirely new investigation that will take 90 days -- despite the fact that the Security Operations Department had already completed the first investigation and determined the charges to be fraudulent. I asked her repeatedly what had gone wrong and she would not respond with an answer. \n\nThe first investigation has already determined these charges to be fraud within XXXX  days. Why is their procedure to launch a lengthy repeat investigation when they have already determined this to be fraud? In the meantime, the charges remain on my account."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5377",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "015XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20273,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "IXXXX XXXX XXXX XXXX my identity was stolen. At that time I had a Barclays Jet Blue credit card and 3 other Barclay cards were opened in my name. When I noticed it I reported it to Barclays. They immediately closed all of my accounts. I have spoken to the Barclays fraud department 4 times and was told they are working on it and I would receive a letter in the mail within 10 business days I never received anything from Barclays. Barclays has since reported me to the credit bureaus which has adversely effected my credit score. There is still an outstanding balance of {$1500.00} which is accruing late fees and interest. I don not know what else I can do as Barclays is simply providing me with lip service. I spoke with Barclays today and went through the same drill as I did in my previous calls. I tell them about what happened, have to give them the fraudulent charges, am told they will send me a letter in 10 days. last 4 digits of card is XXXX agent number spoken to XXXX XXXX XXXX"
+}

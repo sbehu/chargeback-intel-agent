@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3571",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OR",
+    "complaint_zip": "97603"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6463,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am still waiting for a decision on from Citibank on my dispute Subject : Formal Complaint Against XXXX for Misrepresentation and XXXX Customer Service Dear [ Recipient 's Name or Department ], I am writing to formally lodge a complaint against XXXX regarding the handling of my claim and the misrepresentation of the services offered under your extended warranty plan. My experience with your company has been deeply frustrating and has led me to lose trust in the integrity of your services. \n\nFirstly, I have been repeatedly transferred between different customer service representativeson XXXX occasion, I was transferred XXXX timeswithout ever being able to speak to an adjuster. It is extremely concerning that the adjusters are located in the XXXX, making it nearly impossible to communicate effectively or resolve my issue in a timely manner. \n\nFurthermore, despite being informed that my repair would be covered, XXXX has failed to honor this commitment. I was left with no choice but to pay for the repair out of pocket, despite it being a valid claim under the terms of the extended warranty. This constitutes a clear case of misrepresentation and fraudulent behavior on the part of XXXX. \n\nI am requesting immediate reimbursement for the repair costs that should have been covered by my warranty. Additionally, I expect a full review of my claim and the customer service practices that have led to this situation. \n\nIf this matter is not resolved promptly, I will be forced to escalate my complaint to the appropriate consumer protection authorities and consider legal action to recover my losses. \n\nI look forward to your prompt response and resolution of this matter. \n\nSincerely, XXXX XXXX XXXX"
+}

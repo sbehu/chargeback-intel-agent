@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3685",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7054"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-29T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20027,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Over the past 12 months, I have submitted 2 separate disputes to charges on my credit card statement. In both instances, evidence explicitly shows the charges were not authorized. However, the credit card company Citibank denied both disputes. 1ST DISPUTE : In the later half of XXXX, I was charged twice for the same meal from XXXX XXXX XXXX. I was charged once by XXXX and then again by the merchant XXXX XXXX XXXX. This is shown explicitly on my credit card statement. When I filed this dispute with my credit card company Citibank, they automatically denied the claim. Although XXXX eventually reversed the charge, it took months of unnecessary phone calls. 2ND DISPUTE : Submitted on XX/XX/XXXX, evidence again clearly shows that a credit card charge was unauthorized. A credit card receipt explicitly states that cash was paid. Again, Citibank automatically dismissed my dispute request. CONCLUSION : I believe that Citibank 's dispute department does not reasonably investigate disputes and just automatically denies claims. If there is credible evidence that a charge is unauthorized, Citibank must reverse the charge by law. Instead, it's taking months of phone calls and letters to resolve simple billing errors. This\n\nis a violation of the Fair Credit Billing Act. What's truly funny is that I submitted this same complaint with XXXX  2 weeks ag\no, and they too automatically closed mycomplaint when Citibank responded that \" they need more time ''. I guess every corporation uses automated bots these days"
+}

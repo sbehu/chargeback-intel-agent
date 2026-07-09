@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2365",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KY",
+    "complaint_zip": "410XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 13005,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX, 2023. XXXX XXXX XXXX in error charged me 3 times for one service {$630.00}. They admitted that it was their error and notified CitiBank. Citi took off one charge. The next one was conditional. Then someone their decided to put it back on my statement and even charged me interest. XXXX  XXXX  lowered by score by XXXX? points. I have called Citi at least a dozen and a half times, even talked to a few supervisors. I have a case # XXXX. I sent an email also to the XXXX. This week I sent a certified letter to The CEO of Citibank, she should receive it Monday, the XXXX ( Tracking with XXXX. ). All I get it the runaround. It's been 3 month and a week now and it's still on my account. I am a senior citizen and on SS. This has stressed me to no end. I am so frustrated. I need someone in my corned. Please help me."
+}

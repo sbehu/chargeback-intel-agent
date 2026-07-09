@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3173",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank regarding an unauthorized charge on my account. A merchant enrolled me in autopay without my explicit consent and subsequently charged my card without my knowledge. This charge is fraudulent, as I did not authorize the autopay enrollment or the subsequent transaction. \n\nI have contacted Citibanks Executive Response Unit and requested a reversal of the charge, waiver of associated interest and fees, and written confirmation of the resolution. However, I have not yet received a satisfactory response. Attached are the email from the merchant notifying me of the autopay enrollment, my communication with Citibank, and proof of the unauthorized charge on my account statement."
+}

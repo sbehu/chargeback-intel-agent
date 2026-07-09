@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2409",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ID",
+    "complaint_zip": "838XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40879,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a refund of a purchase ( {$1200.00} ) I made from the XXXX XXXX occur on XX/XX/XXXX for an accidental renewal that occurred on XX/XX/XXXX. The vendor, XXXX XXXX, was extremely communicative and understanding and issued the refund. After a sometime of not receiving funds I contacted the vendor and they provided proof of financial return. I contacted Citibank Card and opened a dispute on XX/XX/XXXX for not receiving funds and provided information to them. They responded in XX/XX/XXXX stating I am responsible for the purchase, even though the refund was initiated from XXXX XXXX. I reopened a dispute and provided further details to Citibank Card on XX/XX/XXXX. They responded on XX/XX/XXXX stating that I am responsible for funds with no further explanation. I am writing this for aid in a complaint against Citibank Card for gross negligence, mishandling, and misappropriation of my money. I have reached out multiple times to Citibank Card. I have also had amazing, transparent commination with XXXX XXXX and they have stated that the funds are also out of their account and they confirmed with their bank that the refund went through on their end. I have exhausted all attempts on my end and I am now pursuing this avenue."
+}

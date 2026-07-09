@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_776",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "786XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-17T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29030,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXX - XXXX charges for same amount from same merchant ( XXXX ) on same date - put in dispute and a conditional credit was issued. Dispute was closed and conditional credit reversed stating charge was valid. \nXXXX- XXXX shows same XXXX charges - reopened dispute. \nXXXX - Received letter from CitiBank that XXXX ' had been returned to XXXX XXXX XXXX and that I needed to contact XXXX XXXX \nXXXX - Contacted XXXX XXXX- XXXX responded via email that only XXXX charge is valid and to go back XXXX CitiBank to correct. \nXXXX - Citibank reopened dispute and now need to wait another XXXX business days. \nXXXX - Contacted CitiBank for an update and was told I still needed to wait but XXXX ( XXXX ) was sending an 'escalation ' to XXXX ' and provided an email address to send documentation showing there are XXXX charges still on my account and the email documentation from XXXX showing only XXXX charge is valid. Both documents were emailed and received. \nXXXX - Letter from CitiBank - \" XXXX com charged your account only once '' for the disputed amount of {$1200.00}. However XXXX charges are still on the account. \nXXXX - Contacted CitiBank - XXXX - This is now the XXXX dispute about this charge. Asked if there was something I was missing and she confirmed the XXXX charges of {$1200.00} on XXXX are still on my account and that the documentation emailed had been received and clearly showed XXXX only authorized one charge. The dispute was to reopened and sent to the 'back office ' to review. Dispute XXXX. A complaint was to be opened on my behalf as well - Case ID # XXXX. \nXXXX - Citibank sent an \" Account Update '' stating a copy of the statement was being mailed and that \" we must honor any charge presented for payment. If a charge appears ... that was not authorized, please contact customer service. The statement sent is XXXX. \nXXXX - NOTHING MORE FROM CITIBANK AS OF TODAY"
+}

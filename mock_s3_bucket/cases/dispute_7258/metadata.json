@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7258",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "290XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18471,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had booked a stay at XXXX XXXX on XX/XX/XXXX for XXXX XXXX of XXXX. XXXX XXXX cancelled my reservation due to the hurricane. The did not want to issue a refund. They referred to the terms and conditions at the end of the itinerary. They offered rebooking in XXXX. However, I never signed anything agreeing to those terms and they were not emailed to me until after they had already charged my card. I then filed a dispute with Barclay World Mastercard. They denied the dispute saying the merchant didn't violate the terms. I tried calling to rebook the stay at XXXX on XX/XX/XXXX and spoke to XXXX XXXX. He was mad that I had originally disputed the charge and refused to let me rebook the stay. I sent XXXX an email requesting a refund on XX/XX/XXXX since they would not let me rebook. I received no response. I then proceed to try to file a claim in small claims court against XXXX in XXXX XXXX NC. They haven't been able to serve the summons because there is a locked gate no one will answer. I then contacted XXXX on XX/XX/XXXX and filed a formal request to reopen my dispute. I faxed them all documentation to prove what I said was true and also information showing the person running it has a history of dishonest practice and pending court cases and is in fact using an alias name. They sent a response XX/XX/XXXX stating the merchant had not violated terms and it was outside the permitted time frame for the dispute. I called them on XX/XX/XXXX and spoke with XXXX to ask for clarification of how they did not violate if they refuse to let me rebook and how is the timeframe up when I had 1 year to rebook. She just kept repeating what the letter said. I informed her that I would be filing a complaint with the CFPB."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8875",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89141"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41830,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I found a purchase transaction in the amount of {$540.00} on my Best Buy credit card account that I did not make. I never lost possession of my credit card, never shared my account number with anyone ( other than store personnel when making prior purchases ), nor authorized anyone at any time to use my credit account. I was not in the store on the day that the charge was made, and the store indicates that the item was picked up. It was certainly not picked up by me. \n\nI promptly notified the fraud number on the credit card. I later received letters stating that their \" investigation does not substantiate the claim of unauthorized use. '' The disputed charge remains as part of my credit card balance. \n\nIt appears to me that someone in that store, where I had made previous purchases, had access to my credit card number, and participated in this fraudulent charge, and Best Buy refuses to accept this and remove the charge from my account."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_696",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11720"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3130,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I placed an order with XXXX that was never delivered. \n\nI tried to dispute this online but that option was not available. \nI tried to dispute this by phone but they have a habit of disconnecting you \" accidentally ' after long holds and many transfers. \nI have tried disputing this in writing as well with no success yet. I provided proof that XXXX acknowledged the item was shipped to the wrong address. \n\nThe credit card company is purposely making this impossible in the hopes that consumers will give up."
+}

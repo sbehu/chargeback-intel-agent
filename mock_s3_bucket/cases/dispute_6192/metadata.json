@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6192",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "14621"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10937,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This account has been about XXXX yrs old I had contacted this company so many times regarding this account I had stated that I can only account for about or near {$1000.00} of it which I had paid to try to keep my credit score ok However Best buy continue to overlook this and continue to send me high balances and interests I has explained that I did a identity theft over a yr plus ago because someone had gotten my information and took me for a lot but best buy continue to send me monthly bills demanding {$700.00} a month for a minimum payment.they has a balance of {$3500.00} which to me seems to be majority interest I am a senior citizen on a fixed income no way I could afford to pay this kind of money for stuff I didn't purchase this is totally unfair were living in times where scamming seems to be the norm and we have to suffer to fix something we didn't break it's not right I try to give something because it's my name & credit being damaged."
+}

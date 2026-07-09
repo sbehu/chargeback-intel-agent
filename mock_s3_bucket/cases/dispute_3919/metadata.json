@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3919",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "302XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21134,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have invested a significant amount of time on the phone with my credit card company ( Citi ) disputing fraudulent charges on my card/account. I initially booked a car rental through XXXX for a total amount of {$54.00}. However, the car rental company charged my credit card a security deposit of {$460.00}, which was supposed to be refunded upon the return of the vehicle. After 72 hours, I contacted the rental car company for confirmation and was informed that their policy allows for a refund within 21 days after the vehicle is returned. \n\nIt has now been over XXXX months, and I have yet to receive a refund of {$410.00}. I have made several attempts to contact the merchant to resolve this issue. Additionally, my experience with my credit card company \" Citi '' has been frustrating. They have handled this matter with a lack of urgency, proving inconsistent information and, on several occasions, transferring me to the wrong department or disconnecting the call. I have spent countless hours trying to resolve this issue with my credit card bank \" Citi '', a company that is expected to protect its customers. This entire experience has been exceedingly distressing."
+}

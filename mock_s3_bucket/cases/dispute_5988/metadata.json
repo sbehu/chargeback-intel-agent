@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5988",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "356XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49484,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Ive been a loyal Citibank customer for over 31 years. I disputed a charge from a company called XXXX due to deceptive business practices. The company used misleading advertising and charged me after I canceled. I never received the product or service as advertised. \nI contacted XXXX XXXX Department and spoke to a representative who told me Id be contacted by someone else to open a formal case and review the details. That follow-up never happened. I received no emails or calls despite checking multiple times. \nOn XX/XX/year>, I received a certified letter from Citibank stating that my dispute was denied due to no response by XX/XX/year>. That is inaccurate. I was waiting for the promised follow-up. I never ignored any part of the processI was simply waiting on Citibank. \nI attempted to call Citibanks Dispute Department on the evening of XX/XX/year>. The wait time was listed as 15 minutes and never changed, even after an extended hold. At this point, I'm filing this complaint with CFPB because I have not been given a fair review or resolution. \nIm requesting that Citibank reopen my case and properly review the situation. I am willing to provide full documentation of both XXXX practices and my interactions with Citibank."
+}

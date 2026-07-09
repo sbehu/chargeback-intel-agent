@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_25",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "SC",
+    "complaint_zip": "298XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37149,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had a card with XXXX balance, it had been paid off for at least a year. Someone got the information for my card and used it to make fraudulent purchases totaling {$3000.00}, because I do not use this card often I did not notice the charges until I opened my XX/XX/XXXX statement. This has been reported as fraud since XX/XX/XXXX. Not only have they reported this to the credit reporting agencies as past due while knowing the charges were fraudulent and while still under investigation, as of today XX/XX/XXXX they are requesting payments toward the fraudulent balance. They refuse to stop late fees piling up on a balance they know to be fraud. Now when I call them they pass me back and forth between fraud department and customer service claiming nothing can be done ... and it's still under investigation but make minimum payments on the amount they know to be fraudulent. They even reissued a card, left it linked to the old account and the fraudster was still using it while it was being investigated. They have now issued a third card and have not resolved the issues involved with the fraud, while reporting a fraudulent balance to credit agencies, and trying to collect on a balance they know to be fraud. If you remember, my balance was at {$0.00} before the fraud started."
+}

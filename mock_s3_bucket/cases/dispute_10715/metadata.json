@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10715",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92105"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41439,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I recognize the purchase of a living room furniture made with my XXXX XXXX XXXX credit card. \n\nAbout 12 months ago, I contacted XXXX regarding a repair under the protection plan. XXXX allowed the person who received the furniture ( who is not the cardholder or an authorized user ) to choose to receive a refund by check in his name instead of crediting my card. \n\nXXXX told me that the receiver had the same rights as me, the cardholder. However, I never authorized any refund to be paid to a third party, never signed or cashed any check, and never agreed to give my credit card funds to someone else. \n\nThe furniture was returned, but the refund was not applied to my credit card. XXXX kept the furniture, the third party kept the money, and my account still shows a remaining balance of about {$1700.00} despite ongoing payments. \n\nMy billing dispute was denied without a clear explanation, and my calls were disconnected twice when I requested to speak with a supervisor. \n\nI am requesting a reinvestigation and proper credit of the refund to my account."
+}

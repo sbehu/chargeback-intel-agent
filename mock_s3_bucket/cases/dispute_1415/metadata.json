@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1415",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "334XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45198,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays Bank jetblue credit card sent me a card with a new expiration date by mail since it was about to expire in XX/XX/XXXX. While I was waiting for my credit card in the mail, I received an email saying that my card was activated when Ive NEVER received the card and I DID NOT activated it. Someone stole it and used it and made a transaction for {$2600.00} in a car dealership in XXXX, over XXXX miles away from my house. \n\n\nIMMEDIATELY, I called Barclays JetBlue Credit card company to inform them of the theft. They removed the fraudulent amount from my credit card and sent me a new one with a new number. I thought that issue was taking care by the BARCLAYS BANK since it was a fraudulent transaction. \n\nUnfortunately, XX/XX/XXXX, Barclays Bank placed {$2600.00} back onto my credit card, when Ive NEVER authorized or validated it anyone for that purchase. I have never made that transaction neither did I got any benefits from that. \n\n\nXX/XX/XXXX, I got a letter from Barclays Bank letting me know that I was not responsible for that fraudulent transaction and removed the fraudulent activity from my credit card. \n\n\nHOWEVER, what makes me concerned about this letter is that last paragraph says that if the merchant is able to validate the transaction again, THE TRANSACTION MADE BY A THIEF WHO STOLE MY CREDIT CARD, Barclays Bank could place the fraudulent transaction of {$2600.00} back onto my credit card. REALLY!?! \n\n\nBarclays Bank still continuing with threats, harassment abuse and mistreatment towards me. \n\nI have never gone through a situation as stressful and traumatizing as what I am going through with Barclays Bank. \n\nIf someone stole and used my credit card, Barclays Bank and the merchant will accept/ validate this transaction without asking for an identification, notifying me or verified me by email or text message if this transaction was made by me. Are Barclays Bank trying to hold me accountable in the future for a fraudulent charge that a thief/scams made with my credit card?. They need to remove this amount from my account definitely."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4022",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MI",
+    "complaint_zip": "48042"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20407,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I disputed a XXXX XXXX XXXX XXXX charge with American Express for XXXX. I provided several documents supporting my disputed charge. After several phone calls with the American Express dispute team, they indicated that I must wait the 90-day period. American Express has not communicated anything regarding this dispute during this entire period of time. On XX/XX/XXXX, I called American Express 's dispute team once more to follow up on the dispute in process. It was communicated to me at that time that the charge would be credited back to my account on XX/XX/XXXX. Today, XX/XX/XXXX, I called the dispute team 2 times. The first time, the individual said that, in fact, no one would have told me that it was going to be credited back to my account, and the dispute is still in process. I believe that was communicated to me on more than one occasion. The person I was speaking to said that they would listen to the recorded phone calls and then disconnect the line. I called back a second time, and the person indicated that there was no resolution date and the dispute team was still working on it. I communicated all the other information that I had been given on the previous phone calls, to which they replied, \" American Express is not going to pay you the money ''. They said they would \" escalate my request for information, '' something that I have asked for multiple times and have never received any communication from American Express. The person on the second phone call said there was nothing I could do and I just needed to wait an undetermined amount of time. \n\nThe original charge from XXXX XXXX XXXX XXXX  was made on XX/XX/XXXX. American Express has closed this dipsute in the past and only re-opened it once I made a complaint with CFPB. American Express continues to move the dead line, provides no feedback or communication, and fail to solve this problem."
+}

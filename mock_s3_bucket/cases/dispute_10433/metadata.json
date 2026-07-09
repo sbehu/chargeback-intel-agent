@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10433",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92592"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1110,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I applied for and was approved for an American Express XXXX XXXX Everyday credit card after being presented with a promotional 0 % APR balance transfer offer for a fixed introductory period with a balance transfer fee. After approval, I completed a balance transfer of approximately {$7500.00} and was charged a balance transfer fee of about {$250.00}. \n\nWhen my first statement generated, American Express treated the balance transfer as a purchase and charged interest at approximately 24.99 %, resulting in about {$110.00} in interest charges. I contacted American Express and was later told that I was ineligible for the promotional balance transfer APR because I had received a similar balance transfer promotion on a different American Express account several years earlier. This eligibility restriction was never disclosed during the application or approval process. \n\nI filed a written billing dispute under the Fair Credit Billing Act. American Express acknowledged the dispute ( reference XXXX ), temporarily stopped interest accrual, and stated the amount was under review. I also participated in an internal complaint process. American Express ultimately closed the dispute and complaint and refused to refund the balance transfer fee, stating that no promotional offer could be located. \n\nI repaid the balance transfer in full. I am requesting a refund of the balance transfer fee and correction of any related charges, as the promotional APR was denied retroactively based on an undisclosed eligibility restriction after approval and after the fee was charged."
+}

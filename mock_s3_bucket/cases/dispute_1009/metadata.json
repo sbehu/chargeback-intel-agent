@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1009",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10014"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18394,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have purchased 3 XXXX XXXX XXXX XXXX  from a vendor named XXXX. Because these items arrived too late, I requested for the items to be returned for a full refund. The vendor informed me that I would need to take care of the return by myself. \n\nI purchased a UPS return label with tracking number XXXX and shipped the items back to vendor. Tracking clearly shows that the items were successfully returned to the vendor. Despite that, the vendor claims that he has not received the merchandise and refused to refund me for the return, which I've made according to their policy. \n\nI've opened dispute XXXX with Amex but have been unable to get an Amex rep that actually understands the case and evidence and supports me on this dispute."
+}

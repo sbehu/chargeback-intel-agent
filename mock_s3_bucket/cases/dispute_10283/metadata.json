@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10283",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92886"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-21T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 46746,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I was charged {$190.00} twice for the same transaction. This was a duplicate charge. \nI filed XXXX separate disputes regarding this charge. Each dispute took several months to process and was ultimately closed as either my responsibility or unable to obtain compensation from the merchant, despite the charge clearly being duplicated. \nAfter approximately XXXX months, I contacted the company again to have the issue reviewed. On XX/XX/XXXX at XXXX XXXX, I spoke with a supervisor named XXXX ( Employee ID : XXXX ). During this call, he was disrespectful, refused to provide assistance, and stated that the issue was not the companys responsibility because the merchant would not return the duplicate charge. He also refused to provide his managers name and abruptly ended the conversation. \nAs of today, the duplicate charge of {$190.00} remains unresolved, despite multiple disputes and follow-up calls."
+}

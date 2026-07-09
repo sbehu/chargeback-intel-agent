@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7272",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "934XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9336,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased seven evaporative coolers from XXXX XXXX online and was charged for thirteen coolers. I paid for the seven I ordered and filed a dispute for {$4100.00} which was the amount overcharged for my one and only order for coolers and is the cost of six coolers. I received the seven coolers delivered by XXXX XXXX in two deliveries, first contained one cooler and the 2nd, five days later, contained six coolers. Apparently XXXX XXXX thought that seven coolers were delivered on the first delivery as indicated and after that they created an additional order in error for six more coolers which had already been delivered on the second delivery and then added the overcharged amount to my account in error. I filed a dispute and that was denied so I paid the {$4100.00} in order to prevent potential adverse effects on my credit."
+}

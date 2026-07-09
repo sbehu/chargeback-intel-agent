@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3199",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AR",
+    "complaint_zip": "727XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 31392,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Hi, I am writing about a fraudulent charge to my XXXX XXXX XXXX XXXX through Barclays XXXX. On XX/XX/year> I had a fraudulent charge from a XXXX in XXXX  XXXX. I have record proving that I was at my hometown of XXXX, XXXX  that day and gym records showing I was in town. I reported this a fraud and closed my account. They said they would remove the charge and let me know once the investigation concluded. Since then, they have charged me late fee and interest. I have called a total of 8 times and had 1 online chat to try and get this resolved. They have credited back late fees for XXXX and XXXX, but continue to add them each month. They also reported this late payment to the credit bureaus and it lowered my exceptional score. I called and they said they reversed the reporting to the bureaus, but when I disputed with them, they said the charges were accurate according to Barclays. Customer service with Barclays also told me I would not be contacted anymore about the charge, but it is harassment at this point. They text, email, call and have now effected my credit score for a fraudulent charge of {$50.00}. Ive literally never experienced anything like this and had a near perfect credit rating. This is criminal at this point and I dont know what else to do."
+}

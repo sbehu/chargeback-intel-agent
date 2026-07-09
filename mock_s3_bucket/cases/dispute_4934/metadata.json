@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4934",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98133"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 45466,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "My Barclay 's account was accessed by fraud. I was notified that there were charges that were verified by me to be false. Charges were made on the XXXX XXXX. I live on the XXXX XXXX. I was assured these charges would be not accepted and multiple new cards were issued because the individual ( s ) tried multiple times to continue to change the address and access my account. After multiple times and notification mailed the charges were not charged and the amount credited to my account, the account kept being compromised. I decided to close the account and was assured there was no balance on the account. Since then, Barclays is claiming there is a balance no matter how many calls and assurances that this fraud was taken care of. They have since turned my account over to a debt collector."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9476",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "44312"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3917,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "i made a charge online around the end of XXXX and started getting concerned about it legitimacy around XXXX. Found some information online from other people saying the company was a scam and filed a dispute with the credit card company through their app and also over the phone. ( They don't speak good XXXX so I made sure to do it on the app also ). They have since denied my dispute and aren't willing to help in any way. I've asked to speak to someone in the XXXX that may speak better XXXX and have been given the run around. Also, they can not provide a phone number for an XXXX  office so i can insure i speak to someone that understands XXXX. Was given the option of faxing a letter to reopen the dispute if i felt like their decision was wrong ( faxing in 2025??? ). Barclays bank has been horrible to do business with and i have also closed this account to avoid future problems with them. But I'm hoping you can help on this particular dispute over {$250.00}. \n\nThank you XXXX"
+}

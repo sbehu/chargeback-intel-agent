@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9873",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90022"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 24140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Citi Card Disputes Department, I am writing to formally dispute several unauthorized transactions that appeared on my Best Buy Citi Card account ending in XXXX. These charges occurred in XX/XX/year> and include the following XXXX XXXX XXXX XXXX XXXX  {$310.00} on XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX  {$440.00} on XX/XX/scrub>XXXX XXXX XXXX XXXX XXXX XXXX XXXX {$260.00} on XX/XX/year>XXXX XXXX XXXX XXXX XXXX  {$190.00} on XX/XX/year> I did not authorize these transactions, nor have I made any purchases or ticket-related payments with these merchants. I reported these fraudulent charges previously, but I have not received a refund, and I have been charged interest on these disputed amounts, which is unacceptable and contrary to the Fair Credit Billing Act protections."
+}

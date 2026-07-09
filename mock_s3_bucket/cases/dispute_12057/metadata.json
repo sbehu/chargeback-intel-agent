@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12057",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "170XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8076,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Mastercard for failing to properly investigate a clear-cut billing error. \nOn XX/XX/XXXX, I made an online purchase from XXXX. Per their return policy, I returned the item in person on XX/XX/XXXX to the XXXX XXXX XXXX store. The return was accepted by the XXXX XXXX ( XXXX XXXX, who provided me with a written note confirming the store took possession of the shoes. Additionally, I received a customer service email on XXXX26 from XXXX confirming they would process my refund within 35 business days. \nDespite this, XXXX never issued the credit. I disputed the charge with Mastercard, providing the authorization email to them XXXX/26. Mastercard denied my claim, stating the item is still in my possession. This is factually incorrect. The merchant has both the merchandise and a documented agreement to refund me. I am requesting a full reversal of the charge. The email from customer service is below : ============================================================ From : XXXX Customer Service XXXX Date : XX/XX/XXXX at XXXX EST To : XXXX Subject : XXXX  Refund Email Confirmation # XXXX XXXX XXXX, Thanks for contacting the XXXX XXXX! XXXX and being a XXXX  VIP Gold member! \n\nWe apologize for any inconvenience you have experienced with your recent order XXXX. We have checked the order and see that a refund of {$99.00} was processed on XXXX.2026. \n\nPlease allow 3 - 5 business days for the credit to be posted to your selected payment method which is XXXX. \n\n\nIf you have any further questions or concerns please feel free to contact us. We are happy to help! \n\nThoughts? Questions? \n\nGive us a call at XXXX ( XXXX ). We're here for you XXXX XXXX XXXX XXXX a.m. - XXXX, Saturday XXXX. - XXXX. and XXXX  XXXX p.m. - XXXX. EST. \n\nThanks for choosing XXXX XXXX, shoe lover"
+}

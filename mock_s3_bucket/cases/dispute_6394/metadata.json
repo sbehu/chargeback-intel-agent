@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6394",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "DE",
+    "complaint_zip": "199XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11151,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I stayed in a hotel from XXXX. I was charged {$320.00}, which I paid. Some other company charged me {$540.00} for the same 3 days at the same hotel. I received a copy of my correct bill from the hotel signed by the manager stating that my bill was {$320.00}. I mailed all this to Citibank. They said they sent me a letter that I was supposed to sign and date and send back. I NEVER received any letter. I called up and they said they were sending me another letter. NEVER received that one either. I just called up and was told that the date now was too late and I was out of luck. I have never disputed anything before. I am a XXXX XXXXXXXX on a fixed income and this is a lot of money to me. I have hard copy of my papers but I do not know how to send them to you electronically."
+}

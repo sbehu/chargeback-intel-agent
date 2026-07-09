@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8830",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33705"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5945,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2025, I made a purchase using my American Express credit card from the merchant pay.XXXX for a tea item. The purchase amount was {$26.00}. I promptly cancelled the order prior to the item being shipped and contacted the merchant repeatedly in writing. The merchant ignored my messages and shipped the item to me days after cancelling the order. I refused the item at the door and instructed the driver to return the item to the sender. \n\nI filed a dispute with American Express and they refuse to investigate the charge or file a dispute - asking for more information. American Express appeared to investigate the dispute and told me it was resolved with a credit saying I would only be charged again if they received additional information from the merchant which supported the merchant 's position. I was charged again for the item and American Express never showed me the information that the merchant provided to them which made them \" overturn '' the credit American Express provided to me. I am attaching a screenshot of the message I received from American Express showing that the dispute was resolved in my favor with a credit. \n\nAfter I was recharged for the item, American Express refused to provide me with the information I requested and refuses to further investigate my dispute. I am attaching a screenshot showing the most recent communication I received from American Express which says \" Your dispute requires additional assistance ''. There is nothing else needed beyond what I have already provided to American Express. They refuse to investigate this charge properly and this is why I am filing this dispute. I should not have to pay for an item which was cancelled and never received."
+}

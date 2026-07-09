@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4711",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60607"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3942,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint against American Express regarding a fraudulent charge of {$7300.00} on my Hilton card ending in XXXX. The charge appeared on XX/XX/year> from XXXX XXXX XXXX XXXX. I did not make this purchase, nor have I authorized anyone else to use my card for any transactions with this merchant. Additionally, I have not received any goods or services related to this charge. On XX/XX/year>, American Express closed its fraud investigation and reapplied the {$7300.00} charge to my account, despite my repeated assertions that the charge was unauthorized. I was provided with a callback number ( XXXX ), but when I called back multiple times on XX/XX/year>, the call went directly to voicemail, and I did not receive any assistance or resolution. I am requesting that American Express credit my account the amount of {$7300.00} to offset the fraudulent charge and correct this error. I have not authorized this charge in any way, and I have made every attempt to resolve this matter with American Express without success."
+}

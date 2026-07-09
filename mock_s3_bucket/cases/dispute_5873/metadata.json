@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5873",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "61801"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23093,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I opened a dispute for a defective XXXX XXXX  on XX/XX/year> ( Case ID : XXXX ). On XX/XX/year>, Barclays left a voicemail requesting that I contact them. I returned their call on XX/XX/year>XXXX  with no luck in getting a rep, and again on XX/XX/XXXX, XXXXboth calls were recorded. \n\nOn XX/XX/year>, I spoke with a representative named XXXX, who informed me that Barclays had closed my dispute under the assumption that I no longer wanted to continue it. This is false, as I made multiple attempts to reach them. Barclays appears to be deliberately closing dispute investigations and misrepresenting customer interactions, seemingly hoping that customers will give up. \n\nAdditionally, Barclays fails to provide any documentation or evidence to support their decisions when denying disputes. This lack of transparency and accountability is unfair and unacceptable. I request that my dispute be properly investigated and that Barclays be held accountable for their misleading and deceptive practices."
+}

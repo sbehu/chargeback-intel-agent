@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4515",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7601"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49866,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Im filing this complaint because American Express has refused to help me dispute charges on my account that I never authorized. These charges were made by a merchant without my consent, and I only recently discovered them when I received an email from the merchant saying my latest payment had failed. That email prompted me to review my past statements, where I saw these charges for the first time. \n\nThe merchant never sent me any emails about renewals, charges, or receipts at the time of these transactions, so I had no way of knowing they were being billed to my account. These charges are fraudulent, and I did not agree to them in any way. \n\nWhen I contacted American Express to dispute them, they said they couldnt help because the charges are older than 60 days. While I understand the usual time limit, this delay happened because the merchant failed to notify me of the charges, and I only found out recently. Despite explaining this to Amex, they refused to open a dispute or even investigate the matter further.\n\nWhat Im Asking For : Id like American Express to : 1. Investigate these unauthorized charges.\n\n2. Dispute the charges with the merchant and credit my account.\n\nIve been a loyal American Express customer and trust them to protect me from fraud, so Im disappointed they wont assist in this case, even though the charges are clearly unauthorized.\n\nThank you for your help in resolving this issue. \n\nThese are the charges I'm disputing : {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX {$99.00} for XX/XX/XXXX XXXX"
+}

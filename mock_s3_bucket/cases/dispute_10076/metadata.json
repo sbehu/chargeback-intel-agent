@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10076",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "7960"
+  },
+  "timeline": {
+    "transaction_date": "2026-01-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43602,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank regarding a recently opened credit card account ending in XXXX. This application was submitted based on a specific marketing offer for a 0 % APR balance transfer. \nHowever, after the account was approved and a hard inquiry was placed on my credit report, I was informed by Citibank that internal balance transfers ( from another Citi account ) are prohibited. \nLegal Basis for Dispute : Failure of Purpose : The \" permissible purpose '' for this credit pull was to obtain a debt consolidation tool. Since Citibank is unable to perform the transfer from my existing Citi account, the product is fundamentally unfit for the purpose for which it was marketed and applied for. \nMutual Mistake : The application was authorized based on the understanding that a transfer was possible. Had Citibanks application systemwhich has access to my existing customer relationshipdisclosed that this specific transfer was ineligible prior to the hard pull, I would not have authorized the inquiry.\n\nInadequate Resolution : I contacted Citibanks customer service and reconsideration lines to resolve this by removing the inquiry. I was told they \" were unable to help in any way '' because the card was already approved. This refusal to correct a documented error is unacceptable."
+}

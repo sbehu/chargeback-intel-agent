@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12735",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11217"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26499,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays has responded to my initial complaint but only partially resolved the issue. They reversed some charges but denied the remaining balance of {$450.00} based on the same false premise that \" the card was in my possession. '' Fact : All charges were on the SAME replacement card that was mailed to me and never received. It is logically impossible for me to have possessed the card for the approved charges but not the denied ones.\n\nAction Taken : I have sent a formal Supplemental Appeal Letter via Certified Mail to Barclays ' Executive Office demanding full reversal of the remaining {$450.00}. I am requesting the CFPB to intervene and ensure Barclays applies consistent logic to all transactions on the compromised card. \nAwaiting Barclays ' response to the supplemental appeal."
+}

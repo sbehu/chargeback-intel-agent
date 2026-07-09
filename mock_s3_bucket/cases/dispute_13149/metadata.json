@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13149",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30432,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> : Lunch purchase at XXXX XXXX 's in XXXX, TX. XXXX was {$13.00}, {$2.00} tip added to total {$16.00}. ( * Server changed tip amount to make total bill $ XXXX fraud but I am not pursuing {$2.00} ). \nXX/XX/year> : Reviewed card transactions prior to statement payment. Saw {$43.00} charge from XXXX XXXX 's in addition to a {$18.00} charge same date. Filed dispute via mobile app. \nXX/XX/year> : Notification Citibank completed their investigation. Vendor provided documentation and services were provided therefore unable to support dispute & conditional credit reversed. Downloaded vendor documentation and saw receipt from XXXX 's for {$73.00} ( completely unrelated to dispute ). \nXX/XX/year> : Contacted Citibank 1st time. Told them vendor documentation for another restaurant and amount. Asked if I could submit my receipt. Told no and that investigation still pending. \nXX/XX/year> : Contacted Citibank 2nd time. Still claimed investigation open, and provided email address to submit my receipt once asked. I emailed my receipt that day. \nXX/XX/year> : Notification from Citi that they no longer have any recourse to obtain credit for me since timeframe to resolve dispute had passed. Investigation remains closed. \nXX/XX/year> : Contacted Citibank 3rd time. Spoke with supervisor. She saw the XXXX 's receipt vendor provided as proof and disclosed that even if a vendor provides a blank piece of paper to Citibank they consider the dispute resolved. Advised she would reopen investigation and request conditional credit reapplied to account. Also offered mileage reward. Asked to resend email with receipt and detail out the receipt in body of email. Email send that day. \nXX/XX/year> : Notification from Citibank they had no options available because of previously stated reasons, and any further attempts to resolve dispute needs to be directed to merchant or other form of resolution. \nXX/XX/year> : Contacted Citibank 4th time. Demanded the investigation reopened, conditional credit restored, and my dispute resolved in my favor since I have proof and vendor did not provide. Advised they would submit my request for appeal of the decision and email me. \nXX/XX/year> : To date, no emails, correspondence or online messages have been sent regarding my appeal."
+}

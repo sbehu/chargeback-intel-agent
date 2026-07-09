@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_634",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10019"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14040,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 a SERIES OF UNAUTHORIZED PURCHASES WERE MADE ON MY BEST BUY VISA CREDIT CARD. I GOT IMMEDIATE NOTIFICATION AFTER AN INITIAL CHARGE OF {$1400.00} followed by an unauthorized charge of {$510.00} was made. I immediately contacted Best Buy Visa to close the account as this is my only credit card, which does not have a capability to lock the credit card. \nThe credit card sent me a vague notification on XX/XX/XXXX that they are looking into the on unauthorized purchases. On XX/XX/XXXX, I called up Best Buy Visa credit card to let them know that the unauthorized CHARGES ARE STILL POSTED ON MY CREDIT CARD ACCOUNT AND I HAVE NOT RECEIVED A TEMPORARY CREDIT WHILE THE INVESTIGATION IS TAKING PLACE. THE AGENT MENTIONED THAT A CREDIT WAS POSTED ON XX/XX/XXXX, HOWEVER, I DON'T SEE IT ON MY ACCOUNT. \nIT IS NOW XX/XX/XXXX AND I STILL HAVE THESE UNAUTHORIZED CHARGES ON MY ACCOUNT AND I FEEL THAT BEST BUY VISA CARD IS NOT DOING ENOUGH TO COMPLETE THIS INVESTIGATION RESPONSIBLY AND IN A TIMELY FASHION. They claim that I am not responsible for unauthorized purchases, especially in a credit card that can not be locked to prevent unauthorized transactions. I would really appreciate the collaboration and participation of the consumer financial protection bureau to investigate Best Buy visa and verify that they are fulfilling their responsibility and promise towards these unauthorized transactions. I am happy to furnish any documentation."
+}

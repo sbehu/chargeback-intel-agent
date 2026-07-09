@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5219",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "20721"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29369,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am disputing the charged-off account from [ XXXX XXXX ] on my credit report. The creditor failed to issue a Form 1099-C as required by IRS regulations for canceled or discharged debts over {$600.00}. This raises concerns regarding the accuracy and validity of the reported charge-off. \n\nPer IRS guidelines and case law XXXX XXXX XXXX XXXX XXXX ), failure to issue a 1099-C can indicate the debt was not legally canceled or forgiven, thus making the charge-off reporting potentially inaccurate."
+}

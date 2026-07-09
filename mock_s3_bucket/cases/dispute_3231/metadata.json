@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3231",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TN",
+    "complaint_zip": "XXXXX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4739,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, XX/XX/XXXX and XX/XX/XXXX i was charged by a company located in XXXX XXXX. I Live XXXX of miles away. Each of those 3 unauthorized transactions were {$680.00}. Totaling to {$2000.00}. I tried disputing with my Bank, AMERICAN EXPRESS but they closed my dispute on the reason that they believe i did make those transactions."
+}

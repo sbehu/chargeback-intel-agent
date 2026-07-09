@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11086",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32713"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25868,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Under CFPB Case No. XXXX, Barclays issued a written response dated XX/XX/year> stating that my dispute claim was accepted and that credits totaling {$1000.00} had been issued to my account and would appear on my XX/XX/year> billing statement. \n\nAs of today ( XX/XX/year> ), the credit has not been applied. The {$1000.00} amount remains on my account and continues to accrue interest. I have continued making minimum payments to avoid negative reporting. \n\nOn XX/XX/year>, I spoke with XXXX from the Barclays XXXX of the XXXX. She stated the credit should have already posted and promised to investigate and follow up. No follow-up has been provided and no credit has been applied. \n\nThis complaint concerns Barclays failure to execute its confirmed resolution and failure to provide written clarification despite my request."
+}

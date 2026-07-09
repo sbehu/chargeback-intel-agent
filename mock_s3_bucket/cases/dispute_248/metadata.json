@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_248",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "191XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22294,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, there were 2 charges of {$230.00} from XXXX charged to my Citibank credit card. I immediately called Citibank to report the fraud. They applied credits immediately while it was being investigated they then charged my card back 1 1/XXXX months later. XX/XX/XXXX. I called and they said that I purchased the items and they would not credit my card. I called to speak 8 times with no progress. I found out the XXXX XXXX XXXX  and it was delivered to a different address. So they didnt even investigate."
+}

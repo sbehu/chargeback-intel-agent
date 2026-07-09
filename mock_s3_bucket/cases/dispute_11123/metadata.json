@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11123",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "32303"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14061,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I. Background On XX/XX/year>, I used my Barclays credit card to purchase airline tickets from a merchant identified as XXXX  @ XXXX. Shortly thereafter, issues arose requiring a name correction and ultimately a refund. \nDespite extensive efforts on my part, Barclays failed to properly investigate my billing dispute, reversed a provisional credit without adequate factual review, and relied exclusively on unsupported representations from the merchant. \n\nII. False Information Provided by Merchant Barclays concluded that the merchant was unable to make a name change on the tickets. \nHowever : Both I and my niece independently contacted XXXX. \nXXXX confirmed that the merchant could have initiated the name change. \nThe merchant falsely claimed to have attempted this change. \nThis discrepancy strongly indicates deceptive or fraudulent conduct by the merchant. Barclays did not independently verify these facts with XXXX before denying my dispute.\n\nIII. Refund Withheld Despite Issuance The merchant acknowledged the tickets were refundable. \nXXXX confirmed that it issued a full refund to the merchant. \nThe merchant has refused to transfer the refunded amount to me. \nBarclays accepted the merchants position without investigating whether the merchant retained refunded funds. \nThis constitutes unjust enrichment by the merchant and financial harm to me. \n\nIV. Failure to Conduct Reasonable Investigation Under the Fair Credit Billing Act and Regulation Z, Barclays is required to conduct a reasonable investigation of billing disputes. \nBarclays failed to : Contact XXXX to verify refund issuance. \nConfirm whether the merchant impersonated XXXX. \nInvestigate evidence suggesting fraudulent misrepresentation. \nEvaluate documentary evidence I submitted. \nInstead, Barclays relied solely on the merchants assertions. \n\nV. Improper Reversal of Provisional Credit Barclays initially applied a provisional credit during the investigation. That credit was later reversed based solely on the merchants statements. \nNo indication was provided that : Independent verification occurred. \nAirline confirmation was requested. \nFraud indicators were reviewed.\n\nThis reversal caused direct financial hardship.\n\nVI. Procedural and Customer Service Failures Barclays : Required communication via fax and postal mail. \nFailed to provide modern or timely electronic communication options. \nRejected my case based on a deadline allegedly missed while I was out of the country. \nFailed to reconsider despite assurances from representatives. \nProvided delayed and dismissive responses. \nThese procedural barriers materially impaired my ability to present documentation. \n\nVII. Failure to Act in Good Faith Barclays did not : Contact XXXX. \nContact legitimate XXXX to verify impersonation concerns. \nProperly assess evidence of potential fraud. \nThis failure undermines the integrity of its dispute resolution process. \n\nVIII. Harm Suffered Loss of refunded ticket funds.\n\nReversal of provisional credit.\n\nSignificant time expenditure.\n\nEmotional distress and financial hardship.\n\nIX. Other Agencies Contacted I have also contacted : Federal Aviation Administration Federal Bureau of Investigation XXXX XXXX XXXX ( Delaware ) Office of the State Bank Commissioner ( which refuses to respond to snail mail or answer the phone ) XXXX XXXX None have provided meaningful resolution. \n\nI have attached some documents, but I have many more that I can provide."
+}

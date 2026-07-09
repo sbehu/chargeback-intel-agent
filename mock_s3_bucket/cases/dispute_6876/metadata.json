@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6876",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "130XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33785,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX I purchased a XXXX  from XXXX XXXX for {$13000.00} online from their website. They are located at XXXX XXXX XXXX XXXX XXXX XXXX XXXX. On XXXX the package was delivered by XXXX. I signed for the box and went inside to open it, I noticed the security strip was tampered with. I opened the package and the contents were missing. I immediately contacted XXXX, they advised me the merchant has to submit a claim not myself. I contacted XXXX at XXXX XXXX immediately and sent her all the photographs she requested including different angles etc. XXXX told me she filed a police report, a claim with XXXX, and a claim with their insurance company. I have not received a necklace or my money so I disputed the charge with American Express. XXXX is denying any responsibility and American Express isnt giving me my money back. I was scammed by magnolia jewelers and this is fraud. I filed a complaint with the XXXX of XXXX, the XXXX state attorney generals office, the XXXX state governers office, the office of the president of the United States of America, the XXXX mayors office, the FTC. I want justice from XXXX XXXX and American Express. I want my money back, I will not pay for something I didnt Receive. I dont want to have to file XXXX because of them."
+}

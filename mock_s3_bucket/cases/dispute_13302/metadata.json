@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13302",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "85024"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37742,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a XXXX XXXX carbon fiber steering wheel trim from XXXX XXXX on XX/XX/year> for {$290.00}. The company sent me a defective product, and then replaced it with another defective/damaged product and stopped communicating with me. I filed a dispute with Citi Bank, and they failed to conduct a thorough and fair investigation, leaving me out {$290.00} and with a defective/damaged product. \n\nSummary of issue : The original item received was defective ( misaligned/miscut and did not function properly with steering wheel buttons ). \nThe merchant acknowledged the issue and sent a replacement after I returned the original item. \nThe replacement item, received XX/XX/year>, was also defective. It had a broken mounting tab on the back, causing the trim to be misaligned/popping out and not be properly attached. \n\nAttempts to resolve : I contacted the merchant on XX/XX/year>, XXXX, requesting a return and refund, including photos of the defect. \nI followed up again on XX/XX/year>. \nI attempted to call the merchant once on XX/XX/XXXX and twice on XX/XX/XXXX using the phone number listed on their website, XXXX on XX/XX/XXXX, I did get through on XXXX of my calls but was told the number was not correct. This was the same number I had contacted them on for the replacement of the first defective item I received no response to any communication attempt. \n\nImportant clarification : The dispute appears to have been denied because the merchant stated I still have the item. This is correct ; however, I have been unable to return it due to the merchants failure to provide return authorization or instructions despite my multiple outreach attempts. \n\nI remain fully willing to return the defective item upon receiving proper return instructions and a return shipping label. \n\nConclusion : The merchandise is defective, and the merchant has been unresponsive, preventing resolution. Under these circumstances, I am requesting that the charge be reversed. \n\nI can provide : Photos of the defect Copies of all email communications Call attempt details Thank you for your reconsideration."
+}

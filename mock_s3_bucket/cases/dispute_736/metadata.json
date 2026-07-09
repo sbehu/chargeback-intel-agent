@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_736",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98072"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30757,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a motel room through XXXX. After I checked into the motel, I discovered the room was not as represented. \n\nI have detailed the specific complaints in my attachment. \n\nThe room should NOT have been rented due to the deficiencies, and no other acceptable room was offered. I filed a complaint with credit card company, because XXXX and the motel committed FRAUD and misrepresentation. Had the true characteristics of the room been honestly revealed, I would have located a different motel, but it was late when I checked in. XXXX also said no refunds would be granted if a booking was cancelled, for any reason. \n\nI explained the problems thoroughly and accurately in my communication with credit card company, CItibank. The response from XXXX was non responsive to my complaints. XXXX offered boiler plate, general, statements. I doubt anyone even read my complaints. XXXX is an agent of the motel, regardless of who committed the FRAUD."
+}

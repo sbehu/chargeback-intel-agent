@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1367",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2130"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 22466,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/XXXX, I was charged by American Express for services from XXXX, a provider of teeth-straightening aligners, which included a promise of lifetime treatment. However, XXXX filed for XXXX  XXXX bankruptcy on XX/XX/XXXX, and later announced a complete shutdown of all global operations on XX/XX/XXXX. This left numerous customers, including myself, without the promised services and support. \n\nDespite their bankruptcy and shutdown, XXXX has indicated that customers who financed aligners are still expected to continue making monthly payments in full. This situation is particularly distressing as the services for which I have paid can not be completed due to the company 's cessation of operations. \n\nI have attempted to resolve this issue with American Express. However, they have stated their inability to dispute the charge, citing system limitations. The charge I am disputing is directly related to the services that are now impossible to receive, due to XXXX 's business closure."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4734",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92026"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 17637,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was scammed into providing my card information. \n\nI received a message from a XXXX XXXX on XXXX in inviting me to apply to be included in the Marquis Who's Who publication. I looked up the publication and it seemed to be a legit publication. Little did I know at the time the people who contacted me were scammers not with this publication and you don't have to pay to be published in their book. I received a call on XX/XX/XXXX from a XXXX stating she would like to set up an interview with me. She called me on XX/XX/XXXX and interviewed me for XXXX minuets about my career. She them stated that I was approved and to be included in the publication needed to pay. I said I would like to think about it but she said it was a onetime offer and that I had to decide then, she used all kinds of pressure and finally I gave her my card information. After I felt weird about it and looked it up online and apparently it is a known scam. \n\nI had to wait for the transaction to post before I could dispute it so in the meantime, I filed a report with the FTC and the NY Attorney General XXXX XXXX. Once the transaction posted I filed a dispute on XX/XX/XXXX. I then called in on XX/XX/XXXX to ask where I could send the FTC and NY AG 's reports to be added to my case. After speaking with three different areas, I finally got an email and was able to send them copies of the reports I filed with the FTC and the NY AG 's Office. I received a notice this morning my claim was denied. \n\nI called on XX/XX/XXXX and spoke with a XXXX at XXXX. She advised me the transaction was not fraud since I participated, and the claim was denied. I advised her that under Reg E since I was scammed into giving my card information out to a third party that this meets the definition of unauthorized. She said it did not, was not fraud and I was denied. I then asked for all of the supporting documentation, as is my legal right under the Credit Card Act implemented by Reg E, used to make the denial and she said they would not send me that. I then asked to speak to a manager. I was transferred to her supervisor XXXX who stated the same thing. I quoted the CFPBs XXXX guidance on the definition of an unauthorized transaction under Reg E. I told her that I have not received any benefit from the transaction, and I don't know the people who stole my money. She continued to state it was not fraud, that I willingly participated, and I was declined. I then asked her for the supporting decline documentation. She said I would receive a letter. I said that was fine, but I also want any and all documentation used to make the decision as is my right under Reg E, she stated I would only get a letter.\n\nCiti is violating the law and my consumer rights under Reg E by not considering this transaction as unauthorized, properly investigating it as such, by refusing to honor my valid Reg E claim and denying to sending me all supporting documentation.\n\nI was de-frauded/scammed into giving my card information, I have not received any benefit from the transaction and have been scammed out of {$1500.00}, before the holidays. Your attention in this illegal and rights violation matter is greatly appreciated."
+}

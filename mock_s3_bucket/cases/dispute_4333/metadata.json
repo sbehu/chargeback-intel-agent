@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4333",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "076XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47014,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Attention : Consumer Financial Protection Bureau and Office of the President, Barclays XXXX XXXX [ last name undisclosed ] Regrettfully, the one-year-long dispute remains unresolved, despite Barclays statements to the contrary. \n\nThe issue, first reported on XXXX XXXX, XXXX, is an overcharge in the amount {$280.00}. I NEVER claimed that the merchant altered the amount charged on my account, as Barclays incorrectly alleges in its XX/XX/XXXX letter. More than once, I provided Barclays with the merchants own receipt of payment in the amount of {$13000.00}. Barclays, on the other hand, charged my account {$13000.00}. These are and remain the facts. This overcharge by Barclays is what I have been disputing since XX/XX/XXXX. The question is simple and remains : Why does Barclays pay a merchant one amount and charge its client a higher amount? Please explain. \n\nBarclays claims to have resolved the claim in my favor, because it did the following without my authorization : As per the merchant, Barclays contacted the merchant, reversed or cancelled its original XX/XX/XXXX payment to the merchant in the amount of {$13000.00}, and then paid the merchant {$13000.00}. Meanwhile, I had paid Barclays {$13000.00}, as Barclays acknowledges in its XX/XX/XXXX letter. The credit Barclays claims to have provided basically allows for the charge on my account to be {$13000.00} ( what I paid ) instead of Barclays original charge on the account of {$13000.00}. However, since Barclays received {$13000.00} from me and subsequently reversed and paid the merchant about {$13000.00}, Barclays continues to overcharge me. It then suggests that I bring up the matter with the merchant, attempting to distance itself from the dispute. Yet, the unanswered question persists : Why does Barclays pay a merchant one amount and charge its client a higher amount?\n\nDespite Barclays comments regarding foreign exchange, Barclays is still overcharging me {$280.00} and subsequently the merchant is now contacting me and demanding payment of such difference. I reiterate, Barclays is still overcharging me in the amount of {$280.00}, and NO, the dispute was not resolved in my favor. As also explained in my previous complaint, the merchant happens to be my health insurance provider. Thus, Barclays has put my health insurance coverage at risk. \n\nSince I have never been fortunate enough to contact XXXX XXXX nor any of her/his Barclays colleagues via the direct line nor receive return calls within the 48 hours stated on the Barclays recording , I am forced to file this CFPB complaint in further attempt to resolve the matter. \n\nIf customer service is very important to Barclays, as it states in one of its letter, and if it honestly regret [ s ] the hardship it is imposing upon me, as it also expresses in one of its letter, then Barclays will have the respect to fully and honestly answer the questions posed above and return to me the amount of the overcharge. \n\n\nThank you, XXXX XXXX"
+}

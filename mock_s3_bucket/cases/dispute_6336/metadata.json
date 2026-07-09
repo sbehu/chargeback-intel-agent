@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6336",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30180"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6942,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX, I purchased a XXXX XXXX XXXX  AND the installation from Home Depot XXXX. The unit was delivered and they scheduled the installation. One month later, the unit started to malfunction. I called them and the first thing they asked me was if it was the unit or the instlalation that was causing the problem. I asked them how am I supposed to know which one it is? I paid for both through them so they needed to fix it. Instead, they told me that I needed to climb a ladder and push a button but because I'm XXXX and XXXX, I couldn't. I called back several times but I reached one lady with HD Technical assistance who told me that I needed a spring. I then called a repair company who came out and installed a XXXX  and charged me {$600.00} but the issue still persisted. So it wasn't repaired with the instllation of a the XXXX I called back again and they said they couldn't help me because it required me climbing a ladder and pushing the buttons. I occassionally take meds for XXXX so I couldn't climb the ladder. I then called another repairman that came out and charge me {$200.00} just to push the buttons on the unit. It worked for about 15 minutes and stopped working again when he left. That's {$800.00} ADDITIONAL WHEN THE ISSUE WAS THAT THE UNIT  WAS DEFECTIVE IN THE FIRST PLACE. IF THEY HAD HONORED THEIR WARRANTY FOR THE UNIT AND THE INSTALLATION, I WOULDN'T BE OUT OF {$800.00}. FURTHER, WHEN THE HOME DEPOT PERSON TOLD ME TO PULL THE XXXX XXXX, THE DOOR SLAMMED DOWN AND COULDN'T BE CONTROLLED SO NOW THE DOOR IS DAMAGED. ALL HD HAD TO DO WAS HONOR THE WARRANTY AND SENT SOMEONE OUT WHEN I FIRST CALLED AND I WOULDN'T BE OUT OF AN ADDITIONAL {$800.00} AND HAVE A DAMAGED DOOR."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13084",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NV",
+    "complaint_zip": "89108"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 41133,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XXXXThere was a fraud charge from XXXX XXXX for XXXX. They closed my account and later recharged me for XXXX  on my new card Citi (XXXX XXXX XXXX XXXX). They refused to take it off my new card, so I refused to pay them. I called them five times and they said it would be removed today. I called today and they said they refuse to take it off. Thank you, XXXX XXXX XXXX XXXX XXXX"
+}

@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-92632193-US
+Shipment Date:   2026-03-17T00:00:00Z
+Delivery Date:   2026-03-20T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     9602 RIVER AVE, DC, 20003
+============================================================

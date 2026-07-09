@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11432",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "19446"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-02T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10610,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue : Incorrect calculation of American Express Fine Hotels + Resorts ( FHR ) benefit credit after full transaction refund I am filing a complaint regarding an apparent calculation discrepancy in my American Express Fine Hotels + Resorts ( FHR ) benefit credit. \n\nSummary of events : On XX/XX/year>, I made a prepaid FHR booking totaling {$420.00} ( partially paid with Membership Rewards points ). \n\nOn XX/XX/XXXX, I received a {$300.00} XXXX hotel benefit credit. \n\nOn XX/XX/XXXX, the booking was fully canceled, and I received a full refund of {$420.00}. \n\nOn XX/XX/XXXX, American Express reversed only {$100.00} of the {$300.00} credit. \n\nOn the same day, I made a separate {$15.00} eligible transaction and received a corresponding {$15.00} credit. \n\nIssue : American Express currently reports that I have used {$200.00} of my XXXX benefit credit for the XXXX 2026 period. \n\nHowever, this does not appear to reflect my actual eligible spending after the cancellation. The original {$420.00} transaction was fully refunded, meaning the associated {$300.00} credit should not be considered as earned credit tied to valid spending. \n\nMy only completed eligible transaction is {$15.00}, which already received a corresponding credit. \n\nConcern : The calculation provided by American Express is based on \" credits issued minus credits reversed, '' rather than on actual eligible spending after the cancellation. Despite multiple inquiries, American Express has not provided a verifiable explanation of how {$200.00} reflects my final eligible spending. \n\nThe case has been marked as final, and I have been informed that no further breakdown or review is possible."
+}

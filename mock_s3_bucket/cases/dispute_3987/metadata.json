@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3987",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "11417"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33734,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I'm writing to file a complaint that I was not being properly reimbursed for fraudulent charges posted to my Citi XXXX  card. \n\nI applied and was approved for the Citi XXXX  card on XX/XX/year>, a week after I was approved, I noticed XXXX charges totaling {$480.00} on the new card, dated from XX/XX/XXXX to XX/XX/XXXX, all of the transactions occurred before I activated the card. \n\nI called Citi immediately to report these transactions as fraud and were given temporary credits. However, upon checking recently, these investigations were marked as complete by Citi and the temporary credits were all reversed. I have called Citi fraud services at XXXX and they were unable to offer me an explanation or re-open the investigation. \n\nI do not have possession of the credit card, now or when the transactions occurred. I assume the card has been lost or stolen, which made the transactions fraudulent."
+}

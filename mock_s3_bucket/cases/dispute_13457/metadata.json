@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13457",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93063"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 32087,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I inquired and made a Purchase at XXXX for XXXX XXXX. \n\nThey violated state laws I never spoke to the doctor, instead i recieved a precorded message stating his name and that he was licensed in my state, The medication was supposed to be XXXX they shipped XXXX XXXX The medication arrived XXXX it is supposed to follow cold chain logistics when i complained about it they said it was safe at degrees up to XXXX degrees the temperature water boils at. \n\nI asked for replacement of the compromised medication they wanted to charge me an extra {$150.00} dollars for that as a ONE TIME COUTSEY I said no. This was their issue not mine. \n\nI asked for a refund they said no. \n\nI disputed at Citi Bank and the merchant lied to them and said I purchased TICKETS when the dispute department stated that, I challenged that. They still said they sided with the merchant. \n\n\nI purchased XXXX : XXXX is a once-weekly injectable prescription medication used to treat XXXX XXXX XXXX and XXXX XXXX XXXX It functions by XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX \n\nXXXX XXXX"
+}

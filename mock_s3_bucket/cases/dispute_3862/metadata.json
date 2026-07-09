@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3862",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98011"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 3616,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Barclays either accepts fraudulent transactions and passes them on to the consumer, or racks up fraudulent charges themselves - I can not be sure. \n\nOn XX/XX/XXXX, my card was charged for {$130.00} at a XXXX XXXX in XXXX, Illinois. \n\nI reported this transaction as fraudulent as I live across the country and have never been to XXXX, Illinois. \n\nBarclays told me the card was physically swiped, which is not possible because the card never left my physical possession. \n\nBarclays did an investigation and somehow determined the charge was not fraudulent. They will not share how they reached this conclusion with me. \n\nOn XX/XX/XXXX I faxed supporting documentation showing that I was on a business trip to NY on XX/XX/XXXX, nowhere near XXXX Illinois. I also sent my transaction history showing no purchases in XXXX, Illinois other than this fraudulent charge. \n\nBarclays did nothing with this information. On XX/XX/XXXX, I called Barclays, and they promised to investigate my updated information within 30 days. \n\nOn XX/XX/XXXX I received a letter saying Barclays determined the charge is not fraudulent, again with no explanation, and no option for further discussion on the matter."
+}

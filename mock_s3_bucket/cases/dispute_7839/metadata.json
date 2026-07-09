@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7839",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33993"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 33855,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed several transactions on my Wayfair credit card dating back to XXXX. They found in my favor and said the amounts were going to be credited to my account. After several calls they still have not credited my account. Every time I call they say they will credit the money and it would show on my statement in about XXXX  days. Now almost XXXX years after the disputes they still have not done it."
+}

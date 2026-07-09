@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6253",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AZ",
+    "complaint_zip": "850XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 40890,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am reporting Citi Bank and its travel platform ( Citi XXXX XXXX ) for deceptive practices and failure to provide services purchased with both reward points and out-of-pocket funds. \n\nHere is what happened : I redeemed Citi XXXX Points to book XXXX international airline tickets through Citi XXXX. \n\nI paid {$370.00} extra for a Main Cabin upgrade for both passengers. \n\nI also paid for seat selection fees, after being told by Citi XXXX that they would be reimbursed or available for free. \n\nCiti XXXX was unable to assign seats in advance or make any changes to the booking, even though I contacted them repeatedly before the trip. \n\nI have emails showing that I tried resolving the issue before the flight, and was only given vague, unhelpful answers until it was too late. \n\nMy boarding passes show I was placed in Economy class ( World Traveler ), not the Main Cabin service I paid for. \n\nXXXX XXXX told me they could not help me because the tickets were sold through a third-party vendor affiliated with Citi. \n\nI have retained : Citi credit card billing statements with upgrade charges Email threads with Citi XXXX customer service My boarding passes and receipts for seats Citi misled me about what I was purchasing, failed to deliver the promised service, and refused to issue a refund. This is both a violation of fair financial practices and poor customer treatment."
+}

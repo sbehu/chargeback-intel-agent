@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4469",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94306"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 21774,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am writing to formally lodge a complaint regarding an unresolved overcharge on my American Express Platinum card stemming from a transaction with XXXX XXXX XXXX. I am deeply disappointed by American Expresss failure to protect its customers and investigate this matter thoroughly. \n\nOn XX/XX/year>, during my stay at XXXX XXXX XXXX, I was overcharged for a service that a resort representative had explicitly assured me was a complimentary replacement for a service already included in my package. I would never have agreed to the service had I known it would incur an additional charge. However, despite this assurance, I was coerced into paying {$320.00} under the threat that I would not be allowed to leave the island unless I settled the bill. \n\nUnder duress, I signed the bill but included a written statement of my disagreement by clearly noting : \" I do not agree with this bill. '' This was my way of formally documenting my objection at the time of payment. \n\nSince then, I have contacted American Express multiple times, in both XXXX and XX/XX/year>, to dispute the charge. I provided all necessary documentation, explained the coercion involved, and detailed the unethical practices of XXXX XXXX XXXX. Despite this, American Express has refused to investigate my claim adequately. They closed the dispute, stating the merchants response, but failed to provide me with the detailed bill and signature for review. \n\nMore importantly, they ignored the critical detail that I had explicitly written \" I do not agree with this bill '' on the signed document. This omission is unacceptable. If the merchant has altered or omitted this portion of the document in their response, it would constitute a clear case of falsification and demonstrate that the payment was forced under unethical circumstances. \n\nI am seeking assistance from your agency to address this matter, as both XXXX XXXX XXXX and American Express have failed to act in good faith. American Express has disregarded its responsibility to thoroughly investigate this dispute, despite the clear evidence of coercion and my explicit written objection. \n\nRequested Resolution : Reopen the dispute with American Express and require the merchant to provide the original, unaltered bill, including the portion where I explicitly wrote, \" I do not agree with this bill. '' Ensure a thorough investigation into the coercive practices employed by XXXX XXXX XXXX and hold them accountable. \nAdvocate for a refund of {$320.00} and a clear acknowledgment of the unethical conduct by the merchant. \nThank you for your attention to this matter. I believe this is not only a financial issue but also a matter of consumer rights and protection against unethical business practices. \n\nSincerely, XXXX XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXXXXXX Email : XXXX Phone : XXXX"
+}

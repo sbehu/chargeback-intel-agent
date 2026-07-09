@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8399",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "92078"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15875,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Macys credit card company has not adequately addressed nor credited back to our account the fraudulent charges placed onto our card from a card theft fraud which occurred in XX/XX/XXXX. We discovered the fraudulent charges on XX/XX/XXXX and cancelled our card. We have made 3 requests over the past XXXX  months to have charges corrected, but Macys has been unable to credit back the fraudulent charges. Our acct is overdrawn by about XXXX XXXX  ( has never occurred in the history of us having the card prior to fraud ), our credit is being adversely affected and we are still having to pay a monthly amount based on erroneous charges. \n\nWhen we first filed the dispute, the statement and Macys representative both indicated a refund in the amount of over XXXX XXXX ( XX/XX/XXXX statement provided in attachments ). However, later statements now indicate we owe them over $ XXXX. The math is incorrect and XXXX. We should not have to pay for a debt that we did not create. We are the victims of fraud."
+}

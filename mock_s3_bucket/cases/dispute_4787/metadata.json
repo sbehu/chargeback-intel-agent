@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4787",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75063"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4899,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Dear Consumer Financial Protection Bureau, I am filing this complaint against Citi Bank for an unauthorized charge of {$490.00} to my credit card related to a hotel booking I made using Citi 's rewards points portal. Despite multiple attempts to resolve this issue with Citis customer service, the matter remains unresolved, and I have been accused of actions I did not take. \n\nDetails of the Issue : For a XXXX night stay from XX/XX/XXXX- XX/XX/year>, I booked a hotel through Citis rewards portal and selected XXXX points for redemption as payment. \nThe final confirmation page showed the points being redeemed, and I proceeded with the booking based on this confirmation ( screenshot attached ). \nHowever, my credit card was later charged {$490.00} for the same booking, which I neither authorized nor agreed to. \n\nAttempts to Resolve : I contacted Citis customer service multiple times via phone and email to dispute this charge and provide evidence of the points redemption ( screenshot included ). \nCiti acknowledged the issue but provided only XXXX points as compensation, which does not address the core problem of the {$490.00} charge. \nTheir response implied that I may have modified or canceled the points redemption, which is entirely untrue. The transaction was finalized as shown in the attached screenshot.\n\nBackground and Financial Impact : The booking was valued at approximately {$200.00} per night. I proceeded only because the points were shown as the payment method. \nNo reasonable customer would knowingly pay {$500.00} in cash for a booking available for $ XXXX. \nThis error has caused significant financial inconvenience and undermined my trust in Citis rewards system.\n\nRequest for Resolution : I request that Citi Bank : Refund the {$490.00} charged to my credit card. \nDeduct the XXXX points as originally agreed for this booking. \nInvestigate and address any systemic glitches in their rewards portal to prevent similar issues for other customers. \nProvide compensation for the past 2 months of misery. \n\nCiti Banks mishandling of this matter, along with the inadequate resolution offered, has been both frustrating and unacceptable. I have been a loyal customer, paying an annual fee of {$95.00} for this card and accumulating points to use for bookings. However, this experience has turned into a financial and emotional burden. \n\nI hope the CFPB can assist in resolving this issue promptly and ensure Citi Bank honors its obligations to its customers. \n\nThank you for your attention to this matter. \n\nSincerely, XXXX XXXX XXXX XXXX"
+}

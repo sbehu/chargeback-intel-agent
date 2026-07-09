@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10760",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30305"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 37886,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am requesting a chargeback for payments made to XXXX due to misrepresentation and failure to provide the services that were promised at the time of purchase. \n\nI signed up for XXXX based on their explicit representations that I would earn guaranteed returns of 10 % or more per month through their trading system. I was told that profits were guaranteed, which was a key factor in my decision to enroll and make payment. \n\nAfter funding my account, there was no trading activity or account movement for approximately XXXX  days. When I contacted Kronos to ask why nothing was happening, I was told that I needed to deposit additional funds before results would appear. I deposited more money based on this instruction. \n\nAfter adding more funds, my account began losing money. When I raised concerns, XXXX stated that losses were due to bad market conditions, which directly contradicts their earlier claims of guaranteed returns. When I pressed further, they attempted to show proof of profitability, but the amounts shown were only a few dollars and did not reflect the promised performance or returns I was sold. \n\nThe service provided does not match the claims used to sell it. I was induced to pay based on guarantees of profit and consistent high returns, neither of which were delivered. I later discovered that XXXX has been written up for fraud-related issues, specifically for selling investment services while implying guaranteed returns, which further supports my claim of misrepresentation. \n\nBecause the service was materially misrepresented and failed to deliver what was promised, I am requesting that these charges be reversed. \n\nI can provide screenshots, communications, and documentation showing the guarantees made, lack of activity, losses incurred, and misleading explanations if needed. \n\nThank you for your assistance."
+}

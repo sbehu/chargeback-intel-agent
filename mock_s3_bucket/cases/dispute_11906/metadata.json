@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_11906",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "326XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23786,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting a formal complaint regarding an unresolved billing dispute on my Best Buy credit card account issued by Citibank. \n\nAccount Information : Account ending in XXXX Name : XXXX XXXX Disputed Transaction : Date : XXXX/2026 Description : Payment Reversal Reference Number : XXXX Amount : {$1800.00} This payment reversal is disputed as unauthorized, improperly applied, or otherwise invalid. \n\nI previously contacted Citibank through customer service and was informed that payments had allegedly been issued to my bank account ( XXXX XXXX ) to resolve this matter. I was advised that the funds would appear within one to two weeks. As of the date of this complaint, more than 30 days have passed and no such funds have been received. \n\nAdditionally, I was informed that multiple payments may have been issued for the same purpose, which raises concerns about the accuracy of Citibanks accounting and internal records. \n\nI submitted a formal written dispute through Citibanks secure message system. However, I have not received a substantive response. Instead, I have received repeated generic responses directing me back to customer service, which has already been unable to resolve this issue. No investigation has been confirmed, and no documentation has been provided. \n\nRequested Resolution : I am requesting the following : A full investigation of the {$1800.00} payment reversal Written documentation of any payments allegedly issued, including dates, amounts, method of transfer, and trace or confirmation numbers A complete accounting of all related transactions, including charges, credits, reversals, and adjustments Correction of any errors identified Removal of any associated interest or fees related to this disputed amount At this time, Citibank has failed to provide documentation supporting its claim that funds were issued and has failed to meaningfully respond to a formal written dispute. \n\nI am requesting regulatory assistance to ensure this matter is properly investigated and resolved."
+}

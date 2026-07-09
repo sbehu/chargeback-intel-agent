@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6688",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22309"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 2941,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am writing to formally dispute Barclays continued failure to allow access to my credit card account. My account has been restricted for over two months, and I have made repeated attempts by phone to resolve the issue and make my monthly payments. \n\nDespite being willing and able to pay, your phone representatives have offered no solution and continuously transfer or misdirect me without unlocking my account or providing an alternative method of payment. \n\nI consider this a violation of good faith servicing and potentially reportable behavior under consumer protection laws. I am requesting : 1. Immediate restoration of access to my account ; or 2. An alternative method ( mail, phone, in-person, etc. ) to make payment now without penalty.\n\nIf this is not resolved within 3 business days, I will file complaints with the Cons\numer Financial Protection Bureau ( CFPB ), Office of the Comptroller of the Currency ( OCC ), and my State Attorney General.\n\nI will also seek removal of any late fees or cred\nit reporting damage caused by Barclays inaction."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5269",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "IL",
+    "complaint_zip": "60156"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20663,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a formal complaint against Citi Credit Card for failing to properly handle my dispute regarding duplicate charges on my account. \n\nXX/XX/XXXX I purchased airline tickets for my family, and while making the payment, the airlines app ( XXXX ) malfunctioned. Their IT support instructed me to reissue the transaction, which resulted in duplicate charges for each ticket. I disputed all four charges with my credit card company on XX/XX/XXXX. Two were approved, while the other two required additional information. Since the credit card statement itself clearly shows the duplicate charges, I submitted a letter highlighting them. \n\nDespite multiple calls over the past few months ( since XXXX ), where agents repeatedly assured me that the dispute would be reopened, I recently discovered that it was never actually processed. Again today XX/XX/XXXX, I was told it would be reopened, yet I have seen no action. Meanwhile, I am being charged interest on these duplicate charges due to their inaction. \n\nI request an investigation into this matter and assistance in holding Citi Credit Card Company accountable for failing to properly handle my dispute. Please let me know what steps I need to take to escalate this complaint. \nBest regards, XXXX XXXX."
+}

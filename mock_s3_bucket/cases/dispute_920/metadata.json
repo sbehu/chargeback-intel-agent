@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_920",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "30126"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 36691,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This complaint is with American Express. Consumer says that someone sold his phone and made some fraudulent charges on his account. Consumer states that this person made 2 payments on his account. Consumer can only see payments it doesn't give much information. Consumers account was canceled due to these fraudulent charges Consumer has no knowledge of these charges and has not given permission to anyone to make payments or to charge his account. Consumer wants to know why was this many payments charged to his account without being notified."
+}

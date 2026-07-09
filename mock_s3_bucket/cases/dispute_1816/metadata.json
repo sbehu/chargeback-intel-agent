@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1816",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95120"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20320,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made a XXXX XXXX refundable deposit back in XXXX with my American Express XXXX Due to numerous delays, I had decided to cancel my order on XXXX. Upon my cancellation, I noticed the refund never went back to my card. I made numerous attempts to reach out to American Express, they refused to help claiming the transaction is too old. The merchant claims they have issued a refund and won't help any further. I am now stuck and I am out {$100.00} I have attached my original transaction statement and cancellation confirmation for review. \n\nThe merchant sent over some transaction ID claiming refund was issued on XXXX # XXXX"
+}

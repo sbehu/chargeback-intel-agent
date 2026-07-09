@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4967",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "363XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28718,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have a fraudulent charge on my Citi XXXX XXXX XXXX XXXX that I have been trying to get resolved since XX/XX/XXXX. The original charge was {$1800.00} and was made on XXXX XXXX, XXXX. I noticed the fraudulent charge on the next months billing statement and immediately knew it was fraud because I had just paid off the full balance of my account in the amount of {$550.00} on XXXX XXXX, XXXX. Once I noticed the fraudulent charges, I called the number on the back of my card, which was still in my possession, to report them as fraud. \n\nI did receive a correspondence from Citi Retail Services on XXXX XXXX, XXXX with the results of an investigation, which was very unprofessional looking and looked as bogus as the charge that was made on my credit card. Basically, the letter was telling me that I was responsible for the charges. In the meantime, I did my own investigation and followed up with a response letter from what I found out, which I mailed on XXXX XXXX, XXXX. I have yet to hear back from my letter and since that time, I have had phone call after phone call trying to collect on my account. I have asked numerous time for more help with this situation. The last XXXX speaking person that I talked to that said he would help was someone named XXXX in XXXX XXXX. That was on XXXX XXXX, XXXX and I have yet to hear back from him. \n\nMeanwhile, there has been interest and late charges added to the initial amount which not totals over {$2000.00}. \n\nThe charge on my credit card was from a bogus company, with a disconnected phone number, located in a phony town in Kentucky that does not exist. \n\nI would appreciate any help someone could give me with this situation that has been ongoing since XXXX of XXXX. In the meantime, my credit score has taken a tremendous hit for something that I did not authorize and did not receive."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7021",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 42982,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a monitor and XXXX XXXX XXXX on XX/XX/XXXX, initially they both said they would arrive Friday. After work Friday I come home and wait for my packages and don't see any. I contact them and they said both have delivered. The XXXXXXXX XXXX XXXX said that it was in transit on the bestbuy app. Regardless I never got them and contacted bestbuy, their representative XXXX said I would be refunded this was on XX/XX/XXXX. I never got the refund and contacted bestbuy again but this time they said according to the shipper it was delivered and that they would not be refunding me."
+}

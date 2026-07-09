@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6201",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "36067"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5140,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had previously filed a dispute on charges for items not received with citi bank. It's clear that citi bank didn't do any investigation into the the charges or the delivery of items purchased. Home depot informed me to file a dispute with my card company for items not delivered. Over a month later after filing disputes home depot calls me saying they found my order. This is clearly irresponsible handling of dispute on citi banks behalf. This should not go unpunished for not doing a proper investigation into a billing dispute. Other company 's have been punished for the exact same thing and citi bank should not be any different. The included documents will show the actual date order was picked up on XX/XX/XXXX because the order was lost and not received. Order was placed on XXXX of XXXX and citi bank neglected to do a proper investigation into my dispute. Resulting in a automatic denial of my dispute stating \" documentation doesn't support claim ''"
+}

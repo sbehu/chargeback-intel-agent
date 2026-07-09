@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10834",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95973"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11826,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have one CC ( credit card ). From XXXX until XXXX it was with Citicard through XXXX XXXX XXXX. Once in a while, maybe 1-2x every couple of years I might get an invalid charge. I would dispute it without issue. In XXXX I got a large invalid charge and fought them for over a year on the dispute. The company making the charges was unable to be contacted- that was their excuse. From that point, each year I was getting more and more invalid charges with Citibank not addressing any of them. In XXXX I called them and said I wanted to close my card. I paid them over {$2000.00} of a balance of unauthorized charges, which made me angry but since they were uncooperative and I was continuing to get false charges, I just wanted to be done with them. They were asked to close my card and the women said it was closed. I got a new XXXX XXXX from XXXX. I had set up an auto pay through my bank for my CC that always covered the minimum due so that I was not late on payments. This continued and when I saw it on my bank statement I assumed it was for my current CC. At some point, years later, I discovered that the CC payments were going to Citicard- which I thought was closed. I called Citicard and they gave me the run around. They also said they had sent me three new cards since I had had that conversation with them about closing the card because they thought I wanted a new card. I never said that... I wanted to not do business with them. And where were the statements for these new cards? I did not receive any new cards or statements. They said they would stop all charges ( again ) and not issue any new cards. Recently I saw I was still paying them on my statement. I called them again ( which is torture as they string you along for hours making you repeat the situation over and over. They said my balance was now {$4000.00}! ) I have no information as to what is charged, but they read me some of the vendors over the phone and said that companies had been able to roll over previous subscriptions and payments to these new cards they kept sending. Some of those subscriptions I was paying for on my new CC- so double paying. Today I spoke with them and they are saying that if I close the card I can't dispute the payments. But ... if I don't close the card they will continue to allow charges. But they won't get the disputes processed for maybe months. I do not have {$4000.00} to pay them and I don't know how to make this stop. This seems criminal to me. I was paid in full when I stopped my card and have had NO new cards sent to me- if I had I would have called them to reiterate that I have cancelled this account with me. I have no itemized statements to even know what is going on. I have made NO charges on any Citicard CC for years. Please help."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_3724",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "334XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-11-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6502,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I received a text message claiming to be from Florida XXXX, alerting me of a balance due of {$19.00}. I followed the link and paid the stated amount using my Citi AA Advantage Platinum Select credit card, later realizing the transaction appeared suspicious. On the morning of XX/XX/XXXX, at XXXX XXXX, I called Citibank to alert them of the potential fraudulent situation ; at that time, the charge was pending. I was told no action could be taken until the charge posted. Had Citi taken action at this time, the following situation could have been avoided. \n\nOn XX/XX/year>, I checked my account and discovered that my card had been charged {$730.00} in unauthorized charges on the day of XX/XX/XXXX across multiple states where I had not been. At XXXXXXXX XXXX on XX/XX/year>, I promptly reported the fraud and had my card canceled. I opened a dispute for these charges, as Citibank states and markets on multiple places on their website that customers have zero liability for unauthorized use of their credit cards. Later, I discovered despite cancelling my card on the XXXX, an additional unauthorized charge appeared on XX/XX/year>, in the amount of {$30.00} -- again from a location where I had not been nor received any benefit from the charge. This resulted in a total of {$760.00} in unauthorized charges on my card that occurred between the dates of XX/XX/XXXX and XX/XX/year>. \n\nOn Tuesday, XX/XX/year>, at XXXXXXXX XXXX, I checked my Citi credit card account. I noticed that the \" dispute in progress '' flag on the unauthorized charges had been removed. I called Citi for an update on the dispute resolution. It was at this time that Citibank told me that they were denying my dispute, citing that because I likely fell victim to a scam, I was liable. Had I not called, I would not have realized the dispute had been denied as Citi did not provide me with any timely digital communications or updates on the matter. \n\nAccording to the CFPB 's definition of unauthorized use, I did not authorize any of the {$760.00} in unauthorized transactions, nor did I receive any benefit from them. I notified Citibank immediately after suspecting my information had been compromised. Please see attached file demonstrating the unauthorized charges on my account, highlighted in yellow."
+}

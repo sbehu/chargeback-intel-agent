@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12830",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "VA",
+    "complaint_zip": "22079"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7892,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I submitted a billing dispute to Citibank regarding charges totaling {$5400.00} on my Home Depot XXXX  Credit Card account related to nondelivery and delivery-timing issues. \nCitibank acknowledged the dispute on XX/XX/XXXX, stating that the amount would be placed in dispute and that the investigation would be completed within 60 days, with a written resolution to follow. \nOn XX/XX/XXXX, multiple conflicting communications were issued by The Home Depot regarding the same account, including : A notice confirming the dispute remained open and no payment was required A notice stating the dispute was resolved based on a {$1300.00} credit unrelated to the primary dispute A notice continuing to reference ongoing review and dispute procedures On XX/XX/XXXX, I received additional communication stating that credits had been issued and that the investigation was still ongoing.\n\nMost recently, Citibank confirmed that a credit in the amount of {$5400.00} has been applied ; however, they also explicitly stated that the investigation remains incomplete and that they are awaiting a response from the merchant.\n\nCitibank has stated that it is awaiting a response from the merchant ; however, under Regulation Z ( 12 CFR 1026.13 ( c ) ( 2 ) ), a creditor is required to complete its investigation within the statutory timeframe and may not delay resolution indefinitely while awaiting a merchant response.\n\nPursuant to the Fair Credit Billing Act ( 15 U.S.C. 1666 ) and Regulation Z, a creditor is required to resolve a billing dispute within two billing cycles, not to exceed 90 days, from the date the dispute is received.\n\nThe 90-day statutory period began when my dispute was submitted on XX/XX/XXXX, and expired on or about XX/XX/XXXX. As of today, Citibank has not provided a formal written determination and continues to state that the investigation remains incomplete.\n\nIn its response, Citibank stated that it regrets the confusion caused by the XX/XX/XXXX communications but failed to reconcile or explain the multiple contradictory notices issued on that date. These communications simultaneously indicated that the dispute was active, resolved, and under review. Citibank has not clarified which communication reflects the actual status of the dispute, nor has it explained how an unrelated {$1300.00} credit was used to suggest resolution of a separate {$5400.00} dispute. This failure to provide a clear and consistent explanation further demonstrates that no proper investigation or determination has been completed.\n\nThis constitutes a failure to comply with federal law. A creditor may not extend the investigation period beyond 90 days while awaiting a merchant response, nor rely on inconsistent or unexplained communications in lieu of a formal determination.\n\nI previously submitted a complaint regarding this matter, which was closed after Citibank responded ; however, the response did not address the failure to comply with the statutory investigation timeline or provide a valid written determination. I am submitting this complaint to request proper regulatory review of this ongoing compliance issue.\n\nAdditional information provided by consumer : XXXX Consumer stated that the company is going to be Citibank."
+}

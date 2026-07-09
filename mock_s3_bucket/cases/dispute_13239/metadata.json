@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13239",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33705"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18420,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Failure to Investigate Fraudulent Charge / Ignored Certified Documentation Complaint Details : I am filing a complaint against Barclays regarding the handling of a fraudulent charge on my JetBlue credit card account. \n\nI disputed a charge of {$2200.00} from XXXXXXXX XXXX XXXXXXXX for vehicle repair services that were never performed in XXXX of 2026. Immediately after leaving the business, it was clear the repairs had not been completed. When I returned, the business had been shut down and the merchant had disappeared. I called the bank immediately and filed a dispute claim, I also requested a new card incase the merchant were to use my original to continue with fraud. I have photos evidence of police tape around the building and several police vehicles at the scene. \n\nI discovered the individual was operating an illegal chop shop ( multiple locations ) and is under active police investigation for fraud and theft, with multiple victims. I filed a police report and obtained supporting documentation, showing the my case and the many case numbers currently under investigation. \n\nI submitted a formal dispute with extensive evidence via certified mail, including : Several Police report numbers Evidence of criminal investigation Independent mechanic documentation confirming repairs were not completed Transaction receipt photos of business as crime scene and mugshot of owner. \n\nThe certified mail tracking of all of this information confirms Barclays received and signed for this documentation. I had asked that they contact me when they received the information and that request was ignored. \n\nDespite this : My claim was denied based solely on the transaction being face-to-face A representative stated she could not access or locate my submitted documents but continued to state the claim was denied because of face to face transaction ( XX/XX/2026 ) I was later told the dispute was both closed and being escalated, which is contradictory ( XX/XX/2026 ) I attempted to submit documentation through the secure message system, but received repeated errors ( XX/XX/2026 ) This demonstrates a failure to conduct a reasonable investigation and failure to review submitted evidence. \n\nUnder the Fair Credit Billing Act, this dispute qualifies as : Fraud Services not rendered Misrepresentation of services"
+}

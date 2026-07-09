@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1581",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "088XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5641,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XXXX of XXXX  I purchased a portable dishwasher from Wayfair using the Wayfair Citibank Credit card and when the item arrived it was damaged. I contacted Wayfair and they promptly replaced item with XXXX hassle. I purchased an additional warranty from Wayfair for {$32.00}. Upon replacement of the item the warranty for {$32.00} was canceled and should have gone back to my Citibank Wayfair credit card but never did. I contacted Wayfair on multiple occasions and was told to talk to Citibank because they already sent the funds back to Citi. Citi refused to help and told me the only way to resolve this was to open a dispute and use archaic methods of proving to them that I was \" owed '' the refund. Mind you the credit card is part of Wayfair. I don't want to pay to fax or mail them proof I was owed the refund because it doesn't make sense. Wayfair emailed me and advised it was due back to me. The two companies should be able to communicate internally and determine an outcome for me instead of putting me through expensive means of getting money back to me that is mine. I want the credit for the warranty refunded and my balance settled. I have never been late, skipped a payment. They owe me the money back and they need to follow up and take care of it. I've contacted Citi many times through Chat and I only get back AI or Computer Generated messages that tell me how to dispute a transaction. They are stealing from me at this point and need to be held liable."
+}

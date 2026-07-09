@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10055",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WI",
+    "complaint_zip": "53151"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 10866,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I had agreed to a payment plan with dating for courage for {$3000.00} with {$1000.00} a month charge. After 3 charges I got billed a 4th time and even a 5th time. I disputed the charges in XX/XX/year> but lost the dispute in XXXX. I filled another dispute with the credit card company on XX/XX/XXXX providing the email in writing I had that agreed to the payment plan. Despite providing the evidence I still lost the dispute again on XX/XX/XXXX. I had originally filled this case with my state consumer protection in XXXX but they sent me over to you since this is a credit card issue. \n\nThe Company involved here is Citi Bank XXXXXXXX XXXX XXXX XXXX XXXX XXXX XXXXXXXX Phone number XXXX"
+}

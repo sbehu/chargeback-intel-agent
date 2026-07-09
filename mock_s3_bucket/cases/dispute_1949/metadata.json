@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1949",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33705"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 49567,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a dishwasher from XXXX XXXX XXXX on XX/XX/XXXX and never received the correct item that I purchased. A different dishwasher of the same brand name was delivered to me which had a large steel/ silver bar on the bottom that was not on any of the merchant 's website photos when I made the decision to purchase the item. \n\nThe merchant sent me useless replacement parts in an attempt to conceal the silver bar but they did not fix the issue and a contractor I consulted with to modify the machine also told me it could not be done. \n\nI reached out to the merchant multiple times asking for them to allow me to return the incorrect item and refund the charge. However, they continue to insist that the machine they delivered matched their website photos even though it does not. \n\nI enclosed a screenshot of a chat conversation with the merchant that took place on XX/XX/XXXX in which the merchant referred me to the manufacturer when I asked them to return the machine. The purchase was not made through the manufacturer and the manufacturer referred me to merchant XXXX XXXX to resolve the issue."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4433",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MD",
+    "complaint_zip": "21133"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23195,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I was charged on my Citibank card {$480.00} on XX/XX/year> for an unauthorized charge at XXXX grocery. I reported the charge on XX/XX/year> and they said it should be resolved in a few weeks. I received a letter in the mail in XXXX saying they were investigating the issue. I received no calls or letters after that. I did see a note in my statement in XX/XX/year> that the charge was considered valid. I did not receive a letter, email, nor phone call about this. I called in XXXX asking for an explanation of why they said it was valid. They said they would investigate and get back to me. I received no phone calls, emails, or letters about it. I called in XXXX with the same non-result. I called in XXXX and was told it would be reversed within 72 hours. That date was XX/XX/year>. The money was not reversed. I called again on XX/XX/year> and now they say the money was already reversed back. I asked for the person to show me when and where it was reversed. He kept repeating himself and not able to resolve the issue. I sent a letter on XX/XX/XXXX outlining my issues and asking for an explanation. They just sent me an email on XX/XX/year> saying they were again investigating the issue."
+}

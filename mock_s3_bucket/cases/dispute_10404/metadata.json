@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10404",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "GA",
+    "complaint_zip": "303XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44764,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased XXXX XXXX carbon bucket seats from XXXX XXXX of XXXX XXXX on XX/XX/XXXXXXXX  for {$6100.00} using my Citi credit card. The merchant, XXXX XXXX of XXXX XXXX, promised delivery by XX/XX/XXXX, later extended to XX/XX/XXXX, due to various excuses. I repeatedly followed up regarding shipping, tracking information, and additional pictures of the seats, which I requested on XX/XX/XXXX, and every day after that. On XX/XX/XXXX, I informed the merchant that if the seats could not be shipped with tracking by the end of the day, I would require a full refund. \n\nThe merchant never shipped the seats. On XX/XX/XXXX, the merchant provided a screenshot claiming a refund had been issued, but the refund was never completed. XXXX  later confirmed that no refund was processed and initiated an internal investigation against the merchant. Because the merchant pretended to issue a refund and failed to provide the merchandise, I filed a dispute with CitiBank. \n\nI submitted the dispute on XX/XX/XXXXXXXX  and provided all requested evidence on XX/XX/XXXX, including emails, screenshots, and the Bill of Sale, as well as confirmation from XXXX that the refund was never fully completed. Despite this, on XX/XX/XXXX, Citi informed me that the investigation was ruled in favor of the merchant because the merchant claimed I made the purchase, even though I informed Citi that the merchant never delivered the goods. Additionally, CitiBank informed me that the merchant did not provide proof of shipment, proof of tracking, nor did they provide proof of a completed refund. A dispute agent from Citi said that they will consider re-opening the dispute due to no proof of shipment and no proof of tracking, but that it will take 7-10 business days for this re-consideration. \n\nI am seeking assistance from the CFPB because CitiBank has denied my valid dispute even though the merchant, XXXX XXXX, never shipped the seats, falsely claimed a refund, and I provided substantial evidence of these facts."
+}

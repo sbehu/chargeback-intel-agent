@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9090",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "UT",
+    "complaint_zip": "84047"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23581,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I purchased a book promotion service for {$700.00} offered to me through email by XXXX XXXX on XX/XX/25 using my Citibank credit through the online business marketplace, XXXX. Upon purchase from XXXX, I noticed that payment was made to XXXX XXXX of XXXX (!! ) XXXX XXXX said he was a trusted colleague. The contract stated that services would be delivered in 7-10 days, yet were still not delivered after 30 days with prompting. I did not know at this time that XXXX 's policy only allowed unhappy customers to submit claims for services within 5 days, prompting this complaint, since they allow their merchants to deliver services after the time frame necessary to file a complaint if one is needed. I disputed the charge through Citibank who gave me a provisional credit, then reversed the credit because XXXX 's merchant said the services were delivered when they were not. XXXX sent me an email stating chargebacks were not allowed and wanted me to pay them back knowing that my services were never rendered as well. Citibank never asked for documentation from me, but when they reversed the credit and I complained, they gave me an inoperable email address to send proof. After another call without hearing from Citibank for 2 weeks, I was able to send my email documentation confirming services were not rendered. Then they asked for more, so I sent the contract. Then they said I sent it too late. Then they said I didn't respond to them at all. Then they said I had time to stop services if I wanted to. They refuse to offer a credit for this bogus purchase and are using deceptive and inaccurate responses as to why they are unable to help me. I believe that XXXX 's practice of allowing their merchants to deliver services after a 5-day window allowed for disputes is deceptive as well."
+}

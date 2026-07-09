@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12499",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CO",
+    "complaint_zip": "80210"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 30098,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/year> my credit card was \" skimmed ''. I immediately called my credit card company as soon as I knew. They cancelled the card and sent a new one. I told them there was one charge which I did not do. The charge was gotogate for a flight from XXXX XXXX to XXXX for someone with a different name than myself. I've never been to XXXX XXXX nor XXXX. After 2 months, my credit card company decided I did make the charge."
+}

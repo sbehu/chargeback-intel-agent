@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1382",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33322"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 1087,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX I had a hotel reservation. Me and My partner XXXX XXXX was at the hotel for the reservation. The hotel was overbooked and we were stranded in their lobby. The company still charged me for a hotel room that was not available. Not sure if this is bait and switch but at the very least I should be refunded the room. The company refuses to credit us they state if I cancel the reservation it is not refundable. However we did not ever cancel anything, it was overbooked."
+}

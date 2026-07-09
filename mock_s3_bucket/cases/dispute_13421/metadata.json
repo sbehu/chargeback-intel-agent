@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13421",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "2125"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 25286,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "XX/XX/XXXX Reserved two rooms for XXXX XXXX  on my XXXX Credit Card for XXXX XX/XX/XXXX I checked in using my XXXX Rewards card, the hotel manager assured me he would only charge my XXXX card. We stayed at the hotel, there were multiple serious situations including my life being threatened by person in the room next to me when I requested the all-night party cease ( at XXXX XXXX  ), and the smoke filled rooms when I requested nonsmoking ). The listed Room rate was $ XXXX, but the hotel charged {$430.00} on my XXXX card , and an additional {$300.00} on my XXXX card.They refused to provide an itemized receipt. \nXXXX I attempted to work with hotel directly to remove the XXXX charge, no success ( please look up this merchant, he regularly engages in despicable business practices ) XX/XX/XXXX I filed a complaint with XXXX XXXX card based on the hotel not providing a receipt, not providing a nonsmoking room, and the dangerous environment they foster. XXXX denied the dispute. \nXX/XX/XXXX I phoned XXXX , to let them know the merchant charged the full amount on both credit cards, they said they would re-open the case based on additional information ( fraudulent double charging two credit cards ). I immediately uploaded the information and received confirmation it was received. \nXX/XX/XXXX I received a paper letter saying my dispute was outside the permitted timeframe. \nXX/XX/XXXX I called Barclays/XXXX  to explain customer service said they would extend the window, given additional information. I was told they are unable to help."
+}

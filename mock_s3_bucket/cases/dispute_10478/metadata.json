@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10478",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "95008"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-06T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14779,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing this complaint against Citibank for their failure to resolve a billing error for a purchase from XXXX in the amount of {$1800.00} ( Dispute # XXXX ). \nOn XX/XX/year>, I purchased a table that arrived with a fundamental manufacturing mismatch ( incompatible parts ). On XX/XX/year>, the merchant authorized a return and arranged for their own carrier, XXXX XXXX XXXX XXXX to pick up the item. \nThe item was picked up on XX/XX/year>, and delivered to the merchants facility in XXXX, CA on XX/XX/year> ( XXXX XXXX # XXXX ). The shipment was signed for by \" RECYCLED '' at the merchants location. \nCitibank has denied my dispute twice, stating that \" the merchant will not honor the request. '' This is a violation of the Fair Credit Billing Act ( 15 U.S.C. 1666 ). Under the FCBA, a \" billing error '' occurs when a creditor fails to reflect a credit for goods that were not accepted or were returned according to the merchants instructions.\n\nCitibank is allowing the merchant to retain both the full payment of {$1800.00} and the physical merchandise. I have provided carrier-validated proof of delivery to the merchant, which the bank is choosing to ignore.\n\nResolution Requested : I request that Citibank immediately re-open this investigation, review the attached carrier proof of delivery, and make the {$1800.00} credit permanent."
+}

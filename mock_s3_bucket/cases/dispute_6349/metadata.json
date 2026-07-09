@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6349",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "275XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 14758,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "To : Consumer Financial Protection Bureau ( CFPB ) Subject : Complaint Against American Express Mishandling of Dispute Over Fraudulent Gift Card Sale Dear CFPB, I am submitting this complaint to formally report American Express for mishandling a dispute involving a fraudulently compromised gift card I purchased using my American Express card. \n\nBackground of the Dispute : On XX/XX/XXXX, I purchased {$500.00} XXXX XXXX gift card at a XXXX XXXX store using my American Express credit card. Upon opening the package, I noticed the following : Tampered Packaging : The cards outer seal appeared cracked, suggesting prior access. \n\nCompromised PIN : The last two digits of the security code were wiped off, making the card unusable. \n\nPhotographic Evidence : I have documented visual proof showing the damaged PIN area. \n\nNon-Functional Product : The card could not be used, and it is clear that the card was tampered with before my purchase. The pin number is only known by the person who tampered the card. Therefore, even though the card has full value, no one other than the tamperer can access and use it. \n\nSteps I Took to Resolve the Issue : I filed a dispute with American Express, submitting all supporting documentation. \n\nAmex denied my claim multiple times, citing that gift card purchases are final. according to the merchant. \n\nI was told there was no recourse, despite never being able to use the product. \n\nIn contrast, I purchased XXXX identical {$500.00} XXXX XXXX gift cards that same dayone with Amex and one with XXXX XXXX. XXXX XXXX immediately supported my claim and made my temporary credit permanent upon reviewing the same evidence. \n\nWhy I Am Filing This Complaint : American Express has refused to : Recognize this as a case of fraud or misrepresentation. \n\nReclassify the dispute ( Ref. XXXX ) under grounds of sale of a defective or tampered product. \n\nOffer transparency about how the dispute was evaluated, despite repeated requests. \n\nThis is not a case of buyers remorse, but a situation where the consumer received a scammed, invalid product. The merchants final sale policy is not applicable when the product was already compromised. \n\nAmexs position appears inconsistent with standard consumer protection expectations and varies sharply from how other financial institutions interpret the law. I believe this represents a failure to protect consumers from gift card fraud and a misapplication of dispute resolution policies. \n\nRequested Resolution : I respectfully request that the CFPB : Investigate how American Express handled this dispute. \n\nRequire a proper review and refund of the {$500.00} fraudulent transaction. \n\nEnsure Amex aligns its consumer protection practices with federal standards, especially in cases of tampered or defective products. \n\nThank you for your attention to this matter. I am prepared to submit all supporting documents and photos upon request."
+}

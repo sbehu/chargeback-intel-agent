@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9028",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "109XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 19075,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Company : Macys  / XXXX Issue : Refund not received after canceled order / Unauthorized retention of funds Order Number : XXXX Date of Order : XX/XX/year> I placed an online order with XXXX on XX/XX/year>. Macys canceled my order immediately after I placed it, without giving any reason. Even though they canceled it instantly, they have still not refunded my money. \n\nI have contacted Macys customer service multiple times. Each time I am placed on long holds, transferred between multiple representatives, and given inconsistent answers. No one takes responsibility, and the refund has never been processed. \n\nMacys has kept my money for an order they themselves canceled, which is unacceptable and financially harmful. This is essentially Macys withholding funds for goods I never received and for a transaction they invalidated. \n\nI am requesting that the CFPB assist in getting Macys to : XXXX. Immediately issue the full refund for Order # XXXX XXXX. Provide confirmation of the refund date 3. Explain why the order was canceled and why the refund was delayed I am also requesting that Macys be reviewed for possible unfair or deceptive business practices, as their handling of this situation shows a complete lack of transparency and accountability."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_2484",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "79904"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-01T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35324,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, someone accessed my information and purchased airline tickets with my credit card. The purchase totaled {$270.00}. Contacted Citibank and attempted to file a fraud alert, however they processed the transaction as a dispute. The merchant responded back defending themselves stating the flight was taken by the fraudster. However, the bank is separating their liabilities from this matter and is not further helping. They said they can not raise this as a fraud claim because I had interacted with the merchant before. This is not an authorized purchase and I raised the pertaining police report as well."
+}

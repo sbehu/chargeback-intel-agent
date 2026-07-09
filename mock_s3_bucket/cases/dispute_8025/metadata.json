@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8025",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "FL",
+    "complaint_zip": "33409"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35246,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On Monday XX/XX/year>, I arrived at XXXX XXXX XXXX XXXX at approximately XXXX on XXXX XXXX XXXX from XXXX XXXX I collected my checked bag and went to the area where the XXXX drivers pickup. I did not have any phone reception outside but I saw a couple of cars with the XXXX logo in the windshield and asked XXXX of them if he could give me a ride home. He said he was there to pick up a group of ladies, but they did not show up, so he would take me home for {$30.00}. This was a bit high due to the size and comfort of his vehicle. I was anxious to return home after my trip, so I said ok. The car was a large XXXX XXXX  with XXXX rows of seats. When we arrived at my home, he took my card, processed it and returned it. I estimate the time of arrival at XXXX. At XXXX I received a message there was a possibly fraudulent transaction on my account. I immediately called Barclays Bank at the number they had provided and explained that the charge was supposed to be for {$30.00} not the {$1000.00} they were stating was charged and that it was therefore definitely fraud. The bank allowed the transaction to be posted to my account rather than rejecting it. They alerted me to the fraudulent activity and then did nothing about it. I reported this to the XXXX XXXX XXXX police department on XX/XX/year>. The case # is XXXX and the XXXX handling the complaint is XXXX XXXX. His number is XXXX. There is no full report yet as the investigation is still open. It seems I was not the only victim of this perpetrator. I live in a gated community and there is a camera at the entrance to the complex. We had to stop and I had to show id to enter. The camera was able to get a picture of the license plate and the driver. The police department is in possession of this information and working the case accordingly. My interactions with Barclays have been nothing short of disastrous. Instead of treating me with empathy and concern, they have gone so far as to accuse me of possibly being involved in this scheme. I am a XXXX XXXX XXXX XXXX  and I would appreciate common courtesy from the institutions I deal with on a daily basis. As a former Bank XXXX, I understand how to treat people. Barclays seems to treat their customers as suspects. This should not be tolerated and customer service training should be provided. I am on a fixed income and this scam is causing me to have sleepless nights. I would appreciate being treated fairly."
+}

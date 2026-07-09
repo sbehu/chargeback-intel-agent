@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_12121",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "PA",
+    "complaint_zip": "194XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43227,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I disputed a {$13000.00} travel charge because no services were rendered. On XX/XX/year>, I was unable to travel due to a government airspace shutdown and the trip did not occur. The hotel provided no stay and no refund, only a restricted credit that is not equivalent. \nI also purchased travel insurance, which has now been formally denied. The XXXX  Insurance Department completed its review and confirmed no benefits are payable, leaving a total loss. \nI requested that Barclays reopen and reclassify the dispute under XXXX Reason Code 4855 ( services not rendered ) based on this new evidence. Barclays has not provided a way to submit additional documentation or confirmed a proper re-review.\n\nNo trip, no service, no refund, and no insurance payout were received. The transaction resulted in zero benefit and should be reversed."
+}

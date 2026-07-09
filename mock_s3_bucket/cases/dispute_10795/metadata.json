@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10795",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "073XX"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-31T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 7007,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This issue has been going on since XX/XX/year>. It started with XXXX and they determine that the transaction is the responsibility of the credit card service After eight months going back-and-forth with them then I went to Citibank NA, which is the financial institution that Macys XXXX XXXX falls under . Despite the merchant, I purchased the clothing from stating in an email that they would reimburse me. Citibank closed my case in favor of the merchant. I went back-and-forth with the open case Clothes case several times. On XX/XX/year>. I submitted a complaint with XXXX XXXX XXXX and XXXX XXXX XXXX, asking for them to open up the case. They open the case up and no one told me that they close the case in XXXX. during this period, they have been charged me interest in late fees despite the fact that the amount of {$780.00} has been in dispute with no resolution. They even went as far as putting a negative mark on my superior credit report. I want to resolve this issue. My chief complaint is that they did not protect me as a consumer utilizing their credit services and despite the merchant and written form via email stating that they would reimburse me Citibank still sign it with them and close the case please help me with a resolution that makes me feel like a protected consumer"
+}

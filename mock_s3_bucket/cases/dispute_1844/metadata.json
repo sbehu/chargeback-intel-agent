@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1844",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "AL",
+    "complaint_zip": "363XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 12611,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I made XXXX purchases for security cameras from XXXX : XX/XX/24 for {$430.00} XX/XX/24 for {$430.00} I returned these cameras because they were obviously used. Initially XXXX was not issuing a credit, despite my attempts to resolve the issue with them. Next I disputed these transactions with my credit card company ( Barclays ). XXXX issued a credit for the XX/XX/24 purchase on XX/XX/24. They did not issue a credit for the XX/XX/24 purchase. \n\nOn XX/XX/24 I received an email from XXXX stating they would tell Barclays to resolve the chargeback for the XX/XX/24 purchase in my favor. Instead Barclays decided that case in XXXXXXXX XXXX favor, and refused to issue the credit. XXXX will not issue a credit, because they honored the chargeback, and told Barclays to resolve it in my favor. \n\nInstead Barclays decided it in XXXXXXXX XXXX favor. So I am not getting the credit, in spite of XXXX agreeing I am entitled to XXXX. I have spent hours on the phone with Barclays to get them to issue the credit on the chargeback. The representative had me on a XXXX way call with XXXX, asking XXXX to issue a credit. XXXX told her they honored the chargeback, so they will not issue a credit. The credit has to come from Barclays. \n\nI have asked multiple times to speak with a supervisor. That request was denied. They claim they will have a supervisor call me back. They either don't call, or they aren't there when I answer the phone ( on the XXXX phone call I received from them ). \n\nAs I am writing this I am on hold with Barclays to get this resolved. FINALLY I got a supervisor. She has promised me the credit. With the run around and incompetence I have endured, I am not confident that I will get the credit. This has been promised to me multiple times."
+}

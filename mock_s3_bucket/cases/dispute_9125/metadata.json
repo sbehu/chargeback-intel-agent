@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9125",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MO",
+    "complaint_zip": "633XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26189,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Issue Summary : I was charged an annual fee on my Best Buy credit card issued by Citi, even though I did not authorize the charge, was not notified about it, and believed the account was fully paid off and inactive. Because I never saw the charge, XXXX then applied late fees of over {$100.00}, which I also never received notice of. \n\nDetails : On XX/XX/year>, Citi charged me a {$49.00} annual fee on a Best Buy credit card that I had opened during a purchase well over a year ago. I fully paid off the card and had not used it since. I was unaware that an annual fee would be charged. \n\nCiti claims they sent an email notification before the annual fee posted, but the message was sent to an old, corrupted email address that I no longer have access to. Because of this, I did not receive any notice about the fee or subsequent late charges. \n\nWhen I contacted Citi in XX/XX/year>, they told me they could only issue a prorated refund of {$34.00} because more than XX/XX/XXXX days had passed. I was told by Citi not to cancel the card yet since it may limit Best Buys ' ability to see the account ( my intent is to cancel the card immediately upon resolving this matter ). Even with the explanation, Citi is still charging me late fees totaling over {$100.00}, which accumulated because I did not know the fee was ever charged. \n\nI am requesting that Best Buy : Refund the full {$49.00} annual fee, and I am requesting that Citi : Remove all late fees that resulted from the fee I did not authorize and was never notified about, and then immediately close the account. \n\nI acted in good faith and contacted them as soon as I became aware of the charges. I am simply asking for a fair resolution, since the charges occurred without proper notice and due to outdated contact information that I did not realize was still linked to the inactive account."
+}

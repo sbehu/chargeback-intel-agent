@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4146",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "90027"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 34702,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, XXXX charged my Barclays credit card over XXXX times with small charges ( $ XXXX ) around XXXX XXXX. I woke up to the array of charges that morning and an alert from Barclays that my card was suspected of fraudulent behavior. I called and confirmed that none of these small charges were made by me. I closed that credit card to have a new one mailed to me, and I placed a hold on my account and contacted XXXX to tell them it was fraudulent. I asked for a call back from XXXX and received nothing. Two months later, Barclays says they investigated and side with XXXX, but I was provided no further information. Then Barclays proceeded to let the merchant charge over {$860.00} worth of charges to my account from the same day that the fraudulent activity occurred. No one is calling me back or providing information, and XXXX won't even allow me to create an account using my email to fight the charges via the merchant. \n\nI have an XXXX XXXX XXXX, have always paid my bills on time and in full, and consider myself one an extremely financially responsible human. It is clear that this was not me."
+}

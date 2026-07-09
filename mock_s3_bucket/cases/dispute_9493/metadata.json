@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9493",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "787XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43472,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I ordered a XXXX XXXX  from XXXX XXXX XXXX for {$180.00} on XX/XX/XXXX. XXXX marked the order as delivered ( without any proof of delivery ) but it was not delivered. I called XXXX same day to report it missing and was told to call back after 48 hours. I called back after that time and was told to reorder the XXXX  and I would be credited for the missing delivery. I did that on XX/XX/XXXX, paid for the exact same suit and had the new suit sent to a XXXX store to ensure receipt of the second suit. In addition I disputed the charge with my XXXX credit card. \n\nThe original XXXX  never showed up. It was either delivered to the wrong address or stolen by XXXX. I did everything promptly to inform XXXX of the missing order. \n\nNow, on XX/XX/XXXX I receive notice that my claim is denied by XXXX/Barclays/XXXX XXXX Credit Card . I called XXXX again and was told theres nothing they can do since its past 30 days. \n\nThe original suit was never received. I should be credited for the {$180.00} I was promised for merchandise never delivered. I have been a cardholder with XXXX XXXX for 20 years. This is the first dispute Ive filed and they have completely mishandled this."
+}

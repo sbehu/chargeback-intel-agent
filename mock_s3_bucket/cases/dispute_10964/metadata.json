@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10964",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "KS",
+    "complaint_zip": "672XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 43302,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I bought XXXX first class tickets to XXXX for XXXX. Months ahead of time on XX/XX/year> to be used on XX/XX/XXXX. When we went to fly on XX/XX/XXXX after being delayed for a few hours, our flight was cancelled. I called XXXX XXXX and they rerouted us and downgraded our flights to economy. I was told that we would be reimbursed the difference automatically. This never happened. I sent multiple emails to XXXX XXXX and at first they gave me XXXX worth of miles. When I disputed that, they gave XXXX XXXX credit and told me that was all that they would give me. Now the credit card is telling me that I am outside the 120 day window, but I am not because the service was for XX/XX/XXXX and XXXX. I am attaching the XXXX dispute that I sent to the card company."
+}

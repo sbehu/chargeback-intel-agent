@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5982",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "WA",
+    "complaint_zip": "98502"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 9849,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I received a letter from Citi regarding an issue with an account ending in 4 # s I didn't recognize, Concerned, I immediately called Citi to report this discrepancy and seek clarification. The answer I received was a misclarification and it had already been taken care of. Then 5 weeks later I got a letter from Citi Bank stating that they had attempted to electronically recover funds, it was my grandson 's account and XXXX denied access and Citi wanted me to go to my bank I guess to say it was ok. I don't know I never got a straight answer.I have reached out to Citi Numerous times with no clear reason. This month I got my Citi statement and after noticing a {$730.00} charge on my current card I contacted customer service and the fraud dept, I have made numerous attempts to retrieve any relevant correspondence, but they have been unable to explain the charge or locate the letter they previously sent. I have reached out many times and at this point, I don't know what else to do I have gone to my bank and they see nothing in the records If you need more info please reach out I will attach the statement that the pre-purchase charge is on also it is XXXX different amounts on the cover statement it's {$730.00} and the Account summary sheet its {$760.00} plus XXXX in interest. My Account with Citi has been close for a year so I do not have a credit card # just the last four digits of the account which is XXXX I have asked them to send me my card # and they will not"
+}

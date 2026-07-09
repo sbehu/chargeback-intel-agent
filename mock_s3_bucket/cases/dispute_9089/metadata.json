@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9089",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "270XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-08T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20375,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am submitting this formal complaint with Citi Bank. I purchased a {$2600.00} ticket on XX/XX/year> for a XX/XX/year> flight on XXXX XXXX. I disputed a {$260.00} seat fee, and XXXX issued a refund for that fee. However, they cancelled my entire reservation in error. \n\nOn XX/XX/year>, when I called XXXX to confirm my upcoming travel, I was informed that my reservation had been cancelled. I did not cancel my reservation and had every intention of traveling. XXXX cancelled the entire reservation because of the seat fee dispute. A XXXX representative advised me to request a chargeback with Citi. When I contacted Citi, I was told that a second dispute could not be opened because XXXX allows only one dispute per charge. I explained that the seat fee was minor compared to the full reservation being cancelled and that I am still owed {$2300.00}. \n\n\nPlease see my attached letter for full details and documentation. Below is a summary : XXXX Reservation Code : XXXX XXXX Ticket No. : # XXXX Total amount charged : {$2600.00} ( paid by Citi credit card ) Partial chargeback received : {$260.00} for seat fees Balance still owed : {$2300.00} plus interest Issue : Entire reservation cancelled in error by XXXX XXXX ; I never traveled First contact with airline after cancelation : XX/XX/year> Current status : Repeated follow-ups with no refund issued Citi Credit card interest rate : 28.99 %, ongoing due to XXXX delay Consumer note : I am a XXXX XXXX and this was intended as a one-time international trip. I do not reside in XXXX XXXX flight path, and a voucher would be of no use to me. \n\nI respectfully request that the Department investigate this matter and compel Citi to refund the {$2300.00} balance and compensate me for interest accrued as a result of their inaction."
+}

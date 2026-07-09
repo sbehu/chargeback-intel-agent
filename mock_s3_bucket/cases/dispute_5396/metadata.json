@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5396",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "KY",
+    "complaint_zip": "40517"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-04T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 5672,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Several phone attempts toward simple and proper fact giving, sharing and problem stating was repeatedly made to Barclay 's XXXX Rewards via phone connecting ( overly difficult ). As well a signed declaration statement faxed to their fraud department by myself denying relationship of XXXX account applied charges that were abnormal and incorrect. \nThe ridiculous outcome of my phoned-in and faxed-in dispute attempts being repeated to me with Barclay 's sending several like mailings XXXX times ( most recent several days later ), stating the XXXX disputed charges as being not fraudulent after their investigation and the review update ( obvious lacking propers of effort and fact ). Their mailing stating that the fraudulent charges are my responsibility as well associated finance charges and stating delinquency and discrepancy reporting to credit agencies if not paid. \nNo outlined facts of where and how the charges were made or dates included or forwarded to me. It seems to me that bad parts of the company is trying to gain versus proper logic because of some likely bad groups within the company with a bad agenda and against well understood good and common stated business logic? \n\nMy most recent connect with Barclays to problem solve versus abnormal and repeating dispute facts to Barclays was made on ( XXXX ). A case number given as well being politely and considerately informed of case forwarding for review versus the obvious abnormal. \n\nThe applied account charges that were not made in relation to myself and with only loss to myself are : XX/XX/year> XXXX XX/XX/year> XXXX"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5297",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27106"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26317,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Citi Platinum Credit Card is horrible. I have been in a dispute since XX/XX/year>. Even though I received a phone call in XXXX from the Management assuring me that the dispute had been resolved and I did not owe anything I received a bill TODAY, XX/XX/XXXX, With a much increased bill to {$120.00} instead of {$84.00}. When will this nightmare end?"
+}

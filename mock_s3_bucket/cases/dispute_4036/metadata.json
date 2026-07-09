@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4036",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "78752"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 11980,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year> I received an Email stating that there was an attempted charge to my card for {$930.00} and that the email was being sent out due to suspected Fraudulent charges. On the same day, A second charge had gone through to my account for the amount of {$320.00}. Ref # XXXX and Transaction ID # XXXX. \n\nAccording to the charges ; this was made in XXXX TX. I, however, was physically in XXXXXXXX XXXX  at this time and would have been physically unable to purchase anything at any location in XXXX. No one else is authorized to use my card. \n\nI have tried disputing this charge twice, once in XXXX then again in XXXX. I did not authorize this charge."
+}

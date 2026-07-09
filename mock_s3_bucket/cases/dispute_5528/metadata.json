@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5528",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "MA",
+    "complaint_zip": "023XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-11T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 23173,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I reported fraudulent transactions when I saw a balance on this XXXX XXXX XXXX through XXXX XXXX credit monitoring service I have. I called the customer service department listed on the back of the credit card and reported the charges as fraudulent. They issued a temporary provisional credit for all the charges initially totaling XXXX XXXX XXXX. After the investigation they sent me an unsigned form letter indicating the charges are valid because the card was identified as being in your possession and chip card technology was used, which can not be counterfeited. They then reversed the provisional credit and placed the amount due for each purchase back on my account. The dates range from XXXX and possibly before this date as the current statement has a balance forward amount of {$1400.00} and I haven't been able to find the listing of that charge yet in the interest of getting this out to you right away. The account information was still being used until I went online to the XXXX XXXX website and locked the reissued card today ( XX/XX/year> ). The statement balance is {$11000.00} with a computer voice balance of {$11000.00} when you call for the balance. I locked the card today when I got on the website. I have reported this to the local police dept today ( XXXX XXXX, XXXX  ). In addition to this filing with the CFPB I will be filing a report with the MA attorney general 's office. Please help me with this fraud."
+}

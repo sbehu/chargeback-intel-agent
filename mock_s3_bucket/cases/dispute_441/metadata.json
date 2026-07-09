@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_441",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NJ",
+    "complaint_zip": "8005"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-12T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 16515,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "A fraudelent charge was made on my Wayfair Citi Bank card on XX/XX/ for {$200.00}. The purchase was done on-line from a person in XXXX for a gaming chair. I'm XXXX XXXX XXXX and live in XXXX. I did not make this purchase and I alerted Wayfair and Citi Bank. Citi 's Security Operations ook my claim and removed the charges. However, in XXXX, the charge was returned to my card due to the \" lack of information to support my claim ''. This began a barage of phone calls about overdue payment and late charges. I've received several letters letting me know that my credit would be impacted. I've called Citi 's Security Operations several times. Speaking to XXXX, XXXX and XXXX on seperate occasions. All assured me that this was a fraudelent charge and they would personally remove it. This was obviously a scripted response since each said the exact same thing. It is now XXXX  My last letter was dated XXXX saying that they will be reporsting me to the XXXX credit bureaus if I didn't pay the charge and the late fees. How dare they continue this harrassment and extortion. This needs to addressed and other need to know not to sign up for the Wayfair Citi Bank card. My identity was stolen through and on-line purcahse due to their lack of security and they are blaming me. Stay away from this company and their credit cards."
+}

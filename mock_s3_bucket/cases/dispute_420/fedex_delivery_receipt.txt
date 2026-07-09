@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-22726486-US
+Shipment Date:   2025-11-03T00:00:00Z
+Delivery Date:   2025-11-06T00:00:00Z
+Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
+Destination:     2461 WASHINGTON CT, CA, 93117
+============================================================

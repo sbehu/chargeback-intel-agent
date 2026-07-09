@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_1012",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "93035"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 47323,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "New information Fraudulent Charges by XXXX XXXX XXXX XXXX : XX/XX/2023 To : American Express Dispute Resolution Cente Subject : Fraudulent Charges by XXXX XXXX XXXX - Urgent Action Required I am writing to report fraudulent charges on my American Express card for services and products not received or performed by XXXX XXXX XXXX. \n\nPrevious Efforts : In XX/XX/2023, after 7 months, the dentist admitted to not providing a XXXX graft and a yearly membership and claimed I was refunded. \nI was also charged for Gingival irrigation not agreed to or provided and Post op visit a month after Cancellation as I only went in to discuss my outrageous bill XXXX never received any refund from the bill, and American Express has not processed any refund for these items. \nI filed a dispute with American Express for these charges. \nOn XX/XX/2023, I took XXXX XXXX XXXX to small claims court and was awarded the maximum damages allowed in California ( {$10000.00} ) plus court costs. \nThe Judge agreed that this work was never preformed and these charges should imeefiatrl cond off of my bill and be charged back to Merchant! \nI have requested a call back from a supervisor XXXX times by telephone, fax and this site in early XXXX regarding this matter but have not received any response. \n\nCurrent Status : The dentist is delaying the court-ordered payment by postponing it twice and requesting a new trial. \nThe fraudulent charges remain on my American Express account. \n\nAction Required : Immediately charge back the judgement of {$10000.00} and all the additional fraudulent charges over and above that to XXXX XXXX XXXX. \nInvestigate why the previously requested refund for the XXXX graft and yearly membership was not processed including gingival irrigation and post op visit. \nEnsure that all fraudulent charges are removed from my account. \nAdditional Information : You have received documentation supporting my claims, including : Copies of my dental records showing no evidence of the XXXX graft etc. \nCopies of XXXX dental reports by independent dentists. \nProof of the court judgement and award of {$10000.00} XXXX records with the dentist and American Express. \nI am available to provide any further information you XXXX require. \nI urge American Express to take immediate action to address this matter and resolve this issue to my satisfaction. \n\nSincerely, XXXX XXXX"
+}

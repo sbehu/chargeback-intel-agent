@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_106",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "27613"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 20986,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/2023 I used my AmEx card to purchase items online from XXXXXXXX XXXX XXXX XXXX totaling {$680.00}. On XX/XX/2023, I received a package from XXXXXXXX XXXX XXXX  XXXX, but it did not contain the items I ordered. Instead, it contained a lot of packing material, brown packing paper, and a cheap, used, plastic bathtub. I never received the items I ordered. \n\nI immediately phoned XXXX XXXX XXXX XXXX 's customer service number, but it was out of order due to the business closing down. I contacted my mail carrier 's corporate number, and was only provided tracking information. The mail agent said the package was uninsured, and they could not help me as it did not qualify for a claim. They suggested I contact my bank. I then called AmEx for assistance. \n\nAn agent helped me open a dispute for the charge the same day ( XX/XX/XXXX, XXXX days after the original charge ). I later found out, after receiving a denial for my initial dispute, that the agent selected the wrong dispute reason. She selected \" not satisfied with quality of goods/services '' instead of \" goods services not received. '' Another agent helped me re-file with the appropriate reason, since I never received the items. I continued to receive XXXX denial letters from Amex, over the last 4 months. Every time I called in, a different agent from a higher escalation team would reassure me that this would be taken care of, as I should not be responsible for goods not received. Each agent promised the dispute would get escalated to a higher tier, and reviewed by a human, instead of a computer. \n\nI have provided photos of the package and bathtub I received INSTEAD of the baby stroller and gift items I ordered, receipts, unanswered emails to XXXX XXXX XXXX XXXX, a police report, and every other piece of documentation I could to verify I never received my goods. And I keep getting auto denials citing \" all sales were final after XX/XX/XXXX, please contact the merchant. '' I understand that all sales are final, and do not find this reason applicable to my dispute. And as I have told agents several times, I still have no method of contacting the merchant, who has closed down. \n\nBecause AmEx has wasted 4 months of time, between XXXX and XX/XX/2023, intentionally misinformed me of my rights as a consumer, and provided false assurances during several RECORDED phone calls that the charge would be removed, I missed important deadlines and other levels of recourse with filing claims for compensation from XXXX XXXX XXXX XXXX XXXX restructuring firm, insurances, etc. They are holding me liable for charges that I should not be responsible for. I need help getting this {$680.00} charge removed from my statement balance. \n\nI trusted AmEx and their reputation for consumer protection. I elected to use my card for the assurances and protections they claim to provide. Disputes are in place for this very reason, non receipt of goods, and I meet all of the requirements to be eligible for this courtesy. The repeated dispute denial reason that \" all sales are final '' DO NOT apply to this situation, as I am not attempting to return something, I am reporting that I NEVER RECEIVED my items. They have failed me as a loyal customer."
+}

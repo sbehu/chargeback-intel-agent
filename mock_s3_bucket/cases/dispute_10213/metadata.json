@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10213",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "10027"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-05T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6487,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I booked a hotel stay at XXXX XXXX XXXX from XX/XX/2025XX/XX/year> to XX/XX/2025with American Express XXXX card. The hotel is under the \" Fine Hotels and Resort '' ( FHR ) program by Amex, which provides free room upgrade during check-in. During the check-in process, the front desk asked if I would like to have a room upgrade, as part of the FHR benefits. She presented me an XXXX to select the room upgrade I'd like, so I chose one. During the check-out, the manager claimed that the specific room type I selected was not part of the FHR program, and charged me the room upgrade fee. \n\nI asked American Express to dispute the claim, but Amex would not resolve my dispute in my favor."
+}

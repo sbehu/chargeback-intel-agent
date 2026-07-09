@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_7118",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98042"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-14T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 29034,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "The vendor charged my credit card for {$710.00} XXXX XX/XX/year>, but the amount shown in the receipt was {$530.00}. I am unable to reach the vendor by phone, so I filed the dispute with the credit company ( Citi bank ). Citi sent me a request form for information. I filled in the form and sent it back to Citi immediately. But Citi declined my dispute for the reason \" information is incomplete ''. I called Citi, first Citi said the receipt I sent to them is not clear, and second time they said the information I sent to them was overdue. I requested Citi to get charge details from the vendor, but Citi failed to do so. Even worse, Citi started charge me later fee and interest on the dispute amount."
+}

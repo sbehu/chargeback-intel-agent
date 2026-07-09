@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5561",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NY",
+    "complaint_zip": "139XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 4282,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/XXXX, I purchased a XXXX  Mens Classic Fit Shirt from XXXX for {$130.00}. However, I received a slim-fit shirt instead of the classic fit advertised. I noticed this error on XX/XX/XXXX, and immediately initiated the return process. I obtained a return authorization from XXXX and mailed the item on XX/XX/XXXX via XXXX, with delivery confirmed on XX/XX/XXXX. \n\nI promptly responded to XXXX request for documentation ( under Dispute ID XXXX ) by providing proof of the returnincluding the return authorization, USPS tracking information, and photographic evidencedemonstrating that I returned exactly the item I received. Despite this, my Citi account has not been permanently credited with the refund, and the merchant continues to dispute my claim by alleging I returned a different or used item. \n\n*** Resolution Sought : I respectfully request that Citi finalize my dispute in my favor by permanently crediting my account with the full refund amount of {$130.00}, and that the involved parties investigate the merchants conflicting claims."
+}

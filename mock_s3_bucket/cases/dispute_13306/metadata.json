@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_13306",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "33445"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-10T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 27245,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I am filing a complaint regarding a dispute handled by Citibank. \ni disputed charges for merchandise that i purchased on XX/XX/year>. I contacted the merchant to cancel the transaction. I refused delivery multiple times and ddid not accept or use. I made repeated good-faith efforts to return all shipments. \nDespite my refusal, the merchant continued sending additional shipments and did not provide a straightforward return process. \n\nI provided Citibank with a detailed chronology, tracking records showing refused and returned shipments and all communications with the merchant. These records clearly show that I did not accept the merchandise and attempted to return it. \n\nHowever, Citibank ruled in favor of the merchant, relying on proof of shipment and signed documents without properly considering the documented refusal of delivery and repeated return attempts. \n\nI am requesting that Citibank conduct a full reconsideration of this dispute, taking into account the complete record demonstrating that i did not receive or retain the merchandise and that the merchant obstructed the return process."
+}

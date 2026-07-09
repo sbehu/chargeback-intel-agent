@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_8125",
+  "bank_provider": "BARCLAYS BANK DELAWARE",
+  "card_network": "visa",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "FL",
+    "complaint_zip": "329XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-02-20T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 35624,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I contacted Barclays bank credit card and told them that I could not get online anymore. My password was changed. My address was changed. My phone number was changed and I could not get onto to see what was going on or even pay my bill I got a notice that I paid {$400.00} automatic which I never signed up for so I questioned it with no results then I got a notice of {$7000.00} was paid to my credit card that I did not authorize or have the money for when I finally got into my account after they changed everything it took two weeks I found all these charges in XXXX that I have not made and payments from banks I dont have and now theyre being returned and my bill went from 2000 and something over to XXXX and they tell me everything is legit"
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_9166",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "91739"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-09T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 26315,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I was charged {$3900.00} by a merchant ( XXXX ) via a one-click upsell page. I disputed this charge with American Express ( XXXX XXXX ) because the merchant 's 'No Refund ' terms were not disclosed at the point of sale. \n\nThe merchant hid the 'Terms & Conditions ' in a small, generic link in the page footer, far from the purchase button. This violates the 'Clear and Conspicuous ' disclosure standard required by the Truth in Lending Act ( Regulation Z ) for soliciting payments. A consumer can not be bound by contractual terms they were not shown. \n\nI provided American Express with photographic evidence ( a screenshot of the upsell page ) proving the terms were not displayed next to the 'Buy ' button. The merchant did not deny this but argued that I should have 'known ' the policy from prior interactions or that I 'bypassed \" the agreement. \n\nAmerican Express failed to enforce the Fair Credit Billing Act. They ignored the objective evidence of improper disclosure and closed the dispute in the merchant 's favor based on irrelevant character arguments provided by the merchant. They are validating a charge where the terms of sale were hidden, effectively enforcing an illegal contract."
+}

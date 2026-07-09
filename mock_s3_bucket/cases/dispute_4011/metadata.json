@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_4011",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "ME",
+    "complaint_zip": "041XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 38203,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "Back in XX/XX/year> I received a charge on our LL Bean Mastercard for {$230.00}. This was a surprise because our annual subscription was canceled back in XX/XX/year>. A dispute was opened in XXXX. The card company ruled in favor of XXXX who stated the charge was legit. The card company stated we needed to provide the cancelation date. XXXX was called on XX/XX/XXXX. They agreed that we canceled, but wouldn't provide a date and completely shutdown our account. Therefore we couldn't login online to provide a cancelation date. Again card company ruled against us. Their letter has been downloaded. Without cooperation from XXXX  and account access we can not provide the date service ended. Neither company is being helpful in resolving the charge. XXXX XXXX will not protect us from a charge and accepted a general statement that XXXX can charge us. In my opinion this is not proof of a legitimate charge. Also, XXXX canceled our account and has stopped sending us our quarterly packages, so a full annual subscription charge is incorrect. XXXX XXXX is trying to dodge their responsibility to protect cardholders. The attached letter states the cardholder has been ruled against because XXXX XXXX has no recourse to returns charges. This is completely false. Thank you."
+}

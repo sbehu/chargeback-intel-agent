@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6738",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "F29",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "CUSTOMER_MOVE_OR_GIFT",
+    "complaint_state": "CA",
+    "complaint_zip": "92620"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-07T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15649,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "In XX/XX/year>, I used my Citi Visa credit card to purchase an extended car warranty for {$1900.00} from a company called XXXX XXXX XXXX. After the purchase, I made several attempts to contact the company, but they never responded to my calls or messages. \nBy XX/XX/year>, I suspected something was wrong and called Citi to dispute the charge. I dont recall if I was officially transferred to the dispute department, but I was issued a credit, which appeared on my statement the following month. \nIn XX/XX/year>, Citi sent me a letter that I unfortunately missed at the time. When I later reviewed it, I saw that it simply included a copy of my contract with XXXXXXXX XXXX XXXX requested additional information. However, this letter was not relevant to the nature of my complaint I never denied that I made the purchase. The issue was that the company failed to provide the promised services and appeared to be a scam. \nAt the time of my original dispute, XXXX was still technically in business. However, soon afterward, I discovered the company had shut down and was confirmed to be fraudulent. Despite this, Citi failed to successfully resolve the dispute in my favor. They lost the case to a fraudulent business that was actively deceiving customers. \nWhen I contacted Citi again nearly a year later, I was transferred to the dispute department. I explained the situation and provided the new information that the company had shut down and was fraudulent. However, Citi told me they could no longer assist because too much time had passed and I hadnt responded to the XX/XX/year> letter. \nWhy I Believe Citi Mishandled the Case : * Citi failed to properly dispute the charge while the company was still active, losing the case to a business that turned out to be fraudulent.\n\n* I was never informed that a letter requiring a response would be sent, or that failing to reply would result in closing the dispute.\n\n* The letter itself did not directly address the core of my complaint that the company failed to deliver services and did not ask for anything actionable.\n\n* When I later followed up, Citi offered no clear explanation for why my renewed dispute was dismissed.\n\n* The company I paid was later confirmed to be fraudulent, yet Citi has not taken responsibility for mishandling the case at multiple stages.\n\nWhat I Am Seeking : I am requesting that Citi either : * Reopen and properly investigate the dispute in light of new information about the companys fraudulent activity, or * Issue a full refund/credit for the {$1900.00} charge.\n\nI believe Citi did not communicate clearly, failed to handle the dispute responsibly while the merchant was still in business, and is now dismissing my valid concerns based on technicalities. I respectfully ask the CFPB to help facilitate a resolution and assist in recovering my funds.\n\nI have spent hours on the phone explaining this case to Citi representatives, including escalation to their executive office, yet I have not received a clear or consistent answer. One representative told me disputes can only be submitted once, while another said twice. The guidance Ive received has been contradictory, confusing, and dismissive, showing a lack of care and accountability."
+}

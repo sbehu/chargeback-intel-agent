@@ -1,0 +1,9 @@
+============================================================
+                    FEDEX DELIVERY RECEIPT                  
+============================================================
+Tracking Number: FX-68295048-US
+Shipment Date:   2026-03-17T00:00:00Z
+Delivery Date:   2026-04-18T00:00:00Z
+Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
+Destination:     3075 SUMMIT LN, PA, 195XX
+============================================================

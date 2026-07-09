@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_188",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "mastercard",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "CA",
+    "complaint_zip": "94103"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-03T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 15610,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX first. I use my citibank credit card. On my card there is a monthly flex plan. U can by items and pay it off monthly. I order from XXXX and bought items. These r the charges I am disputing. XXXX. After I purchase this items I check my citi credit transaction. When I seen this charges individual charge. Not saying under the flex plan. I thought they were fraud. So I cancel my card. And filed a fraudulent complaints. This is the month of XXXX. After they did the investigation on those charges it turn out they were legit charges. So they reverse XXXX charges on XX/XX/XXXX. But I told they were right. Even tho charges wasn't fraudulent I am also currently paying those charges in my flex monthly plan. So they r trying to recharge for those item that I am currently paying for now. I been calling the last three week. Trying to get them to credit me for those reverse XXXX charges that's under my flex monthly plan. They being literally lying to me saying they r going to credit me those charges. And since they r trying to rebilled me for item I am still paying off. Under the flex plan. Ever time I call I been told that they will credited me those charges. And have not done anything to credit my account back. Which Has made me go over my credit limit. That's is messing up my credit. By being over my credit limit. I am constantly being transferred to department to department. Having to repeat this over and over again. And nothing Been resolved. And my credit report is being affected by those charges. That I am all ready paying for under my monthly flex plan. I can prove this by my documents from my acct."
+}

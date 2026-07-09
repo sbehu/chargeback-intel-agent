@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_5608",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98034"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 28952,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XXXX XXXX XXXX I was in XXXX XXXX. While at a social gathering, I left my bag unattended. Apparently, someone went into my bag and used a card reader to make a fraudulent medical charge using my chip. On XX/XX/XXXX, I noticed the charge and immediately contacted Citibank to report it fraudulent while the charge was still pending. However, around XX/XX/XXXX, I checked the dispute center on their website to see why my account had not been credited and it said \" Your dispute is resolved and no credit has been issued. Customer Responsible. '' I have contacted them multiple times inquiring as to why and I was told it was being escalated and that someone would get back to me. After waiting four weeks for a response, I wrote them a letter stating that if someone did not get back to me regarding this charge, I was going to report it to the CFPB. I received a letter stating they were reopening the inquiry. However, as of XXXX XXXX XXXX, 2 months later, I still have not received a credit and have received no other communication from Citibank regarding this dispute. I did what I was supposed to do reporting the charge as fraudulent the day after it happened. They could have cancelled the charge and not paid it, but they didn't ( apparently ) and now are ( apparently ) holding me responsible for someone stealing my credit card information while I wasn't paying attention. I had no idea anything had been done as all my cards had been put back into my wallet as they were. These people charged every single credit card and debit card I had on me. I had to cancel all of my cards. \n\nI also filed a report on identitytheft.gov and filed a police report with my local police department. \n\nThe letter I sent to Citibank on XX/XX/XXXX, the police report, and the identitytheft.gov report are all attached. Additionally, I am attaching a screen shot of of Citibank 's Fraud & Dispute center showing this item as \" Customer Responsible, '' as well as the XX/XX/XXXX letter from Citi that they were looking into my dispute. But I received no further communication regarding the dispute except what appears on the screen shot I am sending. \n\nThe charge appears on my credit card statement as XXXX XXXX XXXX XXXXXXXX XXXX XXXX XXXX XXXX {$330.00}. ''"
+}

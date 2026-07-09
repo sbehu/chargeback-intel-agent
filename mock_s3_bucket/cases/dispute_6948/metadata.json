@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_6948",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "10.4",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "WA",
+    "complaint_zip": "98166"
+  },
+  "timeline": {
+    "transaction_date": "2025-10-18T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 6717,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "This is regarding dispute XXXX ( which has been going on for nearly 3 months now because American Express XXXX XXXX to me a XXXX customer and didnt believe my evidence ). Now theyve asked the merchant for supporting documents THREE times and gave them constant extensions yet the merchant hasnt provided the en the supporting info and they want to keep it open forever now.\n\nAmerican Express also LIED TO ME AND TOLD ME THE CREDIT WAS PERMANENT ( see screenshots attached ). That is unethical, illegal, and anti consumer. I demand they make the credit permanent as they promised to me in writing several days ago."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_10292",
+  "bank_provider": "CITIBANK, N.A.",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "OH",
+    "complaint_zip": "45215"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-15T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 8287,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "On XX/XX/year>, I used my Citi bank credit card to make a payment to attend the XXXX of XXXX XXXX. The course is partially hybrid, and then there are XXXX in person class days. \n\nStudents received student kits with items in them to help perform a hands-on practicum and demonstration over XXXX. I was missing several key items from my kit that forced me to fall behind in class. Although the missing items were later sent, they arrived too late for me to meet the required deadlines. \n\nIn addition, the curriculum schedule provided to students did not align with the schedule followed by our instructor. This made it difficult to prepare in advance. \n\nI also experienced significant difficulty accessing the school 's online platform. Required instructional videos frequently lagged or were completely inaccessible, preventing me from watching the necessary videos that demonstrated needed for the hands on practicum. I then purchased USB disks with videos on them for {$150.00}, but those materials were never provided. \n\nOur typed-out hands-on practicum instructions were inconsistent to the videos our instructor would play for us in class. This made it difficult to perform certain tasks in the correct order. \n\nDue to the combination of missing materials, inaccessible or delayed instructonal content and inconsistencies in course delivery, I was unable to reasonably use the program as advertised and ultimately withdrew from the course, and did not complete it in its entirety."
+}

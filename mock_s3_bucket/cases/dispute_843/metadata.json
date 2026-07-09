@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_843",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "amex",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "NC",
+    "complaint_zip": "275XX"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-13T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 18749,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I have been a card member for almost 20 years of American Express. In XXXX 2023 I requested a heads start miles advance on two American Express Delta cards that I have. One a Delta Reserve and the Other a Delta Platinum. Both Amex cards. These advance skymiles were to be paid back over the next 6 month period initiated by Amex. Over the course of the 6 months I noticed that Amex did not take all the points that were advanced to me and made XXXX aware as I did not want any issues in being charged back for the miles borrowed and not repaid. This is at which time I was told by a Amex representative that unfortunately the balance of the miles needing to be repaid had to be earned specifically and paid back by each card and couldnt be used in combination. So even though I had more than enough delta sky miles to pay Amex back from purchases on there cards they would not take my miles from a combination of both cards. This is a matter of pure semantics. No consumer would know that they had to use a specific american express card to pay back miles to a specific card only for specifically the amount borrowed on that one card. They are BOTH AMERICAN EXPRESS DELTA CARDS. Money spent on American express, the same card issuer with the same partner XXXX. Now they want to charge me over {$3800.00} to repay them for miles that have been in my account for 6 months, available to them to withdraw, and further will not allow me to dispute the charge. This should not be legal and frivolous acts by creditor. They are saying I owe them approx XXXX miles when I have had over XXXX miles in my account available for withdraw within the 6 month payback period. I have called in at least 6 times on record to escalate the matter to executive office of which there is zero phone number they will give you to handle such matters and totally unacceptable. I will also be reporting this to the banking commission. I spend a XXXX  XXXX dollars a year on my American express cards and this is absurd the amount of time this has taken me to get this situation resolved."
+}

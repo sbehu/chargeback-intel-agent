@@ -1,0 +1,21 @@
+{
+  "case_id": "dispute_278",
+  "bank_provider": "AMERICAN EXPRESS COMPANY",
+  "card_network": "visa",
+  "reason_code": "UA01",
+  "data_quality_audit": "CORRUPT_SOURCE_DATE",
+  "risk_profile": {
+    "address_anomaly_type": "MATCHED_LOCATION",
+    "complaint_state": "TX",
+    "complaint_zip": "75243"
+  },
+  "timeline": {
+    "transaction_date": "2026-03-16T00:00:00Z",
+    "dispute_received_date": "2026-04-15T00:00:00Z"
+  },
+  "transaction_details": {
+    "amount_cents": 44126,
+    "currency": "USD"
+  },
+  "raw_consumer_statement": "I've been encountering numerous issues with Amex recently, primarily concerning duplicate charges for which I am fairly certain Amex is at fault. They have billed me twice for the same transaction, even for transactions from the previous statement that I had already paid off. Despite presenting evidence to Amex and engaging in discussions with numerous representatives, I finally spoke with a supervisor who assured me that she would initiate disputes for these duplicate transactions. However, it has been a month, and the charges are still under investigation. Just a few days ago, I made two new transactions, and yet again, Amex duplicated the charges, billing me for a total of four transactions. I find this situation with Amex extremely frustrating at the moment."
+}
