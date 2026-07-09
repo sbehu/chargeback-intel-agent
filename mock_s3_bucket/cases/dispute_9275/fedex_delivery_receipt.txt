@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-12845748-US
-Shipment Date:   2026-03-18T00:00:00Z
-Delivery Date:   2026-03-25T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8905 SUMMIT AVE, KS, 670XX
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-50180174-US
-Shipment Date:   2026-02-20T00:00:00Z
-Delivery Date:   2026-03-17T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     4540 WASHINGTON DR, VA, 24141
-============================================================

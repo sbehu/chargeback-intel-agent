@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-51330381-US
-Shipment Date:   2026-03-06T00:00:00Z
-Delivery Date:   2026-04-10T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     8104 PINE DR, CA, 95828
-============================================================

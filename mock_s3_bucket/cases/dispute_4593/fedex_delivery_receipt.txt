@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-29698718-US
-Shipment Date:   2025-10-29T00:00:00Z
-Delivery Date:   2025-11-03T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8731 WASHINGTON ST, VA, 22556
-============================================================

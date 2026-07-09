@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-96698850-US
-Shipment Date:   2025-11-06T00:00:00Z
-Delivery Date:   2025-11-11T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     9504 MAPLE ST, FL, 331XX
-============================================================

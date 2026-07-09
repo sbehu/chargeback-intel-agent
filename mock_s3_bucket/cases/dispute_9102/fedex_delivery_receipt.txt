@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-70830077-US
-Shipment Date:   2026-03-18T00:00:00Z
-Delivery Date:   2026-03-20T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     5358 SUMMIT ST, PA, 19380
-============================================================

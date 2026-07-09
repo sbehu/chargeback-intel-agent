@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-67402797-US
-Shipment Date:   2026-03-29T00:00:00Z
-Delivery Date:   2026-03-31T00:00:00Z
-Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
-Destination:     2050 MAPLE DR, WA, 98531
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-44471386-US
-Shipment Date:   2026-03-16T00:00:00Z
-Delivery Date:   2026-03-23T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8013 SUMMIT BLVD, OR, 97504
-============================================================

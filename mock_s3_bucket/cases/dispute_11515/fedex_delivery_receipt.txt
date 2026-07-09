@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-24386682-US
-Shipment Date:   2026-03-08T00:00:00Z
-Delivery Date:   2026-03-12T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     295 SUMMIT AVE, TX, 75038
-============================================================

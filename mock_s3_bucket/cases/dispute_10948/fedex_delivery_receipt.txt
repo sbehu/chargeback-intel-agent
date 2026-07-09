@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-38663862-US
-Shipment Date:   2026-02-17T00:00:00Z
-Delivery Date:   2026-03-05T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     4671 GREENWOOD ST, FL, 33617
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-56223434-US
-Shipment Date:   2025-10-18T00:00:00Z
-Delivery Date:   2025-10-25T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1559 HERITAGE ST, PA, 19104
-============================================================

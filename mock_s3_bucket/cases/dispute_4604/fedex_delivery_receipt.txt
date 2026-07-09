@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-46654885-US
-Shipment Date:   2026-03-15T00:00:00Z
-Delivery Date:   2026-03-22T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2341 HERITAGE ST, MA, 2301
-============================================================

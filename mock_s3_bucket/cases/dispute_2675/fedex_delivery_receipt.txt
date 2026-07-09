@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-60775342-US
-Shipment Date:   2026-03-13T00:00:00Z
-Delivery Date:   2026-03-16T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     9785 SUMMIT ST, TX, 75034
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-13358528-US
-Shipment Date:   2026-03-17T00:00:00Z
-Delivery Date:   2026-04-19T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     4450 OAK ST, LA, 70460
-============================================================

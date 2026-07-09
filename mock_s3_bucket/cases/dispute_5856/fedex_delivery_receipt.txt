@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-33967543-US
-Shipment Date:   2025-11-11T00:00:00Z
-Delivery Date:   2025-11-17T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8081 PINE LN, CA, 90746
-============================================================

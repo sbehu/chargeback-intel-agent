@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-91543037-US
-Shipment Date:   2026-03-05T00:00:00Z
-Delivery Date:   2026-03-12T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     4741 HERITAGE BLVD, CA, 90046
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-23142854-US
-Shipment Date:   2026-03-15T00:00:00Z
-Delivery Date:   2026-03-20T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8808 PINE WAY, SC, 295XX
-============================================================

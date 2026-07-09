@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-67730379-US
-Shipment Date:   2026-03-06T00:00:00Z
-Delivery Date:   2026-04-12T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     8214 WASHINGTON WAY, TX, 77642
-============================================================

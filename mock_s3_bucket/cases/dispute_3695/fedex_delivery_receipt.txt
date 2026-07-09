@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-30710322-US
-Shipment Date:   2026-02-24T00:00:00Z
-Delivery Date:   2026-03-17T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     6838 SUMMIT WAY, IA, 502XX
-============================================================

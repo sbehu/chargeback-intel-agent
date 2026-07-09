@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-56844726-US
-Shipment Date:   2026-03-16T00:00:00Z
-Delivery Date:   2026-04-22T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     5638 SUMMIT WAY, NY, 10710
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-28005825-US
-Shipment Date:   2025-10-19T00:00:00Z
-Delivery Date:   2025-10-24T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1994 HILLSIDE CT, OR, 97229
-============================================================

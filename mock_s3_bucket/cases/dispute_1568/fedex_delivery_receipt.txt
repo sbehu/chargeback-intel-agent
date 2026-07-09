@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-76802961-US
-Shipment Date:   2026-03-13T00:00:00Z
-Delivery Date:   2026-03-17T00:00:00Z
-Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
-Destination:     3493 WASHINGTON LN, FL, 33570
-============================================================

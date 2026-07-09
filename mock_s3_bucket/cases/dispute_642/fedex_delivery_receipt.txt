@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-56699412-US
-Shipment Date:   2026-03-16T00:00:00Z
-Delivery Date:   2026-03-19T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     4356 RIVER LN, GA, 87391
-============================================================

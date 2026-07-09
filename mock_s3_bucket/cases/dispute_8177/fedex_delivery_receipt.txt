@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-11559298-US
-Shipment Date:   2025-11-08T00:00:00Z
-Delivery Date:   2025-11-10T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1654 OAK DR, NC, 282XX
-============================================================

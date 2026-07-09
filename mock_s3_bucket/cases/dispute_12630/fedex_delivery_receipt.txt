@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-18979255-US
-Shipment Date:   2025-10-31T00:00:00Z
-Delivery Date:   2025-11-04T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2979 SUNSET AVE, KS, 67207
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-63639513-US
-Shipment Date:   2026-03-13T00:00:00Z
-Delivery Date:   2026-03-17T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     5543 RIVER ST, NC, 35468
-============================================================

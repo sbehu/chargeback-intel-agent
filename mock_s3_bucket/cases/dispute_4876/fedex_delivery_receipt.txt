@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-39961259-US
-Shipment Date:   2026-03-10T00:00:00Z
-Delivery Date:   2026-04-11T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     9322 RIVER WAY, FL, 336XX
-============================================================

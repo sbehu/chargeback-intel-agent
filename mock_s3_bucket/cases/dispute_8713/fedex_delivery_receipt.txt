@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-67745815-US
-Shipment Date:   2026-02-17T00:00:00Z
-Delivery Date:   2026-03-08T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     1119 MAPLE ST, VA, 225XX
-============================================================

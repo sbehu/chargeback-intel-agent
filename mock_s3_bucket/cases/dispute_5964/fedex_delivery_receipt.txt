@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-46408703-US
-Shipment Date:   2026-03-09T00:00:00Z
-Delivery Date:   2026-03-13T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     4851 SUMMIT LN, IL, 60134
-============================================================

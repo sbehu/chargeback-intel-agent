@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-81517843-US
-Shipment Date:   2025-10-24T00:00:00Z
-Delivery Date:   2025-10-30T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     643 RIVER DR, GA, 30022
-============================================================

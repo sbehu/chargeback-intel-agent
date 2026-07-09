@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-13945645-US
-Shipment Date:   2026-03-07T00:00:00Z
-Delivery Date:   2026-03-12T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8206 MAPLE ST, NY, 140XX
-============================================================

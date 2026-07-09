@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-48996879-US
-Shipment Date:   2026-03-06T00:00:00Z
-Delivery Date:   2026-03-11T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2621 HILLSIDE CT, TX, 78249
-============================================================

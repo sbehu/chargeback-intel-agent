@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-11706990-US
-Shipment Date:   2026-03-15T00:00:00Z
-Delivery Date:   2026-03-17T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1413 MAPLE DR, FL, 33160
-============================================================

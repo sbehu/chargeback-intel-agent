@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-55642571-US
-Shipment Date:   2026-03-07T00:00:00Z
-Delivery Date:   2026-03-12T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     6934 SUNSET ST, OH, 18880
-============================================================

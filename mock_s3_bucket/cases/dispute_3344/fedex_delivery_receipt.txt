@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-62917118-US
-Shipment Date:   2025-11-07T00:00:00Z
-Delivery Date:   2025-11-10T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2794 SUMMIT AVE, IL, 601XX
-============================================================

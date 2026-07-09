@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-93702653-US
-Shipment Date:   2026-02-26T00:00:00Z
-Delivery Date:   2026-03-14T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     4786 SUMMIT DR, AZ, 85308
-============================================================

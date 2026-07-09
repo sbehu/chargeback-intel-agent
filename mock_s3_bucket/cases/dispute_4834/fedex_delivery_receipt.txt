@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-14062859-US
-Shipment Date:   2026-03-04T00:00:00Z
-Delivery Date:   2026-03-11T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8466 RIVER CT, FL, 33177
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-22119310-US
-Shipment Date:   2026-03-12T00:00:00Z
-Delivery Date:   2026-03-19T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1574 HERITAGE DR, CA, 92102
-============================================================

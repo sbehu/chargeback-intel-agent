@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-34669955-US
-Shipment Date:   2026-02-17T00:00:00Z
-Delivery Date:   2026-03-13T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     5655 SUMMIT ST, OH, 29375
-============================================================

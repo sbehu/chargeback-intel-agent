@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-42194843-US
-Shipment Date:   2025-11-16T00:00:00Z
-Delivery Date:   2025-11-22T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1423 WASHINGTON DR, NC, 87830
-============================================================

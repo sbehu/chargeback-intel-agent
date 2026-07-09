@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-15239910-US
-Shipment Date:   2026-03-14T00:00:00Z
-Delivery Date:   2026-03-16T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     5295 GREENWOOD BLVD, FL, 32703
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-32387544-US
-Shipment Date:   2026-03-08T00:00:00Z
-Delivery Date:   2026-03-11T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     547 LINCOLN ST, TX, 87893
-============================================================

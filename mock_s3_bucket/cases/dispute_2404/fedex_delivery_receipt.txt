@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-75091858-US
-Shipment Date:   2025-11-12T00:00:00Z
-Delivery Date:   2025-11-18T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2899 RIVER DR, FL, 33073
-============================================================

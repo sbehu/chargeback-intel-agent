@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-85717175-US
-Shipment Date:   2026-03-18T00:00:00Z
-Delivery Date:   2026-03-20T00:00:00Z
-Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
-Destination:     9371 WASHINGTON CT, PA, 18018
-============================================================

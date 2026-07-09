@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-11228861-US
-Shipment Date:   2026-03-06T00:00:00Z
-Delivery Date:   2026-03-13T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8021 HILLSIDE BLVD, UT, 84103
-============================================================

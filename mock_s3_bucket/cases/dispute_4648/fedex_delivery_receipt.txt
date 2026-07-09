@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-40130336-US
-Shipment Date:   2026-02-08T00:00:00Z
-Delivery Date:   2026-03-04T00:00:00Z
-Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
-Destination:     5928 MAPLE WAY, NC, 28655
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-24293512-US
-Shipment Date:   2026-02-24T00:00:00Z
-Delivery Date:   2026-03-21T00:00:00Z
-Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
-Destination:     5707 SUMMIT CT, NJ, 7087
-============================================================

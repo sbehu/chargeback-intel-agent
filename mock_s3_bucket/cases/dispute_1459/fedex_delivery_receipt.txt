@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-70983516-US
-Shipment Date:   2026-03-15T00:00:00Z
-Delivery Date:   2026-04-20T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     1828 HERITAGE LN, MN, 55304
-============================================================

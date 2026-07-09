@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-34853855-US
-Shipment Date:   2026-02-06T00:00:00Z
-Delivery Date:   2026-02-26T00:00:00Z
-Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
-Destination:     3906 PINE AVE, NC, 283XX
-============================================================

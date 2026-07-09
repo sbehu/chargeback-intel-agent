@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-48132528-US
-Shipment Date:   2026-03-08T00:00:00Z
-Delivery Date:   2026-03-10T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     3280 MAPLE WAY, NM, 87110
-============================================================

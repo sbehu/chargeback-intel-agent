@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-69629909-US
-Shipment Date:   2026-03-13T00:00:00Z
-Delivery Date:   2026-03-15T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     7237 HILLSIDE AVE, NY, 14220
-============================================================

@@ -1,0 +1,12 @@
+.env
+.venv/
+uv.lock
+__pycache__/
+.pytest_cache/
+raw_rulebooks/
+data/
+mock_s3_bucket/
+*.jsonl
+.vscode/
+*.docx
+*.doc

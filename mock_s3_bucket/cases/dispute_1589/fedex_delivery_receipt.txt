@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-89523594-US
-Shipment Date:   2026-02-20T00:00:00Z
-Delivery Date:   2026-03-08T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     5144 MAPLE WAY, CA, 91040
-============================================================

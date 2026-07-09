@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-61713055-US
-Shipment Date:   2026-03-13T00:00:00Z
-Delivery Date:   2026-03-16T00:00:00Z
-Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
-Destination:     7883 MAPLE CT, GA, 30066
-============================================================

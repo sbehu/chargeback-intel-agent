@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-83684635-US
-Shipment Date:   2025-10-28T00:00:00Z
-Delivery Date:   2025-11-02T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     6615 PINE BLVD, TX, 762XX
-============================================================

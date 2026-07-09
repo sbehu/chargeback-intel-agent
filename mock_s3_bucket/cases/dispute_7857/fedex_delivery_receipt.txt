@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-50232284-US
-Shipment Date:   2026-02-21T00:00:00Z
-Delivery Date:   2026-03-16T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     9362 GREENWOOD DR, MD, 212XX
-============================================================

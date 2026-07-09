@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-87540987-US
-Shipment Date:   2026-03-13T00:00:00Z
-Delivery Date:   2026-03-20T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     4204 PINE DR, CA, 94404
-============================================================

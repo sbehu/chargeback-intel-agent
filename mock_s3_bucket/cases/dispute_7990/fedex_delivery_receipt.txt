@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-28000799-US
-Shipment Date:   2026-02-20T00:00:00Z
-Delivery Date:   2026-03-15T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     2729 LINCOLN WAY, CA, 94109
-============================================================

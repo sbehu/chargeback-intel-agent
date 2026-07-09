@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-19169492-US
-Shipment Date:   2025-11-05T00:00:00Z
-Delivery Date:   2025-11-07T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1336 SUNSET CT, FL, 336XX
-============================================================

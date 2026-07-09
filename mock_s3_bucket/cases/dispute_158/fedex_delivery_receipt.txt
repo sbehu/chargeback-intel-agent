@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-85769373-US
-Shipment Date:   2026-03-16T00:00:00Z
-Delivery Date:   2026-03-19T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2514 PINE BLVD, CA, 94539
-============================================================

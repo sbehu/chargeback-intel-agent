@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-57136261-US
-Shipment Date:   2026-03-02T00:00:00Z
-Delivery Date:   2026-04-01T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     416 MAPLE ST, MI, 48603
-============================================================

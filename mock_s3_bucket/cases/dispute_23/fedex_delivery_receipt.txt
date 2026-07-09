@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-85488736-US
-Shipment Date:   2026-03-03T00:00:00Z
-Delivery Date:   2026-03-05T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     4678 PINE LN, CA, 93401
-============================================================

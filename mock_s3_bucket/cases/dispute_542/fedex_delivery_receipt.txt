@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-33971381-US
-Shipment Date:   2026-03-15T00:00:00Z
-Delivery Date:   2026-03-20T00:00:00Z
-Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
-Destination:     1702 SUMMIT DR, CA, 91042
-============================================================

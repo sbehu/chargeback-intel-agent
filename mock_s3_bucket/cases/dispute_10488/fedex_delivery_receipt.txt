@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-72029178-US
-Shipment Date:   2026-02-25T00:00:00Z
-Delivery Date:   2026-03-13T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     6737 PINE CT, AZ, 85233
-============================================================

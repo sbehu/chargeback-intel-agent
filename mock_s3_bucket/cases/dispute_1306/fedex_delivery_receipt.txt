@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-12957497-US
-Shipment Date:   2025-11-14T00:00:00Z
-Delivery Date:   2025-11-19T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     3183 SUMMIT WAY, NY, 10022
-============================================================

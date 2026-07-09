@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-99802114-US
-Shipment Date:   2026-02-25T00:00:00Z
-Delivery Date:   2026-03-22T00:00:00Z
-Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
-Destination:     9027 HERITAGE BLVD, FL, 32713
-============================================================

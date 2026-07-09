@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-69582837-US
-Shipment Date:   2026-03-05T00:00:00Z
-Delivery Date:   2026-03-08T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1023 SUMMIT ST, FL, 33634
-============================================================

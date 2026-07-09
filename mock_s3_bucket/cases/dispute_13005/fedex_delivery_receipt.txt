@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-63678859-US
-Shipment Date:   2026-03-11T00:00:00Z
-Delivery Date:   2026-03-15T00:00:00Z
-Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
-Destination:     9877 HERITAGE BLVD, FL, 32926
-============================================================

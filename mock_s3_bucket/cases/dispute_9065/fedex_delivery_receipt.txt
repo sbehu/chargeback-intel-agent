@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-26016867-US
-Shipment Date:   2026-02-18T00:00:00Z
-Delivery Date:   2026-03-14T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     4649 HERITAGE WAY, SC, 29073
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-95784748-US
-Shipment Date:   2026-02-28T00:00:00Z
-Delivery Date:   2026-03-16T00:00:00Z
-Status:          DELIVERED_DELAYED_TRANSIT / SIGNED BY CUSTOMER
-Destination:     118 HILLSIDE AVE, GA, 30180
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-51463226-US
-Shipment Date:   2025-10-24T00:00:00Z
-Delivery Date:   2025-10-29T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     9858 SUNSET ST, NY, 10014
-============================================================

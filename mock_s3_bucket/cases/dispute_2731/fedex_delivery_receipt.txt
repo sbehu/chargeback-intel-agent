@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-31801832-US
-Shipment Date:   2026-03-09T00:00:00Z
-Delivery Date:   2026-03-14T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     7215 SUNSET ST, NY, 10465
-============================================================

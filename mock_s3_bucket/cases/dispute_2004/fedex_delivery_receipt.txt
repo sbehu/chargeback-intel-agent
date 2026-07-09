@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-56910498-US
-Shipment Date:   2025-10-31T00:00:00Z
-Delivery Date:   2025-11-07T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2777 GREENWOOD LN, FL, 33178
-============================================================

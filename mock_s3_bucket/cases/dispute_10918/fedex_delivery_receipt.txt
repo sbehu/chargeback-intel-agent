@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-62246612-US
-Shipment Date:   2025-11-02T00:00:00Z
-Delivery Date:   2025-11-07T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     4093 SUNSET BLVD, ME, 040XX
-============================================================

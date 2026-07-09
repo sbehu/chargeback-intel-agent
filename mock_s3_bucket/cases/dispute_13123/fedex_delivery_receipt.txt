@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-22399156-US
-Shipment Date:   2025-11-02T00:00:00Z
-Delivery Date:   2025-11-05T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1725 SUMMIT AVE, NJ, 074XX
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-63239094-US
-Shipment Date:   2025-10-21T00:00:00Z
-Delivery Date:   2025-10-23T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     4343 PINE WAY, GA, 30815
-============================================================

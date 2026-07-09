@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-45906389-US
-Shipment Date:   2025-10-21T00:00:00Z
-Delivery Date:   2025-10-27T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     9955 HERITAGE ST, MD, 211XX
-============================================================

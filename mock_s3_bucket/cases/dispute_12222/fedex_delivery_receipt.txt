@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-71424202-US
-Shipment Date:   2025-11-03T00:00:00Z
-Delivery Date:   2025-11-09T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     1132 CEDAR BLVD, OR, 97230
-============================================================

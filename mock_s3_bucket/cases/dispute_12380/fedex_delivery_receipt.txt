@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-96021839-US
-Shipment Date:   2026-02-11T00:00:00Z
-Delivery Date:   2026-03-06T00:00:00Z
-Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
-Destination:     6763 WASHINGTON AVE, CA, 94506
-============================================================

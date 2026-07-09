@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-43356342-US
-Shipment Date:   2026-03-04T00:00:00Z
-Delivery Date:   2026-03-06T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2002 HERITAGE ST, PA, 26584
-============================================================

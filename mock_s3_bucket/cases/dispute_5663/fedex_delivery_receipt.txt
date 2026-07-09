@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-82301803-US
-Shipment Date:   2026-03-15T00:00:00Z
-Delivery Date:   2026-04-24T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     6864 OAK CT, CA, 90024
-============================================================

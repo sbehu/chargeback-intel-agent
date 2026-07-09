@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-42337821-US
-Shipment Date:   2025-11-06T00:00:00Z
-Delivery Date:   2025-11-12T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     3054 HILLSIDE LN, GA, 30066
-============================================================

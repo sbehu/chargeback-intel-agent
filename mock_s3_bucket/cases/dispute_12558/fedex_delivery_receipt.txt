@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-76960544-US
-Shipment Date:   2025-11-17T00:00:00Z
-Delivery Date:   2025-11-19T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     7738 HILLSIDE ST, MA, 024XX
-============================================================

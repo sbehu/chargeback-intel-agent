@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-66136822-US
-Shipment Date:   2026-03-14T00:00:00Z
-Delivery Date:   2026-04-23T00:00:00Z
-Status:          LOST_IN_TRANSIT / SIGNED BY CUSTOMER
-Destination:     4965 OAK LN, VA, 233XX
-============================================================

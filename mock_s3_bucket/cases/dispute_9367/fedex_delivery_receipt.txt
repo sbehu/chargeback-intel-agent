@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-23272928-US
-Shipment Date:   2026-03-12T00:00:00Z
-Delivery Date:   2026-03-31T00:00:00Z
-Status:          DELIVERED_COMPOUND_DELAY / SIGNED BY CUSTOMER
-Destination:     381 SUNSET DR, PA, 81549
-============================================================

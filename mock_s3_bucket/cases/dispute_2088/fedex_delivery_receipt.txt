@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-77978872-US
-Shipment Date:   2025-11-14T00:00:00Z
-Delivery Date:   2025-11-16T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     2677 WASHINGTON BLVD, WI, 548XX
-============================================================

@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-59667812-US
-Shipment Date:   2026-03-13T00:00:00Z
-Delivery Date:   2026-03-18T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8255 RIVER WAY, DC, 20001
-============================================================

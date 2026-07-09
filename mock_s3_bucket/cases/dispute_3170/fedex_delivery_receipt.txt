@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-61753061-US
-Shipment Date:   2025-10-28T00:00:00Z
-Delivery Date:   2025-11-01T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8958 GREENWOOD WAY, MD, 20850
-============================================================

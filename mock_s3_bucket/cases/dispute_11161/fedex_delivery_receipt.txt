@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-99236256-US
-Shipment Date:   2026-03-05T00:00:00Z
-Delivery Date:   2026-03-09T00:00:00Z
-Status:          DELIVERED_ON_TIME / SIGNED BY CUSTOMER
-Destination:     8135 MAPLE CT, CO, 80524
-============================================================

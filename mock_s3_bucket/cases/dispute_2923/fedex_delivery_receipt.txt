@@ -1,9 +1,0 @@
-============================================================
-                    FEDEX DELIVERY RECEIPT                  
-============================================================
-Tracking Number: FX-23365770-US
-Shipment Date:   2026-03-23T00:00:00Z
-Delivery Date:   2026-03-29T00:00:00Z
-Status:          DELIVERED_DELAYED_FULFILLMENT / SIGNED BY CUSTOMER
-Destination:     4797 LINCOLN CT, MD, 20850
-============================================================
