@@ -35,4 +35,4 @@ jobs:
 
     - name: Force ECS Fargate Deployment Refresh
       run: |
-        aws ecs update-service --cluster chargeback-intel-cluster --service chargeback-agent-service --force-new-deployment
+        aws ecs update-service --cluster chargeback-agent-cluster --service chargeback-agent-service --force-new-deployment
