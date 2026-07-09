@@ -16,5 +16,5 @@ RUN uv sync --frozen --no-cache
 # Step 6: Copy the rest of your agent application code into the container
 COPY . /app
 
-# Step 7: Tell the container exactly what command to run when it boots up on AWS
-CMD ["uv", "run", "orchestrator.py"]
+# Step 7: Tell the container to boot the Streamlit web server persistently
+CMD ["uv", "run", "streamlit", "run", "chargeback-ui/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
