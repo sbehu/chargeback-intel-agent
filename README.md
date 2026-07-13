@@ -146,6 +146,3 @@ Writes to a separate `blind_audit_trail.jsonl`, so it never overwrites the label
 - Retrieval precision (context relevance) improved with header-aware chunking but is not fully solved; Mastercard and Amex rulebooks produced far fewer chunks than Visa (16 and 12 vs. 374) — worth confirming whether this reflects genuinely shorter source documents or a heading-format mismatch with the current parser's regex.
 - Planned: auditing the label heuristic above, tighter metadata taxonomy, refined retrieval window sizing, stricter generation-side grounding constraints on numeric/date claims.
 
-## License
-
-[Add your preferred license here]
