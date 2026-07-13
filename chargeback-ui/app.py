@@ -38,11 +38,15 @@ if "network" not in st.session_state:
     st.session_state.network = "Visa"
 if "agent_output" not in st.session_state:
     st.session_state.agent_output = None
+if "agent_debug" not in st.session_state:
+    st.session_state.agent_debug = None
 
 
 def run_chargeback_orchestrator(narration, card_network):
     """Runs the narrative through the real pipeline: query expansion ->
-    hybrid Pinecone/BM25/FlashRank retrieval -> schema-constrained generation."""
+    hybrid Pinecone/BM25/FlashRank retrieval -> schema-constrained generation.
+    Returns (formatted_output, raw_result_or_None) so the UI can show a
+    debug view of the actual retrieved context alongside the rendered answer."""
     try:
         result = orchestrator.process_live_case(narration, card_network)
 
@@ -57,9 +61,9 @@ def run_chargeback_orchestrator(narration, card_network):
             f"**Resolution Narrative:**\n{result['defense_rationale']}\n\n"
             f"**Evidentiary Requirements:**\n{evidence_list}"
         )
-        return formatted_output
+        return formatted_output, result
     except Exception as e:
-        return f"⚠️ **Backend Execution Error:** {str(e)}"
+        return f"⚠️ **Backend Execution Error:** {str(e)}", None
 
 
 # ==============================================================================
@@ -101,6 +105,7 @@ if submit_btn:
     if not user_prompt.strip():
         st.warning("Please enter transaction or dispute text details before running the evaluation.")
         st.session_state.agent_output = None
+        st.session_state.agent_debug = None
     else:
         # High-performance hard keyword filter to catch out-of-domain strings instantly before LLM costs hit
         domain_keywords = ["charge", "dispute", "fraud", "merchant", "cardholder", "transaction", "billing", "delivery", "refund", "visa", "mastercard", "amex", "american express", "unauthorized", "stolen", "bought", "order", "price", "fee", "purchased", "item", "package"]
@@ -112,9 +117,12 @@ if submit_btn:
                 "SYSTEM VERDICT: REJECTED\n"
                 "Error: The provided narration does not appear to contain relevant transaction dispute metadata or industry vernacular."
             )
+            st.session_state.agent_debug = None
         else:
             with st.spinner("Agent orchestrating retrieval and evaluation pipeline..."):
-                st.session_state.agent_output = run_chargeback_orchestrator(user_prompt, network)
+                formatted, raw = run_chargeback_orchestrator(user_prompt, network)
+                st.session_state.agent_output = formatted
+                st.session_state.agent_debug = raw
 
 # Render data out of cache persistently if it exists
 if st.session_state.agent_output:
@@ -142,3 +150,11 @@ if st.session_state.agent_output:
             st.metric(label="System Verdict", value="REVIEW", delta="Manual Escalation", delta_color="off")
     with d_col:
         st.markdown(st.session_state.agent_output)
+
+    # --- DEBUG: show exactly what retrieval fed into generation ---
+    if st.session_state.agent_debug:
+        with st.expander("🔍 Retrieved Context (debug)"):
+            st.markdown("**Expanded search query sent to Pinecone:**")
+            st.code(st.session_state.agent_debug["enriched_query"], language="text")
+            st.markdown("**Rule context actually retrieved and passed to generation:**")
+            st.code(st.session_state.agent_debug["rule_context"], language="text")
