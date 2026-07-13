@@ -1,7 +1,7 @@
 import os
 import json
 import time
-from datetime import datetime,timezone
+from datetime import datetime, timezone
 from dotenv import load_dotenv
 from openai import OpenAI
 from pinecone import Pinecone
@@ -164,6 +164,10 @@ class ChargebackOrchestrator:
         """
         Generates a dynamic, context-specific chargeback defense strategy anchored strictly 
         to the retrieved rules context using Pydantic structured output constraints.
+
+        Used by the offline evaluation sweep, where the labeled expected_verdict from
+        test_bench.json is known in advance and passed in as part of the judge harness.
+        NOT intended for live/unlabeled cases — see generate_live_strategy() for that.
         """
         response = self.openai_client.beta.chat.completions.parse(
             model="gpt-4o-mini",
@@ -191,14 +195,54 @@ class ChargebackOrchestrator:
             f"RATIONALE: {structured_output.defense_rationale} | "
             f"PROOFS: {', '.join(structured_output.evidentiary_requirements)}"
         )
-        
+
+    def generate_live_strategy(self, raw_narrative, rule_context, network_brand):
+        """
+        Generates a strategy for a live, unlabeled case (no known expected verdict).
+        The model must independently determine CHALLENGE vs ACCEPT from the evidence
+        rather than being told the answer in advance. Returns the structured Pydantic
+        object directly (not the serialized judge-harness string) so callers like the
+        UI can render individual fields.
+        """
+        response = self.openai_client.beta.chat.completions.parse(
+            model="gpt-4o-mini",
+            messages=[
+                {
+                    "role": "system",
+                    "content": (
+                        "You are a rigid banking compliance engine. Based solely on the customer "
+                        "narrative and the retrieved rule context, independently determine whether "
+                        "to CHALLENGE or ACCEPT the dispute. Generate a strategy strictly bounded by "
+                        "the provided context text. Do NOT introduce external timelines, fee "
+                        "structures, or industry protocols unless they are explicitly present in the "
+                        "context text below."
+                    )
+                },
+                {
+                    "role": "user",
+                    "content": f"Narrative: {raw_narrative}\nRules Context: {rule_context}\nNetwork: {network_brand}"
+                }
+            ],
+            response_format=ChargebackStrategySchema,
+            temperature=0.0
+        )
+        return response.choices[0].message.parsed
+
     def retrieve_network_rules(self, enriched_query, network_brand):
         """
         Executes a metadata-filtered, keyword-boosted hybrid vector search re-ranked via a Cross-Encoder window.
         """
         # ⚡ Standardize brand names to match your index metadata tags exactly
-        target_network = "Visa" if "visa" in network_brand.lower() else "Mastercard"
-        
+        network_lower = network_brand.lower()
+        if "visa" in network_lower:
+            target_network = "Visa"
+        elif "mastercard" in network_lower:
+            target_network = "Mastercard"
+        elif "amex" in network_lower or "american express" in network_lower:
+            target_network = "Amex"
+        else:
+            target_network = "Visa"  # safe default; previously silently fell through to Mastercard
+
         query_embedding = self.get_embedding(enriched_query)
         
         # Query Pinecone using sniper pre-filtering
@@ -235,7 +279,24 @@ class ChargebackOrchestrator:
         # Return top 3 context documents as a clean text block
         return " ".join([r["text"] for r in reranked_results[:3]])
 
+    def process_live_case(self, raw_narrative, network_brand):
+        """
+        Runs a single live, unlabeled dispute narrative through the full pipeline:
+        query expansion -> hybrid retrieval -> schema-constrained generation.
+        Intended for interactive use (e.g. the Streamlit UI), not the offline eval sweep.
+        """
+        enriched_query = self._expand_query_domain(raw_narrative, network_brand)
+        rule_context = self.retrieve_network_rules(enriched_query, network_brand)
+        structured_output = self.generate_live_strategy(raw_narrative, rule_context, network_brand)
 
+        return {
+            "enriched_query": enriched_query,
+            "rule_context": rule_context,
+            "verdict": structured_output.verdict,
+            "cited_rule_id": structured_output.cited_rule_id,
+            "defense_rationale": structured_output.defense_rationale,
+            "evidentiary_requirements": structured_output.evidentiary_requirements
+        }
 
     def process_case(self, case_input):
         case_id = str(case_input)
@@ -293,7 +354,6 @@ Agent's Generated Response Strategy:
                 response_format={"type": "json_object"}
             )
             
-            import json
             eval_metrics = json.loads(judge_response.choices[0].message.content)
             
             # ⚡ Capture all 3 variables directly from the dynamic judge keys
@@ -336,11 +396,9 @@ def upload_audit_log_to_s3(local_file_path, bucket_name, s3_key_name):
     """
     print(f"\n[☁️ AWS S3] Initializing cloud backup for {local_file_path}...")
     
-    # Initialize the standard S3 client channel (reads keys from your .env automatically)
     s3_client = boto3.client('s3')
     
     try:
-        # Push the local file to your new Mumbai bucket destination
         s3_client.upload_file(local_file_path, bucket_name, s3_key_name)
         print(f"✅ [☁️ AWS S3] File successfully vaulted! Target URL: s3://{bucket_name}/{s3_key_name}")
     except NoCredentialsError:
@@ -364,13 +422,10 @@ if __name__ == "__main__":
         total_answer_relevance = 0.0
         processed_count = 0
         
-        # Open your production audit log file
         with open(log_output_path, "w", encoding="utf-8") as audit_log:
-            # Sort keys cleanly to follow sequence mapping
             sorted_keys = sorted(orchestrator.test_cases_db.keys(), key=lambda x: int(x) if x.isdigit() else x)
             
             for case_id in sorted_keys:
-                # Process the real case data through your multi-stage blender
                 metrics = orchestrator.process_case(case_id)
                 
                 total_context += metrics["confidence"]
@@ -378,7 +433,6 @@ if __name__ == "__main__":
                 total_answer_relevance += metrics["answer_relevance"]
                 processed_count += 1
                 
-                # Append the execution metrics into your production JSONL tracker
                 log_frame = {
                     "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
                     "case_id": metrics["case_id"],
@@ -394,7 +448,6 @@ if __name__ == "__main__":
                 }
                 audit_log.write(json.dumps(log_frame) + "\n")
                 
-        # Compute true, unmodified macro averages across your 400 cases
         avg_context = total_context / processed_count
         avg_groundedness = total_groundedness / processed_count
         avg_answer = total_answer_relevance / processed_count
@@ -409,21 +462,12 @@ if __name__ == "__main__":
         print(f"📝 Structured Audit File Output    : {log_output_path}")
         print("──────────────────────────────────────────────────\n")
         
-       
-        # ──────────────────────────────────────────────────
-        # NEW: PRODUCTION CLOUD BACKUP STEP
-        # ──────────────────────────────────────────────────
-        import os
-        
-        # EXACT name of the bucket you just created in the Mumbai region
         PRODUCTION_BUCKET = "chargeback-intel-agent-audit-logs" 
         TIMESTAMP = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
         S3_TARGET_KEY = f"eval-runs/audit_trail_{TIMESTAMP}.jsonl"
         
-        # Trigger the cloud vault transmission
         if os.path.exists(log_output_path):
             upload_audit_log_to_s3(log_output_path, PRODUCTION_BUCKET, S3_TARGET_KEY)
-        # ──────────────────────────────────────────────────
         
     else:
         print("⚠️ No test cases located inside test_bench.json. Run sample_generator.py first.")
