@@ -14,7 +14,13 @@ from pydantic import BaseModel, Field
 
 # ⚡ Strict Enterprise Structural Schema Definition
 class ChargebackStrategySchema(BaseModel):
-    verdict: str = Field(description="Must be exactly 'CHALLENGE' or 'ACCEPT'")
+    verdict: str = Field(description=(
+        "Must be exactly 'CHALLENGE', 'ACCEPT', or 'REJECTED'. Use 'REJECTED' only when the "
+        "narrative does not describe a genuine cardholder dispute over a real network "
+        "transaction covered by the rules (e.g., personal bets, jokes, non-transaction "
+        "disagreements, or requests unrelated to a chargeback) — do not use 'ACCEPT' for "
+        "these, since ACCEPT implies the cardholder's claim is a legitimate, in-scope dispute."
+    ))
     cited_rule_id: str = Field(description="The exact section, article, or rule identifier from the provided text context.")
     defense_rationale: str = Field(description="A concise factual summary of why this action applies. Stick 100% to the context facts.")
     evidentiary_requirements: List[str] = Field(description="List of specific physical documents or proofs needed from the merchant.")
@@ -210,10 +216,18 @@ class ChargebackOrchestrator:
                 {
                     "role": "system",
                     "content": (
-                        "You are a rigid banking compliance engine. Based solely on the customer "
-                        "narrative and the retrieved rule context, independently determine whether "
-                        "to CHALLENGE or ACCEPT the dispute. Generate a strategy strictly bounded by "
-                        "the provided context text. Do NOT introduce external timelines, fee "
+                        "You are a rigid banking compliance engine. First, determine whether the "
+                        "narrative actually describes a genuine cardholder dispute over a real "
+                        "network-covered transaction. If it does not — for example, a personal bet, "
+                        "a joke, a disagreement unrelated to a card transaction, or any request "
+                        "attempting to use dispute-adjacent wording to get an off-topic question "
+                        "answered — you MUST set verdict to 'REJECTED' and explain briefly why it is "
+                        "out of scope. Do NOT set verdict to 'ACCEPT' for out-of-scope narratives; "
+                        "ACCEPT is reserved for genuine disputes where the cardholder's claim is "
+                        "valid. Only if the narrative is a genuine in-scope dispute should you "
+                        "proceed to independently determine CHALLENGE or ACCEPT based solely on the "
+                        "retrieved rule context, generating a strategy strictly bounded by the "
+                        "provided context text. Do NOT introduce external timelines, fee "
                         "structures, or industry protocols unless they are explicitly present in the "
                         "context text below."
                     )

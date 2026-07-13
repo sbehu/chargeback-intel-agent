@@ -46,7 +46,10 @@ def run_chargeback_orchestrator(narration, card_network):
     try:
         result = orchestrator.process_live_case(narration, card_network)
 
-        evidence_list = "\n".join(f"- {item}" for item in result["evidentiary_requirements"])
+        if result["evidentiary_requirements"]:
+            evidence_list = "\n".join(f"- {item}" for item in result["evidentiary_requirements"])
+        else:
+            evidence_list = "_Not applicable — no in-scope dispute evidence required._"
 
         formatted_output = (
             f"SYSTEM VERDICT: {result['verdict']}\n\n"
