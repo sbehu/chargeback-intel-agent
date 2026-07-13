@@ -1,7 +1,15 @@
 import streamlit as st
 import os
-import openai
+import sys
 from dotenv import load_dotenv
+
+# app.py lives in chargeback-ui/, but orchestrator.py lives at the repo root.
+# Streamlit adds the script's own directory to sys.path, not the repo root,
+# so without this, the import below fails once deployed (works locally only
+# if you happen to launch Streamlit from the repo root by chance).
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from orchestrator import ChargebackOrchestrator
 
 # Load fresh environment variables
 load_dotenv()
@@ -13,6 +21,16 @@ st.set_page_config(page_title="Chargeback Intel Platform", layout="wide")
 st.sidebar.title("🛡️ Chargeback Intel Platform")
 st.sidebar.markdown("---")
 
+
+@st.cache_resource
+def get_orchestrator():
+    """Initializes the pipeline once per server process (Pinecone connection,
+    FlashRank reranker load, etc. are expensive to redo on every request)."""
+    return ChargebackOrchestrator()
+
+
+orchestrator = get_orchestrator()
+
 # Initialize Session State Variables to prevent tab-switching data loss
 if "user_prompt" not in st.session_state:
     st.session_state.user_prompt = ""
@@ -21,35 +39,25 @@ if "network" not in st.session_state:
 if "agent_output" not in st.session_state:
     st.session_state.agent_output = None
 
-# Live backend orchestrator integration
+
 def run_chargeback_orchestrator(narration, card_network):
+    """Runs the narrative through the real pipeline: query expansion ->
+    hybrid Pinecone/BM25/FlashRank retrieval -> schema-constrained generation."""
     try:
-        client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-        
-        system_prompt = (
-            "You are a strict Chargeback and Fraud Intelligence Analyst Agent. Your ONLY job is to analyze "
-            f"transaction disputes, credit card chargebacks, and fraud narratives for a {card_network} transaction. "
-            "Cross-reference geographical risks, velocity rules, and compliance frameworks. Provide a clear "
-            "'SYSTEM VERDICT' (either ACCEPT, REVIEW, or DENY) followed by a detailed bulleted 'Resolution Narrative' outlining your reasoning.\n\n"
-            "CRITICAL GUARDRAIL:\n"
-            "If the user's input is entirely unrelated to a credit card dispute, merchant transaction, fraud claim, "
-            "or chargeback policy (such as general knowledge trivia, pop culture, math, or coding requests), you MUST "
-            "strictly override your typical evaluation and output exactly this format:\n"
-            "SYSTEM VERDICT: REJECTED\n"
-            "Error: The provided narration is out-of-scope. The platform only processes transaction dispute records."
+        result = orchestrator.process_live_case(narration, card_network)
+
+        evidence_list = "\n".join(f"- {item}" for item in result["evidentiary_requirements"])
+
+        formatted_output = (
+            f"SYSTEM VERDICT: {result['verdict']}\n\n"
+            f"**Cited Rule:** {result['cited_rule_id']}\n\n"
+            f"**Resolution Narrative:**\n{result['defense_rationale']}\n\n"
+            f"**Evidentiary Requirements:**\n{evidence_list}"
         )
-        
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": narration}
-            ],
-            temperature=0.2
-        )
-        return response.choices[0].message.content
+        return formatted_output
     except Exception as e:
         return f"⚠️ **Backend Execution Error:** {str(e)}"
+
 
 # ==============================================================================
 # AGENT PLAYGROUND
@@ -70,19 +78,20 @@ with col_input:
     )
     # Update state continuously
     st.session_state.user_prompt = user_prompt
-    
+
     network_options = ["Visa", "Mastercard", "American Express"]
     default_index = network_options.index(st.session_state.network)
     network = st.selectbox("Card Network association:", network_options, index=default_index)
     st.session_state.network = network
-    
+
     submit_btn = st.button("Run Intelligence Evaluation", type="primary")
-    
+
 with col_meta:
     st.info(
         "**Operational Note:**\n"
-        "Submitting this process runs the automated verification loops against compliance standards, "
-        "cross-references historical Pinecone embedding indices, and outputs a recommended resolution verdict."
+        "Submitting this process runs query expansion, hybrid Pinecone + BM25 retrieval, "
+        "FlashRank re-ranking against the network rulebook index, and schema-constrained "
+        "strategy generation, then returns a recommended resolution verdict."
     )
 
 if submit_btn:
@@ -94,35 +103,36 @@ if submit_btn:
         domain_keywords = ["charge", "dispute", "fraud", "merchant", "cardholder", "transaction", "billing", "delivery", "refund", "visa", "mastercard", "amex", "american express", "unauthorized", "stolen", "bought", "order", "price", "fee", "purchased", "item", "package"]
         user_input_lower = user_prompt.lower()
         is_valid_domain = any(keyword in user_input_lower for keyword in domain_keywords)
-        
+
         if not is_valid_domain:
             st.session_state.agent_output = (
                 "SYSTEM VERDICT: REJECTED\n"
                 "Error: The provided narration does not appear to contain relevant transaction dispute metadata or industry vernacular."
             )
         else:
-            with st.spinner("Agent orchestrating data channels and evaluation arrays..."):
+            with st.spinner("Agent orchestrating retrieval and evaluation pipeline..."):
                 st.session_state.agent_output = run_chargeback_orchestrator(user_prompt, network)
 
 # Render data out of cache persistently if it exists
 if st.session_state.agent_output:
     st.markdown("---")
     st.subheader("⚡ Automated System Resolution")
-    
+
     parsed_verdict = "REVIEW"
-    if "VERDICT: ACCEPT" in st.session_state.agent_output.upper() or "SYSTEM VERDICT: ACCEPT" in st.session_state.agent_output.upper():
+    output_upper = st.session_state.agent_output.upper()
+    if "VERDICT: ACCEPT" in output_upper:
         parsed_verdict = "ACCEPT"
-    elif "VERDICT: DENY" in st.session_state.agent_output.upper() or "SYSTEM VERDICT: DENY" in st.session_state.agent_output.upper():
+    elif "VERDICT: CHALLENGE" in output_upper or "VERDICT: DENY" in output_upper:
         parsed_verdict = "DENY"
-    elif "VERDICT: REJECTED" in st.session_state.agent_output.upper() or "SYSTEM VERDICT: REJECTED" in st.session_state.agent_output.upper():
+    elif "VERDICT: REJECTED" in output_upper:
         parsed_verdict = "REJECTED"
-    
+
     v_col, d_col = st.columns([1, 4])
     with v_col:
         if parsed_verdict == "ACCEPT":
-            st.metric(label="System Verdict", value="ACCEPT", delta="Auto-Approved", delta_color="normal")
+            st.metric(label="System Verdict", value="ACCEPT", delta="Dispute Accepted", delta_color="normal")
         elif parsed_verdict == "DENY":
-            st.metric(label="System Verdict", value="DENY", delta="Auto-Rejected", delta_color="inverse")
+            st.metric(label="System Verdict", value="CHALLENGE", delta="Merchant Defense Recommended", delta_color="inverse")
         elif parsed_verdict == "REJECTED":
             st.metric(label="System Verdict", value="REJECTED", delta="Out Of Domain Block", delta_color="inverse")
         else:
