@@ -46,10 +46,16 @@ def run_chargeback_orchestrator(narration, card_network):
         client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         
         system_prompt = (
-            "You are an expert Chargeback Orchestration Agent. Analyze the provided dispute details "
-            f"for a {card_network} transaction. Cross-reference geographical risks, velocity rules, "
-            "and compliance frameworks. Provide a clear 'SYSTEM VERDICT' (either ACCEPT, REVIEW, or DENY) "
-            "followed by a detailed bulleted 'Resolution Narrative' outlining your reasoning."
+            "You are a strict Chargeback and Fraud Intelligence Analyst Agent. Your ONLY job is to analyze "
+            f"transaction disputes, credit card chargebacks, and fraud narratives for a {card_network} transaction. "
+            "Cross-reference geographical risks, velocity rules, and compliance frameworks. Provide a clear "
+            "'SYSTEM VERDICT' (either ACCEPT, REVIEW, or DENY) followed by a detailed bulleted 'Resolution Narrative' outlining your reasoning.\n\n"
+            "CRITICAL GUARDRAIL:\n"
+            "If the user's input is entirely unrelated to a credit card dispute, merchant transaction, fraud claim, "
+            "or chargeback policy (such as general knowledge trivia, pop culture, math, or coding requests), you MUST "
+            "strictly override your typical evaluation and output exactly this format:\n"
+            "SYSTEM VERDICT: REJECTED\n"
+            "Error: The provided narration is out-of-scope. The platform only processes transaction dispute records."
         )
         
         response = client.chat.completions.create(
@@ -104,8 +110,19 @@ if app_mode == "🚀 Agent Playground (User Facing)":
             st.warning("Please enter transaction or dispute text details before running the evaluation.")
             st.session_state.agent_output = None
         else:
-            with st.spinner("Agent orchestrating data channels and evaluation arrays..."):
-                st.session_state.agent_output = run_chargeback_orchestrator(user_prompt, network)
+            # High-performance hard keyword filter to catch out-of-domain strings instantly before LLM costs hit
+            domain_keywords = ["charge", "dispute", "fraud", "merchant", "cardholder", "transaction", "billing", "delivery", "refund", "visa", "mastercard", "amex", "american express", "unauthorized", "stolen", "bought", "order", "price", "fee", "purchased", "item", "package"]
+            user_input_lower = user_prompt.lower()
+            is_valid_domain = any(keyword in user_input_lower for keyword in domain_keywords)
+            
+            if not is_valid_domain:
+                st.session_state.agent_output = (
+                    "SYSTEM VERDICT: REJECTED\n"
+                    "Error: The provided narration does not appear to contain relevant transaction dispute metadata or industry vernacular."
+                )
+            else:
+                with st.spinner("Agent orchestrating data channels and evaluation arrays..."):
+                    st.session_state.agent_output = run_chargeback_orchestrator(user_prompt, network)
 
     # Render data out of cache persistently if it exists
     if st.session_state.agent_output:
@@ -117,6 +134,8 @@ if app_mode == "🚀 Agent Playground (User Facing)":
             parsed_verdict = "ACCEPT"
         elif "VERDICT: DENY" in st.session_state.agent_output.upper() or "SYSTEM VERDICT: DENY" in st.session_state.agent_output.upper():
             parsed_verdict = "DENY"
+        elif "VERDICT: REJECTED" in st.session_state.agent_output.upper() or "SYSTEM VERDICT: REJECTED" in st.session_state.agent_output.upper():
+            parsed_verdict = "REJECTED"
         
         v_col, d_col = st.columns([1, 4])
         with v_col:
@@ -124,6 +143,8 @@ if app_mode == "🚀 Agent Playground (User Facing)":
                 st.metric(label="System Verdict", value="ACCEPT", delta="Auto-Approved", delta_color="normal")
             elif parsed_verdict == "DENY":
                 st.metric(label="System Verdict", value="DENY", delta="Auto-Rejected", delta_color="inverse")
+            elif parsed_verdict == "REJECTED":
+                st.metric(label="System Verdict", value="REJECTED", delta="Out Of Domain Block", delta_color="inverse")
             else:
                 st.metric(label="System Verdict", value="REVIEW", delta="Manual Escalation", delta_color="off")
         with d_col:
