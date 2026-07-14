@@ -74,9 +74,29 @@ The primary sweep runs all 400 test cases through `generate_agent_strategy`, whi
 
 **Interpretation:** answer relevance is strong — the system reliably targets the actual complaint. Context relevance and groundedness are lower, and the two are linked: in roughly a quarter of cases, retrieval doesn't surface the single tightest-matching rule clause, which gives the generation step less to anchor to and more room to extrapolate. This is the failure mode a compliance-grade RAG system genuinely needs to be evaluated against — surfacing it, rather than a clean scorecard, is the point of building the eval layer as a first-class part of the pipeline.
 
-### Blind sweep (in progress)
+### Blind sweep (completed — results need one more debugging pass before they're trustworthy)
 
-This sweep is strictly harder and more honest: it runs the same 400 cases through `process_live_case` / `generate_live_strategy`, which is **not** told the correct verdict — it has to determine CHALLENGE/ACCEPT/REJECTED independently, the same way the live UI handles a real customer narrative. It additionally scores **verdict accuracy** against the labeled ground truth, a metric the labeled sweep doesn't compute at all. Results pending — will be added here once complete, along with an audit of how many mismatches trace back to the label-generation heuristic described below versus genuine model error.
+```
+Total Cases Evaluated: 399 / 400
+Verdict Accuracy (model vs. labeled ground truth): 0.0000
+Cases REJECTED as out-of-scope: 16
+Context Relevance : 0.6877
+Groundedness      : 0.6989
+Answer Relevance  : 0.9424
+```
+
+**The 0.0000 verdict accuracy is almost certainly a bug, not a real finding — do not report this number as-is.** A literal zero across 399 cases is statistically implausible for a model that visibly favors CHALLENGE in manual testing; it's far more likely a string-comparison bug in `blind_eval_sweep.py` (the schema's `verdict` field is a plain `str`, not a strict enum, so exact-match comparison can silently fail on formatting differences). Needs a manual read of a few raw lines in `blind_audit_trail.jsonl` to confirm and fix before trusting this metric.
+
+**The context relevance / groundedness drop vs. the labeled sweep (0.74→0.69, 0.75→0.70) is a separate, real signal — but the comparison is confounded.** The labeled sweep was run before the header-aware chunking rewrite; the blind sweep ran after the Pinecone reseed. The drop could mean (a) blind inference is genuinely harder, (b) the new header-based chunks are more fragmented/shorter and losing surrounding context, or some mix of both. Re-running the labeled sweep against the current (reseeded) index would isolate the variable and answer this cleanly.
+
+## ⚠️ Known Issues / Revisit Before Interviews
+
+This project is paused as of the point described below — Project 3 is the current priority, but these are real, understood open threads worth fixing (or at least being able to explain fluently) before relying on this project's numbers in an interview:
+
+1. **`blind_eval_sweep.py` verdict-accuracy bug** — see above. Likely a 10-minute fix (add a strict `Literal["CHALLENGE","ACCEPT","REJECTED"]` type to the schema, or debug the exact string mismatch) once revisited.
+2. **Context relevance / groundedness dip after the chunking rewrite** — needs the labeled sweep re-run on the current index to properly isolate cause (see above).
+3. **Ground-truth label quality** — the keyword-heuristic label (see below) is the weakest link in both evaluations. Worth checking whether the source CFPB CSV has a "Company response to consumer" column, which would give a real-outcome-based label instead of a name-matching guess.
+4. **Live deployment is currently scaled to 0** (ECS desired count) to stop AWS billing — scale back to 1 before demoing live.
 
 **Work already completed based on findings from manual live testing:**
 - Fixed a network-mapping bug where American Express cases silently fell back to Mastercard's rule set.
@@ -146,3 +166,6 @@ Writes to a separate `blind_audit_trail.jsonl`, so it never overwrites the label
 - Retrieval precision (context relevance) improved with header-aware chunking but is not fully solved; Mastercard and Amex rulebooks produced far fewer chunks than Visa (16 and 12 vs. 374) — worth confirming whether this reflects genuinely shorter source documents or a heading-format mismatch with the current parser's regex.
 - Planned: auditing the label heuristic above, tighter metadata taxonomy, refined retrieval window sizing, stricter generation-side grounding constraints on numeric/date claims.
 
+## License
+
+[Add your preferred license here]
